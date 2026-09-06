@@ -89,6 +89,11 @@ def legacy_stackpage():
 def research_state():
     candidates=__import__("glob").glob(f"{HERE}/r*/results/state.json")
     path=max(candidates,key=os.path.getmtime) if candidates else f"{HERE}/r8/results/state.json"
+    primary=f"{HERE}/r8f/results/state.json"
+    if os.path.exists(primary):
+        try:
+            if json.load(open(primary)).get('status')=='running':path=primary
+        except Exception:pass
     if not os.path.exists(path): return JSONResponse(dict(status="preparing",message="Calendar audit complete; preparing isolated worker."))
     try:
         s=json.load(open(path))
@@ -97,6 +102,13 @@ def research_state():
             if os.path.exists(ep):
                 try: s[key]=json.load(open(ep))
                 except Exception: pass
+        s['background_experiments']=[]
+        for other in candidates:
+            if other==path:continue
+            try:
+                job=json.load(open(other))
+                if job.get('status')=='running':s['background_experiments'].append({k:job.get(k) for k in ['phase','completed','total']})
+            except Exception:pass
         groups={}
         for record in s.get('candidates',[]):
             if 'score' not in record or 'task_id' not in record: continue

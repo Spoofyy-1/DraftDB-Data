@@ -1,0 +1,400 @@
+{
+  "variants": [
+    {
+      "id": "icl32_top60_shrink100",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_",
+        "col_bpm_pct_",
+        "col_usg_pct_",
+        "col_ts_pct_",
+        "col_ast_pct_",
+        "col_stl_pct_",
+        "col_blk_pct_",
+        "col_orb_pct_",
+        "col_shot_proj_"
+      ],
+      "hw": "uniform",
+      "icl_n": 32,
+      "topk": 60,
+      "M": 100
+    },
+    {
+      "id": "icl32_top60_shrink400",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_",
+        "col_bpm_pct_",
+        "col_usg_pct_",
+        "col_ts_pct_",
+        "col_ast_pct_",
+        "col_stl_pct_",
+        "col_blk_pct_",
+        "col_orb_pct_",
+        "col_shot_proj_"
+      ],
+      "hw": "uniform",
+      "icl_n": 32,
+      "topk": 60,
+      "M": 400
+    },
+    {
+      "id": "icl32_top100_shrink100",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_",
+        "col_bpm_pct_",
+        "col_usg_pct_",
+        "col_ts_pct_",
+        "col_ast_pct_",
+        "col_stl_pct_",
+        "col_blk_pct_",
+        "col_orb_pct_",
+        "col_shot_proj_"
+      ],
+      "hw": "uniform",
+      "icl_n": 32,
+      "topk": 100,
+      "M": 100
+    },
+    {
+      "id": "icl32_top100_shrink400",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_",
+        "col_bpm_pct_",
+        "col_usg_pct_",
+        "col_ts_pct_",
+        "col_ast_pct_",
+        "col_stl_pct_",
+        "col_blk_pct_",
+        "col_orb_pct_",
+        "col_shot_proj_"
+      ],
+      "hw": "uniform",
+      "icl_n": 32,
+      "topk": 100,
+      "M": 400
+    },
+    {
+      "id": "icl32_top160_shrink100",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_",
+        "col_bpm_pct_",
+        "col_usg_pct_",
+        "col_ts_pct_",
+        "col_ast_pct_",
+        "col_stl_pct_",
+        "col_blk_pct_",
+        "col_orb_pct_",
+        "col_shot_proj_"
+      ],
+      "hw": "uniform",
+      "icl_n": 32,
+      "topk": 160,
+      "M": 100
+    },
+    {
+      "id": "icl32_top160_shrink400",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_",
+        "col_bpm_pct_",
+        "col_usg_pct_",
+        "col_ts_pct_",
+        "col_ast_pct_",
+        "col_stl_pct_",
+        "col_blk_pct_",
+        "col_orb_pct_",
+        "col_shot_proj_"
+      ],
+      "hw": "uniform",
+      "icl_n": 32,
+      "topk": 160,
+      "M": 400
+    },
+    {
+      "id": "icl128_top60_shrink100",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_",
+        "col_bpm_pct_",
+        "col_usg_pct_",
+        "col_ts_pct_",
+        "col_ast_pct_",
+        "col_stl_pct_",
+        "col_blk_pct_",
+        "col_orb_pct_",
+        "col_shot_proj_"
+      ],
+      "hw": "uniform",
+      "icl_n": 128,
+      "topk": 60,
+      "M": 100
+    },
+    {
+      "id": "icl128_top60_shrink400",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_",
+        "col_bpm_pct_",
+        "col_usg_pct_",
+        "col_ts_pct_",
+        "col_ast_pct_",
+        "col_stl_pct_",
+        "col_blk_pct_",
+        "col_orb_pct_",
+        "col_shot_proj_"
+      ],
+      "hw": "uniform",
+      "icl_n": 128,
+      "topk": 60,
+      "M": 400
+    },
+    {
+      "id": "icl128_top100_shrink100",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_",
+        "col_bpm_pct_",
+        "col_usg_pct_",
+        "col_ts_pct_",
+        "col_ast_pct_",
+        "col_stl_pct_",
+        "col_blk_pct_",
+        "col_orb_pct_",
+        "col_shot_proj_"
+      ],
+      "hw": "uniform",
+      "icl_n": 128,
+      "topk": 100,
+      "M": 100
+    },
+    {
+      "id": "icl128_top100_shrink400",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_",
+        "col_bpm_pct_",
+        "col_usg_pct_",
+        "col_ts_pct_",
+        "col_ast_pct_",
+        "col_stl_pct_",
+        "col_blk_pct_",
+        "col_orb_pct_",
+        "col_shot_proj_"
+      ],
+      "hw": "uniform",
+      "icl_n": 128,
+      "topk": 100,
+      "M": 400
+    },
+    {
+      "id": "icl128_top160_shrink100",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_",
+        "col_bpm_pct_",
+        "col_usg_pct_",
+        "col_ts_pct_",
+        "col_ast_pct_",
+        "col_stl_pct_",
+        "col_blk_pct_",
+        "col_orb_pct_",
+        "col_shot_proj_"
+      ],
+      "hw": "uniform",
+      "icl_n": 128,
+      "topk": 160,
+      "M": 100
+    },
+    {
+      "id": "icl128_top160_shrink400",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_",
+        "col_bpm_pct_",
+        "col_usg_pct_",
+        "col_ts_pct_",
+        "col_ast_pct_",
+        "col_stl_pct_",
+        "col_blk_pct_",
+        "col_orb_pct_",
+        "col_shot_proj_"
+      ],
+      "hw": "uniform",
+      "icl_n": 128,
+      "topk": 160,
+      "M": 400
+    },
+    {
+      "id": "icl256_top60_shrink100",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_",
+        "col_bpm_pct_",
+        "col_usg_pct_",
+        "col_ts_pct_",
+        "col_ast_pct_",
+        "col_stl_pct_",
+        "col_blk_pct_",
+        "col_orb_pct_",
+        "col_shot_proj_"
+      ],
+      "hw": "uniform",
+      "icl_n": 256,
+      "topk": 60,
+      "M": 100
+    },
+    {
+      "id": "icl256_top60_shrink400",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_",
+        "col_bpm_pct_",
+        "col_usg_pct_",
+        "col_ts_pct_",
+        "col_ast_pct_",
+        "col_stl_pct_",
+        "col_blk_pct_",
+        "col_orb_pct_",
+        "col_shot_proj_"
+      ],
+      "hw": "uniform",
+      "icl_n": 256,
+      "topk": 60,
+      "M": 400
+    },
+    {
+      "id": "icl256_top100_shrink100",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_",
+        "col_bpm_pct_",
+        "col_usg_pct_",
+        "col_ts_pct_",
+        "col_ast_pct_",
+        "col_stl_pct_",
+        "col_blk_pct_",
+        "col_orb_pct_",
+        "col_shot_proj_"
+      ],
+      "hw": "uniform",
+      "icl_n": 256,
+      "topk": 100,
+      "M": 100
+    },
+    {
+      "id": "icl256_top100_shrink400",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_",
+        "col_bpm_pct_",
+        "col_usg_pct_",
+        "col_ts_pct_",
+        "col_ast_pct_",
+        "col_stl_pct_",
+        "col_blk_pct_",
+        "col_orb_pct_",
+        "col_shot_proj_"
+      ],
+      "hw": "uniform",
+      "icl_n": 256,
+      "topk": 100,
+      "M": 400
+    },
+    {
+      "id": "icl256_top160_shrink100",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_",
+        "col_bpm_pct_",
+        "col_usg_pct_",
+        "col_ts_pct_",
+        "col_ast_pct_",
+        "col_stl_pct_",
+        "col_blk_pct_",
+        "col_orb_pct_",
+        "col_shot_proj_"
+      ],
+      "hw": "uniform",
+      "icl_n": 256,
+      "topk": 160,
+      "M": 100
+    },
+    {
+      "id": "icl256_top160_shrink400",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_",
+        "col_bpm_pct_",
+        "col_usg_pct_",
+        "col_ts_pct_",
+        "col_ast_pct_",
+        "col_stl_pct_",
+        "col_blk_pct_",
+        "col_orb_pct_",
+        "col_shot_proj_"
+      ],
+      "hw": "uniform",
+      "icl_n": 256,
+      "topk": 160,
+      "M": 400
+    }
+  ],
+  "folds": [
+    2012,
+    2013,
+    2014
+  ],
+  "seeds": [
+    0,
+    101,
+    202
+  ],
+  "purpose": "Use available GPU capacity for standalone TabICL ensemble stability, feature breadth and shrinkage tests. Motivated by pre-2019 member diagnostics, never by test scores.",
+  "no_confirmation_or_test_scoring": true,
+  "execution": {
+    "workers": 2,
+    "xgboost_selector": "cpu",
+    "predictor": "GPU TabICL only",
+    "batch_size": 32
+  }
+}
