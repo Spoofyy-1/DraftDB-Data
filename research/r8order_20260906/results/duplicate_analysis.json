@@ -1,0 +1,124 @@
+{
+  "status": "passed",
+  "no_new_model_predictions": true,
+  "no_outcome_scoring": true,
+  "reused_baseline_prediction_hash_exact_match": true,
+  "original_study_matrix_and_label_hashes_exact_match": true,
+  "query_rows": 55,
+  "distinct_input_vectors": 48,
+  "duplicate_groups": [
+    {
+      "zero_based_query_positions": [
+        3,
+        13,
+        28,
+        44,
+        45,
+        49,
+        51,
+        54
+      ],
+      "pids": [
+        "P43f8251240",
+        "P089ae8ca96",
+        "Pc0b16a51f2",
+        "P0dca4f55c4",
+        "P8e2f7481af",
+        "Pf3fb310df6",
+        "Pefaae49c8b",
+        "P404f9fdfb6"
+      ],
+      "size": 8,
+      "pairs": 28,
+      "all_features_missing": true,
+      "observed_features": {},
+      "baseline_prediction_min": -0.004236321430653334,
+      "baseline_prediction_max": -0.004236320964992046
+    }
+  ],
+  "minimum_distinct_vector_baseline_gap": 8.77082347869873e-05,
+  "all_observed_inversions_provably_within_exact_duplicate_vectors": true,
+  "cases": [
+    {
+      "case": "baseline",
+      "strict_pair_order_inversions": 0,
+      "max_abs_delta": 0.0,
+      "minimum_distinct_vector_baseline_gap": 8.77082347869873e-05,
+      "distinct_vector_inversions_excluded_by_margin_bound": true,
+      "reason": "Each changed score is within max_abs_delta of baseline; pairwise gaps can change by at most twice that bound."
+    },
+    {
+      "case": "repeat_identical_query",
+      "strict_pair_order_inversions": 0,
+      "max_abs_delta": 0.0,
+      "minimum_distinct_vector_baseline_gap": 8.77082347869873e-05,
+      "distinct_vector_inversions_excluded_by_margin_bound": true,
+      "reason": "Each changed score is within max_abs_delta of baseline; pairwise gaps can change by at most twice that bound."
+    },
+    {
+      "case": "reverse_query_rows",
+      "strict_pair_order_inversions": 2,
+      "max_abs_delta": 1.4901161193847656e-08,
+      "minimum_distinct_vector_baseline_gap": 8.77082347869873e-05,
+      "distinct_vector_inversions_excluded_by_margin_bound": true,
+      "reason": "Each changed score is within max_abs_delta of baseline; pairwise gaps can change by at most twice that bound."
+    },
+    {
+      "case": "random_query_order_7319",
+      "strict_pair_order_inversions": 2,
+      "max_abs_delta": 5.960464477539063e-08,
+      "minimum_distinct_vector_baseline_gap": 8.77082347869873e-05,
+      "distinct_vector_inversions_excluded_by_margin_bound": true,
+      "reason": "Each changed score is within max_abs_delta of baseline; pairwise gaps can change by at most twice that bound."
+    },
+    {
+      "case": "random_query_order_19847",
+      "strict_pair_order_inversions": 2,
+      "max_abs_delta": 1.4901161193847656e-08,
+      "minimum_distinct_vector_baseline_gap": 8.77082347869873e-05,
+      "distinct_vector_inversions_excluded_by_margin_bound": true,
+      "reason": "Each changed score is within max_abs_delta of baseline; pairwise gaps can change by at most twice that bound."
+    },
+    {
+      "case": "random_query_order_55201",
+      "strict_pair_order_inversions": 2,
+      "max_abs_delta": 5.960464477539063e-08,
+      "minimum_distinct_vector_baseline_gap": 8.77082347869873e-05,
+      "distinct_vector_inversions_excluded_by_margin_bound": true,
+      "reason": "Each changed score is within max_abs_delta of baseline; pairwise gaps can change by at most twice that bound."
+    },
+    {
+      "case": "same_values_changed_pandas_index",
+      "strict_pair_order_inversions": 0,
+      "max_abs_delta": 0.0,
+      "minimum_distinct_vector_baseline_gap": 8.77082347869873e-05,
+      "distinct_vector_inversions_excluded_by_margin_bound": true,
+      "reason": "Each changed score is within max_abs_delta of baseline; pairwise gaps can change by at most twice that bound."
+    },
+    {
+      "case": "append_unlabeled_historical_rows",
+      "strict_pair_order_inversions": 4,
+      "max_abs_delta": 1.4901161193847656e-07,
+      "minimum_distinct_vector_baseline_gap": 8.77082347869873e-05,
+      "distinct_vector_inversions_excluded_by_margin_bound": true,
+      "reason": "Each changed score is within max_abs_delta of baseline; pairwise gaps can change by at most twice that bound."
+    },
+    {
+      "case": "prepend_same_unlabeled_historical_rows",
+      "strict_pair_order_inversions": 4,
+      "max_abs_delta": 1.4901161193847656e-07,
+      "minimum_distinct_vector_baseline_gap": 8.77082347869873e-05,
+      "distinct_vector_inversions_excluded_by_margin_bound": true,
+      "reason": "Each changed score is within max_abs_delta of baseline; pairwise gaps can change by at most twice that bound."
+    },
+    {
+      "case": "shuffle_combined_query_pool",
+      "strict_pair_order_inversions": 1,
+      "max_abs_delta": 1.4901161193847656e-07,
+      "minimum_distinct_vector_baseline_gap": 8.77082347869873e-05,
+      "distinct_vector_inversions_excluded_by_margin_bound": true,
+      "reason": "Each changed score is within max_abs_delta of baseline; pairwise gaps can change by at most twice that bound."
+    }
+  ],
+  "code_sha256": "9f8ab5409515eede084429d47900327301888ab2403ff7ac3efbcdd4779cae65"
+}

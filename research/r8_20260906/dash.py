@@ -89,11 +89,14 @@ def legacy_stackpage():
 def research_state():
     candidates=__import__("glob").glob(f"{HERE}/r*/results/state.json")
     path=max(candidates,key=os.path.getmtime) if candidates else f"{HERE}/r8/results/state.json"
-    primary=f"{HERE}/r8f/results/state.json"
-    if os.path.exists(primary):
-        try:
-            if json.load(open(primary)).get('status')=='running':path=primary
-        except Exception:pass
+    for stage in ['r8i','r8f']:
+        primary=f"{HERE}/{stage}/results/state.json"
+        if os.path.exists(primary):
+            try:
+                if json.load(open(primary)).get('status')=='running':
+                    path=primary
+                    break
+            except Exception:pass
     if not os.path.exists(path): return JSONResponse(dict(status="preparing",message="Calendar audit complete; preparing isolated worker."))
     try:
         s=json.load(open(path))
@@ -112,14 +115,29 @@ def research_state():
         groups={}
         for record in s.get('candidates',[]):
             if 'score' not in record or 'task_id' not in record: continue
+            config=record.get('config',{}); arms=config.get('arms',[])
+            if config.get('arm')=='permuted' or 'permuted' in (arms.values() if isinstance(arms,dict) else arms):continue
+            if 'control_' in record.get('task_id',''):continue
             ident=record['task_id'].rsplit('_seed',1)[0]
             groups.setdefault(ident,[]).append(record)
         complete=[dict(id=k,score=sum(v['score'] for v in rows)/len(rows),seeds=len(rows)) for k,rows in groups.items() if len(rows)==3]
         if complete: s['best_configuration']=max(complete,key=lambda r:r['score'])
+        matched=s.get('matched_summary') or {}
+        for statistic in matched.get('statistics',[]):
+            paired=statistic.get('paired_rows',[])
+            if paired and 'real_score' not in statistic:
+                statistic['real_score']=sum(r['real'] for r in paired)/len(paired)
+                statistic['matched_control_score']=sum(r['mean_control'] for r in paired)/len(paired)
+        factorial=matched.get('factorial') or {}
+        contrasts=factorial.get('contrasts',[])
+        if contrasts:
+            for name,control,gain in [('consensus given combine','RP','consensus_given_combine'),('combine given consensus','PR','combine_given_consensus')]:
+                matched.setdefault('statistics',[]).append(dict(id=name,real_score=sum(r['RR'] for r in contrasts)/len(contrasts),matched_control_score=sum(r[control] for r in contrasts)/len(contrasts),paired_mean_gain=sum(r[gain] for r in contrasts)/len(contrasts),automatic_promotion=False))
+        s['research_notice']='Data audit: inherited weight/BMI can use current NBA measurements and combined train/test imputation. Earlier scores are uncertified diagnostics; affected inputs are being removed.'
         if not os.path.exists(f"{HERE}/r8e/results/state.json"):
             s['queued']={'name':'50 individual statistics, three seeds, then gated combinations','runs':153}
         def compact(value):
-            if isinstance(value,dict):return {k:compact(v) for k,v in value.items() if k!='predictions'}
+            if isinstance(value,dict):return {k:compact(v) for k,v in value.items() if k not in ['predictions','audit']}
             if isinstance(value,list):return [compact(v) for v in value]
             return value
         return JSONResponse(compact(s))
