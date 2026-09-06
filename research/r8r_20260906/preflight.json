@@ -1,0 +1,533 @@
+{
+  "status": "passed_without_model_execution",
+  "tasks": 603,
+  "active_features": 50,
+  "excluded_features": {},
+  "model_universe_rows": 1428,
+  "baseline_columns": 41,
+  "source_observations": 30402,
+  "cohort_permutation_reorder_checks": 900,
+  "paired_summary_fixture_passed": true,
+  "incomplete_results_prevent_combination_phase": true,
+  "runner_task_id_config_compatibility": true,
+  "tamper_rejections": [
+    "mask",
+    "base_training",
+    "base_validation",
+    "slot_values",
+    "cutoff",
+    "config",
+    "duplicate"
+  ],
+  "training_only_filter_thresholds_passed": true,
+  "fixed_order_selector_fixture_reference_replay": [
+    {
+      "season": 2012,
+      "columns": 41,
+      "reference_matrices_and_labels_match": true
+    },
+    {
+      "season": 2013,
+      "columns": 41,
+      "reference_matrices_and_labels_match": true
+    },
+    {
+      "season": 2014,
+      "columns": 41,
+      "reference_matrices_and_labels_match": true
+    }
+  ],
+  "legacy_transform_bypass_passed": true,
+  "cpu_top60_selector_executed": false,
+  "gpu_model_executed": false,
+  "code_sha256": {
+    "worker.py": "aa64d8d639728c5431c9382ce368f04e32fc1b78f1d963afa3be4bec470080c0",
+    "plan.json": "054542e41ac1b8ca57c46fc251b8c0f821a37c36ab42f14e2f3ca29be02cc851",
+    "prepare_data.py": "e6ea53b3c9e2256f1c4e37e8803592f2d2edb1c56eecc07f6138d93cf09ca055",
+    "preflight.py": "0abb0a486e204ff584a42e29dbda001da4ebd443b8818da9b0ea91ae70a03f26",
+    "legacy_kernel.py": "ddc58666da0d784a1b67f6b8ee4763599bdce14bb91768893e6fb87af4620ee1",
+    "README.md": "9a55681fb14191441906a99f53e370e1da7ae42a8eb055828939284734a6050d"
+  },
+  "folds": [
+    {
+      "season": 2012,
+      "training_rows": 251,
+      "validation_rows": 55,
+      "training_max_draft_year": 2010,
+      "max_label_season": 2011,
+      "features": {
+        "f50_peer_sd_usage": [
+          "f50_peer_sd_usage"
+        ],
+        "f50_peer_rank_usage": [
+          "f50_peer_rank_usage"
+        ],
+        "f50_peer_sd_ts": [
+          "f50_peer_sd_ts"
+        ],
+        "f50_peer_rank_ts": [
+          "f50_peer_rank_ts"
+        ],
+        "f50_peer_sd_ast": [
+          "f50_peer_sd_ast"
+        ],
+        "f50_peer_rank_ast": [
+          "f50_peer_rank_ast"
+        ],
+        "f50_peer_sd_tov": [
+          "f50_peer_sd_tov"
+        ],
+        "f50_peer_rank_tov": [
+          "f50_peer_rank_tov"
+        ],
+        "f50_peer_sd_orb": [
+          "f50_peer_sd_orb"
+        ],
+        "f50_peer_rank_orb": [
+          "f50_peer_rank_orb"
+        ],
+        "f50_peer_sd_drb": [
+          "f50_peer_sd_drb"
+        ],
+        "f50_peer_rank_drb": [
+          "f50_peer_rank_drb"
+        ],
+        "f50_peer_sd_stl": [
+          "f50_peer_sd_stl"
+        ],
+        "f50_peer_rank_stl": [
+          "f50_peer_rank_stl"
+        ],
+        "f50_peer_sd_blk": [
+          "f50_peer_sd_blk"
+        ],
+        "f50_peer_rank_blk": [
+          "f50_peer_rank_blk"
+        ],
+        "f50_team_share_fta": [
+          "f50_team_share_fta"
+        ],
+        "f50_team_share_three_a": [
+          "f50_team_share_three_a"
+        ],
+        "f50_team_share_rim_a": [
+          "f50_team_share_rim_a"
+        ],
+        "f50_team_share_dunk_a": [
+          "f50_team_share_dunk_a"
+        ],
+        "f50_team_share_ftm": [
+          "f50_team_share_ftm"
+        ],
+        "f50_team_share_three_m": [
+          "f50_team_share_three_m"
+        ],
+        "f50_peer_three_diet": [
+          "f50_peer_three_diet"
+        ],
+        "f50_peer_rim_diet": [
+          "f50_peer_rim_diet"
+        ],
+        "f50_peer_defense_density": [
+          "f50_peer_defense_density"
+        ],
+        "f50_peer_creation_density": [
+          "f50_peer_creation_density"
+        ],
+        "f50_minutes_concentration": [
+          "f50_minutes_concentration"
+        ],
+        "f50_usage_concentration": [
+          "f50_usage_concentration"
+        ],
+        "f50_career_slope_two_p": [
+          "f50_career_slope_two_p"
+        ],
+        "f50_career_slope_three_p": [
+          "f50_career_slope_three_p"
+        ],
+        "f50_career_slope_ftp": [
+          "f50_career_slope_ftp"
+        ],
+        "f50_career_slope_ftr": [
+          "f50_career_slope_ftr"
+        ],
+        "f50_career_slope_ast_tov": [
+          "f50_career_slope_ast_tov"
+        ],
+        "f50_career_slope_orb": [
+          "f50_career_slope_orb"
+        ],
+        "f50_career_slope_drb": [
+          "f50_career_slope_drb"
+        ],
+        "f50_career_slope_minutes": [
+          "f50_career_slope_minutes"
+        ],
+        "f50_career_slope_ts": [
+          "f50_career_slope_ts"
+        ],
+        "f50_career_slope_usage": [
+          "f50_career_slope_usage"
+        ],
+        "f50_posterior_ft": [
+          "f50_posterior_ft"
+        ],
+        "f50_posterior_three": [
+          "f50_posterior_three"
+        ],
+        "f50_posterior_rim": [
+          "f50_posterior_rim"
+        ],
+        "f50_posterior_mid": [
+          "f50_posterior_mid"
+        ],
+        "f50_posterior_dunk": [
+          "f50_posterior_dunk"
+        ],
+        "f50_posterior_two": [
+          "f50_posterior_two"
+        ],
+        "f50_nondunk_rim_pct": [
+          "f50_nondunk_rim_pct"
+        ],
+        "f50_rim_ft_pressure": [
+          "f50_rim_ft_pressure"
+        ],
+        "f50_perimeter_ft_agreement": [
+          "f50_perimeter_ft_agreement"
+        ],
+        "f50_assist_usage_efficiency": [
+          "f50_assist_usage_efficiency"
+        ],
+        "f50_balanced_stocks": [
+          "f50_balanced_stocks"
+        ],
+        "f50_foul_adjusted_rebounds": [
+          "f50_foul_adjusted_rebounds"
+        ],
+        "baseline": []
+      }
+    },
+    {
+      "season": 2013,
+      "training_rows": 329,
+      "validation_rows": 50,
+      "training_max_draft_year": 2011,
+      "max_label_season": 2012,
+      "features": {
+        "f50_peer_sd_usage": [
+          "f50_peer_sd_usage"
+        ],
+        "f50_peer_rank_usage": [
+          "f50_peer_rank_usage"
+        ],
+        "f50_peer_sd_ts": [
+          "f50_peer_sd_ts"
+        ],
+        "f50_peer_rank_ts": [
+          "f50_peer_rank_ts"
+        ],
+        "f50_peer_sd_ast": [
+          "f50_peer_sd_ast"
+        ],
+        "f50_peer_rank_ast": [
+          "f50_peer_rank_ast"
+        ],
+        "f50_peer_sd_tov": [
+          "f50_peer_sd_tov"
+        ],
+        "f50_peer_rank_tov": [
+          "f50_peer_rank_tov"
+        ],
+        "f50_peer_sd_orb": [
+          "f50_peer_sd_orb"
+        ],
+        "f50_peer_rank_orb": [
+          "f50_peer_rank_orb"
+        ],
+        "f50_peer_sd_drb": [
+          "f50_peer_sd_drb"
+        ],
+        "f50_peer_rank_drb": [
+          "f50_peer_rank_drb"
+        ],
+        "f50_peer_sd_stl": [
+          "f50_peer_sd_stl"
+        ],
+        "f50_peer_rank_stl": [
+          "f50_peer_rank_stl"
+        ],
+        "f50_peer_sd_blk": [
+          "f50_peer_sd_blk"
+        ],
+        "f50_peer_rank_blk": [
+          "f50_peer_rank_blk"
+        ],
+        "f50_team_share_fta": [
+          "f50_team_share_fta"
+        ],
+        "f50_team_share_three_a": [
+          "f50_team_share_three_a"
+        ],
+        "f50_team_share_rim_a": [
+          "f50_team_share_rim_a"
+        ],
+        "f50_team_share_dunk_a": [
+          "f50_team_share_dunk_a"
+        ],
+        "f50_team_share_ftm": [
+          "f50_team_share_ftm"
+        ],
+        "f50_team_share_three_m": [
+          "f50_team_share_three_m"
+        ],
+        "f50_peer_three_diet": [
+          "f50_peer_three_diet"
+        ],
+        "f50_peer_rim_diet": [
+          "f50_peer_rim_diet"
+        ],
+        "f50_peer_defense_density": [
+          "f50_peer_defense_density"
+        ],
+        "f50_peer_creation_density": [
+          "f50_peer_creation_density"
+        ],
+        "f50_minutes_concentration": [
+          "f50_minutes_concentration"
+        ],
+        "f50_usage_concentration": [
+          "f50_usage_concentration"
+        ],
+        "f50_career_slope_two_p": [
+          "f50_career_slope_two_p"
+        ],
+        "f50_career_slope_three_p": [
+          "f50_career_slope_three_p"
+        ],
+        "f50_career_slope_ftp": [
+          "f50_career_slope_ftp"
+        ],
+        "f50_career_slope_ftr": [
+          "f50_career_slope_ftr"
+        ],
+        "f50_career_slope_ast_tov": [
+          "f50_career_slope_ast_tov"
+        ],
+        "f50_career_slope_orb": [
+          "f50_career_slope_orb"
+        ],
+        "f50_career_slope_drb": [
+          "f50_career_slope_drb"
+        ],
+        "f50_career_slope_minutes": [
+          "f50_career_slope_minutes"
+        ],
+        "f50_career_slope_ts": [
+          "f50_career_slope_ts"
+        ],
+        "f50_career_slope_usage": [
+          "f50_career_slope_usage"
+        ],
+        "f50_posterior_ft": [
+          "f50_posterior_ft"
+        ],
+        "f50_posterior_three": [
+          "f50_posterior_three"
+        ],
+        "f50_posterior_rim": [
+          "f50_posterior_rim"
+        ],
+        "f50_posterior_mid": [
+          "f50_posterior_mid"
+        ],
+        "f50_posterior_dunk": [
+          "f50_posterior_dunk"
+        ],
+        "f50_posterior_two": [
+          "f50_posterior_two"
+        ],
+        "f50_nondunk_rim_pct": [
+          "f50_nondunk_rim_pct"
+        ],
+        "f50_rim_ft_pressure": [
+          "f50_rim_ft_pressure"
+        ],
+        "f50_perimeter_ft_agreement": [
+          "f50_perimeter_ft_agreement"
+        ],
+        "f50_assist_usage_efficiency": [
+          "f50_assist_usage_efficiency"
+        ],
+        "f50_balanced_stocks": [
+          "f50_balanced_stocks"
+        ],
+        "f50_foul_adjusted_rebounds": [
+          "f50_foul_adjusted_rebounds"
+        ],
+        "baseline": []
+      }
+    },
+    {
+      "season": 2014,
+      "training_rows": 403,
+      "validation_rows": 53,
+      "training_max_draft_year": 2012,
+      "max_label_season": 2013,
+      "features": {
+        "f50_peer_sd_usage": [
+          "f50_peer_sd_usage"
+        ],
+        "f50_peer_rank_usage": [
+          "f50_peer_rank_usage"
+        ],
+        "f50_peer_sd_ts": [
+          "f50_peer_sd_ts"
+        ],
+        "f50_peer_rank_ts": [
+          "f50_peer_rank_ts"
+        ],
+        "f50_peer_sd_ast": [
+          "f50_peer_sd_ast"
+        ],
+        "f50_peer_rank_ast": [
+          "f50_peer_rank_ast"
+        ],
+        "f50_peer_sd_tov": [
+          "f50_peer_sd_tov"
+        ],
+        "f50_peer_rank_tov": [
+          "f50_peer_rank_tov"
+        ],
+        "f50_peer_sd_orb": [
+          "f50_peer_sd_orb"
+        ],
+        "f50_peer_rank_orb": [
+          "f50_peer_rank_orb"
+        ],
+        "f50_peer_sd_drb": [
+          "f50_peer_sd_drb"
+        ],
+        "f50_peer_rank_drb": [
+          "f50_peer_rank_drb"
+        ],
+        "f50_peer_sd_stl": [
+          "f50_peer_sd_stl"
+        ],
+        "f50_peer_rank_stl": [
+          "f50_peer_rank_stl"
+        ],
+        "f50_peer_sd_blk": [
+          "f50_peer_sd_blk"
+        ],
+        "f50_peer_rank_blk": [
+          "f50_peer_rank_blk"
+        ],
+        "f50_team_share_fta": [
+          "f50_team_share_fta"
+        ],
+        "f50_team_share_three_a": [
+          "f50_team_share_three_a"
+        ],
+        "f50_team_share_rim_a": [
+          "f50_team_share_rim_a"
+        ],
+        "f50_team_share_dunk_a": [
+          "f50_team_share_dunk_a"
+        ],
+        "f50_team_share_ftm": [
+          "f50_team_share_ftm"
+        ],
+        "f50_team_share_three_m": [
+          "f50_team_share_three_m"
+        ],
+        "f50_peer_three_diet": [
+          "f50_peer_three_diet"
+        ],
+        "f50_peer_rim_diet": [
+          "f50_peer_rim_diet"
+        ],
+        "f50_peer_defense_density": [
+          "f50_peer_defense_density"
+        ],
+        "f50_peer_creation_density": [
+          "f50_peer_creation_density"
+        ],
+        "f50_minutes_concentration": [
+          "f50_minutes_concentration"
+        ],
+        "f50_usage_concentration": [
+          "f50_usage_concentration"
+        ],
+        "f50_career_slope_two_p": [
+          "f50_career_slope_two_p"
+        ],
+        "f50_career_slope_three_p": [
+          "f50_career_slope_three_p"
+        ],
+        "f50_career_slope_ftp": [
+          "f50_career_slope_ftp"
+        ],
+        "f50_career_slope_ftr": [
+          "f50_career_slope_ftr"
+        ],
+        "f50_career_slope_ast_tov": [
+          "f50_career_slope_ast_tov"
+        ],
+        "f50_career_slope_orb": [
+          "f50_career_slope_orb"
+        ],
+        "f50_career_slope_drb": [
+          "f50_career_slope_drb"
+        ],
+        "f50_career_slope_minutes": [
+          "f50_career_slope_minutes"
+        ],
+        "f50_career_slope_ts": [
+          "f50_career_slope_ts"
+        ],
+        "f50_career_slope_usage": [
+          "f50_career_slope_usage"
+        ],
+        "f50_posterior_ft": [
+          "f50_posterior_ft"
+        ],
+        "f50_posterior_three": [
+          "f50_posterior_three"
+        ],
+        "f50_posterior_rim": [
+          "f50_posterior_rim"
+        ],
+        "f50_posterior_mid": [
+          "f50_posterior_mid"
+        ],
+        "f50_posterior_dunk": [
+          "f50_posterior_dunk"
+        ],
+        "f50_posterior_two": [
+          "f50_posterior_two"
+        ],
+        "f50_nondunk_rim_pct": [
+          "f50_nondunk_rim_pct"
+        ],
+        "f50_rim_ft_pressure": [
+          "f50_rim_ft_pressure"
+        ],
+        "f50_perimeter_ft_agreement": [
+          "f50_perimeter_ft_agreement"
+        ],
+        "f50_assist_usage_efficiency": [
+          "f50_assist_usage_efficiency"
+        ],
+        "f50_balanced_stocks": [
+          "f50_balanced_stocks"
+        ],
+        "f50_foul_adjusted_rebounds": [
+          "f50_foul_adjusted_rebounds"
+        ],
+        "baseline": []
+      }
+    }
+  ]
+}

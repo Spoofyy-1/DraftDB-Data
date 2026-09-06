@@ -1,0 +1,68 @@
+{
+  "status": "ready_for_parent_cpu_replay_and_launch",
+  "registered_tasks": 603,
+  "no_gpu_jobs_launched": true,
+  "no_heldout_inputs_or_outcomes_read_by_preparation": true,
+  "files": {
+    "worker.py": {
+      "sha256": "aa64d8d639728c5431c9382ce368f04e32fc1b78f1d963afa3be4bec470080c0",
+      "bytes": 23292
+    },
+    "prepare_data.py": {
+      "sha256": "e6ea53b3c9e2256f1c4e37e8803592f2d2edb1c56eecc07f6138d93cf09ca055",
+      "bytes": 9914
+    },
+    "plan.json": {
+      "sha256": "054542e41ac1b8ca57c46fc251b8c0f821a37c36ab42f14e2f3ca29be02cc851",
+      "bytes": 92036
+    },
+    "preflight.py": {
+      "sha256": "0abb0a486e204ff584a42e29dbda001da4ebd443b8818da9b0ea91ae70a03f26",
+      "bytes": 11296
+    },
+    "preflight.json": {
+      "sha256": "7e21dbf075b22f4f9650d1e23001a29de0c8c8a8869203e1beea5d690d45b92c",
+      "bytes": 13790
+    },
+    "legacy_kernel.py": {
+      "sha256": "ddc58666da0d784a1b67f6b8ee4763599bdce14bb91768893e6fb87af4620ee1",
+      "bytes": 25099
+    },
+    "README.md": {
+      "sha256": "9a55681fb14191441906a99f53e370e1da7ae42a8eb055828939284734a6050d",
+      "bytes": 5937
+    },
+    "data/features.csv": {
+      "sha256": "1c20a30b28498526713cf8a3d41259f5568cb96a696d2b0acedc351889810ec4",
+      "bytes": 252749
+    },
+    "data/incumbent.json": {
+      "sha256": "72cbd7d44457490ac04d3f6d255eddef0ba6c7897da61a924028afb807bfd3d2",
+      "bytes": 1543
+    },
+    "data/labels.csv": {
+      "sha256": "4afac2eced455cf7fc1f946c9d66fa4ac6fdd8d2febd909e5f71e4aed7a69d89",
+      "bytes": 150489
+    },
+    "data/manifest.json": {
+      "sha256": "36fba40053f8945c9dda270218a6ff0606b9e1aa3316ecf9815e02008b9780ac",
+      "bytes": 16690
+    },
+    "data/source_dictionary.json": {
+      "sha256": "17caa1f53fa1411e8e88bb1c014d25355548f082ebcae7b4cdffbfc320264b68",
+      "bytes": 14072
+    },
+    "data/source_features.csv": {
+      "sha256": "20518e2a80638f4278d5cfe4bc7aa0df78106e009d861adbb348a5a934bad7c0",
+      "bytes": 599588
+    },
+    "data/source_metadata.json": {
+      "sha256": "b31c096b14750bf335744099a4f220ce472a53db37e7bc2410926a7f47a7a08e",
+      "bytes": 1990
+    },
+    "data/source_provenance.json": {
+      "sha256": "b8a974e3171566a11ed0753a4114a9bf0b88ce0ca22bafda83caa969e3b5c636",
+      "bytes": 163370
+    }
+  }
+}
