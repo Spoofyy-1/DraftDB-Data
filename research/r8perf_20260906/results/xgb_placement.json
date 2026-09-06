@@ -1,0 +1,22 @@
+[
+  {
+    "device": "cuda",
+    "seconds": 9.558063264004886,
+    "prediction_rank_correlation": 1.0
+  },
+  {
+    "device": "cpu",
+    "seconds": 0.6674520610249601,
+    "prediction_rank_correlation": 0.9867965367965371
+  },
+  {
+    "device": "cuda",
+    "seconds": 7.868018981011119,
+    "prediction_rank_correlation": 1.0
+  },
+  {
+    "device": "cpu",
+    "seconds": 0.7286465329816565,
+    "prediction_rank_correlation": 0.9867965367965371
+  }
+]

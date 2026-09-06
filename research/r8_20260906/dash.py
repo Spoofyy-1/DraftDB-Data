@@ -106,5 +106,9 @@ def research_state():
         if complete: s['best_configuration']=max(complete,key=lambda r:r['score'])
         if not os.path.exists(f"{HERE}/r8e/results/state.json"):
             s['queued']={'name':'50 individual statistics, three seeds, then gated combinations','runs':153}
-        return JSONResponse(s)
+        def compact(value):
+            if isinstance(value,dict):return {k:compact(v) for k,v in value.items() if k!='predictions'}
+            if isinstance(value,list):return [compact(v) for v in value]
+            return value
+        return JSONResponse(compact(s))
     except Exception: return JSONResponse(dict(status="updating",message="Reading the latest research state."))
