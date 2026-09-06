@@ -1,0 +1,23 @@
+{
+  "reviewed_utc": "2026-09-06T14:41:27.704912+00:00",
+  "files_reviewed": [
+    "worker.py",
+    "prepare_data.py",
+    "plan.json",
+    "base/worker.py shuffle/design functions"
+  ],
+  "verdict": "No blocker in pair design; runtime freeze and CPU preflight pending owner verification",
+  "checks": [
+    "18 exact W baseline/single replays before interpretation",
+    "45 unchanged background columns and two fixed pair slots",
+    "single controls within role/cohort/own mask; PP joint-vector shuffle within joint mask",
+    "RR-PR and RR-RP directions correct",
+    "actual draft order only evaluated as reference comparator, excluded from predictor design",
+    "pre2019 source and prior NBA season cutoffs unchanged"
+  ],
+  "conditions": [
+    "Freeze worker, plan, reference and scheduler before GPU execution",
+    "Run existing required CPU/tamper preflight",
+    "Keep raw outputs and audit unchanged; compact dashboard representation only"
+  ]
+}

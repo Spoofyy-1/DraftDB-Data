@@ -1,0 +1,57 @@
+{
+  "passed": true,
+  "models_fitted": 0,
+  "folds": [
+    {
+      "year": 2012,
+      "base_input_label_id_column_audits_exact": true,
+      "reference_designs": 6,
+      "pair_RR_and_PP_designs": 20,
+      "training_rows": 251,
+      "query_rows": 55
+    },
+    {
+      "year": 2013,
+      "base_input_label_id_column_audits_exact": true,
+      "reference_designs": 6,
+      "pair_RR_and_PP_designs": 20,
+      "training_rows": 329,
+      "query_rows": 50
+    },
+    {
+      "year": 2014,
+      "base_input_label_id_column_audits_exact": true,
+      "reference_designs": 6,
+      "pair_RR_and_PP_designs": 20,
+      "training_rows": 403,
+      "query_rows": 53
+    }
+  ],
+  "constructors": [
+    {
+      "device": "cuda",
+      "n_estimators": 32,
+      "random_state": 0,
+      "batch_size": 32,
+      "norm_methods": "none",
+      "outlier_threshold": 2.0
+    },
+    {
+      "device": "cuda",
+      "n_estimators": 32,
+      "random_state": 101,
+      "batch_size": 32,
+      "norm_methods": "none",
+      "outlier_threshold": 2.0
+    },
+    {
+      "device": "cuda",
+      "n_estimators": 32,
+      "random_state": 202,
+      "batch_size": 32,
+      "norm_methods": "none",
+      "outlier_threshold": 2.0
+    }
+  ],
+  "frozen_manifest_sha256": "7c7ef93682163cba57646c3d32ce6acd56989c58b1fabfdccc4759eeeafdf6d0"
+}
