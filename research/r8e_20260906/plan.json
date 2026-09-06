@@ -702,5 +702,48 @@
     "tabicl_batch_size": 32,
     "full_prediction_cache": "within one member_preds call, keyed by label bytes; features/config fixed within call",
     "benchmark": "Warm historical prediction batch8=1.2886s batch32=0.7917s; prediction Spearman=1, max float difference3.76e-5; measured under concurrent load"
-  }
+  },
+  "prespecified_complementary_pairs": [
+    [
+      "f50_peer_sd_usage",
+      "f50_peer_rank_usage"
+    ],
+    [
+      "f50_peer_sd_ts",
+      "f50_peer_rank_ts"
+    ],
+    [
+      "f50_career_slope_usage",
+      "f50_career_slope_ts"
+    ],
+    [
+      "f50_posterior_three",
+      "f50_posterior_ft"
+    ],
+    [
+      "f50_team_share_three_a",
+      "f50_posterior_three"
+    ],
+    [
+      "f50_team_share_rim_a",
+      "f50_nondunk_rim_pct"
+    ],
+    [
+      "f50_peer_creation_density",
+      "f50_assist_usage_efficiency"
+    ],
+    [
+      "f50_minutes_concentration",
+      "f50_career_slope_minutes"
+    ],
+    [
+      "f50_peer_defense_density",
+      "f50_balanced_stocks"
+    ],
+    [
+      "f50_rim_ft_pressure",
+      "f50_posterior_ft"
+    ]
+  ],
+  "complementarity_rationale": "Test ten interpretable joint hypotheses even if neither feature wins alone: relative-role uncertainty, efficiency under rising usage, shooting volume/reliability, rim finishing without dunks, teammate creation, opportunity, and defensive balance. No test scores or single-feature results used to specify these pairs."
 }

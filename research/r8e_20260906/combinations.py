@@ -28,6 +28,8 @@ def main():
     (OUT/'single_feature_summary.json').write_text(json.dumps(dict(baseline=base,statistics=stats,winners=winners,interpretation='Development screens, not confirmed winners or test gains'),indent=2))
     combos=list(itertools.combinations(winners,2))
     if len(winners)>2:combos.append(tuple(winners))
+    combos += [tuple(pair) for pair in plan.get('prespecified_complementary_pairs',[])]
+    combos=list(dict.fromkeys(tuple(sorted(c)) for c in combos))
     combo_plan=OUT/'combination_plan.json'
     registration=dict(created=time.time(),winners=winners,combinations=[list(c) for c in combos],seeds=seeds,selection_rule=gate)
     if combo_plan.exists():
