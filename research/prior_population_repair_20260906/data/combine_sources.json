@@ -1,0 +1,38 @@
+[
+  {
+    "filename": "combine_2012.json",
+    "sha256": "01a37f911e642c8b82f4db6c9c4566d2ade4be37647b0e77df85044ee08d6781",
+    "source_year": 2012,
+    "parameters": {
+      "LeagueID": "00",
+      "SeasonYear": "2012-13"
+    },
+    "all_row_seasons_verified": true,
+    "rows": 61,
+    "source_url": "https://stats.gleague.nba.com/stats/draftcombinestats?LeagueID=00&SeasonYear=2012-13"
+  },
+  {
+    "filename": "combine_2013.json",
+    "sha256": "ca4ea61236b53503c194e831f972ffc72960fa7249ea8cb814d866582450d3ba",
+    "source_year": 2013,
+    "parameters": {
+      "LeagueID": "00",
+      "SeasonYear": "2013-14"
+    },
+    "all_row_seasons_verified": true,
+    "rows": 63,
+    "source_url": "https://stats.gleague.nba.com/stats/draftcombinestats?LeagueID=00&SeasonYear=2013-14"
+  },
+  {
+    "filename": "combine_2014.json",
+    "sha256": "6a3191029b592cf20f95892a423720903f2871855de799ffdb5a5c3344075da3",
+    "source_year": 2014,
+    "parameters": {
+      "LeagueID": "00",
+      "SeasonYear": "2014-15"
+    },
+    "all_row_seasons_verified": true,
+    "rows": 56,
+    "source_url": "https://stats.gleague.nba.com/stats/draftcombinestats?LeagueID=00&SeasonYear=2014-15"
+  }
+]

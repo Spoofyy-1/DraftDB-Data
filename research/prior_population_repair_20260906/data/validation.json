@@ -1,0 +1,26 @@
+{
+  "tests_passed": 9,
+  "tests_failed": 0,
+  "test_command": "PYTHONDONTWRITEBYTECODE=1 python3 work/prior_population_repair/test_inventory.py",
+  "all8_memberships_preserved": true,
+  "all8_official_combine_IDs_verified": true,
+  "all_combine_request_and_row_seasons_checked": true,
+  "future_outcome_seasons_allowed": false,
+  "current_or_future_test_answers_opened": false,
+  "quarantined_label_candidates": 5,
+  "approved_model_labels": 0,
+  "zero_labels_inferred": 0,
+  "build_sha256": "629e704eaab44e782c2e95a6ce2119412204042dd74932e3e767761d6cd39dc1",
+  "test_sha256": "602aced4262fef7a116d00d1287d7bf3bdec275920bef6b6da463c8865470374",
+  "actual_draft_position_values_inspected_or_used": false,
+  "combined_assembly_checks": {
+    "row_order_invariance": true,
+    "missing_member_rejected": true,
+    "target_column_rejected": true,
+    "missing_cells_preserved_no_imputation": true,
+    "rows": 8,
+    "candidate_columns": 185
+  },
+  "feature_package_tests_passed": 8,
+  "assembly_sha256": "87bc0b41ea76c68a53167656131abe8ce636fc57452abd419afe4fbe3eb1969f"
+}

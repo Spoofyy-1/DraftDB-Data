@@ -1,0 +1,86 @@
+[
+  {
+    "candidate_id": "prior_2012_55b683c6030c1b517504",
+    "draft_year": 2012,
+    "source_file": "torvik_2012.csv.gz",
+    "source_sha256": "f75d8bc4bc0a9d9a44d1a61c3420b94c8790961143c7145a8c8e58adc8fa3cb8",
+    "source_row_zero_based": 169,
+    "source_season": 2012,
+    "source_year_gap": 0,
+    "match": "Unique exact normalized reviewed name in latest permitted season",
+    "original_release_vintage_verified": false,
+    "limitation": "Retrospectively retrieved historical-season facts; source season is valid but original publication vintage is unavailable"
+  },
+  {
+    "candidate_id": "prior_2013_6bcdbd04e54854f493a7",
+    "draft_year": 2013,
+    "source_file": "torvik_2012.csv.gz",
+    "source_sha256": "f75d8bc4bc0a9d9a44d1a61c3420b94c8790961143c7145a8c8e58adc8fa3cb8",
+    "source_row_zero_based": 690,
+    "source_season": 2012,
+    "source_year_gap": 1,
+    "match": "Unique exact normalized reviewed name in latest permitted season",
+    "original_release_vintage_verified": false,
+    "limitation": "Retrospectively retrieved historical-season facts; source season is valid but original publication vintage is unavailable"
+  },
+  {
+    "candidate_id": "prior_2013_8d4b7eef1d8eb3408548",
+    "draft_year": 2013,
+    "source_file": "torvik_2013.csv.gz",
+    "source_sha256": "f13a7e619c35ac25ac5063b6d9c43214c47daafebba0c5b5741267ff20f33b8a",
+    "source_row_zero_based": 1164,
+    "source_season": 2013,
+    "source_year_gap": 0,
+    "match": "Unique exact normalized reviewed name in latest permitted season",
+    "original_release_vintage_verified": false,
+    "limitation": "Retrospectively retrieved historical-season facts; source season is valid but original publication vintage is unavailable"
+  },
+  {
+    "candidate_id": "prior_2013_f7b8346f1c94cb4b3e93",
+    "draft_year": 2013,
+    "source_file": "torvik_2013.csv.gz",
+    "source_sha256": "f13a7e619c35ac25ac5063b6d9c43214c47daafebba0c5b5741267ff20f33b8a",
+    "source_row_zero_based": 4082,
+    "source_season": 2013,
+    "source_year_gap": 0,
+    "match": "Unique exact normalized reviewed name in latest permitted season",
+    "original_release_vintage_verified": false,
+    "limitation": "Retrospectively retrieved historical-season facts; source season is valid but original publication vintage is unavailable"
+  },
+  {
+    "candidate_id": "prior_2014_a8505b9bcef90a9f6893",
+    "draft_year": 2014,
+    "source_file": "torvik_2014.csv.gz",
+    "source_sha256": "375433f02c42538589b551ce89ba3762c3cdf835205274c1fb8981bc064679f0",
+    "source_row_zero_based": 662,
+    "source_season": 2014,
+    "source_year_gap": 0,
+    "match": "Unique exact normalized reviewed name in latest permitted season",
+    "original_release_vintage_verified": false,
+    "limitation": "Retrospectively retrieved historical-season facts; source season is valid but original publication vintage is unavailable"
+  },
+  {
+    "candidate_id": "prior_2014_e3c4cbe104ccf32796a8",
+    "draft_year": 2014,
+    "source_file": "torvik_2014.csv.gz",
+    "source_sha256": "375433f02c42538589b551ce89ba3762c3cdf835205274c1fb8981bc064679f0",
+    "source_row_zero_based": 1779,
+    "source_season": 2014,
+    "source_year_gap": 0,
+    "match": "Unique exact normalized reviewed name in latest permitted season",
+    "original_release_vintage_verified": false,
+    "limitation": "Retrospectively retrieved historical-season facts; source season is valid but original publication vintage is unavailable"
+  },
+  {
+    "candidate_id": "prior_2014_f52603a5b83b5c19f2ae",
+    "draft_year": 2014,
+    "source_file": "torvik_2014.csv.gz",
+    "source_sha256": "375433f02c42538589b551ce89ba3762c3cdf835205274c1fb8981bc064679f0",
+    "source_row_zero_based": 1111,
+    "source_season": 2014,
+    "source_year_gap": 0,
+    "match": "Unique exact normalized reviewed name in latest permitted season",
+    "original_release_vintage_verified": false,
+    "limitation": "Retrospectively retrieved historical-season facts; source season is valid but original publication vintage is unavailable"
+  }
+]

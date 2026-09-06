@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "created_at_utc": "2026-09-06T13:12:03.094108+00:00",
+  "years": [
+    2012,
+    2013,
+    2014
+  ],
+  "pilot_members": 8,
+  "task": "dated feature and censored-label join inventory, not a training run",
+  "source_files": [
+    {
+      "filename": "reviewed_crosswalk.csv",
+      "sha256": "0027597bc3512eefaf2640ace1e091d6a486a1ab65f32bbebea03d89a331574c"
+    },
+    {
+      "filename": "historical_RAPTOR_by_player.csv",
+      "sha256": "9c90010404c2b557524b6ab7172e2b41a08cf57e929f2753a6c7e9ac7c520ac8"
+    },
+    {
+      "filename": "train.csv",
+      "sha256": "14b7083f72b3f1fdd6096f068113e8ca175d618c3660396d21ad6489f1e09b12"
+    },
+    {
+      "filename": "build.py",
+      "sha256": "59824cb7266e1aa391a8329ba82b2d05fa1165c982b7e6e9b4fbd19f98e90bb3"
+    }
+  ],
+  "model_feature_columns": [
+    "candidate_id",
+    "draft_year",
+    "vcmb_height_without_shoes_in",
+    "vcmb_height_with_shoes_in",
+    "vcmb_weight_lb",
+    "vcmb_wingspan_in",
+    "vcmb_standing_reach_in",
+    "vcmb_body_fat_pct",
+    "vcmb_hand_length_in",
+    "vcmb_hand_width_in",
+    "vcmb_standing_vertical_in",
+    "vcmb_max_vertical_in",
+    "vcmb_lane_agility_s",
+    "vcmb_modified_lane_agility_s",
+    "vcmb_three_quarter_sprint_s",
+    "vcmb_bench_press_reps",
+    "vcmb_bmi_kg_m2",
+    "vcmb_wingspan_minus_height_in",
+    "vcmb_spot_15ft_made",
+    "vcmb_spot_15ft_attempted",
+    "vcmb_spot_15ft_pct",
+    "vcmb_spot_college3_made",
+    "vcmb_spot_college3_attempted",
+    "vcmb_spot_college3_pct",
+    "vcmb_spot_nba3_made",
+    "vcmb_spot_nba3_attempted",
+    "vcmb_spot_nba3_pct",
+    "vcmb_off_dribble_15ft_made",
+    "vcmb_off_dribble_15ft_attempted",
+    "vcmb_off_dribble_15ft_pct",
+    "vcmb_off_dribble_college3_made",
+    "vcmb_off_dribble_college3_attempted",
+    "vcmb_off_dribble_college3_pct",
+    "vcmb_on_move_15ft_made",
+    "vcmb_on_move_15ft_attempted",
+    "vcmb_on_move_15ft_pct",
+    "vcmb_on_move_college3_made",
+    "vcmb_on_move_college3_attempted",
+    "vcmb_on_move_college3_pct"
+  ],
+  "approved_label_rows": 0,
+  "candidate_label_rows_quarantined": 5,
+  "outcome_access_policy": "Only pilot members; select actual source seasons <=2018 before numeric WAR parsing; compare only corresponding existing ordinal cells",
+  "membership_cutoff_basis": "Illustrative inventory uses December31 of the previous year; source membership availability date is independently checked against it",
+  "no_current_or_future_cohort_answers_opened": true,
+  "actual_draft_position_values_inspected_or_used": false,
+  "private_identity_and_label_metadata_excluded_from_public": true,
+  "no_automatic_model_promotion": true,
+  "limitations": [
+    "Two label-calendar candidates require an explicit cross-system NBA-ID to RAPTOR/Basketball-Reference-ID bridge.",
+    "Agreement with existing WAR is a consistency check, not independent identity evidence.",
+    "Six missing source records are unresolved; neither nonparticipation nor zero WAR is inferred.",
+    "Combine historical season attribution is verified, but archived publication timestamps are unavailable.",
+    "Feature and label joins never change the eight-member source-defined population.",
+    "The complete 180-player registry and original test pools are unchanged."
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "pilot_members": 8,
+  "combine_rows_verified": 8,
+  "combine_candidate_features": 37,
+  "combine_feature_values_observed": 177,
+  "candidate_calendar_players": 2,
+  "candidate_season_WAR_records": 5,
+  "candidate_records_agreeing_with_existing_ordinal_WAR": 5,
+  "missing_eligible_label_records": 6,
+  "explicit_cross_system_source_ID_bridges_pending": 2,
+  "labels_approved_for_model": 0,
+  "zero_labels_inferred_from_absence": 0,
+  "max_outcome_season_end": 2018,
+  "features_or_labels_mutated_in_existing_packages": false,
+  "model_fits": 0,
+  "benchmark_scores": 0,
+  "network_requests": 0,
+  "membership_preserved_independent_of_availability": true,
+  "model_ready": false,
+  "combined_candidate_predictors": 185,
+  "combined_observed_cells": 652,
+  "feature_family_coverage": {
+    "official_combine": 8,
+    "college_context": 7,
+    "mock_ranks": 6,
+    "mock_profile": 6,
+    "synergy": 5,
+    "report_lexicon": 5
+  },
+  "feature_package_tests_passed": 8,
+  "combined_feature_assembly_checks_passed": 4
+}
