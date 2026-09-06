@@ -1,0 +1,38 @@
+{
+  "status": "completed_verified",
+  "unit": "draftdb-r8u-20260906",
+  "invocation_id": "ca0743b6986f4cdaac245a0c1005d97b",
+  "tasks": 123,
+  "errors": 0,
+  "elapsed_seconds": 109.4,
+  "trials_per_minute": 67.46,
+  "active_unit_limits_observed": {
+    "RuntimeMaxUSec": "2h",
+    "CPUQuotaPerSecUSec": "22s",
+    "MemoryMax": 150323855360
+  },
+  "frozen_files_unchanged": 13,
+  "matched_summary_recomputed_exact": true,
+  "baseline_prediction_replays": [
+    {
+      "seed": 0,
+      "score_exact": true,
+      "raw_and_canonical_predictions_exact": true
+    },
+    {
+      "seed": 101,
+      "score_exact": true,
+      "raw_and_canonical_predictions_exact": true
+    },
+    {
+      "seed": 202,
+      "score_exact": true,
+      "raw_and_canonical_predictions_exact": true
+    }
+  ],
+  "r8t_worker_unchanged": true,
+  "metric": "Mean pre2019 fold Spearman rank correlation, often displayed multiplied by100; not classification accuracy.",
+  "heldout_test_scored": false,
+  "confirmation_scored": false,
+  "automatic_promotion": false
+}

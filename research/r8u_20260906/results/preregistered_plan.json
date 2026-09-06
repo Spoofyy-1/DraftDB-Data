@@ -1,0 +1,854 @@
+{
+  "plan": {
+    "backbone": {
+      "icl_n": 32,
+      "topk": 60,
+      "M": 400,
+      "window": 2007,
+      "hw": "uniform",
+      "noscout": 1,
+      "drop": [
+        "scout_",
+        "col_bpm_pct_",
+        "col_usg_pct_",
+        "col_ts_pct_",
+        "col_ast_pct_",
+        "col_stl_pct_",
+        "col_blk_pct_",
+        "col_orb_pct_",
+        "col_shot_proj_"
+      ]
+    },
+    "folds": [
+      2012,
+      2013,
+      2014
+    ],
+    "seeds": [
+      0,
+      101,
+      202
+    ],
+    "permutation_seeds": [
+      9317,
+      18739,
+      28657
+    ],
+    "source_filter": {
+      "min_training_observed": 5,
+      "min_training_unique": 2,
+      "validation_coverage_used": false
+    },
+    "calendar_policy": "For predicted year Y, training only earlier cohorts and actual NBA season_end <=Y-1. Development scoring labels <=2018. No2019-2026 answers available.",
+    "confirmation_note": "Any later literal as-of outer-year confirmation must select inside its own season cutoff; selection using development truths through2018 cannot be called known at a2015-2017 decision date.",
+    "baseline_source_variant": {
+      "id": "dated_raw_college_source_control",
+      "input_source": "context",
+      "context_features": [
+        "ctx_base_gp",
+        "ctx_base_minutes_share",
+        "ctx_base_usage",
+        "ctx_base_efg",
+        "ctx_base_ts",
+        "ctx_base_orb",
+        "ctx_base_drb",
+        "ctx_base_ast_pct",
+        "ctx_base_tov_pct",
+        "ctx_base_ftm",
+        "ctx_base_fta",
+        "ctx_base_ft_pct",
+        "ctx_base_fg2m",
+        "ctx_base_fg2a",
+        "ctx_base_fg2_pct",
+        "ctx_base_fg3m",
+        "ctx_base_fg3a",
+        "ctx_base_fg3_pct",
+        "ctx_base_blk_pct",
+        "ctx_base_stl_pct",
+        "ctx_base_ftr",
+        "ctx_base_fouls40",
+        "ctx_base_ast_tov",
+        "ctx_base_rim_made",
+        "ctx_base_rim_attempts",
+        "ctx_base_mid_made",
+        "ctx_base_mid_attempts",
+        "ctx_base_dunk_made",
+        "ctx_base_dunk_attempts",
+        "ctx_base_mpg",
+        "ctx_base_oreb_pg",
+        "ctx_base_dreb_pg",
+        "ctx_base_ast_pg",
+        "ctx_base_stl_pg",
+        "ctx_base_blk_pg",
+        "ctx_base_pts_pg",
+        "ctx_base_three_share",
+        "ctx_skill_defense_discipline",
+        "ctx_skill_creation_control",
+        "ctx_skill_usage_efficiency",
+        "ctx_skill_ft_volume"
+      ]
+    },
+    "study": "R8u individual dated biography screen",
+    "diagnostic_only": true,
+    "purpose": "Identify useful or harmful individual biography fields on the fixed canonical source-college plus real-consensus background.",
+    "no_confirmation_or_test_scoring": true,
+    "backgrounds": {
+      "college_consensus": [
+        "consensus"
+      ]
+    },
+    "variants": [
+      {
+        "id": "baseline",
+        "background": "college_consensus",
+        "bio_arm": "absent",
+        "feature": null,
+        "arms": {
+          "consensus": "real"
+        },
+        "permutation_seed": null
+      },
+      {
+        "id": "vmb_age_reported_years_real",
+        "background": "college_consensus",
+        "bio_arm": "real",
+        "feature": "vmb_age_reported_years",
+        "arms": {
+          "consensus": "real",
+          "bio": "real"
+        },
+        "permutation_seed": null
+      },
+      {
+        "id": "vmb_age_reported_years_shuffle9317",
+        "background": "college_consensus",
+        "bio_arm": "permuted",
+        "feature": "vmb_age_reported_years",
+        "arms": {
+          "consensus": "real",
+          "bio": "permuted"
+        },
+        "permutation_seed": 9317
+      },
+      {
+        "id": "vmb_age_reported_years_shuffle18739",
+        "background": "college_consensus",
+        "bio_arm": "permuted",
+        "feature": "vmb_age_reported_years",
+        "arms": {
+          "consensus": "real",
+          "bio": "permuted"
+        },
+        "permutation_seed": 18739
+      },
+      {
+        "id": "vmb_age_reported_years_shuffle28657",
+        "background": "college_consensus",
+        "bio_arm": "permuted",
+        "feature": "vmb_age_reported_years",
+        "arms": {
+          "consensus": "real",
+          "bio": "permuted"
+        },
+        "permutation_seed": 28657
+      },
+      {
+        "id": "vmb_listed_height_in_real",
+        "background": "college_consensus",
+        "bio_arm": "real",
+        "feature": "vmb_listed_height_in",
+        "arms": {
+          "consensus": "real",
+          "bio": "real"
+        },
+        "permutation_seed": null
+      },
+      {
+        "id": "vmb_listed_height_in_shuffle9317",
+        "background": "college_consensus",
+        "bio_arm": "permuted",
+        "feature": "vmb_listed_height_in",
+        "arms": {
+          "consensus": "real",
+          "bio": "permuted"
+        },
+        "permutation_seed": 9317
+      },
+      {
+        "id": "vmb_listed_height_in_shuffle18739",
+        "background": "college_consensus",
+        "bio_arm": "permuted",
+        "feature": "vmb_listed_height_in",
+        "arms": {
+          "consensus": "real",
+          "bio": "permuted"
+        },
+        "permutation_seed": 18739
+      },
+      {
+        "id": "vmb_listed_height_in_shuffle28657",
+        "background": "college_consensus",
+        "bio_arm": "permuted",
+        "feature": "vmb_listed_height_in",
+        "arms": {
+          "consensus": "real",
+          "bio": "permuted"
+        },
+        "permutation_seed": 28657
+      },
+      {
+        "id": "vmb_listed_weight_lb_real",
+        "background": "college_consensus",
+        "bio_arm": "real",
+        "feature": "vmb_listed_weight_lb",
+        "arms": {
+          "consensus": "real",
+          "bio": "real"
+        },
+        "permutation_seed": null
+      },
+      {
+        "id": "vmb_listed_weight_lb_shuffle9317",
+        "background": "college_consensus",
+        "bio_arm": "permuted",
+        "feature": "vmb_listed_weight_lb",
+        "arms": {
+          "consensus": "real",
+          "bio": "permuted"
+        },
+        "permutation_seed": 9317
+      },
+      {
+        "id": "vmb_listed_weight_lb_shuffle18739",
+        "background": "college_consensus",
+        "bio_arm": "permuted",
+        "feature": "vmb_listed_weight_lb",
+        "arms": {
+          "consensus": "real",
+          "bio": "permuted"
+        },
+        "permutation_seed": 18739
+      },
+      {
+        "id": "vmb_listed_weight_lb_shuffle28657",
+        "background": "college_consensus",
+        "bio_arm": "permuted",
+        "feature": "vmb_listed_weight_lb",
+        "arms": {
+          "consensus": "real",
+          "bio": "permuted"
+        },
+        "permutation_seed": 28657
+      },
+      {
+        "id": "vmb_listed_bmi_real",
+        "background": "college_consensus",
+        "bio_arm": "real",
+        "feature": "vmb_listed_bmi",
+        "arms": {
+          "consensus": "real",
+          "bio": "real"
+        },
+        "permutation_seed": null
+      },
+      {
+        "id": "vmb_listed_bmi_shuffle9317",
+        "background": "college_consensus",
+        "bio_arm": "permuted",
+        "feature": "vmb_listed_bmi",
+        "arms": {
+          "consensus": "real",
+          "bio": "permuted"
+        },
+        "permutation_seed": 9317
+      },
+      {
+        "id": "vmb_listed_bmi_shuffle18739",
+        "background": "college_consensus",
+        "bio_arm": "permuted",
+        "feature": "vmb_listed_bmi",
+        "arms": {
+          "consensus": "real",
+          "bio": "permuted"
+        },
+        "permutation_seed": 18739
+      },
+      {
+        "id": "vmb_listed_bmi_shuffle28657",
+        "background": "college_consensus",
+        "bio_arm": "permuted",
+        "feature": "vmb_listed_bmi",
+        "arms": {
+          "consensus": "real",
+          "bio": "permuted"
+        },
+        "permutation_seed": 28657
+      },
+      {
+        "id": "vmb_college_class_year_real",
+        "background": "college_consensus",
+        "bio_arm": "real",
+        "feature": "vmb_college_class_year",
+        "arms": {
+          "consensus": "real",
+          "bio": "real"
+        },
+        "permutation_seed": null
+      },
+      {
+        "id": "vmb_college_class_year_shuffle9317",
+        "background": "college_consensus",
+        "bio_arm": "permuted",
+        "feature": "vmb_college_class_year",
+        "arms": {
+          "consensus": "real",
+          "bio": "permuted"
+        },
+        "permutation_seed": 9317
+      },
+      {
+        "id": "vmb_college_class_year_shuffle18739",
+        "background": "college_consensus",
+        "bio_arm": "permuted",
+        "feature": "vmb_college_class_year",
+        "arms": {
+          "consensus": "real",
+          "bio": "permuted"
+        },
+        "permutation_seed": 18739
+      },
+      {
+        "id": "vmb_college_class_year_shuffle28657",
+        "background": "college_consensus",
+        "bio_arm": "permuted",
+        "feature": "vmb_college_class_year",
+        "arms": {
+          "consensus": "real",
+          "bio": "permuted"
+        },
+        "permutation_seed": 28657
+      },
+      {
+        "id": "vmb_position_pg_real",
+        "background": "college_consensus",
+        "bio_arm": "real",
+        "feature": "vmb_position_pg",
+        "arms": {
+          "consensus": "real",
+          "bio": "real"
+        },
+        "permutation_seed": null
+      },
+      {
+        "id": "vmb_position_pg_shuffle9317",
+        "background": "college_consensus",
+        "bio_arm": "permuted",
+        "feature": "vmb_position_pg",
+        "arms": {
+          "consensus": "real",
+          "bio": "permuted"
+        },
+        "permutation_seed": 9317
+      },
+      {
+        "id": "vmb_position_pg_shuffle18739",
+        "background": "college_consensus",
+        "bio_arm": "permuted",
+        "feature": "vmb_position_pg",
+        "arms": {
+          "consensus": "real",
+          "bio": "permuted"
+        },
+        "permutation_seed": 18739
+      },
+      {
+        "id": "vmb_position_pg_shuffle28657",
+        "background": "college_consensus",
+        "bio_arm": "permuted",
+        "feature": "vmb_position_pg",
+        "arms": {
+          "consensus": "real",
+          "bio": "permuted"
+        },
+        "permutation_seed": 28657
+      },
+      {
+        "id": "vmb_position_sg_real",
+        "background": "college_consensus",
+        "bio_arm": "real",
+        "feature": "vmb_position_sg",
+        "arms": {
+          "consensus": "real",
+          "bio": "real"
+        },
+        "permutation_seed": null
+      },
+      {
+        "id": "vmb_position_sg_shuffle9317",
+        "background": "college_consensus",
+        "bio_arm": "permuted",
+        "feature": "vmb_position_sg",
+        "arms": {
+          "consensus": "real",
+          "bio": "permuted"
+        },
+        "permutation_seed": 9317
+      },
+      {
+        "id": "vmb_position_sg_shuffle18739",
+        "background": "college_consensus",
+        "bio_arm": "permuted",
+        "feature": "vmb_position_sg",
+        "arms": {
+          "consensus": "real",
+          "bio": "permuted"
+        },
+        "permutation_seed": 18739
+      },
+      {
+        "id": "vmb_position_sg_shuffle28657",
+        "background": "college_consensus",
+        "bio_arm": "permuted",
+        "feature": "vmb_position_sg",
+        "arms": {
+          "consensus": "real",
+          "bio": "permuted"
+        },
+        "permutation_seed": 28657
+      },
+      {
+        "id": "vmb_position_sf_real",
+        "background": "college_consensus",
+        "bio_arm": "real",
+        "feature": "vmb_position_sf",
+        "arms": {
+          "consensus": "real",
+          "bio": "real"
+        },
+        "permutation_seed": null
+      },
+      {
+        "id": "vmb_position_sf_shuffle9317",
+        "background": "college_consensus",
+        "bio_arm": "permuted",
+        "feature": "vmb_position_sf",
+        "arms": {
+          "consensus": "real",
+          "bio": "permuted"
+        },
+        "permutation_seed": 9317
+      },
+      {
+        "id": "vmb_position_sf_shuffle18739",
+        "background": "college_consensus",
+        "bio_arm": "permuted",
+        "feature": "vmb_position_sf",
+        "arms": {
+          "consensus": "real",
+          "bio": "permuted"
+        },
+        "permutation_seed": 18739
+      },
+      {
+        "id": "vmb_position_sf_shuffle28657",
+        "background": "college_consensus",
+        "bio_arm": "permuted",
+        "feature": "vmb_position_sf",
+        "arms": {
+          "consensus": "real",
+          "bio": "permuted"
+        },
+        "permutation_seed": 28657
+      },
+      {
+        "id": "vmb_position_pf_real",
+        "background": "college_consensus",
+        "bio_arm": "real",
+        "feature": "vmb_position_pf",
+        "arms": {
+          "consensus": "real",
+          "bio": "real"
+        },
+        "permutation_seed": null
+      },
+      {
+        "id": "vmb_position_pf_shuffle9317",
+        "background": "college_consensus",
+        "bio_arm": "permuted",
+        "feature": "vmb_position_pf",
+        "arms": {
+          "consensus": "real",
+          "bio": "permuted"
+        },
+        "permutation_seed": 9317
+      },
+      {
+        "id": "vmb_position_pf_shuffle18739",
+        "background": "college_consensus",
+        "bio_arm": "permuted",
+        "feature": "vmb_position_pf",
+        "arms": {
+          "consensus": "real",
+          "bio": "permuted"
+        },
+        "permutation_seed": 18739
+      },
+      {
+        "id": "vmb_position_pf_shuffle28657",
+        "background": "college_consensus",
+        "bio_arm": "permuted",
+        "feature": "vmb_position_pf",
+        "arms": {
+          "consensus": "real",
+          "bio": "permuted"
+        },
+        "permutation_seed": 28657
+      },
+      {
+        "id": "vmb_position_c_real",
+        "background": "college_consensus",
+        "bio_arm": "real",
+        "feature": "vmb_position_c",
+        "arms": {
+          "consensus": "real",
+          "bio": "real"
+        },
+        "permutation_seed": null
+      },
+      {
+        "id": "vmb_position_c_shuffle9317",
+        "background": "college_consensus",
+        "bio_arm": "permuted",
+        "feature": "vmb_position_c",
+        "arms": {
+          "consensus": "real",
+          "bio": "permuted"
+        },
+        "permutation_seed": 9317
+      },
+      {
+        "id": "vmb_position_c_shuffle18739",
+        "background": "college_consensus",
+        "bio_arm": "permuted",
+        "feature": "vmb_position_c",
+        "arms": {
+          "consensus": "real",
+          "bio": "permuted"
+        },
+        "permutation_seed": 18739
+      },
+      {
+        "id": "vmb_position_c_shuffle28657",
+        "background": "college_consensus",
+        "bio_arm": "permuted",
+        "feature": "vmb_position_c",
+        "arms": {
+          "consensus": "real",
+          "bio": "permuted"
+        },
+        "permutation_seed": 28657
+      }
+    ],
+    "families": {
+      "combine": [
+        "vcmb_height_without_shoes_in",
+        "vcmb_height_with_shoes_in",
+        "vcmb_weight_lb",
+        "vcmb_wingspan_in",
+        "vcmb_standing_reach_in",
+        "vcmb_body_fat_pct",
+        "vcmb_hand_length_in",
+        "vcmb_hand_width_in",
+        "vcmb_bmi_kg_m2",
+        "vcmb_wingspan_minus_height_in",
+        "vcmb_standing_vertical_in",
+        "vcmb_max_vertical_in",
+        "vcmb_lane_agility_s",
+        "vcmb_modified_lane_agility_s",
+        "vcmb_three_quarter_sprint_s",
+        "vcmb_bench_press_reps",
+        "vcmb_spot_15ft_made",
+        "vcmb_spot_15ft_attempted",
+        "vcmb_spot_15ft_pct",
+        "vcmb_spot_college3_made",
+        "vcmb_spot_college3_attempted",
+        "vcmb_spot_college3_pct",
+        "vcmb_spot_nba3_made",
+        "vcmb_spot_nba3_attempted",
+        "vcmb_spot_nba3_pct",
+        "vcmb_off_dribble_15ft_made",
+        "vcmb_off_dribble_15ft_attempted",
+        "vcmb_off_dribble_15ft_pct",
+        "vcmb_off_dribble_college3_made",
+        "vcmb_off_dribble_college3_attempted",
+        "vcmb_off_dribble_college3_pct",
+        "vcmb_on_move_15ft_made",
+        "vcmb_on_move_15ft_attempted",
+        "vcmb_on_move_15ft_pct",
+        "vcmb_on_move_college3_made",
+        "vcmb_on_move_college3_attempted",
+        "vcmb_on_move_college3_pct"
+      ],
+      "consensus": [
+        "vcons_mock_mean_rank",
+        "vcons_mock_best_rank",
+        "vcons_mock_rank_range",
+        "vcons_mock_n_sources"
+      ],
+      "bio": [
+        "vmb_age_reported_years",
+        "vmb_listed_height_in",
+        "vmb_listed_weight_lb",
+        "vmb_listed_bmi",
+        "vmb_college_class_year",
+        "vmb_position_pg",
+        "vmb_position_sg",
+        "vmb_position_sf",
+        "vmb_position_pf",
+        "vmb_position_c"
+      ]
+    },
+    "baseline": "baseline",
+    "training_eligibility_registration": {
+      "2012": {
+        "combine": [
+          "vcmb_height_without_shoes_in",
+          "vcmb_height_with_shoes_in",
+          "vcmb_weight_lb",
+          "vcmb_wingspan_in",
+          "vcmb_standing_reach_in",
+          "vcmb_body_fat_pct",
+          "vcmb_hand_length_in",
+          "vcmb_hand_width_in",
+          "vcmb_bmi_kg_m2",
+          "vcmb_wingspan_minus_height_in",
+          "vcmb_standing_vertical_in",
+          "vcmb_max_vertical_in",
+          "vcmb_lane_agility_s",
+          "vcmb_three_quarter_sprint_s",
+          "vcmb_bench_press_reps"
+        ],
+        "consensus": [
+          "vcons_mock_mean_rank",
+          "vcons_mock_best_rank",
+          "vcons_mock_rank_range",
+          "vcons_mock_n_sources"
+        ],
+        "bio": [
+          "vmb_age_reported_years",
+          "vmb_listed_height_in",
+          "vmb_listed_weight_lb",
+          "vmb_listed_bmi",
+          "vmb_college_class_year",
+          "vmb_position_pg",
+          "vmb_position_sg",
+          "vmb_position_sf",
+          "vmb_position_pf",
+          "vmb_position_c"
+        ]
+      },
+      "2013": {
+        "combine": [
+          "vcmb_height_without_shoes_in",
+          "vcmb_height_with_shoes_in",
+          "vcmb_weight_lb",
+          "vcmb_wingspan_in",
+          "vcmb_standing_reach_in",
+          "vcmb_body_fat_pct",
+          "vcmb_hand_length_in",
+          "vcmb_hand_width_in",
+          "vcmb_bmi_kg_m2",
+          "vcmb_wingspan_minus_height_in",
+          "vcmb_standing_vertical_in",
+          "vcmb_max_vertical_in",
+          "vcmb_lane_agility_s",
+          "vcmb_three_quarter_sprint_s",
+          "vcmb_bench_press_reps"
+        ],
+        "consensus": [
+          "vcons_mock_mean_rank",
+          "vcons_mock_best_rank",
+          "vcons_mock_rank_range",
+          "vcons_mock_n_sources"
+        ],
+        "bio": [
+          "vmb_age_reported_years",
+          "vmb_listed_height_in",
+          "vmb_listed_weight_lb",
+          "vmb_listed_bmi",
+          "vmb_college_class_year",
+          "vmb_position_pg",
+          "vmb_position_sg",
+          "vmb_position_sf",
+          "vmb_position_pf",
+          "vmb_position_c"
+        ]
+      },
+      "2014": {
+        "combine": [
+          "vcmb_height_without_shoes_in",
+          "vcmb_height_with_shoes_in",
+          "vcmb_weight_lb",
+          "vcmb_wingspan_in",
+          "vcmb_standing_reach_in",
+          "vcmb_body_fat_pct",
+          "vcmb_hand_length_in",
+          "vcmb_hand_width_in",
+          "vcmb_bmi_kg_m2",
+          "vcmb_wingspan_minus_height_in",
+          "vcmb_standing_vertical_in",
+          "vcmb_max_vertical_in",
+          "vcmb_lane_agility_s",
+          "vcmb_three_quarter_sprint_s",
+          "vcmb_bench_press_reps"
+        ],
+        "consensus": [
+          "vcons_mock_mean_rank",
+          "vcons_mock_best_rank",
+          "vcons_mock_rank_range",
+          "vcons_mock_n_sources"
+        ],
+        "bio": [
+          "vmb_age_reported_years",
+          "vmb_listed_height_in",
+          "vmb_listed_weight_lb",
+          "vmb_listed_bmi",
+          "vmb_college_class_year",
+          "vmb_position_pg",
+          "vmb_position_sg",
+          "vmb_position_sf",
+          "vmb_position_pf",
+          "vmb_position_c"
+        ]
+      }
+    },
+    "model_constructor": {
+      "device": "cuda",
+      "n_estimators": 32,
+      "random_state": "task_seed",
+      "batch_size": 32,
+      "norm_methods": "none",
+      "outlier_threshold": 2.0
+    },
+    "slot_mapping": {
+      "vcmb_height_without_shoes_in": "slot_000",
+      "vcmb_height_with_shoes_in": "slot_001",
+      "vcmb_weight_lb": "slot_002",
+      "vcmb_wingspan_in": "slot_003",
+      "vcmb_standing_reach_in": "slot_004",
+      "vcmb_body_fat_pct": "slot_005",
+      "vcmb_hand_length_in": "slot_006",
+      "vcmb_hand_width_in": "slot_007",
+      "vcmb_bmi_kg_m2": "slot_008",
+      "vcmb_wingspan_minus_height_in": "slot_009",
+      "vcmb_standing_vertical_in": "slot_010",
+      "vcmb_max_vertical_in": "slot_011",
+      "vcmb_lane_agility_s": "slot_012",
+      "vcmb_modified_lane_agility_s": "slot_013",
+      "vcmb_three_quarter_sprint_s": "slot_014",
+      "vcmb_bench_press_reps": "slot_015",
+      "vcmb_spot_15ft_made": "slot_016",
+      "vcmb_spot_15ft_attempted": "slot_017",
+      "vcmb_spot_15ft_pct": "slot_018",
+      "vcmb_spot_college3_made": "slot_019",
+      "vcmb_spot_college3_attempted": "slot_020",
+      "vcmb_spot_college3_pct": "slot_021",
+      "vcmb_spot_nba3_made": "slot_022",
+      "vcmb_spot_nba3_attempted": "slot_023",
+      "vcmb_spot_nba3_pct": "slot_024",
+      "vcmb_off_dribble_15ft_made": "slot_025",
+      "vcmb_off_dribble_15ft_attempted": "slot_026",
+      "vcmb_off_dribble_15ft_pct": "slot_027",
+      "vcmb_off_dribble_college3_made": "slot_028",
+      "vcmb_off_dribble_college3_attempted": "slot_029",
+      "vcmb_off_dribble_college3_pct": "slot_030",
+      "vcmb_on_move_15ft_made": "slot_031",
+      "vcmb_on_move_15ft_attempted": "slot_032",
+      "vcmb_on_move_15ft_pct": "slot_033",
+      "vcmb_on_move_college3_made": "slot_034",
+      "vcmb_on_move_college3_attempted": "slot_035",
+      "vcmb_on_move_college3_pct": "slot_036",
+      "vcons_mock_mean_rank": "slot_037",
+      "vcons_mock_best_rank": "slot_038",
+      "vcons_mock_rank_range": "slot_039",
+      "vcons_mock_n_sources": "slot_040",
+      "vmb_age_reported_years": "slot_041",
+      "vmb_listed_height_in": "slot_042",
+      "vmb_listed_weight_lb": "slot_043",
+      "vmb_listed_bmi": "slot_044",
+      "vmb_college_class_year": "slot_045",
+      "vmb_position_pg": "slot_046",
+      "vmb_position_sg": "slot_047",
+      "vmb_position_sf": "slot_048",
+      "vmb_position_pf": "slot_049",
+      "vmb_position_c": "slot_050"
+    },
+    "selection": {
+      "base_features": 41,
+      "selector_seed": 11,
+      "scope": "Fit the unchanged CPU selector on the41 source columns after canonical training order; retain all41 in its importance ordering. Appended family eligibility uses training rows only."
+    },
+    "ordering_policy": {
+      "version": "sha256_pid_exact_vector_mean_v1",
+      "row_order": "Sort train and query rows by SHA256(UTF8(pid)), with pid as deterministic collision tiebreaker, before selection and prediction. Identity/order keys never become predictors.",
+      "input_equivalence": "All selected predictor values must be numerically identical. NaNs compare equal; positive/negative zero compare equal. Distinct vectors are never quantized or merged.",
+      "prediction_ties": "Within each query group of exactly identical full predictor vectors, assign every row the arithmetic mean of its raw predictions using math.fsum over sorted float64 values.",
+      "raw_preservation": "Save raw and canonical prediction for every pid, exact duplicate groups and policy hash. All scoring uses canonical predictions with Spearman average ranks.",
+      "registration_basis": "R8order numerical audit found8 all-missing duplicate inputs with floating-point score splitting; no outcome score was used to choose this policy.",
+      "new_baseline": "Every background baseline reruns under this policy. Do not pool these scores with raw-prediction R8s or earlier studies."
+    },
+    "controls": {
+      "shuffle": "Permute one selected biography field within draft cohort AND its exact observed/missing mask, preserving each player mask and observed-value multiset.",
+      "seed_stream": "SHA256(bio:feature_name, permutation seed, train-or-validation role, cohort, mask pattern). Same fixed source and consensus for all fields, arms and fit seeds.",
+      "preserved": "Every player/column NaN mask and all within-family row-vector distributions, algebra and covariance.",
+      "limitations": "The test preserves cohort and missingness distributions. Constant/singleton strata cannot move; report effective changed rows. Individual screening after the family-level study is exploratory and requires later independent confirmation."
+    },
+    "summary": {
+      "primary": "Pair each actual biography field with the mean of three matched shuffles within fold and model seed; same single added slot across all ten fields.",
+      "baseline": "Baseline has45 features, single/control arms46. Empty-column gain is not evidence; judge only matched real-minus-shuffled contrasts.",
+      "automatic_promotion": false,
+      "combinations": "No combinations or further model selection in this registration."
+    },
+    "registration_basis": "R8t completed family screen hurt all backgrounds. This registered follow-up includes every one of the ten fields, without outcome-based exclusion. No held-out data or confirmation used.",
+    "execution": {
+      "workers": 4,
+      "task_count": 123,
+      "xgboost_selector": "cpu",
+      "predictor": "GPU TabICL only",
+      "gpu_launch_performed": false,
+      "max_runtime_seconds": 7200,
+      "memory_max": "140G",
+      "cpu_quota": "2200%"
+    },
+    "single_features": [
+      "vmb_age_reported_years",
+      "vmb_listed_height_in",
+      "vmb_listed_weight_lb",
+      "vmb_listed_bmi",
+      "vmb_college_class_year",
+      "vmb_position_pg",
+      "vmb_position_sg",
+      "vmb_position_sf",
+      "vmb_position_pf",
+      "vmb_position_c"
+    ],
+    "common_bio_slot": "slot_041"
+  },
+  "sha256": "1be9b5a6f774560d9c9be4aa2ef5e3390e211f3be65e308c5b008d547ae6c359",
+  "code_and_bundle_hashes": {
+    "worker.py": "a1e6e9af519949dbe874632b2eba439945aad8f9abbd227e82d585fd6941ec0c",
+    "plan.json": "1be9b5a6f774560d9c9be4aa2ef5e3390e211f3be65e308c5b008d547ae6c359",
+    "prepare_data.py": "fc5bc934d8724ec3e9834293313fdd91e0830cf8cb9a864bedeaa99fd565a8ca",
+    "preflight.py": "1b4bc40274341b42e0ecb72fc966d8fc79094146814a43860d036116defc7c29",
+    "preflight.json": "3068f052ae41d17f2a14b30be4933d22293938f86cc146bb4084ff4097f02bf9",
+    "research.py": "0c4ddda74e6e5ab98f2860939484e81d8571e5d27f3d4e80bad6b387b33f160d",
+    "run_sandbox.sh": "3766b25fdbc86188ca02391cf392b732ad892f5bd38c8b04ba5f107ab3f8d073",
+    "legacy_kernel.py": "ddc58666da0d784a1b67f6b8ee4763599bdce14bb91768893e6fb87af4620ee1",
+    "baseline_reference.json": "b3ae381d38993e3d5c86af23d38e6ffa07d93e4c3bc0447023e030a8dfad15b8",
+    "data/manifest.json": "0c67887a6968b9a3dcea179bdfabe475ba7492137108c9594523062ec641f574",
+    "r8t_reference/worker.py": "cddec512827fe50b7a23d2b82d36b15b61cdb855c4d020130416cd3f66ae27c2",
+    "r8t_reference/plan.json": "1f900277f41e40e8d811460a6e535d766232d991199216735fa30cdbe237c21f",
+    "r8t_reference/legacy_kernel.py": "ddc58666da0d784a1b67f6b8ee4763599bdce14bb91768893e6fb87af4620ee1"
+  },
+  "created": 1788699943.5449114
+}

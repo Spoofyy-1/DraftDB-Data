@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:16:13.630245+00:00",
+  "lane": "news",
+  "pid": "Pc42b84faf5",
+  "draft_year": 2011,
+  "name": "Justin Dentmon",
+  "draft_date": "2011-06-23",
+  "status": "ok",
+  "query": "\"Justin Dentmon\" (draft OR scouting OR prospect OR basketball) after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Justin+Dentmon%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Queen of the D-League - The New Yorker",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KbDRxY2ZFVXVyM0JfVi00cUFqQzBIZG10OHVOdWFvX29mYzFNV1lXdk5fMzJfR3JPSHpWei10OVBsZkZzZ3AwMV8wcFlYWUJ5RURqcUgxZUMwTXJrUlBuMzE2ZTJYdWtPVkZ3b1huOXNiZk5YMWc?oc=5",
+      "published_date": "2011-04-18",
+      "source": "The New Yorker",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "9e51d52c63a79654a048a5072ff11e62787985746d756123b281fdcc8649594f",
+  "feature_eligible": false
+}
