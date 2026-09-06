@@ -1,0 +1,52 @@
+{
+  "coverage": {
+    "2012": {
+      "selected_source_rows": 60,
+      "ap_corroborating_rows": 60,
+      "normalized_source_name_agreement": 56,
+      "identity_status_counts": {
+        "unique_legacy_cohort_name_suggestion": 56,
+        "unresolved": 3,
+        "unique_broad_name_suggestion": 1
+      },
+      "gap_status_counts": {
+        "existing_training_candidate": 55,
+        "no_legacy_same_cohort_name_match": 4,
+        "legacy_candidate_absent_from_training": 1
+      }
+    },
+    "2013": {
+      "selected_source_rows": 60,
+      "ap_corroborating_rows": 60,
+      "normalized_source_name_agreement": 55,
+      "identity_status_counts": {
+        "unique_legacy_cohort_name_suggestion": 49,
+        "unresolved": 7,
+        "unique_broad_name_suggestion": 4
+      },
+      "gap_status_counts": {
+        "existing_training_candidate": 48,
+        "no_legacy_same_cohort_name_match": 11,
+        "legacy_candidate_absent_from_training": 1
+      }
+    },
+    "2014": {
+      "selected_source_rows": 60,
+      "ap_corroborating_rows": 60,
+      "normalized_source_name_agreement": 59,
+      "identity_status_counts": {
+        "unique_legacy_cohort_name_suggestion": 55,
+        "unresolved": 3,
+        "unique_broad_name_suggestion": 2
+      },
+      "gap_status_counts": {
+        "existing_training_candidate": 53,
+        "no_legacy_same_cohort_name_match": 5,
+        "legacy_candidate_absent_from_training": 2
+      }
+    }
+  },
+  "registry_rows": 180,
+  "source_draft_membership_complete": true,
+  "model_ready": false
+}

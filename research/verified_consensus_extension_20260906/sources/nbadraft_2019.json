@@ -1,0 +1,23 @@
+{
+  "publisher": "nbadraft",
+  "draft_year": 2019,
+  "draft_date": "2019-06-20",
+  "cutoff_utc": "2019-06-20T04:00:00+00:00",
+  "target_url": "www.nbadraft.net/2019mock_draft",
+  "feature_eligible": false,
+  "status": "pending_body_validation",
+  "source_id": "nbadraft_2019",
+  "source": {
+    "urlkey": "net,nbadraft)/2019mock_draft",
+    "timestamp": "20190521150204",
+    "original": "https://www.nbadraft.net/2019mock_draft",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "DP2EMKP6VCGSJHRXYEMHYKTRVTSPC5T3",
+    "length": "11555"
+  },
+  "archive_url": "https://web.archive.org/web/20190521150204id_/https://www.nbadraft.net/2019mock_draft",
+  "captures": 11,
+  "html_sha256": "b59fdfc8d7bba272ece80e7be8c76e9f4106327e31aa8d280a62a39b57232bad",
+  "bytes": 65882
+}

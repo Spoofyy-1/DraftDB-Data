@@ -1,0 +1,32 @@
+{
+  "tests_run": 9,
+  "failures": 0,
+  "errors": 0,
+  "skipped": 0,
+  "model_index_fields": [
+    "candidate_id",
+    "draft_year"
+  ],
+  "model_index_rows": 180,
+  "registry_rows": 180,
+  "all_registry_ids_preserved": true,
+  "all_registry_rows_have_identity_result": true,
+  "no_pick_or_source_order_fields_in_model": true,
+  "no_protected_or_private_public_files": true,
+  "protected_positions_private_mode": "0o600",
+  "outcomes_used": false,
+  "nba_id_used": false,
+  "current_or_future_draft_results_used": false,
+  "models_fit": 0,
+  "test_scores": 0,
+  "source_membership_complete": true,
+  "global_identity_verified": false,
+  "model_ready": false,
+  "public_csv_sha256": {
+    "identity_crosswalk_suggestions.csv": "2436f05bea7c6f2144ae9bc424c9607a2f55f721cbc625581f456d00908c534d",
+    "membership_registry.csv": "ff30b4a5769a2874c1c6c81db013caff9f797e2de77e776253e57629e88a2091",
+    "model_row_index_2015.csv": "600feb409dab00baecc7967c84d8cf50e0997c3f4f8e43f2604605c970d175d1",
+    "source_name_variants.csv": "2610e679e8d98909e0a2e03d81653730921c74e2a8ad26f5d19c0a8008e521af",
+    "training_population_gaps.csv": "b65acb9cab64538ff3d2654c9c11e520a63a2f175545d1b906e9ab5640b9d706"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "publisher": "dx",
+  "draft_year": 2016,
+  "draft_date": "2016-06-23",
+  "cutoff_utc": "2016-06-23T04:00:00+00:00",
+  "target_url": "www.draftexpress.com/nba-mock-draft/2016/",
+  "feature_eligible": false,
+  "status": "pending_body_validation",
+  "source_id": "dx_2016",
+  "source": {
+    "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+    "timestamp": "20160621174050",
+    "original": "http://www.draftexpress.com:80/nba-mock-draft/2016",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "KQAKTONWCC7O6G54A76L4BM4QIROEXZC",
+    "length": "15732"
+  },
+  "archive_url": "https://web.archive.org/web/20160621174050id_/http://www.draftexpress.com:80/nba-mock-draft/2016",
+  "captures": 76,
+  "html_sha256": "be6b016a6fd075da300696de95e03c46c08795b0090a2f97ba99a9c5dd3c1fd6",
+  "bytes": 143723
+}

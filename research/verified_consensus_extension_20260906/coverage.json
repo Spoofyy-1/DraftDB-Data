@@ -1,0 +1,260 @@
+{
+  "rank_observations": 764,
+  "verified_sources": 18,
+  "training_eligible_players": 212,
+  "inference_eligible_players": 388,
+  "only_identity_columns_read_from_original_datasets": [
+    "pid",
+    "draft_year"
+  ],
+  "training_or_scoring_performed": false,
+  "per_year": {
+    "2015": {
+      "observations": 92,
+      "eligible_players": 50,
+      "two_publishers": 42,
+      "source_ids": [
+        "dx_2015",
+        "nbadraft_2015"
+      ],
+      "model_universe_intersection": 42,
+      "original_universe_intersection": 42
+    },
+    "2016": {
+      "observations": 102,
+      "eligible_players": 57,
+      "two_publishers": 45,
+      "source_ids": [
+        "dx_2016",
+        "nbadraft_2016_fallback"
+      ],
+      "model_universe_intersection": 55,
+      "original_universe_intersection": 55
+    },
+    "2017": {
+      "observations": 102,
+      "eligible_players": 56,
+      "two_publishers": 46,
+      "source_ids": [
+        "dx_2017",
+        "nbadraft_2017"
+      ],
+      "model_universe_intersection": 56,
+      "original_universe_intersection": 56
+    },
+    "2018": {
+      "observations": 56,
+      "eligible_players": 49,
+      "two_publishers": 7,
+      "source_ids": [
+        "nbadraft_2018",
+        "walter_serious_2018"
+      ],
+      "model_universe_intersection": 47,
+      "original_universe_intersection": 47
+    },
+    "2019": {
+      "observations": 64,
+      "eligible_players": 51,
+      "two_publishers": 13,
+      "source_ids": [
+        "nbadraft_2019",
+        "walter_serious_2019"
+      ],
+      "model_universe_intersection": null,
+      "original_universe_intersection": 51
+    },
+    "2020": {
+      "observations": 65,
+      "eligible_players": 54,
+      "two_publishers": 11,
+      "source_ids": [
+        "nbadraft_2020_fallback",
+        "walter_serious_2020"
+      ],
+      "model_universe_intersection": null,
+      "original_universe_intersection": 54
+    },
+    "2021": {
+      "observations": 46,
+      "eligible_players": 46,
+      "two_publishers": 0,
+      "source_ids": [
+        "nbadraft_2021"
+      ],
+      "model_universe_intersection": null,
+      "original_universe_intersection": 46
+    },
+    "2022": {
+      "observations": 48,
+      "eligible_players": 48,
+      "two_publishers": 0,
+      "source_ids": [
+        "nbadraft_2022"
+      ],
+      "model_universe_intersection": null,
+      "original_universe_intersection": 48
+    },
+    "2023": {
+      "observations": 48,
+      "eligible_players": 48,
+      "two_publishers": 0,
+      "source_ids": [
+        "nbadraft_2023"
+      ],
+      "model_universe_intersection": null,
+      "original_universe_intersection": 48
+    },
+    "2024": {
+      "observations": 49,
+      "eligible_players": 49,
+      "two_publishers": 0,
+      "source_ids": [
+        "nbadraft_2024"
+      ],
+      "model_universe_intersection": null,
+      "original_universe_intersection": 49
+    },
+    "2025": {
+      "observations": 47,
+      "eligible_players": 47,
+      "two_publishers": 0,
+      "source_ids": [
+        "nbadraft_2025"
+      ],
+      "model_universe_intersection": null,
+      "original_universe_intersection": 47
+    },
+    "2026": {
+      "observations": 45,
+      "eligible_players": 45,
+      "two_publishers": 0,
+      "source_ids": [
+        "nbadraft_2026_fallback"
+      ],
+      "model_universe_intersection": null,
+      "original_universe_intersection": 45
+    }
+  },
+  "full_left_joins": {
+    "training": {
+      "rows": 1458,
+      "ranked": 200,
+      "identity_order_sha256": "7007246196b25e9cca451ed9bcff0ce43e75d7d4e4a0f94595a8e9da9c280a4d"
+    },
+    "2019": {
+      "rows": 137,
+      "ranked": 51,
+      "missing": 86,
+      "two_publishers": 13,
+      "identity_order_sha256": "2c0cf8e3d606c88b516898eb1302594772c5be9fb25a797735fad13bb0dcdce7",
+      "original_and_site_identity_copies_match": true
+    },
+    "2020": {
+      "rows": 112,
+      "ranked": 54,
+      "missing": 58,
+      "two_publishers": 11,
+      "identity_order_sha256": "18a8390d2eaa63de1cfa352c4a169b4f246b5142b41dfb8c2dff1f43572f7842",
+      "original_and_site_identity_copies_match": true
+    },
+    "2021": {
+      "rows": 233,
+      "ranked": 46,
+      "missing": 187,
+      "two_publishers": 0,
+      "identity_order_sha256": "f05749cebc1532ce10002afddc6cab60b8a608243420a05ba26a637a9758647b",
+      "original_and_site_identity_copies_match": true
+    },
+    "2022": {
+      "rows": 97,
+      "ranked": 48,
+      "missing": 49,
+      "two_publishers": 0,
+      "identity_order_sha256": "607f3257dde59ca7f0437ae0d08a4ee8948513d1f34e5193a76745e80af0f82d",
+      "original_and_site_identity_copies_match": true
+    },
+    "2023": {
+      "rows": 101,
+      "ranked": 48,
+      "missing": 53,
+      "two_publishers": 0,
+      "identity_order_sha256": "1b2f1d9e9bb43367e05dd35a1eca11f91b7ec78824148835e8dd792a4c8ce6b2",
+      "original_and_site_identity_copies_match": true
+    },
+    "2024": {
+      "rows": 114,
+      "ranked": 49,
+      "missing": 65,
+      "two_publishers": 0,
+      "identity_order_sha256": "3fc3aa06700f392d9424a7237c66d847cc686ac9044e9b6c1d8df23d81c99f79",
+      "original_and_site_identity_copies_match": true
+    },
+    "2025": {
+      "rows": 106,
+      "ranked": 47,
+      "missing": 59,
+      "two_publishers": 0,
+      "identity_order_sha256": "5c19485c5b37e783650aea51c5fb496dedb0367775741d370dc3748453c52b9e",
+      "original_and_site_identity_copies_match": true
+    },
+    "2026": {
+      "rows": 61,
+      "ranked": 45,
+      "missing": 16,
+      "two_publishers": 0,
+      "identity_order_sha256": "d13058a6f089ece09aead53a8b76df0adad32c7654ba1a4eef76dda51a597dde",
+      "original_and_site_identity_copies_match": true
+    }
+  },
+  "eligible_source_identities_outside_original_universe": [
+    {
+      "pid": "P2c58b86e78",
+      "draft_year": 2015
+    },
+    {
+      "pid": "P83f630794b",
+      "draft_year": 2015
+    },
+    {
+      "pid": "P9e418f4c91",
+      "draft_year": 2015
+    },
+    {
+      "pid": "Pa48064fa8c",
+      "draft_year": 2015
+    },
+    {
+      "pid": "Pb88d2f0541",
+      "draft_year": 2015
+    },
+    {
+      "pid": "Pcfe0d93659",
+      "draft_year": 2015
+    },
+    {
+      "pid": "Pd3473cff83",
+      "draft_year": 2015
+    },
+    {
+      "pid": "Pfd690eb68d",
+      "draft_year": 2015
+    },
+    {
+      "pid": "P8935abbbb4",
+      "draft_year": 2016
+    },
+    {
+      "pid": "Pb3e495f583",
+      "draft_year": 2016
+    },
+    {
+      "pid": "P212def8838",
+      "draft_year": 2018
+    },
+    {
+      "pid": "P4ebe015218",
+      "draft_year": 2018
+    }
+  ]
+}

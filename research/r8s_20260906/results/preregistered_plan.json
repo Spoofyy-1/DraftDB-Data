@@ -1,0 +1,454 @@
+{
+  "plan": {
+    "study": "R8s combine and consensus factorial diagnostics",
+    "diagnostic_only": true,
+    "purpose": "Test incremental combine/consensus information and conditional additions with family-vector controls that preserve masks and internal algebra.",
+    "baseline": "baseline",
+    "baseline_source_variant": {
+      "id": "dated_raw_college_source_control",
+      "input_source": "context",
+      "context_features": [
+        "ctx_base_gp",
+        "ctx_base_minutes_share",
+        "ctx_base_usage",
+        "ctx_base_efg",
+        "ctx_base_ts",
+        "ctx_base_orb",
+        "ctx_base_drb",
+        "ctx_base_ast_pct",
+        "ctx_base_tov_pct",
+        "ctx_base_ftm",
+        "ctx_base_fta",
+        "ctx_base_ft_pct",
+        "ctx_base_fg2m",
+        "ctx_base_fg2a",
+        "ctx_base_fg2_pct",
+        "ctx_base_fg3m",
+        "ctx_base_fg3a",
+        "ctx_base_fg3_pct",
+        "ctx_base_blk_pct",
+        "ctx_base_stl_pct",
+        "ctx_base_ftr",
+        "ctx_base_fouls40",
+        "ctx_base_ast_tov",
+        "ctx_base_rim_made",
+        "ctx_base_rim_attempts",
+        "ctx_base_mid_made",
+        "ctx_base_mid_attempts",
+        "ctx_base_dunk_made",
+        "ctx_base_dunk_attempts",
+        "ctx_base_mpg",
+        "ctx_base_oreb_pg",
+        "ctx_base_dreb_pg",
+        "ctx_base_ast_pg",
+        "ctx_base_stl_pg",
+        "ctx_base_blk_pg",
+        "ctx_base_pts_pg",
+        "ctx_base_three_share",
+        "ctx_skill_defense_discipline",
+        "ctx_skill_creation_control",
+        "ctx_skill_usage_efficiency",
+        "ctx_skill_ft_volume"
+      ]
+    },
+    "backbone": {
+      "icl_n": 32,
+      "topk": 60,
+      "M": 400,
+      "window": 2007,
+      "hw": "uniform",
+      "noscout": 1,
+      "drop": [
+        "scout_",
+        "col_bpm_pct_",
+        "col_usg_pct_",
+        "col_ts_pct_",
+        "col_ast_pct_",
+        "col_stl_pct_",
+        "col_blk_pct_",
+        "col_orb_pct_",
+        "col_shot_proj_"
+      ]
+    },
+    "folds": [
+      2012,
+      2013,
+      2014
+    ],
+    "seeds": [
+      0,
+      101,
+      202
+    ],
+    "permutation_seeds": [
+      9317,
+      18739,
+      28657
+    ],
+    "families": {
+      "combine": [
+        "vcmb_height_without_shoes_in",
+        "vcmb_height_with_shoes_in",
+        "vcmb_weight_lb",
+        "vcmb_wingspan_in",
+        "vcmb_standing_reach_in",
+        "vcmb_body_fat_pct",
+        "vcmb_hand_length_in",
+        "vcmb_hand_width_in",
+        "vcmb_bmi_kg_m2",
+        "vcmb_wingspan_minus_height_in",
+        "vcmb_standing_vertical_in",
+        "vcmb_max_vertical_in",
+        "vcmb_lane_agility_s",
+        "vcmb_modified_lane_agility_s",
+        "vcmb_three_quarter_sprint_s",
+        "vcmb_bench_press_reps",
+        "vcmb_spot_15ft_made",
+        "vcmb_spot_15ft_attempted",
+        "vcmb_spot_15ft_pct",
+        "vcmb_spot_college3_made",
+        "vcmb_spot_college3_attempted",
+        "vcmb_spot_college3_pct",
+        "vcmb_spot_nba3_made",
+        "vcmb_spot_nba3_attempted",
+        "vcmb_spot_nba3_pct",
+        "vcmb_off_dribble_15ft_made",
+        "vcmb_off_dribble_15ft_attempted",
+        "vcmb_off_dribble_15ft_pct",
+        "vcmb_off_dribble_college3_made",
+        "vcmb_off_dribble_college3_attempted",
+        "vcmb_off_dribble_college3_pct",
+        "vcmb_on_move_15ft_made",
+        "vcmb_on_move_15ft_attempted",
+        "vcmb_on_move_15ft_pct",
+        "vcmb_on_move_college3_made",
+        "vcmb_on_move_college3_attempted",
+        "vcmb_on_move_college3_pct"
+      ],
+      "consensus": [
+        "vcons_mock_mean_rank",
+        "vcons_mock_best_rank",
+        "vcons_mock_rank_range",
+        "vcons_mock_n_sources"
+      ]
+    },
+    "variants": [
+      {
+        "id": "baseline",
+        "scope": "baseline",
+        "arms": {},
+        "permutation_seed": null
+      },
+      {
+        "id": "combine_real",
+        "scope": "combine",
+        "arms": {
+          "combine": "real"
+        },
+        "permutation_seed": null
+      },
+      {
+        "id": "combine_shuffle9317",
+        "scope": "combine",
+        "arms": {
+          "combine": "permuted"
+        },
+        "permutation_seed": 9317
+      },
+      {
+        "id": "combine_shuffle18739",
+        "scope": "combine",
+        "arms": {
+          "combine": "permuted"
+        },
+        "permutation_seed": 18739
+      },
+      {
+        "id": "combine_shuffle28657",
+        "scope": "combine",
+        "arms": {
+          "combine": "permuted"
+        },
+        "permutation_seed": 28657
+      },
+      {
+        "id": "consensus_real",
+        "scope": "consensus",
+        "arms": {
+          "consensus": "real"
+        },
+        "permutation_seed": null
+      },
+      {
+        "id": "consensus_shuffle9317",
+        "scope": "consensus",
+        "arms": {
+          "consensus": "permuted"
+        },
+        "permutation_seed": 9317
+      },
+      {
+        "id": "consensus_shuffle18739",
+        "scope": "consensus",
+        "arms": {
+          "consensus": "permuted"
+        },
+        "permutation_seed": 18739
+      },
+      {
+        "id": "consensus_shuffle28657",
+        "scope": "consensus",
+        "arms": {
+          "consensus": "permuted"
+        },
+        "permutation_seed": 28657
+      },
+      {
+        "id": "joint_RR",
+        "scope": "joint",
+        "arms": {
+          "combine": "real",
+          "consensus": "real"
+        },
+        "permutation_seed": null
+      },
+      {
+        "id": "joint_RP_shuffle9317",
+        "scope": "joint",
+        "arms": {
+          "combine": "real",
+          "consensus": "permuted"
+        },
+        "permutation_seed": 9317
+      },
+      {
+        "id": "joint_RP_shuffle18739",
+        "scope": "joint",
+        "arms": {
+          "combine": "real",
+          "consensus": "permuted"
+        },
+        "permutation_seed": 18739
+      },
+      {
+        "id": "joint_RP_shuffle28657",
+        "scope": "joint",
+        "arms": {
+          "combine": "real",
+          "consensus": "permuted"
+        },
+        "permutation_seed": 28657
+      },
+      {
+        "id": "joint_PR_shuffle9317",
+        "scope": "joint",
+        "arms": {
+          "combine": "permuted",
+          "consensus": "real"
+        },
+        "permutation_seed": 9317
+      },
+      {
+        "id": "joint_PR_shuffle18739",
+        "scope": "joint",
+        "arms": {
+          "combine": "permuted",
+          "consensus": "real"
+        },
+        "permutation_seed": 18739
+      },
+      {
+        "id": "joint_PR_shuffle28657",
+        "scope": "joint",
+        "arms": {
+          "combine": "permuted",
+          "consensus": "real"
+        },
+        "permutation_seed": 28657
+      },
+      {
+        "id": "joint_PP_shuffle9317",
+        "scope": "joint",
+        "arms": {
+          "combine": "permuted",
+          "consensus": "permuted"
+        },
+        "permutation_seed": 9317
+      },
+      {
+        "id": "joint_PP_shuffle18739",
+        "scope": "joint",
+        "arms": {
+          "combine": "permuted",
+          "consensus": "permuted"
+        },
+        "permutation_seed": 18739
+      },
+      {
+        "id": "joint_PP_shuffle28657",
+        "scope": "joint",
+        "arms": {
+          "combine": "permuted",
+          "consensus": "permuted"
+        },
+        "permutation_seed": 28657
+      }
+    ],
+    "source_filter": {
+      "min_training_observed": 5,
+      "min_training_unique": 2,
+      "validation_coverage_used": false
+    },
+    "training_eligibility_registration": {
+      "2012": {
+        "combine": [
+          "vcmb_height_without_shoes_in",
+          "vcmb_height_with_shoes_in",
+          "vcmb_weight_lb",
+          "vcmb_wingspan_in",
+          "vcmb_standing_reach_in",
+          "vcmb_body_fat_pct",
+          "vcmb_hand_length_in",
+          "vcmb_hand_width_in",
+          "vcmb_bmi_kg_m2",
+          "vcmb_wingspan_minus_height_in",
+          "vcmb_standing_vertical_in",
+          "vcmb_max_vertical_in",
+          "vcmb_lane_agility_s",
+          "vcmb_three_quarter_sprint_s",
+          "vcmb_bench_press_reps"
+        ],
+        "consensus": [
+          "vcons_mock_mean_rank",
+          "vcons_mock_best_rank",
+          "vcons_mock_rank_range",
+          "vcons_mock_n_sources"
+        ]
+      },
+      "2013": {
+        "combine": [
+          "vcmb_height_without_shoes_in",
+          "vcmb_height_with_shoes_in",
+          "vcmb_weight_lb",
+          "vcmb_wingspan_in",
+          "vcmb_standing_reach_in",
+          "vcmb_body_fat_pct",
+          "vcmb_hand_length_in",
+          "vcmb_hand_width_in",
+          "vcmb_bmi_kg_m2",
+          "vcmb_wingspan_minus_height_in",
+          "vcmb_standing_vertical_in",
+          "vcmb_max_vertical_in",
+          "vcmb_lane_agility_s",
+          "vcmb_three_quarter_sprint_s",
+          "vcmb_bench_press_reps"
+        ],
+        "consensus": [
+          "vcons_mock_mean_rank",
+          "vcons_mock_best_rank",
+          "vcons_mock_rank_range",
+          "vcons_mock_n_sources"
+        ]
+      },
+      "2014": {
+        "combine": [
+          "vcmb_height_without_shoes_in",
+          "vcmb_height_with_shoes_in",
+          "vcmb_weight_lb",
+          "vcmb_wingspan_in",
+          "vcmb_standing_reach_in",
+          "vcmb_body_fat_pct",
+          "vcmb_hand_length_in",
+          "vcmb_hand_width_in",
+          "vcmb_bmi_kg_m2",
+          "vcmb_wingspan_minus_height_in",
+          "vcmb_standing_vertical_in",
+          "vcmb_max_vertical_in",
+          "vcmb_lane_agility_s",
+          "vcmb_three_quarter_sprint_s",
+          "vcmb_bench_press_reps"
+        ],
+        "consensus": [
+          "vcons_mock_mean_rank",
+          "vcons_mock_best_rank",
+          "vcons_mock_rank_range",
+          "vcons_mock_n_sources"
+        ]
+      }
+    },
+    "slot_mapping": {
+      "vcmb_height_without_shoes_in": "slot_000",
+      "vcmb_height_with_shoes_in": "slot_001",
+      "vcmb_weight_lb": "slot_002",
+      "vcmb_wingspan_in": "slot_003",
+      "vcmb_standing_reach_in": "slot_004",
+      "vcmb_body_fat_pct": "slot_005",
+      "vcmb_hand_length_in": "slot_006",
+      "vcmb_hand_width_in": "slot_007",
+      "vcmb_bmi_kg_m2": "slot_008",
+      "vcmb_wingspan_minus_height_in": "slot_009",
+      "vcmb_standing_vertical_in": "slot_010",
+      "vcmb_max_vertical_in": "slot_011",
+      "vcmb_lane_agility_s": "slot_012",
+      "vcmb_modified_lane_agility_s": "slot_013",
+      "vcmb_three_quarter_sprint_s": "slot_014",
+      "vcmb_bench_press_reps": "slot_015",
+      "vcmb_spot_15ft_made": "slot_016",
+      "vcmb_spot_15ft_attempted": "slot_017",
+      "vcmb_spot_15ft_pct": "slot_018",
+      "vcmb_spot_college3_made": "slot_019",
+      "vcmb_spot_college3_attempted": "slot_020",
+      "vcmb_spot_college3_pct": "slot_021",
+      "vcmb_spot_nba3_made": "slot_022",
+      "vcmb_spot_nba3_attempted": "slot_023",
+      "vcmb_spot_nba3_pct": "slot_024",
+      "vcmb_off_dribble_15ft_made": "slot_025",
+      "vcmb_off_dribble_15ft_attempted": "slot_026",
+      "vcmb_off_dribble_15ft_pct": "slot_027",
+      "vcmb_off_dribble_college3_made": "slot_028",
+      "vcmb_off_dribble_college3_attempted": "slot_029",
+      "vcmb_off_dribble_college3_pct": "slot_030",
+      "vcmb_on_move_15ft_made": "slot_031",
+      "vcmb_on_move_15ft_attempted": "slot_032",
+      "vcmb_on_move_15ft_pct": "slot_033",
+      "vcmb_on_move_college3_made": "slot_034",
+      "vcmb_on_move_college3_attempted": "slot_035",
+      "vcmb_on_move_college3_pct": "slot_036",
+      "vcons_mock_mean_rank": "slot_037",
+      "vcons_mock_best_rank": "slot_038",
+      "vcons_mock_rank_range": "slot_039",
+      "vcons_mock_n_sources": "slot_040"
+    },
+    "selection": {
+      "base_features": 41,
+      "selector_seed": 11,
+      "scope": "The same 41 source-only R8n columns, ordered by the fixed CPU selector once per fold/process. No legacy engineering/coverage/shrinkage. Source slots appended afterward."
+    },
+    "controls": {
+      "shuffle": "Permute whole family row vectors only within draft cohort AND exact selected-column missingness-pattern strata, with stable PID ordering.",
+      "seed_stream": "SHA256(family, permutation seed, train-or-validation role, cohort, mask pattern); independent family streams, reused across solo and factorial arms.",
+      "preserved": "Every player/column NaN mask and all within-family row-vector distributions, algebra and covariance.",
+      "limitations": "Singleton/constant-vector strata are immovable. Report effective swappable observed rows and changed values; strata constrain the tested population."
+    },
+    "calendar_policy": "For predicted year Y, training only earlier cohorts and actual NBA season_end <=Y-1. Development scoring labels <=2018. No2019-2026 answers available.",
+    "confirmation_note": "Any later literal as-of outer-year confirmation must select inside its own season cutoff; selection using development truths through2018 cannot be called known at a2015-2017 decision date.",
+    "no_confirmation_or_test_scoring": true,
+    "summary": {
+      "solo": "Pair real with mean of three family-vector shuffles at each fit seed/fold.",
+      "factorial": "RR-RP is consensus given real combine; RR-PR is combine given real consensus; interaction RR-RP-PR+PP uses paired permutation replicates and model seeds.",
+      "conditional_controls": "Joint comparisons always have identical selected base and source slot shapes. Solo versus joint raw-score differences are not complementarity evidence.",
+      "automatic_promotion": false,
+      "inference": "Exploratory development contrasts, not significance tests or independent data replications."
+    },
+    "registration_basis": "Fixed source packages and training coverage only. No R8q scores or test outcomes inspected for plan construction.",
+    "execution": {
+      "workers": 4,
+      "task_count": 57,
+      "xgboost_selector": "cpu",
+      "predictor": "GPU TabICL only",
+      "gpu_launch_performed": false
+    }
+  },
+  "sha256": "1bcc52d67bc9d20e7f1269fbe3458b73a32af038d4b3740c14a152a0cb165706",
+  "created": 1788698289.8966613
+}

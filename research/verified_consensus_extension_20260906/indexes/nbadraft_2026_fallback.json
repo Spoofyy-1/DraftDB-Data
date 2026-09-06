@@ -1,0 +1,23 @@
+{
+  "publisher": "nbadraft",
+  "draft_year": 2026,
+  "draft_date": "2026-06-23",
+  "cutoff_utc": "2026-06-23T04:00:00+00:00",
+  "target_url": "nbadraft.net/nba-mock-drafts/",
+  "feature_eligible": false,
+  "status": "discovery_only",
+  "source_id": "nbadraft_2026",
+  "query_url": "https://web.archive.org/cdx/search/cdx?url=nbadraft.net%2Fnba-mock-drafts%2F&matchType=exact&from=20260101&to=20260623035959&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=250",
+  "records": [
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20260508055636",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "XBJIMZWJP7LEOBRIW3BHD2AODFSE44K3",
+      "length": "27337"
+    }
+  ],
+  "fallback_reason": "Latest capture update calendar date is draft-day with unspecified timezone"
+}

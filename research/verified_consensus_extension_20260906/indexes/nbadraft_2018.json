@@ -1,0 +1,895 @@
+{
+  "publisher": "nbadraft",
+  "draft_year": 2018,
+  "draft_date": "2018-06-21",
+  "cutoff_utc": "2018-06-21T04:00:00+00:00",
+  "target_url": "www.nbadraft.net/2018mock_draft",
+  "feature_eligible": false,
+  "status": "discovery_only",
+  "source_id": "nbadraft_2018",
+  "query_url": "https://web.archive.org/cdx/search/cdx?url=www.nbadraft.net%2F2018mock_draft&matchType=exact&from=20180101&to=20180621035959&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=250",
+  "records": [
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180102080245",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "BBUTRZONAQY7FURHIUZFE7TED7CP7UOU",
+      "length": "10837"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180108012316",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "XQ36TT3TIX2DFDFKPFJUPYE2UXK2JTYX",
+      "length": "10747"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180111125950",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "TIAGBT4IPH3FAXWQPHI7A6UWERSNCEA6",
+      "length": "10746"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180114214923",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WA5UQDLWVYVNM4X5OF2IUFBIFBG34K2Y",
+      "length": "10742"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180117163804",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "4EHZQ4SBCEY6PQEEFCSCSQSEKBRZ2TTY",
+      "length": "10852"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180120230229",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ZXHZ57C4L56I24BWHXE2XGTDRIUDN2GW",
+      "length": "10749"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180123082109",
+      "original": "http://www.nbadraft.net/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2TMOY6QXDVVVRE2WBAGHLDIG76JLKHSU",
+      "length": "10989"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180123084500",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "LBVO2FPSHCHNBAQWWTXJGIUPAPHLNVGH",
+      "length": "10837"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180123113203",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "HMB36DNVYJVQYPMDESAG6UJY5ALJU6GY",
+      "length": "10732"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180125220104",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QL25YGNHZUDU4LIMJ45DTSMNOX6YS3L7",
+      "length": "10738"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180128215950",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7W4RQRGLB6GXFTQ5UYATB7MGE3CVDOPK",
+      "length": "10729"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180201022358",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WZWWGN5A3TWDV3MNUCXSMA7CZMUIIIC2",
+      "length": "10729"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180203155921",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "UCIB4JW7Z6SCE6NZMAFNSPX5WXA3O5TJ",
+      "length": "10726"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180206041849",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "5CGCPML6GWS65Y3BXAGJEOU5WFGQR6VE",
+      "length": "10889"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180207020728",
+      "original": "http://www.nbadraft.net/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "IRLJZANXZWKPWLCLK5NFYLTXIDVI7BZZ",
+      "length": "11067"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180208200702",
+      "original": "http://www.nbadraft.net/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NJ2F6UQBXFRA5ZT3S5A6YLI6A4P2QMLX",
+      "length": "10900"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180208201810",
+      "original": "http://www.nbadraft.net/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "TKGM3IQI6ATY362XNW4DC437KN23MFBV",
+      "length": "10898"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180209001551",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "LR2LIOQ6Z74PXSU76N6H7SHCPMUKTI3R",
+      "length": "10724"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180211122411",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "YBOOAXNN2BRUAUW4ZLIUK6RSDVVYLH7E",
+      "length": "10724"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180213194632",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QAXP4RSTYI6V57DJXHBOCJW7Q2TG3CM3",
+      "length": "10724"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180217070143",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "JO6CSC5SKVNH4QWVT4CUBJHB5ECS4YKP",
+      "length": "10863"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180219191703",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "RP3FZLYDFHT7ZSQRYCMNALU3C5B2LE6E",
+      "length": "11019"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180222023513",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "JVC6ZW4SGSTES6GMOT2UFNEBTLZ3KYXP",
+      "length": "10856"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180222103831",
+      "original": "http://www.nbadraft.net/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "CSBHFVSPXQTCSDIUYWXI4XCAUFEEMRJC",
+      "length": "11041"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180223130016",
+      "original": "http://www.nbadraft.net/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "VGMHKURU6LHIW5RDA7DHL5JQXZU3SM7X",
+      "length": "11201"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180225160925",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "5TMQJK4HJVRHJVDWOK53WY2WLKZCFGPD",
+      "length": "10857"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180227205642",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "UN6QH66NBKA6C5RXOPGJ4BIY3YMDA2N7",
+      "length": "10855"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180301051534",
+      "original": "http://www.nbadraft.net/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "TTGO234R3N3DOOQCUL5RUQE2CYRCDAGK",
+      "length": "11035"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180301080638",
+      "original": "http://www.nbadraft.net/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WYJSJ3PZT6GZLCYDAUJHRESDBQTEKCKX",
+      "length": "11037"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180301235815",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "VDESH6KYDAI5KRBJOSASM4AQWEZPUZ3C",
+      "length": "10862"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180304114324",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "JNOFTYEOB43OECVQTR2DEIE6RFLZIZKN",
+      "length": "10962"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180305072640",
+      "original": "http://www.nbadraft.net/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "Y42XXIBWA44J5PHW2U5CDL5VIROBVOFZ",
+      "length": "11035"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180306105941",
+      "original": "http://www.nbadraft.net/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2IQVLYXWVMC56PFVXZ65BRQ3XMPEQ3ZW",
+      "length": "11040"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180306175203",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "HB2YU674TUME3XICFEPKS6DCS4UJ3ARO",
+      "length": "11021"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180307221112",
+      "original": "http://www.nbadraft.net/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ONAGLQZDPZET2M6PR2HXMJNRHJTDDMIN",
+      "length": "11207"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180308045223",
+      "original": "http://www.nbadraft.net/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "UMB6EGL4772FHU6O2ASNJ66JZC4RTRUF",
+      "length": "11173"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180309042827",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "LBQA3T5TIJX3NPRIZC2U4NOBCYRFX4ML",
+      "length": "10892"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180309181137",
+      "original": "http://www.nbadraft.net/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "Z7CZPXKSIBADZS4PRUA3GCR2JOO4S7OW",
+      "length": "11077"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180309200539",
+      "original": "http://www.nbadraft.net/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "DDKNKX66OI6G6ZCHSYLQ6QDABWANIMZK",
+      "length": "11396"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180310191256",
+      "original": "http://www.nbadraft.net/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "E5OYETVZYOH2XJZYDKDJYXHTWYFK755W",
+      "length": "11075"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180310224853",
+      "original": "http://www.nbadraft.net/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GUNEXOZOE2Z44COB5IALO3TPIEWRQ665",
+      "length": "11161"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180311133656",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7TTWQHDGMU5EQHYOK6FH6CUHZLA4UG3W",
+      "length": "10999"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180311194900",
+      "original": "http://www.nbadraft.net/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "DN6KWI7YC63TWRATAANRHCOWQVX4HFQO",
+      "length": "11074"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180312205916",
+      "original": "http://www.nbadraft.net/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "6ZON5SRDB3664IBSGCQVDB3F4OM5TCZ4",
+      "length": "11069"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180312210313",
+      "original": "http://www.nbadraft.net/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "HYMEFQSP7FLJRSIGEMNXYETXW4OPVGOS",
+      "length": "11241"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180313071745",
+      "original": "http://www.nbadraft.net/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NAD5IOA47IPVYBGFMIFW6VLIB3Z76RME",
+      "length": "11076"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180313170303",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "TIXPG6TIAPVIUXNWT5C5DPJ5GJYYUUL6",
+      "length": "10979"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180313204535",
+      "original": "http://www.nbadraft.net/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GTMSVNLDGJ5ILYSWBNWH33X67GHBQUZJ",
+      "length": "11046"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180314224547",
+      "original": "http://www.nbadraft.net/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "MMLFBFS64Z46HSDKORCCXSESGNIGGXYO",
+      "length": "11222"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180316000507",
+      "original": "http://www.nbadraft.net/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "AFKS4TC3M3JZH5EZ7OGB7L2MJR5UESD2",
+      "length": "11213"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180316134052",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "DIFCONHFSNPLODCQF52IPBB2WE23ZUTT",
+      "length": "10976"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180317201059",
+      "original": "http://www.nbadraft.net/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "KXABD7WBXP6HESCEWEJ25NUUAGHT5YT6",
+      "length": "11187"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180317223413",
+      "original": "http://www.nbadraft.net/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "BD3MLK36JFLBLYDFAZ4JKL3NAAOGRJRE",
+      "length": "11052"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180318163927",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "XUYKZDGZOAQM5GMRHHOUVAU7SZHYO6L2",
+      "length": "10870"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180322043242",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QB3CM4XWKPQKKCCN3ADVPKZDNLVA2HUX",
+      "length": "10975"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180325061702",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "MQZR4GADYAEL4VPWIM2UCRZK6JF63Y2G",
+      "length": "10974"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180327181136",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "RYNZ5Q3D3MPFTIL4ZEN3AE4HYPTWIBHT",
+      "length": "10969"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180330072926",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "JZZGIBLLBWV3O45OLU6D2JR5I4AND7CC",
+      "length": "11158"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180401151545",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ETJYAHBRQ7OOY3GGTRQZURRQSHEUKR2F",
+      "length": "10886"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180404154239",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "BUIOL4LRGKL5IF7WZS3FGU6D4FBEBAKW",
+      "length": "10998"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180406195804",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "LQ7U5OZTKCVUQYM3XMZETS6JHQ4OUH3W",
+      "length": "10860"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180407225512",
+      "original": "http://www.nbadraft.net/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "4R2F2YWVNYJTMATCJHW5WHQ4IQR4JEYW",
+      "length": "11078"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180408234948",
+      "original": "http://www.nbadraft.net/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "DSTUCZN7OCWM6WRKO3LREUHDOXVHEEGE",
+      "length": "11074"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180409163236",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GATYNTRO5K3KN2GVIVCMHY537TVVSLRD",
+      "length": "11050"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180411200318",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WMOMIKTQ47WSWH7YHTCVOTBHYLIV5QN6",
+      "length": "10899"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180413192304",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "X5STMVFCYAGUO73QNAFGGINNGBEPMFD2",
+      "length": "11008"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180415180418",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "M45HQTDFJ2ZXMRSBRO2WSOLTXCGDL2AG",
+      "length": "10821"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180417225518",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "B27VTG4V7RXGAZS55H5EWXGWXUZWRXWB",
+      "length": "10989"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180420063944",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "PYZNM6GZANGS4ZF46QZ7RJPDA662GLFH",
+      "length": "10917"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180422115450",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "332VEUTA3IVVNLFLLF53STU2B476QU46",
+      "length": "10923"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180424175807",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NZWBLFJHF3JQ6DKVYSUHOBUP3AY47HJI",
+      "length": "10925"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180427210521",
+      "original": "http://www.nbadraft.net/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "33CCKI7HA7LQVBCKOBGIOJ4TWUGPT3DU",
+      "length": "11000"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180428174909",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "5XDY2WBICUQOR23QKHPL5YDUDNV4MPLQ",
+      "length": "10925"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180501062004",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ERDJG7YH6VJLMHMBWNP3UJNHEJGDMVWG",
+      "length": "10921"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180503225312",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3FDAULSUYDPWM4WJPRREJS3Y5QXI3E55",
+      "length": "10923"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180506131158",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7TZS5RD2VLGJB4JFZNV6M5R6JPMDEKIG",
+      "length": "10977"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180508074518",
+      "original": "http://www.nbadraft.net/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "XNHAVP7KGIUVJUQVLXLNOKT4VGHHQHED",
+      "length": "10973"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180508195233",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "477FQTIHKG46TCNJBDIBNMACSMWP6ENT",
+      "length": "10794"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180511161045",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3YZONUZIX6B4FTYSIAAZ4RZ3KHL26Z4E",
+      "length": "10817"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180515084432",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "HJIU5I6BDIM3PKEZEIKKB5ZMEC2HDNBC",
+      "length": "10822"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180518052828",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ULMEZGY7MPYUFIF4HUQTXV5YPKYQWGKV",
+      "length": "10886"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180519083539",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "5TREMCIU7Q6OFZEJAD6PDSWDW5G4AJGJ",
+      "length": "10793"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180519180157",
+      "original": "http://www.nbadraft.net/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QZJU6NGYVQE7HIMPBBS3M2F7B5VKP3QJ",
+      "length": "11139"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180522032333",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "VSZIJNR445A42MC3VHRSGW2OKP6J6BZM",
+      "length": "10901"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180523230951",
+      "original": "http://www.nbadraft.net/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "5BZNOQTMSYLYOLDABCFTPCJNSLXQKRFM",
+      "length": "10950"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180524161505",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "TTW6OXXPKDFC3WONAZN3XXZXDESPRPMM",
+      "length": "10868"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180526114104",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "M3SJTWFABIGT5VODANRHGF3RFQMFQDOU",
+      "length": "10864"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180528032311",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QC2MZ5ADZXUA3KKE22Z4SMIM4H3TL5FU",
+      "length": "11012"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180528032359",
+      "original": "http://www.nbadraft.net/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "LIUAOIJ2YIHMUHRLYAFQBUSI4V2XAER7",
+      "length": "10911"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180601135000",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "KCUFCM5B2PAG74RMWHV3JLC23RCZSEJA",
+      "length": "10752"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180604203200",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "6PX3WVM7OEKWVSZEVGV3SEZI27KF4NFC",
+      "length": "10854"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180608044228",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "YGY4D3SX2DTNLU3C4W4NRSAL2Z3F2Z7B",
+      "length": "10790"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180610184730",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NKPKHWUXGIKYLT5CMBBFKYMKFE3MDDS7",
+      "length": "11036"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180613151909",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "JGWOWSMY6XTSXXEMMDY464ONJYGMAMYE",
+      "length": "11058"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180613220752",
+      "original": "http://www.nbadraft.net/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "MASW2Y3LOL3IQSHFUZJBXWQ3ZRRH76FR",
+      "length": "11295"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180616083231",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "IOX7UOLOWED6YE23PQGG7COLEYJU6S6S",
+      "length": "11071"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180618205845",
+      "original": "http://www.nbadraft.net:80/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "C7EWDFCX7UPFPOBXVY43WP3GYQ6Y4WSN",
+      "length": "11230"
+    },
+    {
+      "urlkey": "net,nbadraft)/2018mock_draft",
+      "timestamp": "20180619163210",
+      "original": "http://www.nbadraft.net/2018mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "PA2234HR74HBJJQXSZUEN3QIFQHRGQKL",
+      "length": "11382"
+    }
+  ]
+}

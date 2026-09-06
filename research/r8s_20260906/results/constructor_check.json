@@ -1,0 +1,39 @@
+{
+  "passed": true,
+  "fallback_permitted": false,
+  "configurations": [
+    {
+      "seed": 0,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 0,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "seed": 101,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 101,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "seed": 202,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 202,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,3396 @@
+{
+  "plan": {
+    "study": "R8r full F50 source-only matched rescreen",
+    "diagnostic_only": true,
+    "purpose": "Rescreen every F50 hypothesis on the fixed raw college source-only R8n backbone; prior inherited-baseline results do not select this queue.",
+    "baseline": "baseline",
+    "baselines": {
+      "source_college": "baseline"
+    },
+    "baseline_variants": {
+      "source_college": {
+        "id": "dated_raw_college_source_control",
+        "input_source": "context",
+        "additional_drop": [
+          "bio_height_in",
+          "bio_weight_lb",
+          "bio_pos_code",
+          "bio_age_at_draft",
+          "bio_combine_height_in",
+          "bio_combine_weight_lb",
+          "bio_combine_wingspan_in",
+          "bio_combine_reach_in",
+          "bio_combine_body_fat_pct",
+          "bio_combine_hand_length_in",
+          "bio_combine_hand_width_in",
+          "bio_combine_vertical_standing_in",
+          "bio_combine_vertical_max_in",
+          "bio_combine_lane_agility_s",
+          "bio_combine_sprint_s",
+          "bio_combine_bench_reps",
+          "bio_combine_wingspan_minus_height_in",
+          "bio_country_usa",
+          "col_age",
+          "col_gp",
+          "col_mpg",
+          "col_pts36",
+          "col_reb36",
+          "col_ast36",
+          "col_stl36",
+          "col_blk36",
+          "col_usg_pct",
+          "col_ts_pct",
+          "col_efg_pct",
+          "col_ast_pct",
+          "col_tov_pct",
+          "col_orb_pct",
+          "col_drb_pct",
+          "col_stl_pct",
+          "col_blk_pct",
+          "col_fg3ar",
+          "col_ftar",
+          "col_ft_pct",
+          "col_fg3_pct",
+          "col_fg2_pct",
+          "col_ortg",
+          "col_drtg",
+          "col_adj_ortg",
+          "col_adj_drtg",
+          "col_impact",
+          "col_impact_off",
+          "col_impact_def",
+          "col_value",
+          "col_recruit_score",
+          "col_rim_fga_share",
+          "col_rim_fg_pct",
+          "col_mid_fga_share",
+          "col_mid_fg_pct",
+          "col_dunks_per40",
+          "col_games_missed",
+          "col_minutes_share",
+          "col_usage_rank_team",
+          "col_bpm_rank_team",
+          "col_team_strength",
+          "col_bpm_pct_class",
+          "col_bpm_pct_age",
+          "col_usg_pct_age",
+          "col_ts_pct_age",
+          "col_ast_pct_age",
+          "col_stl_pct_age",
+          "col_blk_pct_age",
+          "col_bpm_pct_role",
+          "col_usg_pct_role",
+          "col_ast_pct_role",
+          "col_stl_pct_role",
+          "col_blk_pct_role",
+          "col_orb_pct_role",
+          "col_ts_pct_role",
+          "col_shot_proj_3p",
+          "col_fg3a_per40",
+          "col_gl_team_rank",
+          "col_gl_share_20min",
+          "col_gl_late_minus_early_pts40",
+          "col_gl_late_minus_early_ts",
+          "col_gl_late_minus_early_mpg",
+          "col_gl_top50_games",
+          "col_gl_top50_pts40",
+          "col_gl_top50_ts",
+          "col_gl_top50_gap_pts40",
+          "col_gl_top50_gap_ts",
+          "col_gl_mean_opp_rank",
+          "col_gl_ncaa_games",
+          "col_gl_ncaa_pts40",
+          "col_gl_ncaa_ts",
+          "col_gl_game_score_sd",
+          "col_gl_game_score_cv",
+          "col_gl_best5_game_score",
+          "col_gl_worst5_game_score",
+          "col_lu_on_off_net",
+          "col_lu_on_net",
+          "col_lu_rapm",
+          "col_lu_orapm",
+          "col_lu_drapm",
+          "col_lu_poss_on",
+          "col_lu_reliable",
+          "col_hm_share_rim",
+          "col_hm_fg_rim",
+          "col_hm_assisted_rim",
+          "col_hm_share_2pt_j",
+          "col_hm_fg_2pt_j",
+          "col_hm_assisted_2pt_j",
+          "col_hm_share_3",
+          "col_hm_assisted_3",
+          "col_hm_putback_share",
+          "col_sc_unassisted_rim",
+          "col_sc_unassisted_3",
+          "col_sc_self_created",
+          "col_pts_pg",
+          "col_reb_pg",
+          "col_ast_pg",
+          "col_stl_pg",
+          "col_blk_pg",
+          "col_final_season",
+          "col_class_index",
+          "col_n_seasons",
+          "col_minutes_total",
+          "col_first_bpm",
+          "col_bpm_delta",
+          "col_first_usg",
+          "col_usg_delta",
+          "col_bpm_mean",
+          "col_bpm_max",
+          "col_final_is_current",
+          "col_z_impact",
+          "col_z_ts_pct",
+          "col_z_usg_pct",
+          "col_z_ast_pct",
+          "col_z_stl_pct",
+          "col_z_blk_pct",
+          "col_z_orb_pct",
+          "col_z_fg3ar",
+          "col_z_pts36",
+          "bio_bmi_proxy",
+          "intl_age",
+          "intl_gp",
+          "intl_minutes",
+          "intl_mpg",
+          "intl_pts36",
+          "intl_reb36",
+          "intl_ast36",
+          "intl_stl36",
+          "intl_blk36",
+          "intl_usg_pct",
+          "intl_ts_pct",
+          "intl_efg_pct",
+          "intl_ast_pct",
+          "intl_tov_pct",
+          "intl_orb_pct",
+          "intl_drb_pct",
+          "intl_fg3ar",
+          "intl_ftar",
+          "intl_ft_pct",
+          "intl_fg3_pct",
+          "intl_impact",
+          "intl_level",
+          "intl_last_level",
+          "intl_n_seasons",
+          "intl_best_level",
+          "intl_youth_pts36",
+          "intl_youth_n",
+          "hs_mcdonalds_aa",
+          "hs_jordan_brand",
+          "hs_hoop_summit",
+          "hs_recruit_rank_first",
+          "hs_recruit_rank_final",
+          "hs_recruit_rank_delta",
+          "hs_recruit_rank_points",
+          "hs_rsci_rank",
+          "pre_transferred",
+          "pre_redshirt",
+          "pre_medical_redshirt",
+          "pre_withdrew_previous_draft",
+          "pre_green_room_invite",
+          "pre_n_schools",
+          "cons_mock_consensus_rank",
+          "cons_mock_best_rank",
+          "cons_mock_n_sources",
+          "cons_bigboard_consensus_rank",
+          "med_n_injuries",
+          "med_n_surgeries",
+          "med_major_injury",
+          "med_red_flag",
+          "med_months_since_injury",
+          "scout_motor",
+          "scout_feel_iq",
+          "scout_shooting_mechanics",
+          "scout_athleticism",
+          "scout_defense",
+          "scout_size_for_position",
+          "scout_ball_skills",
+          "scout_upside",
+          "scout_floor",
+          "scout_character_concern",
+          "scout_injury_concern",
+          "scout_consistency_concern",
+          "scout_age_concern",
+          "scout_overall_tone",
+          "scout_n_reports",
+          "cs_spot_15ft_pct",
+          "cs_spot_college3_pct",
+          "cs_spot_nba3_pct",
+          "cs_spot_attempts",
+          "cs_offdrib_15ft_pct",
+          "cs_offdrib_college3_pct",
+          "cs_onmove_15ft_pct",
+          "cs_onmove_college_pct",
+          "txt_has_report",
+          "txt_words",
+          "bio_measure_src",
+          "col_basic_fill",
+          "intl_lg_adj_pts36",
+          "intl_lg_strength",
+          "intl_prev_pts36",
+          "intl_season_gap",
+          "intl_src",
+          "intl_two_minutes",
+          "intl_two_pts36",
+          "misc_birth_month",
+          "misc_birth_q",
+          "misc_born_usa",
+          "misc_prep",
+          "mock_best",
+          "mock_delta",
+          "mock_delta_late",
+          "mock_first",
+          "mock_first_days",
+          "mock_last",
+          "mock_last_days",
+          "mock_listed",
+          "mock_mean",
+          "mock_share",
+          "mock_snaps",
+          "mock_std",
+          "mock_worst",
+          "prog_prev_hit_rate",
+          "prog_prev_mean_war5",
+          "prog_prev_n",
+          "traj_d_ast36",
+          "traj_d_blk36",
+          "traj_d_fg",
+          "traj_d_fg3",
+          "traj_d_ft",
+          "traj_d_mpg",
+          "traj_d_pts36",
+          "traj_d_reb36",
+          "traj_d_stl36",
+          "traj_last_gp",
+          "traj_last_is_peak",
+          "traj_last_mpg",
+          "traj_last_pts36",
+          "traj_mpg_growth",
+          "traj_n_seasons",
+          "traj_path",
+          "traj_slope_mpg",
+          "traj_slope_pts36",
+          "traj_years_span",
+          "tv_adjoe",
+          "tv_adrtg",
+          "tv_age_exact",
+          "tv_ast_pct",
+          "tv_ast_tov",
+          "tv_birth_month",
+          "tv_bpm",
+          "tv_bpm_is_peak",
+          "tv_d_adjoe",
+          "tv_d_adrtg",
+          "tv_d_ast_pct",
+          "tv_d_bpm",
+          "tv_d_efg",
+          "tv_d_ftr",
+          "tv_d_min_per",
+          "tv_d_ortg",
+          "tv_d_ts",
+          "tv_d_usg",
+          "tv_dbpm",
+          "tv_dgbpm",
+          "tv_dporpag",
+          "tv_drb",
+          "tv_drtg",
+          "tv_dunk_share",
+          "tv_dunks_pg",
+          "tv_efg",
+          "tv_first_bpm",
+          "tv_ftr",
+          "tv_gap",
+          "tv_gbpm",
+          "tv_gp",
+          "tv_home_intl",
+          "tv_home_state_code",
+          "tv_mid_pct",
+          "tv_mid_share",
+          "tv_min_per",
+          "tv_mp",
+          "tv_obpm",
+          "tv_ogbpm",
+          "tv_orb",
+          "tv_ortg",
+          "tv_pfr",
+          "tv_porpag",
+          "tv_pts",
+          "tv_rec_rank",
+          "tv_rim_pct",
+          "tv_rim_share",
+          "tv_role",
+          "tv_seasons",
+          "tv_slope_bpm",
+          "tv_stops",
+          "tv_three_share",
+          "tv_to_pct",
+          "tv_ts",
+          "tv_usg",
+          "tv_yr",
+          "txt_athlete",
+          "txt_athlete_per1k",
+          "txt_breakout",
+          "txt_breakout_per1k",
+          "txt_character",
+          "txt_character_per1k",
+          "txt_defender",
+          "txt_defender_per1k",
+          "txt_exists",
+          "txt_hype",
+          "txt_hype_per1k",
+          "txt_injury",
+          "txt_injury_per1k",
+          "txt_left",
+          "txt_left_per1k",
+          "txt_national",
+          "txt_national_per1k",
+          "txt_nba_family",
+          "txt_nba_family_per1k",
+          "txt_negative",
+          "txt_negative_per1k",
+          "txt_playmaker",
+          "txt_playmaker_per1k",
+          "txt_positive",
+          "txt_positive_per1k",
+          "txt_prep",
+          "txt_prep_per1k",
+          "txt_pro_family",
+          "txt_pro_family_per1k",
+          "txt_projected_pick",
+          "txt_refs",
+          "txt_sections",
+          "txt_shooter",
+          "txt_shooter_per1k",
+          "txt_size",
+          "txt_size_bytes",
+          "txt_size_per1k",
+          "txt_tone",
+          "txt_transfer",
+          "txt_transfer_per1k",
+          "wp_created_days_before",
+          "wp_editors_90d",
+          "wp_editors_pre",
+          "wp_exists",
+          "wp_revs_365d",
+          "wp_revs_90d",
+          "wp_revs_pre",
+          "wp_size_pre",
+          "ts_coach_prev_hit_rate",
+          "ts_coach_prev_mean_war5",
+          "ts_coach_prev_n",
+          "ts_conf_champ",
+          "ts_in_ncaa",
+          "ts_ncaa_round",
+          "ts_win_pct",
+          "tv_conf_tier",
+          "tv_ht_growth",
+          "tv_jersey",
+          "tv_mates_best_bpm",
+          "tv_mates_bpm_sum",
+          "tv_mates_drafted",
+          "tv_star_mate_minshare",
+          "tv_team_adjde",
+          "tv_team_adjoe",
+          "tv_team_barthag",
+          "tv_team_losses",
+          "tv_team_ncsos",
+          "tv_team_rank",
+          "tv_team_sos",
+          "tv_team_tempo",
+          "tv_team_wins",
+          "gt_class_pct",
+          "gt_days_above10",
+          "gt_last30_ratio",
+          "gt_peak_ratio",
+          "gt_ratio",
+          "gt_topic",
+          "gt_trend",
+          "gt_zero_share",
+          "rsci_avg",
+          "rsci_best",
+          "rsci_chg",
+          "rsci_dev",
+          "rsci_frac_ranked",
+          "rsci_hs_height_in",
+          "rsci_hs_pos",
+          "rsci_hs_to_pro",
+          "rsci_n_ranked",
+          "rsci_n_services",
+          "rsci_prep_5th",
+          "rsci_range",
+          "rsci_rank",
+          "rsci_std",
+          "rsci_top100",
+          "rsci_total_norm",
+          "rsci_worst",
+          "rsci_years_to_draft",
+          "cmb_bench",
+          "cmb_bmi",
+          "cmb_body_fat",
+          "cmb_hand_len",
+          "cmb_hand_width",
+          "cmb_lane_agility",
+          "cmb_max_vert",
+          "cmb_mod_lane_agility",
+          "cmb_offdrib_att",
+          "cmb_offdrib_pct",
+          "cmb_onmove_att",
+          "cmb_onmove_pct",
+          "cmb_reach_minus_height",
+          "cmb_spot15_att",
+          "cmb_spot15_pct",
+          "cmb_spotcol_att",
+          "cmb_spotcol_pct",
+          "cmb_spotnba_att",
+          "cmb_spotnba_pct",
+          "cmb_sprint",
+          "cmb_stand_vert",
+          "cmb_wing_minus_height"
+        ],
+        "context_features": [
+          "ctx_base_gp",
+          "ctx_base_minutes_share",
+          "ctx_base_usage",
+          "ctx_base_efg",
+          "ctx_base_ts",
+          "ctx_base_orb",
+          "ctx_base_drb",
+          "ctx_base_ast_pct",
+          "ctx_base_tov_pct",
+          "ctx_base_ftm",
+          "ctx_base_fta",
+          "ctx_base_ft_pct",
+          "ctx_base_fg2m",
+          "ctx_base_fg2a",
+          "ctx_base_fg2_pct",
+          "ctx_base_fg3m",
+          "ctx_base_fg3a",
+          "ctx_base_fg3_pct",
+          "ctx_base_blk_pct",
+          "ctx_base_stl_pct",
+          "ctx_base_ftr",
+          "ctx_base_fouls40",
+          "ctx_base_ast_tov",
+          "ctx_base_rim_made",
+          "ctx_base_rim_attempts",
+          "ctx_base_mid_made",
+          "ctx_base_mid_attempts",
+          "ctx_base_dunk_made",
+          "ctx_base_dunk_attempts",
+          "ctx_base_mpg",
+          "ctx_base_oreb_pg",
+          "ctx_base_dreb_pg",
+          "ctx_base_ast_pg",
+          "ctx_base_stl_pg",
+          "ctx_base_blk_pg",
+          "ctx_base_pts_pg",
+          "ctx_base_three_share",
+          "ctx_skill_defense_discipline",
+          "ctx_skill_creation_control",
+          "ctx_skill_usage_efficiency",
+          "ctx_skill_ft_volume"
+        ],
+        "features": [],
+        "arms": [],
+        "permutation_seed": null
+      }
+    },
+    "backbone": {
+      "icl_n": 32,
+      "topk": 60,
+      "M": 400,
+      "window": 2007,
+      "hw": "uniform",
+      "noscout": 1,
+      "drop": [
+        "scout_",
+        "col_bpm_pct_",
+        "col_usg_pct_",
+        "col_ts_pct_",
+        "col_ast_pct_",
+        "col_stl_pct_",
+        "col_blk_pct_",
+        "col_orb_pct_",
+        "col_shot_proj_"
+      ]
+    },
+    "base_columns": [
+      "ctx_base_gp",
+      "ctx_base_minutes_share",
+      "ctx_base_usage",
+      "ctx_base_efg",
+      "ctx_base_ts",
+      "ctx_base_orb",
+      "ctx_base_drb",
+      "ctx_base_ast_pct",
+      "ctx_base_tov_pct",
+      "ctx_base_ftm",
+      "ctx_base_fta",
+      "ctx_base_ft_pct",
+      "ctx_base_fg2m",
+      "ctx_base_fg2a",
+      "ctx_base_fg2_pct",
+      "ctx_base_fg3m",
+      "ctx_base_fg3a",
+      "ctx_base_fg3_pct",
+      "ctx_base_blk_pct",
+      "ctx_base_stl_pct",
+      "ctx_base_ftr",
+      "ctx_base_fouls40",
+      "ctx_base_ast_tov",
+      "ctx_base_rim_made",
+      "ctx_base_rim_attempts",
+      "ctx_base_mid_made",
+      "ctx_base_mid_attempts",
+      "ctx_base_dunk_made",
+      "ctx_base_dunk_attempts",
+      "ctx_base_mpg",
+      "ctx_base_oreb_pg",
+      "ctx_base_dreb_pg",
+      "ctx_base_ast_pg",
+      "ctx_base_stl_pg",
+      "ctx_base_blk_pg",
+      "ctx_base_pts_pg",
+      "ctx_base_three_share",
+      "ctx_skill_defense_discipline",
+      "ctx_skill_creation_control",
+      "ctx_skill_usage_efficiency",
+      "ctx_skill_ft_volume"
+    ],
+    "metadata_columns": [
+      "pid",
+      "draft_year",
+      "was_drafted",
+      "actual_pick"
+    ],
+    "candidate_features": [
+      "f50_peer_sd_usage",
+      "f50_peer_rank_usage",
+      "f50_peer_sd_ts",
+      "f50_peer_rank_ts",
+      "f50_peer_sd_ast",
+      "f50_peer_rank_ast",
+      "f50_peer_sd_tov",
+      "f50_peer_rank_tov",
+      "f50_peer_sd_orb",
+      "f50_peer_rank_orb",
+      "f50_peer_sd_drb",
+      "f50_peer_rank_drb",
+      "f50_peer_sd_stl",
+      "f50_peer_rank_stl",
+      "f50_peer_sd_blk",
+      "f50_peer_rank_blk",
+      "f50_team_share_fta",
+      "f50_team_share_three_a",
+      "f50_team_share_rim_a",
+      "f50_team_share_dunk_a",
+      "f50_team_share_ftm",
+      "f50_team_share_three_m",
+      "f50_peer_three_diet",
+      "f50_peer_rim_diet",
+      "f50_peer_defense_density",
+      "f50_peer_creation_density",
+      "f50_minutes_concentration",
+      "f50_usage_concentration",
+      "f50_career_slope_two_p",
+      "f50_career_slope_three_p",
+      "f50_career_slope_ftp",
+      "f50_career_slope_ftr",
+      "f50_career_slope_ast_tov",
+      "f50_career_slope_orb",
+      "f50_career_slope_drb",
+      "f50_career_slope_minutes",
+      "f50_career_slope_ts",
+      "f50_career_slope_usage",
+      "f50_posterior_ft",
+      "f50_posterior_three",
+      "f50_posterior_rim",
+      "f50_posterior_mid",
+      "f50_posterior_dunk",
+      "f50_posterior_two",
+      "f50_nondunk_rim_pct",
+      "f50_rim_ft_pressure",
+      "f50_perimeter_ft_agreement",
+      "f50_assist_usage_efficiency",
+      "f50_balanced_stocks",
+      "f50_foul_adjusted_rebounds"
+    ],
+    "families": {
+      "f50_peer_sd_usage": [
+        "f50_peer_sd_usage"
+      ],
+      "f50_peer_rank_usage": [
+        "f50_peer_rank_usage"
+      ],
+      "f50_peer_sd_ts": [
+        "f50_peer_sd_ts"
+      ],
+      "f50_peer_rank_ts": [
+        "f50_peer_rank_ts"
+      ],
+      "f50_peer_sd_ast": [
+        "f50_peer_sd_ast"
+      ],
+      "f50_peer_rank_ast": [
+        "f50_peer_rank_ast"
+      ],
+      "f50_peer_sd_tov": [
+        "f50_peer_sd_tov"
+      ],
+      "f50_peer_rank_tov": [
+        "f50_peer_rank_tov"
+      ],
+      "f50_peer_sd_orb": [
+        "f50_peer_sd_orb"
+      ],
+      "f50_peer_rank_orb": [
+        "f50_peer_rank_orb"
+      ],
+      "f50_peer_sd_drb": [
+        "f50_peer_sd_drb"
+      ],
+      "f50_peer_rank_drb": [
+        "f50_peer_rank_drb"
+      ],
+      "f50_peer_sd_stl": [
+        "f50_peer_sd_stl"
+      ],
+      "f50_peer_rank_stl": [
+        "f50_peer_rank_stl"
+      ],
+      "f50_peer_sd_blk": [
+        "f50_peer_sd_blk"
+      ],
+      "f50_peer_rank_blk": [
+        "f50_peer_rank_blk"
+      ],
+      "f50_team_share_fta": [
+        "f50_team_share_fta"
+      ],
+      "f50_team_share_three_a": [
+        "f50_team_share_three_a"
+      ],
+      "f50_team_share_rim_a": [
+        "f50_team_share_rim_a"
+      ],
+      "f50_team_share_dunk_a": [
+        "f50_team_share_dunk_a"
+      ],
+      "f50_team_share_ftm": [
+        "f50_team_share_ftm"
+      ],
+      "f50_team_share_three_m": [
+        "f50_team_share_three_m"
+      ],
+      "f50_peer_three_diet": [
+        "f50_peer_three_diet"
+      ],
+      "f50_peer_rim_diet": [
+        "f50_peer_rim_diet"
+      ],
+      "f50_peer_defense_density": [
+        "f50_peer_defense_density"
+      ],
+      "f50_peer_creation_density": [
+        "f50_peer_creation_density"
+      ],
+      "f50_minutes_concentration": [
+        "f50_minutes_concentration"
+      ],
+      "f50_usage_concentration": [
+        "f50_usage_concentration"
+      ],
+      "f50_career_slope_two_p": [
+        "f50_career_slope_two_p"
+      ],
+      "f50_career_slope_three_p": [
+        "f50_career_slope_three_p"
+      ],
+      "f50_career_slope_ftp": [
+        "f50_career_slope_ftp"
+      ],
+      "f50_career_slope_ftr": [
+        "f50_career_slope_ftr"
+      ],
+      "f50_career_slope_ast_tov": [
+        "f50_career_slope_ast_tov"
+      ],
+      "f50_career_slope_orb": [
+        "f50_career_slope_orb"
+      ],
+      "f50_career_slope_drb": [
+        "f50_career_slope_drb"
+      ],
+      "f50_career_slope_minutes": [
+        "f50_career_slope_minutes"
+      ],
+      "f50_career_slope_ts": [
+        "f50_career_slope_ts"
+      ],
+      "f50_career_slope_usage": [
+        "f50_career_slope_usage"
+      ],
+      "f50_posterior_ft": [
+        "f50_posterior_ft"
+      ],
+      "f50_posterior_three": [
+        "f50_posterior_three"
+      ],
+      "f50_posterior_rim": [
+        "f50_posterior_rim"
+      ],
+      "f50_posterior_mid": [
+        "f50_posterior_mid"
+      ],
+      "f50_posterior_dunk": [
+        "f50_posterior_dunk"
+      ],
+      "f50_posterior_two": [
+        "f50_posterior_two"
+      ],
+      "f50_nondunk_rim_pct": [
+        "f50_nondunk_rim_pct"
+      ],
+      "f50_rim_ft_pressure": [
+        "f50_rim_ft_pressure"
+      ],
+      "f50_perimeter_ft_agreement": [
+        "f50_perimeter_ft_agreement"
+      ],
+      "f50_assist_usage_efficiency": [
+        "f50_assist_usage_efficiency"
+      ],
+      "f50_balanced_stocks": [
+        "f50_balanced_stocks"
+      ],
+      "f50_foul_adjusted_rebounds": [
+        "f50_foul_adjusted_rebounds"
+      ]
+    },
+    "active_families": [
+      "f50_peer_sd_usage",
+      "f50_peer_rank_usage",
+      "f50_peer_sd_ts",
+      "f50_peer_rank_ts",
+      "f50_peer_sd_ast",
+      "f50_peer_rank_ast",
+      "f50_peer_sd_tov",
+      "f50_peer_rank_tov",
+      "f50_peer_sd_orb",
+      "f50_peer_rank_orb",
+      "f50_peer_sd_drb",
+      "f50_peer_rank_drb",
+      "f50_peer_sd_stl",
+      "f50_peer_rank_stl",
+      "f50_peer_sd_blk",
+      "f50_peer_rank_blk",
+      "f50_team_share_fta",
+      "f50_team_share_three_a",
+      "f50_team_share_rim_a",
+      "f50_team_share_dunk_a",
+      "f50_team_share_ftm",
+      "f50_team_share_three_m",
+      "f50_peer_three_diet",
+      "f50_peer_rim_diet",
+      "f50_peer_defense_density",
+      "f50_peer_creation_density",
+      "f50_minutes_concentration",
+      "f50_usage_concentration",
+      "f50_career_slope_two_p",
+      "f50_career_slope_three_p",
+      "f50_career_slope_ftp",
+      "f50_career_slope_ftr",
+      "f50_career_slope_ast_tov",
+      "f50_career_slope_orb",
+      "f50_career_slope_drb",
+      "f50_career_slope_minutes",
+      "f50_career_slope_ts",
+      "f50_career_slope_usage",
+      "f50_posterior_ft",
+      "f50_posterior_three",
+      "f50_posterior_rim",
+      "f50_posterior_mid",
+      "f50_posterior_dunk",
+      "f50_posterior_two",
+      "f50_nondunk_rim_pct",
+      "f50_rim_ft_pressure",
+      "f50_perimeter_ft_agreement",
+      "f50_assist_usage_efficiency",
+      "f50_balanced_stocks",
+      "f50_foul_adjusted_rebounds"
+    ],
+    "excluded_families": {},
+    "training_eligibility": {
+      "2012": [
+        {
+          "feature": "f50_peer_sd_usage",
+          "training_observed": 144,
+          "training_unique": 144,
+          "eligible": true,
+          "swappable_training_observed": 144
+        },
+        {
+          "feature": "f50_peer_rank_usage",
+          "training_observed": 144,
+          "training_unique": 41,
+          "eligible": true,
+          "swappable_training_observed": 144
+        },
+        {
+          "feature": "f50_peer_sd_ts",
+          "training_observed": 144,
+          "training_unique": 144,
+          "eligible": true,
+          "swappable_training_observed": 144
+        },
+        {
+          "feature": "f50_peer_rank_ts",
+          "training_observed": 144,
+          "training_unique": 53,
+          "eligible": true,
+          "swappable_training_observed": 144
+        },
+        {
+          "feature": "f50_peer_sd_ast",
+          "training_observed": 144,
+          "training_unique": 144,
+          "eligible": true,
+          "swappable_training_observed": 144
+        },
+        {
+          "feature": "f50_peer_rank_ast",
+          "training_observed": 144,
+          "training_unique": 57,
+          "eligible": true,
+          "swappable_training_observed": 144
+        },
+        {
+          "feature": "f50_peer_sd_tov",
+          "training_observed": 144,
+          "training_unique": 144,
+          "eligible": true,
+          "swappable_training_observed": 144
+        },
+        {
+          "feature": "f50_peer_rank_tov",
+          "training_observed": 144,
+          "training_unique": 60,
+          "eligible": true,
+          "swappable_training_observed": 144
+        },
+        {
+          "feature": "f50_peer_sd_orb",
+          "training_observed": 144,
+          "training_unique": 144,
+          "eligible": true,
+          "swappable_training_observed": 144
+        },
+        {
+          "feature": "f50_peer_rank_orb",
+          "training_observed": 144,
+          "training_unique": 68,
+          "eligible": true,
+          "swappable_training_observed": 144
+        },
+        {
+          "feature": "f50_peer_sd_drb",
+          "training_observed": 144,
+          "training_unique": 144,
+          "eligible": true,
+          "swappable_training_observed": 144
+        },
+        {
+          "feature": "f50_peer_rank_drb",
+          "training_observed": 144,
+          "training_unique": 56,
+          "eligible": true,
+          "swappable_training_observed": 144
+        },
+        {
+          "feature": "f50_peer_sd_stl",
+          "training_observed": 144,
+          "training_unique": 144,
+          "eligible": true,
+          "swappable_training_observed": 144
+        },
+        {
+          "feature": "f50_peer_rank_stl",
+          "training_observed": 144,
+          "training_unique": 73,
+          "eligible": true,
+          "swappable_training_observed": 144
+        },
+        {
+          "feature": "f50_peer_sd_blk",
+          "training_observed": 144,
+          "training_unique": 144,
+          "eligible": true,
+          "swappable_training_observed": 144
+        },
+        {
+          "feature": "f50_peer_rank_blk",
+          "training_observed": 144,
+          "training_unique": 63,
+          "eligible": true,
+          "swappable_training_observed": 144
+        },
+        {
+          "feature": "f50_team_share_fta",
+          "training_observed": 144,
+          "training_unique": 144,
+          "eligible": true,
+          "swappable_training_observed": 144
+        },
+        {
+          "feature": "f50_team_share_three_a",
+          "training_observed": 144,
+          "training_unique": 126,
+          "eligible": true,
+          "swappable_training_observed": 144
+        },
+        {
+          "feature": "f50_team_share_rim_a",
+          "training_observed": 41,
+          "training_unique": 41,
+          "eligible": true,
+          "swappable_training_observed": 41
+        },
+        {
+          "feature": "f50_team_share_dunk_a",
+          "training_observed": 41,
+          "training_unique": 41,
+          "eligible": true,
+          "swappable_training_observed": 41
+        },
+        {
+          "feature": "f50_team_share_ftm",
+          "training_observed": 144,
+          "training_unique": 143,
+          "eligible": true,
+          "swappable_training_observed": 144
+        },
+        {
+          "feature": "f50_team_share_three_m",
+          "training_observed": 144,
+          "training_unique": 113,
+          "eligible": true,
+          "swappable_training_observed": 144
+        },
+        {
+          "feature": "f50_peer_three_diet",
+          "training_observed": 144,
+          "training_unique": 144,
+          "eligible": true,
+          "swappable_training_observed": 144
+        },
+        {
+          "feature": "f50_peer_rim_diet",
+          "training_observed": 50,
+          "training_unique": 50,
+          "eligible": true,
+          "swappable_training_observed": 50
+        },
+        {
+          "feature": "f50_peer_defense_density",
+          "training_observed": 144,
+          "training_unique": 144,
+          "eligible": true,
+          "swappable_training_observed": 144
+        },
+        {
+          "feature": "f50_peer_creation_density",
+          "training_observed": 144,
+          "training_unique": 144,
+          "eligible": true,
+          "swappable_training_observed": 144
+        },
+        {
+          "feature": "f50_minutes_concentration",
+          "training_observed": 144,
+          "training_unique": 104,
+          "eligible": true,
+          "swappable_training_observed": 144
+        },
+        {
+          "feature": "f50_usage_concentration",
+          "training_observed": 144,
+          "training_unique": 104,
+          "eligible": true,
+          "swappable_training_observed": 144
+        },
+        {
+          "feature": "f50_career_slope_two_p",
+          "training_observed": 83,
+          "training_unique": 80,
+          "eligible": true,
+          "swappable_training_observed": 83
+        },
+        {
+          "feature": "f50_career_slope_three_p",
+          "training_observed": 83,
+          "training_unique": 69,
+          "eligible": true,
+          "swappable_training_observed": 83
+        },
+        {
+          "feature": "f50_career_slope_ftp",
+          "training_observed": 83,
+          "training_unique": 83,
+          "eligible": true,
+          "swappable_training_observed": 83
+        },
+        {
+          "feature": "f50_career_slope_ftr",
+          "training_observed": 83,
+          "training_unique": 83,
+          "eligible": true,
+          "swappable_training_observed": 83
+        },
+        {
+          "feature": "f50_career_slope_ast_tov",
+          "training_observed": 83,
+          "training_unique": 83,
+          "eligible": true,
+          "swappable_training_observed": 83
+        },
+        {
+          "feature": "f50_career_slope_orb",
+          "training_observed": 83,
+          "training_unique": 82,
+          "eligible": true,
+          "swappable_training_observed": 83
+        },
+        {
+          "feature": "f50_career_slope_drb",
+          "training_observed": 83,
+          "training_unique": 82,
+          "eligible": true,
+          "swappable_training_observed": 83
+        },
+        {
+          "feature": "f50_career_slope_minutes",
+          "training_observed": 83,
+          "training_unique": 83,
+          "eligible": true,
+          "swappable_training_observed": 83
+        },
+        {
+          "feature": "f50_career_slope_ts",
+          "training_observed": 83,
+          "training_unique": 83,
+          "eligible": true,
+          "swappable_training_observed": 83
+        },
+        {
+          "feature": "f50_career_slope_usage",
+          "training_observed": 83,
+          "training_unique": 83,
+          "eligible": true,
+          "swappable_training_observed": 83
+        },
+        {
+          "feature": "f50_posterior_ft",
+          "training_observed": 144,
+          "training_unique": 139,
+          "eligible": true,
+          "swappable_training_observed": 144
+        },
+        {
+          "feature": "f50_posterior_three",
+          "training_observed": 144,
+          "training_unique": 112,
+          "eligible": true,
+          "swappable_training_observed": 144
+        },
+        {
+          "feature": "f50_posterior_rim",
+          "training_observed": 50,
+          "training_unique": 48,
+          "eligible": true,
+          "swappable_training_observed": 50
+        },
+        {
+          "feature": "f50_posterior_mid",
+          "training_observed": 50,
+          "training_unique": 47,
+          "eligible": true,
+          "swappable_training_observed": 50
+        },
+        {
+          "feature": "f50_posterior_dunk",
+          "training_observed": 50,
+          "training_unique": 39,
+          "eligible": true,
+          "swappable_training_observed": 50
+        },
+        {
+          "feature": "f50_posterior_two",
+          "training_observed": 144,
+          "training_unique": 143,
+          "eligible": true,
+          "swappable_training_observed": 144
+        },
+        {
+          "feature": "f50_nondunk_rim_pct",
+          "training_observed": 50,
+          "training_unique": 49,
+          "eligible": true,
+          "swappable_training_observed": 50
+        },
+        {
+          "feature": "f50_rim_ft_pressure",
+          "training_observed": 50,
+          "training_unique": 50,
+          "eligible": true,
+          "swappable_training_observed": 50
+        },
+        {
+          "feature": "f50_perimeter_ft_agreement",
+          "training_observed": 144,
+          "training_unique": 128,
+          "eligible": true,
+          "swappable_training_observed": 144
+        },
+        {
+          "feature": "f50_assist_usage_efficiency",
+          "training_observed": 144,
+          "training_unique": 144,
+          "eligible": true,
+          "swappable_training_observed": 144
+        },
+        {
+          "feature": "f50_balanced_stocks",
+          "training_observed": 144,
+          "training_unique": 137,
+          "eligible": true,
+          "swappable_training_observed": 144
+        },
+        {
+          "feature": "f50_foul_adjusted_rebounds",
+          "training_observed": 144,
+          "training_unique": 139,
+          "eligible": true,
+          "swappable_training_observed": 144
+        }
+      ],
+      "2013": [
+        {
+          "feature": "f50_peer_sd_usage",
+          "training_observed": 200,
+          "training_unique": 200,
+          "eligible": true,
+          "swappable_training_observed": 200
+        },
+        {
+          "feature": "f50_peer_rank_usage",
+          "training_observed": 200,
+          "training_unique": 49,
+          "eligible": true,
+          "swappable_training_observed": 200
+        },
+        {
+          "feature": "f50_peer_sd_ts",
+          "training_observed": 200,
+          "training_unique": 200,
+          "eligible": true,
+          "swappable_training_observed": 200
+        },
+        {
+          "feature": "f50_peer_rank_ts",
+          "training_observed": 200,
+          "training_unique": 59,
+          "eligible": true,
+          "swappable_training_observed": 200
+        },
+        {
+          "feature": "f50_peer_sd_ast",
+          "training_observed": 200,
+          "training_unique": 200,
+          "eligible": true,
+          "swappable_training_observed": 200
+        },
+        {
+          "feature": "f50_peer_rank_ast",
+          "training_observed": 200,
+          "training_unique": 64,
+          "eligible": true,
+          "swappable_training_observed": 200
+        },
+        {
+          "feature": "f50_peer_sd_tov",
+          "training_observed": 200,
+          "training_unique": 200,
+          "eligible": true,
+          "swappable_training_observed": 200
+        },
+        {
+          "feature": "f50_peer_rank_tov",
+          "training_observed": 200,
+          "training_unique": 67,
+          "eligible": true,
+          "swappable_training_observed": 200
+        },
+        {
+          "feature": "f50_peer_sd_orb",
+          "training_observed": 200,
+          "training_unique": 200,
+          "eligible": true,
+          "swappable_training_observed": 200
+        },
+        {
+          "feature": "f50_peer_rank_orb",
+          "training_observed": 200,
+          "training_unique": 75,
+          "eligible": true,
+          "swappable_training_observed": 200
+        },
+        {
+          "feature": "f50_peer_sd_drb",
+          "training_observed": 200,
+          "training_unique": 200,
+          "eligible": true,
+          "swappable_training_observed": 200
+        },
+        {
+          "feature": "f50_peer_rank_drb",
+          "training_observed": 200,
+          "training_unique": 68,
+          "eligible": true,
+          "swappable_training_observed": 200
+        },
+        {
+          "feature": "f50_peer_sd_stl",
+          "training_observed": 200,
+          "training_unique": 200,
+          "eligible": true,
+          "swappable_training_observed": 200
+        },
+        {
+          "feature": "f50_peer_rank_stl",
+          "training_observed": 200,
+          "training_unique": 86,
+          "eligible": true,
+          "swappable_training_observed": 200
+        },
+        {
+          "feature": "f50_peer_sd_blk",
+          "training_observed": 200,
+          "training_unique": 200,
+          "eligible": true,
+          "swappable_training_observed": 200
+        },
+        {
+          "feature": "f50_peer_rank_blk",
+          "training_observed": 200,
+          "training_unique": 74,
+          "eligible": true,
+          "swappable_training_observed": 200
+        },
+        {
+          "feature": "f50_team_share_fta",
+          "training_observed": 200,
+          "training_unique": 200,
+          "eligible": true,
+          "swappable_training_observed": 200
+        },
+        {
+          "feature": "f50_team_share_three_a",
+          "training_observed": 200,
+          "training_unique": 176,
+          "eligible": true,
+          "swappable_training_observed": 200
+        },
+        {
+          "feature": "f50_team_share_rim_a",
+          "training_observed": 76,
+          "training_unique": 76,
+          "eligible": true,
+          "swappable_training_observed": 76
+        },
+        {
+          "feature": "f50_team_share_dunk_a",
+          "training_observed": 76,
+          "training_unique": 73,
+          "eligible": true,
+          "swappable_training_observed": 76
+        },
+        {
+          "feature": "f50_team_share_ftm",
+          "training_observed": 200,
+          "training_unique": 199,
+          "eligible": true,
+          "swappable_training_observed": 200
+        },
+        {
+          "feature": "f50_team_share_three_m",
+          "training_observed": 200,
+          "training_unique": 161,
+          "eligible": true,
+          "swappable_training_observed": 200
+        },
+        {
+          "feature": "f50_peer_three_diet",
+          "training_observed": 200,
+          "training_unique": 200,
+          "eligible": true,
+          "swappable_training_observed": 200
+        },
+        {
+          "feature": "f50_peer_rim_diet",
+          "training_observed": 106,
+          "training_unique": 106,
+          "eligible": true,
+          "swappable_training_observed": 106
+        },
+        {
+          "feature": "f50_peer_defense_density",
+          "training_observed": 200,
+          "training_unique": 200,
+          "eligible": true,
+          "swappable_training_observed": 200
+        },
+        {
+          "feature": "f50_peer_creation_density",
+          "training_observed": 200,
+          "training_unique": 200,
+          "eligible": true,
+          "swappable_training_observed": 200
+        },
+        {
+          "feature": "f50_minutes_concentration",
+          "training_observed": 200,
+          "training_unique": 148,
+          "eligible": true,
+          "swappable_training_observed": 200
+        },
+        {
+          "feature": "f50_usage_concentration",
+          "training_observed": 200,
+          "training_unique": 148,
+          "eligible": true,
+          "swappable_training_observed": 200
+        },
+        {
+          "feature": "f50_career_slope_two_p",
+          "training_observed": 133,
+          "training_unique": 130,
+          "eligible": true,
+          "swappable_training_observed": 133
+        },
+        {
+          "feature": "f50_career_slope_three_p",
+          "training_observed": 133,
+          "training_unique": 115,
+          "eligible": true,
+          "swappable_training_observed": 133
+        },
+        {
+          "feature": "f50_career_slope_ftp",
+          "training_observed": 133,
+          "training_unique": 133,
+          "eligible": true,
+          "swappable_training_observed": 133
+        },
+        {
+          "feature": "f50_career_slope_ftr",
+          "training_observed": 133,
+          "training_unique": 133,
+          "eligible": true,
+          "swappable_training_observed": 133
+        },
+        {
+          "feature": "f50_career_slope_ast_tov",
+          "training_observed": 133,
+          "training_unique": 133,
+          "eligible": true,
+          "swappable_training_observed": 133
+        },
+        {
+          "feature": "f50_career_slope_orb",
+          "training_observed": 133,
+          "training_unique": 132,
+          "eligible": true,
+          "swappable_training_observed": 133
+        },
+        {
+          "feature": "f50_career_slope_drb",
+          "training_observed": 133,
+          "training_unique": 132,
+          "eligible": true,
+          "swappable_training_observed": 133
+        },
+        {
+          "feature": "f50_career_slope_minutes",
+          "training_observed": 133,
+          "training_unique": 133,
+          "eligible": true,
+          "swappable_training_observed": 133
+        },
+        {
+          "feature": "f50_career_slope_ts",
+          "training_observed": 133,
+          "training_unique": 133,
+          "eligible": true,
+          "swappable_training_observed": 133
+        },
+        {
+          "feature": "f50_career_slope_usage",
+          "training_observed": 133,
+          "training_unique": 133,
+          "eligible": true,
+          "swappable_training_observed": 133
+        },
+        {
+          "feature": "f50_posterior_ft",
+          "training_observed": 200,
+          "training_unique": 193,
+          "eligible": true,
+          "swappable_training_observed": 200
+        },
+        {
+          "feature": "f50_posterior_three",
+          "training_observed": 200,
+          "training_unique": 155,
+          "eligible": true,
+          "swappable_training_observed": 200
+        },
+        {
+          "feature": "f50_posterior_rim",
+          "training_observed": 106,
+          "training_unique": 100,
+          "eligible": true,
+          "swappable_training_observed": 106
+        },
+        {
+          "feature": "f50_posterior_mid",
+          "training_observed": 106,
+          "training_unique": 100,
+          "eligible": true,
+          "swappable_training_observed": 106
+        },
+        {
+          "feature": "f50_posterior_dunk",
+          "training_observed": 106,
+          "training_unique": 62,
+          "eligible": true,
+          "swappable_training_observed": 106
+        },
+        {
+          "feature": "f50_posterior_two",
+          "training_observed": 200,
+          "training_unique": 196,
+          "eligible": true,
+          "swappable_training_observed": 200
+        },
+        {
+          "feature": "f50_nondunk_rim_pct",
+          "training_observed": 106,
+          "training_unique": 102,
+          "eligible": true,
+          "swappable_training_observed": 106
+        },
+        {
+          "feature": "f50_rim_ft_pressure",
+          "training_observed": 106,
+          "training_unique": 106,
+          "eligible": true,
+          "swappable_training_observed": 106
+        },
+        {
+          "feature": "f50_perimeter_ft_agreement",
+          "training_observed": 200,
+          "training_unique": 179,
+          "eligible": true,
+          "swappable_training_observed": 200
+        },
+        {
+          "feature": "f50_assist_usage_efficiency",
+          "training_observed": 200,
+          "training_unique": 200,
+          "eligible": true,
+          "swappable_training_observed": 200
+        },
+        {
+          "feature": "f50_balanced_stocks",
+          "training_observed": 200,
+          "training_unique": 184,
+          "eligible": true,
+          "swappable_training_observed": 200
+        },
+        {
+          "feature": "f50_foul_adjusted_rebounds",
+          "training_observed": 200,
+          "training_unique": 194,
+          "eligible": true,
+          "swappable_training_observed": 200
+        }
+      ],
+      "2014": [
+        {
+          "feature": "f50_peer_sd_usage",
+          "training_observed": 256,
+          "training_unique": 256,
+          "eligible": true,
+          "swappable_training_observed": 256
+        },
+        {
+          "feature": "f50_peer_rank_usage",
+          "training_observed": 256,
+          "training_unique": 57,
+          "eligible": true,
+          "swappable_training_observed": 256
+        },
+        {
+          "feature": "f50_peer_sd_ts",
+          "training_observed": 256,
+          "training_unique": 256,
+          "eligible": true,
+          "swappable_training_observed": 256
+        },
+        {
+          "feature": "f50_peer_rank_ts",
+          "training_observed": 256,
+          "training_unique": 61,
+          "eligible": true,
+          "swappable_training_observed": 256
+        },
+        {
+          "feature": "f50_peer_sd_ast",
+          "training_observed": 256,
+          "training_unique": 256,
+          "eligible": true,
+          "swappable_training_observed": 256
+        },
+        {
+          "feature": "f50_peer_rank_ast",
+          "training_observed": 256,
+          "training_unique": 71,
+          "eligible": true,
+          "swappable_training_observed": 256
+        },
+        {
+          "feature": "f50_peer_sd_tov",
+          "training_observed": 256,
+          "training_unique": 256,
+          "eligible": true,
+          "swappable_training_observed": 256
+        },
+        {
+          "feature": "f50_peer_rank_tov",
+          "training_observed": 256,
+          "training_unique": 73,
+          "eligible": true,
+          "swappable_training_observed": 256
+        },
+        {
+          "feature": "f50_peer_sd_orb",
+          "training_observed": 256,
+          "training_unique": 256,
+          "eligible": true,
+          "swappable_training_observed": 256
+        },
+        {
+          "feature": "f50_peer_rank_orb",
+          "training_observed": 256,
+          "training_unique": 84,
+          "eligible": true,
+          "swappable_training_observed": 256
+        },
+        {
+          "feature": "f50_peer_sd_drb",
+          "training_observed": 256,
+          "training_unique": 256,
+          "eligible": true,
+          "swappable_training_observed": 256
+        },
+        {
+          "feature": "f50_peer_rank_drb",
+          "training_observed": 256,
+          "training_unique": 76,
+          "eligible": true,
+          "swappable_training_observed": 256
+        },
+        {
+          "feature": "f50_peer_sd_stl",
+          "training_observed": 256,
+          "training_unique": 256,
+          "eligible": true,
+          "swappable_training_observed": 256
+        },
+        {
+          "feature": "f50_peer_rank_stl",
+          "training_observed": 256,
+          "training_unique": 93,
+          "eligible": true,
+          "swappable_training_observed": 256
+        },
+        {
+          "feature": "f50_peer_sd_blk",
+          "training_observed": 256,
+          "training_unique": 256,
+          "eligible": true,
+          "swappable_training_observed": 256
+        },
+        {
+          "feature": "f50_peer_rank_blk",
+          "training_observed": 256,
+          "training_unique": 80,
+          "eligible": true,
+          "swappable_training_observed": 256
+        },
+        {
+          "feature": "f50_team_share_fta",
+          "training_observed": 256,
+          "training_unique": 256,
+          "eligible": true,
+          "swappable_training_observed": 256
+        },
+        {
+          "feature": "f50_team_share_three_a",
+          "training_observed": 256,
+          "training_unique": 226,
+          "eligible": true,
+          "swappable_training_observed": 256
+        },
+        {
+          "feature": "f50_team_share_rim_a",
+          "training_observed": 120,
+          "training_unique": 120,
+          "eligible": true,
+          "swappable_training_observed": 120
+        },
+        {
+          "feature": "f50_team_share_dunk_a",
+          "training_observed": 120,
+          "training_unique": 110,
+          "eligible": true,
+          "swappable_training_observed": 120
+        },
+        {
+          "feature": "f50_team_share_ftm",
+          "training_observed": 256,
+          "training_unique": 253,
+          "eligible": true,
+          "swappable_training_observed": 256
+        },
+        {
+          "feature": "f50_team_share_three_m",
+          "training_observed": 256,
+          "training_unique": 205,
+          "eligible": true,
+          "swappable_training_observed": 256
+        },
+        {
+          "feature": "f50_peer_three_diet",
+          "training_observed": 256,
+          "training_unique": 256,
+          "eligible": true,
+          "swappable_training_observed": 256
+        },
+        {
+          "feature": "f50_peer_rim_diet",
+          "training_observed": 162,
+          "training_unique": 162,
+          "eligible": true,
+          "swappable_training_observed": 162
+        },
+        {
+          "feature": "f50_peer_defense_density",
+          "training_observed": 256,
+          "training_unique": 256,
+          "eligible": true,
+          "swappable_training_observed": 256
+        },
+        {
+          "feature": "f50_peer_creation_density",
+          "training_observed": 256,
+          "training_unique": 256,
+          "eligible": true,
+          "swappable_training_observed": 256
+        },
+        {
+          "feature": "f50_minutes_concentration",
+          "training_observed": 256,
+          "training_unique": 186,
+          "eligible": true,
+          "swappable_training_observed": 256
+        },
+        {
+          "feature": "f50_usage_concentration",
+          "training_observed": 256,
+          "training_unique": 186,
+          "eligible": true,
+          "swappable_training_observed": 256
+        },
+        {
+          "feature": "f50_career_slope_two_p",
+          "training_observed": 180,
+          "training_unique": 177,
+          "eligible": true,
+          "swappable_training_observed": 180
+        },
+        {
+          "feature": "f50_career_slope_three_p",
+          "training_observed": 180,
+          "training_unique": 158,
+          "eligible": true,
+          "swappable_training_observed": 180
+        },
+        {
+          "feature": "f50_career_slope_ftp",
+          "training_observed": 180,
+          "training_unique": 180,
+          "eligible": true,
+          "swappable_training_observed": 180
+        },
+        {
+          "feature": "f50_career_slope_ftr",
+          "training_observed": 180,
+          "training_unique": 180,
+          "eligible": true,
+          "swappable_training_observed": 180
+        },
+        {
+          "feature": "f50_career_slope_ast_tov",
+          "training_observed": 180,
+          "training_unique": 180,
+          "eligible": true,
+          "swappable_training_observed": 180
+        },
+        {
+          "feature": "f50_career_slope_orb",
+          "training_observed": 180,
+          "training_unique": 179,
+          "eligible": true,
+          "swappable_training_observed": 180
+        },
+        {
+          "feature": "f50_career_slope_drb",
+          "training_observed": 180,
+          "training_unique": 179,
+          "eligible": true,
+          "swappable_training_observed": 180
+        },
+        {
+          "feature": "f50_career_slope_minutes",
+          "training_observed": 180,
+          "training_unique": 180,
+          "eligible": true,
+          "swappable_training_observed": 180
+        },
+        {
+          "feature": "f50_career_slope_ts",
+          "training_observed": 180,
+          "training_unique": 180,
+          "eligible": true,
+          "swappable_training_observed": 180
+        },
+        {
+          "feature": "f50_career_slope_usage",
+          "training_observed": 180,
+          "training_unique": 180,
+          "eligible": true,
+          "swappable_training_observed": 180
+        },
+        {
+          "feature": "f50_posterior_ft",
+          "training_observed": 256,
+          "training_unique": 246,
+          "eligible": true,
+          "swappable_training_observed": 256
+        },
+        {
+          "feature": "f50_posterior_three",
+          "training_observed": 256,
+          "training_unique": 195,
+          "eligible": true,
+          "swappable_training_observed": 256
+        },
+        {
+          "feature": "f50_posterior_rim",
+          "training_observed": 162,
+          "training_unique": 151,
+          "eligible": true,
+          "swappable_training_observed": 162
+        },
+        {
+          "feature": "f50_posterior_mid",
+          "training_observed": 162,
+          "training_unique": 151,
+          "eligible": true,
+          "swappable_training_observed": 162
+        },
+        {
+          "feature": "f50_posterior_dunk",
+          "training_observed": 162,
+          "training_unique": 87,
+          "eligible": true,
+          "swappable_training_observed": 162
+        },
+        {
+          "feature": "f50_posterior_two",
+          "training_observed": 256,
+          "training_unique": 252,
+          "eligible": true,
+          "swappable_training_observed": 256
+        },
+        {
+          "feature": "f50_nondunk_rim_pct",
+          "training_observed": 162,
+          "training_unique": 151,
+          "eligible": true,
+          "swappable_training_observed": 162
+        },
+        {
+          "feature": "f50_rim_ft_pressure",
+          "training_observed": 162,
+          "training_unique": 162,
+          "eligible": true,
+          "swappable_training_observed": 162
+        },
+        {
+          "feature": "f50_perimeter_ft_agreement",
+          "training_observed": 256,
+          "training_unique": 229,
+          "eligible": true,
+          "swappable_training_observed": 256
+        },
+        {
+          "feature": "f50_assist_usage_efficiency",
+          "training_observed": 256,
+          "training_unique": 256,
+          "eligible": true,
+          "swappable_training_observed": 256
+        },
+        {
+          "feature": "f50_balanced_stocks",
+          "training_observed": 256,
+          "training_unique": 228,
+          "eligible": true,
+          "swappable_training_observed": 256
+        },
+        {
+          "feature": "f50_foul_adjusted_rebounds",
+          "training_observed": 256,
+          "training_unique": 250,
+          "eligible": true,
+          "swappable_training_observed": 256
+        }
+      ]
+    },
+    "folds": [
+      2012,
+      2013,
+      2014
+    ],
+    "seeds": [
+      0,
+      101,
+      202
+    ],
+    "permutation_seeds": [
+      9317,
+      18739,
+      28657
+    ],
+    "variants": [
+      {
+        "id": "baseline",
+        "backbone": "source_college",
+        "family": "baseline",
+        "arm": "baseline",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_peer_sd_usage_real",
+        "backbone": "source_college",
+        "family": "f50_peer_sd_usage",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_peer_sd_usage_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_peer_sd_usage",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_peer_sd_usage_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_peer_sd_usage",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_peer_sd_usage_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_peer_sd_usage",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_peer_rank_usage_real",
+        "backbone": "source_college",
+        "family": "f50_peer_rank_usage",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_peer_rank_usage_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_peer_rank_usage",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_peer_rank_usage_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_peer_rank_usage",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_peer_rank_usage_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_peer_rank_usage",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_peer_sd_ts_real",
+        "backbone": "source_college",
+        "family": "f50_peer_sd_ts",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_peer_sd_ts_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_peer_sd_ts",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_peer_sd_ts_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_peer_sd_ts",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_peer_sd_ts_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_peer_sd_ts",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_peer_rank_ts_real",
+        "backbone": "source_college",
+        "family": "f50_peer_rank_ts",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_peer_rank_ts_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_peer_rank_ts",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_peer_rank_ts_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_peer_rank_ts",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_peer_rank_ts_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_peer_rank_ts",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_peer_sd_ast_real",
+        "backbone": "source_college",
+        "family": "f50_peer_sd_ast",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_peer_sd_ast_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_peer_sd_ast",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_peer_sd_ast_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_peer_sd_ast",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_peer_sd_ast_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_peer_sd_ast",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_peer_rank_ast_real",
+        "backbone": "source_college",
+        "family": "f50_peer_rank_ast",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_peer_rank_ast_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_peer_rank_ast",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_peer_rank_ast_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_peer_rank_ast",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_peer_rank_ast_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_peer_rank_ast",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_peer_sd_tov_real",
+        "backbone": "source_college",
+        "family": "f50_peer_sd_tov",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_peer_sd_tov_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_peer_sd_tov",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_peer_sd_tov_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_peer_sd_tov",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_peer_sd_tov_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_peer_sd_tov",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_peer_rank_tov_real",
+        "backbone": "source_college",
+        "family": "f50_peer_rank_tov",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_peer_rank_tov_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_peer_rank_tov",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_peer_rank_tov_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_peer_rank_tov",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_peer_rank_tov_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_peer_rank_tov",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_peer_sd_orb_real",
+        "backbone": "source_college",
+        "family": "f50_peer_sd_orb",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_peer_sd_orb_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_peer_sd_orb",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_peer_sd_orb_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_peer_sd_orb",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_peer_sd_orb_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_peer_sd_orb",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_peer_rank_orb_real",
+        "backbone": "source_college",
+        "family": "f50_peer_rank_orb",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_peer_rank_orb_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_peer_rank_orb",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_peer_rank_orb_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_peer_rank_orb",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_peer_rank_orb_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_peer_rank_orb",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_peer_sd_drb_real",
+        "backbone": "source_college",
+        "family": "f50_peer_sd_drb",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_peer_sd_drb_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_peer_sd_drb",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_peer_sd_drb_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_peer_sd_drb",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_peer_sd_drb_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_peer_sd_drb",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_peer_rank_drb_real",
+        "backbone": "source_college",
+        "family": "f50_peer_rank_drb",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_peer_rank_drb_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_peer_rank_drb",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_peer_rank_drb_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_peer_rank_drb",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_peer_rank_drb_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_peer_rank_drb",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_peer_sd_stl_real",
+        "backbone": "source_college",
+        "family": "f50_peer_sd_stl",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_peer_sd_stl_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_peer_sd_stl",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_peer_sd_stl_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_peer_sd_stl",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_peer_sd_stl_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_peer_sd_stl",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_peer_rank_stl_real",
+        "backbone": "source_college",
+        "family": "f50_peer_rank_stl",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_peer_rank_stl_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_peer_rank_stl",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_peer_rank_stl_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_peer_rank_stl",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_peer_rank_stl_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_peer_rank_stl",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_peer_sd_blk_real",
+        "backbone": "source_college",
+        "family": "f50_peer_sd_blk",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_peer_sd_blk_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_peer_sd_blk",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_peer_sd_blk_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_peer_sd_blk",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_peer_sd_blk_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_peer_sd_blk",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_peer_rank_blk_real",
+        "backbone": "source_college",
+        "family": "f50_peer_rank_blk",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_peer_rank_blk_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_peer_rank_blk",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_peer_rank_blk_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_peer_rank_blk",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_peer_rank_blk_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_peer_rank_blk",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_team_share_fta_real",
+        "backbone": "source_college",
+        "family": "f50_team_share_fta",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_team_share_fta_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_team_share_fta",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_team_share_fta_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_team_share_fta",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_team_share_fta_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_team_share_fta",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_team_share_three_a_real",
+        "backbone": "source_college",
+        "family": "f50_team_share_three_a",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_team_share_three_a_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_team_share_three_a",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_team_share_three_a_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_team_share_three_a",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_team_share_three_a_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_team_share_three_a",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_team_share_rim_a_real",
+        "backbone": "source_college",
+        "family": "f50_team_share_rim_a",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_team_share_rim_a_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_team_share_rim_a",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_team_share_rim_a_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_team_share_rim_a",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_team_share_rim_a_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_team_share_rim_a",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_team_share_dunk_a_real",
+        "backbone": "source_college",
+        "family": "f50_team_share_dunk_a",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_team_share_dunk_a_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_team_share_dunk_a",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_team_share_dunk_a_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_team_share_dunk_a",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_team_share_dunk_a_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_team_share_dunk_a",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_team_share_ftm_real",
+        "backbone": "source_college",
+        "family": "f50_team_share_ftm",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_team_share_ftm_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_team_share_ftm",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_team_share_ftm_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_team_share_ftm",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_team_share_ftm_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_team_share_ftm",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_team_share_three_m_real",
+        "backbone": "source_college",
+        "family": "f50_team_share_three_m",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_team_share_three_m_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_team_share_three_m",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_team_share_three_m_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_team_share_three_m",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_team_share_three_m_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_team_share_three_m",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_peer_three_diet_real",
+        "backbone": "source_college",
+        "family": "f50_peer_three_diet",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_peer_three_diet_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_peer_three_diet",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_peer_three_diet_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_peer_three_diet",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_peer_three_diet_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_peer_three_diet",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_peer_rim_diet_real",
+        "backbone": "source_college",
+        "family": "f50_peer_rim_diet",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_peer_rim_diet_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_peer_rim_diet",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_peer_rim_diet_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_peer_rim_diet",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_peer_rim_diet_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_peer_rim_diet",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_peer_defense_density_real",
+        "backbone": "source_college",
+        "family": "f50_peer_defense_density",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_peer_defense_density_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_peer_defense_density",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_peer_defense_density_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_peer_defense_density",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_peer_defense_density_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_peer_defense_density",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_peer_creation_density_real",
+        "backbone": "source_college",
+        "family": "f50_peer_creation_density",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_peer_creation_density_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_peer_creation_density",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_peer_creation_density_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_peer_creation_density",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_peer_creation_density_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_peer_creation_density",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_minutes_concentration_real",
+        "backbone": "source_college",
+        "family": "f50_minutes_concentration",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_minutes_concentration_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_minutes_concentration",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_minutes_concentration_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_minutes_concentration",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_minutes_concentration_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_minutes_concentration",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_usage_concentration_real",
+        "backbone": "source_college",
+        "family": "f50_usage_concentration",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_usage_concentration_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_usage_concentration",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_usage_concentration_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_usage_concentration",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_usage_concentration_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_usage_concentration",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_career_slope_two_p_real",
+        "backbone": "source_college",
+        "family": "f50_career_slope_two_p",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_career_slope_two_p_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_career_slope_two_p",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_career_slope_two_p_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_career_slope_two_p",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_career_slope_two_p_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_career_slope_two_p",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_career_slope_three_p_real",
+        "backbone": "source_college",
+        "family": "f50_career_slope_three_p",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_career_slope_three_p_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_career_slope_three_p",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_career_slope_three_p_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_career_slope_three_p",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_career_slope_three_p_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_career_slope_three_p",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_career_slope_ftp_real",
+        "backbone": "source_college",
+        "family": "f50_career_slope_ftp",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_career_slope_ftp_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_career_slope_ftp",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_career_slope_ftp_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_career_slope_ftp",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_career_slope_ftp_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_career_slope_ftp",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_career_slope_ftr_real",
+        "backbone": "source_college",
+        "family": "f50_career_slope_ftr",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_career_slope_ftr_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_career_slope_ftr",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_career_slope_ftr_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_career_slope_ftr",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_career_slope_ftr_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_career_slope_ftr",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_career_slope_ast_tov_real",
+        "backbone": "source_college",
+        "family": "f50_career_slope_ast_tov",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_career_slope_ast_tov_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_career_slope_ast_tov",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_career_slope_ast_tov_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_career_slope_ast_tov",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_career_slope_ast_tov_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_career_slope_ast_tov",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_career_slope_orb_real",
+        "backbone": "source_college",
+        "family": "f50_career_slope_orb",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_career_slope_orb_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_career_slope_orb",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_career_slope_orb_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_career_slope_orb",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_career_slope_orb_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_career_slope_orb",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_career_slope_drb_real",
+        "backbone": "source_college",
+        "family": "f50_career_slope_drb",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_career_slope_drb_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_career_slope_drb",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_career_slope_drb_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_career_slope_drb",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_career_slope_drb_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_career_slope_drb",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_career_slope_minutes_real",
+        "backbone": "source_college",
+        "family": "f50_career_slope_minutes",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_career_slope_minutes_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_career_slope_minutes",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_career_slope_minutes_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_career_slope_minutes",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_career_slope_minutes_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_career_slope_minutes",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_career_slope_ts_real",
+        "backbone": "source_college",
+        "family": "f50_career_slope_ts",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_career_slope_ts_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_career_slope_ts",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_career_slope_ts_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_career_slope_ts",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_career_slope_ts_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_career_slope_ts",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_career_slope_usage_real",
+        "backbone": "source_college",
+        "family": "f50_career_slope_usage",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_career_slope_usage_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_career_slope_usage",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_career_slope_usage_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_career_slope_usage",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_career_slope_usage_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_career_slope_usage",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_posterior_ft_real",
+        "backbone": "source_college",
+        "family": "f50_posterior_ft",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_posterior_ft_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_posterior_ft",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_posterior_ft_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_posterior_ft",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_posterior_ft_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_posterior_ft",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_posterior_three_real",
+        "backbone": "source_college",
+        "family": "f50_posterior_three",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_posterior_three_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_posterior_three",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_posterior_three_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_posterior_three",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_posterior_three_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_posterior_three",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_posterior_rim_real",
+        "backbone": "source_college",
+        "family": "f50_posterior_rim",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_posterior_rim_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_posterior_rim",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_posterior_rim_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_posterior_rim",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_posterior_rim_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_posterior_rim",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_posterior_mid_real",
+        "backbone": "source_college",
+        "family": "f50_posterior_mid",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_posterior_mid_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_posterior_mid",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_posterior_mid_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_posterior_mid",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_posterior_mid_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_posterior_mid",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_posterior_dunk_real",
+        "backbone": "source_college",
+        "family": "f50_posterior_dunk",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_posterior_dunk_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_posterior_dunk",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_posterior_dunk_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_posterior_dunk",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_posterior_dunk_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_posterior_dunk",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_posterior_two_real",
+        "backbone": "source_college",
+        "family": "f50_posterior_two",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_posterior_two_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_posterior_two",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_posterior_two_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_posterior_two",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_posterior_two_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_posterior_two",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_nondunk_rim_pct_real",
+        "backbone": "source_college",
+        "family": "f50_nondunk_rim_pct",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_nondunk_rim_pct_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_nondunk_rim_pct",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_nondunk_rim_pct_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_nondunk_rim_pct",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_nondunk_rim_pct_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_nondunk_rim_pct",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_rim_ft_pressure_real",
+        "backbone": "source_college",
+        "family": "f50_rim_ft_pressure",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_rim_ft_pressure_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_rim_ft_pressure",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_rim_ft_pressure_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_rim_ft_pressure",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_rim_ft_pressure_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_rim_ft_pressure",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_perimeter_ft_agreement_real",
+        "backbone": "source_college",
+        "family": "f50_perimeter_ft_agreement",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_perimeter_ft_agreement_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_perimeter_ft_agreement",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_perimeter_ft_agreement_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_perimeter_ft_agreement",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_perimeter_ft_agreement_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_perimeter_ft_agreement",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_assist_usage_efficiency_real",
+        "backbone": "source_college",
+        "family": "f50_assist_usage_efficiency",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_assist_usage_efficiency_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_assist_usage_efficiency",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_assist_usage_efficiency_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_assist_usage_efficiency",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_assist_usage_efficiency_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_assist_usage_efficiency",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_balanced_stocks_real",
+        "backbone": "source_college",
+        "family": "f50_balanced_stocks",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_balanced_stocks_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_balanced_stocks",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_balanced_stocks_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_balanced_stocks",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_balanced_stocks_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_balanced_stocks",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      },
+      {
+        "id": "f50_foul_adjusted_rebounds_real",
+        "backbone": "source_college",
+        "family": "f50_foul_adjusted_rebounds",
+        "arm": "real",
+        "permutation_seed": null
+      },
+      {
+        "id": "f50_foul_adjusted_rebounds_shuffle9317",
+        "backbone": "source_college",
+        "family": "f50_foul_adjusted_rebounds",
+        "arm": "permuted",
+        "permutation_seed": 9317
+      },
+      {
+        "id": "f50_foul_adjusted_rebounds_shuffle18739",
+        "backbone": "source_college",
+        "family": "f50_foul_adjusted_rebounds",
+        "arm": "permuted",
+        "permutation_seed": 18739
+      },
+      {
+        "id": "f50_foul_adjusted_rebounds_shuffle28657",
+        "backbone": "source_college",
+        "family": "f50_foul_adjusted_rebounds",
+        "arm": "permuted",
+        "permutation_seed": 28657
+      }
+    ],
+    "slot_mapping": {
+      "f50_peer_sd_usage": "slot_0",
+      "f50_peer_rank_usage": "slot_0",
+      "f50_peer_sd_ts": "slot_0",
+      "f50_peer_rank_ts": "slot_0",
+      "f50_peer_sd_ast": "slot_0",
+      "f50_peer_rank_ast": "slot_0",
+      "f50_peer_sd_tov": "slot_0",
+      "f50_peer_rank_tov": "slot_0",
+      "f50_peer_sd_orb": "slot_0",
+      "f50_peer_rank_orb": "slot_0",
+      "f50_peer_sd_drb": "slot_0",
+      "f50_peer_rank_drb": "slot_0",
+      "f50_peer_sd_stl": "slot_0",
+      "f50_peer_rank_stl": "slot_0",
+      "f50_peer_sd_blk": "slot_0",
+      "f50_peer_rank_blk": "slot_0",
+      "f50_team_share_fta": "slot_0",
+      "f50_team_share_three_a": "slot_0",
+      "f50_team_share_rim_a": "slot_0",
+      "f50_team_share_dunk_a": "slot_0",
+      "f50_team_share_ftm": "slot_0",
+      "f50_team_share_three_m": "slot_0",
+      "f50_peer_three_diet": "slot_0",
+      "f50_peer_rim_diet": "slot_0",
+      "f50_peer_defense_density": "slot_0",
+      "f50_peer_creation_density": "slot_0",
+      "f50_minutes_concentration": "slot_0",
+      "f50_usage_concentration": "slot_0",
+      "f50_career_slope_two_p": "slot_0",
+      "f50_career_slope_three_p": "slot_0",
+      "f50_career_slope_ftp": "slot_0",
+      "f50_career_slope_ftr": "slot_0",
+      "f50_career_slope_ast_tov": "slot_0",
+      "f50_career_slope_orb": "slot_0",
+      "f50_career_slope_drb": "slot_0",
+      "f50_career_slope_minutes": "slot_0",
+      "f50_career_slope_ts": "slot_0",
+      "f50_career_slope_usage": "slot_0",
+      "f50_posterior_ft": "slot_0",
+      "f50_posterior_three": "slot_0",
+      "f50_posterior_rim": "slot_0",
+      "f50_posterior_mid": "slot_0",
+      "f50_posterior_dunk": "slot_0",
+      "f50_posterior_two": "slot_0",
+      "f50_nondunk_rim_pct": "slot_0",
+      "f50_rim_ft_pressure": "slot_0",
+      "f50_perimeter_ft_agreement": "slot_0",
+      "f50_assist_usage_efficiency": "slot_0",
+      "f50_balanced_stocks": "slot_0",
+      "f50_foul_adjusted_rebounds": "slot_0"
+    },
+    "source_filter": {
+      "min_training_observed": 5,
+      "min_training_unique": 2,
+      "validation_coverage_used": false
+    },
+    "selection": {
+      "base_topk": 60,
+      "selector_seed": 11,
+      "scope": "Only the same41 source columns, once per fold; all retained in fixed training-only importance order.",
+      "source_scope": "Per-fold training values only. Exclude wholly untestable features from queue before scoring. No old scores, validation coverage or labels choose source eligibility."
+    },
+    "controls": {
+      "shuffle": "Per feature, permute only observed values within draft cohort and train/validation role, stable pid order, fixed SHA256 seed stream.",
+      "dimensions": "Same41 selected columns plus identical slot_0 for real/three controls wherever training eligibility passes; exact masks and cohort marginals.",
+      "unused_folds": "A feature ineligible in one fold supplies no slot for any arm in that fold; no fake imputation or validation-based resurrection."
+    },
+    "calendar_policy": "For predicted year Y, training only earlier cohorts and actual NBA season_end <=Y-1. Development scoring labels <=2018. No2019-2026 answers available.",
+    "confirmation_note": "Any later literal as-of outer-year confirmation must select inside its own season cutoff; selection using development truths through2018 cannot be called known at a2015-2017 decision date.",
+    "no_confirmation_or_test_scoring": true,
+    "summary": {
+      "comparison": "Pair real minus mean of three same-mask shuffles for each model seed/fold; report fold/seed/permutation differences.",
+      "baseline_difference": "Context only: dimensions differ; baseline gains do not establish information.",
+      "multiplicity": "All50 exploratory hypotheses; no p-values, independent-seed claims or automatic promotion.",
+      "combinations": "No combination tasks registered. Review all completed singles before separately preregistering combinations.",
+      "automatic_promotion": false
+    },
+    "execution": {
+      "workers": 4,
+      "xgboost_selector": "cpu",
+      "predictor": "Unchanged GPU TabICL only; no weight reuse",
+      "task_count": 603,
+      "maximum_tasks": 603,
+      "gpu_launch_performed": false
+    }
+  },
+  "sha256": "054542e41ac1b8ca57c46fc251b8c0f821a37c36ab42f14e2f3ca29be02cc851",
+  "created": 1788696803.7639022
+}

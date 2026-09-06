@@ -1,0 +1,6 @@
+{
+  "disk_pressure": "OSError28 during saving attempt26; response fetched but body and source metadata not saved",
+  "affected_attempt": 26,
+  "documented_repeat_allowed": 1,
+  "disk_guard_min_free_MiB": 500
+}

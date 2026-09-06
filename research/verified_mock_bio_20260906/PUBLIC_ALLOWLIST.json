@@ -1,0 +1,50 @@
+{
+  "policy": "Publish only these factual/provenance/code/review files; do not recursively copy source directories.",
+  "exclude": [
+    "__pycache__/",
+    "mock-bio-tests-*/",
+    "../verified_consensus/private/"
+  ],
+  "files": {
+    "README.md": {
+      "sha256": "4f209e81d366af849aa5b04fd0846d82b32b37b595d53147349f7191efb49aed",
+      "bytes": 2766
+    },
+    "features_eligible.csv": {
+      "sha256": "5f06d269cab48df89f66d8d3def6fcd4be207971826a73adc70a6ca978b45b6b",
+      "bytes": 28282
+    },
+    "row_provenance.csv": {
+      "sha256": "03f10447f07b35c6807d40218c58a7a1d8562d3299bd48d012a03e09dfaba261",
+      "bytes": 140595
+    },
+    "metric_dictionary.json": {
+      "sha256": "f31b5bb45013363986ae31932713cef4d8b2ae1c263d0697aa6a884bcba7cb30",
+      "bytes": 2681
+    },
+    "manifest.json": {
+      "sha256": "46e029333c626865206fe3fb705416001931562640679a36ec9292e1dea9dccd",
+      "bytes": 6238
+    },
+    "build.py": {
+      "sha256": "e344e59665b298c47902faf19fe88b1d906a52991d477f5818490851c3bb9b82",
+      "bytes": 13824
+    },
+    "test_build.py": {
+      "sha256": "3707adf86fa43284117a985c9a78e025448726902e5670c243ccf4467c54e3b7",
+      "bytes": 10937
+    },
+    "verification.json": {
+      "sha256": "fb8a2cae9138c9d4b4459136cd9ae88014d5152cec89c49e55b5669016d98b05",
+      "bytes": 2378
+    },
+    "change_audit.json": {
+      "sha256": "f623486318e24069cafb5882bd88a804f3e68ae70d894d70d8ee421cbc5a794b",
+      "bytes": 2019
+    },
+    "review.md": {
+      "sha256": "de51c1cf238cdc7993c5675a7d35ac9744a04c3a30fa88b752d02aec387fedaa",
+      "bytes": 4293
+    }
+  }
+}

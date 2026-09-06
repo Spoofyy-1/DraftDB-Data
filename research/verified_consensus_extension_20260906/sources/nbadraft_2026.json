@@ -1,0 +1,25 @@
+{
+  "publisher": "nbadraft",
+  "draft_year": 2026,
+  "draft_date": "2026-06-23",
+  "cutoff_utc": "2026-06-23T04:00:00+00:00",
+  "target_url": "nbadraft.net/nba-mock-drafts/",
+  "feature_eligible": false,
+  "status": "pending_body_validation",
+  "source_id": "nbadraft_2026",
+  "source": {
+    "urlkey": "net,nbadraft)/nba-mock-drafts",
+    "timestamp": "20260623034634",
+    "original": "https://www.nbadraft.net/nba-mock-drafts/",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "DY5MVCZFGWXQJWM2JLAJCAW5Z4NYUL5S",
+    "length": "27237"
+  },
+  "archive_url": "https://web.archive.org/web/20260623034634id_/https://www.nbadraft.net/nba-mock-drafts/",
+  "captures": 9,
+  "html_sha256": "bd2cc6e854e9713c228a1bbe100a537d140a64ac346b7b26bcdf97857d61760d",
+  "bytes": 144168,
+  "content_encoding": "zstd",
+  "compressed_response_sha256": "256e0b2a69eda0d234563b788576c3a56507e5d96b039d2bb5d2a9d2ea8b8910"
+}

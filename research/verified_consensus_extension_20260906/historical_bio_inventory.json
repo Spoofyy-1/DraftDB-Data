@@ -1,0 +1,290 @@
+[
+  {
+    "source_id": "dx_2015",
+    "draft_year": 2015,
+    "matched_players": 45,
+    "historical_cell_fields_matched_counts": {
+      "age": 45,
+      "height": 45,
+      "weight": 45,
+      "class": 45,
+      "position": 45
+    },
+    "table_sha256": "2ecc74d1bc6cda1ec60e9d905b7d9e28369b1bd84a9ac693a1b969eeba1032ea",
+    "archive_url": "https://web.archive.org/web/20150623175013id_/http://www.draftexpress.com/nba-mock-draft/2015/",
+    "available_by_utc": "2015-06-23T17:50:13+00:00",
+    "inventory_only": true,
+    "bio_features_extracted_or_modeled": false
+  },
+  {
+    "source_id": "dx_2016",
+    "draft_year": 2016,
+    "matched_players": 52,
+    "historical_cell_fields_matched_counts": {
+      "age": 52,
+      "height": 52,
+      "weight": 52,
+      "class": 51,
+      "position": 52
+    },
+    "table_sha256": "4f0e63d057af268b94646df373faabc42baef97cf554c55c6593e2e28fc79522",
+    "archive_url": "https://web.archive.org/web/20160621174050id_/http://www.draftexpress.com:80/nba-mock-draft/2016",
+    "available_by_utc": "2016-06-21T17:40:50+00:00",
+    "inventory_only": true,
+    "bio_features_extracted_or_modeled": false
+  },
+  {
+    "source_id": "dx_2017",
+    "draft_year": 2017,
+    "matched_players": 52,
+    "historical_cell_fields_matched_counts": {
+      "position": 52,
+      "age": 52,
+      "height": 52,
+      "weight": 52,
+      "wingspan": 48
+    },
+    "table_sha256": "1e199914662a00b2dad618c3a9b809ced1257ec1d0a4a09e589b6349d492e856",
+    "archive_url": "https://web.archive.org/web/20170621152558id_/http://www.draftexpress.com/nba-mock-draft/2017/",
+    "available_by_utc": "2017-06-21T15:25:58+00:00",
+    "inventory_only": true,
+    "bio_features_extracted_or_modeled": false
+  },
+  {
+    "source_id": "nbadraft_2015",
+    "draft_year": 2015,
+    "matched_players": 47,
+    "historical_cell_fields_matched_counts": {
+      "height": 47,
+      "weight": 47,
+      "position": 47,
+      "class": 47
+    },
+    "table_sha256": "5b7e09faef50262025253c0889030bb12ea46be3f1773ca9bbf475e10e521c3e",
+    "archive_url": "https://web.archive.org/web/20150624022313id_/http://www.nbadraft.net:80/2015mock_draft",
+    "available_by_utc": "2015-06-24T02:23:13+00:00",
+    "inventory_only": true,
+    "bio_features_extracted_or_modeled": false
+  },
+  {
+    "source_id": "nbadraft_2016_fallback",
+    "draft_year": 2016,
+    "matched_players": 50,
+    "historical_cell_fields_matched_counts": {
+      "height": 50,
+      "weight": 50,
+      "position": 50,
+      "class": 50
+    },
+    "table_sha256": "c08e0bc5c556bed4c1267385a1b9f22693a59a34128ca63ce383ce2e546edebb",
+    "archive_url": "https://web.archive.org/web/20160620184522id_/http://www.nbadraft.net/2016mock_draft",
+    "available_by_utc": "2016-06-20T18:45:22+00:00",
+    "inventory_only": true,
+    "bio_features_extracted_or_modeled": false
+  },
+  {
+    "source_id": "nbadraft_2017",
+    "draft_year": 2017,
+    "matched_players": 50,
+    "historical_cell_fields_matched_counts": {
+      "height": 50,
+      "weight": 50,
+      "position": 50,
+      "class": 50
+    },
+    "table_sha256": "aed622adb6221d7e747bd3dc34752b7984f1095541317d01a7368c95884a209f",
+    "archive_url": "https://web.archive.org/web/20170621031432id_/http://www.nbadraft.net:80/2017mock_draft",
+    "available_by_utc": "2017-06-21T03:14:32+00:00",
+    "inventory_only": true,
+    "bio_features_extracted_or_modeled": false
+  },
+  {
+    "source_id": "nbadraft_2018",
+    "draft_year": 2018,
+    "matched_players": 45,
+    "historical_cell_fields_matched_counts": {
+      "height": 45,
+      "weight": 45,
+      "position": 45,
+      "class": 45
+    },
+    "table_sha256": "4a66df3af9055e52e037e50f83ba896c54efe0254fdc7a49e614d92de0457008",
+    "archive_url": "https://web.archive.org/web/20180619163210id_/http://www.nbadraft.net/2018mock_draft",
+    "available_by_utc": "2018-06-19T16:32:10+00:00",
+    "inventory_only": true,
+    "bio_features_extracted_or_modeled": false
+  },
+  {
+    "source_id": "nbadraft_2019",
+    "draft_year": 2019,
+    "matched_players": 50,
+    "historical_cell_fields_matched_counts": {
+      "height": 50,
+      "weight": 50,
+      "position": 50,
+      "class": 50
+    },
+    "table_sha256": "53f3093c806fbf622e7b1745b007fbde974774787924e838ead2f777523e228b",
+    "archive_url": "https://web.archive.org/web/20190521150204id_/https://www.nbadraft.net/2019mock_draft",
+    "available_by_utc": "2019-05-21T15:02:04+00:00",
+    "inventory_only": true,
+    "bio_features_extracted_or_modeled": false
+  },
+  {
+    "source_id": "nbadraft_2020_fallback",
+    "draft_year": 2020,
+    "matched_players": 53,
+    "historical_cell_fields_matched_counts": {
+      "height": 53,
+      "weight": 53,
+      "position": 53,
+      "class": 53
+    },
+    "table_sha256": "640d3b1ad5ccb0bb0752f476f0b4493c07c6426cfcda77c3f0d9332735c1cc0d",
+    "archive_url": "https://web.archive.org/web/20201101015440id_/https://www.nbadraft.net/nba-mock-drafts/",
+    "available_by_utc": "2020-11-01T01:54:40+00:00",
+    "inventory_only": true,
+    "bio_features_extracted_or_modeled": false
+  },
+  {
+    "source_id": "nbadraft_2021",
+    "draft_year": 2021,
+    "matched_players": 46,
+    "historical_cell_fields_matched_counts": {
+      "height": 46,
+      "weight": 46,
+      "position": 46,
+      "class": 46
+    },
+    "table_sha256": "c30f65bae062e6d9a4c2c38a56111316115e0b9a55442a5595bb4bc8c082c98b",
+    "archive_url": "https://web.archive.org/web/20210722210648id_/https://www.nbadraft.net/nba-mock-drafts/",
+    "available_by_utc": "2021-07-22T21:06:48+00:00",
+    "inventory_only": true,
+    "bio_features_extracted_or_modeled": false
+  },
+  {
+    "source_id": "nbadraft_2022",
+    "draft_year": 2022,
+    "matched_players": 48,
+    "historical_cell_fields_matched_counts": {
+      "height": 48,
+      "weight": 48,
+      "position": 48,
+      "class": 48
+    },
+    "table_sha256": "a46cc63a99c2de1b4663b8d8c7331ad05e79269eb2c35da538abaf0dc6cdf5a6",
+    "archive_url": "https://web.archive.org/web/20220622150918id_/https://www.nbadraft.net/nba-mock-drafts/",
+    "available_by_utc": "2022-06-22T15:09:18+00:00",
+    "inventory_only": true,
+    "bio_features_extracted_or_modeled": false
+  },
+  {
+    "source_id": "nbadraft_2023",
+    "draft_year": 2023,
+    "matched_players": 48,
+    "historical_cell_fields_matched_counts": {
+      "height": 48,
+      "weight": 48,
+      "position": 48,
+      "class": 48
+    },
+    "table_sha256": "f0d1b7bbfd68326ae9c84677938391c7a9a7f49c31dad80b76fdcd3fdfe72b57",
+    "archive_url": "https://web.archive.org/web/20230621061219id_/https://www.nbadraft.net/nba-mock-drafts/",
+    "available_by_utc": "2023-06-21T06:12:19+00:00",
+    "inventory_only": true,
+    "bio_features_extracted_or_modeled": false
+  },
+  {
+    "source_id": "nbadraft_2024",
+    "draft_year": 2024,
+    "matched_players": 49,
+    "historical_cell_fields_matched_counts": {
+      "height": 49,
+      "weight": 49,
+      "position": 49,
+      "class": 49
+    },
+    "table_sha256": "b1680499fa0b043a9ad8594f52ead33ba4b25258c7f5d3d8c3e54ed30b19fc4b",
+    "archive_url": "https://web.archive.org/web/20240624025349id_/https://www.nbadraft.net/nba-mock-drafts/",
+    "available_by_utc": "2024-06-24T02:53:49+00:00",
+    "inventory_only": true,
+    "bio_features_extracted_or_modeled": false
+  },
+  {
+    "source_id": "nbadraft_2025",
+    "draft_year": 2025,
+    "matched_players": 47,
+    "historical_cell_fields_matched_counts": {
+      "height": 47,
+      "weight": 47,
+      "position": 47,
+      "class": 47
+    },
+    "table_sha256": "27d4e3181f0ba8690b8ec6f53fe3bea146520e5bb6a779f11a6e0c74aec64a62",
+    "archive_url": "https://web.archive.org/web/20250624175411id_/https://www.nbadraft.net/nba-mock-drafts/",
+    "available_by_utc": "2025-06-24T17:54:11+00:00",
+    "inventory_only": true,
+    "bio_features_extracted_or_modeled": false
+  },
+  {
+    "source_id": "nbadraft_2026_fallback",
+    "draft_year": 2026,
+    "matched_players": 45,
+    "historical_cell_fields_matched_counts": {
+      "height": 45,
+      "weight": 45,
+      "position": 45,
+      "class": 44
+    },
+    "table_sha256": "b1c1ab61ed609f14419aa1d89d64ed77f5f1b980a0ad967d064abc18e41b3ca9",
+    "archive_url": "https://web.archive.org/web/20260508055636id_/https://www.nbadraft.net/nba-mock-drafts/",
+    "available_by_utc": "2026-05-08T05:56:36+00:00",
+    "inventory_only": true,
+    "bio_features_extracted_or_modeled": false
+  },
+  {
+    "source_id": "walter_serious_2018",
+    "draft_year": 2018,
+    "matched_players": 11,
+    "historical_cell_fields_matched_counts": {
+      "height": 11,
+      "class": 10,
+      "position": 11
+    },
+    "table_sha256": "976fe0d382e1002bf94d1209d6069f3002b40057d2c3adfb8935808b2930c5af",
+    "archive_url": "https://web.archive.org/web/20180618125339id_/http://walterfootball.com/nbadraft2018mock.php",
+    "available_by_utc": "2018-06-18T12:53:39+00:00",
+    "inventory_only": true,
+    "bio_features_extracted_or_modeled": false
+  },
+  {
+    "source_id": "walter_serious_2019",
+    "draft_year": 2019,
+    "matched_players": 14,
+    "historical_cell_fields_matched_counts": {
+      "height": 14,
+      "class": 13,
+      "position": 14
+    },
+    "table_sha256": "85c51b1d1660a8b79ab0c8e37755dd33070287cb0cdff28e81e76c7ed68492ff",
+    "archive_url": "https://web.archive.org/web/20190518055238id_/http://walterfootball.com/nbadraft2019mock.php",
+    "available_by_utc": "2019-05-18T05:52:38+00:00",
+    "inventory_only": true,
+    "bio_features_extracted_or_modeled": false
+  },
+  {
+    "source_id": "walter_serious_2020",
+    "draft_year": 2020,
+    "matched_players": 12,
+    "historical_cell_fields_matched_counts": {
+      "height": 12,
+      "class": 8,
+      "position": 12
+    },
+    "table_sha256": "f5e2e6c8e822577e5a57cd89651880c899931d913d1d4c1a650d8d02a0370919",
+    "archive_url": "https://web.archive.org/web/20201028170012id_/https://walterfootball.com/nbadraft2020mock.php",
+    "available_by_utc": "2020-10-28T17:00:12+00:00",
+    "inventory_only": true,
+    "bio_features_extracted_or_modeled": false
+  }
+]

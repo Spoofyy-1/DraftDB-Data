@@ -1,0 +1,23 @@
+{
+  "publisher": "nbadraft",
+  "draft_year": 2015,
+  "draft_date": "2015-06-25",
+  "cutoff_utc": "2015-06-25T04:00:00+00:00",
+  "target_url": "www.nbadraft.net/2015mock_draft",
+  "feature_eligible": false,
+  "status": "pending_body_validation",
+  "source_id": "nbadraft_2015",
+  "source": {
+    "urlkey": "net,nbadraft)/2015mock_draft",
+    "timestamp": "20150624022313",
+    "original": "http://www.nbadraft.net:80/2015mock_draft",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "KXRPILYSYUFV6MCHTDDF5OSU2UCYU4RX",
+    "length": "12854"
+  },
+  "archive_url": "https://web.archive.org/web/20150624022313id_/http://www.nbadraft.net:80/2015mock_draft",
+  "captures": 109,
+  "html_sha256": "e1f5688afe86471892f35a36859dd7c37897f57ea7719c59b7bb016c0b534a86",
+  "bytes": 72900
+}

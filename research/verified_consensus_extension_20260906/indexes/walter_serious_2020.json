@@ -1,0 +1,148 @@
+{
+  "publisher": "walter_serious",
+  "draft_year": 2020,
+  "draft_date": "2020-11-18",
+  "cutoff_utc": "2020-11-18T05:00:00+00:00",
+  "target_url": "www.walterfootball.com/nbadraft2020mock.php",
+  "feature_eligible": false,
+  "status": "discovery_only",
+  "source_id": "walter_serious_2020",
+  "query_url": "https://web.archive.org/cdx/search/cdx?url=www.walterfootball.com%2Fnbadraft2020mock.php&matchType=exact&from=20200101&to=20201118045959&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=250",
+  "records": [
+    {
+      "urlkey": "com,walterfootball)/nbadraft2020mock.php",
+      "timestamp": "20200202174023",
+      "original": "http://www.walterfootball.com:80/nbadraft2020mock.php",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ISBPYRK5GOJXHNRCFZI6QKSVROFPN4JG",
+      "length": "15328"
+    },
+    {
+      "urlkey": "com,walterfootball)/nbadraft2020mock.php",
+      "timestamp": "20200213081400",
+      "original": "http://walterfootball.com:80/nbadraft2020mock.php",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2346ZLYWWB7CLN34KAB2EG2NMXZXVUY3",
+      "length": "12775"
+    },
+    {
+      "urlkey": "com,walterfootball)/nbadraft2020mock.php",
+      "timestamp": "20200226063002",
+      "original": "http://walterfootball.com:80/nbadraft2020mock.php",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "RMTYVCO6HCOUNMAGJQXKMPCASM7SIX4J",
+      "length": "12863"
+    },
+    {
+      "urlkey": "com,walterfootball)/nbadraft2020mock.php",
+      "timestamp": "20200227143439",
+      "original": "http://www.walterfootball.com:80/nbadraft2020mock.php",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "CWR24WDMQB5KOX3BAV3B5QKSMC6ETHRV",
+      "length": "12870"
+    },
+    {
+      "urlkey": "com,walterfootball)/nbadraft2020mock.php",
+      "timestamp": "20200425154610",
+      "original": "https://walterfootball.com/nbadraft2020mock.php",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "JPONZAPA23BJT5KEG3DPQHAJIUQKB3T7",
+      "length": "12741"
+    },
+    {
+      "urlkey": "com,walterfootball)/nbadraft2020mock.php",
+      "timestamp": "20200518082417",
+      "original": "https://walterfootball.com/nbadraft2020mock.php",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "BDCQWHM5YVKLEMAX6O3ZR72EMACA4HVW",
+      "length": "12656"
+    },
+    {
+      "urlkey": "com,walterfootball)/nbadraft2020mock.php",
+      "timestamp": "20200526212822",
+      "original": "https://www.walterfootball.com/nbadraft2020mock.php",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7IOYYZH5M3525E7S3HE4ISDYWRSEJNSZ",
+      "length": "12701"
+    },
+    {
+      "urlkey": "com,walterfootball)/nbadraft2020mock.php",
+      "timestamp": "20200603065751",
+      "original": "https://walterfootball.com/nbadraft2020mock.php",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "AOXSKMJBOZC7OIQ3DZTAF4DABJMVKMZC",
+      "length": "12678"
+    },
+    {
+      "urlkey": "com,walterfootball)/nbadraft2020mock.php",
+      "timestamp": "20200804051550",
+      "original": "https://walterfootball.com/nbadraft2020mock.php",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QMT42S2DCCZDYTFRA4LRXQVPXA55RV4B",
+      "length": "13304"
+    },
+    {
+      "urlkey": "com,walterfootball)/nbadraft2020mock.php",
+      "timestamp": "20200807235039",
+      "original": "https://www.walterfootball.com/nbadraft2020mock.php",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "6RK7SP5UEFXVXQ7ZW6OKYXPTFBICPJ4E",
+      "length": "13307"
+    },
+    {
+      "urlkey": "com,walterfootball)/nbadraft2020mock.php",
+      "timestamp": "20200813022713",
+      "original": "https://walterfootball.com/nbadraft2020mock.php",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "4LEZVUCFPFG73QQPKWJC3BWMPG6IXXVB",
+      "length": "13705"
+    },
+    {
+      "urlkey": "com,walterfootball)/nbadraft2020mock.php",
+      "timestamp": "20200901094901",
+      "original": "https://walterfootball.com/nbadraft2020mock.php",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "S553A4C6DEIV5TWVKXLTC7ZTZKS6M2Z5",
+      "length": "13350"
+    },
+    {
+      "urlkey": "com,walterfootball)/nbadraft2020mock.php",
+      "timestamp": "20200926124714",
+      "original": "https://walterfootball.com/nbadraft2020mock.php",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ZVFP3PRFAZ7VHESUKVDS46ZQA2M4PY2V",
+      "length": "13341"
+    },
+    {
+      "urlkey": "com,walterfootball)/nbadraft2020mock.php",
+      "timestamp": "20201027143307",
+      "original": "https://www.walterfootball.com/nbadraft2020mock.php",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3Z5EA4UV3NAXODGSJOYK6WHVLO2RMPZH",
+      "length": "13870"
+    },
+    {
+      "urlkey": "com,walterfootball)/nbadraft2020mock.php",
+      "timestamp": "20201028170012",
+      "original": "https://walterfootball.com/nbadraft2020mock.php",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "CY4BN6IZRKHBNH6PYZYVJ3SRQI3LXDHM",
+      "length": "13867"
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "publication_policy": "Publish only the exact files enumerated here. Full source bodies/table markup remain private; never recursively sync the package directory.",
+  "source_package": "verified_consensus_extension",
+  "files": {
+    "README.md": {
+      "sha256": "33d3c3fa079a54d718ffa1010a578ac292a52bd09442f189cf37a06501f5013c",
+      "bytes": 7080
+    },
+    "collect.py": {
+      "sha256": "a787dfc5ba6c05882814a502fea8fc2f2ebbdbeba4e958ab720e59f3d09b12dc",
+      "bytes": 6360
+    },
+    "parse.py": {
+      "sha256": "16ff976e8d83e23c99464de289c85858f4aa33c4d5e20fe0df637f7d5283af5e",
+      "bytes": 16021
+    },
+    "build.py": {
+      "sha256": "6807fd13f83a507b4e1c1b5c3df953f4b81e1520d0cdc42ff0b923331d5f78eb",
+      "bytes": 6211
+    },
+    "verify.py": {
+      "sha256": "cb2dc49a1ce33dfad1185a70ac848ad9b8de3d00fb1c3f8517b54e4170c0a582",
+      "bytes": 6560
+    },
+    "package.py": {
+      "sha256": "506f0e6fde07683e924c36d9ea6b1bb7c3f2b78a35c5b3b9c37cddbb1bcb6e58",
+      "bytes": 2666
+    },
+    "rank_observations.csv": {
+      "sha256": "31ddbbc823273b46f9c141a7d4e00eb77efdc65cbf11f52348db47b8d91c70eb",
+      "bytes": 304478
+    },
+    "features_training_2015_2018.csv": {
+      "sha256": "c7ff575db077087744c3f5208e354969f743dd80050cc08e2e7d77c33ec1e46e",
+      "bytes": 6413
+    },
+    "features_inference_2019_2026.csv": {
+      "sha256": "9692baab0b697c41c5229483dbc60bc212e62816d2bf005359abb8825e2d5cf7",
+      "bytes": 10905
+    },
+    "publisher_ranks_eligible.csv": {
+      "sha256": "17b9d49d2384360da4facf0553d2c8e6678681c662b7bea5db7dde030a7e425c",
+      "bytes": 14985
+    },
+    "metric_dictionary.json": {
+      "sha256": "b39efc3ff90d8ef0d2e7cfd51d63aec591497739d120516257b76025171b3e68",
+      "bytes": 1914
+    },
+    "validated_sources.json": {
+      "sha256": "facbb94c09e3e7540b8247c58ee3ac7e7d66167eff9215e842bf8078ba9f3013",
+      "bytes": 39168
+    },
+    "unmatched_identities.json": {
+      "sha256": "f682db1f8c87bbcfd77b70691b35474caf33600ac1f4f80ecf8ffa6a6d8df184",
+      "bytes": 32073
+    },
+    "historical_bio_inventory.json": {
+      "sha256": "9e429f299bed3052d6b75a1568ec2422627a04ccd5d8b7cdb79c8b40bbe6757c",
+      "bytes": 10025
+    },
+    "coverage.json": {
+      "sha256": "c8d8934ba4bab58f13f30e4a2185e2ed1430c9f5d2f155ad0dde1c6c5f97f3a1",
+      "bytes": 6533
+    },
+    "verification.json": {
+      "sha256": "42103b570a136ed52c6959b8184a0ea1f0714e914fa8147e170275a3cebdfe1c",
+      "bytes": 698
+    },
+    "network_attempts.jsonl": {
+      "sha256": "61093a232a4bec55373df42d9b435cc57152dff4bab039c5dba841b80dd5736e",
+      "bytes": 24798
+    },
+    "recovery.json": {
+      "sha256": "2d7cbd9c79de929add402cdc2ba7a32aab3b7a517a9b576023937e7a4a62f68b",
+      "bytes": 209
+    },
+    "collection_complete.json": {
+      "sha256": "a05a2dd51649401f1a715186a4019d36e14488960760775b68b94d41bfcb8e18",
+      "bytes": 335
+    },
+    "sidecars/consensus_extension_test_2019_inputs.csv": {
+      "sha256": "21cf796d63c0f158655a4dee3d5319060ec382b926b36fdd27133ab538200b32",
+      "bytes": 3562
+    },
+    "sidecars/consensus_extension_test_2020_inputs.csv": {
+      "sha256": "4237c9959e32c73b82354eb7ffe3ee9a44f324cd2d3dd0efb472e607b381533a",
+      "bytes": 3061
+    },
+    "sidecars/consensus_extension_test_2021_inputs.csv": {
+      "sha256": "0600aa9ecffa2e5cafd57510d36498a6b3de3d0293e179f16681b87251ad771f",
+      "bytes": 5481
+    },
+    "sidecars/consensus_extension_test_2022_inputs.csv": {
+      "sha256": "8c32248898881c33591d10416ab41de1c15e4f215fa613e97bab4e1bfa8047a1",
+      "bytes": 2649
+    },
+    "sidecars/consensus_extension_test_2023_inputs.csv": {
+      "sha256": "d8f0bc4a3c9c344d97cc6bb90daa60d65774d791fb5a473ce67b843133b3cf28",
+      "bytes": 2731
+    },
+    "sidecars/consensus_extension_test_2024_inputs.csv": {
+      "sha256": "63c0e33717e99e3ffa536fe5ba322c4ec388b377b5c80c25ae0ba70bbb3b71bf",
+      "bytes": 3019
+    },
+    "sidecars/consensus_extension_test_2025_inputs.csv": {
+      "sha256": "1e52232b3adcd6eea2b5d07764ea0fdd5ea921981114dcf750e16d364702eeff",
+      "bytes": 2825
+    },
+    "sidecars/consensus_extension_test_2026_inputs.csv": {
+      "sha256": "63ce72f02d42cee40f834f1cc5f833f15f595141b0b9ba46e53c1b72aaae1d5f",
+      "bytes": 1862
+    },
+    "sidecars/consensus_extension_train_2000_2018.csv": {
+      "sha256": "ae52dfc16427c63517fcc2bce58a68cf916bbd6eb17ec1ea7a0b6ad2c836a210",
+      "bytes": 33279
+    },
+    "indexes/dx_2015.json": {
+      "sha256": "2e70e6935095591cc8a415c31ae1a39919a23101300465bf13fb9781c5f2363b",
+      "bytes": 18296
+    },
+    "indexes/dx_2016.json": {
+      "sha256": "25e2b6872f9ae89455c973cadced23d7924572c299a15e26050832735e8c3619",
+      "bytes": 24237
+    },
+    "indexes/dx_2017.json": {
+      "sha256": "316fb51288c9517317d43e072554db34c9d8e55baf173cef39ee65759bc61d4f",
+      "bytes": 39141
+    },
+    "indexes/nbadraft_2015.json": {
+      "sha256": "6a7934febf4296336e82f85c5ed49281a3372468b965c5ecabacccea3f74abb7",
+      "bytes": 32539
+    },
+    "indexes/nbadraft_2016.json": {
+      "sha256": "7d074a00b6c03c24fa99dfd3a8115531dba5ef889366e2d9e9c20a68fd324175",
+      "bytes": 32563
+    },
+    "indexes/nbadraft_2016_fallback.json": {
+      "sha256": "7316dfedef48f28fb118d9d6e667cba5bc9997190c83a090d1942fb280252557",
+      "bytes": 953
+    },
+    "indexes/nbadraft_2017.json": {
+      "sha256": "349b56e58454e30194474d22ac253345d2904eb2e8e864e9324bca484fc73124",
+      "bytes": 17786
+    },
+    "indexes/nbadraft_2018.json": {
+      "sha256": "1e98afbbfb2c8d7c3a231311a3c51e05e7d44b0d6de4ab080a2be5f2694d931d",
+      "bytes": 29330
+    },
+    "indexes/nbadraft_2019.json": {
+      "sha256": "47efd285105fe8098c7ccd5a10efc4829149fb78718da87a6a6ea250d050910c",
+      "bytes": 3745
+    },
+    "indexes/nbadraft_2020.json": {
+      "sha256": "97f765f027b3bb42aa69489a0b65e0aefd77e7aeb023b0be4f493edfba10c7f6",
+      "bytes": 6653
+    },
+    "indexes/nbadraft_2020_fallback.json": {
+      "sha256": "cae5a82e7587981f2b26d75f50b91075846ad11305b25db502574c415f87b65d",
+      "bytes": 805
+    },
+    "indexes/nbadraft_2021.json": {
+      "sha256": "5a997b37da73efcb0bf168ca878128c3f6c4525d1a8e3aa0e32147a7299826f4",
+      "bytes": 10795
+    },
+    "indexes/nbadraft_2022.json": {
+      "sha256": "e1719e79582218c81c881d0b7f39a73d6a557eb6ba26ace0674bf82478137093",
+      "bytes": 9318
+    },
+    "indexes/nbadraft_2023.json": {
+      "sha256": "49769a77f905ffdf8aa92dfaf97b171fcf71b1bb78cf920a059f63680245001a",
+      "bytes": 9023
+    },
+    "indexes/nbadraft_2024.json": {
+      "sha256": "13089f7e2665ffd284826c2274c0093d533b1e7a5d87be257c46aa203a961060",
+      "bytes": 16413
+    },
+    "indexes/nbadraft_2025.json": {
+      "sha256": "e98ef56657f2e70bb882436c4f1a2c9e48d37d9ff23118351de3d8fd432bc5c6",
+      "bytes": 6440
+    },
+    "indexes/nbadraft_2026.json": {
+      "sha256": "1feb7abe230ecafa5424cd5ceed60ddf1e6aa0cd50c347f1e3d20eb3ea9b0493",
+      "bytes": 3184
+    },
+    "indexes/nbadraft_2026_fallback.json": {
+      "sha256": "2496720fbddd2045b9bb8b03d76ac6ff154cbbc457aa7910c8839d17df3ab741",
+      "bytes": 915
+    },
+    "indexes/walter_2018.json": {
+      "sha256": "e914ea1b38a412d9c6407bb2a458455be06ca0a9b92bbf0daee4ee97f1d95b61",
+      "bytes": 1148
+    },
+    "indexes/walter_2019.json": {
+      "sha256": "259375eb84ad1c801058e0db845674188ee871b7a98122764fe8faaf0df391b7",
+      "bytes": 1152
+    },
+    "indexes/walter_serious_2018.json": {
+      "sha256": "c7a198e77999fa6ed4199c954b9101488ec74cbc58cb5411fd9688d8809d6fc9",
+      "bytes": 11264
+    },
+    "indexes/walter_serious_2019.json": {
+      "sha256": "0040cb3f6b34bc89ffe435053745a6a84dfa058530fcc0ddf9a2c9cb07117324",
+      "bytes": 1183
+    },
+    "indexes/walter_serious_2020.json": {
+      "sha256": "fa7a024372869fdb67608fa7eac9d968ec2825dcedd490939334342cb7001a30",
+      "bytes": 5281
+    },
+    "indexes/walter_serious_2021.json": {
+      "sha256": "e50dbb41b36cbfe9e4bd2287004effefd7b5a7c8240f940158ae01f9d0a78b84",
+      "bytes": 556
+    },
+    "indexes/walter_serious_2022.json": {
+      "sha256": "851cc43bf48098d2d94d808fe324ac73ec8e48a39574c0aaa4ce5007a8387b64",
+      "bytes": 556
+    },
+    "indexes/walter_serious_2023.json": {
+      "sha256": "459383306025b2f5bb84c9094ed23d686105672ffe75f7b6b4f5f8b48e59bdf3",
+      "bytes": 556
+    },
+    "sources/dx_2015.json": {
+      "sha256": "cf8555fab87fa7f3dadcea58a7384f02bfc54d3e417c44b82c43a3884bb1c170",
+      "bytes": 815
+    },
+    "sources/dx_2016.json": {
+      "sha256": "9e6a2f735659dc24c9a0e58ee5c10c244dcfca51426df611a2ae1bfffe362f02",
+      "bytes": 819
+    },
+    "sources/dx_2017.json": {
+      "sha256": "3f077c973ea7cd566c073054cad6b91d851f703aa5c8244be0dd7bc3a1390a71",
+      "bytes": 816
+    },
+    "sources/nbadraft_2015.json": {
+      "sha256": "1b65737abe4626fd77005fb0c2fba4f9c409cf89645071cba4c83cda3e2a14c8",
+      "bytes": 794
+    },
+    "sources/nbadraft_2016.json": {
+      "sha256": "118933c4a1b006b0fb25524ed1badc825d08c08e5a2b1bdcf7a3b32f84940954",
+      "bytes": 747
+    },
+    "sources/nbadraft_2016_fallback.json": {
+      "sha256": "eb9193c62b94f6871fc8bb36a9e815809ebb7c57c047f007d642e709e1134a5d",
+      "bytes": 802
+    },
+    "sources/nbadraft_2017.json": {
+      "sha256": "a1450a14cb5b102bb2e04467982fba5601e2708b18a178a1c8819009a9d576b6",
+      "bytes": 793
+    },
+    "sources/nbadraft_2018.json": {
+      "sha256": "230d339f2d3e37506ba24e3cdda63de7ec925ebe48cb5ba06631835c06c4a6b0",
+      "bytes": 787
+    },
+    "sources/nbadraft_2019.json": {
+      "sha256": "aeb3051d460f0c96526b5fe355932347d0ed7370fb8f8fba904a8c9a1ec32a27",
+      "bytes": 789
+    },
+    "sources/nbadraft_2020.json": {
+      "sha256": "9b2049b340aa042faf4327d2fa67adc34e67947c89be9fecd3eea85d809de1b0",
+      "bytes": 786
+    },
+    "sources/nbadraft_2020_fallback.json": {
+      "sha256": "993bd7753fefea78de46c9e650614899cacfe4a151dd2d3331b9d60cd6833728",
+      "bytes": 813
+    },
+    "sources/nbadraft_2021.json": {
+      "sha256": "0aab4e6651108cf5d3374b532fb7793b3b04cf069d099566ebbb3e37484d7f4b",
+      "bytes": 793
+    },
+    "sources/nbadraft_2022.json": {
+      "sha256": "8d43badda7683fc9ffcf90a2f57008a2e3882aca2f0709b4f93ea70fb9304863",
+      "bytes": 793
+    },
+    "sources/nbadraft_2023.json": {
+      "sha256": "ed3f56335aea7f123f17de27686346314dda77255f4d8554f9f38395ccb67a78",
+      "bytes": 793
+    },
+    "sources/nbadraft_2024.json": {
+      "sha256": "a8cb1a69b469be270a93697ccd0d75f46ad129fcec34f82335ee485fe03e1b02",
+      "bytes": 793
+    },
+    "sources/nbadraft_2025.json": {
+      "sha256": "325c6a594b98184c525867b97e2750025e10ab46b36a65576a2c79defb23f171",
+      "bytes": 793
+    },
+    "sources/nbadraft_2026.json": {
+      "sha256": "ab651e45c7113e6f278ed6c627bc757e6e5a48ee01afc4bbb5285a2b34a68861",
+      "bytes": 922
+    },
+    "sources/nbadraft_2026_fallback.json": {
+      "sha256": "98ca6c02e684302046465db006fea8af6f3dcf45041f5f93c348c75bdf182b2e",
+      "bytes": 813
+    },
+    "sources/walter_2018.json": {
+      "sha256": "8fd72cf4795a1a07c956f30d461a3e8bf71e121507f8011b0b1ba2c0e03b13a7",
+      "bytes": 812
+    },
+    "sources/walter_2019.json": {
+      "sha256": "1c2de101191944898a84b54ae71266a0106573b119ceea3c5da5e237bb8bc03b",
+      "bytes": 821
+    },
+    "sources/walter_serious_2018.json": {
+      "sha256": "5ed35c5d1f389174b441be5c1bbbf13eafb67489a22b914f398e74290e352788",
+      "bytes": 839
+    },
+    "sources/walter_serious_2019.json": {
+      "sha256": "d12cda5c92c68d627f604a2a7246fb190d48f3bedcfebdc5097e04bfab217274",
+      "bytes": 839
+    },
+    "sources/walter_serious_2020.json": {
+      "sha256": "2b3e75f6b16b2e0fb06fac192e64c695528264e4c95a2b5e61e7a6d4046a8f5e",
+      "bytes": 841
+    },
+    "sources/walter_serious_2021.json": {
+      "sha256": "8cd46cb4ef1fa6ef7623fc837289dc271e68181be51614e39bfbc711b679a9ac",
+      "bytes": 329
+    },
+    "sources/walter_serious_2022.json": {
+      "sha256": "1652d59c25831b48162339fa228efc58949a1fe1249d473ee41a7a21030afaec",
+      "bytes": 329
+    },
+    "sources/walter_serious_2023.json": {
+      "sha256": "8d6d6a0f92f83281ef83137663b5f4809cca440b23cd63ee190212f0f4cd4f33",
+      "bytes": 329
+    }
+  },
+  "private_excluded": [
+    "private/",
+    "__pycache__/"
+  ],
+  "model_use": "Not attached to any model. Training and inference inputs separated; no scoring performed."
+}

@@ -1,0 +1,23 @@
+{
+  "publisher": "nbadraft",
+  "draft_year": 2020,
+  "draft_date": "2020-11-18",
+  "cutoff_utc": "2020-11-18T05:00:00+00:00",
+  "target_url": "https://www.nbadraft.net/nba-mock-drafts/",
+  "feature_eligible": false,
+  "status": "pending_body_validation",
+  "source_id": "nbadraft_2020_fallback",
+  "source": {
+    "urlkey": "net,nbadraft)/nba-mock-drafts",
+    "timestamp": "20201101015440",
+    "original": "https://www.nbadraft.net/nba-mock-drafts/",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "ZDIQNZM7H3T3SWDSXUHUCR7NA5ME2KJ6",
+    "length": "20189"
+  },
+  "archive_url": "https://web.archive.org/web/20201101015440id_/https://www.nbadraft.net/nba-mock-drafts/",
+  "captures": 1,
+  "html_sha256": "31fdf8733d9c8919a18b65e87689eb69e695752ac5ef742ffba02cef98575a2c",
+  "bytes": 114058
+}

@@ -1,0 +1,28 @@
+{
+  "status": "registered_before_model_launch",
+  "files": {
+    "README.md": "318a2c24e24ad2c3aa8a52410949785ea20c072b23caaf042e5c7e3151fc883a",
+    "REVIEW.md": "1323edf234c78c91e65881c483b162cadbeeac4718d3c6aa8c2005c9d3f953a3",
+    "baseline_reference.json": "531e86eef9d991867af6efcb92fb8eaeedec93df2f8fb7f3fa2cc488ebd8b692",
+    "data/combine_dictionary.json": "fd3df58401feafb24a4eeede1b1e5aab7f27de2bbd2205ede5a38c114106a0e7",
+    "data/combine_features.csv": "e9dace986cd68919a4cbb058c5873061e672755b2c3538f0cb3a16604e544db3",
+    "data/combine_metadata.json": "21d9e65d8f8570f23b89fbd5b36049f7d9f348c9cac0a7bb2df2565c6e18361a",
+    "data/combine_provenance.csv": "1966005e39f7458c58a951cf0a5a078f7481ede98445a9f38bcb27a55104f0ec",
+    "data/consensus_dictionary.json": "5650c1f13ad2f988dfbdeb80f7d59dc7c3be9fd95d7d876d62c7f3698ba40646",
+    "data/consensus_features.csv": "916238ca8aba6cc3998ac1e9707627083009508a3375c48d8fd8f1520491ee6e",
+    "data/consensus_provenance.csv": "6a3a99375512b8c71c549112646d7245e6c455cdf902b7db7163905f6305588c",
+    "data/consensus_sources.json": "bc22a17bb3d3c296226a77e40354c8f4c47722a7a8527458d49b15a9096b60cf",
+    "data/features.csv": "1c20a30b28498526713cf8a3d41259f5568cb96a696d2b0acedc351889810ec4",
+    "data/incumbent.json": "72cbd7d44457490ac04d3f6d255eddef0ba6c7897da61a924028afb807bfd3d2",
+    "data/labels.csv": "4afac2eced455cf7fc1f946c9d66fa4ac6fdd8d2febd909e5f71e4aed7a69d89",
+    "data/manifest.json": "91c7c1063649f1e7991fcd166f90fd1571b65d069da8bce4388bdf09eab16a03",
+    "legacy_kernel.py": "ddc58666da0d784a1b67f6b8ee4763599bdce14bb91768893e6fb87af4620ee1",
+    "plan.json": "1bcc52d67bc9d20e7f1269fbe3458b73a32af038d4b3740c14a152a0cb165706",
+    "preflight.json": "6844038277b7b96fa5f46daf939dc689969b2bdce43771c4a9c79975874765bf",
+    "preflight.py": "523d5a5483210761b53c05e9b7b742ad5a68e42ccdb6611ef5a750b35e180f4c",
+    "prepare_data.py": "4bf4aff5ffdd582ebd9fa516d021bd08b60f32698b21ff08c6359cd83aa82420",
+    "research.py": "4e1a030520142ee715811aa28c124f3fc7ea45a05f11f4b7dec6fd2bb917ae2d",
+    "run_sandbox.sh": "98c0f3a57ef13a3ac566b651d4c0ce4409a2b0a0bfd9299215120d95a5873d32",
+    "worker.py": "693ed6cc48f8e5277250df6d6ea32ee0b43a35c1c87da241fa5723594eaac3a9"
+  }
+}

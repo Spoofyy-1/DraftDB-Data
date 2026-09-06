@@ -1,0 +1,23 @@
+{
+  "publisher": "nbadraft",
+  "draft_year": 2016,
+  "draft_date": "2016-06-23",
+  "cutoff_utc": "2016-06-23T04:00:00+00:00",
+  "target_url": "www.nbadraft.net/2016mock_draft",
+  "feature_eligible": false,
+  "status": "discovery_only",
+  "source_id": "nbadraft_2016",
+  "query_url": "https://web.archive.org/cdx/search/cdx?url=www.nbadraft.net%2F2016mock_draft&matchType=exact&from=20160101&to=20160623035959&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=250",
+  "records": [
+    {
+      "urlkey": "net,nbadraft)/2016mock_draft",
+      "timestamp": "20160620184522",
+      "original": "http://www.nbadraft.net/2016mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "YR3CTL5UAFZYERAUTKXJEEQQY6FEE2WS",
+      "length": "13312"
+    }
+  ],
+  "fallback_reason": "Prior exact capture redirected; first fallback body lost during disk-full event, this is the one documented repeat"
+}

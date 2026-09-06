@@ -1,0 +1,225 @@
+{
+  "files": {
+    "combine_dictionary.json": "fd3df58401feafb24a4eeede1b1e5aab7f27de2bbd2205ede5a38c114106a0e7",
+    "combine_features.csv": "e9dace986cd68919a4cbb058c5873061e672755b2c3538f0cb3a16604e544db3",
+    "combine_metadata.json": "21d9e65d8f8570f23b89fbd5b36049f7d9f348c9cac0a7bb2df2565c6e18361a",
+    "combine_provenance.csv": "1966005e39f7458c58a951cf0a5a078f7481ede98445a9f38bcb27a55104f0ec",
+    "consensus_dictionary.json": "5650c1f13ad2f988dfbdeb80f7d59dc7c3be9fd95d7d876d62c7f3698ba40646",
+    "consensus_features.csv": "916238ca8aba6cc3998ac1e9707627083009508a3375c48d8fd8f1520491ee6e",
+    "consensus_provenance.csv": "6a3a99375512b8c71c549112646d7245e6c455cdf902b7db7163905f6305588c",
+    "consensus_sources.json": "bc22a17bb3d3c296226a77e40354c8f4c47722a7a8527458d49b15a9096b60cf",
+    "features.csv": "1c20a30b28498526713cf8a3d41259f5568cb96a696d2b0acedc351889810ec4",
+    "incumbent.json": "72cbd7d44457490ac04d3f6d255eddef0ba6c7897da61a924028afb807bfd3d2",
+    "labels.csv": "4afac2eced455cf7fc1f946c9d66fa4ac6fdd8d2febd909e5f71e4aed7a69d89"
+  },
+  "base_data_hashes": {
+    "incumbent.json": "72cbd7d44457490ac04d3f6d255eddef0ba6c7897da61a924028afb807bfd3d2",
+    "labels.csv": "4afac2eced455cf7fc1f946c9d66fa4ac6fdd8d2febd909e5f71e4aed7a69d89",
+    "features.csv": "1c20a30b28498526713cf8a3d41259f5568cb96a696d2b0acedc351889810ec4"
+  },
+  "unprojected_source_hashes": {
+    "incumbent.json": "72cbd7d44457490ac04d3f6d255eddef0ba6c7897da61a924028afb807bfd3d2",
+    "labels.csv": "4afac2eced455cf7fc1f946c9d66fa4ac6fdd8d2febd909e5f71e4aed7a69d89",
+    "features.csv": "ce432401e631f5ed5c9829f39707b4c2cd0a54dcb6578b26bfa50dbe2c81146f"
+  },
+  "source_families": {
+    "combine": [
+      "vcmb_height_without_shoes_in",
+      "vcmb_height_with_shoes_in",
+      "vcmb_weight_lb",
+      "vcmb_wingspan_in",
+      "vcmb_standing_reach_in",
+      "vcmb_body_fat_pct",
+      "vcmb_hand_length_in",
+      "vcmb_hand_width_in",
+      "vcmb_bmi_kg_m2",
+      "vcmb_wingspan_minus_height_in",
+      "vcmb_standing_vertical_in",
+      "vcmb_max_vertical_in",
+      "vcmb_lane_agility_s",
+      "vcmb_modified_lane_agility_s",
+      "vcmb_three_quarter_sprint_s",
+      "vcmb_bench_press_reps",
+      "vcmb_spot_15ft_made",
+      "vcmb_spot_15ft_attempted",
+      "vcmb_spot_15ft_pct",
+      "vcmb_spot_college3_made",
+      "vcmb_spot_college3_attempted",
+      "vcmb_spot_college3_pct",
+      "vcmb_spot_nba3_made",
+      "vcmb_spot_nba3_attempted",
+      "vcmb_spot_nba3_pct",
+      "vcmb_off_dribble_15ft_made",
+      "vcmb_off_dribble_15ft_attempted",
+      "vcmb_off_dribble_15ft_pct",
+      "vcmb_off_dribble_college3_made",
+      "vcmb_off_dribble_college3_attempted",
+      "vcmb_off_dribble_college3_pct",
+      "vcmb_on_move_15ft_made",
+      "vcmb_on_move_15ft_attempted",
+      "vcmb_on_move_15ft_pct",
+      "vcmb_on_move_college3_made",
+      "vcmb_on_move_college3_attempted",
+      "vcmb_on_move_college3_pct"
+    ],
+    "consensus": [
+      "vcons_mock_mean_rank",
+      "vcons_mock_best_rank",
+      "vcons_mock_rank_range",
+      "vcons_mock_n_sources"
+    ]
+  },
+  "baseline_source_variant": {
+    "id": "dated_raw_college_source_control",
+    "input_source": "context",
+    "context_features": [
+      "ctx_base_gp",
+      "ctx_base_minutes_share",
+      "ctx_base_usage",
+      "ctx_base_efg",
+      "ctx_base_ts",
+      "ctx_base_orb",
+      "ctx_base_drb",
+      "ctx_base_ast_pct",
+      "ctx_base_tov_pct",
+      "ctx_base_ftm",
+      "ctx_base_fta",
+      "ctx_base_ft_pct",
+      "ctx_base_fg2m",
+      "ctx_base_fg2a",
+      "ctx_base_fg2_pct",
+      "ctx_base_fg3m",
+      "ctx_base_fg3a",
+      "ctx_base_fg3_pct",
+      "ctx_base_blk_pct",
+      "ctx_base_stl_pct",
+      "ctx_base_ftr",
+      "ctx_base_fouls40",
+      "ctx_base_ast_tov",
+      "ctx_base_rim_made",
+      "ctx_base_rim_attempts",
+      "ctx_base_mid_made",
+      "ctx_base_mid_attempts",
+      "ctx_base_dunk_made",
+      "ctx_base_dunk_attempts",
+      "ctx_base_mpg",
+      "ctx_base_oreb_pg",
+      "ctx_base_dreb_pg",
+      "ctx_base_ast_pg",
+      "ctx_base_stl_pg",
+      "ctx_base_blk_pg",
+      "ctx_base_pts_pg",
+      "ctx_base_three_share",
+      "ctx_skill_defense_discipline",
+      "ctx_skill_creation_control",
+      "ctx_skill_usage_efficiency",
+      "ctx_skill_ft_volume"
+    ]
+  },
+  "source_package_hashes": {
+    "combine_bundle": {
+      "source_features.csv": "e9dace986cd68919a4cbb058c5873061e672755b2c3538f0cb3a16604e544db3",
+      "source_provenance.csv": "1966005e39f7458c58a951cf0a5a078f7481ede98445a9f38bcb27a55104f0ec",
+      "source_dictionary.json": "fd3df58401feafb24a4eeede1b1e5aab7f27de2bbd2205ede5a38c114106a0e7",
+      "source_metadata.json": "21d9e65d8f8570f23b89fbd5b36049f7d9f348c9cac0a7bb2df2565c6e18361a"
+    },
+    "consensus": {
+      "features_eligible.csv": "9219169c4f60804bac7ceef2dfa6f93882e153e563f138ca1dea040bfba1a970",
+      "rank_observations.csv": "a0fc0351986cc8e053bb7fea03a8a1552b471f77c1212a9c429fa219afe6b7ee",
+      "metric_dictionary.json": "7417ce1a95f6cce52c44690bd2a6bd1ad6c4dcea572ef2a198175fc8667acae5",
+      "validated_sources.json": "a5cebc34d61b68097b3817061959186e67b3ae52b25293b17ecfb390eb9dc5b4"
+    }
+  },
+  "q_plan_reference_sha256": "8a1ec6d9f7848ac8995085f5c709c40805af2a183b110a37df83f4c16dfc8693",
+  "consensus_unmatched_model_identities": [
+    {
+      "pid": "P40c501f5d6",
+      "draft_year": 2007
+    },
+    {
+      "pid": "Pcb5c1e8ac6",
+      "draft_year": 2007
+    },
+    {
+      "pid": "P16bd14d8e6",
+      "draft_year": 2008
+    },
+    {
+      "pid": "P4b40cf78ae",
+      "draft_year": 2008
+    },
+    {
+      "pid": "Pd2241d6e4b",
+      "draft_year": 2008
+    },
+    {
+      "pid": "Pef77516e2b",
+      "draft_year": 2009
+    },
+    {
+      "pid": "P24b8a1c556",
+      "draft_year": 2010
+    },
+    {
+      "pid": "P809c73ddd0",
+      "draft_year": 2010
+    },
+    {
+      "pid": "Pc781d37e72",
+      "draft_year": 2010
+    },
+    {
+      "pid": "Pdcb8ac9b93",
+      "draft_year": 2010
+    },
+    {
+      "pid": "P42d7cc83b1",
+      "draft_year": 2011
+    },
+    {
+      "pid": "P477dab5e0e",
+      "draft_year": 2011
+    },
+    {
+      "pid": "Pd30706ab20",
+      "draft_year": 2011
+    },
+    {
+      "pid": "P91c52ea937",
+      "draft_year": 2012
+    },
+    {
+      "pid": "Pb172e7dcfc",
+      "draft_year": 2012
+    },
+    {
+      "pid": "P488064c36d",
+      "draft_year": 2013
+    },
+    {
+      "pid": "P607c704c53",
+      "draft_year": 2013
+    },
+    {
+      "pid": "Pf1615243ab",
+      "draft_year": 2013
+    },
+    {
+      "pid": "P8c2c5e7b71",
+      "draft_year": 2014
+    },
+    {
+      "pid": "Pbed27928bf",
+      "draft_year": 2014
+    },
+    {
+      "pid": "Pd35ff11e6d",
+      "draft_year": 2014
+    }
+  ],
+  "limitations": [
+    "Prospect-universe completeness and original retrospective college/combine release vintages remain unresolved.",
+    "Consensus snapshots are verified pre-draft, but some earlier years have stale vintages and only two publishers.",
+    "No clean test or automatic promotion claim is authorized by this diagnostic study."
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "publisher": "walter_serious",
+  "draft_year": 2021,
+  "draft_date": "2021-07-29",
+  "cutoff_utc": "2021-07-29T04:00:00+00:00",
+  "target_url": "www.walterfootball.com/nbadraft2021mock.php",
+  "feature_eligible": false,
+  "status": "discovery_only",
+  "source_id": "walter_serious_2021",
+  "query_url": "https://web.archive.org/cdx/search/cdx?url=www.walterfootball.com%2Fnbadraft2021mock.php&matchType=exact&from=20210101&to=20210729035959&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=250",
+  "records": []
+}

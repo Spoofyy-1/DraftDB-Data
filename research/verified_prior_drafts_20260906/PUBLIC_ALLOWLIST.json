@@ -1,0 +1,19 @@
+{
+  "base_directory": "work/verified_prior_drafts",
+  "files": [
+    "README.md",
+    "build.py",
+    "test_build.py",
+    "PUBLIC_ALLOWLIST.json",
+    "data/membership_registry.csv",
+    "data/source_name_variants.csv",
+    "data/identity_crosswalk_suggestions.csv",
+    "data/training_population_gaps.csv",
+    "data/model_row_index_2015.csv",
+    "data/manifest.json",
+    "data/coverage.json",
+    "data/leakage_checks.json"
+  ],
+  "excluded": ["private/**", "protected/**", "__pycache__/**", "all unspecified files"],
+  "rationale": "Public membership facts, provenance, source-name variants and optional identity suggestions; actual positions remain protected metadata and never become model inputs."
+}

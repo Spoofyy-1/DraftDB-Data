@@ -1,0 +1,31 @@
+{
+  "publisher": "walter",
+  "draft_year": 2019,
+  "draft_date": "2019-06-20",
+  "cutoff_utc": "2019-06-20T04:00:00+00:00",
+  "target_url": "www.walterfootball.com/nbadraft2019.php",
+  "feature_eligible": false,
+  "status": "discovery_only",
+  "source_id": "walter_2019",
+  "query_url": "https://web.archive.org/cdx/search/cdx?url=www.walterfootball.com%2Fnbadraft2019.php&matchType=exact&from=20190101&to=20190620035959&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=250",
+  "records": [
+    {
+      "urlkey": "com,walterfootball)/nbadraft2019.php",
+      "timestamp": "20190518005130",
+      "original": "http://walterfootball.com:80/nbadraft2019.php",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "L4PF2A466MQORLYGZFQKADNZQ67IJ6GP",
+      "length": "24482"
+    },
+    {
+      "urlkey": "com,walterfootball)/nbadraft2019.php",
+      "timestamp": "20190617222149",
+      "original": "http://www.walterfootball.com:80/nbadraft2019.php",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "SEZ2T3FX7XVY66LZYTOOW7JGA4TDJQPG",
+      "length": "24862"
+    }
+  ]
+}

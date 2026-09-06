@@ -1,0 +1,697 @@
+{
+  "publisher": "dx",
+  "draft_year": 2016,
+  "draft_date": "2016-06-23",
+  "cutoff_utc": "2016-06-23T04:00:00+00:00",
+  "target_url": "www.draftexpress.com/nba-mock-draft/2016/",
+  "feature_eligible": false,
+  "status": "discovery_only",
+  "source_id": "dx_2016",
+  "query_url": "https://web.archive.org/cdx/search/cdx?url=www.draftexpress.com%2Fnba-mock-draft%2F2016%2F&matchType=exact&from=20160101&to=20160623035959&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=250",
+  "records": [
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160113184220",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2016",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "KU3TAKZ7RBKC6PYUEZNSIVGPVFOOKV7C",
+      "length": "14388"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160121023713",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2016",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "S47YBQYOOWF4B5LMZ5YB23CQV3QIDXUX",
+      "length": "15099"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160126214142",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2016",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "OCX33CUKDHRUITDTYTN4CTY63DHYLJAR",
+      "length": "15405"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160128070001",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "OFCZICTHOTMDXVUISXL62X65L7IP4MMJ",
+      "length": "15564"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160203060015",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ARMMUNL4RWN3THQY4P3XGCJORFALMUWK",
+      "length": "15585"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160208170119",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "HBNJBZ7ZJ3H6TN75IVOOTIA7DSSMTIPG",
+      "length": "15980"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160213000450",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "N6UVQFR5TP36VRCVKESDKVWKU27GGF7X",
+      "length": "15915"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160215212736",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "A2A3LH6IL2Y7JMG5WDQ63EV3QLPHHRBZ",
+      "length": "15927"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160217093359",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "Z2GLA467GUYGZQ4PCKPXSYUAH7OCQBR7",
+      "length": "15901"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160218185453",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ZSGH7MASWGOXGKVBJ66VZVNCCYW2CNB5",
+      "length": "15935"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160220064348",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "CWRWRBNH37VVULL7DMUNXNIXA2C3LQ6C",
+      "length": "15983"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160221192413",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NXUC6U4STBKJBHWL5NXKFAD7UB3SUQKP",
+      "length": "15950"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160223025910",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "73IVCBKOKM55B7WMJ2WJP5GXZ63JZJTI",
+      "length": "15961"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160224141010",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3W2HBKBEHHWMMX5IC2TEKK7NTXFBNEHM",
+      "length": "15935"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160226010627",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2KKVYCNENEEF43WWH36QDRRF6BVPUOQI",
+      "length": "15942"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160227105720",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "KMZ6Q6JNSH5QTUN5V4CMCV7EPFWWTXDU",
+      "length": "15922"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160229013006",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "MK2AGQ6ZVM3EFZ2S3UK575OX3WIE23KR",
+      "length": "15854"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160301132034",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QHZSG6UQLS4AOOCAOIBQMPKWOTM5C4UV",
+      "length": "15911"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160302223750",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "H5JTLEO35VXD2NDGAJDQYWSURNA4A57C",
+      "length": "15950"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160304091221",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7NCTGTDFU5FWOL3JOIN7YECTHEFGLSFB",
+      "length": "15962"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160305011916",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "T53ETHS7732L7OP6Z4LYAZ36QIR3UTKI",
+      "length": "15954"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160305072536",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "W2KQU747VYWUTQMLDNFEUUR3U3AZCCUC",
+      "length": "15980"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160307165740",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2016",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "HQH45MXF47KAWSGN4XMTX6FQ4GRA62CT",
+      "length": "15827"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160308170141",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "X7HD2MEV4MQPGB5VTD3I5WTPZM4J72G6",
+      "length": "15958"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160310142030",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "D5JGVUMSZABZC4BHOLIAYRMRH6VBQ6LN",
+      "length": "15942"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160311223242",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "VFIET7T3KCB7AJOOQPVZJHWPGQ7QUJ7E",
+      "length": "15944"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160313064619",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GB55BHNYLC6YAQQ3QWVLVSPP3DEJ5XAD",
+      "length": "15926"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160314183517",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "JP5XNSILKUIP6YZZHRKHRH2DJYZ67OFM",
+      "length": "15945"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160316031311",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "6EEL6UHKQTCHYFG5HDUTMPSIT2PQNMCC",
+      "length": "16063"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160316070127",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2016",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GCDBHS2UU2IFAK5PF5YGOKHJFTQQNLDX",
+      "length": "15877"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160317134444",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "DBS4B4ZKGTOM2KBHUU7VCA2SOOPF7GYU",
+      "length": "16036"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160318230652",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "CMWZBA4SSAZOHWKPQBSSLRIEJYL3MFA3",
+      "length": "15997"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160320004358",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7M4GMJLPHEBIT5AGZKHHSOLFJ4OANZZA",
+      "length": "16001"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160321102129",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "S7T2A4HWDGBZPQ2M6S5VKWA6LNGUA4LY",
+      "length": "15975"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160321234557",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "AR73ZV3MIPFR5B5GAG35MH3KY5JOQ2LC",
+      "length": "15905"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160322184308",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "HG75OM3HVRLDYB53I6RIJW4BXM2EXKFI",
+      "length": "15805"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160323163333",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2016",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "SEM3XZUVGTCMPIE6A5PLHYMERKQQBCSW",
+      "length": "15721"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160324043429",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "TLZN2HUPXRUH3VIZXGK2KBPEJNDF2EHA",
+      "length": "15205"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160325140303",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QJNLERHPTCMCDWHXX2FOZAJM5MT7FUCB",
+      "length": "15603"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160326033916",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "FTQSRJ3AXPF75TGULILM7EN4AFDL5NFF",
+      "length": "15596"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160326230723",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "XYBYSY3D4BSOL55SLNNN7ZMS34QJVKT7",
+      "length": "15724"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160328092232",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GOUDYKYIKME73PAZARLBBCWPL6BMIXYS",
+      "length": "15747"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160329150413",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2016",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "AY4XXQAYDBDCRAA55YJBLRP3LPUODPAU",
+      "length": "15537"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160331031155",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "PZG5I6QIAKOVUGZN7M6NEWHZYZQWWUTZ",
+      "length": "15760"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160401125242",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GJNX25E7JOBMJXU4GITYCOUVHCKWQXS2",
+      "length": "15803"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160401212507",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2016",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "26HEDSQRAR2L6UIJRJMTSP65POIZFDVN",
+      "length": "15696"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160402215638",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "JL3UYQAI2AW4FVGMDVDJG6QRDUVHXJ2J",
+      "length": "15875"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160404071239",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7IY2KCY4WL2UXQ4ZS7WBELDUSQZLRZHM",
+      "length": "15877"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160404094028",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "24KN4CUXPQVPJLHHEETGLO62OADWXPN2",
+      "length": "15877"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160405042004",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2016",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GMDVC5Q54HZ6FXBZ6FZDWHCLIX5M2WN6",
+      "length": "15720"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160405164624",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "AE2KSGV6H7GOCWXZ5SH7I7NKNGSL3KIC",
+      "length": "15933"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160407095552",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "YVSZOF7DFL65RXQ6DLVCZ6GMD5452OIX",
+      "length": "16070"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160408185352",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2016",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "DDVFSIADKMKCPQDVVEKGZC2AGMKUDXU7",
+      "length": "15844"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160412044903",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "EONEKBLR4YHJHRSLU2JOQM3U7L5L5VFM",
+      "length": "15963"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160412181506",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2016",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3D6KLM2GY7YUEEN2GC6TKX75U35PYT24",
+      "length": "15722"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160415193714",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2016",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "I4ULOFRLDCKJFAF4XQMFUBPR7NZQLBAA",
+      "length": "15669"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160419082945",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2016",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "IOVU4WJACLWIIRJQDWHTHFYEZC2O2MLN",
+      "length": "15661"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160422144847",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2016",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3ZNLS3PVHFUK46W4TI26WPH3CZTDEOMZ",
+      "length": "15663"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160426081010",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2016",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "U7XTCTTN5Z7R6YRKQUEVLQXAJUD2UKJ3",
+      "length": "15575"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160501012359",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2016",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "TTHDNCP4DQ5IGV2BMCU67PAL4YGX7SVV",
+      "length": "15559"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160502080621",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2016",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "F2ZQ7E2OWUOXDQB6X7QEXROWNWCOZVXJ",
+      "length": "15567"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160505181110",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2016",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "5PKJRIN4XKP2IWMVT7IBN4ZHEGPL3K4N",
+      "length": "15562"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160510053148",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2016",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "VLVUDLRRNDPYSZWFKPQEFK7IPDYRMSJH",
+      "length": "15541"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160513232244",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2016",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "VSWUMCWL5H76JWY4TKSXVLN733HNA5PY",
+      "length": "15575"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160517154333",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2016",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QYQJBXBJMOC44GSCQD7YVM7FLXZJAITD",
+      "length": "15957"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160521104038",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2016",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "D2YK6K64LIGY554S4YBSPC2GFOH6D3RY",
+      "length": "15788"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160525020942",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2016",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NUGV2ONDRZQQSGEMWXLHJHGCVLIMTEQA",
+      "length": "15682"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160526103024",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2016/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NDIVB6S6YMNND7GC66FHALIS6F3OLZBD",
+      "length": "15616"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160529155541",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2016",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "MQA4IOSZSSM6V4VVMJOJQLD2MUDMOD7C",
+      "length": "15657"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160605043314",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2016",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "IM4CIW5SQTU3557IYT4LK3WAU6H52D3A",
+      "length": "15667"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160605152530",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2016/?",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "EFENMQFLUPKOYCDSXCXQ3T5MUANJWOTW",
+      "length": "15646"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160609004208",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2016",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "JJOK3CC74UL7VMJLATLKETOUURZWC7FD",
+      "length": "15700"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160612150841",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2016",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "6KUA5XUXQFPRBZF6OUYWGSMQ7B6KITTX",
+      "length": "15701"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160616155648",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2016",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WNJSRY54R3AGJER6Y6EWZS2DWHBIC2ED",
+      "length": "15738"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160618040655",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2016",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "KOQACHNJFEVVO5BK2B6BR3PJ3UCOKAK6",
+      "length": "15826"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2016",
+      "timestamp": "20160621174050",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2016",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "KQAKTONWCC7O6G54A76L4BM4QIROEXZC",
+      "length": "15732"
+    }
+  ]
+}

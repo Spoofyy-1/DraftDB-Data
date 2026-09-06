@@ -1,0 +1,28 @@
+{
+  "source_college": {
+    "2012": {
+      "base_columns_hash": "00db141c52d7b76ddb587827957e53d9ffc7a82c267fe7caae3f53aeed51eb37",
+      "training_pid_hash": "6a48174ac57b3e18fdbfcfd975d2f0c18dd113bd35d3e8f8827310668fb77377",
+      "validation_pid_hash": "72be5106482124329fbf319b74baaed442b22747b11cd521de866e716b8b1467",
+      "training_labels_hash": "985c3a53879f3255208a78c75cc6639341bdb01361328c31179f7a66992d760b",
+      "training_matrix_hash": "4d6f8ff79291c2eecd199f7227bca6ab1434f43bc922ea852d3bcefa416df283",
+      "validation_matrix_hash": "da42dab1c29a10643033c59c2a4553dbd27869abb69ed4ce74f6eaf8b5ef320b"
+    },
+    "2013": {
+      "base_columns_hash": "13233c8c5e6f66975bad731cacae0de06a947c05d00a0336b6009e7eb40ab098",
+      "training_pid_hash": "7fb2213f8097f7df6e1e9451e4f8915e1bf69e279ab3f6a89a52d8a4b60632d5",
+      "validation_pid_hash": "08777cf329afa49470535979ee1259937c4141cc4c95f0c8e28da9ff6f3db13c",
+      "training_labels_hash": "c1282fc107246793114181b1df772f40aaac6446858546d5b93695e804b9e2c1",
+      "training_matrix_hash": "c37332cf1be6e03dd6eb2d79da7f541bb3e71fcad5afa0b816bb7aeb697e815d",
+      "validation_matrix_hash": "749ad744e4a82cf2bcf909743e9c8f9fb10e47b716d4f6825b8fee4a711b8624"
+    },
+    "2014": {
+      "base_columns_hash": "6efe089d481a9d8766d59f3b3d920c4d68f0922e979fcc71760c17ef2f03ff1d",
+      "training_pid_hash": "ca553aa33f359a9ab16dd00f5c9c52e705810724f8a7421abf1aa1f028550516",
+      "validation_pid_hash": "c52b48ed224c2e4c658d1b42881fca1a4d8585b9cfb719c0e01e46a1fde15243",
+      "training_labels_hash": "9de5eb0c875d816ce0e55bda6ddd07b4c3d4e37b2a6e8700c909c6f43ee28d93",
+      "training_matrix_hash": "5f27dd32ea1121484840533a34516980bf79455ef174940f782f2dad09d1bc29",
+      "validation_matrix_hash": "f08fcb9e58be26b4f97b212c3f9e4e09c861dcb1267cdb53362da1ce73a2dae5"
+    }
+  }
+}

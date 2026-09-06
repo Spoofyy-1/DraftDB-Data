@@ -1,0 +1,526 @@
+{
+  "publisher": "dx",
+  "draft_year": 2015,
+  "draft_date": "2015-06-25",
+  "cutoff_utc": "2015-06-25T04:00:00+00:00",
+  "target_url": "www.draftexpress.com/nba-mock-draft/2015/",
+  "feature_eligible": false,
+  "status": "discovery_only",
+  "source_id": "dx_2015",
+  "query_url": "https://web.archive.org/cdx/search/cdx?url=www.draftexpress.com%2Fnba-mock-draft%2F2015%2F&matchType=exact&from=20150101&to=20150625035959&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=250",
+  "records": [
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150101211632",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2015",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "JD2PR5Y3TUD6W5EPGMLRRXV2V4VCSRQG",
+      "length": "13950"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150107050215",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2015",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WECHRMYQGQ7LRKXFD5Q3M7CRSJJGXUXE",
+      "length": "13972"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150109051008",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "SCKX4HBVUOHHMHOAQR7WOWKTPPHL47HO",
+      "length": "14107"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150109072440",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "IJRLH76BRQOIM3N75A2KTXDOIKRSGUL3",
+      "length": "14056"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150112104158",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "L33LOXGOIXBSVYH5QPQPRE6WULW4KPFH",
+      "length": "14032"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150113083310",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2015",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NNKWZDJYP67W6HD73QPQ3RLSR2PDVE6C",
+      "length": "13889"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150113203948",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "JC3SENZ6ES2KDLTC4XJCTXXIXAB2IFXB",
+      "length": "13992"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150115075039",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7XHSKWMI2KF5AZWST5MN7G2MWTPSILKL",
+      "length": "14132"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150120203923",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "VBC4B3E7LEOBGSEJWQBHQSWAQ4BTP3CN",
+      "length": "14081"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150121061126",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "TWMD7WHZNN7JCQ7WOZOUF3NLBNHFKVLL",
+      "length": "13920"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150122060210",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "FYBKADGDVNXESQ4VJF2V2YXUMCVC23QH",
+      "length": "14075"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150126093609",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "5A2NCOLDJR6FTYDLTWKKI7M5NMSNBAE2",
+      "length": "11136"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150203155604",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3NDOQKZHREDH26SM6R7KW5JJ54HOXKZM",
+      "length": "11226"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150207070240",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2015",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "5PTHILWPNAA6BTAVWYZPLW2VMFLVRD27",
+      "length": "11039"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150215160118",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2015",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3ADLL4QTVC262FCQOQZGHRRJWJ34J5U6",
+      "length": "10967"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150218140855",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2015",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ITNU7VBIPOWPDCKOSLIGZEND4WJ3PIM2",
+      "length": "11019"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150222023821",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2015",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "YKSLF4WOLWY75WFUQ5PGRF5MP6RGQ6MH",
+      "length": "10964"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150225014403",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2015",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "SPZF2MSXCLJ3NZAANOYLVL7QWEAPN2Y2",
+      "length": "11020"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150226042721",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3GXVQEOFPYLOMG5UEGFJRU3OJPG4KRZC",
+      "length": "11281"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150227213904",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2015",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QS3NFFHB3HZ5EBVQZUKHEXXHVIEVEKH2",
+      "length": "11019"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150304064403",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2015",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "SZJFSAMUWM2MLJ4CY2RSHFR37NME6MUK",
+      "length": "11039"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150307051959",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2015",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "PTYFAYLPFQTP2UAYMGLCGAHKYNRP47YL",
+      "length": "11028"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150310135827",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2015",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2HRII2R54VY4OZJMXSZTFVYPSFSORLSX",
+      "length": "11016"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150313083558",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2015",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "RJCCBN7EQUF6H63WXRWD5TAZH5TP5SMK",
+      "length": "11015"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150315044554",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "5CRJEOIGAKUPI4AEHNBZFGKELBTO4YQE",
+      "length": "11172"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150317061600",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2015",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "XRBAAGNWYFFMKFO5OVOED4WKIRAHA4LU",
+      "length": "11029"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150406172239",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "PSTTM2HAZ3YTFSQB2KMENIECZYXX3ETN",
+      "length": "11221"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150408001902",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "EEG5R4EMKBIIQCQFTKICLBX4JXDW3XV5",
+      "length": "11221"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150409121656",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "R4U6VHPZID5KOYH7AFK52LXEUI54N6GH",
+      "length": "11140"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150409221017",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "JBO2ZTHZGKNAVXUA7OLOLRS4VXXHHPDJ",
+      "length": "11189"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150414134157",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2YHQFNBPGTHBY5QAJBESWW7IJ6NELWEA",
+      "length": "11292"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150511042546",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2015",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "W77ZEEXVYJN77KYTMTRWBXE5KYKMMH6C",
+      "length": "11051"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150516075116",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2015",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ZSCMBHIIBZ2FPBXF7YGZGD75OK2TFZRD",
+      "length": "11047"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150527034913",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "BYIVPAFVC4RI6C5JKSYLOSSHOHGKT7QO",
+      "length": "14589"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150528111701",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "RAYVEGWXAEJEHOOUPENX5SANWSMFIITG",
+      "length": "14427"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150529183456",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "G3R2OJA5O4CHIIGK3E5ZJMVOUYKZM3OH",
+      "length": "14820"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150531025152",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3Y5DMDD3SBH2M63JSV7NAEKH5IWDZVGY",
+      "length": "14766"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150601082858",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3YOCXEWCGGZUYNOYLRE5TMNVGX6S2RQV",
+      "length": "14781"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150602160252",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3T2TZEK22IWXYQKABSIJEBT35BOLRPEP",
+      "length": "14430"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150603233048",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "H2A3LWXK4GSESWR6PMJBSVWTKI5N72AA",
+      "length": "14760"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150605085642",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "6TFEE4PKGMMK4BR3DCOKUEVRGB2QJDKO",
+      "length": "14736"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150606160909",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "4RN4T3Q5MF2FBGTRZAESVUA52OWGQTSS",
+      "length": "14834"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150606220703",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "Z6VMPZDXVOFFARUVRNPIOK6E4ORYM4WT",
+      "length": "14873"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150607231548",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "5BFWQHJA62GD5H4JBEII5IYUE2YMSPDO",
+      "length": "14770"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150609055333",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QWQSG5E2KBWRPXLFCPE62GDUYU43FURV",
+      "length": "14754"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150610132612",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "LDVSJDUGMUCX4TXHDL6MFYCYCXF6R4M4",
+      "length": "14783"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150611210049",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "5IRFIH45CT2LEHLLCNSEHBGM7LBM4RUY",
+      "length": "14793"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150613044242",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ZIM2C2WXOKPCXUJ7LN42IDBGGIQXP557",
+      "length": "14787"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150614144851",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "5EFII6A76Y6YCQPXMQSR436I2VVPQN6R",
+      "length": "14805"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150615215012",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "BQDRZDC6MWSMNFJEOAP4B2LYXNZF6V4T",
+      "length": "14787"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150617055048",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "PDCWXGXQ5WWRLLNU5O5EHW4UTLUSHURD",
+      "length": "14924"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150617142323",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3RCGVLJVRCVC37FER3ZPROV34D2QPTE7",
+      "length": "14633"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150618132254",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "MEPQ6V4EEB7YXPFLFAZGHQS3ZYCX2Q5R",
+      "length": "14537"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150619181910",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QECLTPYMBOZP3MLJRXAJHV7DHXC5FAIG",
+      "length": "14886"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150621022439",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "6X5SXGVZ6H35EPJQOIWX6I6GTHXA4AF4",
+      "length": "14797"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150622104515",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "G4B3M4XOJG2LNXQZPP5RH6MS5P75G4NA",
+      "length": "14786"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2015",
+      "timestamp": "20150623175013",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2015/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GMPZRANVNXHTG76NEBJIESGLPDYGYFFS",
+      "length": "14910"
+    }
+  ]
+}

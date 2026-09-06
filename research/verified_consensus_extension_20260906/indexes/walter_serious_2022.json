@@ -1,0 +1,12 @@
+{
+  "publisher": "walter_serious",
+  "draft_year": 2022,
+  "draft_date": "2022-06-23",
+  "cutoff_utc": "2022-06-23T04:00:00+00:00",
+  "target_url": "www.walterfootball.com/nbadraft2022mock.php",
+  "feature_eligible": false,
+  "status": "discovery_only",
+  "source_id": "walter_serious_2022",
+  "query_url": "https://web.archive.org/cdx/search/cdx?url=www.walterfootball.com%2Fnbadraft2022mock.php&matchType=exact&from=20220101&to=20220623035959&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=250",
+  "records": []
+}

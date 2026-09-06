@@ -1,0 +1,194 @@
+{
+  "schema_version": 1,
+  "years": [
+    2012,
+    2013,
+    2014
+  ],
+  "sources": [
+    {
+      "source_id": "hr_2012",
+      "url": "https://www.hoopsrumors.com/2012/06/2012-nba-draft-results.html",
+      "draft_year": 2012,
+      "claimed_publication_date": "2012-06-29",
+      "later_update_date": null,
+      "independently_observed_at_utc": "2026-09-06T12:05:45.940232+00:00",
+      "capture_sha256": "0240dbaab597cb55e5fc2ac61a39394e7d6ed668e4a4c4cb0b1ad2098c17ed5a",
+      "capture_representation": "web_tool_indexed_source_text",
+      "raw_http_sha256": null,
+      "role": "canonical_contemporary_roster",
+      "parsed_selections": 60,
+      "publication_body_public": false
+    },
+    {
+      "source_id": "ap_2012",
+      "url": "https://www.thespread.com/nba-news/sp-2041481404/",
+      "draft_year": 2012,
+      "claimed_publication_date": "2012-06-29",
+      "later_update_date": null,
+      "independently_observed_at_utc": "2026-09-06T12:05:45.956655+00:00",
+      "capture_sha256": "f835d0b40435e9aaf79e55ace587c6741d925ddf2555179edae850f8aec4f3e3",
+      "capture_representation": "web_tool_indexed_source_text",
+      "raw_http_sha256": null,
+      "role": "independent_AP_membership_corroboration",
+      "parsed_selections": 60,
+      "publication_body_public": false
+    },
+    {
+      "source_id": "hr_2013",
+      "url": "https://www.hoopsrumors.com/2013/06/2013-nba-draft-results.html",
+      "draft_year": 2013,
+      "claimed_publication_date": "2013-06-28",
+      "later_update_date": null,
+      "independently_observed_at_utc": "2026-09-06T12:05:45.940232+00:00",
+      "capture_sha256": "0d4baecff8b6c8481e21d3e6baad5d7d0c7572382860dd143c7ca662c97abd89",
+      "capture_representation": "web_tool_indexed_source_text",
+      "raw_http_sha256": null,
+      "role": "canonical_contemporary_roster",
+      "parsed_selections": 60,
+      "publication_body_public": false
+    },
+    {
+      "source_id": "ap_2013",
+      "url": "https://www.ctpost.com/sports/article/2013-nba-draft-selections-4632115.php",
+      "draft_year": 2013,
+      "claimed_publication_date": "2013-06-28",
+      "later_update_date": null,
+      "independently_observed_at_utc": "2026-09-06T12:03:39.714283+00:00",
+      "capture_sha256": "0064105a01dcbe1d2a6a9133781a28c1084db8b35157e1803a16be4d99325908",
+      "capture_representation": "web_tool_page_view",
+      "raw_http_sha256": null,
+      "role": "independent_AP_membership_corroboration",
+      "parsed_selections": 60,
+      "publication_body_public": false
+    },
+    {
+      "source_id": "hr_2014",
+      "url": "https://www.hoopsrumors.com/2014/06/2014-draft-results.html",
+      "draft_year": 2014,
+      "claimed_publication_date": "2014-06-27",
+      "later_update_date": null,
+      "independently_observed_at_utc": "2026-09-06T12:05:45.949003+00:00",
+      "capture_sha256": "184fe1b944809757da678ab0736efcd8755a7e90c373940cbfb4630764146d7c",
+      "capture_representation": "web_tool_indexed_source_text",
+      "raw_http_sha256": null,
+      "role": "canonical_contemporary_roster",
+      "parsed_selections": 60,
+      "publication_body_public": false
+    },
+    {
+      "source_id": "ap_2014",
+      "url": "https://www.foxnews.com/sports/2014-nba-draft-team-by-team",
+      "draft_year": 2014,
+      "claimed_publication_date": "2014-06-27",
+      "later_update_date": "2015-02-05",
+      "independently_observed_at_utc": "2026-09-06T12:06:32.046126+00:00",
+      "capture_sha256": "19e10f1a8819099c883bd10d1388f04ee3f6b466da648bd7ca796e9188fdbd9d",
+      "capture_representation": "web_tool_indexed_source_text",
+      "raw_http_sha256": null,
+      "role": "independent_AP_membership_corroboration",
+      "parsed_selections": 60,
+      "publication_body_public": false
+    }
+  ],
+  "coverage": {
+    "2012": {
+      "selected_source_rows": 60,
+      "ap_corroborating_rows": 60,
+      "normalized_source_name_agreement": 56,
+      "identity_status_counts": {
+        "unique_legacy_cohort_name_suggestion": 56,
+        "unresolved": 3,
+        "unique_broad_name_suggestion": 1
+      },
+      "gap_status_counts": {
+        "existing_training_candidate": 55,
+        "no_legacy_same_cohort_name_match": 4,
+        "legacy_candidate_absent_from_training": 1
+      }
+    },
+    "2013": {
+      "selected_source_rows": 60,
+      "ap_corroborating_rows": 60,
+      "normalized_source_name_agreement": 55,
+      "identity_status_counts": {
+        "unique_legacy_cohort_name_suggestion": 49,
+        "unresolved": 7,
+        "unique_broad_name_suggestion": 4
+      },
+      "gap_status_counts": {
+        "existing_training_candidate": 48,
+        "no_legacy_same_cohort_name_match": 11,
+        "legacy_candidate_absent_from_training": 1
+      }
+    },
+    "2014": {
+      "selected_source_rows": 60,
+      "ap_corroborating_rows": 60,
+      "normalized_source_name_agreement": 59,
+      "identity_status_counts": {
+        "unique_legacy_cohort_name_suggestion": 55,
+        "unresolved": 3,
+        "unique_broad_name_suggestion": 2
+      },
+      "gap_status_counts": {
+        "existing_training_candidate": 53,
+        "no_legacy_same_cohort_name_match": 5,
+        "legacy_candidate_absent_from_training": 2
+      }
+    }
+  },
+  "registry_rows": 180,
+  "source_draft_membership_complete": true,
+  "global_identities_resolved": false,
+  "model_ready": false,
+  "outcomes_read": false,
+  "nba_ids_read": false,
+  "actual_pick_from_legacy_identity_read": false,
+  "model_fits": 0,
+  "test_scores": 0,
+  "actual_positions_path_excluded_from_public": "protected/actual_draft_positions.csv",
+  "inputs": [
+    {
+      "path_basename": "player_key.parquet",
+      "sha256": "95df799b786c69e28ae7fa889f0e7be9f0ded54c0b08a755df206407f9939922",
+      "columns_read": [
+        "pid",
+        "player_uid",
+        "player_name"
+      ]
+    },
+    {
+      "path_basename": "tabular_names.csv",
+      "sha256": "bc6636a31ce22748d68360771fa633a91879495f29160ce871da15392b55bb41",
+      "columns_read": [
+        "pid",
+        "draft_year",
+        "player_name"
+      ]
+    },
+    {
+      "path_basename": "features.csv",
+      "sha256": "ce432401e631f5ed5c9829f39707b4c2cd0a54dcb6578b26bfa50dbe2c81146f",
+      "columns_read": [
+        "pid",
+        "draft_year"
+      ]
+    }
+  ],
+  "conditions": [
+    "draft_year < prediction_year",
+    "membership_available_date <= separately configured information cutoff",
+    "all selected members retained, even with no identity, feature or label match",
+    "only identifier fields emitted to model row index"
+  ],
+  "omissions": [
+    "2007–2011 and 2015+ outside this bounded pilot",
+    "No individual NBA participation or WAR labels collected",
+    "Names-only suggestions require further identity evidence",
+    "Public datelines not independently timestamped archive snapshots",
+    "2014 AP source has a 2015 update; 2014 availability comes from the independent contemporaneous Hoops Rumors record",
+    "Primary live NBA history URLs unavailable; contemporary specialist reporting crosschecked with all 60 AP rows"
+  ],
+  "original_benchmark_unchanged": true
+}

@@ -1,0 +1,12 @@
+{
+  "publisher": "walter_serious",
+  "draft_year": 2023,
+  "draft_date": "2023-06-22",
+  "cutoff_utc": "2023-06-22T04:00:00+00:00",
+  "target_url": "www.walterfootball.com/nbadraft2023mock.php",
+  "feature_eligible": false,
+  "status": "discovery_only",
+  "source_id": "walter_serious_2023",
+  "query_url": "https://web.archive.org/cdx/search/cdx?url=www.walterfootball.com%2Fnbadraft2023mock.php&matchType=exact&from=20230101&to=20230622035959&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=250",
+  "records": []
+}

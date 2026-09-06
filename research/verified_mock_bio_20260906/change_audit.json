@@ -1,0 +1,47 @@
+{
+  "status": "regenerated_after_passing_independent_tests",
+  "players_before": 374,
+  "players_after": 374,
+  "player_order_and_cohorts_unchanged": true,
+  "source_provenance_rows_unchanged": true,
+  "numeric_changed_cells": [
+    {
+      "pid": "P16bd14d8e6",
+      "draft_year": 2008,
+      "column": "vmb_position_sf",
+      "old": 0.0,
+      "new": 1.0,
+      "source_id": "dx_2008",
+      "profile_href": "/profile/Jamont-Gordon-290/",
+      "source_table_row": 47,
+      "reason": "Explicit PG/SG/SF listing previously truncated by two-position regex; SF now retained."
+    },
+    {
+      "pid": "Pe97fa79993",
+      "draft_year": 2010,
+      "column": "vmb_position_sf",
+      "old": 0.0,
+      "new": 1.0,
+      "source_id": "dx_2010",
+      "profile_href": "/profile/Nemanja-Bjelica-5510/",
+      "source_table_row": 50,
+      "reason": "Explicit PG/SG/SF listing previously truncated by two-position regex; SF now retained."
+    }
+  ],
+  "all_other_numeric_cells_unchanged": true,
+  "before_sha256": {
+    "features_eligible.csv": "3f7e77b9f7f621e4e8855538eedf498391198bed6f3eafdb3c0989b4d46b7b6b",
+    "row_provenance.csv": "03f10447f07b35c6807d40218c58a7a1d8562d3299bd48d012a03e09dfaba261",
+    "metric_dictionary.json": "72e96c1a4b05609839280af55471bccedbd791acd7a8c9e3ceb2af1366b90a54",
+    "manifest.json": "af46f568626fc5a6390cb29a6f20ebcae8ac31e5a2ce661d438f03fd710a4aff"
+  },
+  "after_sha256": {
+    "features_eligible.csv": "5f06d269cab48df89f66d8d3def6fcd4be207971826a73adc70a6ca978b45b6b",
+    "row_provenance.csv": "03f10447f07b35c6807d40218c58a7a1d8562d3299bd48d012a03e09dfaba261",
+    "metric_dictionary.json": "f31b5bb45013363986ae31932713cef4d8b2ae1c263d0697aa6a884bcba7cb30",
+    "manifest.json": "46e029333c626865206fe3fb705416001931562640679a36ec9292e1dea9dccd"
+  },
+  "builder_sha256": "e344e59665b298c47902faf19fe88b1d906a52991d477f5818490851c3bb9b82",
+  "verification_sha256": "fb8a2cae9138c9d4b4459136cd9ae88014d5152cec89c49e55b5669016d98b05",
+  "no_models_or_outcome_access": true
+}

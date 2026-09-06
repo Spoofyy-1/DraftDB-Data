@@ -1,0 +1,23 @@
+{
+  "status": "passed_without_model_execution",
+  "replayed_rank_observations": 764,
+  "verified_sources": 18,
+  "adversarial_parser_tests_passed": [
+    "nb_round_truncated",
+    "nb_wrong_year_heading",
+    "nb_ambiguous_player_link",
+    "nb_conflicting_sticky_rank",
+    "dx2016_missing_item",
+    "dx2017_changed_header",
+    "walter_partial_list_truncated",
+    "walter_wrong_author"
+  ],
+  "ambiguous_2026_update_quarantined": true,
+  "satirical_walter_pages_quarantined": true,
+  "network_attempts": 42,
+  "network_limit": 45,
+  "collector_stopped": true,
+  "original_consensus_public_files_unchanged": 54,
+  "r8s_original_files_unchanged": false,
+  "training_or_scoring_performed": false
+}

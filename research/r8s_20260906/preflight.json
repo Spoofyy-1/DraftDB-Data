@@ -1,0 +1,214 @@
+{
+  "status": "passed_without_model_execution",
+  "tasks": 57,
+  "model_universe_rows": 1428,
+  "source_columns_per_fold": {
+    "2012": {
+      "combine": 15,
+      "consensus": 4
+    },
+    "2013": {
+      "combine": 15,
+      "consensus": 4
+    },
+    "2014": {
+      "combine": 15,
+      "consensus": 4
+    }
+  },
+  "family_vector_order_invariance_checks": 36,
+  "design_checks": 57,
+  "factorial_summary_fixture_passed": true,
+  "incomplete_factorial_withheld": true,
+  "runner_config_id_normalization_verified": true,
+  "tamper_rejections": [
+    "per_player_mask",
+    "family_row_multiset",
+    "stream_reuse",
+    "missing_family",
+    "wrong_slot",
+    "future_label_season",
+    "unregistered_seed",
+    "config_change"
+  ],
+  "source_public_manifest_files_unchanged": 54,
+  "cpu_selector_executed": false,
+  "gpu_model_executed": false,
+  "coverage": {
+    "2012": {
+      "combine": {
+        "train": {
+          "rows": 251,
+          "columns": 15,
+          "observed_rows": 138,
+          "swappable_observed_rows": 134,
+          "immovable_observed_rows": 4,
+          "strata": 16,
+          "changed_rows_by_permutation": {
+            "9317": 127,
+            "18739": 123,
+            "28657": 126
+          }
+        },
+        "validation": {
+          "rows": 55,
+          "columns": 15,
+          "observed_rows": 48,
+          "swappable_observed_rows": 45,
+          "immovable_observed_rows": 3,
+          "strata": 7,
+          "changed_rows_by_permutation": {
+            "9317": 44,
+            "18739": 43,
+            "28657": 43
+          }
+        }
+      },
+      "consensus": {
+        "train": {
+          "rows": 251,
+          "columns": 4,
+          "observed_rows": 173,
+          "swappable_observed_rows": 173,
+          "immovable_observed_rows": 0,
+          "strata": 12,
+          "changed_rows_by_permutation": {
+            "9317": 160,
+            "18739": 165,
+            "28657": 167
+          }
+        },
+        "validation": {
+          "rows": 55,
+          "columns": 4,
+          "observed_rows": 50,
+          "swappable_observed_rows": 50,
+          "immovable_observed_rows": 0,
+          "strata": 3,
+          "changed_rows_by_permutation": {
+            "9317": 47,
+            "18739": 48,
+            "28657": 48
+          }
+        }
+      }
+    },
+    "2013": {
+      "combine": {
+        "train": {
+          "rows": 329,
+          "columns": 15,
+          "observed_rows": 180,
+          "swappable_observed_rows": 175,
+          "immovable_observed_rows": 5,
+          "strata": 21,
+          "changed_rows_by_permutation": {
+            "9317": 167,
+            "18739": 163,
+            "28657": 163
+          }
+        },
+        "validation": {
+          "rows": 50,
+          "columns": 15,
+          "observed_rows": 42,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 1,
+          "strata": 5,
+          "changed_rows_by_permutation": {
+            "9317": 39,
+            "18739": 37,
+            "28657": 37
+          }
+        }
+      },
+      "consensus": {
+        "train": {
+          "rows": 329,
+          "columns": 4,
+          "observed_rows": 227,
+          "swappable_observed_rows": 227,
+          "immovable_observed_rows": 0,
+          "strata": 15,
+          "changed_rows_by_permutation": {
+            "9317": 213,
+            "18739": 217,
+            "28657": 219
+          }
+        },
+        "validation": {
+          "rows": 50,
+          "columns": 4,
+          "observed_rows": 43,
+          "swappable_observed_rows": 43,
+          "immovable_observed_rows": 0,
+          "strata": 3,
+          "changed_rows_by_permutation": {
+            "9317": 42,
+            "18739": 42,
+            "28657": 39
+          }
+        }
+      }
+    },
+    "2014": {
+      "combine": {
+        "train": {
+          "rows": 403,
+          "columns": 15,
+          "observed_rows": 231,
+          "swappable_observed_rows": 223,
+          "immovable_observed_rows": 8,
+          "strata": 28,
+          "changed_rows_by_permutation": {
+            "9317": 211,
+            "18739": 210,
+            "28657": 210
+          }
+        },
+        "validation": {
+          "rows": 53,
+          "columns": 15,
+          "observed_rows": 40,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 1,
+          "strata": 4,
+          "changed_rows_by_permutation": {
+            "9317": 38,
+            "18739": 38,
+            "28657": 36
+          }
+        }
+      },
+      "consensus": {
+        "train": {
+          "rows": 403,
+          "columns": 4,
+          "observed_rows": 280,
+          "swappable_observed_rows": 280,
+          "immovable_observed_rows": 0,
+          "strata": 18,
+          "changed_rows_by_permutation": {
+            "9317": 265,
+            "18739": 268,
+            "28657": 271
+          }
+        },
+        "validation": {
+          "rows": 53,
+          "columns": 4,
+          "observed_rows": 50,
+          "swappable_observed_rows": 50,
+          "immovable_observed_rows": 0,
+          "strata": 3,
+          "changed_rows_by_permutation": {
+            "9317": 48,
+            "18739": 50,
+            "28657": 47
+          }
+        }
+      }
+    }
+  },
+  "required_server_preflight": "Run _prepared() on CPU and compare source_college base column order, matrices, labels and membership with R8q source-only baseline before launching TabICL."
+}
