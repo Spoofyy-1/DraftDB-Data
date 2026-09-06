@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "models_fitted": 0,
+  "tasks": 4893,
+  "new_pairs": 161,
+  "no_duplicate_X_pairs": true,
+  "exact_reference_contracts": 63,
+  "missing_reference_withholds_interpretation": true,
+  "tamper_rejections": [
+    "raw_reference",
+    "reference_constructor",
+    "future_label"
+  ],
+  "pair_control_tests_inherited_from_completed_X": true
+}

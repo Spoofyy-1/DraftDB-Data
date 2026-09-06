@@ -1,0 +1,19 @@
+{
+  "study": "r8z",
+  "unit": "draftdb-r8z-20260906",
+  "systemd": {
+    "RuntimeMaxUSec": "2h",
+    "CPUQuotaPerSecUSec": "22s",
+    "MemoryMax": "150323855360",
+    "ActiveState": "active",
+    "SubState": "running",
+    "InvocationID": "54ac181207b84b19ab8254135040ed76"
+  },
+  "tasks": 4893,
+  "new_pairs": 161,
+  "reference_tasks": 63,
+  "workers": 4,
+  "CPU_preflight_passed": true,
+  "Y_verified_complete_before_launch": true,
+  "updated_epoch": 1788709541.1355097
+}

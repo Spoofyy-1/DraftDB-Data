@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "models_fitted": 0,
+  "fixtures_not_model_data": true,
+  "tasks": 18,
+  "six_reference_gate": true,
+  "tamper_rejections": [
+    "raw_prediction",
+    "reference_score",
+    "input_hash",
+    "unregistered_norm",
+    "effective_count",
+    "missing_capacity"
+  ]
+}

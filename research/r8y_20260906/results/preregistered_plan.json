@@ -1,0 +1,139 @@
+{
+  "plan": {
+    "study": "R8y ensemble-size diagnostic",
+    "diagnostic_only": true,
+    "no_confirmation_or_test_scoring": true,
+    "folds": [
+      2012,
+      2013,
+      2014
+    ],
+    "seeds": [
+      0,
+      101,
+      202
+    ],
+    "sizes": [
+      16,
+      32,
+      64
+    ],
+    "contexts": [
+      "baseline",
+      "pair06_RR"
+    ],
+    "model_constructor": {
+      "device": "cuda",
+      "n_estimators": 32,
+      "random_state": "task_seed",
+      "batch_size": 32,
+      "norm_methods": "none",
+      "outlier_threshold": 2.0
+    },
+    "variants": [
+      {
+        "id": "baseline_n32",
+        "context": "baseline",
+        "n_estimators": 32
+      },
+      {
+        "id": "pair06_RR_n32",
+        "context": "pair06_RR",
+        "n_estimators": 32
+      },
+      {
+        "id": "baseline_n16",
+        "context": "baseline",
+        "n_estimators": 16
+      },
+      {
+        "id": "pair06_RR_n16",
+        "context": "pair06_RR",
+        "n_estimators": 16
+      },
+      {
+        "id": "baseline_n64",
+        "context": "baseline",
+        "n_estimators": 64
+      },
+      {
+        "id": "pair06_RR_n64",
+        "context": "pair06_RR",
+        "n_estimators": 64
+      }
+    ],
+    "execution": {
+      "task_count": 18,
+      "workers": 4,
+      "runtime_seconds": 7200,
+      "memory": "140G",
+      "cpu_quota": "2200%"
+    },
+    "reference_gate": "All six n32 tasks must exactly match X raw/canonical predictions, scores and full fold audits before interpretation.",
+    "capacity_note": "Record effective ensemble count and feature count; feature-permutation caps can make64/128/256 identical. No architecture, checkpoint, normalization or precision change.",
+    "selection": "Fixed W baseline and completed X pair06 RR (usage career slope + posterior rim), selected on pre2019 development only; no promotion.",
+    "requested_sizes": [
+      16,
+      32,
+      64,
+      128,
+      256
+    ],
+    "requested_to_evaluated": {
+      "16": 16,
+      "32": 32,
+      "64": 64,
+      "128": 64,
+      "256": 64
+    },
+    "capacity_check_sha256": "fabd001beb7edb6f09e61ea91221d0efa2f358f121aae27af1a302a6ba5a7cb7"
+  },
+  "plan_sha256": "e189881ed6697bf0b2a43d8710b978976d23213f430d8e5e71bbb5127388a711",
+  "files": {
+    "worker.py": "4f33b133f98c1eb9c6deed0cb00cf1cd080a4a8f06b72c2d2da79bb89ab32807",
+    "research.py": "2a6f93f6f1d3bab9b611b5ecf40c5ddcdfd823e7050efa52328ec821db21c05d",
+    "plan.json": "e189881ed6697bf0b2a43d8710b978976d23213f430d8e5e71bbb5127388a711",
+    "prepare.py": "686f0aff62506db185731c213896b4f8fab7d48d5da8cef1ccd29738ec94a571",
+    "references.json": "661d00b113eddd3fc06a9d482a278ecdd95cf4fdf2e42648efb29bec0fe7136c",
+    "source_manifest.json": "9c410e56291bef5919f1d3a9d17889d97a74dec8a8d5165ac9eaf0b1ac5f7575",
+    "queue_runtime.py": "ae7e266b9655b0278532bc96c2ab24bb1bdc6b8a63706e64d9e77c0b49b792f3",
+    "run_sandbox.sh": "c661b04fbeef9308d239a0ae86fce5b42d74089ce47c641a9e6460d73e6698f6",
+    "capacity.py": "f07493d7f97233c7aee49932791e3d89dca3499c51aa7dfcaf4eb8145a88bc34",
+    "results/capacity_check.json": "fabd001beb7edb6f09e61ea91221d0efa2f358f121aae27af1a302a6ba5a7cb7",
+    "test_essential.py": "b9ebaa6efd6c1cb599c263336f9843164688cd1ff55b88ca7411b05e72e1349d",
+    "tests.json": "31a137c458a39e6d4c3a5335875ee4be051d08c97dbff5d559195722ae44cf6f",
+    "README.md": "8d87639958b53e9a1b2f5a72e3dd02d0fbefb3845682a91abef8176df59dd38c",
+    "x_reference/worker.py": "6029d60f95fa30fa7809d10a1dff6c415305df3cced427badad8e8b839f5f058",
+    "x_reference/plan.json": "8859362a31a249e8541330f7ccb1c879874f39b0ab9c227049dbde9b745ffe38",
+    "x_reference/source_manifest.json": "9d89c1b7901471bcad7966a4964f13350bc5d1b9c458cc3082bd1ceb9bb50141",
+    "x_reference/queue_runtime.py": "ae7e266b9655b0278532bc96c2ab24bb1bdc6b8a63706e64d9e77c0b49b792f3",
+    "x_reference/w_reference.json": "054b10c66956cf91e116f84367013549f697b3a07ba8a059c5fb8ec14ebbd9d0",
+    "x_reference/base/worker.py": "96d95262ec8cdfb2353f46269069adcd0b5c70bbc94144bd564d86e891665c5a",
+    "x_reference/base/plan.json": "a3ff7aea0f444dd010a0479c945f5d8cd233cb9063a90fc70e5403a23301432c",
+    "x_reference/base/baseline_reference.json": "d18b2e4c623f552e3a9d0f43433c82dcfb9348830f4e92eb1a07a81453a2291c",
+    "x_reference/base/legacy_kernel.py": "ddc58666da0d784a1b67f6b8ee4763599bdce14bb91768893e6fb87af4620ee1",
+    "x_reference/base/data/fifty_lineage.json": "90bd228fd3ca2d972ba85e682c02eaf0221919d66db2d5bbb0e112195a45a374",
+    "x_reference/base/data/incumbent.json": "72cbd7d44457490ac04d3f6d255eddef0ba6c7897da61a924028afb807bfd3d2",
+    "x_reference/base/data/labels.csv": "4afac2eced455cf7fc1f946c9d66fa4ac6fdd8d2febd909e5f71e4aed7a69d89",
+    "x_reference/base/data/fifty_features.csv": "20518e2a80638f4278d5cfe4bc7aa0df78106e009d861adbb348a5a934bad7c0",
+    "x_reference/base/data/consensus_features.csv": "916238ca8aba6cc3998ac1e9707627083009508a3375c48d8fd8f1520491ee6e",
+    "x_reference/base/data/bio_provenance.csv": "03f10447f07b35c6807d40218c58a7a1d8562d3299bd48d012a03e09dfaba261",
+    "x_reference/base/data/bio_features.csv": "6739696ff74204a2507edbe5b1bbe0bb86aba2de72509902fb8bc006f3692aea",
+    "x_reference/base/data/combine_features.csv": "e9dace986cd68919a4cbb058c5873061e672755b2c3538f0cb3a16604e544db3",
+    "x_reference/base/data/combine_provenance.csv": "1966005e39f7458c58a951cf0a5a078f7481ede98445a9f38bcb27a55104f0ec",
+    "x_reference/base/data/bio_dictionary.json": "f31b5bb45013363986ae31932713cef4d8b2ae1c263d0697aa6a884bcba7cb30",
+    "x_reference/base/data/fifty_metadata.json": "b31c096b14750bf335744099a4f220ce472a53db37e7bc2410926a7f47a7a08e",
+    "x_reference/base/data/bio_verification.json": "fb8a2cae9138c9d4b4459136cd9ae88014d5152cec89c49e55b5669016d98b05",
+    "x_reference/base/data/fifty_dictionary.json": "17caa1f53fa1411e8e88bb1c014d25355548f082ebcae7b4cdffbfc320264b68",
+    "x_reference/base/data/combine_dictionary.json": "fd3df58401feafb24a4eeede1b1e5aab7f27de2bbd2205ede5a38c114106a0e7",
+    "x_reference/base/data/manifest.json": "d2b56cce8dfd4d881744d86dba84fb0c32ea8528b2a9776ee76e76f0e16e1732",
+    "x_reference/base/data/consensus_dictionary.json": "5650c1f13ad2f988dfbdeb80f7d59dc7c3be9fd95d7d876d62c7f3698ba40646",
+    "x_reference/base/data/consensus_provenance.csv": "6a3a99375512b8c71c549112646d7245e6c455cdf902b7db7163905f6305588c",
+    "x_reference/base/data/features.csv": "1c20a30b28498526713cf8a3d41259f5568cb96a696d2b0acedc351889810ec4",
+    "x_reference/base/data/bio_metadata.json": "46e029333c626865206fe3fb705416001931562640679a36ec9292e1dea9dccd",
+    "x_reference/base/data/consensus_sources.json": "bc22a17bb3d3c296226a77e40354c8f4c47722a7a8527458d49b15a9096b60cf",
+    "x_reference/base/data/fifty_provenance.json": "b8a974e3171566a11ed0753a4114a9bf0b88ce0ca22bafda83caa969e3b5c636",
+    "x_reference/base/data/fifty_lineage_audit.json": "6ec12a3fb239c9c23ea0ca144f4b301cf7c726007df8e21034730161c468e457",
+    "x_reference/base/data/combine_metadata.json": "21d9e65d8f8570f23b89fbd5b36049f7d9f348c9cac0a7bb2df2565c6e18361a"
+  }
+}

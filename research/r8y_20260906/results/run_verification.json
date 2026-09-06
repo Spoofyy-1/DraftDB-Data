@@ -1,0 +1,409 @@
+{
+  "passed": true,
+  "tasks": 18,
+  "six_exact_references": true,
+  "full_summary_recomputed_exact": true,
+  "frozen_files_unchanged": 45,
+  "sizes": [
+    {
+      "requested_n": 16,
+      "baseline_mean": 0.3377820463152055,
+      "pair_mean": 0.3564564003855025,
+      "pair_minus_baseline": 0.018674354070297012,
+      "baseline_minus_n32": 0.0026304770082992085,
+      "pair_minus_n32": -5.139122851620536e-05,
+      "fold_differences": {
+        "2012": {
+          "pair_minus_baseline": 0.01786949019332651,
+          "baseline_minus_n32": 0.012650540836729174,
+          "pair_minus_n32": 0.005170848440868329
+        },
+        "2013": {
+          "pair_minus_baseline": 0.012808197615586325,
+          "baseline_minus_n32": -0.0041946847191045205,
+          "pair_minus_n32": -0.0062119758435593515
+        },
+        "2014": {
+          "pair_minus_baseline": 0.025345374401978205,
+          "baseline_minus_n32": -0.0005644250927270278,
+          "pair_minus_n32": 0.0008869537171424061
+        }
+      },
+      "seed_differences": {
+        "0": {
+          "pair_minus_baseline": 0.02078832320718858,
+          "baseline_minus_n32": 0.005208885684050775,
+          "pair_minus_n32": 0.006312183184065383
+        },
+        "101": {
+          "pair_minus_baseline": 0.02252202203027992,
+          "baseline_minus_n32": -0.0037178628345586606,
+          "pair_minus_n32": -0.0021258762115987464
+        },
+        "202": {
+          "pair_minus_baseline": 0.012712716973422541,
+          "baseline_minus_n32": 0.00640040817540551,
+          "pair_minus_n32": -0.0043404806580152515
+        }
+      },
+      "paired_rows": [
+        {
+          "seed": 0,
+          "season": 2012,
+          "baseline": 0.325763451774708,
+          "pair": 0.3443063547882406,
+          "pair_minus_baseline": 0.01854290301353262,
+          "baseline_minus_n32": 0.015007485707450585,
+          "pair_minus_n32": 0.01507963708104404
+        },
+        {
+          "seed": 0,
+          "season": 2013,
+          "baseline": 0.29553314973263445,
+          "pair": 0.30129683865964835,
+          "pair_minus_baseline": 0.005763688927013899,
+          "baseline_minus_n32": 0.0013448607496365228,
+          "pair_minus_n32": -0.0025936600171562185
+        },
+        {
+          "seed": 0,
+          "season": 2014,
+          "baseline": 0.3928398645379777,
+          "pair": 0.4308982422189969,
+          "pair_minus_baseline": 0.03805837768101922,
+          "baseline_minus_n32": -0.0007256894049347817,
+          "pair_minus_n32": 0.006450572488308326
+        },
+        {
+          "seed": 101,
+          "season": 2012,
+          "baseline": 0.31147747980319257,
+          "pair": 0.34170890533887416,
+          "pair_minus_baseline": 0.03023142553568159,
+          "baseline_minus_n32": 0.0,
+          "pair_minus_n32": 0.002741752196553371
+        },
+        {
+          "seed": 101,
+          "season": 2013,
+          "baseline": 0.2949567808399331,
+          "pair": 0.3080211424078311,
+          "pair_minus_baseline": 0.01306436156789803,
+          "baseline_minus_n32": -0.009702209693806585,
+          "pair_minus_n32": -0.005571565962780023
+        },
+        {
+          "seed": 101,
+          "season": 2014,
+          "baseline": 0.39203354297693915,
+          "pair": 0.4163038219641993,
+          "pair_minus_baseline": 0.02427027898726014,
+          "baseline_minus_n32": -0.001451378809869397,
+          "pair_minus_n32": -0.0035478148685695876
+        },
+        {
+          "seed": 202,
+          "season": 2012,
+          "baseline": 0.337596277044044,
+          "pair": 0.3424304190748093,
+          "pair_minus_baseline": 0.0048341420307653205,
+          "baseline_minus_n32": 0.022944136802736936,
+          "pair_minus_n32": -0.0023088439549924233
+        },
+        {
+          "seed": 202,
+          "season": 2013,
+          "baseline": 0.28256484964685336,
+          "pair": 0.3021613919987004,
+          "pair_minus_baseline": 0.019596542351847046,
+          "baseline_minus_n32": -0.0042267052131435,
+          "pair_minus_n32": -0.010470701550741812
+        },
+        {
+          "seed": 202,
+          "season": 2014,
+          "baseline": 0.4072730204805676,
+          "pair": 0.4209804870182229,
+          "pair_minus_baseline": 0.013707466537655255,
+          "baseline_minus_n32": 0.0004837929366230953,
+          "pair_minus_n32": -0.0002418964683115199
+        }
+      ],
+      "effective_counts": {
+        "baseline": [
+          16
+        ],
+        "pair06_RR": [
+          16
+        ]
+      }
+    },
+    {
+      "requested_n": 32,
+      "baseline_mean": 0.33515156930690637,
+      "pair_mean": 0.35650779161401874,
+      "pair_minus_baseline": 0.021356222307112427,
+      "baseline_minus_n32": 0.0,
+      "pair_minus_n32": 0.0,
+      "fold_differences": {
+        "2012": {
+          "pair_minus_baseline": 0.025349182589187353,
+          "baseline_minus_n32": 0.0,
+          "pair_minus_n32": 0.0
+        },
+        "2013": {
+          "pair_minus_baseline": 0.014825488740041156,
+          "baseline_minus_n32": 0.0,
+          "pair_minus_n32": 0.0
+        },
+        "2014": {
+          "pair_minus_baseline": 0.02389399559210877,
+          "baseline_minus_n32": 0.0,
+          "pair_minus_n32": 0.0
+        }
+      },
+      "seed_differences": {
+        "0": {
+          "pair_minus_baseline": 0.01968502570717397,
+          "baseline_minus_n32": 0.0,
+          "pair_minus_n32": 0.0
+        },
+        "101": {
+          "pair_minus_baseline": 0.020930035407320007,
+          "baseline_minus_n32": 0.0,
+          "pair_minus_n32": 0.0
+        },
+        "202": {
+          "pair_minus_baseline": 0.023453605806843303,
+          "baseline_minus_n32": 0.0,
+          "pair_minus_n32": 0.0
+        }
+      },
+      "paired_rows": [
+        {
+          "seed": 0,
+          "season": 2012,
+          "baseline": 0.3107559660672574,
+          "pair": 0.3292267177071966,
+          "pair_minus_baseline": 0.018470751639939165,
+          "baseline_minus_n32": 0.0,
+          "pair_minus_n32": 0.0
+        },
+        {
+          "seed": 0,
+          "season": 2013,
+          "baseline": 0.2941882889829979,
+          "pair": 0.30389049867680457,
+          "pair_minus_baseline": 0.00970220969380664,
+          "baseline_minus_n32": 0.0,
+          "pair_minus_n32": 0.0
+        },
+        {
+          "seed": 0,
+          "season": 2014,
+          "baseline": 0.3935655539429125,
+          "pair": 0.4244476697306886,
+          "pair_minus_baseline": 0.03088211578777611,
+          "baseline_minus_n32": 0.0,
+          "pair_minus_n32": 0.0
+        },
+        {
+          "seed": 101,
+          "season": 2012,
+          "baseline": 0.31147747980319257,
+          "pair": 0.3389671531423208,
+          "pair_minus_baseline": 0.027489673339128218,
+          "baseline_minus_n32": 0.0,
+          "pair_minus_n32": 0.0
+        },
+        {
+          "seed": 101,
+          "season": 2013,
+          "baseline": 0.3046589905337397,
+          "pair": 0.31359270837061115,
+          "pair_minus_baseline": 0.008933717836871469,
+          "baseline_minus_n32": 0.0,
+          "pair_minus_n32": 0.0
+        },
+        {
+          "seed": 101,
+          "season": 2014,
+          "baseline": 0.39348492178680855,
+          "pair": 0.4198516368327689,
+          "pair_minus_baseline": 0.02636671504596033,
+          "baseline_minus_n32": 0.0,
+          "pair_minus_n32": 0.0
+        },
+        {
+          "seed": 202,
+          "season": 2012,
+          "baseline": 0.31465214024130705,
+          "pair": 0.34473926302980173,
+          "pair_minus_baseline": 0.03008712278849468,
+          "baseline_minus_n32": 0.0,
+          "pair_minus_n32": 0.0
+        },
+        {
+          "seed": 202,
+          "season": 2013,
+          "baseline": 0.28679155485999686,
+          "pair": 0.3126320935494422,
+          "pair_minus_baseline": 0.025840538689445358,
+          "baseline_minus_n32": 0.0,
+          "pair_minus_n32": 0.0
+        },
+        {
+          "seed": 202,
+          "season": 2014,
+          "baseline": 0.40678922754394453,
+          "pair": 0.4212223834865344,
+          "pair_minus_baseline": 0.01443315594258987,
+          "baseline_minus_n32": 0.0,
+          "pair_minus_n32": 0.0
+        }
+      ],
+      "effective_counts": {
+        "baseline": [
+          32
+        ],
+        "pair06_RR": [
+          32
+        ]
+      }
+    },
+    {
+      "requested_n": 64,
+      "baseline_mean": 0.3370527006695105,
+      "pair_mean": 0.3571878772809508,
+      "pair_minus_baseline": 0.020135176611440375,
+      "baseline_minus_n32": 0.0019011313626040767,
+      "pair_minus_n32": 0.0006800856669320251,
+      "fold_differences": {
+        "2012": {
+          "pair_minus_baseline": 0.019216315833738767,
+          "baseline_minus_n32": 0.007744247432370325,
+          "pair_minus_n32": 0.0016113806769217365
+        },
+        "2013": {
+          "pair_minus_baseline": 0.015978226525443933,
+          "baseline_minus_n32": -0.0009926353152079532,
+          "pair_minus_n32": 0.00016010247019482282
+        },
+        "2014": {
+          "pair_minus_baseline": 0.02521098747513843,
+          "baseline_minus_n32": -0.0010482180293501415,
+          "pair_minus_n32": 0.0002687738536795159
+        }
+      },
+      "seed_differences": {
+        "0": {
+          "pair_minus_baseline": 0.02150594690777106,
+          "baseline_minus_n32": 0.0003683722117783783,
+          "pair_minus_n32": 0.002189293412375467
+        },
+        "101": {
+          "pair_minus_baseline": 0.018754829383404874,
+          "baseline_minus_n32": 0.002360434497646502,
+          "pair_minus_n32": 0.0001852284737313692
+        },
+        "202": {
+          "pair_minus_baseline": 0.020144753543145193,
+          "baseline_minus_n32": 0.00297458737838735,
+          "pair_minus_n32": -0.00033426488531076065
+        }
+      },
+      "paired_rows": [
+        {
+          "seed": 0,
+          "season": 2012,
+          "baseline": 0.31948628227207243,
+          "pair": 0.33723552017607644,
+          "pair_minus_baseline": 0.01774923790400401,
+          "baseline_minus_n32": 0.008730316204815014,
+          "pair_minus_n32": 0.008008802468879861
+        },
+        {
+          "seed": 0,
+          "season": 2013,
+          "baseline": 0.289385214877153,
+          "pair": 0.3024495764450511,
+          "pair_minus_baseline": 0.013064361567898086,
+          "baseline_minus_n32": -0.004803074105844907,
+          "pair_minus_n32": -0.001440922231753461
+        },
+        {
+          "seed": 0,
+          "season": 2014,
+          "baseline": 0.3907434284792775,
+          "pair": 0.4244476697306886,
+          "pair_minus_baseline": 0.03370424125141108,
+          "baseline_minus_n32": -0.0028221254636349724,
+          "pair_minus_n32": 0.0
+        },
+        {
+          "seed": 101,
+          "season": 2012,
+          "baseline": 0.32222803446862586,
+          "pair": 0.33629755231936076,
+          "pair_minus_baseline": 0.014069517850734903,
+          "baseline_minus_n32": 0.010750554665433287,
+          "pair_minus_n32": -0.0026696008229600277
+        },
+        {
+          "seed": 101,
+          "season": 2013,
+          "baseline": 0.3013929001417652,
+          "pair": 0.31359270837061115,
+          "pair_minus_baseline": 0.012199808228845976,
+          "baseline_minus_n32": -0.0032660903919745077,
+          "pair_minus_n32": 0.0
+        },
+        {
+          "seed": 101,
+          "season": 2014,
+          "baseline": 0.3930817610062893,
+          "pair": 0.423076923076923,
+          "pair_minus_baseline": 0.02999516207063374,
+          "baseline_minus_n32": -0.00040316078051927384,
+          "pair_minus_n32": 0.0032252862441541352
+        },
+        {
+          "seed": 202,
+          "season": 2012,
+          "baseline": 0.31840401166816973,
+          "pair": 0.3442342034146471,
+          "pair_minus_baseline": 0.025830191746477382,
+          "baseline_minus_n32": 0.003751871426862674,
+          "pair_minus_n32": -0.0005050596151546238
+        },
+        {
+          "seed": 202,
+          "season": 2013,
+          "baseline": 0.2918828134121924,
+          "pair": 0.31455332319178014,
+          "pair_minus_baseline": 0.022670509779587733,
+          "baseline_minus_n32": 0.0050912585521955545,
+          "pair_minus_n32": 0.0019212296423379294
+        },
+        {
+          "seed": 202,
+          "season": 2014,
+          "baseline": 0.40686985970004835,
+          "pair": 0.4188034188034188,
+          "pair_minus_baseline": 0.011933559103370461,
+          "baseline_minus_n32": 8.063215610382146e-05,
+          "pair_minus_n32": -0.0024189646831155875
+        }
+      ],
+      "effective_counts": {
+        "baseline": [
+          45
+        ],
+        "pair06_RR": [
+          47
+        ]
+      }
+    }
+  ],
+  "no_selection_from_Y": true
+}

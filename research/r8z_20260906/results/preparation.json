@@ -1,0 +1,57 @@
+{
+  "passed": true,
+  "models_fitted": 0,
+  "folds": [
+    {
+      "year": 2012,
+      "reference_designs_exact": 21,
+      "all19_fields_training_eligible": true,
+      "representative_pair_arms": 12,
+      "training_rows": 251,
+      "query_rows": 55
+    },
+    {
+      "year": 2013,
+      "reference_designs_exact": 21,
+      "all19_fields_training_eligible": true,
+      "representative_pair_arms": 12,
+      "training_rows": 329,
+      "query_rows": 50
+    },
+    {
+      "year": 2014,
+      "reference_designs_exact": 21,
+      "all19_fields_training_eligible": true,
+      "representative_pair_arms": 12,
+      "training_rows": 403,
+      "query_rows": 53
+    }
+  ],
+  "constructors": [
+    {
+      "device": "cuda",
+      "n_estimators": 32,
+      "random_state": 0,
+      "batch_size": 32,
+      "norm_methods": "none",
+      "outlier_threshold": 2.0
+    },
+    {
+      "device": "cuda",
+      "n_estimators": 32,
+      "random_state": 101,
+      "batch_size": 32,
+      "norm_methods": "none",
+      "outlier_threshold": 2.0
+    },
+    {
+      "device": "cuda",
+      "n_estimators": 32,
+      "random_state": 202,
+      "batch_size": 32,
+      "norm_methods": "none",
+      "outlier_threshold": 2.0
+    }
+  ],
+  "frozen_manifest_sha256": "a337ef283b3f395d087d8555c25c5577220b999639c072a9604843d839a7b799"
+}

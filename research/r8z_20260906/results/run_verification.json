@@ -1,0 +1,33 @@
+{
+  "passed": true,
+  "models_fitted": 0,
+  "records": 4893,
+  "reference_replays_exact": 63,
+  "frozen_files_unchanged": 43,
+  "frozen_manifest_sha256": "a337ef283b3f395d087d8555c25c5577220b999639c072a9604843d839a7b799",
+  "preregistration_exact": true,
+  "queue_registration_exact": true,
+  "append_log_all_hashes_exact": true,
+  "complete_summary_recomputed_exact": true,
+  "compact_candidates_exact": true,
+  "new_pairs": 161,
+  "all_pre2019_development_only": true,
+  "no_model_promotion": true,
+  "task_archive_manifest": {
+    "sha256": "7311a8554a2d5642de31931ee70d590a9ff567236f1ee10b7cf1dce9d2ea965f",
+    "bytes": 1370448
+  },
+  "chunks": 18,
+  "original_bytes": 565230691,
+  "compressed_bytes": 147926553,
+  "max_chunk_bytes": 8518768,
+  "all_record_roundtrips_byte_exact": true,
+  "elapsed_seconds": 4738.197648671048,
+  "trials_per_minute": 61.96026881283481,
+  "verification_seconds": 44.476892369042616,
+  "verification_code_sha256": "968e544c5d950752455ce08575062f115f4badc296399c0100aa5f43f91fcf2e",
+  "summary": {
+    "sha256": "dd657b2238129098002472ee727631d8886b52963e5f71ec6ceca34c378f439c",
+    "bytes": 821067
+  }
+}

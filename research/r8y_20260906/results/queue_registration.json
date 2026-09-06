@@ -1,0 +1,27 @@
+{
+  "registration_hash": "21f6c5c8d8bca66e62ccd9659725226eac7ee3dd5d15a57d96e683639dd6a904",
+  "initial_records_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+  "task_ids": [
+    "baseline_n32_seed0",
+    "baseline_n32_seed101",
+    "baseline_n32_seed202",
+    "pair06_RR_n32_seed0",
+    "pair06_RR_n32_seed101",
+    "pair06_RR_n32_seed202",
+    "baseline_n16_seed0",
+    "baseline_n16_seed101",
+    "baseline_n16_seed202",
+    "pair06_RR_n16_seed0",
+    "pair06_RR_n16_seed101",
+    "pair06_RR_n16_seed202",
+    "baseline_n64_seed0",
+    "baseline_n64_seed101",
+    "baseline_n64_seed202",
+    "pair06_RR_n64_seed0",
+    "pair06_RR_n64_seed101",
+    "pair06_RR_n64_seed202"
+  ],
+  "workers": 4,
+  "snapshot_seconds": 3.0,
+  "summary_seconds": 20.0
+}

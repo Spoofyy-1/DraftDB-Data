@@ -1,0 +1,89 @@
+{
+  "study": "R8y ensemble-size diagnostic",
+  "diagnostic_only": true,
+  "no_confirmation_or_test_scoring": true,
+  "folds": [
+    2012,
+    2013,
+    2014
+  ],
+  "seeds": [
+    0,
+    101,
+    202
+  ],
+  "sizes": [
+    16,
+    32,
+    64
+  ],
+  "contexts": [
+    "baseline",
+    "pair06_RR"
+  ],
+  "model_constructor": {
+    "device": "cuda",
+    "n_estimators": 32,
+    "random_state": "task_seed",
+    "batch_size": 32,
+    "norm_methods": "none",
+    "outlier_threshold": 2.0
+  },
+  "variants": [
+    {
+      "id": "baseline_n32",
+      "context": "baseline",
+      "n_estimators": 32
+    },
+    {
+      "id": "pair06_RR_n32",
+      "context": "pair06_RR",
+      "n_estimators": 32
+    },
+    {
+      "id": "baseline_n16",
+      "context": "baseline",
+      "n_estimators": 16
+    },
+    {
+      "id": "pair06_RR_n16",
+      "context": "pair06_RR",
+      "n_estimators": 16
+    },
+    {
+      "id": "baseline_n64",
+      "context": "baseline",
+      "n_estimators": 64
+    },
+    {
+      "id": "pair06_RR_n64",
+      "context": "pair06_RR",
+      "n_estimators": 64
+    }
+  ],
+  "execution": {
+    "task_count": 18,
+    "workers": 4,
+    "runtime_seconds": 7200,
+    "memory": "140G",
+    "cpu_quota": "2200%"
+  },
+  "reference_gate": "All six n32 tasks must exactly match X raw/canonical predictions, scores and full fold audits before interpretation.",
+  "capacity_note": "Record effective ensemble count and feature count; feature-permutation caps can make64/128/256 identical. No architecture, checkpoint, normalization or precision change.",
+  "selection": "Fixed W baseline and completed X pair06 RR (usage career slope + posterior rim), selected on pre2019 development only; no promotion.",
+  "requested_sizes": [
+    16,
+    32,
+    64,
+    128,
+    256
+  ],
+  "requested_to_evaluated": {
+    "16": 16,
+    "32": 32,
+    "64": 64,
+    "128": 64,
+    "256": 64
+  },
+  "capacity_check_sha256": "fabd001beb7edb6f09e61ea91221d0efa2f358f121aae27af1a302a6ba5a7cb7"
+}

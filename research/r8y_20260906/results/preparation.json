@@ -1,0 +1,117 @@
+{
+  "passed": true,
+  "models_fitted": 0,
+  "designs": [
+    {
+      "context": "baseline",
+      "year": 2012,
+      "all_inputs_labels_ids_columns_exact": true,
+      "width": 45
+    },
+    {
+      "context": "baseline",
+      "year": 2013,
+      "all_inputs_labels_ids_columns_exact": true,
+      "width": 45
+    },
+    {
+      "context": "baseline",
+      "year": 2014,
+      "all_inputs_labels_ids_columns_exact": true,
+      "width": 45
+    },
+    {
+      "context": "pair06_RR",
+      "year": 2012,
+      "all_inputs_labels_ids_columns_exact": true,
+      "width": 47
+    },
+    {
+      "context": "pair06_RR",
+      "year": 2013,
+      "all_inputs_labels_ids_columns_exact": true,
+      "width": 47
+    },
+    {
+      "context": "pair06_RR",
+      "year": 2014,
+      "all_inputs_labels_ids_columns_exact": true,
+      "width": 47
+    }
+  ],
+  "constructors": [
+    {
+      "device": "cuda",
+      "n_estimators": 16,
+      "random_state": 0,
+      "batch_size": 32,
+      "norm_methods": "none",
+      "outlier_threshold": 2.0
+    },
+    {
+      "device": "cuda",
+      "n_estimators": 16,
+      "random_state": 101,
+      "batch_size": 32,
+      "norm_methods": "none",
+      "outlier_threshold": 2.0
+    },
+    {
+      "device": "cuda",
+      "n_estimators": 16,
+      "random_state": 202,
+      "batch_size": 32,
+      "norm_methods": "none",
+      "outlier_threshold": 2.0
+    },
+    {
+      "device": "cuda",
+      "n_estimators": 32,
+      "random_state": 0,
+      "batch_size": 32,
+      "norm_methods": "none",
+      "outlier_threshold": 2.0
+    },
+    {
+      "device": "cuda",
+      "n_estimators": 32,
+      "random_state": 101,
+      "batch_size": 32,
+      "norm_methods": "none",
+      "outlier_threshold": 2.0
+    },
+    {
+      "device": "cuda",
+      "n_estimators": 32,
+      "random_state": 202,
+      "batch_size": 32,
+      "norm_methods": "none",
+      "outlier_threshold": 2.0
+    },
+    {
+      "device": "cuda",
+      "n_estimators": 64,
+      "random_state": 0,
+      "batch_size": 32,
+      "norm_methods": "none",
+      "outlier_threshold": 2.0
+    },
+    {
+      "device": "cuda",
+      "n_estimators": 64,
+      "random_state": 101,
+      "batch_size": 32,
+      "norm_methods": "none",
+      "outlier_threshold": 2.0
+    },
+    {
+      "device": "cuda",
+      "n_estimators": 64,
+      "random_state": 202,
+      "batch_size": 32,
+      "norm_methods": "none",
+      "outlier_threshold": 2.0
+    }
+  ],
+  "frozen_manifest_sha256": "21f6c5c8d8bca66e62ccd9659725226eac7ee3dd5d15a57d96e683639dd6a904"
+}

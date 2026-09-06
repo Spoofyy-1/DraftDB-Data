@@ -1,0 +1,2845 @@
+{
+  "backbone": {
+    "icl_n": 32,
+    "topk": 60,
+    "M": 400,
+    "window": 2007,
+    "hw": "uniform",
+    "noscout": 1,
+    "drop": [
+      "scout_",
+      "col_bpm_pct_",
+      "col_usg_pct_",
+      "col_ts_pct_",
+      "col_ast_pct_",
+      "col_stl_pct_",
+      "col_blk_pct_",
+      "col_orb_pct_",
+      "col_shot_proj_"
+    ]
+  },
+  "folds": [
+    2012,
+    2013,
+    2014
+  ],
+  "seeds": [
+    0,
+    101,
+    202
+  ],
+  "permutation_seeds": [
+    9317,
+    18739,
+    28657
+  ],
+  "source_filter": {
+    "min_training_observed": 5,
+    "min_training_unique": 2,
+    "validation_coverage_used": false
+  },
+  "calendar_policy": "For predicted year Y, training only earlier cohorts and actual NBA season_end <=Y-1. Development scoring labels <=2018. No2019-2026 answers available.",
+  "confirmation_note": "Any later literal as-of outer-year confirmation must select inside its own season cutoff; selection using development truths through2018 cannot be called known at a2015-2017 decision date.",
+  "baseline_source_variant": {
+    "id": "dated_raw_college_source_control",
+    "input_source": "context",
+    "context_features": [
+      "ctx_base_gp",
+      "ctx_base_minutes_share",
+      "ctx_base_usage",
+      "ctx_base_efg",
+      "ctx_base_ts",
+      "ctx_base_orb",
+      "ctx_base_drb",
+      "ctx_base_ast_pct",
+      "ctx_base_tov_pct",
+      "ctx_base_ftm",
+      "ctx_base_fta",
+      "ctx_base_ft_pct",
+      "ctx_base_fg2m",
+      "ctx_base_fg2a",
+      "ctx_base_fg2_pct",
+      "ctx_base_fg3m",
+      "ctx_base_fg3a",
+      "ctx_base_fg3_pct",
+      "ctx_base_blk_pct",
+      "ctx_base_stl_pct",
+      "ctx_base_ftr",
+      "ctx_base_fouls40",
+      "ctx_base_ast_tov",
+      "ctx_base_rim_made",
+      "ctx_base_rim_attempts",
+      "ctx_base_mid_made",
+      "ctx_base_mid_attempts",
+      "ctx_base_dunk_made",
+      "ctx_base_dunk_attempts",
+      "ctx_base_mpg",
+      "ctx_base_oreb_pg",
+      "ctx_base_dreb_pg",
+      "ctx_base_ast_pg",
+      "ctx_base_stl_pg",
+      "ctx_base_blk_pg",
+      "ctx_base_pts_pg",
+      "ctx_base_three_share",
+      "ctx_skill_defense_discipline",
+      "ctx_skill_creation_control",
+      "ctx_skill_usage_efficiency",
+      "ctx_skill_ft_volume"
+    ]
+  },
+  "study": "R8w F50 individual controls with dated consensus",
+  "diagnostic_only": true,
+  "purpose": "Rescreen every F50 statistic on fixed source-college41 plus real dated-consensus4, allowing new information conditional on consensus.",
+  "no_confirmation_or_test_scoring": true,
+  "backgrounds": {
+    "college_consensus": [
+      "consensus"
+    ]
+  },
+  "variants": [
+    {
+      "id": "baseline",
+      "background": "college_consensus",
+      "extra_arm": "absent",
+      "feature": null,
+      "arms": {
+        "consensus": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_sd_usage_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_peer_sd_usage",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_sd_usage_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_sd_usage",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_sd_usage_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_sd_usage",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_sd_usage_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_sd_usage",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_rank_usage_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_peer_rank_usage",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_rank_usage_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_rank_usage",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_rank_usage_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_rank_usage",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_rank_usage_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_rank_usage",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_sd_ts_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_peer_sd_ts",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_sd_ts_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_sd_ts",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_sd_ts_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_sd_ts",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_sd_ts_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_sd_ts",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_rank_ts_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_peer_rank_ts",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_rank_ts_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_rank_ts",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_rank_ts_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_rank_ts",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_rank_ts_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_rank_ts",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_sd_ast_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_peer_sd_ast",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_sd_ast_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_sd_ast",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_sd_ast_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_sd_ast",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_sd_ast_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_sd_ast",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_rank_ast_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_peer_rank_ast",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_rank_ast_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_rank_ast",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_rank_ast_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_rank_ast",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_rank_ast_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_rank_ast",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_sd_tov_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_peer_sd_tov",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_sd_tov_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_sd_tov",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_sd_tov_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_sd_tov",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_sd_tov_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_sd_tov",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_rank_tov_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_peer_rank_tov",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_rank_tov_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_rank_tov",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_rank_tov_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_rank_tov",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_rank_tov_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_rank_tov",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_sd_orb_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_peer_sd_orb",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_sd_orb_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_sd_orb",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_sd_orb_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_sd_orb",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_sd_orb_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_sd_orb",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_rank_orb_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_peer_rank_orb",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_rank_orb_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_rank_orb",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_rank_orb_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_rank_orb",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_rank_orb_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_rank_orb",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_sd_drb_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_peer_sd_drb",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_sd_drb_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_sd_drb",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_sd_drb_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_sd_drb",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_sd_drb_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_sd_drb",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_rank_drb_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_peer_rank_drb",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_rank_drb_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_rank_drb",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_rank_drb_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_rank_drb",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_rank_drb_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_rank_drb",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_sd_stl_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_peer_sd_stl",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_sd_stl_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_sd_stl",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_sd_stl_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_sd_stl",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_sd_stl_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_sd_stl",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_rank_stl_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_peer_rank_stl",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_rank_stl_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_rank_stl",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_rank_stl_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_rank_stl",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_rank_stl_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_rank_stl",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_sd_blk_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_peer_sd_blk",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_sd_blk_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_sd_blk",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_sd_blk_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_sd_blk",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_sd_blk_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_sd_blk",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_rank_blk_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_peer_rank_blk",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_rank_blk_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_rank_blk",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_rank_blk_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_rank_blk",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_rank_blk_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_rank_blk",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_team_share_fta_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_team_share_fta",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_team_share_fta_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_team_share_fta",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_team_share_fta_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_team_share_fta",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_team_share_fta_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_team_share_fta",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_team_share_three_a_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_team_share_three_a",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_team_share_three_a_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_team_share_three_a",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_team_share_three_a_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_team_share_three_a",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_team_share_three_a_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_team_share_three_a",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_team_share_rim_a_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_team_share_rim_a",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_team_share_rim_a_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_team_share_rim_a",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_team_share_rim_a_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_team_share_rim_a",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_team_share_rim_a_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_team_share_rim_a",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_team_share_dunk_a_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_team_share_dunk_a",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_team_share_dunk_a_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_team_share_dunk_a",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_team_share_dunk_a_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_team_share_dunk_a",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_team_share_dunk_a_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_team_share_dunk_a",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_team_share_ftm_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_team_share_ftm",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_team_share_ftm_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_team_share_ftm",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_team_share_ftm_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_team_share_ftm",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_team_share_ftm_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_team_share_ftm",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_team_share_three_m_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_team_share_three_m",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_team_share_three_m_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_team_share_three_m",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_team_share_three_m_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_team_share_three_m",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_team_share_three_m_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_team_share_three_m",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_three_diet_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_peer_three_diet",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_three_diet_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_three_diet",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_three_diet_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_three_diet",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_three_diet_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_three_diet",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_rim_diet_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_peer_rim_diet",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_rim_diet_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_rim_diet",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_rim_diet_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_rim_diet",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_rim_diet_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_rim_diet",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_defense_density_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_peer_defense_density",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_defense_density_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_defense_density",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_defense_density_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_defense_density",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_defense_density_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_defense_density",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_creation_density_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_peer_creation_density",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_creation_density_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_creation_density",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_creation_density_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_creation_density",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_creation_density_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_peer_creation_density",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_minutes_concentration_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_minutes_concentration",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_minutes_concentration_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_minutes_concentration",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_minutes_concentration_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_minutes_concentration",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_minutes_concentration_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_minutes_concentration",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_usage_concentration_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_usage_concentration",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_usage_concentration_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_usage_concentration",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_usage_concentration_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_usage_concentration",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_usage_concentration_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_usage_concentration",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_career_slope_two_p_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_career_slope_two_p",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_career_slope_two_p_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_career_slope_two_p",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_career_slope_two_p_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_career_slope_two_p",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_career_slope_two_p_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_career_slope_two_p",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_career_slope_three_p_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_career_slope_three_p",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_career_slope_three_p_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_career_slope_three_p",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_career_slope_three_p_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_career_slope_three_p",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_career_slope_three_p_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_career_slope_three_p",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_career_slope_ftp_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_career_slope_ftp",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_career_slope_ftp_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_career_slope_ftp",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_career_slope_ftp_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_career_slope_ftp",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_career_slope_ftp_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_career_slope_ftp",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_career_slope_ftr_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_career_slope_ftr",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_career_slope_ftr_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_career_slope_ftr",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_career_slope_ftr_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_career_slope_ftr",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_career_slope_ftr_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_career_slope_ftr",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_career_slope_ast_tov_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_career_slope_ast_tov",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_career_slope_ast_tov_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_career_slope_ast_tov",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_career_slope_ast_tov_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_career_slope_ast_tov",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_career_slope_ast_tov_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_career_slope_ast_tov",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_career_slope_orb_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_career_slope_orb",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_career_slope_orb_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_career_slope_orb",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_career_slope_orb_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_career_slope_orb",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_career_slope_orb_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_career_slope_orb",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_career_slope_drb_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_career_slope_drb",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_career_slope_drb_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_career_slope_drb",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_career_slope_drb_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_career_slope_drb",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_career_slope_drb_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_career_slope_drb",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_career_slope_minutes_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_career_slope_minutes",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_career_slope_minutes_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_career_slope_minutes",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_career_slope_minutes_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_career_slope_minutes",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_career_slope_minutes_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_career_slope_minutes",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_career_slope_ts_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_career_slope_ts",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_career_slope_ts_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_career_slope_ts",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_career_slope_ts_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_career_slope_ts",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_career_slope_ts_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_career_slope_ts",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_career_slope_usage_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_career_slope_usage",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_career_slope_usage_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_career_slope_usage",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_career_slope_usage_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_career_slope_usage",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_career_slope_usage_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_career_slope_usage",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_posterior_ft_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_posterior_ft",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_posterior_ft_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_posterior_ft",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_posterior_ft_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_posterior_ft",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_posterior_ft_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_posterior_ft",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_posterior_three_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_posterior_three",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_posterior_three_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_posterior_three",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_posterior_three_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_posterior_three",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_posterior_three_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_posterior_three",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_posterior_rim_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_posterior_rim",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_posterior_rim_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_posterior_rim",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_posterior_rim_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_posterior_rim",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_posterior_rim_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_posterior_rim",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_posterior_mid_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_posterior_mid",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_posterior_mid_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_posterior_mid",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_posterior_mid_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_posterior_mid",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_posterior_mid_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_posterior_mid",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_posterior_dunk_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_posterior_dunk",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_posterior_dunk_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_posterior_dunk",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_posterior_dunk_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_posterior_dunk",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_posterior_dunk_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_posterior_dunk",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_posterior_two_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_posterior_two",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_posterior_two_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_posterior_two",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_posterior_two_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_posterior_two",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_posterior_two_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_posterior_two",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_nondunk_rim_pct_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_nondunk_rim_pct",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_nondunk_rim_pct_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_nondunk_rim_pct",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_nondunk_rim_pct_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_nondunk_rim_pct",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_nondunk_rim_pct_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_nondunk_rim_pct",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_rim_ft_pressure_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_rim_ft_pressure",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_rim_ft_pressure_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_rim_ft_pressure",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_rim_ft_pressure_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_rim_ft_pressure",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_rim_ft_pressure_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_rim_ft_pressure",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_perimeter_ft_agreement_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_perimeter_ft_agreement",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_perimeter_ft_agreement_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_perimeter_ft_agreement",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_perimeter_ft_agreement_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_perimeter_ft_agreement",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_perimeter_ft_agreement_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_perimeter_ft_agreement",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_assist_usage_efficiency_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_assist_usage_efficiency",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_assist_usage_efficiency_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_assist_usage_efficiency",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_assist_usage_efficiency_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_assist_usage_efficiency",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_assist_usage_efficiency_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_assist_usage_efficiency",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_balanced_stocks_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_balanced_stocks",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_balanced_stocks_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_balanced_stocks",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_balanced_stocks_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_balanced_stocks",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_balanced_stocks_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_balanced_stocks",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_foul_adjusted_rebounds_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_foul_adjusted_rebounds",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_foul_adjusted_rebounds_shuffle9317",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_foul_adjusted_rebounds",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_foul_adjusted_rebounds_shuffle18739",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_foul_adjusted_rebounds",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_foul_adjusted_rebounds_shuffle28657",
+      "background": "college_consensus",
+      "extra_arm": "permuted",
+      "feature": "f50_foul_adjusted_rebounds",
+      "arms": {
+        "consensus": "real",
+        "fifty": "permuted"
+      },
+      "permutation_seed": 28657
+    }
+  ],
+  "families": {
+    "combine": [
+      "vcmb_height_without_shoes_in",
+      "vcmb_height_with_shoes_in",
+      "vcmb_weight_lb",
+      "vcmb_wingspan_in",
+      "vcmb_standing_reach_in",
+      "vcmb_body_fat_pct",
+      "vcmb_hand_length_in",
+      "vcmb_hand_width_in",
+      "vcmb_bmi_kg_m2",
+      "vcmb_wingspan_minus_height_in",
+      "vcmb_standing_vertical_in",
+      "vcmb_max_vertical_in",
+      "vcmb_lane_agility_s",
+      "vcmb_modified_lane_agility_s",
+      "vcmb_three_quarter_sprint_s",
+      "vcmb_bench_press_reps",
+      "vcmb_spot_15ft_made",
+      "vcmb_spot_15ft_attempted",
+      "vcmb_spot_15ft_pct",
+      "vcmb_spot_college3_made",
+      "vcmb_spot_college3_attempted",
+      "vcmb_spot_college3_pct",
+      "vcmb_spot_nba3_made",
+      "vcmb_spot_nba3_attempted",
+      "vcmb_spot_nba3_pct",
+      "vcmb_off_dribble_15ft_made",
+      "vcmb_off_dribble_15ft_attempted",
+      "vcmb_off_dribble_15ft_pct",
+      "vcmb_off_dribble_college3_made",
+      "vcmb_off_dribble_college3_attempted",
+      "vcmb_off_dribble_college3_pct",
+      "vcmb_on_move_15ft_made",
+      "vcmb_on_move_15ft_attempted",
+      "vcmb_on_move_15ft_pct",
+      "vcmb_on_move_college3_made",
+      "vcmb_on_move_college3_attempted",
+      "vcmb_on_move_college3_pct"
+    ],
+    "consensus": [
+      "vcons_mock_mean_rank",
+      "vcons_mock_best_rank",
+      "vcons_mock_rank_range",
+      "vcons_mock_n_sources"
+    ],
+    "bio": [
+      "vmb_age_reported_years",
+      "vmb_listed_height_in",
+      "vmb_listed_weight_lb",
+      "vmb_listed_bmi",
+      "vmb_college_class_year",
+      "vmb_position_pg",
+      "vmb_position_sg",
+      "vmb_position_sf",
+      "vmb_position_pf",
+      "vmb_position_c"
+    ],
+    "fifty": [
+      "f50_peer_sd_usage",
+      "f50_peer_rank_usage",
+      "f50_peer_sd_ts",
+      "f50_peer_rank_ts",
+      "f50_peer_sd_ast",
+      "f50_peer_rank_ast",
+      "f50_peer_sd_tov",
+      "f50_peer_rank_tov",
+      "f50_peer_sd_orb",
+      "f50_peer_rank_orb",
+      "f50_peer_sd_drb",
+      "f50_peer_rank_drb",
+      "f50_peer_sd_stl",
+      "f50_peer_rank_stl",
+      "f50_peer_sd_blk",
+      "f50_peer_rank_blk",
+      "f50_team_share_fta",
+      "f50_team_share_three_a",
+      "f50_team_share_rim_a",
+      "f50_team_share_dunk_a",
+      "f50_team_share_ftm",
+      "f50_team_share_three_m",
+      "f50_peer_three_diet",
+      "f50_peer_rim_diet",
+      "f50_peer_defense_density",
+      "f50_peer_creation_density",
+      "f50_minutes_concentration",
+      "f50_usage_concentration",
+      "f50_career_slope_two_p",
+      "f50_career_slope_three_p",
+      "f50_career_slope_ftp",
+      "f50_career_slope_ftr",
+      "f50_career_slope_ast_tov",
+      "f50_career_slope_orb",
+      "f50_career_slope_drb",
+      "f50_career_slope_minutes",
+      "f50_career_slope_ts",
+      "f50_career_slope_usage",
+      "f50_posterior_ft",
+      "f50_posterior_three",
+      "f50_posterior_rim",
+      "f50_posterior_mid",
+      "f50_posterior_dunk",
+      "f50_posterior_two",
+      "f50_nondunk_rim_pct",
+      "f50_rim_ft_pressure",
+      "f50_perimeter_ft_agreement",
+      "f50_assist_usage_efficiency",
+      "f50_balanced_stocks",
+      "f50_foul_adjusted_rebounds"
+    ]
+  },
+  "baseline": "baseline",
+  "training_eligibility_registration": {
+    "2012": {
+      "combine": [
+        "vcmb_height_without_shoes_in",
+        "vcmb_height_with_shoes_in",
+        "vcmb_weight_lb",
+        "vcmb_wingspan_in",
+        "vcmb_standing_reach_in",
+        "vcmb_body_fat_pct",
+        "vcmb_hand_length_in",
+        "vcmb_hand_width_in",
+        "vcmb_bmi_kg_m2",
+        "vcmb_wingspan_minus_height_in",
+        "vcmb_standing_vertical_in",
+        "vcmb_max_vertical_in",
+        "vcmb_lane_agility_s",
+        "vcmb_three_quarter_sprint_s",
+        "vcmb_bench_press_reps"
+      ],
+      "consensus": [
+        "vcons_mock_mean_rank",
+        "vcons_mock_best_rank",
+        "vcons_mock_rank_range",
+        "vcons_mock_n_sources"
+      ],
+      "bio": [
+        "vmb_age_reported_years",
+        "vmb_listed_height_in",
+        "vmb_listed_weight_lb",
+        "vmb_listed_bmi",
+        "vmb_college_class_year",
+        "vmb_position_pg",
+        "vmb_position_sg",
+        "vmb_position_sf",
+        "vmb_position_pf",
+        "vmb_position_c"
+      ],
+      "fifty": [
+        "f50_peer_sd_usage",
+        "f50_peer_rank_usage",
+        "f50_peer_sd_ts",
+        "f50_peer_rank_ts",
+        "f50_peer_sd_ast",
+        "f50_peer_rank_ast",
+        "f50_peer_sd_tov",
+        "f50_peer_rank_tov",
+        "f50_peer_sd_orb",
+        "f50_peer_rank_orb",
+        "f50_peer_sd_drb",
+        "f50_peer_rank_drb",
+        "f50_peer_sd_stl",
+        "f50_peer_rank_stl",
+        "f50_peer_sd_blk",
+        "f50_peer_rank_blk",
+        "f50_team_share_fta",
+        "f50_team_share_three_a",
+        "f50_team_share_rim_a",
+        "f50_team_share_dunk_a",
+        "f50_team_share_ftm",
+        "f50_team_share_three_m",
+        "f50_peer_three_diet",
+        "f50_peer_rim_diet",
+        "f50_peer_defense_density",
+        "f50_peer_creation_density",
+        "f50_minutes_concentration",
+        "f50_usage_concentration",
+        "f50_career_slope_two_p",
+        "f50_career_slope_three_p",
+        "f50_career_slope_ftp",
+        "f50_career_slope_ftr",
+        "f50_career_slope_ast_tov",
+        "f50_career_slope_orb",
+        "f50_career_slope_drb",
+        "f50_career_slope_minutes",
+        "f50_career_slope_ts",
+        "f50_career_slope_usage",
+        "f50_posterior_ft",
+        "f50_posterior_three",
+        "f50_posterior_rim",
+        "f50_posterior_mid",
+        "f50_posterior_dunk",
+        "f50_posterior_two",
+        "f50_nondunk_rim_pct",
+        "f50_rim_ft_pressure",
+        "f50_perimeter_ft_agreement",
+        "f50_assist_usage_efficiency",
+        "f50_balanced_stocks",
+        "f50_foul_adjusted_rebounds"
+      ]
+    },
+    "2013": {
+      "combine": [
+        "vcmb_height_without_shoes_in",
+        "vcmb_height_with_shoes_in",
+        "vcmb_weight_lb",
+        "vcmb_wingspan_in",
+        "vcmb_standing_reach_in",
+        "vcmb_body_fat_pct",
+        "vcmb_hand_length_in",
+        "vcmb_hand_width_in",
+        "vcmb_bmi_kg_m2",
+        "vcmb_wingspan_minus_height_in",
+        "vcmb_standing_vertical_in",
+        "vcmb_max_vertical_in",
+        "vcmb_lane_agility_s",
+        "vcmb_three_quarter_sprint_s",
+        "vcmb_bench_press_reps"
+      ],
+      "consensus": [
+        "vcons_mock_mean_rank",
+        "vcons_mock_best_rank",
+        "vcons_mock_rank_range",
+        "vcons_mock_n_sources"
+      ],
+      "bio": [
+        "vmb_age_reported_years",
+        "vmb_listed_height_in",
+        "vmb_listed_weight_lb",
+        "vmb_listed_bmi",
+        "vmb_college_class_year",
+        "vmb_position_pg",
+        "vmb_position_sg",
+        "vmb_position_sf",
+        "vmb_position_pf",
+        "vmb_position_c"
+      ],
+      "fifty": [
+        "f50_peer_sd_usage",
+        "f50_peer_rank_usage",
+        "f50_peer_sd_ts",
+        "f50_peer_rank_ts",
+        "f50_peer_sd_ast",
+        "f50_peer_rank_ast",
+        "f50_peer_sd_tov",
+        "f50_peer_rank_tov",
+        "f50_peer_sd_orb",
+        "f50_peer_rank_orb",
+        "f50_peer_sd_drb",
+        "f50_peer_rank_drb",
+        "f50_peer_sd_stl",
+        "f50_peer_rank_stl",
+        "f50_peer_sd_blk",
+        "f50_peer_rank_blk",
+        "f50_team_share_fta",
+        "f50_team_share_three_a",
+        "f50_team_share_rim_a",
+        "f50_team_share_dunk_a",
+        "f50_team_share_ftm",
+        "f50_team_share_three_m",
+        "f50_peer_three_diet",
+        "f50_peer_rim_diet",
+        "f50_peer_defense_density",
+        "f50_peer_creation_density",
+        "f50_minutes_concentration",
+        "f50_usage_concentration",
+        "f50_career_slope_two_p",
+        "f50_career_slope_three_p",
+        "f50_career_slope_ftp",
+        "f50_career_slope_ftr",
+        "f50_career_slope_ast_tov",
+        "f50_career_slope_orb",
+        "f50_career_slope_drb",
+        "f50_career_slope_minutes",
+        "f50_career_slope_ts",
+        "f50_career_slope_usage",
+        "f50_posterior_ft",
+        "f50_posterior_three",
+        "f50_posterior_rim",
+        "f50_posterior_mid",
+        "f50_posterior_dunk",
+        "f50_posterior_two",
+        "f50_nondunk_rim_pct",
+        "f50_rim_ft_pressure",
+        "f50_perimeter_ft_agreement",
+        "f50_assist_usage_efficiency",
+        "f50_balanced_stocks",
+        "f50_foul_adjusted_rebounds"
+      ]
+    },
+    "2014": {
+      "combine": [
+        "vcmb_height_without_shoes_in",
+        "vcmb_height_with_shoes_in",
+        "vcmb_weight_lb",
+        "vcmb_wingspan_in",
+        "vcmb_standing_reach_in",
+        "vcmb_body_fat_pct",
+        "vcmb_hand_length_in",
+        "vcmb_hand_width_in",
+        "vcmb_bmi_kg_m2",
+        "vcmb_wingspan_minus_height_in",
+        "vcmb_standing_vertical_in",
+        "vcmb_max_vertical_in",
+        "vcmb_lane_agility_s",
+        "vcmb_three_quarter_sprint_s",
+        "vcmb_bench_press_reps"
+      ],
+      "consensus": [
+        "vcons_mock_mean_rank",
+        "vcons_mock_best_rank",
+        "vcons_mock_rank_range",
+        "vcons_mock_n_sources"
+      ],
+      "bio": [
+        "vmb_age_reported_years",
+        "vmb_listed_height_in",
+        "vmb_listed_weight_lb",
+        "vmb_listed_bmi",
+        "vmb_college_class_year",
+        "vmb_position_pg",
+        "vmb_position_sg",
+        "vmb_position_sf",
+        "vmb_position_pf",
+        "vmb_position_c"
+      ],
+      "fifty": [
+        "f50_peer_sd_usage",
+        "f50_peer_rank_usage",
+        "f50_peer_sd_ts",
+        "f50_peer_rank_ts",
+        "f50_peer_sd_ast",
+        "f50_peer_rank_ast",
+        "f50_peer_sd_tov",
+        "f50_peer_rank_tov",
+        "f50_peer_sd_orb",
+        "f50_peer_rank_orb",
+        "f50_peer_sd_drb",
+        "f50_peer_rank_drb",
+        "f50_peer_sd_stl",
+        "f50_peer_rank_stl",
+        "f50_peer_sd_blk",
+        "f50_peer_rank_blk",
+        "f50_team_share_fta",
+        "f50_team_share_three_a",
+        "f50_team_share_rim_a",
+        "f50_team_share_dunk_a",
+        "f50_team_share_ftm",
+        "f50_team_share_three_m",
+        "f50_peer_three_diet",
+        "f50_peer_rim_diet",
+        "f50_peer_defense_density",
+        "f50_peer_creation_density",
+        "f50_minutes_concentration",
+        "f50_usage_concentration",
+        "f50_career_slope_two_p",
+        "f50_career_slope_three_p",
+        "f50_career_slope_ftp",
+        "f50_career_slope_ftr",
+        "f50_career_slope_ast_tov",
+        "f50_career_slope_orb",
+        "f50_career_slope_drb",
+        "f50_career_slope_minutes",
+        "f50_career_slope_ts",
+        "f50_career_slope_usage",
+        "f50_posterior_ft",
+        "f50_posterior_three",
+        "f50_posterior_rim",
+        "f50_posterior_mid",
+        "f50_posterior_dunk",
+        "f50_posterior_two",
+        "f50_nondunk_rim_pct",
+        "f50_rim_ft_pressure",
+        "f50_perimeter_ft_agreement",
+        "f50_assist_usage_efficiency",
+        "f50_balanced_stocks",
+        "f50_foul_adjusted_rebounds"
+      ]
+    }
+  },
+  "model_constructor": {
+    "device": "cuda",
+    "n_estimators": 32,
+    "random_state": "task_seed",
+    "batch_size": 32,
+    "norm_methods": "none",
+    "outlier_threshold": 2.0
+  },
+  "slot_mapping": {
+    "vcmb_height_without_shoes_in": "slot_000",
+    "vcmb_height_with_shoes_in": "slot_001",
+    "vcmb_weight_lb": "slot_002",
+    "vcmb_wingspan_in": "slot_003",
+    "vcmb_standing_reach_in": "slot_004",
+    "vcmb_body_fat_pct": "slot_005",
+    "vcmb_hand_length_in": "slot_006",
+    "vcmb_hand_width_in": "slot_007",
+    "vcmb_bmi_kg_m2": "slot_008",
+    "vcmb_wingspan_minus_height_in": "slot_009",
+    "vcmb_standing_vertical_in": "slot_010",
+    "vcmb_max_vertical_in": "slot_011",
+    "vcmb_lane_agility_s": "slot_012",
+    "vcmb_modified_lane_agility_s": "slot_013",
+    "vcmb_three_quarter_sprint_s": "slot_014",
+    "vcmb_bench_press_reps": "slot_015",
+    "vcmb_spot_15ft_made": "slot_016",
+    "vcmb_spot_15ft_attempted": "slot_017",
+    "vcmb_spot_15ft_pct": "slot_018",
+    "vcmb_spot_college3_made": "slot_019",
+    "vcmb_spot_college3_attempted": "slot_020",
+    "vcmb_spot_college3_pct": "slot_021",
+    "vcmb_spot_nba3_made": "slot_022",
+    "vcmb_spot_nba3_attempted": "slot_023",
+    "vcmb_spot_nba3_pct": "slot_024",
+    "vcmb_off_dribble_15ft_made": "slot_025",
+    "vcmb_off_dribble_15ft_attempted": "slot_026",
+    "vcmb_off_dribble_15ft_pct": "slot_027",
+    "vcmb_off_dribble_college3_made": "slot_028",
+    "vcmb_off_dribble_college3_attempted": "slot_029",
+    "vcmb_off_dribble_college3_pct": "slot_030",
+    "vcmb_on_move_15ft_made": "slot_031",
+    "vcmb_on_move_15ft_attempted": "slot_032",
+    "vcmb_on_move_15ft_pct": "slot_033",
+    "vcmb_on_move_college3_made": "slot_034",
+    "vcmb_on_move_college3_attempted": "slot_035",
+    "vcmb_on_move_college3_pct": "slot_036",
+    "vcons_mock_mean_rank": "slot_037",
+    "vcons_mock_best_rank": "slot_038",
+    "vcons_mock_rank_range": "slot_039",
+    "vcons_mock_n_sources": "slot_040",
+    "vmb_age_reported_years": "slot_041",
+    "vmb_listed_height_in": "slot_042",
+    "vmb_listed_weight_lb": "slot_043",
+    "vmb_listed_bmi": "slot_044",
+    "vmb_college_class_year": "slot_045",
+    "vmb_position_pg": "slot_046",
+    "vmb_position_sg": "slot_047",
+    "vmb_position_sf": "slot_048",
+    "vmb_position_pf": "slot_049",
+    "vmb_position_c": "slot_050"
+  },
+  "selection": {
+    "base_features": 41,
+    "selector_seed": 11,
+    "scope": "Fit the unchanged CPU selector on the41 source columns after canonical training order; retain all41 in its importance ordering. Appended family eligibility uses training rows only."
+  },
+  "ordering_policy": {
+    "version": "sha256_pid_exact_vector_mean_v1",
+    "row_order": "Sort train and query rows by SHA256(UTF8(pid)), with pid as deterministic collision tiebreaker, before selection and prediction. Identity/order keys never become predictors.",
+    "input_equivalence": "All selected predictor values must be numerically identical. NaNs compare equal; positive/negative zero compare equal. Distinct vectors are never quantized or merged.",
+    "prediction_ties": "Within each query group of exactly identical full predictor vectors, assign every row the arithmetic mean of its raw predictions using math.fsum over sorted float64 values.",
+    "raw_preservation": "Save raw and canonical prediction for every pid, exact duplicate groups and policy hash. All scoring uses canonical predictions with Spearman average ranks.",
+    "registration_basis": "R8order numerical audit found8 all-missing duplicate inputs with floating-point score splitting; no outcome score was used to choose this policy.",
+    "new_baseline": "Every background baseline reruns under this policy. Do not pool these scores with raw-prediction R8s or earlier studies."
+  },
+  "controls": {
+    "shuffle": "Permute one F50 field only among observed values within cohort and role; preserve exact per-player missingness and observed-value multisets.",
+    "seed_stream": "SHA256(fifty:feature_name, permutation seed, train-or-validation role, cohort, missingness pattern). Same fixed45 baseline columns and one common extra slot for all50 singles.",
+    "preserved": "Every player/column NaN mask and within-cohort observed-value multiset for the single field. Cross-feature associations are not preserved.",
+    "limitations": "Constant/singleton strata cannot move; report effective changed values. Fifty hypotheses after prior development studies are exploratory, not significance tests or independent confirmation."
+  },
+  "summary": {
+    "primary": "Pair each real F50 field with the mean of three same-mask/cohort shuffles per fold/model seed.",
+    "baseline": "No-extra baseline45 columns differs from single/control46. Report real-minus-baseline separately as descriptive; positive matched gain alone is not baseline improvement.",
+    "automatic_promotion": false,
+    "combinations": "No combinations or further model selection in this registration.",
+    "baseline_replay": "All3 baseline seeds must exactly reproduce completed R8u raw/canonical predictions and scores before interpretation.",
+    "multiplicity": "All50 exploratory hypotheses after prior development studies; no significance or automatic promotion."
+  },
+  "registration_basis": "All50 F50 fields included; no ranking-based subset. R8r lacked consensus, so this tests incremental signal conditional on fixed dated consensus. No confirmation or2019+ inputs/outcomes.",
+  "execution": {
+    "workers": 4,
+    "task_count": 603,
+    "xgboost_selector": "cpu",
+    "predictor": "GPU TabICL32 only; no weight reuse",
+    "gpu_launch_performed": false,
+    "max_runtime_seconds": 7200,
+    "memory_max": "140G",
+    "cpu_quota": "2200%"
+  },
+  "single_features": [
+    "f50_peer_sd_usage",
+    "f50_peer_rank_usage",
+    "f50_peer_sd_ts",
+    "f50_peer_rank_ts",
+    "f50_peer_sd_ast",
+    "f50_peer_rank_ast",
+    "f50_peer_sd_tov",
+    "f50_peer_rank_tov",
+    "f50_peer_sd_orb",
+    "f50_peer_rank_orb",
+    "f50_peer_sd_drb",
+    "f50_peer_rank_drb",
+    "f50_peer_sd_stl",
+    "f50_peer_rank_stl",
+    "f50_peer_sd_blk",
+    "f50_peer_rank_blk",
+    "f50_team_share_fta",
+    "f50_team_share_three_a",
+    "f50_team_share_rim_a",
+    "f50_team_share_dunk_a",
+    "f50_team_share_ftm",
+    "f50_team_share_three_m",
+    "f50_peer_three_diet",
+    "f50_peer_rim_diet",
+    "f50_peer_defense_density",
+    "f50_peer_creation_density",
+    "f50_minutes_concentration",
+    "f50_usage_concentration",
+    "f50_career_slope_two_p",
+    "f50_career_slope_three_p",
+    "f50_career_slope_ftp",
+    "f50_career_slope_ftr",
+    "f50_career_slope_ast_tov",
+    "f50_career_slope_orb",
+    "f50_career_slope_drb",
+    "f50_career_slope_minutes",
+    "f50_career_slope_ts",
+    "f50_career_slope_usage",
+    "f50_posterior_ft",
+    "f50_posterior_three",
+    "f50_posterior_rim",
+    "f50_posterior_mid",
+    "f50_posterior_dunk",
+    "f50_posterior_two",
+    "f50_nondunk_rim_pct",
+    "f50_rim_ft_pressure",
+    "f50_perimeter_ft_agreement",
+    "f50_assist_usage_efficiency",
+    "f50_balanced_stocks",
+    "f50_foul_adjusted_rebounds"
+  ],
+  "common_extra_slot": "slot_041"
+}
