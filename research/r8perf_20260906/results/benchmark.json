@@ -1,0 +1,44 @@
+[
+  {
+    "batch_size": 8,
+    "seconds": 3.990044509002473,
+    "peak_vram_gb": 0.9672141075134277,
+    "max_prediction_difference": 0.0,
+    "prediction_rank_correlation": 1.0
+  },
+  {
+    "batch_size": 32,
+    "seconds": 2.8579617899958976,
+    "peak_vram_gb": 3.4385933876037598,
+    "max_prediction_difference": 3.75211238861084e-05,
+    "prediction_rank_correlation": 1.0
+  },
+  {
+    "batch_size": 64,
+    "seconds": 0.816323661012575,
+    "peak_vram_gb": 3.4385933876037598,
+    "max_prediction_difference": 3.75211238861084e-05,
+    "prediction_rank_correlation": 1.0
+  },
+  {
+    "batch_size": 8,
+    "seconds": 1.2885698890313506,
+    "peak_vram_gb": 0.9672141075134277,
+    "max_prediction_difference": 0.0,
+    "prediction_rank_correlation": 1.0
+  },
+  {
+    "batch_size": 32,
+    "seconds": 0.791743440029677,
+    "peak_vram_gb": 3.4385933876037598,
+    "max_prediction_difference": 3.75211238861084e-05,
+    "prediction_rank_correlation": 1.0
+  },
+  {
+    "batch_size": 64,
+    "seconds": 0.6717409790144302,
+    "peak_vram_gb": 3.4385933876037598,
+    "max_prediction_difference": 3.75211238861084e-05,
+    "prediction_rank_correlation": 1.0
+  }
+]

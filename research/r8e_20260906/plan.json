@@ -695,5 +695,12 @@
       0,
       0.5
     ]
+  },
+  "execution": {
+    "workers": 4,
+    "cpu_threads_per_worker": 3,
+    "tabicl_batch_size": 32,
+    "full_prediction_cache": "within one member_preds call, keyed by label bytes; features/config fixed within call",
+    "benchmark": "Warm historical prediction batch8=1.2886s batch32=0.7917s; prediction Spearman=1, max float difference3.76e-5; measured under concurrent load"
   }
 }
