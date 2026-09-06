@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:08:18.887376+00:00",
+  "lane": "reports",
+  "pid": "P40b8fb181b",
+  "draft_year": 2018,
+  "name": "Eric Davis Jr.",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Eric Davis Jr.\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Eric+Davis+Jr.%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Texas' Eric Davis Suspended Indefinitely After Being Named in Corruption Probe - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYVFsWkFobmhZVlo3TG9JUElnWFB4a3RfOU9Gc1IwdzdPVlJ6UlRIMlJmVjh2ZGVKTWtXeEtya2hYS0pLYzJwbnZTSDRJVHZ1VlQyam5INDdDYmF3cFhkMmZKd1FDejdTMTZVOHZ0NmgweFJzMktTTEdKRkwxQW9tVnM5ME5DdGEtaFhZZUNRNnBEdGFCdE9hZS1lN1JDZWZpWWh0YnVGYTBOczBUYU1CeHlqUFkyeXdPblFsY1R3?oc=5",
+      "published_date": "2018-02-23",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "47c541edcbfd66e9ba80aa021b09fe5f909af7eb2ba4406673683ec8d2261579",
+  "feature_eligible": false
+}

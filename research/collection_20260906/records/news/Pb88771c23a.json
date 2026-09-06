@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:54:46.860539+00:00",
+  "lane": "news",
+  "pid": "Pb88771c23a",
+  "draft_year": 2018,
+  "name": "Jordan Sibert",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Jordan Sibert\" (draft OR scouting OR prospect OR basketball) after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Jordan+Sibert%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Dayton Flyers Top 10: Memorable openers of past 30 years - Dayton Daily News",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcDNGbmR2eFhwOW9wOVdyYVpBYlZkblBWblh1OVlXcUVDVGN3SG5yblo3c3BFYTJPNGJRRFp1ck5aZEZ5eXJ1UnEwLWJ2VXlrZFdPUVBZaUJKSm5XRS1mYXp0UTl6OUhrejlXR2JrWnZUQWZrR2ZUcUZWbXhxeWxwUE9tcS1rSlJielFla0NPbzV4aTVlNWxBRi1SRUVMUDNQekR4VDVEenBlcURaOUlWenNlaGF5cFRlbEVpOFh4aENjX29uRHh1bGx4SWFmQ095SUhndS1pVmVMN1Vh?oc=5",
+      "published_date": "2017-11-07",
+      "source": "Dayton Daily News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "IU's Archie Miller through the years - IndyStar",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQengyQlhSLVNIWHVGYURXNjRvZUdOYUdyR09iaHloS3RSVE5YaDFRaS1hQlhDMUcyYzJvcXpjUGsxRlNMZ3pFR2pJOXpoOU5iQnc4OVl1QW1mTm5wNzdHbl94M3hKZHhQX3R4amlfMFR4cm5oZzFoYWZXWktNQzk0ZFVXd1dlcFVhUzFSZkkzMWdYUTN3dV9ucmxUZ0t5ei11RWRtNUVQakZjU1I0OXVBREoxUVJYekkwMXdZdEduaXk4YlVjcTlBVWpRNmxvY2czVzVv?oc=5",
+      "published_date": "2017-07-06",
+      "source": "IndyStar",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Dane Goodwin NAMED GATORADE\u00ae OHIO BOYS BASKETBALL PLAYER OF THE YEAR - Stateline Sports Network",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc3VldGdkSGJ5MVczLVphSmNvVVNvQmJTMDlPNnJ1TWhISjFPWmgzdGFVeVNXOTB1VklZRU5LUGhkVzVkeDJGMElqdUh2S0YtN3dWVU4zR2hldjNKckx4RXpZa1FCeURaNjhxTzFhd0MwTzFOdERZdDlxLUNORmxicGpHYXRHS1RpVkhkdVRqbksxNzExY1BFV1lsTDlTS1ZfOHkxZF9ud1ZNTkdBZEhfUElUb3E?oc=5",
+      "published_date": "2018-03-08",
+      "source": "Stateline Sports Network",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "a26df311a42f5f6de6c86df36d58cb01717b868c59448b87150e20073ab40dac",
+  "feature_eligible": false
+}

@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T10:53:42.693227+00:00",
+  "lane": "reports",
+  "pid": "Peda2227014",
+  "draft_year": 2015,
+  "name": "Aaron Harrison",
+  "draft_date": "2015-06-25",
+  "status": "ok",
+  "query": "\"Aaron Harrison\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2014-07-01 before:2015-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Aaron+Harrison%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2014-07-01+before%3A2015-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Aaron Harrison not an elite shooter - espn.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPX0lwNE1sYTBxaDBNTWlFbFdkUTdsN0RmUWtDWkFuY3pudTl2Ty1BLUlSWHpYN1NKZWRiZlUzX3ZPSkZGN01QM2wxUHVGTDcwQW1CaUE2S3duNnhabVRYSkZZS3VXeFctTF9KVnRmNm5wT3E2bzJFTnUtRkpOLU10MDlETXJNaWNYSzlGeEY5NzZRTVptN0VxTU1UMnJ3WkwyOE1YMWxYSmZKdXZkUnIwSlBhYTYzWkRLMTBtMmx2cjBTLUFFTnZPcnMzcFlwcXZw?oc=5",
+      "published_date": "2015-04-11",
+      "source": "espn.com.au",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Harrison twins back at Kentucky with big goals - Houston Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRW12V3BBcnR2bUNoWnN6YXdZdXdOMi1saHpGbFRBOGptTUpXQm1feVhGaUZQOWJxVnh3dDdYVGhfZXVRU3lsV2RGZ0tvT1dVSkhqYnU2WjVzRl9kTU5rZjZqY2x6bzZETmVIZ0FQLURWakV6VVItLXRtMzk1TFBKbXZqVkhTR3JaME4yZTVQSEx5aVpHbDQ0Z242REY0d05jYkcxWC1lY1pMZw?oc=5",
+      "published_date": "2014-11-13",
+      "source": "Houston Chronicle",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2015 NBA Mock Draft: Kristaps Porzingis' stock rises to 76ers at No. 3 - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZjZiSkllellMRGVOQXV1SmFnd29hb0h2RVhmVVlER2tITG9hTUNSVTJjUkg3Z3NqXy1Xdjk5QlI5dnljSEpfUkVEcWhzazNlX29UcUJudFoyVmN1Z3E0N2wxcWhOb1lyRjdBd0ZSekNRbFFCdU9YSXJjZjhOUng5OWlRNklzMXliWkQxdW12Zm1heFhJR1d5bGRBRUFuYlRSNmg2cUEyQ0FiTmpqdUp6LV9paUdMdnRfbHc?oc=5",
+      "published_date": "2015-06-17",
+      "source": "CBS Sports",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Draft Profile: Devin Booker - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HaFhMZWdKR0NYRjM2TGtVakU1cER5VGRCMHBaSEV6djllUkRZQ2ZnZEdYcUJBQU9xel9ranVzYTRDNU9QZV9oYmN0ZHE0a19YeS1hX1k0TGpRb3h4S1o1OV9DMnY?oc=5",
+      "published_date": "2015-06-11",
+      "source": "NBA.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Kentucky's Harrison twins enter NBA draft as major questions abound - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVE5sRU4yaEpILWdTNDB1ZDZpZHFqSF9CVFVwRWFYcVdNSGFtWjFNQ2RGSlBJOFQzOXc2bWMyVWRUY2hCNWg0Z2NLR3l6R2xnOExmWGtpN09pb2NTNjhCV0k0LXB1Qmk2LVBqZjVyNjJfcVBBYXJZYnl3OHJNQ0M3U1Y5aTRiOUdyMFNMT1dEODExSnlRNnFnX0xyckVhdXVXUjB6Ym84S0VLUmYzYTJXYmhpb2t6cHNlS0dwOWI1b183N09EeGthRk5n?oc=5",
+      "published_date": "2015-06-22",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "92b8e493668e985058336e81395c016d13f349105fa6fa8810212c708187c7e1",
+  "feature_eligible": false
+}

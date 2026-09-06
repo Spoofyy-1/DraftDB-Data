@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:57:38.132252+00:00",
+  "lane": "reports",
+  "pid": "Pa8fc4b7ad7",
+  "draft_year": 2016,
+  "name": "Jarrod Uthoff",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Jarrod Uthoff\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Jarrod+Uthoff%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA draft projections: Ranking Simmons, Ingram and top 40 - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWlplVllKQU52MlJBWWF3VFdnVTY4NlR4aDY0RkNhT1c3WGZvd1RXVW9xay1UWjJOV0J3MTBmdGk5Y19pTEdpZU1KTE51MEdLRl9zWExxLWluUUNVQzB2SlRWZmR3U1NVYWg2ajRfWC1FQ2Q4U0tqeUQ2d2JDLVlQS1JPSmRCY3dXMG1CREcwV19ZNWw4QWZzeC1ySlBEbktVRWFwNTRvYlY3NHNGRzJ1bVV0QmtaaEU4VVplcnliX2daTzA1U0E?oc=5",
+      "published_date": "2016-06-09",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "It Takes a Village to Make a Basketball Star, Just Ask Iowa's Jarrod Uthoff - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU20xQV9VZm41aURIeEMyT1ZXTXVyckc1TlJ6cDBHUUZxeTlyQWhRTUFvMUNzYTZBT01HTFBJUmxMT2x2ajRfUEJZeG1IN2RnVE13dFd3V192WjVUb2lMemZzWFBuVmVCUGNKSTBpeXRZVlBhUkRaX2xpM19kdXJER1ZxZnRkS0UzTms4TVRJUXdFYXNYZDR4RnJsTW9vaTdDMDhFQkpwRHFxVjNvanU0WVZPQ0tmV0Ra?oc=5",
+      "published_date": "2016-03-01",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "911575ac149266a8de851786bb139db5f8f3656f56996510a803c3a428a4d5db",
+  "feature_eligible": false
+}

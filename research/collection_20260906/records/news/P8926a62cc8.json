@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:53:13.252650+00:00",
+  "lane": "news",
+  "pid": "P8926a62cc8",
+  "draft_year": 2018,
+  "name": "Robert Williams III",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Robert Williams III\" (draft OR scouting OR prospect OR basketball) after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Robert+Williams+III%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "The 2018 NBA Mock Draft | Chicago Bulls - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBycnpOMGJ2SmE4NFBFeUlkTFVBdFVRNlBXUGlQR0NXTlM1Q2JXV1ZvRGVhY2JTbjh6QnNlbFJIYUZpdUVVazJrVUtqdnV0ODlRcTJUTTNqMWlkWlEtTC1Z?oc=5",
+      "published_date": "2018-05-16",
+      "source": "NBA.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "North Jersey teammates lead Notre Dame's No. 1 fencing team - Bergen Record",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPc1ZldllHRy1GQnpBZEdUa2ZoaFByR2FtSkZubHM5WGloUzZLRmtXYVZ2TjFpc1M0NDVLRDg3cHJISUczbDhGVWJScWt4Njd1TmlVT0w2S0tZaVl3WDJ0ci1Xb3Z3aHFqLTJwV0dJQzBnQTJObkt4X3pmYXM4MTF5bEdhbzdCaGJ2bjZYMFpGc08zUEFWa1VId2hJcFBsNjVVSk5GLWlSelNMVmhadXNSQlRTUlpkb2NsN3QzZkVDRGd6ODFsTXh5Wk14N2ktekljdlA4YUtlZm9KVWNhUUQyQk50VV80VWlIMm1NSVZ3RldqZnZpVC1TelRZMmJfOEl1NUE?oc=5",
+      "published_date": "2018-01-29",
+      "source": "Bergen Record",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Fantasy Basketball Points League Rankings - Hashtag Basketball",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KamVRU29YVll5eUFsaXB5WlpzZmQ5eEdhQjhyNm83d0tOWHBqTTg3dHctTTc2ZmRSN0NuNTh1czd5bkU0QWMzU0hZV1JrSTZsQlAxZFMtUGg2VUYydmR4TlhyeDhiY3JBMGpoeW5XSTFBMTl6MkhwSnN4aw?oc=5",
+      "published_date": "2017-09-18",
+      "source": "Hashtag Basketball",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 4,
+  "response_sha256": "fd3fcfec7a87621b9097ee3b13e5c0975f370cd7a35bd099312acbc4e96674bb",
+  "feature_eligible": false
+}

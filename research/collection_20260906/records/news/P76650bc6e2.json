@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:00:29.150752+00:00",
+  "lane": "news",
+  "pid": "P76650bc6e2",
+  "draft_year": 2019,
+  "name": "Alen Smailagic",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Alen Smailagic\" (draft OR scouting OR prospect OR basketball) after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Alen+Smailagic%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Meet the player the Warriors want to keep a secret \u2014 for now - San Francisco Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTFNUd1huNkZEbENvQThyT01ydHZHTEJ0WlUtVmpYazRiUWtQbDZrRmdDOFBvMUh6eEdjWVZRN2ljN19GaXJGU0lGU0F1VnJIOVVubE5TZTNvQTdhYnVjLXl6dlBJc1JSYzhUejNpZDRNU2F4LVJwbHNUd0VfQ1YzV1dVWlg0VDJYUUhsMFVRVmJ0YWxvTWJOVTAwTlNEbHRzQnV1S0hjRQ?oc=5",
+      "published_date": "2019-03-28",
+      "source": "San Francisco Chronicle",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Santa Cruz Warriors Season Preview: Team prideful of defense, offensive firepower and depth - Santa Cruz Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcVRTSV81SFBnWHVseUV3RC1NMFE5V1lvMFpFaWw4T3JkbnJ6NlB1RGgwNDlsMmpiTlZ1aXRDSVl2UWhIcHNVQWtId3lPUjFsSkJnU1BiNnZLTjZ6TlZzMVpNOHdFVFY0OE11VUo1S19iWHNmRG12anRWTks5a2hRVHBLQm13TDItVV9kdGJBTm5hREhHenlZZGtiVEU5b012MDQ0VHhCRU4yazkzdno2Z19CQWs0UXhkbEdiUTZMR2psQnowZy1fZF9xT2hsLXVa?oc=5",
+      "published_date": "2018-11-06",
+      "source": "Santa Cruz Sentinel",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 7,
+  "response_sha256": "c4e58fcba143273c562156d2706ddab326ef9bf5f5abd57b9415a4784d22259b",
+  "feature_eligible": false
+}

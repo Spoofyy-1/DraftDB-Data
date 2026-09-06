@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:56:51.742191+00:00",
+  "lane": "news",
+  "pid": "P027da49c30",
+  "draft_year": 2019,
+  "name": "Deividas Sirvydis",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Deividas Sirvydis\" (draft OR scouting OR prospect OR basketball) after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Deividas+Sirvydis%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft 2019 scouting report: The best international players - nypost.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR1NCNWduMXF3QnlwdnZtdTBUVXBLdmpKUTlNd3dqTEQxbDcydnBWZHNJYlhoLUNjN0hQd2pEMWtqNDVoR0hMN1ZFR1Q1cXlienpVN1Y5Q2NyRndMelZRN0xkak5sRG1kb0k5R2g4blhMREpkNnV5a1FFQ3FwMzhfejM5V2tQTlVPbUZfOE5qSU9OVFYzNmQw?oc=5",
+      "published_date": "2019-06-18",
+      "source": "nypost.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2019 NBA Draft: Cleveland Cavaliers big board, final version - Fear The Sword",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWGQ3LXppTi1HQkNEaDI1anJybU5hRWxiT1VrU2NNSlNoUW5iOUVPdW9OUEFfMGwzM0QtMEx5d3BTZldLMjFyZW1wZGlxX21kSi05WlBHZnE5UHBSZWx2c3pMRnZpWmhiOUlwUmlNZmdDbDh6WG5YX1VWNGRfeUx0OGMzS2xpMnU2MjJuRjVWWnpMR3J4d2ZjMFIyNnV6YjNnMHBULTVaWktUdS1tZHFqenNXbmNwcjJMZ2c?oc=5",
+      "published_date": "2019-06-17",
+      "source": "Fear The Sword",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 3,
+  "response_sha256": "ca43773cc8ac6cd8dc1ef477e5c7a7161b0fd16c08250eabad5f0f49926e577b",
+  "feature_eligible": false
+}

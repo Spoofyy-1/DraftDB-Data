@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:52:17.765626+00:00",
+  "lane": "reports",
+  "pid": "Pa2709c7876",
+  "draft_year": 2015,
+  "name": "Jarell Eddie",
+  "draft_date": "2015-06-25",
+  "status": "ok",
+  "query": "\"Jarell Eddie\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2014-07-01 before:2015-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Jarell+Eddie%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2014-07-01+before%3A2015-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Jarell Eddie Fantasy Basketball News, Rankings, Projections | - FantasyPros",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yX2pwZy14SzFsN2RvWXR2RXNwVGYwN0tha1QxNUV6NEIwRUM1NVRyM28zSTdQRTd3c3RSLW9FbndwcURwY0FCUTZ1ODVTMU82WWV6enB5c05aQV9jVTM0N2oxU0piNlE?oc=5",
+      "published_date": "2015-03-11",
+      "source": "FantasyPros",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "8f6fd38a4800610fb691e052dc8b23b7e5b6881e34e40a87780ccb1eaa42ea65",
+  "feature_eligible": false
+}

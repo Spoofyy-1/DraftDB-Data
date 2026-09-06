@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:55:01.110995+00:00",
+  "lane": "reports",
+  "pid": "P3ea09a4d42",
+  "draft_year": 2016,
+  "name": "Daniel Hamilton",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Daniel Hamilton\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Daniel+Hamilton%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA draft projections: Ranking Simmons, Ingram and top 40 - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWlplVllKQU52MlJBWWF3VFdnVTY4NlR4aDY0RkNhT1c3WGZvd1RXVW9xay1UWjJOV0J3MTBmdGk5Y19pTEdpZU1KTE51MEdLRl9zWExxLWluUUNVQzB2SlRWZmR3U1NVYWg2ajRfWC1FQ2Q4U0tqeUQ2d2JDLVlQS1JPSmRCY3dXMG1CREcwV19ZNWw4QWZzeC1ySlBEbktVRWFwNTRvYlY3NHNGRzJ1bVV0QmtaaEU4VVplcnliX2daTzA1U0E?oc=5",
+      "published_date": "2016-06-09",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "13ab2df66fb09ab3e3055771e61398ac3054be78e208840065ad9f620ee9c6e8",
+  "feature_eligible": false
+}

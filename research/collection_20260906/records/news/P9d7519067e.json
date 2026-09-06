@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:08:29.730079+00:00",
+  "lane": "news",
+  "pid": "P9d7519067e",
+  "draft_year": 2020,
+  "name": "Isiaha Mike",
+  "draft_date": "2020-11-18",
+  "status": "ok",
+  "query": "\"Isiaha Mike\" (draft OR scouting OR prospect OR basketball) after:2019-07-01 before:2020-11-18",
+  "query_url": "https://news.google.com/rss/search?q=%22Isiaha+Mike%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2019-07-01+before%3A2020-11-18&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "SMU Opens Season With 74-65 Win Over Jacksonville State - SMU Athletics",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOai1aOFNsZkJPTHB3MlMyUmJCZ2RlaFRqOHEzc3M2ODlrQmJMd195WWl3eHBFX1F0VzViLThsQ0ZuU25ZQWVRMzAyVUFyejJMRTBydUF0T2s1TGhqVklFdDBEekQ1bXZGSXVyaFpOTTBybENNamZUYnhBZGNpWUZjcl9nVjNuZnM4ZE5BLUxMM21Hdkxyci1kay1lbE1SdGdrLXpzeXpoWTRiQWxrdE9rQlJXTjIzQQ?oc=5",
+      "published_date": "2019-11-05",
+      "source": "SMU Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Mustangs Fall In Overtime At Temple - SMU Athletics",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa0M5RkxGYXZyUENLeFZkdzJwQmxzY1Q1b0FkV3YxMGtfYTFvZ1ZLcE91a292bGZCSU1tT1VOanF2RDc2eWgzbEpqZUx3dS1RUUN6MEdCMVJLMS1GQXZvWXpiZ2VVcWRkNFdRbmhCdS1ZRlpiSndWamtLcGNtT1hzaThuMHdqTEpockkteTVUZGc0X2ZsQnFrR3VR?oc=5",
+      "published_date": "2020-02-08",
+      "source": "SMU Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Island Storm guard wins NBLC Canadian Player of the Year - BasketballBuzz",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLTFoekF2QktZeF9LOUFhTlliS1pGM1JIMFVWbng1ckE0TFctMVNOQXdSZEVlZEZncnZYMmFPSkRpblE2dHoxNmVjX29Qb1RaOGotYTVvMC0yZkxwbVNZVzRiVk0wanVlVld1TkMwQlk0Yk9oa09wRGZWRE9pZThoNXJlRC01akZrVnBvZ0Q5c1lZdw?oc=5",
+      "published_date": "2020-05-14",
+      "source": "BasketballBuzz",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "9e399ced02ba71fd9ca2828e6fccbcdd84f0fcfe26b57324e99becb255a21751",
+  "feature_eligible": false
+}

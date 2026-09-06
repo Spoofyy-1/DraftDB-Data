@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:56:35.869741+00:00",
+  "lane": "reports",
+  "pid": "P85fbcb1dce",
+  "draft_year": 2016,
+  "name": "Pascal Siakam",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Pascal Siakam\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Pascal+Siakam%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft 2016 Scouting Report: Pacal Siakam carries a big presence and big numbers into draft night - midmajormadness.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd2J0OVJzN0szdDJKb1BrR1BiZGxBWG9lX1BvYlp2QTdTdmJCb05GaDI5RXRaSGZfRFB4OTNLdXdaNWdhdlZ6X1hwZ2FpRWNWZVNtOG9Bb25vZHExaEpOaXMxTzEwUTZTOEl6VWh5NzRxMk1wSk13NVdvS3RaMngyREw5a2FHVktNZW11ZndfMzBZUGczdnhGcnl3Q1JzbzNkRTFWQmxPV1hJZw?oc=5",
+      "published_date": "2016-06-22",
+      "source": "midmajormadness.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "New Mexico State's Pascal Siakam Is the Best Player You've Never Heard of - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbEFHclVvNWE1MXNFSWs0dDY2RndCdWRTRTh1d0JYNElMQURndUJKRTRnM3RQXzdHdXA1c2pHTHNRNWJIVTBuM1MyNk9SSkNPaDJwOUNGdDI0clhmVDdqR0lkMWkydDFYbUgzSUtqN2NRYzVFUkltbjg1blp1RXNacEJBcGNDTDBneFllaG5TQzBCeG1BWXpHTC1DN3Bha1h0czhjYmVVcGJvOUxteHpvVWd6eHJfQQ?oc=5",
+      "published_date": "2016-03-08",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jarred Vanderbilt NBA Draft Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZVGxSVXFNSTZVUUluODk0Sng1RGZnLV9leVZoR3JrX2tQLUFTZkxwN3R3el82TWhJem5naDdpTjMybFY3c0phWXl5VENLR3E3c1k2WHdSdWZzYmc2MWdqS3JLN2ZMRWxtNFNTb2t1SmV1NWdTXzNxQg?oc=5",
+      "published_date": "2016-02-21",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 2,
+  "response_sha256": "717ed3d9b1f899241270ab821487dcb78061bb37155262ec7305c7ed744d9627",
+  "feature_eligible": false
+}

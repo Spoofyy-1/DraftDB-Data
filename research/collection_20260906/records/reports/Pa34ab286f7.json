@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:04:29.091220+00:00",
+  "lane": "reports",
+  "pid": "Pa34ab286f7",
+  "draft_year": 2017,
+  "name": "Melo Trimble",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Melo Trimble\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Melo+Trimble%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2017 NBA Draft Profile: Melo Trimble (Maryland Terrapins) - BT Powerhouse",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb2w0NkRoY0NZXy1jdFJ4d1U2MEZnQ2NPTFF4SFp3MXNSekZ5Y3cwdnhfd1BMUW1VZVAwS0RUbVY2Nm5xaUk1ci11X0xTb2F1dGNpR1MyNFc4Tl9adS1wM3J6R3JCUDktV1h6M1JrUF96RDZObnZPOHVyV1hkMllEY3VySm5HMFFiam92VlZoM1dNZWx2RkhTNVBQdHV2MDRWV2t0MXZUekgxd2lBUDVtNVR4dkV6UFRVTVBCM2VLUUxoMmdmRGlWNg?oc=5",
+      "published_date": "2017-06-15",
+      "source": "BT Powerhouse",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "9e76c86f55bbb865b66bf16fab0c3510a1ac68ff7e422e373c02e7ae41a8a075",
+  "feature_eligible": false
+}

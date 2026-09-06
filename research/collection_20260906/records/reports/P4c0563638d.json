@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:08:35.183989+00:00",
+  "lane": "reports",
+  "pid": "P4c0563638d",
+  "draft_year": 2018,
+  "name": "Duncan Robinson",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Duncan Robinson\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Duncan+Robinson%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2018 NBA pre-draft workouts: Who's going where - HoopsHype",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU2ZOdUFOY1F0LWw2VDBqaFgtUmNYa0JsRW44S1RVZkRrMG5HN0VILUJ4N0FQU01XcDFsbU14SktDVXNfSk8wdHRrOEFobnVfYWRTN1lhZnJIYUVvVzFPMlR2Q0d1OEc4b3pzQmM4a01TLW52NEtSSkY2QzRRS2RhV25UREhVOC1GMXRJU3huSTFUMW9jYkZycmhlQVI5MEh1MHJDUVREUkY3RUo5eUdYOEhBWG5yRG5j?oc=5",
+      "published_date": "2018-05-19",
+      "source": "HoopsHype",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Michigan basketball vs. Loyola, Final Four: Scouting report, prediction - Detroit Free Press",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPYkVMOVRscUZDRUprQWQ1WWxNV0FQRk96bjQ3dXp6bE5CYzNTem83TGFnOGo0ZlF2dUJURnpxZ2x1QkdLRG9hSWx1bTV4WVFsMXVLOFlVTHVkcGJ0ajZKWkNoQ0VVWjduMDFCbl9la0RqUXJRVkVjR0Q3Tk82SlN5cG1ndFluZ1dFRFZ6Zm1wMDF3OERHQkMwT1dkYmsyVDYtVlJxRDJrSUZFTW9TM2lUdlN0dzdkVF80QkFPa0hPMWNsV0otMjczM29uTHh5dy1FVV8yQVJ6TUhEZHBwYlkyVlNfLVpXcFdfOE1leUNjaFdHSGhVYXc?oc=5",
+      "published_date": "2018-03-25",
+      "source": "Detroit Free Press",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "ccc09f2c44df0eb9f428d25b485abe102433ce77c163c353c2aa29a9140ae7f5",
+  "feature_eligible": false
+}

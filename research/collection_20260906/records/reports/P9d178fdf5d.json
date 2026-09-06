@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:04:18.546621+00:00",
+  "lane": "reports",
+  "pid": "P9d178fdf5d",
+  "draft_year": 2017,
+  "name": "Alec Peters",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Alec Peters\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Alec+Peters%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2017 NBA Mock Draft 1.0: Top 30 Prospects - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSFZOdkRIRTF6bWcySjU5Z1IwemhRUDl3YUVYWXB0Q1ZUaTJ2Mk04SGFnMjVKbDNkOFE1OXZuV0h4R0tjVG91ZFlKM0V5S0tHcDg3LVRSUmdMdGpkUnJ4NmFhVXJvWUZkVWxJNVNLNVdYNldFbnRBbFpCZzFCOU9LSnY3QXZjaDNNRllTaGg0NlNacnNXS1M4aQ?oc=5",
+      "published_date": "2017-01-27",
+      "source": "Sports Illustrated",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Steve Popper's 2017 NBA Mock Draft 1.0 - Bergen Record",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaHgwdTF0X0RhdWtEZzNwbWhmX05MVjczSFBaaUd2Nkpjc2gwMGl5Z0hyejVYLUs2Mk9XYVZaNGI5RTRSVUJvczBJajZpdG1QeUZacHZWRTBHVzBjSkhZTTRQMGl4aVduTVYwNFo4d0diNnFYTk5iQ0tsZ2FDbkh4alh0US0yVnJHa3pEbWhtc2RhanJkMlRHTWRjNU9OcE1EZEM0WDRIVUFVTV9Wd1dPVw?oc=5",
+      "published_date": "2017-05-17",
+      "source": "Bergen Record",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "870584f4047ce194db78c4b7e55e27975fa1f35b07f1624790a0bcfa18924767",
+  "feature_eligible": false
+}

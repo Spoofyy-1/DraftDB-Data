@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:00:48.724891+00:00",
+  "lane": "reports",
+  "pid": "P204a101867",
+  "draft_year": 2017,
+  "name": "Caleb Swanigan",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Caleb Swanigan\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Caleb+Swanigan%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Caleb Swanigan NBA Draft Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxUDNRU1dQRWhxeGxFMWdxUW5TOU1FcDdZOHV0Slk4WGFoTzhOSnNSSkx3X2NUR0hVOUtJTzdlRmNtT0VuN0JuQ1IzV0MyQ2lIZGttTUpVYUZ4WlNGS1lLMDRLcW14T0F3OEZ6Y1ZFM1NieFdE?oc=5",
+      "published_date": "2017-02-19",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "More than 60 players of 137 to keep names in NBA draft - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTEtxYkxmOHkydUUyYlZDanYwNGphRXV0cDRnZk5oSXpPZTJ1azhsc1dPaFVOU0dSam1xM3owX0Z5WkpUVnBkUmcwQXNnZFB3cEswQmQxUXpKbm0wcWtqUy14SW1BWC0tN18xR3VqNUxHUFBoZ3VySVhMWnUybFpPZ1ZmTHFPRFMwMks0Sg?oc=5",
+      "published_date": "2017-05-25",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2017 Kid Reporter NBA Mock Draft - SI Kids",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpTWRLWDhSc1JPLXRfMW5hRmRTQkdzV0JKTVY1U3lvX0JEQ2c2MjZ4dWVWVFJUSm5GZmJGN0l6VXpHSllhSGJOZDhab0oyM1RRY3RtejVfbkRqVDM1MlkzZWM2TzJVU2Z5Rm9ENnNPX3BGeVVQcVpz?oc=5",
+      "published_date": "2017-06-21",
+      "source": "SI Kids",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 2,
+  "response_sha256": "9c142458fc879388de148b14ffe11b85f104fd187ba25c7c34d3ff11819a63e5",
+  "feature_eligible": false
+}

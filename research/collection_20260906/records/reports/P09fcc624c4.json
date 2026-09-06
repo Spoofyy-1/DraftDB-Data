@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:54:21.861249+00:00",
+  "lane": "reports",
+  "pid": "P09fcc624c4",
+  "draft_year": 2016,
+  "name": "Alex Poythress",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Alex Poythress\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Alex+Poythress%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2016 NBA Draft Profile | Tyler Ulis - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEU0s4NHNMcmJYVkd0eXZmR1dEYUN3ZE14YUhqMElzMGROcUxneG9RVFd5cjdkb2s5T1N1YmtnQWtUVFF0Y1FWYkh5TmdPZ242cVBNRG9ydk1CRl9ITHJSRE1Gd05NLVBpWUpLMUd0Tlp2YWNs?oc=5",
+      "published_date": "2016-06-10",
+      "source": "NBA.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Keith Taylor: Father-son combos not a new trend at UK; Game times set for first three football games - Northern Kentucky Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYUNFUk1ydEJSdmZGaEwtTFVfdUpkZ1FwLWg5NXdDdC1KLWcxY2ZrTk1GeDRlLXBYZzU2QWZkN0Vma1ozQkJ1NWZuNE5iR1BoYTk1dzFYd2lOcm5IZ1E4R0hET0lwT0RpSWZ4Y3E3ZFdHSERoOGllb3pKQ2NhSXVJM2xoTHMxVXlqVC1wMkwyNzdxbGlvTjU1Mk5MR0JOME4yZDM0VlU0OUtCVTlMcC1RaGJPNUh3aGk5THN1U1NfcVMyUDh4a2RXUV9R?oc=5",
+      "published_date": "2016-06-08",
+      "source": "Northern Kentucky Tribune",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "The College Station Kid: Alex Caruso as an NBA prospect - TexAgs",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNemdMRlVVZmFGWmR6d29NNGN6Q0djTVM5WDVra1pKVi1GcGluVVZiX0xVSmFLSTRiT0FhTFpkUDdocG5nazNrV3ozSUZDQzVFWUt6aDM3emVDa3o3Vk9EM0l3OU9yVVdHbllHR3JXOTVHWUdaT21nZTZobzJ6cmdxUndxajFjUDJw?oc=5",
+      "published_date": "2016-04-25",
+      "source": "TexAgs",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "2fd7670a8ae948c93deae3b3fc9bf54ae0797fb9806f9c4094fb17bc2c7f412b",
+  "feature_eligible": false
+}

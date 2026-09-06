@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:08:22.142713+00:00",
+  "lane": "reports",
+  "pid": "P4294404a76",
+  "draft_year": 2018,
+  "name": "Drew Eubanks",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Drew Eubanks\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Drew+Eubanks%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft profile: Shai Gilgeous-Alexander could plug Suns' PG hole - Arizona Sports",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUDZJWFFyWXkwVkNpaW04VEQtQTc2LVA3cE80aDlMbXFEbmlTMUNFR1daRkZXWEFsOFhtLVpSS2RaOGZfWXhmd1RBb3F3YzYxRmR2bkJYY3kza0xaZWdObFA4dHJ2RE56NkNwLUNzd3FqTEhTZzloa3NMVjlDcHVtSmJTVS1QT0VJenZPR0syaFljOTlTa19wd040UkxhZw?oc=5",
+      "published_date": "2018-05-29",
+      "source": "Arizona Sports",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "cad6519358ef9e7a5059515b93288ed6b797796235d7e8733b5ed9673d1fcc50",
+  "feature_eligible": false
+}

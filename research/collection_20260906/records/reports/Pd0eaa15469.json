@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:53:06.656116+00:00",
+  "lane": "reports",
+  "pid": "Pd0eaa15469",
+  "draft_year": 2015,
+  "name": "Jarell Martin",
+  "draft_date": "2015-06-25",
+  "status": "ok",
+  "query": "\"Jarell Martin\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2014-07-01 before:2015-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Jarell+Martin%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2014-07-01+before%3A2015-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Full Freep NBA mock draft: Pistons take Johnson - Detroit Free Press",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdzVoQXh6bVprMU9JUU5rTGgzNF9pWXhYUGZEZW5Wb0ZDVmNXWlJ4SFFEQVBhZTNmTnp0cUFFT01VWUEyc1pUT2lSbDU5WDlsV2VYckhKUlN0OUhXNVFOMTY3VzA0YkR5U3huSHFtYVZYWXNCdk9adnVsX1p6WEdzOFJZbTVDYUxjdzEtaDBWWldjdTRqVnNfOGJ4Z29jZ2Fpbkh1enNzSEM1VFFpMEZlcEhKOGVNSm8?oc=5",
+      "published_date": "2015-06-24",
+      "source": "Detroit Free Press",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "0ebc51f42035f9a566f9a292e90c7888a8ce9267402eaf2e59e408f4680f825e",
+  "feature_eligible": false
+}

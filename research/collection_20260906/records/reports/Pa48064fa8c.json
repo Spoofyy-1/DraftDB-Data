@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:52:21.010829+00:00",
+  "lane": "reports",
+  "pid": "Pa48064fa8c",
+  "draft_year": 2015,
+  "name": "Brandon Ashley",
+  "draft_date": "2015-06-25",
+  "status": "ok",
+  "query": "\"Brandon Ashley\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2014-07-01 before:2015-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Brandon+Ashley%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2014-07-01+before%3A2015-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2015 Draft Profile | Brandon Ashley - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KRHBIemRnTG1TZkRjaXR3cVRQMWJ3NlkzeVVMckJZMDR6V01pUHpObDc1UG52b1hmTlR4NVM0T3d2ejZIRng5b1NTekQ3WW5QcGwwM1p5MlExZ0Njbm9ySlcwUkY5bzAxeXpNR1Q1OXFXV1NT?oc=5",
+      "published_date": "2015-06-04",
+      "source": "NBA.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "b81f695e8c379ec220852ea951afa374ecc925b82bb2a2f2ca8fe1a31922b611",
+  "feature_eligible": false
+}

@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:58:30.488172+00:00",
+  "lane": "reports",
+  "pid": "Pce6ddda209",
+  "draft_year": 2016,
+  "name": "Ron Baker",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Ron Baker\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Ron+Baker%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Shootaround: Wichita State senior stars Ron Baker, Fred VanVleet ready for final NCAA tournament run - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcmpsZXhxenlwT2owU2E4a2kyVHVWVkdFZ1dLM1ZHSmxZN3NDX2diWEdxbjhRYjJTdWtTOU5IT09tMTdUSmNBSkdlWkpLMGF0MGRpRTRna1lpb3Y3V3R5c2dLVmZoajlkNjVKaWI1LXBmakxyYk9sOUlUV2syc2hTSFY1V2JCZkVRRHVWOFdDWW9TNlltNnJSSG5hTnlBS2hwbFE?oc=5",
+      "published_date": "2016-02-26",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NCAA: Buddy named preseason third team All-American - Tribune242",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMW91RDFFWGotLXBTNUJkTzBDQVlMZE0xTHZMd2Q2b2lvNGR3ZTcyUFE5Z1RveEtWR2s4b01vN2h0RThoY2JfdDk2dkhXMnBSMFBQZ0xmSWR0VjdTcUMxWGNLeHlVMmZLVFV1OE0xNlh2eDRzWXhpMkZsdVpKdzR1LXN5bVVsWW5SZ1Bsd1pFRWhIV01DVkZuUjdrOA?oc=5",
+      "published_date": "2015-09-15",
+      "source": "Tribune242",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "e96cfe704eefa19919ddcb11ba8a3c43fa80514a4661003e4a0867253484066b",
+  "feature_eligible": false
+}

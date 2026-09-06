@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:05:57.791778+00:00",
+  "lane": "reports",
+  "pid": "Pd9320fa884",
+  "draft_year": 2017,
+  "name": "Milos Teodosic",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Milos Teodosic\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Milos+Teodosic%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Meet Milos Teodosic, 'the best international player not in the NBA' - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUC1qMHlraFg4MHd5b2dncy1NNjFydWg0ZjZ1TTZ5c2pzM3hwZDI0UTNNbFRwTGVDaE5zejhnN1JZa0tYWTlHMnExdzV5WWpQZkYxVzJTbnR1NU52WnZWZE5OR0M1enlzZUhyVmVVUDRGODM0cW9pcE83TXZaeG05MzlqVWxVbTYxWGpYczVyUVVZa3dVT3lHQms0SnViTkJyQWc4aFdlWQ?oc=5",
+      "published_date": "2016-10-18",
+      "source": "Yahoo Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "e7b09a26f3193c650270a4e490edfd553cb6dba912e54eb9bcf30b4d2163793f",
+  "feature_eligible": false
+}

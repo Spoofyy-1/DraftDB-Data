@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:59:19.611528+00:00",
+  "lane": "reports",
+  "pid": "Pe40a7b9665",
+  "draft_year": 2016,
+  "name": "Kyle Wiltjer",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Kyle Wiltjer\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Kyle+Wiltjer%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Taking a look at Kyle Wiltjer\u2019s draft profile - The Slipper Still Fits",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMnM2OTQzemo5eFZtMm9BUWpFdUwzZ29NZXh2QTlQVWp1RGFiaWdCWVdIVGM4VkM2MHRSZXM0ME11VkxrWktiSGdnZDdiTmd2Zk9FcXIxTWc3NkdIZVJ6cXFBN0hLTTllSUk1dEc2RFRMYVAxUWlibFVEbG9rTzFzMTdyZU95SldfTnVERnVUN0U?oc=5",
+      "published_date": "2016-06-21",
+      "source": "The Slipper Still Fits",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Gonzaga's Domantas Sabonis has rebound skills 'you can't teach' - Detroit Free Press",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSjI1OGZhOHZPc1BFNko2RlBWdEpiV3BSeUtvQWhRTnN4NGFvZ1RHMmx5RFFGSnpMVUtPMGVQNVBxOXRyNWxRUS00SmQ1U0swOUZ3TXFvQUpDWkZRWHlzazE5djA0cTdFUEhkYmVuLThvQmNoNEU4bXVJVzRibVRYSU9WTE1iZ2dYWm5OblZrNDJjM1A0Y0xMeWhVN0RkX1RUZTZrci1HbEVxY2J4SGRXUA?oc=5",
+      "published_date": "2016-05-28",
+      "source": "Detroit Free Press",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2016 NBA Draft Profile: Domantas Sabonis - The Slipper Still Fits",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeFhLeTFlSV9TcThnT29uRUFrWEs0aVl0NVJzNlQwdWNxQ0VMRklTMVFhZGFCWlJJQVNrVFd6S3VhQUU4U3hsMl9UODZBOUZTZkVjUnhRSGNmOU1NY09vY1FMb2FveTFydHRsNUdjclZDVlc0QnhzTjlYNF81ek1ockg5QlBQMkc1NUJMYVc1ZGt2cG9rZkE?oc=5",
+      "published_date": "2016-06-21",
+      "source": "The Slipper Still Fits",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NCAA: Buddy named preseason third team All-American - Tribune242",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMW91RDFFWGotLXBTNUJkTzBDQVlMZE0xTHZMd2Q2b2lvNGR3ZTcyUFE5Z1RveEtWR2s4b01vN2h0RThoY2JfdDk2dkhXMnBSMFBQZ0xmSWR0VjdTcUMxWGNLeHlVMmZLVFV1OE0xNlh2eDRzWXhpMkZsdVpKdzR1LXN5bVVsWW5SZ1Bsd1pFRWhIV01DVkZuUjdrOA?oc=5",
+      "published_date": "2015-09-15",
+      "source": "Tribune242",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "3d03b434b2ccd567124527aabbae27960e55bd5db2b1f7c44b4ed9a9bf9d83f5",
+  "feature_eligible": false
+}

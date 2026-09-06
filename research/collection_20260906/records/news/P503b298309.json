@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:51:29.229442+00:00",
+  "lane": "news",
+  "pid": "P503b298309",
+  "draft_year": 2018,
+  "name": "Dikembe Dixson",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Dikembe Dixson\" (draft OR scouting OR prospect OR basketball) after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Dikembe+Dixson%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Dikembe Dixson\u2019s leap of faith at UIC appears to be paying off - Chicago Tribune",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaC1Udkk5Yzlxb0MwVFRQRWlMMVFieXo2VEZOLUM2YXBFZktNMWgwSHdxZkx2bmxVcUVkY3B6NUxiNU5kZy10c0M2REM0U0JtT1VKWmEtaGxsUXZoZWd6U080Zmh4WGFLeVowSWxOQ2VvRzltTGZQNHpGdjlmeWZCbF9HMVg2M3RKX3BiNG1Ubkx3b0l2WXBWUEtILUFLRkFlWnVsRk9Vdw?oc=5",
+      "published_date": "2017-11-06",
+      "source": "Chicago Tribune",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Dikembe Dixson, Marcus Ottey help UIC rally for 70-65 win over IUPUI - Chicago Sun-Times",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX3lYaW9Sd3VrVEgxUC10MlI4OEloWUU4eTdCN0JkVTZ1SzVTcENzMG85ald5eGpmNFhvYUY2bGR0OV9qajBtc2I0c1U5allMNS12S0ZvUWRGUmpndkZyWnk2MDh6bGx3b1BPWjJ6b1lLbEZiZnJkWmpvM1JpRmZnS0VNQWpsQWZUSEdCLWJpSHZ5MmtSTFkyRXRrWDR0Y1V0MFRiTnVIc01nZkd4Rm5VaHNkZDE?oc=5",
+      "published_date": "2018-01-04",
+      "source": "Chicago Sun-Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Mullins Joins Men\u2019s Basketball Staff - Illinois State University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeklhQ25Bc00xTkIzRUw2NWEzQjU3RzlCWU1rdU9FeWtYcGtXbkkxSE5oWENQbVI1b3RidXUxQnE3MU5zdmF2Z2ZDWGlYeXV0RDJZWWlObTFqUHVFRUUyNTZSQ0pSX2FyQ1ZlemczMXBWWF8zWlNLYXF2cGtfNXdYd28zano?oc=5",
+      "published_date": "2017-08-11",
+      "source": "Illinois State University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "3862d8366a2c76f4bd94d8a1777219345fcb17910bff86a96300882b8e445a1a",
+  "feature_eligible": false
+}

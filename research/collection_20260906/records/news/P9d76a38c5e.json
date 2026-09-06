@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:53:56.646517+00:00",
+  "lane": "news",
+  "pid": "P9d76a38c5e",
+  "draft_year": 2018,
+  "name": "Yankuba Sima",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Yankuba Sima\" (draft OR scouting OR prospect OR basketball) after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Yankuba+Sima%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Tavarius Shine and Yankuba Sima Foregoing Final Years at OSU - Pistols Firing",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVVRodHV1clNVWVRWWC04aHRiRFRoR3Jrelg0bjQ3cDFHUG1XMm9IQXMzTXN3bTNrMEVLZ3NoYXFuTklzVnRydW9pazRNTHYxOWc2aGU3U1ZZQkdkSXl2bzhwYjVIek02MFlHVTdLOXpKVGo2U1lXY2lVNDJueVZ2UEo5VTBSNTZZZ0JBV0NNZFFJVlZ3bVE?oc=5",
+      "published_date": "2018-04-02",
+      "source": "Pistols Firing",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Basketball walk-on James Sosinski breaking tackles upon return to KU football - KU Sports",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMXZLWm03ek1kU3RmRldZT0diZGdTUTZDNmFDZWpOYkZhWDdiaVUxdFRQSlNIZGhuby1kc0ZoeXl3T00zQUtBQS0yYjFXVVktc2tRTHVDOUFoLUNTcmMzTF9vZXlVYm9oLXBLUHpnVDgtLVBmYWMzZUhJM2tPTGFERTQ4LW5zQjkyRzI0WTBNUzl4WE10RmJHMXFB?oc=5",
+      "published_date": "2018-04-09",
+      "source": "KU Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Hammonds living dream as pro basketball player - ocolly.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdm5uNi1SUlB4UlBzUTJ5M3V0MWl2TUdnZ3Y1N2JnV0JIZWlsZ2o2MEtCbW01Zng1NFdEcV9SWFZQLU16LXZEYmdURUpsOEt4T2JBcklfZlZ5ejgzNDNnZ0pieWRMZERKZDZ2QlVYenNpQXVaTUdHSll6TzZlZHBjbjloUXViOGljM1ZhUVRXbjVtN2R6RWFycmZpanBlTnphMnNsUVQ3c2lQOEdvWXJLMU8ybmhDVXBnN29LVVRlMU9Wd0lJ?oc=5",
+      "published_date": "2018-05-02",
+      "source": "ocolly.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Cowboys, Boynton land 6-foot-10 center Kentrevious Jones - The Oklahoman",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY201ZWlUSUZzNV82YUNVT2VBNF9tZFNEc1d1dllseWFmU3BtRWR3dlVmQ2tjYkl1UVd0ZXhiTXNXRDZ1a2tEeEx1SmRjYkR2N21ubV9yS3BHT19ibWo2LUZSOHRmQ2VYSUpRWGpZS1B4ZFkwNjdjcDRlaGtqVGVXNF9JV0Z4MlJEWGZMbVd4MkRJYndTUFl1b3FqcDdhUDR4VHVTWnc3d1BjVURGbUJRS0pTdmdnUkxnbzhRZTNVQmVuTmZpRHU4aU5HekhRS3c?oc=5",
+      "published_date": "2018-04-13",
+      "source": "The Oklahoman",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "49bf8c00d8b4805ccdeab6ca10a8009e63ab9d6a98d18aadbb0b248c62f9641d",
+  "feature_eligible": false
+}

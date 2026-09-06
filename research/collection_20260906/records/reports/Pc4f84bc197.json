@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:05:28.123066+00:00",
+  "lane": "reports",
+  "pid": "Pc4f84bc197",
+  "draft_year": 2017,
+  "name": "Semi Ojeleye",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Semi Ojeleye\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Semi+Ojeleye%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2017 Kid Reporter NBA Mock Draft - SI Kids",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpTWRLWDhSc1JPLXRfMW5hRmRTQkdzV0JKTVY1U3lvX0JEQ2c2MjZ4dWVWVFJUSm5GZmJGN0l6VXpHSllhSGJOZDhab0oyM1RRY3RtejVfbkRqVDM1MlkzZWM2TzJVU2Z5Rm9ENnNPX3BGeVVQcVpz?oc=5",
+      "published_date": "2017-06-21",
+      "source": "SI Kids",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Vince Ellis' 2017 NBA mock draft 2.0 - Detroit Free Press",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeHNvNWZEYW5OMGFKVm5vc0VBb3BBWlZzWmd1S3ZVeEdSWk9qcUx3eURvbmZSNkJER29xUzdMN0Vjd25lcHZlb1NodFlkdUVucnNzVGROQVdhRVdRdzVDbC05dDZ4eXhwaG5YUGJnUHJLREhqRy00R2t4Zm9oMWxIQjZ1TmI2OWc5eGFYMDJQaTJGcFZlcjI4V3JHc3dZY0M1TENzUkt6WXpkU0MzOWN4NzBYRQ?oc=5",
+      "published_date": "2017-06-21",
+      "source": "Detroit Free Press",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 3,
+  "response_sha256": "da4fa939f9f48e2723c52fd1d9940f3f580706ea9af6aa3db02f5c1f6aa37343",
+  "feature_eligible": false
+}

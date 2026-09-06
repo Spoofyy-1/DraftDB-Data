@@ -1,13 +1,11 @@
 {
   "status": "running",
-  "updated": 1788691825.9329941,
-  "attempted": 1488,
-  "existing": 1488,
+  "updated": 1788693048.9004009,
+  "attempted": 28,
+  "existing": 1851,
   "total": 2560,
-  "current": "P2b78ea748d",
+  "current": "P02bad696ed",
   "counts": {
-    "ok": 1160,
-    "empty": 326,
-    "error": 2
+    "ok": 28
   }
 }

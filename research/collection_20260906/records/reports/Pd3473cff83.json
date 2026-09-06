@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:53:09.919331+00:00",
+  "lane": "reports",
+  "pid": "Pd3473cff83",
+  "draft_year": 2015,
+  "name": "Robert Upshaw",
+  "draft_date": "2015-06-25",
+  "status": "ok",
+  "query": "\"Robert Upshaw\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2014-07-01 before:2015-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Robert+Upshaw%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2014-07-01+before%3A2015-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2015 Draft Prospect | Robert Upshaw - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nZmcxOFg5S2kxVVM4aUtob1FyZ0VmOUVzRWdNZUJFY0llLVBhM3dhSnYtWlFPRGNSVXVIRFhUamtLTU91NkpDUTBtT25fMF8zZDNwVFlYYTEwSGNuN0J5QnBDdXNSZU9IWEZIa21R?oc=5",
+      "published_date": "2015-06-01",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Mock Draft: Karl-Anthony Towns, Jahlil Okafor lead way on eve of big night - FOX Sports",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdHpZTGpUVkI4UjM2MjB2ZVlLMVJOdExIR0FRc3hsc0hkeG9XdlpDTGhRMDhrbk5wY2NjQl9rXzZNQVJMdGdjZHJDRFNPTjRtU0lDQnc5UFZ4bm5QZTNmLS1tMV95UGtNelRHMHIzQ2JyWHE4MWg3VEh0WXB5V0JIbkNURHJPUFhac05uY0ptWnkwaDVJU1lMakZhVERCWGt5RmdaQU53dThEamJWdjUzUm9taFfSAbQBQVVfeXFMTkoxLTBfd3JnOFNMa2VEYVR5cFNjd1B6TmdoMV9PbzVBTGJpZi0xTHFhVzNORGZBQ3pGTlZNaVQydzlhZUJ1cFg3QlNlUFZ0STlxNi1TM1FLSGxaaGhXcTBmRF9FYU5kZ3RrdEN3bHpnNGJGRk9CZ2xNb0tfRmRZXzRFNHhlenNjcTI2cnFvR3NpOFpoRzlXcVV1c0Q2dGRPZUdBdzFUYjQ0V0lQM3B0a05LME5G?oc=5",
+      "published_date": "2015-06-24",
+      "source": "FOX Sports",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2015 NBA mock draft: the Karl-Anthony Towns or Jahlil Okafor debate begins - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa2psM3NWX0wzZmVLdXVybXR0bk5lajBzVEFxZVRqS2g5T21reS10WE5XSmJmX0xjNmxGakNDQXJHaW9CcWJTVW1uWXlCV3gwQXg4ZVcyWTF4VjBPZ0JjMlJ5ZmlQdU04NHBrZ3BQVWhhVVFzeUlqYU1BQlhCdDJ5bWpOUU5FSEhacHpBaDIybHN6b2RSb21yM2NMcm0tbDJnSVlvVGRGYWtnQ3ZBTHFLR2xreThFcXRibGVj?oc=5",
+      "published_date": "2015-05-20",
+      "source": "The Guardian",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2015 NBA Mock Draft: Post-Lottery Projections for All 30 1st-Round Picks - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWWtjVUNxS1JXbGFNOXdpMEk0bkY2THQ2NG5ZWGRzZDlVUTdVSjMzYldKNFdabHZQcUVFdUdOckF6bTR6c3VIWVJyS2RXTzhYY0dzbFYyZU0tZWVra2JoZzFlelFPdEItMnRPd1ExeTJ1RjB1NzVKTE44cG9kWGZKYnBjME1TY01rM255Z05DRVI3WGpGam8yV1ltb0dneFM5RENCdGJNV3M4WTBYdXZCa3oyNUw5QQ?oc=5",
+      "published_date": "2015-05-19",
+      "source": "Bleacher Report",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "90b5f3997ede98bb2c6dfeee37021c619f6bb5a7f7ac86b63124e1621b58b2bc",
+  "feature_eligible": false
+}

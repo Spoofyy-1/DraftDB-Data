@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:55:07.779899+00:00",
+  "lane": "news",
+  "pid": "Pcdc9c2f7c5",
+  "draft_year": 2018,
+  "name": "Mike Amius",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Mike Amius\" (draft OR scouting OR prospect OR basketball) after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Mike+Amius%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA draft: Every player who has declared early for 2018 - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPekthYWxQR2JYalpZdThheFlPRDQxR2YxWG9rTUJKSjVuZEktQk5Vc2tFWlBEVmJZVHJ6UVFUNElFWW05b2tCNmpKbXljTTZkdFhVMFlBTkNXSllTc09OTU1CVXYycHJiOVY0dExEZnhMdDd6RXhBSlpDM29WU1lMb0dyRU9LMTUzY2Y5d2tvZlM?oc=5",
+      "published_date": "2018-04-24",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Desonta Bradford named Southern Conference Player of the Year - WCYB",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNmlDV2t5dE9YWnFZcWx3NWFVNG0yY29PMGNnS2xxdEV4X3h6alg1Tm5UUXNFRDlUbWtqVjRId2o3REQ1Y3BUMnVZcWhISFBNUEVlWkZoQm1WSlZrUkxOVW5MaktaeDVmbUlSUThrQmthU25OM3VfdEFMYjFSLTA3bkl2bVVLNTkxM0xFR3F0OWhvUkNMODNOeQ?oc=5",
+      "published_date": "2018-02-28",
+      "source": "WCYB",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "f16a7005ee181436d37cb563f9521a25efd32628cf180650914a7eab48a9c3e2",
+  "feature_eligible": false
+}

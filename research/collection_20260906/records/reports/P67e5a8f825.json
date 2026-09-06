@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:09:50.930845+00:00",
+  "lane": "reports",
+  "pid": "P67e5a8f825",
+  "draft_year": 2018,
+  "name": "Kenrich Williams",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Kenrich Williams\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Kenrich+Williams%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2018 NBA Draft: Kenrich Williams Scouting Report and Highlights - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQnlEY0tQNVp3V0VXQjA5a1NEaWhhcW1CYmZ1ZmE1Sl9BUmJVcWs2QnNMZGxTR1o0MFJFNG8tckltTy1EU3o1SEVsYkZJXzZ2ckpaRVdzVkFDaXlDTnpzallXaXZWa2hBQWlOZHZIaG5IVnFnSXNhQUV3cDRGaEhaMTNWN3lJY0R3djVJc1A1UjhYbHEwT2ZUWUpTRW9BbXZEOW5xV2drblhpcjhVQldoS2Q3NA?oc=5",
+      "published_date": "2018-06-17",
+      "source": "Sports Illustrated",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Kenrich Williams and the NBA Draft's Most Interesting Haircut - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQemRBTE4xb084eGY3N2lWMmUteTJ1TDVSamRiU2FpNnRKSVNiZFpLYTVBQlVubHlaTTdKc21ycFJfOUtIWC0yRXh4QlRuVWFpSE90RkxKTHFqZVctZWtZV2c4MU9fTkF6bmNEbmZtUi1fVnpRd2NLZDB5M3FOYTlzR0FDRFctcWZWT2lFQzJpVjNiLWdZYWtfaFBzSlZLQ3NFODAzTlpvSQ?oc=5",
+      "published_date": "2018-06-20",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2018 NBA pre-draft workouts: Who's going where - HoopsHype",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU2ZOdUFOY1F0LWw2VDBqaFgtUmNYa0JsRW44S1RVZkRrMG5HN0VILUJ4N0FQU01XcDFsbU14SktDVXNfSk8wdHRrOEFobnVfYWRTN1lhZnJIYUVvVzFPMlR2Q0d1OEc4b3pzQmM4a01TLW52NEtSSkY2QzRRS2RhV25UREhVOC1GMXRJU3huSTFUMW9jYkZycmhlQVI5MEh1MHJDUVREUkY3RUo5eUdYOEhBWG5yRG5j?oc=5",
+      "published_date": "2018-05-19",
+      "source": "HoopsHype",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2018 NBA Draft: Needs for All 30 Teams - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVldhM2VhODIxdEtvSlJBb0x4X3RaWHNfOGMwbzVINms3Ym1aa29qT09fZ0I5TW9NdkNvVXpxbGQ4Y2pxMnR4UlZtSm9yUnotQ3U1bDZDUlFzT2NzTFgwNzlWZXVMdWVPQ1o4MUhxb05jbXk3b2pOV29BaHlxaDJwM0RHSlJvQnZlUF8w?oc=5",
+      "published_date": "2018-06-15",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "2deafff5d684b5a7016528faf0b935a3dc8b7f62c73698644708d778f2ee6464",
+  "feature_eligible": false
+}

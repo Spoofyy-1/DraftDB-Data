@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:02:01.205023+00:00",
+  "lane": "reports",
+  "pid": "P4396f0664b",
+  "draft_year": 2017,
+  "name": "Isaiah Hicks",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Isaiah Hicks\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Isaiah+Hicks%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft Profile: Tony Bradley - Tar Heel Blog",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQb2pyNjY5dHI2TzduVG1CYTN2Rnc5bWg4RUFyTTQwUl9GTlppQU53V0lhVGJ3SFd2b2tKdHJyNVNTbnlkRjR3WTJtczZqcVowM3ZEcjBDQ05xNkN6dVRvU0Z5Z3MtVlc4SWFzbzdINDFmUmVpaTUzYUZRSUtfMUlyaDAtYXJJQWc3YmVWUWxYN3BWQ0Q4aE5XR1QxRVNVSkpOUVRwWXdtTGZDR1gxTWh1NzFtNmZVMk5CaDNLc0YyUXZkWWYwWnZXS3BJd2t6VGR3OEE?oc=5",
+      "published_date": "2017-06-21",
+      "source": "Tar Heel Blog",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "The Undefeated\u2019s NBA lottery mock draft - Andscape",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1SQkd0UXhLNVM2aU50VzhTZmNPVEtoNEtNdHVVRmh4LXFPem9rN0otdHhHMHpfajc5aUc5RXlWVmxtLWFlUWc0RjBXYnFNX1B1eE1JeWxGemVzREdRM1JoSjlZdw?oc=5",
+      "published_date": "2017-05-17",
+      "source": "Andscape",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "b60b1bb295fee4249c3a610f24b998bec3b37dde44676d1cc05517ca885ab5b5",
+  "feature_eligible": false
+}

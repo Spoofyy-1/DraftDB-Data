@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:53:22.978130+00:00",
+  "lane": "reports",
+  "pid": "Pe7f5f31a46",
+  "draft_year": 2015,
+  "name": "Richaun Holmes",
+  "draft_date": "2015-06-25",
+  "status": "ok",
+  "query": "\"Richaun Holmes\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2014-07-01 before:2015-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Richaun+Holmes%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2014-07-01+before%3A2015-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Richaun Holmes' journey from an unknown entity to NBA draft sleeper - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa0dNUlpLdzZoWXAxeVVlNVl6T0g4dkpQNTZfTU84VGo2d0JRWXJ4aGlLWG5jR0dOUUZWb3ZyS3piR2NLT3JHamtBdVJGQUJ3eUhWRnFOMnRDQU5SM1EzcHY2RFhoZ1RnTzI5dGp4a2s1VFNRSUdlZmdnWWlhSEpNRWl0cw?oc=5",
+      "published_date": "2015-06-10",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Fast-rising PG Cameron Payne on Pacers' draft radar - IndyStar",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbU8yNXJxMDdudGpqM0JHUk9GUW9QOThQdUdOc1U4T1ZuZjZYLVhGcTBwRW1LRTZjYi0zcWtTUkw2LTA4eTlSc1lJWTRhSGc2MjFTellNNHJoUVB6VEFJRmk5UFlxZmVNaGJHZmZ5a2NMc2xSV1J6di16WE1nUVFNTURLZTlaNFJiZmN5U0dVdkpuOVlyMmVTQUZlTE42UkxGR3hlZjk2LWxnOVZlaTNPTnR5dDR4ajlKT21WbjVheU9UbWx3aVg0M08tS0w?oc=5",
+      "published_date": "2015-05-17",
+      "source": "IndyStar",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "c8f6f305f45e3c0222731a6cc372f4ac72cc62cf8ae157de18a4d291c540aff1",
+  "feature_eligible": false
+}

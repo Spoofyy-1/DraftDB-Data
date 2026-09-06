@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:05:08.257379+00:00",
+  "lane": "reports",
+  "pid": "Pba3d18fabf",
+  "draft_year": 2017,
+  "name": "Mangok Mathiang",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Mangok Mathiang\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Mangok+Mathiang%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Mangok Mathiang 2017 NBA draft scouting report - courier-journal.com",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUzZQcXFUdXBJYXRJUEdSbU52RGFEYWRNR1NlektDMC1jdkJlY2hWNmVDWThudDhoZVZodGp1Tkt5d1Awb3QtUGxRRVdDV0RkMERxd0R4cnJ3bFJWWEkzMFEybTFGa0RYclJXdllvVGstMmNFVmhJNFVOUlRfeTBVQmNENlJKSklIcWN6WDJFUkNFM1A3bHp3bFQyRGhzVFRCanZ0WGdXRmpibGpsZFVYME1yYjlLMldZeW1XOVExNEZ3dzdCWUNIbGRWek0zRUlfR3dxUmQ1cGtjLUFjcnpHVDZXRFN0SnpSbVRNdzBmVWg5dnpjUk9v?oc=5",
+      "published_date": "2017-06-20",
+      "source": "courier-journal.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "a5ef5131812d21332a0435e8f48f3ec1768cd0967b731e077fd8bbb9d4225d5e",
+  "feature_eligible": false
+}

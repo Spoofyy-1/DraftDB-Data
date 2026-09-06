@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:54:30.257889+00:00",
+  "lane": "news",
+  "pid": "Pb2b564e4f2",
+  "draft_year": 2018,
+  "name": "Jordan Loyd",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Jordan Loyd\" (draft OR scouting OR prospect OR basketball) after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Jordan+Loyd%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Poland International Players - RealGM",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYlVzaFBuVlMxUzlXTFo3X0JxRTNHQ29FUzI4Smp4VEs1X3RKTXJTd2JsZGRINHl1cjZmcnBLWVN6T1lYbnFqZVRwaXZMS2ZGZmZCeXExdVgtQ1VaX1hxRFktdEhMRWhSaGtxVHJrbGtiMWZHUzZfZTlIV2w0b1NscjdHZjV3amc?oc=5",
+      "published_date": "2017-07-23",
+      "source": "RealGM",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Furman Players In The NBA - RealGM",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRWcyZS10SXdsYlJrU2pMWnB3MlVPaW85dS1BbFJ1VVBYby1TTTlKSUFXQ21CTUh2ZGZ6MzlnOHBTZVY0Z0hDOW5pUjR4TDRjeTVvaFVyTXoteW90SW9LNXE3anBUbnl2WG9jOGp4bFY2dFZJRzB0SHBaVHRMZkliQ3RYWjAyT2VaZ1hVQ3BTT2tqVEwyWUZj?oc=5",
+      "published_date": "2017-08-02",
+      "source": "RealGM",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "aa7ea230af834a61c9618d68ae19307a4fbe24d6d9d14a3453f2e725600cfba5",
+  "feature_eligible": false
+}

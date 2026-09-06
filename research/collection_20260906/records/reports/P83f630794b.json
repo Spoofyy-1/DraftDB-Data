@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:51:35.162451+00:00",
+  "lane": "reports",
+  "pid": "P83f630794b",
+  "draft_year": 2015,
+  "name": "J.P. Tokoto",
+  "draft_date": "2015-06-25",
+  "status": "ok",
+  "query": "\"J.P. Tokoto\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2014-07-01 before:2015-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22J.P.+Tokoto%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2014-07-01+before%3A2015-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "A man full of surprises, ex-Tar Heel J.P. Tokoto prepares for NBA draft - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOWNkbW1pTUV6amlGSTVKenJvOHJmOXNLc0VxZXNmdXVxS240TlV1emJqOGV5TFcxbjdJb1ZWTXpOYWlmQzk4M0g4NWxUVGhqMWVUTk5MY3BlOWx4TFVsQzRITEpobjl4NDhmWHR5ZkotSUExVnk1X1VGVkNWemJpU2M5M2FidXJwWEY0dzg4M3h2bnhRMDU3SXdTc29pTGRqMWFmNkMtdGR1TW14VzRDWA?oc=5",
+      "published_date": "2015-06-19",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Roy Williams says Tokoto's decision to declare was 'not the smartest' idea - sportingnews.com",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQTdTRFdMN0QyV2xlNmdzbGc4S0d6NUl0Qm56cklNYXpwMU1iY1o5VUJ2M0dqMjRqcF9wdlZnWTR2aS1QZUwtc3RZU0d2dC0tMG94SVRBdlFPR0ZqbXhhRVBteXF0c2pDRXFnNm9ZV1FnWHIyc2JkamdRU2FmU1k5X1RvYzdHejZXX21CTUZmN2ZsOUI1SFNmRF9XUUFRMHdQNGZ4NzlJeU9Ndlp2NDVXTTZyNVlmV21FWGVrdWVDbXh1NXBWVkhpNmljLWNjV3FoSU52Q2k2VFFyY1RFNkxjUUNQWVF1YkRxT1E?oc=5",
+      "published_date": "2015-06-19",
+      "source": "sportingnews.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Mock Draft: Karl-Anthony Towns, Jahlil Okafor lead way on eve of big night - FOX Sports",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdHpZTGpUVkI4UjM2MjB2ZVlLMVJOdExIR0FRc3hsc0hkeG9XdlpDTGhRMDhrbk5wY2NjQl9rXzZNQVJMdGdjZHJDRFNPTjRtU0lDQnc5UFZ4bm5QZTNmLS1tMV95UGtNelRHMHIzQ2JyWHE4MWg3VEh0WXB5V0JIbkNURHJPUFhac05uY0ptWnkwaDVJU1lMakZhVERCWGt5RmdaQU53dThEamJWdjUzUm9taFfSAbQBQVVfeXFMTkoxLTBfd3JnOFNMa2VEYVR5cFNjd1B6TmdoMV9PbzVBTGJpZi0xTHFhVzNORGZBQ3pGTlZNaVQydzlhZUJ1cFg3QlNlUFZ0STlxNi1TM1FLSGxaaGhXcTBmRF9FYU5kZ3RrdEN3bHpnNGJGRk9CZ2xNb0tfRmRZXzRFNHhlenNjcTI2cnFvR3NpOFpoRzlXcVV1c0Q2dGRPZUdBdzFUYjQ0V0lQM3B0a05LME5G?oc=5",
+      "published_date": "2015-06-24",
+      "source": "FOX Sports",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "29df55a7a409ae4a22c28ff7340e202394f08165efb38403e3931a4b19443366",
+  "feature_eligible": false
+}

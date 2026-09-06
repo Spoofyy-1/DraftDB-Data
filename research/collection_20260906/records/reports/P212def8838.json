@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:07:42.614854+00:00",
+  "lane": "reports",
+  "pid": "P212def8838",
+  "draft_year": 2018,
+  "name": "Brandon McCoy",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Brandon McCoy\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Brandon+McCoy%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Scouting Report & Video Breakdown: Jordan Poole - UM Hoops.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcUtQMHdGN1loQ09wUzVLSi1oeHpqRjlwRENpWXZHbHJ0OE1aSGR2clF4UU5EcmJIQ2dYVmdQQ2taUjV2UXppeTFCSlc2ZzFnNDJHbUVNR2JyaHlrSmpteHIzQW1GM0VkUDc2S2VvZ3NzQW8tVEoxeFd5bkZ6MGJNb3pR?oc=5",
+      "published_date": "2017-10-12",
+      "source": "UM Hoops.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "ESPN Mock Draft has Knicks taking Harlem native Mohamed Bamba - Zagsblog",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNREZNLUtNSmNoYVV6ampxa0VvbklQSFQxR1BTM0NHc2VULUo5WXZjNUtBZEJpRXJtYndHMXZEQS1wYnRZOVhWTmVUUVBLeTBEUkxfcldhWmRVekxoc0V2WGNCMThpUTY5Uno0MVkxOUJTalBHMTNOamJ6ZEhYaGhvODdJblpHR295TjlSa2dFMU1IOWY5UTRZTjBn?oc=5",
+      "published_date": "2017-08-15",
+      "source": "Zagsblog",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2018 NBA Mock Draft 7.1: Projecting All 60 Picks Post-Combine - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOUViZ3BDN0FkLWpDZEpMcjlpdEt2LXJSR0NPa2RRc1gtTUdPNUNDQlBtdmY1YjNzZDlUZzF0emEtdF9nUmc1N1JKbUJaN05tYUw4bjVGemp5S3QtSzZYMXZzd04zZ1NZZ2M4NFRnUDNDaUFoZ0hMcm4waHV5Vklfck1IcTNMTHZCWGluTHl3ajNMdjBJNnBySUdLRXNOWmdXMzNYalNmdU9helFzTldOMFlYYU5tNzFqaG92dDhwd1VyZw?oc=5",
+      "published_date": "2018-05-21",
+      "source": "Sports Illustrated",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2018 NBA pre-draft workouts: Who's going where - HoopsHype",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU2ZOdUFOY1F0LWw2VDBqaFgtUmNYa0JsRW44S1RVZkRrMG5HN0VILUJ4N0FQU01XcDFsbU14SktDVXNfSk8wdHRrOEFobnVfYWRTN1lhZnJIYUVvVzFPMlR2Q0d1OEc4b3pzQmM4a01TLW52NEtSSkY2QzRRS2RhV25UREhVOC1GMXRJU3huSTFUMW9jYkZycmhlQVI5MEh1MHJDUVREUkY3RUo5eUdYOEhBWG5yRG5j?oc=5",
+      "published_date": "2018-05-19",
+      "source": "HoopsHype",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "c8e0b950013f75d093b58032cfc8e383e581c8b35888cbeeeed3961c7ab972d8",
+  "feature_eligible": false
+}

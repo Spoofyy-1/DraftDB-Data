@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:04:42.117115+00:00",
+  "lane": "reports",
+  "pid": "Pa79b34cca8",
+  "draft_year": 2017,
+  "name": "Derrick White",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Derrick White\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Derrick+White%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft Profile: Derrick White - The Ralphie Report",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ0tabjJ5M2E2SDd2azZfWENtNGF5SmlzT0NVTFJSdEY4U1dUT24xTkZISGNFNk1hdWtUNzAwak9YS1BwdGNfTHdqVGZaUjQ3VWNkRWg4aFZIOVpld3Yya0I0emdYMmEtMHZLWjhJanh4c0MyRkJ6eXVXLXlJeXdETXgzYXFXRlZhOGNNWG4zUnFFWUdEdWxCNnNTQ2pTeE1jdVFQTmd1clRIelVBVUNGQWpiSjIweGJpR05jaA?oc=5",
+      "published_date": "2017-06-16",
+      "source": "The Ralphie Report",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft scouting report: Derrick White takes road less traveled to first-round consideration - sportingnews.com",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZTVxbkZDMXlyeVVJcnNkOGlhakV3bHlRZFZ6QjJpS1VKTE1Xckd6QURoZWtUWGFPZjJXaFdiN09XVjl3eS04ZnJPcjVScTJRSWo2VDhGZVJVdUgxNUhLNTVoVVQ4YmYxWVgzZjNWa3RWajhFblE3NGpNMktzTFdmVVZLY1dkbUpodlZmQ0Y3YUJXSDZOT3Bhd3hwUjVjUlp2QVJNc29iaTd6S21LMTBWZm5mSHpESTZ4VS02cWVGdlVfc3hEWDZBenBIS0dRUE45LVhidV9RU2pFTU52WG40VzNGeUdKSF9mTjlJRg?oc=5",
+      "published_date": "2017-06-21",
+      "source": "sportingnews.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Derrick White on upcoming draft that will dictate basketball future: \u201cI\u2019m just going to try to enjoy the day.\u201d - denverpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE14TkFnTmpoSVpNZXNXOENmemZFR3lTTVZoNU0zbGVvMTFXX3ZZRWVVUmNzOUFVMTB2Ul9ZWDIyaFhoMGoxWUJDMjNyaHpMQUtseDlFZmFCdmhRTGJRU291MlhLQzd2UnhwZlp5YTVucVdfSE5ONjBCek5R?oc=5",
+      "published_date": "2017-06-19",
+      "source": "denverpost.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2017 NBA Mock Draft: SLC Dunk Edition - SLC Dunk",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdTZuV2NsZXpTejFzOVhpQ2hiLVhUbmV3a1R4NGswWm5LUG9lYVVPZi1HOTlfM3VoOFV6eEVRajR5Y3JXVmxKbjdwdjFuT1RxLUstZ2ZPYlVkRld4OW11VnNxcU5KelVfYjB6eTc3Q0pzQzZvLUNRRjdKYnFpZ2s0dndxWno3T0piQUxsNXNaeHpwSEdHaVg1dGphMjNMbHRmWk9OMUlsUXp1ME4zV3RGSm8xTWxEM3JrYWx6dFMtUmZ5aG4tVjA1dHZ3?oc=5",
+      "published_date": "2017-06-20",
+      "source": "SLC Dunk",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 4,
+  "response_sha256": "aa6796033b8653b0ca3fdd81fc57ef7bdb14eae28350879adc8b9024129d29bb",
+  "feature_eligible": false
+}

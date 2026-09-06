@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T10:56:01.641533+00:00",
+  "lane": "news",
+  "pid": "Pefc5241948",
+  "draft_year": 2018,
+  "name": "Isaac Bonga",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Isaac Bonga\" (draft OR scouting OR prospect OR basketball) after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Isaac+Bonga%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft 2018 scouting report: Isaac Bonga - Peachtree Hoops",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZXRFZTV3OGF5NE95OXRncGVaeFZiNk85RUlkbnd0ZzNmdzZvNm5BS0c1Y0JuTGZxTGFQcnhiMlpQenltNXY4Q19rUGV3N2JuYW9jYW1keHkxS2ZOYXR4c0h6M0xtNUlmWVRiMTRpVEVSNUMyRk1aYm1oX0FSSE8tNU9CRE1mdzh6MUhqbFVQWTVHN0dpRTJaTDYzS09FdWYyeEU2Tk51U1hEcjZ4M21jcUxOUXFrWkN2d1JVNlMzaUxLNTlWZm1Gd2lfeFhLQXA5?oc=5",
+      "published_date": "2018-05-02",
+      "source": "Peachtree Hoops",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2018 NBA Draft: Issac Bonga Scouting Report and Highlights - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVGN0SDNfamxRMHJEM244TGxJRDd5ay15MmdxQWMyY216dU9uSkZQTTY1NUxnLVJZbENSaDV5NUE1Nk9LRTMtejFOYVk2UEVIREZHS1ZUTFNiV2IwWF9GS1VmLWhRNmNGS3l6ZUhwSUZnZ0ZhQl81dUIwUHpLMEplakZIZFA5U3o1Q3VteWRDOGk5SXkyMjlyZkxLNDV6V1JQT09IejFNYUl5Z0hk?oc=5",
+      "published_date": "2018-06-17",
+      "source": "Sports Illustrated",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "ESPN Mock Draft has Knicks taking Harlem native Mohamed Bamba - Zagsblog",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNREZNLUtNSmNoYVV6ampxa0VvbklQSFQxR1BTM0NHc2VULUo5WXZjNUtBZEJpRXJtYndHMXZEQS1wYnRZOVhWTmVUUVBLeTBEUkxfcldhWmRVekxoc0V2WGNCMThpUTY5Uno0MVkxOUJTalBHMTNOamJ6ZEhYaGhvODdJblpHR295TjlSa2dFMU1IOWY5UTRZTjBn?oc=5",
+      "published_date": "2017-08-15",
+      "source": "Zagsblog",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2026-2027 Panathinaikos Players - RealGM",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRG5leEQzSG1jcXFwblZMNGVmeUxBUnV0ZExOUHczNjdBMS1US0NBVVo0RGlhUkJfSEhFbXM4V1hmSGZIbW5DdlFZSERwYTlmWTVacmhXM0t3dDRBN1Q3MlVWYnZoVHJzZkFfZG1pZjdEV3JQQnVvaHNGV3FEYjUwVm1rRERTT1A2TTE0Ykd4N3lPN21GNWZ3?oc=5",
+      "published_date": "2017-07-19",
+      "source": "RealGM",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "LeBron James signs four-year deal with Los Angeles Lakers - MARCA",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUDZnSGEyVS1aekptUThBcEFwNkNoMzRoaHVUUjlnRVg5UWJNR054YkhyMFVVdGx4VktHX25kX2JxWmVDZWVNUVdZZ1RfSVNNWUJmM0dWQWRRU3ZBWDBWS1N4V1g4S3RBZ1ZRVUtGbk9xSTA2bVQ5dUhwZWRSOVhFZC1rQdIBgwFBVV95cUxPNEZDS3VYM052UlptMVFleWNRX05xQkxManpvWEh3ckl6dnVONHp2M1VtbGRBNmZwYWMyUV9BQlBOa1FWX0dTYWllQnA5UEozOTQzMjIxZVB5UVp3M2d4TkowbXA2WFZkMlJ0SGN0QWFOaUZlMWtsMzk2aTVCYkltTjJ5WQ?oc=5",
+      "published_date": "2018-02-07",
+      "source": "MARCA",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 5,
+  "response_sha256": "037eccca8d4536563ed9e48af198765304d68fc166c663641284794c7c778435",
+  "feature_eligible": false
+}

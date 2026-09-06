@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:03:45.931184+00:00",
+  "lane": "reports",
+  "pid": "P86ef73625c",
+  "draft_year": 2017,
+  "name": "Dwayne Bacon",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Dwayne Bacon\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Dwayne+Bacon%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Dwayne Bacon NBA Pro Day Workout Video - draftexpress.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb05RVFo2aHdwZnYtTENnNHIyNHFvQ3ZqRWI5eV9CVjFoTmFmZGVYeDh1N0FpWWcyUml2dW9NaERfZHRMVFk0RkNmcEljOHZxOTgzOENFc0hwVmxZSnFiVXpONnAxWkIzb241SmdkTEE5T3d0YjdfbW0tdXNSUzkzVmVDR0JLVUXSAYwBQVVfeXFMUGs1NEFnN2dnZEtYZVpOdTZQR1p3WXBNWHhtLVRSeEsyMlNEWlJETHJ1bTlfeGFfZ2FlbmdUTTRZTExYTW10M2JrWWtTU01sWmstZ0MzRXN4ZVRpOXpycFNJeVVvQmhrOGlLa3MzYWV4YWtnRHJrWnV3cEpXRU42RjlKVV9BTk5pejd4aDg?oc=5",
+      "published_date": "2017-06-07",
+      "source": "draftexpress.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2017 NBA Mock Draft 1.0: Top 30 Prospects - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSFZOdkRIRTF6bWcySjU5Z1IwemhRUDl3YUVYWXB0Q1ZUaTJ2Mk04SGFnMjVKbDNkOFE1OXZuV0h4R0tjVG91ZFlKM0V5S0tHcDg3LVRSUmdMdGpkUnJ4NmFhVXJvWUZkVWxJNVNLNVdYNldFbnRBbFpCZzFCOU9LSnY3QXZjaDNNRllTaGg0NlNacnNXS1M4aQ?oc=5",
+      "published_date": "2017-01-27",
+      "source": "Sports Illustrated",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2017 NBA Mock Draft: Rumors And All 60 Picks - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa3Rwd2gyeXV3bzVlNFVuaU5hQ2ZBaEp2VExMb01uaU54MWYya0VQdVkzSDlyMkRoOUFpUTRieWg1Y0lGTzNkTDFGdkRwc0k4Qlc4Snp2Mi15WlpFVEdkRk85QlROb1I0YVhqLURaNVdJN1M3cktJWFVqSV9KZXFzSWQyWWktVk1ZcXlsY0tzREpkX0JoVlE?oc=5",
+      "published_date": "2017-06-20",
+      "source": "Sports Illustrated",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "d727c5276753e98e94a07c2f85540e828460d5e2aeb9d1892e5595d3ea38f064",
+  "feature_eligible": false
+}

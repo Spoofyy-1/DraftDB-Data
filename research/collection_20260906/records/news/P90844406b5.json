@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:01:27.569965+00:00",
+  "lane": "news",
+  "pid": "P90844406b5",
+  "draft_year": 2019,
+  "name": "Nicolo Melli",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Nicolo Melli\" (draft OR scouting OR prospect OR basketball) after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Nicolo+Melli%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Nicolo Melli shines with 19 points against Baskonia - Eurohoops",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTVpaOVVpcXZlaDB3anFNWTNrZVJtY05BUFF3T1NObS1MTmhPOTVSWTVSdGNjNGI0OS02eVNNRExYNC1OWEk5dVY0ejBhdTI2emJnSGpSTWh5QlZOZmFrbnpUZTNfVFhBdWhFenI3OGVlYXdmYXJnUEg3WEg5dEFXN2JvYnBRb3lJNDlrSWxpTHhRNkVEa2Y2MWhHWmN6SGl2?oc=5",
+      "published_date": "2019-01-04",
+      "source": "Eurohoops",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Nicolo Melli has BSL career-high in Fenerbahce\u2019s Game 1 rout over Tofas Bursa - Eurohoops",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYUdyOUJQdnRSYWt1MDlNenM1VkVIWmdSWE01S2lhM3AwV1dHTk1UQy1BSGNNd3pxbWxMQVFlUVJzUHZKOWVOdW5MTzZJRVBDX2JTb3ZKV0NUZnV2YlktZGZXUlhrMjZSNTExQmhwTkhkU096UWpVdEliNmtXaGlQMUpkWnU5YzQwQUZuV01pR2RzdGNDM3pFeHlsUlMxS2pUQ1hHM2JTT1ViTFFic3V5ZFg1ZzBSY2pw?oc=5",
+      "published_date": "2019-06-01",
+      "source": "Eurohoops",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "EuroLeague Top 100 Players of 2018-2019 (11-20) - Eurohoops",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQV9nNWhNcEpMaGxpUTB4alU2UmpGMWlNdUgtSExSMmlhSFdHWEZ1V0JMMTdEcUJIRFJRT3dWQXFXYUpPR2dicnlrY2gzMTJiblluZFU4UWJ5cWZkNTY5cUFueWxtZHdhM3BLS3NYN1hndVYxaENSZ1lIY2lUYmZuTHl4YjYyNmM0Y1BKMXpVTW5fMnlsSTZj?oc=5",
+      "published_date": "2018-10-08",
+      "source": "Eurohoops",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "042f06cdb9cbb4ef8859d0f894dd7cc707779fa3bf4f1e86f5a091df840b5fe1",
+  "feature_eligible": false
+}

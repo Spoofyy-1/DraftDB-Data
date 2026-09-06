@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T11:03:42.705354+00:00",
+  "lane": "reports",
+  "pid": "P80ec619552",
+  "draft_year": 2017,
+  "name": "James Webb III",
+  "draft_date": "2017-06-22",
+  "status": "empty",
+  "query": "\"James Webb III\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22James+Webb+III%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "9ce9412d325e1dd4b24076553cb00e02f43bcac8ac97b5c724440d8cafd6dc05",
+  "feature_eligible": false
+}

@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:07:19.675392+00:00",
+  "lane": "reports",
+  "pid": "P1597c7370a",
+  "draft_year": 2018,
+  "name": "Devon Hall",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Devon Hall\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Devon+Hall%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "With Draft Coming Thursday, Devon Hall Working to Raise NBA Stock - UVA Today",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeF9vUkpkbVJDcmNpMm5qcWxrRlNNeGJJMXl2UXBHNkp3V2tZSldQU3F3TWtkbmRlUW1xUDhPSkJNdUp2YXlKNmMxOTNXd2xLa3czSGJNZFhOQnlWM1ZPb2JWSWlHX19ZdVRQc0wtWU1YZU1nN0M2SkxYNWFQUUZFMERIbHJRaEtQS2xnTUpfcTVieUR0?oc=5",
+      "published_date": "2018-06-19",
+      "source": "UVA Today",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2018 NBA pre-draft workouts: Who's going where - HoopsHype",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU2ZOdUFOY1F0LWw2VDBqaFgtUmNYa0JsRW44S1RVZkRrMG5HN0VILUJ4N0FQU01XcDFsbU14SktDVXNfSk8wdHRrOEFobnVfYWRTN1lhZnJIYUVvVzFPMlR2Q0d1OEc4b3pzQmM4a01TLW52NEtSSkY2QzRRS2RhV25UREhVOC1GMXRJU3huSTFUMW9jYkZycmhlQVI5MEh1MHJDUVREUkY3RUo5eUdYOEhBWG5yRG5j?oc=5",
+      "published_date": "2018-05-19",
+      "source": "HoopsHype",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 2,
+  "response_sha256": "440d78c0f01bf6e3850b879103639c3b3ad2c78d9392c80940e44706fce1c0b9",
+  "feature_eligible": false
+}

@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:04:05.504633+00:00",
+  "lane": "reports",
+  "pid": "P964dd1e5f4",
+  "draft_year": 2017,
+  "name": "Jonah Bolden",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Jonah Bolden\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Jonah+Bolden%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Vince Ellis' 2017 NBA mock draft 2.0 - Detroit Free Press",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeHNvNWZEYW5OMGFKVm5vc0VBb3BBWlZzWmd1S3ZVeEdSWk9qcUx3eURvbmZSNkJER29xUzdMN0Vjd25lcHZlb1NodFlkdUVucnNzVGROQVdhRVdRdzVDbC05dDZ4eXhwaG5YUGJnUHJLREhqRy00R2t4Zm9oMWxIQjZ1TmI2OWc5eGFYMDJQaTJGcFZlcjI4V3JHc3dZY0M1TENzUkt6WXpkU0MzOWN4NzBYRQ?oc=5",
+      "published_date": "2017-06-21",
+      "source": "Detroit Free Press",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "1b000c93a31fa5b9fb4fd5be1e543ed812936dc3959681babfc34ebdba80d3e6",
+  "feature_eligible": false
+}

@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:00:12.433906+00:00",
+  "lane": "reports",
+  "pid": "P10187f6389",
+  "draft_year": 2017,
+  "name": "Sindarius Thornwell",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Sindarius Thornwell\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Sindarius+Thornwell%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "GOLDSTEIN: Meet Sindarius Thornwell, the guy Marquette has to stop - Marquette Wire",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYXdhNnRFU3dsNFY0OUlZQ1JvcG9pcmRJRXMwNGdXbjlETzhjNE5kYzNlbXZ3akVMRFc5ZzJ5blE4NGtSTV9wMXJ4cDZ0VklvdWRULXpGVHF6cUdZV2NXRnFmUTA1Q1JSTGhTRjdSdzg1dXNFY3pKdjI4Y0xabjlub2dzZFdfVlEtVm5xUDlwTmg2THBPVFB4V21hLUJKM0VRY0Q5dkVHb3VJQQ?oc=5",
+      "published_date": "2017-03-14",
+      "source": "Marquette Wire",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "757ce3915265812f0dd28b9c017bcb478d4c6ba9d3f4336f86aa99bd94e34b2f",
+  "feature_eligible": false
+}

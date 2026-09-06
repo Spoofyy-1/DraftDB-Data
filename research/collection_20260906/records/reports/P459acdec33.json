@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:02:04.447377+00:00",
+  "lane": "reports",
+  "pid": "P459acdec33",
+  "draft_year": 2017,
+  "name": "D.J. Wilson",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"D.J. Wilson\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22D.J.+Wilson%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Vince Ellis' 2017 NBA mock draft 1.0 - Detroit Free Press",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWjVrVmNiSDV5bEVteTFHa0loVnctNW5rQWlYTGlxeDFUYW9jQUxITXI5cHFCVkltSWIxc2VKTUc4SXVwczZMb2RMeWtpWjdQMGZsazlZLUxwaUUyQWtEdUI1bzkwY2FDZnplOHByQ0l2cFpjUjViVmpzdHctcTg1S0FhMVdBbV9PUnBJYjBZYkJyYjhEekVoV2pZVWJxNjhaSjc2aWNUMGp1X3FraEVpYlV0MA?oc=5",
+      "published_date": "2017-06-09",
+      "source": "Detroit Free Press",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2017 Kid Reporter NBA Mock Draft - SI Kids",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpTWRLWDhSc1JPLXRfMW5hRmRTQkdzV0JKTVY1U3lvX0JEQ2c2MjZ4dWVWVFJUSm5GZmJGN0l6VXpHSllhSGJOZDhab0oyM1RRY3RtejVfbkRqVDM1MlkzZWM2TzJVU2Z5Rm9ENnNPX3BGeVVQcVpz?oc=5",
+      "published_date": "2017-06-21",
+      "source": "SI Kids",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2017 NBA Mock Draft: Rumors And All 60 Picks - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa3Rwd2gyeXV3bzVlNFVuaU5hQ2ZBaEp2VExMb01uaU54MWYya0VQdVkzSDlyMkRoOUFpUTRieWg1Y0lGTzNkTDFGdkRwc0k4Qlc4Snp2Mi15WlpFVEdkRk85QlROb1I0YVhqLURaNVdJN1M3cktJWFVqSV9KZXFzSWQyWWktVk1ZcXlsY0tzREpkX0JoVlE?oc=5",
+      "published_date": "2017-06-20",
+      "source": "Sports Illustrated",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Michigan's D.J. Wilson will stay in 2017 NBA draft, end college career - Detroit Free Press",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMHVPdHY3VVYwYzFkRnhGcHc1V0Fpa1lqc0VyUVdmMnVjV1E0eGEzOC11ZFBfUDdtLXpZdzRPZHV6V0NmY0o3ZlMwa0luNHZBOVdEQXZTVEFQTkJWbFVVTURFTk80SnlXNGdsb2xmNmstd3AzS1o3bS1Kc2JMQ1pHUlU2VDAzdTVYV1FUWk1wU2dzekVqMVJyem1fblg1OWU1UHhGWDIya2hoVjBrT3Rma3BaR3dVb0VnS0luQ2lmMlJyMms?oc=5",
+      "published_date": "2017-05-24",
+      "source": "Detroit Free Press",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 4,
+  "response_sha256": "c9182cf9a944c36bf84f38becb31d304e322e21ac494aba14cccd979c106ec37",
+  "feature_eligible": false
+}

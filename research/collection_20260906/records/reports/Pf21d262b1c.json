@@ -1,0 +1,64 @@
+{
+  "collected_at": "2026-09-06T10:53:52.518825+00:00",
+  "lane": "reports",
+  "pid": "Pf21d262b1c",
+  "draft_year": 2015,
+  "name": "Dakari Johnson",
+  "draft_date": "2015-06-25",
+  "status": "ok",
+  "query": "\"Dakari Johnson\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2014-07-01 before:2015-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Dakari+Johnson%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2014-07-01+before%3A2015-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Draft Profile: Dakari Johnson - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zY2ZkRllnRV9zTW9iU0x5dlpuckcxbUFVMEpoNlBrN2lyTF9OamswamNMZGIzb0RYZWxqY0FIcWlhZkhzRmxtaDY1ZmxtOEF3c2tmaXE0MlZxZjk5bXRNN2dZQVdXdVk?oc=5",
+      "published_date": "2015-06-09",
+      "source": "NBA.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "From goofball to NBA prospect, Dakari Johnson is ready for the next level - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EZVdCRFBjWUxaN2dQZzNrajVTMHNuVHBnNUVjTFd3T01kMkMzWlg3RlJjcllfM2VRME1QLUJiY1ItNFVFeVU5dlpZTlJqTVY5X1lqZG1NSTllVnlhbTR6bTNQNF9MVEYwbUpvZHZKTVhPRmsxV0Rj?oc=5",
+      "published_date": "2015-06-19",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2015 Draft Prospect | Dakari Johnson - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81VnpSQktTcVBjQzVua1NnV1NqcEQ5eVFibDg4eVpPZDJ0MWVxb3hmY1dxX3VxTFF1R3daUHdQR3o0c1c1SEZaYTR0TnZXTlh2MWZCZ18wWWU2R2RrSVlzdkoycTJ3S0VYOHN5ZE5qaw?oc=5",
+      "published_date": "2015-06-01",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "ESPN mock draft: Pistons take Mario Hezonja at No. 8 - The Detroit News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbTVDMzJ2WjdDajkxcG14SVJpaloxUHFyRTNsSjl0ZkVqRUhGVERWdjBGQTM0dkVzRTFsV1VDcXRHOGNkVFl0R1Y3TkRZemhBY0xrazJtUzJHcWtyenNrSTFrd0Z1ZmlXTmF3S3hoTzl5M2F2dFlPbnNCNnkta3J6OHhrdFQ3Rzc3MVFnZ2JMbDBhYTBwM3RsN3haeUtNMENWZ05fcnloVTlqbG51TTVtalNEZFp1WDA?oc=5",
+      "published_date": "2015-05-06",
+      "source": "The Detroit News",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Devin Booker Cracks Top Ten in Latest Mock Draft - Nation of Blue",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQU5fTTh0YS1fY2dFVDcwbDVIWloydlROSDhFbnpnUmFuX2pWOEJaX0JBc292bkNyWERrQ3EwX2RVb0JJZ1c0YnBQSzZLaDJkSmFTbWtORUhhSklKM19GUUhNVDVMRGhlV0RqNDNidGs2Mml6TEkxUkczSmh2Tmo2bUVlSDc?oc=5",
+      "published_date": "2015-06-10",
+      "source": "Nation of Blue",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2015 Draft Profile | Willie Cauley-Stein - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IMjZ0Q2lETlgtTzMtYjhXZS0wbG9RbU0ySTl0eHYwaTdxVDU2R1RtM19LN0wzTlMxcnoyeGFqOW5qRmRQRkhKRm44TVdnZVk5cV8yYmVRZUFWdzRicnlxT2lEUHRtSEdtRmhBQlU4aDhJaURxVklYeWRvbw?oc=5",
+      "published_date": "2015-06-10",
+      "source": "NBA.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "a18da96ba72ab6858a44140822d20925bd18a340911611144b6c605fbd4b0095",
+  "feature_eligible": false
+}

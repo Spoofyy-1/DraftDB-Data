@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:05:18.338686+00:00",
+  "lane": "reports",
+  "pid": "Pbe8ddcfedd",
+  "draft_year": 2017,
+  "name": "Chance Comanche",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Chance Comanche\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Chance+Comanche%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "'More seasoned' Chance Comanche has learned from Arizona Wildcats' bigs - azcentral.com and The Arizona Republic",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYUFydWc3ajY1a0dHQlJvNER3SzVfVG1BcnNzc3ZyejNacFJ2QTlVN2d5Z2FzRHdaUV9scFVJU0l2YVhnQ3p1ODZDRlozN0xscEhVN3JxZmdITHBvbVNjNUF3cXJuZmp3bTUtN0hfNjFINU1JaTU5bWJqTV9JZDlSZXg3WDRjUUdwMnNYLTc3a09QS1p0cExSQlFua3pSUlhOLVVtODdfY1VqLXFQN0FDQ3ZvclBvWWZvMGQ4b0ZFVk9SQ1dHNDRleGlSR3g?oc=5",
+      "published_date": "2017-02-15",
+      "source": "azcentral.com and The Arizona Republic",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Empire of the Suns NBA Draft: Pre-NCAA Tournament edition mock - Arizona Sports",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSk5OLXZ3TjFsaG9ZelU1cEszbHFvWXZZUzk5R0ZKMVFvYU9kcnl3WGRWLXZPdWZxOWRJSkpZQWlOeTg4NFMyeGhlbE1pX3hacmZUblZQaE5FTWxmNGZ0TzZuaXo2R0k2SWwxMGpYaDJTZm1LTno4Ty0xZ3JwVVk3RHJNZ3NORUViNS1zN3Y1U2I?oc=5",
+      "published_date": "2017-03-16",
+      "source": "Arizona Sports",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "2f0c5c18d9a0e1e4e0fbe534cef7d726ea3aa3bda11c2487e8c2bf50053097cc",
+  "feature_eligible": false
+}

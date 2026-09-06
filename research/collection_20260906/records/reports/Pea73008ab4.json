@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:53:26.217592+00:00",
+  "lane": "reports",
+  "pid": "Pea73008ab4",
+  "draft_year": 2015,
+  "name": "Pat Connaughton",
+  "draft_date": "2015-06-25",
+  "status": "ok",
+  "query": "\"Pat Connaughton\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2014-07-01 before:2015-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Pat+Connaughton%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2014-07-01+before%3A2015-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Pat Connaughton Cementing Legacy as One of Notre Dame's All-Time Greats - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWGZqdE1pdDdnNFAyXzVqZWlnWE1VeWFQS2tFM0g2cUwxa2ZHbjNMaWZYUWFSdlZqdGd1SlpFVTVyck00dU9jOU95NExCZW1PTUFoeG1CSzZKcG5tSk5sRUJfbWZwSnZVRDJ2ZVhCMTRTUzI1dS1pUzlidlRjYUFYRnl2c3VlYW53WFB0Mi1jckdxRUI3dHgyTFBlODlDM01Zc2lPMDgtd0l2SVNWV3d4Q1Bwaks?oc=5",
+      "published_date": "2015-03-24",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Notre Dame guard Pat Connaughton is also an Orioles prospect with a 95-mph fastball - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRVRRU0RTZ1k1YVlpS1M0NVdyMzRXdWJMNUdueS1yUWkxME1ZR09KWUk1LThxUTRsb05xTzNIZmZibUl6c0hQTmZzRm9UcjEyOUIyNm56UWZ5NkV2YTFIQjFMNlRHbGhiZ041cDFRY3h2WkNUSmdHUmI2QTRHZ0dVV3hXMDJUVmtUUWZEaWI4aTFHd2NHbklfMWZoLXFRSXZtZHBqX2NTd0pGc0pha2prZXUwazQ0QzJ6MWJF?oc=5",
+      "published_date": "2015-03-27",
+      "source": "USA Today",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "6ee1e02db37380c9ff7312ec65bc3383932592e516b8a73ad8a8978e653ff445",
+  "feature_eligible": false
+}

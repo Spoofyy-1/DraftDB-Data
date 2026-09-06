@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:57:34.877787+00:00",
+  "lane": "reports",
+  "pid": "Pa7cb2c7354",
+  "draft_year": 2016,
+  "name": "Wayne Selden",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Wayne Selden\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Wayne+Selden%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Wayne Selden Jr.'s proud uncle is now wearing an even bigger, more fantastic clock - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWkxrdTgyYVBfVk5ZaW5qUlYzRVlZU2xiYzJ0Ym9nODNKUG5NdG1QNnd2dldpT3ZSaXJnZnBYZTF6N1liM05MWHZ3MW9HbWoyRXJLdFM0RkhEZDlGc212UE9oN1VFa2tOSEdnRmpYQ0g3a2Q0V0xhVlh4M1l3M25sWWlRXzJZei12TDRlamFtaVRaS096WS1wc3VGUmpfa2ZGQ0NLR01PVmNmVFQ2am1WSk53cGVaemFJVlBNXy0yNUJtSE55Q3VBMzBSck0wTFNQQ0E?oc=5",
+      "published_date": "2016-03-12",
+      "source": "USA Today",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NCAA: Buddy named preseason third team All-American - Tribune242",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMW91RDFFWGotLXBTNUJkTzBDQVlMZE0xTHZMd2Q2b2lvNGR3ZTcyUFE5Z1RveEtWR2s4b01vN2h0RThoY2JfdDk2dkhXMnBSMFBQZ0xmSWR0VjdTcUMxWGNLeHlVMmZLVFV1OE0xNlh2eDRzWXhpMkZsdVpKdzR1LXN5bVVsWW5SZ1Bsd1pFRWhIV01DVkZuUjdrOA?oc=5",
+      "published_date": "2015-09-15",
+      "source": "Tribune242",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "6eaee993dbb33776e4baffb3bab18208782ea23faebcca9cff19d69ea524eb35",
+  "feature_eligible": false
+}

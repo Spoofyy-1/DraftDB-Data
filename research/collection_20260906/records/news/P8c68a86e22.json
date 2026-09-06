@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:53:20.010926+00:00",
+  "lane": "news",
+  "pid": "P8c68a86e22",
+  "draft_year": 2018,
+  "name": "Cameron Reynolds",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Cameron Reynolds\" (draft OR scouting OR prospect OR basketball) after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Cameron+Reynolds%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Preview: Experience breeds confidence for men\u2019s basketball team - tulanehullabaloo.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zcXpXNHctVGNyanl0U1JJbmt4Y29NUHF2Z1FhNzdmU3BLTTBnc2t3R1p1UUQtYWx3QVN2cFVpUl9PMUlrbFQyQ0trcS1kMUhxYXB1OTItQXB2RkpUNUE4MXJzdXVYWG5DRUtPbGxfbWU?oc=5",
+      "published_date": "2017-10-04",
+      "source": "tulanehullabaloo.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Tulane Athletics Honors Student-Athletes at Green Globe Awards - Tulane University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSFdrelZrcnYxRXRmNWZQcGJmUm1DbkFrUDRabWl6QXcza2FiUWRxQ1l6Y0plVFFESDFQYldyUmFaM2NOWFJjM0pTZlFoTW1vcW1fNUZVVWszcXNIUjVQaHNQeFlKVnpOZlEtTEFTb2xmQlRlYTB0elU3dE5JWFBhc3dKN01tLXBfVjFwMHl4bkc3Z0g1ZFFHZjZ1eGRxLUl4eDlCSmlvOGRpYzRfU2lXdWd6TQ?oc=5",
+      "published_date": "2018-04-29",
+      "source": "Tulane University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2018 NBA pre-draft workouts: Who's going where - HoopsHype",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU2ZOdUFOY1F0LWw2VDBqaFgtUmNYa0JsRW44S1RVZkRrMG5HN0VILUJ4N0FQU01XcDFsbU14SktDVXNfSk8wdHRrOEFobnVfYWRTN1lhZnJIYUVvVzFPMlR2Q0d1OEc4b3pzQmM4a01TLW52NEtSSkY2QzRRS2RhV25UREhVOC1GMXRJU3huSTFUMW9jYkZycmhlQVI5MEh1MHJDUVREUkY3RUo5eUdYOEhBWG5yRG5j?oc=5",
+      "published_date": "2018-05-19",
+      "source": "HoopsHype",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "636a061c9a469c4a3266e4f79267fd15fa685ae39da63fba865a0a634c05e3a6",
+  "feature_eligible": false
+}

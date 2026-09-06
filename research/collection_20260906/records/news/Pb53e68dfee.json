@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:54:33.551292+00:00",
+  "lane": "news",
+  "pid": "Pb53e68dfee",
+  "draft_year": 2018,
+  "name": "Melvin Frazier Jr.",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Melvin Frazier Jr.\" (draft OR scouting OR prospect OR basketball) after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Melvin+Frazier+Jr.%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Melvin Frazier Jr.\u2019s defense could be target for Golden State - Monterey Herald",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXpCVmpvNWNkUGdmQkxzRXl5QThHOXhZd1ZUWHpCMXFlVmQxdHkyellZMGpiZW94b0M0QkJicUk4WmlnZlBZVTdTVGRiTVNyQTd1MzBwYjhZYU1pUlNabVJxeHZEQWZqRXc5ampKMzdnejVDcWd5V1lfRVVvd3VTQ19ONFUxTkpicmpHalVvOThkaTR0RkV4a2ZlZ01YT0RPUkRrRVFrLXFYdlU?oc=5",
+      "published_date": "2018-06-19",
+      "source": "Monterey Herald",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "e2b498d3545110a90a333a021b4a96977689d92c81e368003aa03d77be294d00",
+  "feature_eligible": false
+}

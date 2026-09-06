@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:55:43.623444+00:00",
+  "lane": "reports",
+  "pid": "P55f0d03e7b",
+  "draft_year": 2016,
+  "name": "Gary Payton II",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Gary Payton II\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Gary+Payton+II%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2016 NBA Draft: Breaking Down NBA Future of Oregon State's Gary Payton II - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWmxvNTdudXZqd2dGdU9aa3p0X2lHTWJzNV9YMl92NzkxbnhwV1NHYXNDZHU0WW1tS0c3ckNwejF0bHlwXzRleUhqeWl6b0o5UzZCOXFudWhRS29qVndGWldtQXN1ZGtWSjdqYi1lWDZoYi1Dcy1yQndIZ0RWcEc0aEhTZVQ0MUZSU1Q4TDAtM05YMnNVOWNVcVdyMFNLcHVyTFBvbTY3bHNZV2l5SXhOY3lOWngxZw?oc=5",
+      "published_date": "2016-05-04",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Mock Draft 2016: Denzel Valentine takes big dive due to possible knee issue - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWVotR3k0Y2FDTWQ2bzA4MkRaOUtCUzJkSk02Tk96UDVXSFhvVUtEZlBCb2p1a2plNmhwVE9WYnM4THg3amtKMWRteHdWTGlBNDFUWXVrNC1wSGdFaDBaOFZFVFZQTlcyaFIwVzhhM3B6M3UxUkJyUUM4NFV4ekN1RkJ3WFFXa1FYN1d6WkVpVjZFcHdhV2ZKb2JZSlNvY1d1dktvRmIwdUxqNENUU3NOeUhsUG4?oc=5",
+      "published_date": "2016-06-16",
+      "source": "CBS Sports",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "2680b33e178a5833ca6b8adae8dbc09091c7adbfa3a24585b3022bc4ac39eabe",
+  "feature_eligible": false
+}

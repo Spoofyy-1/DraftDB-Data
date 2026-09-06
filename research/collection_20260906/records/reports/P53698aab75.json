@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:55:33.780593+00:00",
+  "lane": "reports",
+  "pid": "P53698aab75",
+  "draft_year": 2016,
+  "name": "Bryn Forbes",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Bryn Forbes\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Bryn+Forbes%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Bryn Forbes Sets Big Ten Record for Most 3-Pointers in a Game vs. Rutgers - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMGVJRy00LUtodG9uaWhTZEp0aUdEdENhd2lGNVJxRmxfQ0FXYmREbVdtbDlMY2RpZXVYV3ZJdXUySzBlYzU5MERSRTlsOGVnSWh0b0E2LW5sQnUzQ1VHUHRFRlJOZ2o0clRfRGxXRjB1WUVMNmZpNHlWT2RDQjVqOG44VU1jM1dWZXo4VVBIU216Y1htU1ZXbkx3MFN2WlVGemJIdDF0RjQ0T3Q0RnZEY196dVR1dzA?oc=5",
+      "published_date": "2016-03-02",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "MSU's Denzel Valentine, Deyonta Davis ready to hear names at NBA Draft - Lansing State Journal",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMDFIVHk3bEtzSlp5bFhWRkF4THkzdEJ5b0Z6Zkp1blRrZloyMXYxWnNmSUgtNm8zdHBHVkQxT2pSN3VfZXlhaW4tNngtdjlEaDVSWVgxMGRzcWdXdnFrZGp3OEtsLTVWQnJwR29FeFFlS3lUdC1XZnNDRDB1YlFqZzhYWWNJQmExampWYjR4S0JzRm9IcGdjSExpeFN0b2R1Y1FvVmMyZEhIWlM1SGxQM1g1QmRLeWw0clNhRkhaU25zZ1FxUUdwaGxKdkNrdm43MDRsaE1wdVVuZjRhVWc?oc=5",
+      "published_date": "2016-06-22",
+      "source": "Lansing State Journal",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "681c76993763639e9e899016e21465f917eb3ad5844b7f62c10e6fe6ba4074e3",
+  "feature_eligible": false
+}

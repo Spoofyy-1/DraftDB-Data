@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T10:50:36.289183+00:00",
+  "lane": "reports",
+  "pid": "P2e8c779b09",
+  "draft_year": 2015,
+  "name": "Rakeem Christmas",
+  "draft_date": "2015-06-25",
+  "status": "ok",
+  "query": "\"Rakeem Christmas\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2014-07-01 before:2015-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Rakeem+Christmas%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2014-07-01+before%3A2015-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "How Rakeem Christmas's roots made him a top NBA prospect - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS1RtTWFSdFdNY0ExNV9HLVEwcVN3UW5iX1NPbldiN1BGaVBLczRFN0hpY1BoU2VyM1JPLVRwTlAtbFNmcmxtdFJsUVd0NGc5YUdGVmtYUXJEcnNla3k1ZjhFekM4VzlSQlJ4VnhxLWxXWDJ4d1Ryd1ZBTzJvUDJLTUpXQVJ3UmI3?oc=5",
+      "published_date": "2015-06-19",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Full Freep NBA mock draft: Pistons take Johnson - Detroit Free Press",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdzVoQXh6bVprMU9JUU5rTGgzNF9pWXhYUGZEZW5Wb0ZDVmNXWlJ4SFFEQVBhZTNmTnp0cUFFT01VWUEyc1pUT2lSbDU5WDlsV2VYckhKUlN0OUhXNVFOMTY3VzA0YkR5U3huSHFtYVZYWXNCdk9adnVsX1p6WEdzOFJZbTVDYUxjdzEtaDBWWldjdTRqVnNfOGJ4Z29jZ2Fpbkh1enNzSEM1VFFpMEZlcEhKOGVNSm8?oc=5",
+      "published_date": "2015-06-24",
+      "source": "Detroit Free Press",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Syracuse Basketball: Rakeem Christmas Named AP Third-Team All-American - Troy Nunes Is An Absolute Magician",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQVRfM0Z0NEFLUm5qeGNVbWZCMkNfdFBpamZFNGlDMndNVlNnaGZiV1FMS3FSSnc5a1M1aFBmWVZLVm9rcThfNkd2YmlUWHQxaG1raTA2OXFWZFBtR1hYaWQyQW12SXBNSDBQai1DbVNNYVJJSFVOdzZDeWx5VDFCNjN3Mkg1UE54R3NqSjdneDBNOFVNVnJnNHlmYlVGZ01yU1BuVWtCd05DdmJYZmRQeGhOWWhZNHdI?oc=5",
+      "published_date": "2015-03-30",
+      "source": "Troy Nunes Is An Absolute Magician",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Fast-rising PG Cameron Payne on Pacers' draft radar - IndyStar",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbU8yNXJxMDdudGpqM0JHUk9GUW9QOThQdUdOc1U4T1ZuZjZYLVhGcTBwRW1LRTZjYi0zcWtTUkw2LTA4eTlSc1lJWTRhSGc2MjFTellNNHJoUVB6VEFJRmk5UFlxZmVNaGJHZmZ5a2NMc2xSV1J6di16WE1nUVFNTURLZTlaNFJiZmN5U0dVdkpuOVlyMmVTQUZlTE42UkxGR3hlZjk2LWxnOVZlaTNPTnR5dDR4ajlKT21WbjVheU9UbWx3aVg0M08tS0w?oc=5",
+      "published_date": "2015-05-17",
+      "source": "IndyStar",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Combine 2015 Results: Day 2 Measurements, Highlights and Top Prospects - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLUE2NmEyMW14UmVxbFBOZ2pGR1FjVzAzaEx0UUJkakNmTUxfTGVRWEhKTGpWTFZuZURMM1ZEaDE5SmlKUkl3RHE3RHdvcXA3LXRMSkJ3Wl9wU0F2TElSd0lVT2tEQ2NTRkdGQzF3WGNfOUlYUXdTTjFmYXhXSlgzVmQxeTZET1dubk9zWnYtaWJ2X1RsUWk0Z090aE9lVVRtQldNNWJOc2cta0M4bGg1ZXczemMxYzQ?oc=5",
+      "published_date": "2015-05-15",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "db6d47e1633aa71c76ee8283db8db132e8de7ebc296c05203b959071d96c1aea",
+  "feature_eligible": false
+}

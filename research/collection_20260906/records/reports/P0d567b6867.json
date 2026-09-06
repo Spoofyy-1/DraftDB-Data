@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:00:09.177570+00:00",
+  "lane": "reports",
+  "pid": "P0d567b6867",
+  "draft_year": 2017,
+  "name": "PJ Dozier",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"PJ Dozier\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22PJ+Dozier%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Fascinating and frustrating, former USC player an unlikely NBA first-round pick - The State",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc0xFZEtSaHMxU3pJc1lfM3M3TjI4c0VaazV2UzltRUFFOUhtcHdlZ1EwcDhYTXNlLVZBZldEcUdjQkZ6d3REYVlYbG1ZZVRFNERPLThQaG56WGZEYTBqMzRfMkRZUHRGMWI1cnRaYmFwemVDeXlPNVZXUm5CNmhmZzJfZ1ZzOG0teGJybUNLNW1lU3pEME13SEhkNURYM1JLSGo4NXE1WXJKWi1iQUg2NdIBsAFBVV95cUxOSlh0Zk1pQ3dqX0RXMl9UMDloRXVNVjZPTXV3bVJlUWx1eEVRUlBpLWRINzN0eTFiT01Xd1Z5d3FJNlMtb1RlRklmUXdzR3dzNnQ2T0llQkk3TnlVVVVQZElaU0p1c2xpcldrNVhXN0xmVkVISVYwalZielNxZ21xTnk2Ymg1UE9JS0dvdlR5QWhVQXZJeEdLdW5Nc2NvMDlfTmQ2M3BfWWlpQUFheG5YMQ?oc=5",
+      "published_date": "2017-06-19",
+      "source": "The State",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "70f80118432acb37c3d73a906bb4455de9d6293b723ef00452951d0ae46740af",
+  "feature_eligible": false
+}

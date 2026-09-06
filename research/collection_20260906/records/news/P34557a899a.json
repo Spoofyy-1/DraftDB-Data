@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:58:21.940395+00:00",
+  "lane": "news",
+  "pid": "P34557a899a",
+  "draft_year": 2019,
+  "name": "Stanton Kidd",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Stanton Kidd\" (draft OR scouting OR prospect OR basketball) after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Stanton+Kidd%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "\u2018You ain\u2019t Baltimore if you don\u2019t play in the Brunson\u2019 - Andscape",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTkJfT2ZvejJmMUZYdjJTUjNpSzFaZ0JQRjlKQ3UtY1N6T3NCNlB4TnFLZnUyNmx4aG9VcTRla04tZWF1T3hqWkpFWVAxT0dlaXFRZ2RiMzZJOFpyX21pRC00akRnNFRfQlhsYzE3cGc4bXRqb19HSjN1dEVYUktvdVZRWllhSWYxcVNtdnd1aEpNMlZwTldpTnNUaE5STEw3SGdvSA?oc=5",
+      "published_date": "2018-08-09",
+      "source": "Andscape",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "4f12e95d21745978d34dd74cbd7c0d871db031ae4c04cdc325bfb450ce2d7d1b",
+  "feature_eligible": false
+}

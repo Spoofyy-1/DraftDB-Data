@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:57:57.703548+00:00",
+  "lane": "reports",
+  "pid": "Pc00908f11e",
+  "draft_year": 2016,
+  "name": "Fred VanVleet",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Fred VanVleet\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Fred+VanVleet%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NCAA: Buddy named preseason third team All-American - Tribune242",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMW91RDFFWGotLXBTNUJkTzBDQVlMZE0xTHZMd2Q2b2lvNGR3ZTcyUFE5Z1RveEtWR2s4b01vN2h0RThoY2JfdDk2dkhXMnBSMFBQZ0xmSWR0VjdTcUMxWGNLeHlVMmZLVFV1OE0xNlh2eDRzWXhpMkZsdVpKdzR1LXN5bVVsWW5SZ1Bsd1pFRWhIV01DVkZuUjdrOA?oc=5",
+      "published_date": "2015-09-15",
+      "source": "Tribune242",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "The College Station Kid: Alex Caruso as an NBA prospect - TexAgs",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNemdMRlVVZmFGWmR6d29NNGN6Q0djTVM5WDVra1pKVi1GcGluVVZiX0xVSmFLSTRiT0FhTFpkUDdocG5nazNrV3ozSUZDQzVFWUt6aDM3emVDa3o3Vk9EM0l3OU9yVVdHbllHR3JXOTVHWUdaT21nZTZobzJ6cmdxUndxajFjUDJw?oc=5",
+      "published_date": "2016-04-25",
+      "source": "TexAgs",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "22146cfeec481aab66895e8bab4781839da3a14d982d0a4f92f7546e30951025",
+  "feature_eligible": false
+}

@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T11:09:24.950649+00:00",
+  "lane": "news",
+  "pid": "Pc4f35f8bd3",
+  "draft_year": 2020,
+  "name": "C.J. Jones",
+  "draft_date": "2020-11-18",
+  "status": "ok",
+  "query": "\"C.J. Jones\" (draft OR scouting OR prospect OR basketball) after:2019-07-01 before:2020-11-18",
+  "query_url": "https://news.google.com/rss/search?q=%22C.J.+Jones%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2019-07-01+before%3A2020-11-18&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "MT\u2019s final run comes up short against Marshall - goblueraiders.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWWtpXzlUZ0kzaVBJR1cxRGJXakVUSEhxZTJnTUJVYkEyS0NEaXo5V29Kd0YtOEdkNWVaWERwMWVGTnNpZmlaLXZDN1U4YVVGTDdPNUJfSHIzWWRkamNhLXFZWDdPd0RQakQ0VHJ3dUJhYXNuTWhjblVWWVRPUTN4MzFVMkRDTFRzNVZhNUdQM2tIX1VaTGFDT1hOU092TUlGMXNB?oc=5",
+      "published_date": "2020-01-09",
+      "source": "goblueraiders.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "List of early-entry candidates to withdraw from 2020 NBA Draft - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcWZqRU1HWXJKaVVOTTFkSGp4eXBDTXZoM2xuTF92T28ydUVLeTVwSzNlc3pBLTBkSTV0QmlFZmh5ZENMemV1ZlZNU2JqT29aLTdiNHJaNUx1QzZTdlpSTTduWHFjYVYxWW5rX1JPVndycDdxVnpjajJONVhza1FDN0ZZWW94dTBxOEFjZklVdnluRmZVMU1EY2ZnZW00S0NPRFhOX1ItSlphbVlJ?oc=5",
+      "published_date": "2020-11-09",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "This day in Longhorn history: 1986 - Texas women win national hoops title - Austin American-Statesman",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVnpLbm9yOFNFSlVsMWpydXF4S0l5R0czSG5fVzJFNHUybHZwMnBOZTEyZVdkZHdram5oUjUweV9Ga19UakdIaG1rSHZndmNuMmlLTWU3SFptRXlhV2FGN19qU2kzdXo2QmhpT0Z4S29Ub1VxcDJSVUU4aUt1SEtvRlFtbGNvOUQxV0ZlYkNFQ0hNUXkyWTNWWmNySW1SWHcyUmlCTGYxSC1heV9ibnpSQlozVldRM2M?oc=5",
+      "published_date": "2020-03-30",
+      "source": "Austin American-Statesman",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Family reflects on the death of Corey Jones who was shot and killed 4 years ago - WPTV",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORHNURExpcmhwcXFiOW5uWlVKbVVrT3JyVXAyMmVpZTJ5Y0ZORmlxcEdNRFVwV0xscEFoeTc4bTBpV1pPVm9CLXZVR0M0N1JHLUhycTVDdWFaQlhDMGRqOWJZd25scVRiUmZmaXhaVEN4OW5keUdTcG9fY3BtX0xGZjFkX0p4bG9zZGgwLV9mMGVROG9BRDlXWDNjeTBUazBfcEhLUDhnNlFZclE1YUx6S0NwQzFRU0RHU0FOMEVPQ3ZMNGJpaGhUdWxuckFwN1UxSmpiMU5zVW5MeVM0WVc1U3Y4c2RfUQ?oc=5",
+      "published_date": "2019-10-18",
+      "source": "WPTV",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Baby Driver 2 Official: Lily James, Jon Bernthal, and CJ Jones to Return - Geek Vibes Nation",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWl9NSkJWb0dJc05KbnhBSjNQWFhDWnY1MDk2SHRyR2hCNC04MlExeXcyTmUya1p0Y2phMEVEdEFRVW1zdDlJMmhSS29XalNxS3hIcjNCU3hKb1JYLU1iZlVTX1ExSkpIelBlWHpaczNhWkFiMVptbU9rTjFLZ2Zuc1hyRnZqU1hJNU9UQmkxMWpVOVlKenlDRjBvVkp1UWs?oc=5",
+      "published_date": "2020-02-29",
+      "source": "Geek Vibes Nation",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "60bb2c9be525b058b6ec367c024528c587af2e80afc81e09e8bc1fe6186a6e52",
+  "feature_eligible": false
+}

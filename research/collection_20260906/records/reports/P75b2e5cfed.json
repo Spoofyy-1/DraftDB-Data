@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T11:10:07.311890+00:00",
+  "lane": "reports",
+  "pid": "P75b2e5cfed",
+  "draft_year": 2018,
+  "name": "Aaron Holiday",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Aaron Holiday\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Aaron+Holiday%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Indiana Pacers select UCLA\u2019s Aaron Holiday with the 23rd pick in NBA Draft - Daily Breeze",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY1NWcDdIMWpRdkEtc1dwd0xuU09LekhodzdzSXVnVE5QdGwzTS1KX1ZFUE9odXZZTlFsS2ZIQnJZc0F4TTBZeFV1ZVpBTkFuc09xMkh4My1VNHJWQlRfTUpPZDAwVHdsSHdLOU1yRXgtaV9DZjgzakNmbHduc3p2RWJXUVZZNHlZZlEzZ3QwQno2djlYTUdiQWN5d3pVajJSeGphTQ?oc=5",
+      "published_date": "2018-06-19",
+      "source": "Daily Breeze",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2018 NBA Mock Draft (Version 2.0) - Hoops HD",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Db2g3clpWc3hPYXRYWmJNQ094eHAzMXczamluZy1nTk1ZOWdFTll1TXpyZm5iMHRoZ0FzSDFTSlkzNTc2WWNLd2x5X3BNV1NEeEFRZ3BMOGtzOEcwWjQ1RHhpQWFvUERGNkxIbGNMRE8?oc=5",
+      "published_date": "2018-06-12",
+      "source": "Hoops HD",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2018 NBA mock draft: Suns take Deandre Ayton at No. 1, Kings settle on star Luka Doncic - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYWxaQUNqZ2hZWFh4RW9DZTRlQ0V0cWFkeElzZEktSkJFOVlGMXZjSVhJWlNCdFhHSUlOcndLVFVaME1xUWFRYlBCU2xQczBUdzF1ZXZRbjlQUjdiLU43TmtiU0tnc3kxR0EyNld5d2Jkc0x6Z0k0MGttblBvLWdhQUdmLWozbTFrendial9iTzYzWFpBYzJkNEhKdVRheEFmb28wTTdqcV83SUxLSzF2aVJ2d1B6VkdoOHAtYkliQ3hmTXBZLW81Ti1Yaw?oc=5",
+      "published_date": "2018-05-16",
+      "source": "USA Today",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "UCLA\u2019s Aaron Holiday declares for NBA draft - Orange County Register",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU2ZxQ3FoTnJWcGRTZENLMnBqdDJ4TXFDRGNXZmxVYmpmOUU2RkpaaXNEVE5BeC1jdlVOS1NBUGdZZFNsaTdaeFh5cHlkTGREUlhpN2VsbExPRFgyUHBTQjZuS0haTkdmMDk3QTZPbUc5dURhcHk2TVhFMnJtWDU3SXpoLWFJLUxi?oc=5",
+      "published_date": "2018-03-26",
+      "source": "Orange County Register",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2018 NBA mock draft 4.0: Kings snag Marvin Bagley III, Michael Porter Jr. stays in top 5 - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOXzhIdTV2TkstZFRfSkdTaE01R0ZreHFsZENkWm5ubXhLYTQ3dXhNUENOb2p5NkZEUGJoSFp5X2xOc08tbkxRcHFYeDNpUm1JV2IzeUVySmlDcjhWcWNrUEFiS3hxeFpnYXlSbTZ5cjRoaDBocUxXOHo5YXBFRTliMlZSa3FBV0tXQi1LOEFXbnZmRXhFTmZDWGFmakpscDgwcHF6TTVXdjRPZUpZZk1FRzUyN3FJcU94QmZvSmhn?oc=5",
+      "published_date": "2018-06-20",
+      "source": "USA Today",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 4,
+  "response_sha256": "08d1e29e7e360b9738548620f76eac99ebe0961afc0f24b19f5642821d76ce98",
+  "feature_eligible": false
+}

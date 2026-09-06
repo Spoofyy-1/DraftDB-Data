@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:50:49.104270+00:00",
+  "lane": "news",
+  "pid": "P4098a4e5cd",
+  "draft_year": 2018,
+  "name": "DeVaughn Akoon-Purcell",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"DeVaughn Akoon-Purcell\" (draft OR scouting OR prospect OR basketball) after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22DeVaughn+Akoon-Purcell%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Illinois State Players In The NBA - RealGM",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbTVGSVlfaEo1WGdLSV9fTzg3aURUV250QWx1am9ibE9JRzI0T3ZUY1NBRmM3elZxNHoteTl4SUJZWHNVUGR6TzFmbnY3bHJ4a20weFVYdGZfSWk3Y0U1UVYtRnRLOHdnb2VQYlkzMEE2ZnQ3MTNVaTlSSkI0dHlOd0RmVDVCZWQ0ZkJ0RkFJd00wcURMRC0zRkVqX1htZ182U3dRSG5fcEFoUQ?oc=5",
+      "published_date": "2017-07-23",
+      "source": "RealGM",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Players Born In Orlando (FL), United States - RealGM",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbEhodG1CRlNaX3ViR1NmajhtSVdoaUVscV81ZFRkX3BfVG1RZkVGczl4TkR0Y05wc0xqNHRMb0VpekpkMnRoaEY5cDZHaGtuaHZyVHJtOVNpZGVScEx1cnlHQTV3eDBpcjV2RWMwMEpRQnR2djYxcUl0N2Zjekx4MQ?oc=5",
+      "published_date": "2017-12-26",
+      "source": "RealGM",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "0d8b916637d348998b59391bc99f5e0c2dd573e0091849810a2f692e407d2f09",
+  "feature_eligible": false
+}

@@ -1,0 +1,640 @@
+{
+  "study": "R8k matched two-slot complementary pairs",
+  "purpose": "Bounded pre-2019 complementarity study selected from completed matched R8i and R8j summaries; no test-based selection.",
+  "variants": [
+    {
+      "id": "pair00__RR",
+      "pair_id": "pair00",
+      "features": [
+        "f50_rim_ft_pressure",
+        "f50_team_share_dunk_a"
+      ],
+      "arms": [
+        "real",
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "pair00__RP_perm9317",
+      "pair_id": "pair00",
+      "features": [
+        "f50_rim_ft_pressure",
+        "f50_team_share_dunk_a"
+      ],
+      "arms": [
+        "real",
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "pair00__PR_perm9317",
+      "pair_id": "pair00",
+      "features": [
+        "f50_rim_ft_pressure",
+        "f50_team_share_dunk_a"
+      ],
+      "arms": [
+        "permuted",
+        "real"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "pair00__PP_perm9317",
+      "pair_id": "pair00",
+      "features": [
+        "f50_rim_ft_pressure",
+        "f50_team_share_dunk_a"
+      ],
+      "arms": [
+        "permuted",
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "pair00__RP_perm18739",
+      "pair_id": "pair00",
+      "features": [
+        "f50_rim_ft_pressure",
+        "f50_team_share_dunk_a"
+      ],
+      "arms": [
+        "real",
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "pair00__PR_perm18739",
+      "pair_id": "pair00",
+      "features": [
+        "f50_rim_ft_pressure",
+        "f50_team_share_dunk_a"
+      ],
+      "arms": [
+        "permuted",
+        "real"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "pair00__PP_perm18739",
+      "pair_id": "pair00",
+      "features": [
+        "f50_rim_ft_pressure",
+        "f50_team_share_dunk_a"
+      ],
+      "arms": [
+        "permuted",
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "pair00__RP_perm28657",
+      "pair_id": "pair00",
+      "features": [
+        "f50_rim_ft_pressure",
+        "f50_team_share_dunk_a"
+      ],
+      "arms": [
+        "real",
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "pair00__PR_perm28657",
+      "pair_id": "pair00",
+      "features": [
+        "f50_rim_ft_pressure",
+        "f50_team_share_dunk_a"
+      ],
+      "arms": [
+        "permuted",
+        "real"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "pair00__PP_perm28657",
+      "pair_id": "pair00",
+      "features": [
+        "f50_rim_ft_pressure",
+        "f50_team_share_dunk_a"
+      ],
+      "arms": [
+        "permuted",
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "pair01__RR",
+      "pair_id": "pair01",
+      "features": [
+        "f50_rim_ft_pressure",
+        "f50_peer_rank_orb"
+      ],
+      "arms": [
+        "real",
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "pair01__RP_perm9317",
+      "pair_id": "pair01",
+      "features": [
+        "f50_rim_ft_pressure",
+        "f50_peer_rank_orb"
+      ],
+      "arms": [
+        "real",
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "pair01__PR_perm9317",
+      "pair_id": "pair01",
+      "features": [
+        "f50_rim_ft_pressure",
+        "f50_peer_rank_orb"
+      ],
+      "arms": [
+        "permuted",
+        "real"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "pair01__PP_perm9317",
+      "pair_id": "pair01",
+      "features": [
+        "f50_rim_ft_pressure",
+        "f50_peer_rank_orb"
+      ],
+      "arms": [
+        "permuted",
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "pair01__RP_perm18739",
+      "pair_id": "pair01",
+      "features": [
+        "f50_rim_ft_pressure",
+        "f50_peer_rank_orb"
+      ],
+      "arms": [
+        "real",
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "pair01__PR_perm18739",
+      "pair_id": "pair01",
+      "features": [
+        "f50_rim_ft_pressure",
+        "f50_peer_rank_orb"
+      ],
+      "arms": [
+        "permuted",
+        "real"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "pair01__PP_perm18739",
+      "pair_id": "pair01",
+      "features": [
+        "f50_rim_ft_pressure",
+        "f50_peer_rank_orb"
+      ],
+      "arms": [
+        "permuted",
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "pair01__RP_perm28657",
+      "pair_id": "pair01",
+      "features": [
+        "f50_rim_ft_pressure",
+        "f50_peer_rank_orb"
+      ],
+      "arms": [
+        "real",
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "pair01__PR_perm28657",
+      "pair_id": "pair01",
+      "features": [
+        "f50_rim_ft_pressure",
+        "f50_peer_rank_orb"
+      ],
+      "arms": [
+        "permuted",
+        "real"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "pair01__PP_perm28657",
+      "pair_id": "pair01",
+      "features": [
+        "f50_rim_ft_pressure",
+        "f50_peer_rank_orb"
+      ],
+      "arms": [
+        "permuted",
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "pair02__RR",
+      "pair_id": "pair02",
+      "features": [
+        "f50_team_share_dunk_a",
+        "f50_peer_rank_orb"
+      ],
+      "arms": [
+        "real",
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "pair02__RP_perm9317",
+      "pair_id": "pair02",
+      "features": [
+        "f50_team_share_dunk_a",
+        "f50_peer_rank_orb"
+      ],
+      "arms": [
+        "real",
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "pair02__PR_perm9317",
+      "pair_id": "pair02",
+      "features": [
+        "f50_team_share_dunk_a",
+        "f50_peer_rank_orb"
+      ],
+      "arms": [
+        "permuted",
+        "real"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "pair02__PP_perm9317",
+      "pair_id": "pair02",
+      "features": [
+        "f50_team_share_dunk_a",
+        "f50_peer_rank_orb"
+      ],
+      "arms": [
+        "permuted",
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "pair02__RP_perm18739",
+      "pair_id": "pair02",
+      "features": [
+        "f50_team_share_dunk_a",
+        "f50_peer_rank_orb"
+      ],
+      "arms": [
+        "real",
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "pair02__PR_perm18739",
+      "pair_id": "pair02",
+      "features": [
+        "f50_team_share_dunk_a",
+        "f50_peer_rank_orb"
+      ],
+      "arms": [
+        "permuted",
+        "real"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "pair02__PP_perm18739",
+      "pair_id": "pair02",
+      "features": [
+        "f50_team_share_dunk_a",
+        "f50_peer_rank_orb"
+      ],
+      "arms": [
+        "permuted",
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "pair02__RP_perm28657",
+      "pair_id": "pair02",
+      "features": [
+        "f50_team_share_dunk_a",
+        "f50_peer_rank_orb"
+      ],
+      "arms": [
+        "real",
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "pair02__PR_perm28657",
+      "pair_id": "pair02",
+      "features": [
+        "f50_team_share_dunk_a",
+        "f50_peer_rank_orb"
+      ],
+      "arms": [
+        "permuted",
+        "real"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "pair02__PP_perm28657",
+      "pair_id": "pair02",
+      "features": [
+        "f50_team_share_dunk_a",
+        "f50_peer_rank_orb"
+      ],
+      "arms": [
+        "permuted",
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    }
+  ],
+  "folds": [
+    2012,
+    2013,
+    2014
+  ],
+  "seeds": [
+    0,
+    101,
+    202
+  ],
+  "permutation_seeds": [
+    9317,
+    18739,
+    28657
+  ],
+  "source_selection": {
+    "file": "R8f single_feature_summary.json",
+    "rule": "First eight previously raw-gated features, frozen before this study; hypotheses rather than confirmed winners."
+  },
+  "backbone": {
+    "icl_n": 32,
+    "topk": 60,
+    "M": 400,
+    "window": 2007,
+    "hw": "uniform",
+    "noscout": 1,
+    "drop": [
+      "scout_",
+      "col_bpm_pct_",
+      "col_usg_pct_",
+      "col_ts_pct_",
+      "col_ast_pct_",
+      "col_stl_pct_",
+      "col_blk_pct_",
+      "col_orb_pct_",
+      "col_shot_proj_"
+    ]
+  },
+  "model": "Standalone GPU TabICL; CPU selector trained on base features only, fixed once per fold and reused across feature arms.",
+  "selection": {
+    "selector_seed": 11,
+    "selector_input": "base columns only; no F50 or reserved slots",
+    "cache": "per fold/process; verify identical ordered column hashes across every arm",
+    "slot_names": [
+      "slot_0",
+      "slot_1"
+    ],
+    "coverage": "base features only, computed before slots are appended"
+  },
+  "controls": {
+    "shuffle": "Only observed values within each draft cohort; preserve per-player NaN mask exactly. Training and validation randomizations separate. Stable PID order.",
+    "seed_stream": "SHA256 of feature, permutation seed, role, cohort; no outcome values",
+    "shape": "Same reserved slot name/order for every real and shuffled arm. Verify identical masks, cardinalities and column sets."
+  },
+  "provisional_gate": {
+    "min_mean_gain": 0.005,
+    "min_improved_folds": 2,
+    "max_fold_regression": 0.01,
+    "maximum_single_candidates": 3,
+    "comparison": "Real seed-mean minus mean of all three matched permutations with the same model seeds; no baseline differences enter the gate.",
+    "interpretation": "Exploratory eligibility for later confirmation; not a significance test or test-goal achievement."
+  },
+  "pair_phase": {
+    "enabled": true,
+    "maximum_pairs": 3,
+    "selection_rule": "At most three pairs among at most three provisionally gated singles. Register exact pairs before execution.",
+    "arms": [
+      [
+        "real",
+        "real"
+      ],
+      [
+        "real",
+        "permuted"
+      ],
+      [
+        "permuted",
+        "real"
+      ],
+      [
+        "permuted",
+        "permuted"
+      ]
+    ],
+    "slot_count": 2,
+    "permutation_seeds": [
+      9317,
+      18739,
+      28657
+    ],
+    "independent_feature_streams": true,
+    "comparison": "Joint real must improve both one-real matched arms; report RR-RP, RR-PR and RR-RP-PR+PP. This is exploratory representation complementarity. No pair jobs are registered in this batch.",
+    "arms_per_pair": 10,
+    "paired_model_seeds": [
+      0,
+      101,
+      202
+    ],
+    "rr_reuse": "One RR task per model seed; shared across all three permutation replicates.",
+    "shuffle": "Independent feature streams retaining each exact per-player mask and cohort distribution; PP intentionally breaks the interfeature relationship for this factorial diagnostic.",
+    "interpretation": "Representation complementarity in the fitted backbone, not a significance test."
+  },
+  "no_confirmation_or_test_scoring": true,
+  "calendar_policy": "For predicted year Y, training only earlier cohorts and actual NBA season_end <=Y-1. Development scoring labels <=2018. No2019-2026 answers available.",
+  "confirmation_note": "Any later literal as-of outer-year confirmation must select inside its own season cutoff; selection using development truths through2018 cannot be called known at a2015-2017 decision date.",
+  "execution": {
+    "workers": 4,
+    "xgboost_selector": "cpu",
+    "predictor": "GPU TabICL only",
+    "batch_size": 32,
+    "task_count": 90
+  },
+  "selected_pair_ids": [
+    "pair00",
+    "pair01",
+    "pair02"
+  ],
+  "pairs": [
+    {
+      "id": "pair00",
+      "features": [
+        "f50_rim_ft_pressure",
+        "f50_team_share_dunk_a"
+      ]
+    },
+    {
+      "id": "pair01",
+      "features": [
+        "f50_rim_ft_pressure",
+        "f50_peer_rank_orb"
+      ]
+    },
+    {
+      "id": "pair02",
+      "features": [
+        "f50_team_share_dunk_a",
+        "f50_peer_rank_orb"
+      ]
+    }
+  ],
+  "source_studies": [
+    {
+      "study": "R8i",
+      "summary_path": "/Users/kennakao/Documents/Codex/2026-09-06/https-github-com-spoofyy-1-draftdb/work/r8i/results/matched_summary.json",
+      "state_sha256": "26d144953ee1cadf927d3ab468d2880f7068d59031c746b00aeced8532994a2a",
+      "summary_sha256": "eece0ff525056bacea1ad33aae5a6879b80fba7907221af21edbbecd8c906bc1",
+      "plan_sha256": "935f3be65f247b4301d63b803fc08057748a0b5d51f2205bc2bf05fb0225fd0b",
+      "worker_sha256": "33aa406a8c2d3c7ef389d1a3812ff28b20ee746f6c8a82813774ad7e62cf3344",
+      "fold_signatures": {
+        "2012": {
+          "base_columns_hash": "1fa7d04c34b034a29f0e397ac377f59b4c7985c041a4923ebb0608641fe03ebe",
+          "training_pid_hash": "6a48174ac57b3e18fdbfcfd975d2f0c18dd113bd35d3e8f8827310668fb77377",
+          "training_labels_hash": "985c3a53879f3255208a78c75cc6639341bdb01361328c31179f7a66992d760b",
+          "training_matrix_hash": "308673728e33edd857976d94cf38e055385caeebb5d82d8424e5a851643c63f2"
+        },
+        "2013": {
+          "base_columns_hash": "81f27298ccb48df85d82dac459f34c87319b76b6f674552c80340348b7dc394d",
+          "training_pid_hash": "7fb2213f8097f7df6e1e9451e4f8915e1bf69e279ab3f6a89a52d8a4b60632d5",
+          "training_labels_hash": "c1282fc107246793114181b1df772f40aaac6446858546d5b93695e804b9e2c1",
+          "training_matrix_hash": "838614eb3913b10afaa235fda42fc376f393a2c26744f7f9bb6f2975fd5e4252"
+        },
+        "2014": {
+          "base_columns_hash": "44554d0c84acd4808c511dda47bcd530863bf9e29d9edc553263e72f18305a0e",
+          "training_pid_hash": "ca553aa33f359a9ab16dd00f5c9c52e705810724f8a7421abf1aa1f028550516",
+          "training_labels_hash": "9de5eb0c875d816ce0e55bda6ddd07b4c3d4e37b2a6e8700c909c6f43ee28d93",
+          "training_matrix_hash": "8b6784d584de719c7466b27d5b6109166124b0d40ab7b1b47d1d99d972638e13"
+        }
+      }
+    },
+    {
+      "study": "R8j",
+      "summary_path": "/Users/kennakao/Documents/Codex/2026-09-06/https-github-com-spoofyy-1-draftdb/work/r8j/results/matched_summary.json",
+      "state_sha256": "74603c314aada827643bfc3131a0d2a6d909b53f8b37c2706ebc637fe6d0ffd0",
+      "summary_sha256": "11fdfa48acf2b552ba9dff00f0b621268793e85c02308dfce5e2f6922c72e2a4",
+      "plan_sha256": "d97497cd14c3b1d745a8a0723ffbf2c8ecd9f0944f8dcba9b3714ea43ac21f21",
+      "worker_sha256": "33aa406a8c2d3c7ef389d1a3812ff28b20ee746f6c8a82813774ad7e62cf3344",
+      "fold_signatures": {
+        "2012": {
+          "base_columns_hash": "1fa7d04c34b034a29f0e397ac377f59b4c7985c041a4923ebb0608641fe03ebe",
+          "training_pid_hash": "6a48174ac57b3e18fdbfcfd975d2f0c18dd113bd35d3e8f8827310668fb77377",
+          "training_labels_hash": "985c3a53879f3255208a78c75cc6639341bdb01361328c31179f7a66992d760b",
+          "training_matrix_hash": "308673728e33edd857976d94cf38e055385caeebb5d82d8424e5a851643c63f2"
+        },
+        "2013": {
+          "base_columns_hash": "81f27298ccb48df85d82dac459f34c87319b76b6f674552c80340348b7dc394d",
+          "training_pid_hash": "7fb2213f8097f7df6e1e9451e4f8915e1bf69e279ab3f6a89a52d8a4b60632d5",
+          "training_labels_hash": "c1282fc107246793114181b1df772f40aaac6446858546d5b93695e804b9e2c1",
+          "training_matrix_hash": "838614eb3913b10afaa235fda42fc376f393a2c26744f7f9bb6f2975fd5e4252"
+        },
+        "2014": {
+          "base_columns_hash": "44554d0c84acd4808c511dda47bcd530863bf9e29d9edc553263e72f18305a0e",
+          "training_pid_hash": "ca553aa33f359a9ab16dd00f5c9c52e705810724f8a7421abf1aa1f028550516",
+          "training_labels_hash": "9de5eb0c875d816ce0e55bda6ddd07b4c3d4e37b2a6e8700c909c6f43ee28d93",
+          "training_matrix_hash": "8b6784d584de719c7466b27d5b6109166124b0d40ab7b1b47d1d99d972638e13"
+        }
+      }
+    }
+  ],
+  "registered_at": 1788692366.085781,
+  "selected_singles": [
+    {
+      "id": "f50_rim_ft_pressure",
+      "real_score": 0.5096056741736147,
+      "matched_control_score": 0.4928698599959809,
+      "gain": 0.01673581417763367,
+      "fold_gains": {
+        "2012": 0.01628186628186627,
+        "2013": 0.020424169667867104,
+        "2014": 0.013501406583167638
+      },
+      "passes": true
+    },
+    {
+      "id": "f50_team_share_dunk_a",
+      "real_score": 0.5034712381480523,
+      "matched_control_score": 0.49111215048603846,
+      "gain": 0.012359087662013843,
+      "fold_gains": {
+        "2012": 0.0037037037037036535,
+        "2013": 0.023070561557956504,
+        "2014": 0.010302997724381369
+      },
+      "passes": true
+    },
+    {
+      "id": "f50_peer_rank_orb",
+      "real_score": 0.5043257072172035,
+      "matched_control_score": 0.4949367470049957,
+      "gain": 0.009388960212207753,
+      "fold_gains": {
+        "2012": 0.011303511303511296,
+        "2013": 0.0183326663998933,
+        "2014": -0.0014692970667813388
+      },
+      "passes": true
+    }
+  ],
+  "pair_gate": {
+    "min_joint_minus_each_single": 0.005,
+    "min_improved_folds_each": 2,
+    "max_fold_regression_each": 0.01,
+    "require_positive_interaction": false,
+    "interpretation": "Exploratory paired improvement; interaction reported separately and never hidden."
+  }
+}

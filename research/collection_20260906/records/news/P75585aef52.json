@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:00:25.852298+00:00",
+  "lane": "news",
+  "pid": "P75585aef52",
+  "draft_year": 2019,
+  "name": "Eric Mika",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Eric Mika\" (draft OR scouting OR prospect OR basketball) after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Eric+Mika%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "BYU\u2019s TJ Haws carries the banner for the \u2018Lone Peak Three\u2019 while his former prep teammates have moved on or faltered - The Salt Lake Tribune",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWERBUXVwbHhMbkNZVXVIdWdXalY1VzEtemtLM3hOMGFWNnFxbjZIakdfLWNIZW5hcUR2M0UzU3hVR3lYVnpuSXFxNFUxalIwSG5lYTZFV0VkR3ktTjM0eGYwNUpqTzhtcmhfUUxNU3RMamxwdU4zTXhuTjR4WU0?oc=5",
+      "published_date": "2019-01-21",
+      "source": "The Salt Lake Tribune",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Why They Can\u2019t Stay Away: 3 Missionaries Returning to Italy - Meridian Magazine",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNVRxMGpJLWNpd0xSRFFLeVlSNDZOTG92dkhWQ2J6VUtzX0pxNzhYaU15OTdKQVJ0cnNGWnNOS3lWZHliVVhYYzI1YlVPTnZGdk83MkNsLUFRM09sRGItcjdoellIYURfY0laZWlfZFNVTEo5V2xlZEQwQWZudVp4WE9Fdlg1dmJycmVyTk51bmpKUQ?oc=5",
+      "published_date": "2019-03-12",
+      "source": "Meridian Magazine",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Wasatch Academy Hosting Camp Featuring Professional Players With Local Ties - KSL Sports",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZkx6NWlmeHNzaUN4Y2t4VXZRVVJXbW0ybVBOMlVVU0tkNjRaU0pjXy1XLVUxZEFjSlpxck1PUDl6eFIyTmFDRGRXcms0ZFhfa1ZSdTFXNXRybWkxYUF1bzVObXpGbldqWUZrdE9wQUhfZUtzOUk0T1h3VU5Cb0Z1SlVNTElweXNsYm1XMnI0NHNmZDN2YnBkdjVHcnNOTXdQQXdBNjJxTmp2YmNSdnR3TGJqTGlFNXh1cHNxU2lPdUFoRzdRdUE0NnEyaTNwNG8?oc=5",
+      "published_date": "2019-06-11",
+      "source": "KSL Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Lone Peak boys basketball hires longtime assistant Robert Ross as new head boys basketball coach - heraldextra.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZjIyREFnVlppSDhwUlBmbkRMdGZxN1dIUmUwdTJwUWN1WEdBcWxfZFk3SmlYUlB0aTh1OG9GbnV5WC0zT1NncW5UVmpPellxdGgwMk1reUQwMEpKOHBQZDZsQXhHdEV4cWdBSldSekZkcGV5cHlaTnZsUS1abk5QR0RYUEg3Q2I1Vkh5NURSN19OcXdBS0Y3UjBYN1RGZ1c5UVhYYWZfckVNcFNOY0lhRmNBTEtlVWF1MFc2Y3RTOUVhM1ZjZXR4YzJ6RXJQMGVDd1JvREdYNk8zbUdt?oc=5",
+      "published_date": "2018-07-16",
+      "source": "heraldextra.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "3b0c31f1ab98ea85c485da9eea7c0b9f81d6fd6abe9c51e5cab6ea774882574e",
+  "feature_eligible": false
+}

@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:06:43.748172+00:00",
+  "lane": "reports",
+  "pid": "Pf0bc046ece",
+  "draft_year": 2017,
+  "name": "Xavier Rathan-Mayes",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Xavier Rathan-Mayes\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Xavier+Rathan-Mayes%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Rathan-Mayes, No. 10 Seminoles drop No. 7 Duke - Tallahassee Democrat",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQUdnTG0xTU03WXhtU3BPQUYyQXNpeDRid0V2NWJWQW1qSXFLYjE5MGktMEwwZ0Q4LTd5d21RREtTa0JQOHFNNTY4S0dEcmJqQlFINlZ3WnctUHdFTTR4YmtnNzJWOEVhNTJDZ2c0NXgyZWFOVmp2S0JjbjF5allvYmFMQXo5dERrbmIxdUpEZ0t4a0ZGdEFydUdfSE1temtxWldXbDZFRzVWUWoxaG03aTVBR1p1dzRFazlsMzdOMEctZzFIMVFobEVlZw?oc=5",
+      "published_date": "2017-01-10",
+      "source": "Tallahassee Democrat",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "3deae3b4fe0a6e0194f5a1c46982c0e074ab5112bf2edc39bf80c425412d3b5a",
+  "feature_eligible": false
+}

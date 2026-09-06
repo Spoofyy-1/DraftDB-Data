@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:57:18.548329+00:00",
+  "lane": "reports",
+  "pid": "P9c2d575f48",
+  "draft_year": 2016,
+  "name": "Zhou Qi",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Zhou Qi\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Zhou+Qi%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Zhou Qi NBA Draft Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9EYW1SOXFiUkdDdjFUX29lUTYzUUhvY3dySUxlbTBVMzFMdFlxOXFOektIeHVaM3RuNjRmdEhDNmE3VkVBZ2JXU3RvUXI3VGdCS3FaM2x6ejhscF9zYzJkc3ZRaXhoUUlfMmRN?oc=5",
+      "published_date": "2015-07-13",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Everything We Know About Mysterious Chinese NBA Draft Prospect Zhou Qi - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVW52UmxMSmF4WE02UGljVzl1am5JcXBXTmxKdzkwTUxQa21VbGN2WHIyMHEtMDB1dURNRklmVWI1WFRGeDVuRWtsVHZseVlvaFhUNnBWaGV6emFSQ2hQOC0tbzJTSmlZdmEwd3lkWHg4eWZyX1lEUEhnN21BNFN3NElSekY0R0JERGR2dWM4RGtEdkxMY0xESjU2bllaY0VSX2w4OV8xTmdKU2dhcUcwSS1ndGI?oc=5",
+      "published_date": "2016-06-21",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Chinese 7-foot-2 prospect Zhou Qi set to declare for NBA rookie draft, says report - SPIN.ph: Sports Interactive Network Philippines",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVldhUGNtWEpVYU93QWwxd2dFU2JXbWExWUhRbDJjYzJpeExmR2M2WDFmSVJFaV9qejRpTFdiUG1nY3pyVmxFLXVPbGhiQWJBRU5abVRWcUJoOUIyMWVtNG9TaklwSkxzMWFuV1NybVozQmFZMlNEYUc3b2JxYTMzVDhYbUREcklPVmRrcFJ4cDRBQjdKSWF1bTZRS1hxeVp6bnNZb0FwMFdEdmhGWUFGdm90a2o0YWNE?oc=5",
+      "published_date": "2016-04-15",
+      "source": "SPIN.ph: Sports Interactive Network Philippines",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Kris Dunn NBA Draft Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zamJteDNpVlloZmdPMVFKSmg1RjJjNDhTTjBzTnZVYlNmSzBkaVhYQmU1ZlQ3RW1fRUkxQ0tjZ21JVzY0VVBtTzJLalV3NFprZzR5UUVHYXM5Nl9xTzZPUjB5MnV3QkhBdkdzNE9B?oc=5",
+      "published_date": "2015-07-12",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 2,
+  "response_sha256": "7f03ab312c2b47b35c4a839c980d1d5909196de1a2e5bd546344b0719b54da06",
+  "feature_eligible": false
+}

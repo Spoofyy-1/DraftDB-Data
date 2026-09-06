@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:53:30.023084+00:00",
+  "lane": "news",
+  "pid": "P8fc9787b05",
+  "draft_year": 2018,
+  "name": "Emanuel Terry",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Emanuel Terry\" (draft OR scouting OR prospect OR basketball) after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Emanuel+Terry%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Emanuel Terry christened All-American by Basketball Times, NABC - Claiborne Progress",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeThpQVdfR3k4WGo2Zml1MnJmbnIzZTJ5QmhTVV96UFo1Wk1jcUIyZXh0eUVmTWxVZ2FDZ1FPUzljdjlBWlNkclVZU3M1SVVzYWdmNnowR050a2s0WTNHN3FCQllWZHpiRUhyMmxCQVN4REZWdEZkaWdrd0tjS2VReXFsM0UzMmdHWlpybGs3RFVoU1hWN3dPdjd1MFRYUmljbmhYZXBCUQ?oc=5",
+      "published_date": "2018-03-20",
+      "source": "Claiborne Progress",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Division II basketball: 6 of the best scorers in DII - NCAA.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOanNqTUptRmFkM3ExZV9BeWZOUUllNDZBTV9hRDlQVDhlOW1GU3l4N1N6Ymc1bVg3MFFPR1hxYXRfaHp3QWlrRFBVMlhmUkVESzBqV1JpMjlka0pJZFlPRi1Kc25xWDVYRUhTM0RyenZ2dXhjOUVzTDNjWVZUMDZZUkVPTzB3RE1mNXktSXhHUllHMGNPODNsTERKR3NvaFdBb0pJ0gGoAUFVX3lxTE5WM0ZuVHVvTTFMZmV5eHlBUEF5SWZWZnZNMW5HVVBabU16T3dYTVF6N0tzc3EwdHNZLUxfWVE5QzBFV2ZHTlRWcUlobmFQZWxLQ1lnbEgybVRIcGlWdVNCZGZKS0RYaERkTjFfeVMyUi04SDl3cW9GdVR0RExxT2psZzFkc0h3eV9JaDhhQnd1djllTloxM1RQd1JqMkl3dmlWcGVzeEtlZw?oc=5",
+      "published_date": "2018-02-14",
+      "source": "NCAA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "6c7b587646a4f0d05d0f3a944b14aae2a80388122327f1804c2f62abe59f98b4",
+  "feature_eligible": false
+}

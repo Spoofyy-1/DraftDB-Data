@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T11:05:31.171136+00:00",
+  "lane": "news",
+  "pid": "P2900148dca",
+  "draft_year": 2020,
+  "name": "Greg Whittington",
+  "draft_date": "2020-11-18",
+  "status": "empty",
+  "query": "\"Greg Whittington\" (draft OR scouting OR prospect OR basketball) after:2019-07-01 before:2020-11-18",
+  "query_url": "https://news.google.com/rss/search?q=%22Greg+Whittington%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2019-07-01+before%3A2020-11-18&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 1,
+  "response_sha256": "138afad227e92bc0b26d3e2aa3d72b8a96e20cc998374ff2ebcd7f97179063e7",
+  "feature_eligible": false
+}

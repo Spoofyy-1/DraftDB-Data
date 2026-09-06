@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:07:59.314015+00:00",
+  "lane": "reports",
+  "pid": "P379ec45447",
+  "draft_year": 2018,
+  "name": "Rodions Kurucs",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Rodions Kurucs\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Rodions+Kurucs%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Brooklyn Nets Draft Prospect: Rodions Kurucs - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMnlJdHFHWDRvVW1QLV9Fc2NJMThCck82R0ZQZnFVdURrWmI5b01pd25nM3pubmdKYUh1a1BfT1drTEs1Z1lnSVdSQVZwYlJKbWJFcGlMXy1nUXVOeFgzSmpQam91bkE2bFMwXzlySm1OZU84cW05bExZUjR1VEVWaGk4MXlOa0JRblc3VA?oc=5",
+      "published_date": "2018-06-19",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "ESPN Mock Draft has Knicks taking Harlem native Mohamed Bamba - Zagsblog",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNREZNLUtNSmNoYVV6ampxa0VvbklQSFQxR1BTM0NHc2VULUo5WXZjNUtBZEJpRXJtYndHMXZEQS1wYnRZOVhWTmVUUVBLeTBEUkxfcldhWmRVekxoc0V2WGNCMThpUTY5Uno0MVkxOUJTalBHMTNOamJ6ZEhYaGhvODdJblpHR295TjlSa2dFMU1IOWY5UTRZTjBn?oc=5",
+      "published_date": "2017-08-15",
+      "source": "Zagsblog",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Way-Too-Soon 2018 NBA Mock Draft: Can Anyone Compete with Michael Porter Jr.? - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS0p1V3BiR2pXM3J1aEl6TTd2Znh6QlBqTGJsRU8xb1MxekY2X0xHQ25SQmp5ZVRmdnJEVUtKZUhNWHg4YzE2U2VSNU1sS0FRSndaY1hNQUJBcnNiNWJGV1hIR2l6cGNPVHU1NFFMN2NkcjlzYTVuYUtBSGhGMTlFTExHc3lLb2s5MUszRVd5ZTU5MGJXMGlvR2ZkbVl2SWR0bzNmUHdLLUNyV0ZmeUVVcFo4SXl3RmNtaHc?oc=5",
+      "published_date": "2017-08-01",
+      "source": "Bleacher Report",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Brooklyn Nets Draft Prospect: Moritz Wagner - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSW9ma1pFYWpPVU9ObUJZdjk3Q0NTcWRMUGlDQnBGeFE3LWNLYXhrNjZkcXZYNDVfWHJHTks0bDY4VkhSdFRVSEFtLXZHZ1l0X1pScmJnN1RLMHVLRUZmbmpwSENDdFVzUmV5bzhqS2d0aG83a2MtMG5GdDRtc19DaHNKWjU5ZVBGZUNJ?oc=5",
+      "published_date": "2018-06-06",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "71c94e88fe2ac09719076fd10ffed8d40539060b57049892ed8f8472110162a7",
+  "feature_eligible": false
+}

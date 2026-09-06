@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:58:46.946017+00:00",
+  "lane": "reports",
+  "pid": "Pd5a40a7ee0",
+  "draft_year": 2016,
+  "name": "Ben Bentil",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Ben Bentil\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Ben+Bentil%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2016 NBA Draft Profile | Ben Bentil - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oNzJiLVB4TWh3SC1NLXA3bk92eld1VlpDdzR0OE8wRmFuQnc2Tk1tQ25aRWNNZkpWUHpDZ2pzNXQteXJXM0N6emJTNHdaQUVsQlJmdmpPWE1hYnZhSzBTTWotVEZlV2RpX2VSWHUwMWQ1eE9C?oc=5",
+      "published_date": "2016-06-06",
+      "source": "NBA.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Providence duo of Kris Dunn and Ben Bentil can cause USC trouble at both ends of the court - Orange County Register",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSWtiWjR5clljTEZEYW54X1lOTlktLTg0NmRFZXJaNEZrVm93UUFna2ljQzFrbFhuOUdzUU51cl9RaWZJaG53MEFocG9iLUJpTUN6Q2V2dEdiSDM5OWdNSHBBa0RmZ0owS0hkelpud3N4SFNFcUlVaDhoYzU0ZXJ6ZnB4Sl9CQU44QU5qLTlfcGw2YUR1aWJxd2xhUi0zelJOMUhSeFRIUklsVm1TWkFfOExJQWktVXljbVRiUXdlZmo3Q09oajgwUQ?oc=5",
+      "published_date": "2016-03-16",
+      "source": "Orange County Register",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA draft projections: Ranking Simmons, Ingram and top 40 - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWlplVllKQU52MlJBWWF3VFdnVTY4NlR4aDY0RkNhT1c3WGZvd1RXVW9xay1UWjJOV0J3MTBmdGk5Y19pTEdpZU1KTE51MEdLRl9zWExxLWluUUNVQzB2SlRWZmR3U1NVYWg2ajRfWC1FQ2Q4U0tqeUQ2d2JDLVlQS1JPSmRCY3dXMG1CREcwV19ZNWw4QWZzeC1ySlBEbktVRWFwNTRvYlY3NHNGRzJ1bVV0QmtaaEU4VVplcnliX2daTzA1U0E?oc=5",
+      "published_date": "2016-06-09",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Dick Vitale's 2016 NBA mock draft - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVHVlRFBfLWE5WEVWQXNUUGl3VVNoSG1xWmtrZlZsZTJlREprYldrZHB0RDVudWp4c3NJMjd3dm92VU5UREtrLXRrWlF5eTRUSnRWd3lQRm01dVBTSThZOXZRdHVRMl9Na25vM1owckhqOHZPV3dwU3o1X092dHZnSEk4eEdtY2FjeWp4NlpzZnZqUQ?oc=5",
+      "published_date": "2016-06-22",
+      "source": "ESPN",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 2,
+  "response_sha256": "49f913b96e31aa11819cb06b9a44768415604983baae405223366b28398ea88b",
+  "feature_eligible": false
+}

@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:52:08.012847+00:00",
+  "lane": "reports",
+  "pid": "P9e418f4c91",
+  "draft_year": 2015,
+  "name": "Michael Frazier",
+  "draft_date": "2015-06-25",
+  "status": "ok",
+  "query": "\"Michael Frazier\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2014-07-01 before:2015-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Michael+Frazier%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2014-07-01+before%3A2015-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "UF's Frazier declares for NBA draft - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNjFRREoweElCZHlZZVpXMzdTZG9wSGRJd01uMm9EVHVlbmxPY0NsSVJpN1kxV055b0ZmYk81ekdXMUxQdkJRSW1TaWFndldOZGt6cUkzck1vdVFGVTZkTEFuY0c3aUdTRWlmelJyUWR6QktSOHNzdHNmbUM3NUgzaDV1bWVkMmItaC1XeGJlcGt0TEF5VVBGMGJ3WnlTQVJpWU1NM2dNN19fVDlYZ3VWQjc4WHo2dHhiZEE?oc=5",
+      "published_date": "2015-03-26",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "9e14789df962d1769d0c57bea1f61da5f75d58cecc1729236a62a721633bb728",
+  "feature_eligible": false
+}

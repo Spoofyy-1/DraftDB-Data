@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:02:24.313008+00:00",
+  "lane": "reports",
+  "pid": "P518109d62a",
+  "draft_year": 2017,
+  "name": "Jaylen Johnson",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Jaylen Johnson\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Jaylen+Johnson%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Louisville basketball | Donovan Mitchell declares for NBA draft, won't hire agent - courier-journal.com",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTVhPclJwNkZya1Z5MWxuU2JoQlpNdE9Zc0VyOFVSY3hUWURyT1M4VUNkU0FyemFERXJJUlpxRTVkYTg3U2UxM3BUdTM0YjFzU3pNT09NUS1JX240WEYzMDlSb2dPOC1QSWxtQ08zMEZhVGtseVEyX1BYSTNfc1RCV3h2YXUzUnBjSEFhN1hSRV9rUXBuNUllYWxISW9DeGFNXzBnV2tqT1BXQzc3dUg1NkpDUlY2NFNLNGNuMUpMUld5TTdnTlB6d2R2XzdlVjVLZE42amVZczAxTGJNXzhhWmhRZ1B0YkhfVEt4bmVKb1RTanktNGc?oc=5",
+      "published_date": "2017-03-22",
+      "source": "courier-journal.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "09c127091cd7553ffae0152393bab4cfe6e5cc09eb9ce43f8c7b43799376ccbd",
+  "feature_eligible": false
+}

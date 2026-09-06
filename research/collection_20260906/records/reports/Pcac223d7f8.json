@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:05:34.730470+00:00",
+  "lane": "reports",
+  "pid": "Pcac223d7f8",
+  "draft_year": 2017,
+  "name": "Derrick Walton Jr.",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Derrick Walton Jr.\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Derrick+Walton+Jr.%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2017 NBA Profile: Derrick Walton Jr. (Michigan Wolverines) - BT Powerhouse",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONVN5N1BXSmxoaUMwZzdHeTM0OXkxZkNKRnNOZVZWelpoa0NVSmRnRnM1LUExd3UzS2ZGNG1PWnlJUmhRS21uOGQtNTRkbnc0dGFhbDFXeWJOSXpJdXpmTmdCbUlUcjNUZ1pYcUhnbHY5djJfOWxlcjFxNVVVQmc3dm1XcVE1dnJZNkZKVlpuTHJpY0dtYVc1QmU5QmMwU01HLURhandycmE5UlFLSl9ZZXhIRDRKeUVhRzB6X0VHZmM2MEFXWEdGNGhjMmthMXhyYU5JRk0waTNXQQ?oc=5",
+      "published_date": "2017-06-20",
+      "source": "BT Powerhouse",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Possible Michigan Jordan basketball jerseys leak online - Detroit Free Press",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYVVGNVpjVTVvbGMyUVBoZE9MTURFcTNSN1dmb2c1Sm04VDJxR1d1MjVXOU1GTTdvbVYxTXloSEJjclIxVUhmd2RINWNNOE9kSWUxcTFIQzlLTnNqcC1EdkJBVzNsWF9vQ2FIZm5CYVRYbnRmRThZZDhUMXhPOTY0czFBNWgyb3pIbkR4SjJyNW4zV1NrTGE0aHM4WURmMmtCblY3NHQwTU84N3NuZDZwdmg0NEoyZTVEWXVfZWJpRFY?oc=5",
+      "published_date": "2016-09-30",
+      "source": "Detroit Free Press",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "ec78e81c919af5607159d4d234be07e88d775fe5b4a9c71f4b4cf80d35bd2052",
+  "feature_eligible": false
+}

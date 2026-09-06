@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:53:36.081032+00:00",
+  "lane": "reports",
+  "pid": "Ped46c6be82",
+  "draft_year": 2015,
+  "name": "Branden Dawson",
+  "draft_date": "2015-06-25",
+  "status": "ok",
+  "query": "\"Branden Dawson\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2014-07-01 before:2015-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Branden+Dawson%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2014-07-01+before%3A2015-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "ESPN mock draft: Pistons take Mario Hezonja at No. 8 - The Detroit News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbTVDMzJ2WjdDajkxcG14SVJpaloxUHFyRTNsSjl0ZkVqRUhGVERWdjBGQTM0dkVzRTFsV1VDcXRHOGNkVFl0R1Y3TkRZemhBY0xrazJtUzJHcWtyenNrSTFrd0Z1ZmlXTmF3S3hoTzl5M2F2dFlPbnNCNnkta3J6OHhrdFQ3Rzc3MVFnZ2JMbDBhYTBwM3RsN3haeUtNMENWZ05fcnloVTlqbG51TTVtalNEZFp1WDA?oc=5",
+      "published_date": "2015-05-06",
+      "source": "The Detroit News",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Michigan State's Branden Dawson enters an unlikely and pivotal senior season - MLive.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWVVsS0hRS2JNRFRjV0VscHE5UzRyWWJmWHY5dnczd3NUME9NYzZwdDcyWWMwTFdCbm1tWm9DMU9FUFk2VEIyeVk4dk1pLVltakF2MGlWV2xBMmVuWjhuT2JqWjZhRFQ4VXg2a2FSZ0szUU4yV2YwV3FKWlpJVmFDb2dmUQ?oc=5",
+      "published_date": "2014-11-10",
+      "source": "MLive.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "IndyStar's annual All-Indiana College Basketball team - IndyStar",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONlZqU1l5MlM4RElmTDFNbTEwdGx3Ui1VaFlfbHhVbUJVMEl4MEFGLWZmdWVyODIzczdiZ0JaT3NnbUxkcnI2RzZuRmVBMkFnTFc5OGg4Sm8wRU9uLTgzMUJRQ1BoVXBueFZXLXVobE1UMTM3X2RnWlcyaGNRMW80cFlIYnVhYlhUSkw5b1ZCVnZpWnhuV2pFLTk5TFFwTmZsOUFFSE1ZWDluTmRNVjg1clRsRGhhaFhFWTh6TjNBOTN4TVNucVpXRG12OUpqTmNTd3BhQnRNTUs?oc=5",
+      "published_date": "2014-10-20",
+      "source": "IndyStar",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "41cad5b1da25448708a85340fe484839f73915ca68a12306ec214da9d55d4427",
+  "feature_eligible": false
+}

@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T10:58:10.825816+00:00",
+  "lane": "reports",
+  "pid": "Pc5a8d9d1d6",
+  "draft_year": 2016,
+  "name": "Taurean Prince",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Taurean Prince\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Taurean+Prince%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2016 NBA Draft Profile: Taurean Prince - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mOWpkbnR4elA1YUV5M0xBNHRYM2trQUJhUkpBWElfbHpscUtVTVFxMWViV2VHRnMyazdlM2xoem50TEJkSjdHc1BDSUxsQXN3a2F2R1NrNlhOTWt4amJLaVpsbnc0dnY3S2xmSmFR?oc=5",
+      "published_date": "2016-06-08",
+      "source": "NBA.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "SI's 2016 NBA Mock Draft roundtable - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYUJsVmpfc19ieFZCV1l5cy1ldE11dUYtYlJoSHpXZlFlT2tHQkRub0ZNa0VWanl4VjZvSlNKYlg1bWFqbXVVNEVCcjFSbDBQZWpuU0ZUZmFYRUh4V3JQWTUxZVRTZmlEVE0zMnhWYjJpSmFrVWxNME83dkg0WkJmQVd0dmRvVzYzZ0tKamIzQzQ3Qnl3Y3JKMjdiZjhSY0xT?oc=5",
+      "published_date": "2016-06-15",
+      "source": "Sports Illustrated",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Tim Quarterman NBA Draft Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Na3RVbDduaEE0YzRWT3k1UTh1bkZKSVE3d2tSTlpiLW9lZFBfLXNjcHFzU0RfelBOVTdmNUlVVXRFVlhWcVpTckFCREZtQnh1VFQ1ZFNWT0lRakM1ZV9VNmsyVEtpQTk4dUVWRnBfTVZkdzlL?oc=5",
+      "published_date": "2016-02-22",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA mock draft: Ben Simmons is our No. 1 pick too - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMnM5RVZnRGtrU1RRWVE4N2VjZWwxbkJlZ19XZ3FsMVNuWUhWektaRzRtRmY0TTZyRzlwNXRGVGp6a1k5aFVhZmVxTFZUd2VyX01rRVpEQmJBRU1OWGhmM0RTVWd3T3VzNk5ZenNvTnlrUDk2X1haNUR3M1ZVTGU1S2FvdGZ1eVU?oc=5",
+      "published_date": "2016-06-18",
+      "source": "Los Angeles Times",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Baylor\u2019s Taurean Prince shoots down reporter's question with savagely perfect answer - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOajFKR2g0b1lUZVpzMS01N2FXZzE1d0xmejJ0RFk0VXJhOVd1MlZKRjg0cF9ZWm54R0VWV1AxekQyYWl0TG5mM05hb3JNV29TNk96Z2RLRklBSU8xZ3NOcU5tYjJBd1pwbERGSXNYalYySVdBRlBocHB1SEMwYU1KNExGamlleC1Sdy1CYThnQ1praVllVnVXaEJKbkRxOGprQkhTZUY0OUdvTHJPY2N2NHQ5YTN5WUFLU09zY2tEV3Y5WHItZWp6aUMzRQ?oc=5",
+      "published_date": "2016-03-17",
+      "source": "USA Today",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "482f0f2e7d8ebb801d2f894bd8d2c2be9727564c5d7939e96c19750ed5d04a1c",
+  "feature_eligible": false
+}

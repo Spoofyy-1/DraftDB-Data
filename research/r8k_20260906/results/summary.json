@@ -1,0 +1,978 @@
+{
+  "pairs": [
+    {
+      "id": "pair02",
+      "features": [
+        "f50_team_share_dunk_a",
+        "f50_peer_rank_orb"
+      ],
+      "RR": 0.5058571580298762,
+      "RP": 0.49781576113852427,
+      "PR": 0.497924431667539,
+      "PP": 0.490691379687733,
+      "joint_minus_A_only": 0.008041396891351964,
+      "joint_minus_B_only": 0.007932726362337193,
+      "interaction": 0.0008083449115459662,
+      "folds": [
+        {
+          "season": 2012,
+          "RR": 0.5537277537277538,
+          "RP": 0.5423200256533591,
+          "PR": 0.5548661215327884,
+          "PP": 0.5468975468975471,
+          "joint_minus_A_only": 0.011407728074394755,
+          "joint_minus_B_only": -0.0011383678050344754,
+          "interaction": 0.003439153439153464,
+          "paired_seeds": [
+            {
+              "model_seed": 0,
+              "RR": 0.553823953823954,
+              "RP": 0.544925444925445,
+              "PR": 0.5571909571909573,
+              "PP": 0.5488455988455989,
+              "joint_minus_A_only": 0.008898508898508961,
+              "joint_minus_B_only": -0.0033670033670033517,
+              "interaction": 0.0005531505531505276,
+              "replicates": [
+                {
+                  "permutation_seed": 9317,
+                  "joint_minus_A_only": 0.013419913419913443,
+                  "joint_minus_B_only": -0.003391053391053389,
+                  "interaction": 0.0010822510822511289
+                },
+                {
+                  "permutation_seed": 18739,
+                  "joint_minus_A_only": 0.022150072150072253,
+                  "joint_minus_B_only": -0.0031746031746031633,
+                  "interaction": 0.007792207792207906
+                },
+                {
+                  "permutation_seed": 28657,
+                  "joint_minus_A_only": -0.008874458874458813,
+                  "joint_minus_B_only": -0.0035353535353535026,
+                  "interaction": -0.00721500721500723
+                }
+              ]
+            },
+            {
+              "model_seed": 101,
+              "RR": 0.5506493506493507,
+              "RP": 0.5401875901875903,
+              "PR": 0.5554834054834056,
+              "PP": 0.5441798941798943,
+              "joint_minus_A_only": 0.010461760461760394,
+              "joint_minus_B_only": -0.004834054834054857,
+              "interaction": -0.0008417508417508657,
+              "replicates": [
+                {
+                  "permutation_seed": 9317,
+                  "joint_minus_A_only": 0.021428571428571463,
+                  "joint_minus_B_only": -0.005339105339105421,
+                  "interaction": 0.0017316017316018062
+                },
+                {
+                  "permutation_seed": 18739,
+                  "joint_minus_A_only": 0.013852813852813783,
+                  "joint_minus_B_only": -0.006493506493506551,
+                  "interaction": -0.0074314574314574555
+                },
+                {
+                  "permutation_seed": 28657,
+                  "joint_minus_A_only": -0.003896103896103953,
+                  "joint_minus_B_only": -0.0026695526695525995,
+                  "interaction": 0.0031746031746032743
+                }
+              ]
+            },
+            {
+              "model_seed": 202,
+              "RR": 0.5567099567099568,
+              "RP": 0.5418470418470419,
+              "PR": 0.551924001924002,
+              "PP": 0.5476671476671479,
+              "joint_minus_A_only": 0.014862914862914911,
+              "joint_minus_B_only": 0.004785954785954782,
+              "interaction": 0.01060606060606073,
+              "replicates": [
+                {
+                  "permutation_seed": 9317,
+                  "joint_minus_A_only": 0.021861471861471915,
+                  "joint_minus_B_only": 0.002020202020202033,
+                  "interaction": 0.01176046176046186
+                },
+                {
+                  "permutation_seed": 18739,
+                  "joint_minus_A_only": 0.026551226551226548,
+                  "joint_minus_B_only": 0.005699855699855649,
+                  "interaction": 0.01565656565656559
+                },
+                {
+                  "permutation_seed": 28657,
+                  "joint_minus_A_only": -0.0038239538239538406,
+                  "joint_minus_B_only": 0.006637806637806554,
+                  "interaction": 0.004401154401154295
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "season": 2013,
+          "RR": 0.44957182873149254,
+          "RP": 0.4383246631986128,
+          "PR": 0.42922235560891026,
+          "PP": 0.41533946912098174,
+          "joint_minus_A_only": 0.0112471655328798,
+          "joint_minus_B_only": 0.020349473122582323,
+          "interaction": -0.002635720955048696,
+          "paired_seeds": [
+            {
+              "model_seed": 0,
+              "RR": 0.45075630252100835,
+              "RP": 0.4414405762304922,
+              "PR": 0.42933973589435775,
+              "PP": 0.4132372949179672,
+              "joint_minus_A_only": 0.009315726290516135,
+              "joint_minus_B_only": 0.02141656662665059,
+              "interaction": -0.00678671468587444,
+              "replicates": [
+                {
+                  "permutation_seed": 9317,
+                  "joint_minus_A_only": 0.011524609843937494,
+                  "joint_minus_B_only": 0.03966386554621848,
+                  "interaction": -0.00019207683073241277
+                },
+                {
+                  "permutation_seed": 18739,
+                  "joint_minus_A_only": 0.014309723889555814,
+                  "joint_minus_B_only": 0.011428571428571399,
+                  "interaction": -0.016422569027611023
+                },
+                {
+                  "permutation_seed": 28657,
+                  "joint_minus_A_only": 0.0021128451380551527,
+                  "joint_minus_B_only": 0.013157262905162004,
+                  "interaction": -0.003745498199279884
+                }
+              ]
+            },
+            {
+              "model_seed": 101,
+              "RR": 0.44998799519807914,
+              "RP": 0.4412805122048819,
+              "PR": 0.43298919567827127,
+              "PP": 0.4169827931172469,
+              "joint_minus_A_only": 0.008707482993197235,
+              "joint_minus_B_only": 0.016998799519807872,
+              "interaction": -0.0072989195678271335,
+              "replicates": [
+                {
+                  "permutation_seed": 9317,
+                  "joint_minus_A_only": 0.014693877551020362,
+                  "joint_minus_B_only": 0.036782713085234064,
+                  "interaction": 0.0072989195678271335
+                },
+                {
+                  "permutation_seed": 18739,
+                  "joint_minus_A_only": 0.0127731092436974,
+                  "joint_minus_B_only": 0.009411764705882342,
+                  "interaction": -0.015366146458583418
+                },
+                {
+                  "permutation_seed": 28657,
+                  "joint_minus_A_only": -0.0013445378151261123,
+                  "joint_minus_B_only": 0.004801920768307266,
+                  "interaction": -0.013829531812725115
+                }
+              ]
+            },
+            {
+              "model_seed": 202,
+              "RR": 0.44797118847539014,
+              "RP": 0.4322529011604641,
+              "PR": 0.42533813525410163,
+              "PP": 0.4157983193277311,
+              "joint_minus_A_only": 0.015718287314926027,
+              "joint_minus_B_only": 0.0226330532212885,
+              "interaction": 0.006178471388555484,
+              "replicates": [
+                {
+                  "permutation_seed": 9317,
+                  "joint_minus_A_only": 0.022088835534213758,
+                  "joint_minus_B_only": 0.043025210084033594,
+                  "interaction": 0.023625450180072116
+                },
+                {
+                  "permutation_seed": 18739,
+                  "joint_minus_A_only": 0.019303721488595438,
+                  "joint_minus_B_only": 0.014405762304921965,
+                  "interaction": -0.0053781512605041715
+                },
+                {
+                  "permutation_seed": 28657,
+                  "joint_minus_A_only": 0.0057623049219688305,
+                  "joint_minus_B_only": 0.010468187274910001,
+                  "interaction": 0.0002881152460984526
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "season": 2014,
+          "RR": 0.5142718916303822,
+          "RP": 0.5128025945636008,
+          "PR": 0.5096848178609185,
+          "PP": 0.5098371230446702,
+          "joint_minus_A_only": 0.0014692970667813388,
+          "joint_minus_B_only": 0.00458707376946373,
+          "interaction": 0.0016216022505331311,
+          "paired_seeds": [
+            {
+              "model_seed": 0,
+              "RR": 0.5144331559425899,
+              "RP": 0.5124711068107294,
+              "PR": 0.507713809600602,
+              "PP": 0.5108047089179165,
+              "joint_minus_A_only": 0.0019620491318604882,
+              "joint_minus_B_only": 0.006719346341987897,
+              "interaction": 0.005052948449175032,
+              "replicates": [
+                {
+                  "permutation_seed": 9317,
+                  "joint_minus_A_only": 0.0008869537171423136,
+                  "joint_minus_B_only": -0.0008869537171424247,
+                  "interaction": 8.063215610376595e-05
+                },
+                {
+                  "permutation_seed": 18739,
+                  "joint_minus_A_only": 0.00548298661506208,
+                  "joint_minus_B_only": 0.013868730849862954,
+                  "interaction": 0.005966779551685231
+                },
+                {
+                  "permutation_seed": 28657,
+                  "joint_minus_A_only": -0.0004837929366231508,
+                  "joint_minus_B_only": 0.007176261893243052,
+                  "interaction": 0.009111433639735544
+                }
+              ]
+            },
+            {
+              "model_seed": 101,
+              "RR": 0.5134655700693436,
+              "RP": 0.5116110304789551,
+              "PR": 0.5076331774444981,
+              "PP": 0.5078213191420738,
+              "joint_minus_A_only": 0.0018545395903885042,
+              "joint_minus_B_only": 0.005832392624845473,
+              "interaction": 0.002042681287964254,
+              "replicates": [
+                {
+                  "permutation_seed": 9317,
+                  "joint_minus_A_only": -0.0007256894049346707,
+                  "joint_minus_B_only": 0.00032252862441539687,
+                  "interaction": 0.002338332527011877
+                },
+                {
+                  "permutation_seed": 18739,
+                  "joint_minus_A_only": 0.004354136429608024,
+                  "joint_minus_B_only": 0.014916948879212966,
+                  "interaction": 0.00016126431220764292
+                },
+                {
+                  "permutation_seed": 28657,
+                  "joint_minus_A_only": 0.0019351717464924922,
+                  "joint_minus_B_only": 0.002257700370907778,
+                  "interaction": 0.0036284470246733536
+                }
+              ]
+            },
+            {
+              "model_seed": 202,
+              "RR": 0.514916948879213,
+              "RP": 0.514325646401118,
+              "PR": 0.5137074665376552,
+              "PP": 0.5108853410740203,
+              "joint_minus_A_only": 0.0005913024780950238,
+              "joint_minus_B_only": 0.0012094823415578215,
+              "interaction": -0.002230822985539893,
+              "replicates": [
+                {
+                  "permutation_seed": 9317,
+                  "joint_minus_A_only": -0.005321722302854437,
+                  "joint_minus_B_only": -0.005563618771165846,
+                  "interaction": -0.005563618771165846
+                },
+                {
+                  "permutation_seed": 18739,
+                  "joint_minus_A_only": 0.0062893081761006275,
+                  "joint_minus_B_only": 0.009756490888566338,
+                  "interaction": 0.00032252862441539687
+                },
+                {
+                  "permutation_seed": 28657,
+                  "joint_minus_A_only": 0.0008063215610385477,
+                  "joint_minus_B_only": -0.0005644250927269168,
+                  "interaction": -0.0014513788098693414
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "passes": true
+    },
+    {
+      "id": "pair01",
+      "features": [
+        "f50_rim_ft_pressure",
+        "f50_peer_rank_orb"
+      ],
+      "RR": 0.5110854299644533,
+      "RP": 0.5046304142712015,
+      "PR": 0.49805001654481074,
+      "PP": 0.49192014452201543,
+      "joint_minus_A_only": 0.0064550156932518645,
+      "joint_minus_B_only": 0.013035413419642544,
+      "interaction": 0.00032514367045654555,
+      "folds": [
+        {
+          "season": 2012,
+          "RR": 0.5609668109668111,
+          "RP": 0.5535353535353537,
+          "PR": 0.5539682539682541,
+          "PP": 0.5435786435786436,
+          "joint_minus_A_only": 0.0074314574314574555,
+          "joint_minus_B_only": 0.006998556998556967,
+          "interaction": -0.0029581529581530486,
+          "paired_seeds": [
+            {
+              "model_seed": 0,
+              "RR": 0.5644300144300145,
+              "RP": 0.5551948051948052,
+              "PR": 0.5575517075517077,
+              "PP": 0.5481481481481482,
+              "joint_minus_A_only": 0.009235209235209263,
+              "joint_minus_B_only": 0.006878306878306817,
+              "interaction": -0.00016835016835026195,
+              "replicates": [
+                {
+                  "permutation_seed": 9317,
+                  "joint_minus_A_only": 0.01868686868686864,
+                  "joint_minus_B_only": -0.0025974025974027093,
+                  "interaction": 0.01529581529581514
+                },
+                {
+                  "permutation_seed": 18739,
+                  "joint_minus_A_only": 0.010966810966810958,
+                  "joint_minus_B_only": -0.007647907647907681,
+                  "interaction": -0.01522366522366525
+                },
+                {
+                  "permutation_seed": 28657,
+                  "joint_minus_A_only": -0.001948051948051921,
+                  "joint_minus_B_only": 0.030880230880230952,
+                  "interaction": -0.000577200577200454
+                }
+              ]
+            },
+            {
+              "model_seed": 101,
+              "RR": 0.5596681096681098,
+              "RP": 0.5581048581048582,
+              "PR": 0.5501202501202503,
+              "PP": 0.5402116402116403,
+              "joint_minus_A_only": 0.0015632515632515442,
+              "joint_minus_B_only": 0.009547859547859416,
+              "interaction": -0.008345358345358544,
+              "replicates": [
+                {
+                  "permutation_seed": 9317,
+                  "joint_minus_A_only": 0.00533910533910531,
+                  "joint_minus_B_only": -0.005627705627705648,
+                  "interaction": -0.0023809523809523725
+                },
+                {
+                  "permutation_seed": 18739,
+                  "joint_minus_A_only": 0.005050505050505083,
+                  "joint_minus_B_only": -0.0012265512265512424,
+                  "interaction": -0.020490620490620448
+                },
+                {
+                  "permutation_seed": 28657,
+                  "joint_minus_A_only": -0.00569985569985576,
+                  "joint_minus_B_only": 0.03549783549783536,
+                  "interaction": -0.0021645021645023688
+                }
+              ]
+            },
+            {
+              "model_seed": 202,
+              "RR": 0.558802308802309,
+              "RP": 0.5473063973063974,
+              "PR": 0.5542328042328043,
+              "PP": 0.5423761423761424,
+              "joint_minus_A_only": 0.01149591149591156,
+              "joint_minus_B_only": 0.004569504569504668,
+              "interaction": -0.0003607503607503393,
+              "replicates": [
+                {
+                  "permutation_seed": 9317,
+                  "joint_minus_A_only": 0.020779220779220897,
+                  "joint_minus_B_only": -0.007575757575757458,
+                  "interaction": 0.013564213564213667
+                },
+                {
+                  "permutation_seed": 18739,
+                  "joint_minus_A_only": 0.012698412698412764,
+                  "joint_minus_B_only": -0.010173160173160167,
+                  "interaction": -0.01868686868686864
+                },
+                {
+                  "permutation_seed": 28657,
+                  "joint_minus_A_only": 0.0010101010101011276,
+                  "joint_minus_B_only": 0.031457431457431406,
+                  "interaction": 0.004040404040403955
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "season": 2013,
+          "RR": 0.4415686274509804,
+          "RP": 0.4346431906095771,
+          "PR": 0.4315272775776977,
+          "PP": 0.41879685207416295,
+          "joint_minus_A_only": 0.00692543684140325,
+          "joint_minus_B_only": 0.010041349873282627,
+          "interaction": -0.005804988662131545,
+          "paired_seeds": [
+            {
+              "model_seed": 0,
+              "RR": 0.44201680672268906,
+              "RP": 0.4330212084833933,
+              "PR": 0.43097238895558226,
+              "PP": 0.42005602240896356,
+              "joint_minus_A_only": 0.008995598239295743,
+              "joint_minus_B_only": 0.011044417767106796,
+              "interaction": -0.001920768307322962,
+              "replicates": [
+                {
+                  "permutation_seed": 9317,
+                  "joint_minus_A_only": 0.008931572629051643,
+                  "joint_minus_B_only": 0.009411764705882342,
+                  "interaction": 0.008355342136854682
+                },
+                {
+                  "permutation_seed": 18739,
+                  "joint_minus_A_only": 0.015942376950780324,
+                  "joint_minus_B_only": 0.007394957983193284,
+                  "interaction": -0.010756302521008454
+                },
+                {
+                  "permutation_seed": 28657,
+                  "joint_minus_A_only": 0.0021128451380552082,
+                  "joint_minus_B_only": 0.01632653061224487,
+                  "interaction": -0.0033613445378151696
+                }
+              ]
+            },
+            {
+              "model_seed": 101,
+              "RR": 0.44076830732292915,
+              "RP": 0.4390396158463385,
+              "PR": 0.43231692677070827,
+              "PP": 0.4208243297318927,
+              "joint_minus_A_only": 0.0017286914765906602,
+              "joint_minus_B_only": 0.008451380552220888,
+              "interaction": -0.009763905562224895,
+              "replicates": [
+                {
+                  "permutation_seed": 9317,
+                  "joint_minus_A_only": 0.005570228091236529,
+                  "joint_minus_B_only": 0.0005762304921969053,
+                  "interaction": -0.004705882352941115
+                },
+                {
+                  "permutation_seed": 18739,
+                  "joint_minus_A_only": 0.004033613445378226,
+                  "joint_minus_B_only": 0.009603841536614699,
+                  "interaction": -0.013061224489795797
+                },
+                {
+                  "permutation_seed": 28657,
+                  "joint_minus_A_only": -0.004417767106842718,
+                  "joint_minus_B_only": 0.015174069627851117,
+                  "interaction": -0.011524609843937605
+                }
+              ]
+            },
+            {
+              "model_seed": 202,
+              "RR": 0.4419207683073229,
+              "RP": 0.43186874749899956,
+              "PR": 0.4312925170068027,
+              "PP": 0.4155102040816326,
+              "joint_minus_A_only": 0.010052020808323348,
+              "joint_minus_B_only": 0.010628251300520197,
+              "interaction": -0.00573029211684678,
+              "replicates": [
+                {
+                  "permutation_seed": 9317,
+                  "joint_minus_A_only": 0.009987995198079247,
+                  "joint_minus_B_only": 0.0036494597839135667,
+                  "interaction": -0.006626650660264077
+                },
+                {
+                  "permutation_seed": 18739,
+                  "joint_minus_A_only": 0.018151260504201683,
+                  "joint_minus_B_only": 0.010948379351740645,
+                  "interaction": -0.002016806722689113
+                },
+                {
+                  "permutation_seed": 28657,
+                  "joint_minus_A_only": 0.0020168067226890574,
+                  "joint_minus_B_only": 0.01728691476590638,
+                  "interaction": -0.00854741896758704
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "season": 2014,
+          "RR": 0.5307208514755684,
+          "RP": 0.5257126986686735,
+          "PR": 0.5086545180884804,
+          "PP": 0.5133849379132397,
+          "joint_minus_A_only": 0.00500815280689489,
+          "joint_minus_B_only": 0.02206633338708804,
+          "interaction": 0.00973857263165423,
+          "paired_seeds": [
+            {
+              "model_seed": 0,
+              "RR": 0.5213675213675214,
+              "RP": 0.5206149545772187,
+              "PR": 0.5077406869859701,
+              "PP": 0.5127667580497769,
+              "joint_minus_A_only": 0.0007525667903026667,
+              "joint_minus_B_only": 0.013626834381551323,
+              "interaction": 0.005778637854109481,
+              "replicates": [
+                {
+                  "permutation_seed": 9317,
+                  "joint_minus_A_only": 0.0020158039025964802,
+                  "joint_minus_B_only": 0.012256087727785858,
+                  "interaction": 0.0034671827124658217
+                },
+                {
+                  "permutation_seed": 18739,
+                  "joint_minus_A_only": 0.010643444605708763,
+                  "joint_minus_B_only": 0.010885341074020394,
+                  "interaction": 0.01144976616674731
+                },
+                {
+                  "permutation_seed": 28657,
+                  "joint_minus_A_only": -0.010401548137397132,
+                  "joint_minus_B_only": 0.017739074342847938,
+                  "interaction": 0.002418964683115643
+                }
+              ]
+            },
+            {
+              "model_seed": 101,
+              "RR": 0.5377358490566038,
+              "RP": 0.5272536687631028,
+              "PR": 0.506047411707789,
+              "PP": 0.5125248615814653,
+              "joint_minus_A_only": 0.010482180293501009,
+              "joint_minus_B_only": 0.03168843734881477,
+              "interaction": 0.016959630167177275,
+              "replicates": [
+                {
+                  "permutation_seed": 9317,
+                  "joint_minus_A_only": 0.009756490888566338,
+                  "joint_minus_B_only": 0.028221254636348947,
+                  "interaction": 0.009917755200773981
+                },
+                {
+                  "permutation_seed": 18739,
+                  "joint_minus_A_only": 0.01967424608934043,
+                  "joint_minus_B_only": 0.028785679729075975,
+                  "interaction": 0.01991614255765195
+                },
+                {
+                  "permutation_seed": 28657,
+                  "joint_minus_A_only": 0.002015803902596369,
+                  "joint_minus_B_only": 0.03805837768101916,
+                  "interaction": 0.021044992743105895
+                }
+              ]
+            },
+            {
+              "model_seed": 202,
+              "RR": 0.5330591840025801,
+              "RP": 0.5292694726656991,
+              "PR": 0.5121754555716821,
+              "PP": 0.514863194108477,
+              "joint_minus_A_only": 0.0037897113368809965,
+              "joint_minus_B_only": 0.02088372843089803,
+              "interaction": 0.006477449873675933,
+              "replicates": [
+                {
+                  "permutation_seed": 9317,
+                  "joint_minus_A_only": -0.0033059184002581787,
+                  "joint_minus_B_only": 0.024995968392194645,
+                  "interaction": 0.0062086760199965285
+                },
+                {
+                  "permutation_seed": 18739,
+                  "joint_minus_A_only": 0.018545395903886375,
+                  "joint_minus_B_only": 0.017094017094016922,
+                  "interaction": 0.011449766166747088
+                },
+                {
+                  "permutation_seed": 28657,
+                  "joint_minus_A_only": -0.0038703434929850955,
+                  "joint_minus_B_only": 0.020561199806482744,
+                  "interaction": 0.0017739074342846273
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "passes": true
+    },
+    {
+      "id": "pair00",
+      "features": [
+        "f50_rim_ft_pressure",
+        "f50_team_share_dunk_a"
+      ],
+      "RR": 0.5048196075916599,
+      "RP": 0.5054726965073494,
+      "PR": 0.49557676840167203,
+      "PP": 0.48786706341750996,
+      "joint_minus_A_only": -0.0006530889156895545,
+      "joint_minus_B_only": 0.009242839189987874,
+      "interaction": -0.008362793899851487,
+      "folds": [
+        {
+          "season": 2012,
+          "RR": 0.5533670033670036,
+          "RP": 0.557511624178291,
+          "PR": 0.5427128427128428,
+          "PP": 0.5447250280583615,
+          "joint_minus_A_only": -0.004144620811287451,
+          "joint_minus_B_only": 0.01065416065416073,
+          "interaction": -0.0021324354657687263,
+          "paired_seeds": [
+            {
+              "model_seed": 0,
+              "RR": 0.5554834054834057,
+              "RP": 0.5584896584896586,
+              "PR": 0.545863395863396,
+              "PP": 0.5492544492544494,
+              "joint_minus_A_only": -0.0030062530062529014,
+              "joint_minus_B_only": 0.00962000962000964,
+              "interaction": 0.0003848003848004877,
+              "replicates": [
+                {
+                  "permutation_seed": 9317,
+                  "joint_minus_A_only": -0.002525252525252375,
+                  "joint_minus_B_only": -0.004112554112554068,
+                  "interaction": 0.0010101010101011276
+                },
+                {
+                  "permutation_seed": 18739,
+                  "joint_minus_A_only": -0.004473304473304296,
+                  "joint_minus_B_only": -0.0020923520923520345,
+                  "interaction": -0.006854256854256668
+                },
+                {
+                  "permutation_seed": 28657,
+                  "joint_minus_A_only": -0.002020202020201922,
+                  "joint_minus_B_only": 0.03506493506493513,
+                  "interaction": 0.006998556998557004
+                }
+              ]
+            },
+            {
+              "model_seed": 101,
+              "RR": 0.5518759018759021,
+              "RP": 0.5631794131794133,
+              "PR": 0.5417267917267918,
+              "PP": 0.540812890812891,
+              "joint_minus_A_only": -0.01130351130351126,
+              "joint_minus_B_only": 0.010149110149110241,
+              "interaction": -0.012217412217412127,
+              "replicates": [
+                {
+                  "permutation_seed": 9317,
+                  "joint_minus_A_only": -0.012626262626262652,
+                  "joint_minus_B_only": -0.009740259740259716,
+                  "interaction": -0.017243867243867284
+                },
+                {
+                  "permutation_seed": 18739,
+                  "joint_minus_A_only": -0.0077200577200576825,
+                  "joint_minus_B_only": -0.0035353535353533916,
+                  "interaction": -0.009379509379509265
+                },
+                {
+                  "permutation_seed": 28657,
+                  "joint_minus_A_only": -0.013564213564213556,
+                  "joint_minus_B_only": 0.04372294372294383,
+                  "interaction": -0.010028860028860054
+                }
+              ]
+            },
+            {
+              "model_seed": 202,
+              "RR": 0.5527417027417029,
+              "RP": 0.5508658008658011,
+              "PR": 0.5405483405483406,
+              "PP": 0.5441077441077442,
+              "joint_minus_A_only": 0.0018759018759018087,
+              "joint_minus_B_only": 0.012193362193362312,
+              "interaction": 0.00543530543530546,
+              "replicates": [
+                {
+                  "permutation_seed": 9317,
+                  "joint_minus_A_only": 0.003102453102453051,
+                  "joint_minus_B_only": -0.0013708513708513559,
+                  "interaction": 0.008585858585858586
+                },
+                {
+                  "permutation_seed": 18739,
+                  "joint_minus_A_only": 0.0010822510822511289,
+                  "joint_minus_B_only": -0.004401154401154406,
+                  "interaction": 0.002236652236652259
+                },
+                {
+                  "permutation_seed": 28657,
+                  "joint_minus_A_only": 0.0014430014430014682,
+                  "joint_minus_B_only": 0.04235209235209236,
+                  "interaction": 0.005483405483405535
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "season": 2013,
+          "RR": 0.44665866346538613,
+          "RP": 0.4334267040149393,
+          "PR": 0.43471788715486187,
+          "PP": 0.41013205282112836,
+          "joint_minus_A_only": 0.013231959450446787,
+          "joint_minus_B_only": 0.011940776310524204,
+          "interaction": -0.011353874883286708,
+          "paired_seeds": [
+            {
+              "model_seed": 0,
+              "RR": 0.4447058823529411,
+              "RP": 0.42978791516606646,
+              "PR": 0.43186874749899956,
+              "PP": 0.4115726290516206,
+              "joint_minus_A_only": 0.014917967186874659,
+              "joint_minus_B_only": 0.012837134853941556,
+              "interaction": -0.0053781512605042825,
+              "replicates": [
+                {
+                  "permutation_seed": 9317,
+                  "joint_minus_A_only": 0.02785114045618242,
+                  "joint_minus_B_only": 0.007010804321728625,
+                  "interaction": -0.01037214885954385
+                },
+                {
+                  "permutation_seed": 18739,
+                  "joint_minus_A_only": 0.004033613445378059,
+                  "joint_minus_B_only": 0.00979591836734689,
+                  "interaction": -0.012292917166866812
+                },
+                {
+                  "permutation_seed": 28657,
+                  "joint_minus_A_only": 0.012869147659063551,
+                  "joint_minus_B_only": 0.021704681872749043,
+                  "interaction": 0.006530612244897871
+                }
+              ]
+            },
+            {
+              "model_seed": 101,
+              "RR": 0.4468187274909964,
+              "RP": 0.4378231292517007,
+              "PR": 0.43667066826730694,
+              "PP": 0.4129171668667467,
+              "joint_minus_A_only": 0.008995598239295688,
+              "joint_minus_B_only": 0.010148059223689443,
+              "interaction": -0.014757903161264574,
+              "replicates": [
+                {
+                  "permutation_seed": 9317,
+                  "joint_minus_A_only": 0.022857142857142854,
+                  "joint_minus_B_only": 0.0036494597839135667,
+                  "interaction": -0.018823529411764683
+                },
+                {
+                  "permutation_seed": 18739,
+                  "joint_minus_A_only": 0.0012484993997599614,
+                  "joint_minus_B_only": 0.009795918367346945,
+                  "interaction": -0.01786314525810323
+                },
+                {
+                  "permutation_seed": 28657,
+                  "joint_minus_A_only": 0.0028811524609843597,
+                  "joint_minus_B_only": 0.016998799519807872,
+                  "interaction": -0.007587034813925642
+                }
+              ]
+            },
+            {
+              "model_seed": 202,
+              "RR": 0.44845138055222084,
+              "RP": 0.4326690676270508,
+              "PR": 0.4356142456982792,
+              "PP": 0.40590636254501794,
+              "joint_minus_A_only": 0.015782312925170017,
+              "joint_minus_B_only": 0.012837134853941612,
+              "interaction": -0.013925570228091266,
+              "replicates": [
+                {
+                  "permutation_seed": 9317,
+                  "joint_minus_A_only": 0.02929171668667463,
+                  "joint_minus_B_only": 0.003169267707082868,
+                  "interaction": -0.02074429771908759
+                },
+                {
+                  "permutation_seed": 18739,
+                  "joint_minus_A_only": 0.00749099639855938,
+                  "joint_minus_B_only": 0.009795918367346945,
+                  "interaction": -0.013253301320528266
+                },
+                {
+                  "permutation_seed": 28657,
+                  "joint_minus_A_only": 0.010564225690276097,
+                  "joint_minus_B_only": 0.025546218487394967,
+                  "interaction": -0.007779111644657832
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "season": 2014,
+          "RR": 0.5144331559425899,
+          "RP": 0.5254797613288179,
+          "PR": 0.5092995753373112,
+          "PP": 0.5087441093730402,
+          "joint_minus_A_only": -0.011046605386228,
+          "joint_minus_B_only": 0.005133580605278687,
+          "interaction": -0.01160207135049903,
+          "paired_seeds": [
+            {
+              "model_seed": 0,
+              "RR": 0.5136268343815513,
+              "RP": 0.5217975595334085,
+              "PR": 0.5069612428102994,
+              "PP": 0.5063430629468364,
+              "joint_minus_A_only": -0.008170725151857128,
+              "joint_minus_B_only": 0.006665591571251905,
+              "interaction": -0.008788905015320148,
+              "replicates": [
+                {
+                  "permutation_seed": 9317,
+                  "joint_minus_A_only": -0.014836316723109144,
+                  "joint_minus_B_only": 0.007014997581035298,
+                  "interaction": -0.012981777132720529
+                },
+                {
+                  "permutation_seed": 18739,
+                  "joint_minus_A_only": 0.0007256894049346707,
+                  "joint_minus_B_only": 0.0038703434929849845,
+                  "interaction": -0.008788905015320148
+                },
+                {
+                  "permutation_seed": 28657,
+                  "joint_minus_A_only": -0.010401548137397243,
+                  "joint_minus_B_only": 0.009111433639735544,
+                  "interaction": -0.004596032897919766
+                }
+              ]
+            },
+            {
+              "model_seed": 101,
+              "RR": 0.5172552814062248,
+              "RP": 0.5262592055044885,
+              "PR": 0.50774068698597,
+              "PP": 0.5080900929957534,
+              "joint_minus_A_only": -0.009003924098263671,
+              "joint_minus_B_only": 0.009514594420254818,
+              "interaction": -0.008654518088480279,
+              "replicates": [
+                {
+                  "permutation_seed": 9317,
+                  "joint_minus_A_only": -0.01669085631349776,
+                  "joint_minus_B_only": 0.007498790517658449,
+                  "interaction": -0.014997581035316787
+                },
+                {
+                  "permutation_seed": 18739,
+                  "joint_minus_A_only": -0.0031446540880503138,
+                  "joint_minus_B_only": 0.007740686985969969,
+                  "interaction": -0.01144976616674731
+                },
+                {
+                  "permutation_seed": 28657,
+                  "joint_minus_A_only": -0.007176261893242941,
+                  "joint_minus_B_only": 0.013304305757135926,
+                  "interaction": 0.0004837929366231508
+                }
+              ]
+            },
+            {
+              "model_seed": 202,
+              "RR": 0.5124173520399935,
+              "RP": 0.5283825189485567,
+              "PR": 0.5131967962156642,
+              "PP": 0.5117991721765307,
+              "joint_minus_A_only": -0.0159651669085632,
+              "joint_minus_B_only": -0.0007794441756706627,
+              "interaction": -0.01736279094769666,
+              "replicates": [
+                {
+                  "permutation_seed": 9317,
+                  "joint_minus_A_only": -0.023383325270117772,
+                  "joint_minus_B_only": 0.00016126431220764292,
+                  "interaction": -0.019109820996613514
+                },
+                {
+                  "permutation_seed": 18739,
+                  "joint_minus_A_only": -0.004757297210127409,
+                  "joint_minus_B_only": 0.0002418964683115199,
+                  "interaction": -0.00870827285921627
+                },
+                {
+                  "permutation_seed": 28657,
+                  "joint_minus_A_only": -0.019754878245444307,
+                  "joint_minus_B_only": -0.00274149330753104,
+                  "interaction": -0.024270278987260085
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "passes": false
+    }
+  ],
+  "provisional_pairs": [
+    "pair02",
+    "pair01"
+  ],
+  "interpretation": "Pre-2019 paired representation effects. RR reused across permutations is not an independent replication. Interaction is reported separately from incremental value. No test selection."
+}

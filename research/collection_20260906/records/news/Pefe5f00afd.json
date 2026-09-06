@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:56:04.946309+00:00",
+  "lane": "news",
+  "pid": "Pefe5f00afd",
+  "draft_year": 2018,
+  "name": "Ryan Broekhoff",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Ryan Broekhoff\" (draft OR scouting OR prospect OR basketball) after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Ryan+Broekhoff%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Top 30 Australian college basketball players of all time - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQkFtUEpERTJubC1yZWdCeEtWdE1uNWQwejBWR1NiRlhUMmtYVjRXTExrVExOWnBJZmNEVzlPTXpqMDFGMzVzZ3BEWEx2QXFLM0N0RmFfd3BzVHZEX0tzTlJBbVF4Z19ZZVBNblpDbm9IOXlYRGNzTEYySWE3MXBKY2ZudkxSQTliT3dNZUlYT0pNd2Y1X3Q3bTd6V1lnZC0x?oc=5",
+      "published_date": "2017-11-10",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Building the best Valparaiso basketball lineup from the past 25 years - IndyStar",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUS0yZVR4dTNrRVRwUTZhTXJqU2lBdElNRVpQaExJWmRfck1SN0dMbGtScDFnZkduVFBrb3NEbE1OeFNOSWs5dUVkVndQdWZNWWlMWGRsNHplR21pVmp0Z2prMzVCaFlrV1lMZVZrWHREZEVzS0RlSlpMLUxfcE5JY29kNnlvSmZmbXNBbVVJR0VRRWNTWUQ5N0RzNzctMUZVcG9pa3d2UjgxS01DVThlU0VxY1NTc2hLYjFYdThPc2dKZw?oc=5",
+      "published_date": "2017-11-02",
+      "source": "IndyStar",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Australia, New Zealand signify FIBA Asia power shift - Philstar.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT1JrV1VzMllFLVdTNkZtbEdJaFBIbWxBUWhmeUdoVndSa0hMZW8tZ0s1Skkwd01FS1hRSGY3SmlIN3JDVWl2NWQwM2RkU21OTEU0QXRLc3FuY3pvZksyVlZscmU2Y1FVbmQzajR0SDhGWDBTRkxldHlYOE5fXzdPMlY1ZXJhNXlZRDNFWVpSMTgzWDZKSVB4OU5DN1hIeTUxN3hsdtIBqwFBVV95cUxNeFlGOXRnWFZ0Um9SM21zaGxVNThwWmQtREp0bDJnNmxWeF9lUGo2R2Fhc1FkYWtQWUd4UTN1aURBNnJQUVJDb0hLNVBuWHhOYTJJcDBwYXNkM0I2dHVELVFnUlZyOGo2dHhDR1JIYlVJN3hfTlo4eU9YVmdpR0dXV3R2U3psdDRCNVI5S21SVXJ3Wlc2TGtZT2RfbGZteWZRcTRVdnIxUzA1UEk?oc=5",
+      "published_date": "2017-08-21",
+      "source": "Philstar.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "8e1c4302e3de25fe720db1535d5e398113d12b612b1077362647f3b171756eaa",
+  "feature_eligible": false
+}

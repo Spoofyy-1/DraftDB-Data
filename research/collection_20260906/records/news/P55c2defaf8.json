@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:51:36.244340+00:00",
+  "lane": "news",
+  "pid": "P55c2defaf8",
+  "draft_year": 2018,
+  "name": "Mitchell Creek",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Mitchell Creek\" (draft OR scouting OR prospect OR basketball) after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Mitchell+Creek%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Aussie Boomers announced for FIBA Asia Cup - Fox Sports",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaW8xd1EySFR3OXl1M3NqRGI5RTVCdU5lZjFSUnM1UlYyVTc4dXRyNHJSdXdYV1luYTk4VkFMWVB0elFvaFgzRldFYnpPVzFsWHY5dHUtMWpfekUtQmJrdmdrckhYQkhjT1FSOExPLWpTTWp3VkpMQnhpSDh3dF92UWdJY3pPeTBIQUsxS3JwcG5JOTk0WnlYZS0yQ2JUcjMwa1ZzM21zWVVhSlJhYXlCTndpWGdMT094Z21SbjYwbFRObkI0TjhtbzFPQWtReWJQaWfSAdcBQVVfeXFMTUhhU1NaMGxtbFltV2hHVXNSbEh4bFVMMVUwejdzNkNUdVBNb0xSVUtoR0ZHQm4wWlgtWWd6Y2pBRW9iUER4aE1aMFRKTjJNNXMxZHIxTjZyRGhPWVBGZU5wUDNHSFlIMlJiV0RoQ2ZpMnk4ZnhjSFRCLUJZOHVBeEtnVVY0Q2N5ZmRhbVFYN3hmQzFnZGN4U2E1dFBqMTNDakdhWUp1dUhOd2FyaDJ5M1dqeE96WjktYVN6X1ZPNS1jWmdTdFFzWWg0SnJiVFRxY3JlN1F6V1k?oc=5",
+      "published_date": "2017-07-25",
+      "source": "Fox Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "93ed448d0db2417c424a13bd8845742934c4a339583b4b913302b18c24a3da1d",
+  "feature_eligible": false
+}

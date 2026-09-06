@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:03:08.833223+00:00",
+  "lane": "news",
+  "pid": "Pc53511377b",
+  "draft_year": 2019,
+  "name": "Adam Mokoka",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Adam Mokoka\" (draft OR scouting OR prospect OR basketball) after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Adam+Mokoka%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2019 Pre-Draft Workouts: Saturday, June 15 | Atlanta Hawks - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Pb2k0RUE3OGVQYjlkM3J6Rk55bF80MXFycUxVVlc5OENPbW1oRXJPSWJ4X0lfUnZDTE10RTZ5cUZva0pCaW1Ia0hxRmhGUDlLR2JmeDd6eWJ4YzFKTTd5aU1UWU9pQ05TU3laLXlCcU4wRUJYa0FaYlliUQ?oc=5",
+      "published_date": "2019-06-13",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Chicago Bulls 2019 Roster Transactions - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QRnNyeUI3TzhPckQybDlxTDFxS184bWVfOFBiVE55aGotT2dIUXRFZHdib0lxcHc3M2NUY2N1cnZZY3gyb1J2RHRiUS1DMEM5RGc3d2JqcUNGRlV0TGtlcTlKSV9EZVJfWUtjZmdTZWljQVE?oc=5",
+      "published_date": "2019-06-15",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "6d383f8e786991f7866499e048907b834128e9e4ed8dc48a892c3bf2c224721f",
+  "feature_eligible": false
+}

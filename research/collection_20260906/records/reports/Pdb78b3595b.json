@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:06:04.315700+00:00",
+  "lane": "reports",
+  "pid": "Pdb78b3595b",
+  "draft_year": 2017,
+  "name": "Johnathan Motley",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Johnathan Motley\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Johnathan+Motley%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2017 NBA Mock Draft: Rumors And All 60 Picks - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa3Rwd2gyeXV3bzVlNFVuaU5hQ2ZBaEp2VExMb01uaU54MWYya0VQdVkzSDlyMkRoOUFpUTRieWg1Y0lGTzNkTDFGdkRwc0k4Qlc4Snp2Mi15WlpFVEdkRk85QlROb1I0YVhqLURaNVdJN1M3cktJWFVqSV9KZXFzSWQyWWktVk1ZcXlsY0tzREpkX0JoVlE?oc=5",
+      "published_date": "2017-06-20",
+      "source": "Sports Illustrated",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Brandon McCoy NBA Draft Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2TWpzVWxQQ01mTXhWX3ZzdkhhdW9LWGZDNmZnNll0SUJPbjNhTXRBVHpmTk9qQl9rQV9lRU11NENtMTlqa2pMYUFxV1I5bjN0UkNJUTFGTHNkMHh4dXJMTWJiVkJWa1RiQ3NXUV9WaFNuYnM?oc=5",
+      "published_date": "2017-01-29",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "14ffaad468f88d259895f243caafbaac9ad8396eb1e1ebc4fba4454b0e4baf0f",
+  "feature_eligible": false
+}

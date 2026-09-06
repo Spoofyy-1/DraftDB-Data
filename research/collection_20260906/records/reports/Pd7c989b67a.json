@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:58:53.513166+00:00",
+  "lane": "reports",
+  "pid": "Pd7c989b67a",
+  "draft_year": 2016,
+  "name": "Guerschon Yabusele",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Guerschon Yabusele\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Guerschon+Yabusele%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Cameron Reddish NBA Draft Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3NXVVVmQ0cWNmdkpENUdUbENwdW1Ga0wxc0FZMnZIVkVscUpxWkhreU9TSkQyU0NjcHZZNWVRbVNGbURFYzlyVlI2UDd5c2d2U2NoTUh4a01uVmR3cmhBOHBnN1ZCVnRETTJDaEtWSWoyVFZRalE?oc=5",
+      "published_date": "2016-02-24",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "c44fd30fd988555dd5ecd214bcf8d36c8d96ec862625e124a1cd44e83a1c055e",
+  "feature_eligible": false
+}

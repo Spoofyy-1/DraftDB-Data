@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T11:09:41.024955+00:00",
+  "lane": "reports",
+  "pid": "P65f2080ef4",
+  "draft_year": 2018,
+  "name": "Max Montana",
+  "draft_date": "2018-06-21",
+  "status": "empty",
+  "query": "\"Max Montana\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Max+Montana%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "fc11e3dab99e7b3220c087aa67cb3254b6a09a3809d6bdbd1ac3058e2ddb58cd",
+  "feature_eligible": false
+}

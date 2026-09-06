@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:54:44.796220+00:00",
+  "lane": "reports",
+  "pid": "P251ed0e7a3",
+  "draft_year": 2016,
+  "name": "Troy Williams",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Troy Williams\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Troy+Williams%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2015 High School Football Preview: Lafayette High - The Daily Advertiser | Lafayette, Louisiana",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS3BQekRNbkk1cnBCdWlpdTYwaUpOc2NYMEZyaTkyaUNnYkRVZjRROWRzN19BOTdvdjkzOTNLREFHT3ZFSGdybk9ybHRHNlo5TjRfZE0zTy1GbEkzU01kRWt4MklNd1EyVl82cVBRLWY3UGVrOVo5QWtfcmVrdDVVbjg3a3ZETm8zcVVPTVI4MGJVbF9jUDUzZndqWjVZS3ZPdzBXckkxY2NSQ1djcFNFSi1vUVVHbjVlMmZIMVAwR1d4bkR5cHhuaWZRLUVlUQ?oc=5",
+      "published_date": "2015-08-25",
+      "source": "The Daily Advertiser | Lafayette, Louisiana",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "a3531d18c8337a75d80350f28bd229d600c72c37645a2f2e8934c7d686923ac0",
+  "feature_eligible": false
+}

@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:04:12.022568+00:00",
+  "lane": "reports",
+  "pid": "P982f4d9f47",
+  "draft_year": 2017,
+  "name": "Ryan Arcidiacono",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Ryan Arcidiacono\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Ryan+Arcidiacono%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Josh Hart \u2018just does everything\u2019 for Villanova entering showdown with Virginia - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQcy02R3VLVFplQVZkam1QV2pWbGJnRDU1TFk1ZXFEdVhyN2VBc2J3aTJwWi1DMkdJMkY4anAyRk55TkRGanhUUXZ5ajI1WnJKYTF0Qjc3WElPZkJsSGtSdldrTG1NQU85OVhGTS1EMmRFbDA0ckNVeVJCbmdWRm9hVFVtR3ZXelNZZDhoc1hVajRCTE5DcDJsUXBQank3T0NhT0hERnV1cU9mdTdWb0VxRVRtUGxta3Vrd2xXSWhQUXliSzB2ZElWZGFIU1QwLWJYOXBWejNWMkY1REVFLXQ4LUxmdnhmZXJPRHFhSWkxaUJtZEhhRkZIYjBMRHpOdERBX1ZBRl84V0tMa0lqNldV?oc=5",
+      "published_date": "2017-01-28",
+      "source": "The Washington Post",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "6d2bf5d7074df53cc4477d1944f4479a7d1aa7ffe5d016e2371dc4bf506045ec",
+  "feature_eligible": false
+}

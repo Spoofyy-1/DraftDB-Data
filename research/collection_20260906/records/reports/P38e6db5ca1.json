@@ -1,0 +1,64 @@
+{
+  "collected_at": "2026-09-06T11:01:35.073344+00:00",
+  "lane": "reports",
+  "pid": "P38e6db5ca1",
+  "draft_year": 2017,
+  "name": "Frank Jackson",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Frank Jackson\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Frank+Jackson%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Draft Profile: Josh Jackson - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xMl9remxsQjZvWHY2TGh6c09rM2E2U2dhNVFtSFRYWGgydjJmbk9LaERDcDRuSU8tYi15U09OV1J1a2xDNllnc2oyYU5qRHpOckZtY2FLbW55dVN2dTVuQzZzVGE?oc=5",
+      "published_date": "2017-06-14",
+      "source": "NBA.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Mock Draft 5.0: First-round picks for Celtics, Lakers, 76ers and more - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSkxQT1Nxb2w3WVJYbDY4RnYyMWtXZUxCbE9xbWtEVGdHV3E1V2ZNaFF1dTZqYlpMa0QwdkIyVWJsVDctSEE1UWtJeWRTQnVpeGZVNThCelRyVFhLQ0hNN2Rsbm9EQ05ia0ZxcDltbEwxNUZXOXZKS2lKRERaSjcxRjMwM2RiLUNuUG9kNnFEU242aF9qZnfSAZsBQVVfeXFMUC1zWmJjMGRHRDdfT2d1QjNjWjRVTlVObGx6MFdlTjBnY056YzNEcTRRLWFnaTVGNHlDemQyWFVRZ05VcE5kSk5XWDlWY0hSMFFVRU96WjBGbGcyaDQ4bzhFSHhfaGR4SDBsaFBkM1gxdDVLU0RzVFRyd0RLT2dmNHdLa3g3YTFBZExUNU0tM2dVOHlLQ0d3bTA5NkE?oc=5",
+      "published_date": "2017-05-16",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2017 NBA Mock Draft: Rumors And All 60 Picks - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa3Rwd2gyeXV3bzVlNFVuaU5hQ2ZBaEp2VExMb01uaU54MWYya0VQdVkzSDlyMkRoOUFpUTRieWg1Y0lGTzNkTDFGdkRwc0k4Qlc4Snp2Mi15WlpFVEdkRk85QlROb1I0YVhqLURaNVdJN1M3cktJWFVqSV9KZXFzSWQyWWktVk1ZcXlsY0tzREpkX0JoVlE?oc=5",
+      "published_date": "2017-06-20",
+      "source": "Sports Illustrated",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA mock draft: What if the Lakers don\u2019t pick Lonzo Ball? - sbnation.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY1FaVGlsYzF6SzM0cTJKWUN6Zzg2bTlZVU9lYXRzcDdDYVROUnNDZURrRWxwZnF2UERXNk5FajdQSEJTUUJtOXhTOUpPVTJUVG9fdWttdGtPQTVpZXNIQkNQM1pKMDJ3b1ZYVmN5aW1EQWh3WFh1OUszN192WUFqc1VnMUdONGNteHhfeVowcVF0bEluV2YtNUxERmVuNjVkdjdfUjln?oc=5",
+      "published_date": "2017-05-30",
+      "source": "sbnation.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Mock Draft 2017: Post-Lottery Edition - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMllZVGc1X1BuQ2xBZjZyc2xKOG5aWXNtRjRJczUtM1pXYkVvWHM1QldjUWFYbjFrTlpsaXdSVUVXVmJza241cXpEd3dYckg4Y3NVV3lSSUtCZ0pHZ2I2ZmNJZ2drdUJHdFZRT2pNUjdzS1FycTJ4ZTNFUXlPeFFILUVBWVF4ZDIzRkYyRg?oc=5",
+      "published_date": "2017-05-16",
+      "source": "Bleacher Report",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2017 NBA Mock Draft: SLC Dunk Edition - SLC Dunk",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdTZuV2NsZXpTejFzOVhpQ2hiLVhUbmV3a1R4NGswWm5LUG9lYVVPZi1HOTlfM3VoOFV6eEVRajR5Y3JXVmxKbjdwdjFuT1RxLUstZ2ZPYlVkRld4OW11VnNxcU5KelVfYjB6eTc3Q0pzQzZvLUNRRjdKYnFpZ2s0dndxWno3T0piQUxsNXNaeHpwSEdHaVg1dGphMjNMbHRmWk9OMUlsUXp1ME4zV3RGSm8xTWxEM3JrYWx6dFMtUmZ5aG4tVjA1dHZ3?oc=5",
+      "published_date": "2017-06-20",
+      "source": "SLC Dunk",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 4,
+  "response_sha256": "d72fa55fdda535ba6df9ef143ff116fae87ef9a5d79163402131adfa8eb44307",
+  "feature_eligible": false
+}

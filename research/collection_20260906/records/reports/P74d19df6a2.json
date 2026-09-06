@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:03:29.658427+00:00",
+  "lane": "reports",
+  "pid": "P74d19df6a2",
+  "draft_year": 2017,
+  "name": "Thomas Bryant",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Thomas Bryant\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Thomas+Bryant%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Thomas Bryant: Will he stay at Indiana or jump to NBA? - Democrat and Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaW5Fd1VmbF94Z2dhbU4tVlc5SHcwU2g3U2YxRFRUNWluaE15SUlfUHFOMTNlZXBrTG96MGVhZmRPRnhWZW1NVWNJNU5scERDTjVHNXJ6SlZFd1BMWXVOTWZrcGFEUzRtOEU2aGJDUkxUUE5HWFZtS3U2OXJzRWhqdDBpenRqbkFGMjdfdmNHY3RsZFpUM0ZnVVA3ejcwdkY5T2RKajZlbw?oc=5",
+      "published_date": "2017-03-21",
+      "source": "Democrat and Chronicle",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Indiana's OG Anunoby, Thomas Bryant excel as Hoosiers embrace modern game - sportingnews.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQekpHSEFyR2ZzaXdtU3Bkc25fNGxfRVphRDd5NFNuRXNVUzJpZmwtUEZCQTFRRlZiQ1hrSjIzMHRZOXd0aklmRE11MTRXQ0luWEx5XzNITVVTWXk2N1RyaEpfWDAxUkt1YlE4OUZOaTE3SUhoSXpaZlpna01zZzl6M0hlZk5Jc2hZVm9rZnVxV2ZjYkVheFV5TFd3R3RHQ2ZDT3FrSGJfTk14bVNyTUtzSHd0RkZ5VkgxS19NMzV5cUZjZWFjc3I5dWdrNHNPcjJBUl9hbWZVZlFocDlTWHc5UmV5QQ?oc=5",
+      "published_date": "2016-11-17",
+      "source": "sportingnews.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Could O.G. Anunoby Develop Into Kawhi Leonard 2.0? - BT Powerhouse",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNG5aXzQ5eFRCdDM0ai1pZWRGZmFsZ05FMWdKZGlTUkFMOFJ4ZFl1WmFtNHlrU0JJSVRMeEFITmZBZWgzaUw3cThqa2VFYVNYRmVDcFZFdVNSRTAzYnYzSHdXX0VqM1l2TTNWMUdBQ0RtVHRRNzVWNm5YdVRMaTQxU2U5SHhLSUpVaEtLenhwa3p2RnE3bGFOMktpODFiRHI0ZTUyd0xlUld2dXM2bHZlRzVzaEhwLUF5LUdVWGxpNXNMR2lLNEx5QW81Y3hZaVNaRVFyZkZSazc3cS1DcXc?oc=5",
+      "published_date": "2017-05-31",
+      "source": "BT Powerhouse",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2017 NBA Mock Draft: Rumors And All 60 Picks - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa3Rwd2gyeXV3bzVlNFVuaU5hQ2ZBaEp2VExMb01uaU54MWYya0VQdVkzSDlyMkRoOUFpUTRieWg1Y0lGTzNkTDFGdkRwc0k4Qlc4Snp2Mi15WlpFVEdkRk85QlROb1I0YVhqLURaNVdJN1M3cktJWFVqSV9KZXFzSWQyWWktVk1ZcXlsY0tzREpkX0JoVlE?oc=5",
+      "published_date": "2017-06-20",
+      "source": "Sports Illustrated",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 2,
+  "response_sha256": "0ee999f92a11dc8274e0b28814a7fc7d521490b3d122df26bc69fe8f61bde938",
+  "feature_eligible": false
+}

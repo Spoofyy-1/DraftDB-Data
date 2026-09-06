@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:53:13.169770+00:00",
+  "lane": "reports",
+  "pid": "Pdaafce7eb6",
+  "draft_year": 2015,
+  "name": "Larry Nance Jr.",
+  "draft_date": "2015-06-25",
+  "status": "ok",
+  "query": "\"Larry Nance Jr.\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2014-07-01 before:2015-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Larry+Nance+Jr.%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2014-07-01+before%3A2015-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Larry Nance Jr. of Wyoming waits for NBA draft - denverpost.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWtuVVZrRy02S2JLa2tmZzl1R1FHYUptNUpPMFE2eTlfT0ZNdXNtbFN2YVJaV0p2M1E0WFllbmFJMnE2c2l6MEhPNmVYeFU2cGk0NXFtUFlFSmEzUXlnaDVvbEI0YW51UkUzY1JKbXlVZEpvZkQzMW81V0hQTWFuYWhBc2lIal92Q05Haw?oc=5",
+      "published_date": "2015-06-19",
+      "source": "denverpost.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2015 NBA Mock Draft: Kristaps Porzingis' stock rises to 76ers at No. 3 - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZjZiSkllellMRGVOQXV1SmFnd29hb0h2RVhmVVlER2tITG9hTUNSVTJjUkg3Z3NqXy1Xdjk5QlI5dnljSEpfUkVEcWhzazNlX29UcUJudFoyVmN1Z3E0N2wxcWhOb1lyRjdBd0ZSekNRbFFCdU9YSXJjZjhOUng5OWlRNklzMXliWkQxdW12Zm1heFhJR1d5bGRBRUFuYlRSNmg2cUEyQ0FiTmpqdUp6LV9paUdMdnRfbHc?oc=5",
+      "published_date": "2015-06-17",
+      "source": "CBS Sports",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "bb17b3b592f41df1f8d6eeab724f54129e97a2e6896bfe4a7fb8c9d6db747690",
+  "feature_eligible": false
+}

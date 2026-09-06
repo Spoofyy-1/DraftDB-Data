@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:55:59.996289+00:00",
+  "lane": "reports",
+  "pid": "P64adb31e4d",
+  "draft_year": 2016,
+  "name": "Ivica Zubac",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Ivica Zubac\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Ivica+Zubac%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2016 NBA Draft Prospects: Breaking Down Pro Future of Croatia's Ivica Zubac - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSHcxSmJ5QnRxQXpZTUVGSGZxdEpGZ1U1Vmo0bjVZX3lDNEZuaHdSMnB6OVZNT3NKTVI4WDJBR0VBc1J2Z2JmYnc4cnJSbjA0QXFfWm51cUdXT2xPYnBCWVlmTjNVREVhTmE0UHMtcXhrbnJhMUlzbFRKSTRFN0ZCWkNBeXZSSWNwSTItYUtaamhjMUJ5U2tBaEJQVjVkUHRxUDBkSFRPUDQwWkxqd1pLVHNsZktveUlu?oc=5",
+      "published_date": "2016-06-09",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Rod Beard's NBA Mock Draft 2.0 - The Detroit News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTEJ0aElKeVYzZU5iMGFuVHlQN1dQWEVDdkkzOVdTTmtEbDhITjhMaGhFMV9XVWpiMHUtdFJSUlM0bUl0M0dERDdTMFpoLXdfbERpdEJVVGRkZ3Z1QjBBaEdIemhRbTVzUFVSTXBjeVFuY25zZk9CMTdMU1I5QXhhZGdSMWVmaXMtMnV4SmJJYmdsRzcyZGlWVWdJQngxaFFBeVAtaFBkSQ?oc=5",
+      "published_date": "2016-06-21",
+      "source": "The Detroit News",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA mock draft: Ben Simmons is our No. 1 pick too - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMnM5RVZnRGtrU1RRWVE4N2VjZWwxbkJlZ19XZ3FsMVNuWUhWektaRzRtRmY0TTZyRzlwNXRGVGp6a1k5aFVhZmVxTFZUd2VyX01rRVpEQmJBRU1OWGhmM0RTVWd3T3VzNk5ZenNvTnlrUDk2X1haNUR3M1ZVTGU1S2FvdGZ1eVU?oc=5",
+      "published_date": "2016-06-18",
+      "source": "Los Angeles Times",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Miles Bridges NBA Draft Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xX2c3RHpPd1RaSXpuRkY4T0liUEpOSElBSlVaT1pEc2JXa3gwUERZU0U3cEFXUlJWNURkcGlDczZhWndxalQ0elRkYjZKSWJEV01JVDlpaFNEOERGZ3VmUWpocW0yckxKc3JpNS05cVFqQTg?oc=5",
+      "published_date": "2016-03-20",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "31060f29cac63cb8472b4756be0d342293be1460074fb90e150b5ef0aca7ab77",
+  "feature_eligible": false
+}

@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:51:38.428529+00:00",
+  "lane": "reports",
+  "pid": "P84b2e1b413",
+  "draft_year": 2015,
+  "name": "Christian Wood",
+  "draft_date": "2015-06-25",
+  "status": "ok",
+  "query": "\"Christian Wood\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2014-07-01 before:2015-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Christian+Wood%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2014-07-01+before%3A2015-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Christian Wood NBA Draft Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qYnk0OFhKdHAtTVVIVVJWa0NqUDZMZ0ttZVJoQUowX2drTU1VTUlTRWZuYmM2Ujd0aDhMTXBhVWpZbk13eDZ2WWFBUmhNZzM1cDZ6akVpZ25rM1NUbktTTFg3MGRibkRlX21hSzNNNkdDTll5?oc=5",
+      "published_date": "2015-01-07",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2015 Draft Prospect | Christian Wood - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QTnUzUHNCSERIZ2tBVDhwYXVYbm0yN21Ld0l1SVNGeWpfdjBieXd2OWtEUHpLY29BaVB3dllyZVVuV19xcVFLQ1RSWHZ5Z1NZTkVBN01FMkdDYVhPNE44a29fNDlMQTMxbnNVWThlRQ?oc=5",
+      "published_date": "2015-05-29",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2015 Draft Profile | Christian Wood | Minnesota Timberwolves - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SS3JsS09BSllFSjA3VTdOMUN2eDZmUkhGVlZkenpTenNPYUlIZHotQTFTUEk2OHIxM0NjRzg5MkUzWnprdDVyOW03R1pfcGVwNHpBYjctWmMxdHY3WmhJb2lDakZ2YkJGbUhuel9yeXR1Y3lk?oc=5",
+      "published_date": "2015-05-19",
+      "source": "NBA.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2015 NBA mock draft: the Karl-Anthony Towns or Jahlil Okafor debate begins - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa2psM3NWX0wzZmVLdXVybXR0bk5lajBzVEFxZVRqS2g5T21reS10WE5XSmJmX0xjNmxGakNDQXJHaW9CcWJTVW1uWXlCV3gwQXg4ZVcyWTF4VjBPZ0JjMlJ5ZmlQdU04NHBrZ3BQVWhhVVFzeUlqYU1BQlhCdDJ5bWpOUU5FSEhacHpBaDIybHN6b2RSb21yM2NMcm0tbDJnSVlvVGRGYWtnQ3ZBTHFLR2xreThFcXRibGVj?oc=5",
+      "published_date": "2015-05-20",
+      "source": "The Guardian",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "b8a40369c98596b801b62dc5701427b2393fdf468b526b3cad41198d1f0ca74b",
+  "feature_eligible": false
+}

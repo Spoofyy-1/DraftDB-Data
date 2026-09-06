@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:57:25.085868+00:00",
+  "lane": "reports",
+  "pid": "Pa307fde308",
+  "draft_year": 2016,
+  "name": "Michael Gbinije",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Michael Gbinije\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Michael+Gbinije%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2016 NBA Draft Profile: Syracuse G/F Michael Gbinije - The Juice Online",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdW9HdVdsSjNNZWNXaGpEaUNtak15RWI3S3RMbkRfWUNTQS1jSk9DaGhmN1lTSTkwUzFMcTh5X0FCU3lQWVotVjI2NVloUzZyS0J2OWhpSHEyU210NzNOeHYxSGk2WGJWMnE0b0ZLcjdVd252NWI2YkQ2TFZBeUt3OWdtd0ZYX2JrNFN1U01qbElqdw?oc=5",
+      "published_date": "2016-06-03",
+      "source": "The Juice Online",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Syracuse Basketball: Michael Gbinije Earns Spot on Nigeria National Team - Troy Nunes Is An Absolute Magician",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN3lPWXA1VVlIZ01ud0FYOTk3c051R1hFMXNkelFYbGlMa0ltakdUNWc4WDJiNkR0bTkzLTBna3hkLWxXZElfRnBSM1lqWHRFTWdVUG1aWmhuWjdCODk3UGJKTHdXV1NvY3ljRHB5MW9sZ1VyeTZfWkhKb1N1OVlid1NrZlJjcU1qU2pWWmlGUXVmV2ZORG1CWG1pLUl6TEEtbkFwVHMtcDNwczMyd0NYLW9hNjM?oc=5",
+      "published_date": "2015-08-12",
+      "source": "Troy Nunes Is An Absolute Magician",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Recruiting Roundup: Syracuse working hardest for 2017 wing Jordan Tucker - The Juice Online",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRHBNOUQzdmluNXR4aW9kdmRKM2cwWWJDbnVzQ01JNUFBN2pXRU42elNJeXJMNUJzRzlpcTRLRnB1QmtYWnlqSjZ6UTBTc3drNHZGRi1GY3RsNVBNN21qSUNvX20ybGMyUmd4R0hzVGZwTGp5cndVOUVDUm5oWml6Q3huZG0zb1VScElscXI1YlQ4QnZhRkpfT3J5dzRmcXEzMVRLLVNGRm1JUm93bHc?oc=5",
+      "published_date": "2016-06-06",
+      "source": "The Juice Online",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "ecb6af163e91581c2d6cca26e386c6916682aa9740298afe0b93130b2dad1a77",
+  "feature_eligible": false
+}

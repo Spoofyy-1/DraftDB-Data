@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T10:52:33.533712+00:00",
+  "lane": "news",
+  "pid": "P6ab3598ab0",
+  "draft_year": 2018,
+  "name": "Jerome Robinson",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Jerome Robinson\" (draft OR scouting OR prospect OR basketball) after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Jerome+Robinson%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Jerome Robinson, Ky Bowman Declare for 2018 NBA Draft - Boston College Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lYjIwdkNyakt5czRJRUp6b2x6YWFLS1ppTk9jVnA1Y1hvSzhUOGJkUW82Z1hBZVRqeWdXVFhDdVI0VzQyQmYwampYZTRNTjZvNzg1VTBFVFlaWXIz?oc=5",
+      "published_date": "2018-04-04",
+      "source": "Boston College Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "BC\u2019s Jerome Robinson and Ky Bowman declare for NBA Draft - The Boston Globe",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOa1lmUkNONFdSRkJtVWRGRzRnWUk0UlVfRldPaHN0YTMyYTI3cy1xclNOeldieWk0Z3lVc3p5MU5iX2JTOG1mTlZXOVVxNWhXcndobjNHNjFxVnVINzRRNEpxUVNmN0dxRlp1SXhERWV0U0w5Q09SRnRZY2dlYWZ1SFZENUt4XzY5NG8tOWNQZG9jREh3YzQwTlZhcm5kOW1RZjJHbHlHeGROX0ZzVnQ2VkM4S2hUS1V4SWx5UEU0SXd1WGZDUWlZWFVWaERhYjJNY0Nr?oc=5",
+      "published_date": "2018-04-04",
+      "source": "The Boston Globe",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2018 NBA Draft: Jerome Robinson Scouting Report and Highlights - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYjF0c3ljMlRzVlNMRUhuUFRKTjA0bFZ6MWV4alp0dlJuODVaVjRuV1RYVEVBTjAtNlZFSGItS1pQT1FsOV9JTnQxS3NmWm1zc2JMa29Fb0ZraXJXeFVLUjJCSkp0ZTRaUl9wa2w1V09iNHBwcDEzNDhRSjlFdHowYVVYRHhUcGhNRUJUeDgwNEVNeUU2b2E2NHFnRzB1V0d6aVZFMHVSYjdIbU9XN2ZicGV3?oc=5",
+      "published_date": "2018-06-18",
+      "source": "Sports Illustrated",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Robinson, Bowman Declare for 2018 NBA Draft - bcheights.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa05GbWp6b1ltVnFhUk43RWdTdmlwN0l2Yk9WQjJzTm9XbHh5emNza0dTV0RmbmhqRWJmTVp1em9YY3pkSHNiSDBRMjhKdnFvYktmUkt3bHZpWF9SMDVyZlRUU3VEalNkOEx2N2l2QWg0clZaVFFDdmphN2JJRVRHNDZuanE5RU9BWU45YWFxZU9WUHoxamktTDRNTnZORnhuSFE?oc=5",
+      "published_date": "2018-04-04",
+      "source": "bcheights.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Louisville basketball's Anas Mahmoud earns All-ACC defensive honors - courier-journal.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWm1UbDVBSjd0Y3lSNU5sN2lhbDBuS3p0dWQ2aFhRaGtOOTh6SWpXejVFaV9SX3pVdGZfWk1WMFY4UUhJZmtNWnoycndYU3pJZEg4MGxITUxaSUFkMEwwTkR3LVIyNm1CNlZkZTFDNE05WDc3Q0pKT0tldk1MYmVOSUpWSUxGME5nTmhRQXBIYWo4TDhXZnZ5Tkhya2FGdDFKbEVhX0w3MUpmNE4xRjJIdW05VHU4ZGdGSXZHUjJsTEM0Q1NYYkhwc2xjZmZjWlRaYmlUWHh2U09ZU2tUbmc?oc=5",
+      "published_date": "2018-03-04",
+      "source": "courier-journal.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 7,
+  "response_sha256": "18b95cee31c0e232b16aaeba047f22170a62c3384f78775e83c9bf91618d35db",
+  "feature_eligible": false
+}

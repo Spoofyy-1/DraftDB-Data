@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:53:43.434581+00:00",
+  "lane": "news",
+  "pid": "P967c24e09d",
+  "draft_year": 2018,
+  "name": "Makinde London",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Makinde London\" (draft OR scouting OR prospect OR basketball) after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Makinde+London%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Young UTC men's basketball team winning some while learning - Chattanooga Times Free Press",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbU9LSWFQeS1nWjhnRzBrd1gzTk80cWlScFJabHRleGJXYlRReERLa1dkaXNxSFB6X0stRHRJZkFQNGpOOEZ2MXFKVlZsRVR2bnNCY01EbWpJem1kYVpGRS1JbFVHMk00OHlZdHdUTEdSVjR1VEZlUWVZWklJUDduUlI2ZHZhUVpDMEl5WllHRmZQSnR3emVWa0ZB?oc=5",
+      "published_date": "2017-12-12",
+      "source": "Chattanooga Times Free Press",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "fa965f653546c27534b529361f3eedbced880dc267dbde58a20a6dd93c23c11e",
+  "feature_eligible": false
+}

@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T11:01:57.961738+00:00",
+  "lane": "reports",
+  "pid": "P4370ef2bf5",
+  "draft_year": 2017,
+  "name": "Alex Caruso",
+  "draft_date": "2017-06-22",
+  "status": "empty",
+  "query": "\"Alex Caruso\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Alex+Caruso%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "2d717f87c5ed4b08874539de9f5144ba820dadcc0418b578cbd6e551d7bae8e6",
+  "feature_eligible": false
+}

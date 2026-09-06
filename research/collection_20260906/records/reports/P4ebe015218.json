@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:08:48.129017+00:00",
+  "lane": "reports",
+  "pid": "P4ebe015218",
+  "draft_year": 2018,
+  "name": "Tony Carr",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Tony Carr\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Tony+Carr%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA mock draft: New lottery order and top 10 picks - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaWVaMHRUcWVUX3VZSG9mdm5hY3FYcXpnWHNna01nT3g0OVpnWTJiU1RKZ2FoZjNXaV9ienRNZnZJLV9UZkxJZmpMaWxuMUNmeWs0QklVb3N4VENsWVhSSlFGR3Jkemc0VUxCZkxUbFlyV1NESU1XRWQ5ZFhqQ0k2LXZlMk05YWthTjJzVGFOQdIBlAFBVV95cUxOUlNLdm5CVk9DZkhaSDlTZHJvVWVIbGpmcDNHMnd0NENWNFNMWXdIMWFwbW5SOVA2bDVKY2VzTFF2emRHVHBWdlZmUW1MNlkyTW5KRDhLR1V5ZjV6M3JnWWhKZlVmTlZEd21Wd0MzaFhCM3NpVTZFYVVsZjV6RkkwTExEQTJxSGJLQXhsWWs1YmN1Yzgz?oc=5",
+      "published_date": "2018-04-14",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2018 NBA pre-draft workouts: Who's going where - HoopsHype",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU2ZOdUFOY1F0LWw2VDBqaFgtUmNYa0JsRW44S1RVZkRrMG5HN0VILUJ4N0FQU01XcDFsbU14SktDVXNfSk8wdHRrOEFobnVfYWRTN1lhZnJIYUVvVzFPMlR2Q0d1OEc4b3pzQmM4a01TLW52NEtSSkY2QzRRS2RhV25UREhVOC1GMXRJU3huSTFUMW9jYkZycmhlQVI5MEh1MHJDUVREUkY3RUo5eUdYOEhBWG5yRG5j?oc=5",
+      "published_date": "2018-05-19",
+      "source": "HoopsHype",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 3,
+  "response_sha256": "1aa798aea86337a387f6ac4a5df636317977ad84eb94d4abde9deae77650d806",
+  "feature_eligible": false
+}

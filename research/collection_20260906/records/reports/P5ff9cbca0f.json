@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:09:27.923672+00:00",
+  "lane": "reports",
+  "pid": "P5ff9cbca0f",
+  "draft_year": 2018,
+  "name": "Arnoldas Kulboka",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Arnoldas Kulboka\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Arnoldas+Kulboka%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Scouting the most interesting draft prospects at the NBA Global Camp - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcFNHWTlMMk9yZXdfRG9YZTNJeEo3NXUwUkpIUWFkSDNxWm55WFlvLUtfS3dwSDdpakpDWEg4S1kxMlRCLVhYdmtDamJFWUM3czJJYURiTVFfQlRGMXZudkZRQzVzb3luNVhSdWQwMDZ0eHQzUUp0N29td3BFWHdDWEMzdUhfd3h0RXYzd2t1TXNnTkhVb2hvWUU3dlBBZWFVR0ZvSkxJeXd6NzlP?oc=5",
+      "published_date": "2018-06-07",
+      "source": "ESPN",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "47927cd1b36b7fe5db3b5461043f625f1714de31571c0367caf51c617beff56a",
+  "feature_eligible": false
+}

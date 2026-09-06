@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:53:59.969702+00:00",
+  "lane": "news",
+  "pid": "P9da71ed5b4",
+  "draft_year": 2018,
+  "name": "DeAngelo Isby",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"DeAngelo Isby\" (draft OR scouting OR prospect OR basketball) after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22DeAngelo+Isby%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "DeAngelo Isby Named America First Credit Union Utah State Student-Athlete of the Week - Utah State University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdGRhYlRPaHJHQng2OE1GRy1fZGlrY2ZjUUFOVFhBMDVRSVYwUFB3Nm1DVkNySkVjV2NnZE5FaUdMQzZhVDJtNFZVNjNXeFIwdkxVclk4Q2tfXzBBZ0FHR3pzZDlsaldrcXNCajl1d3ZkbUgweDY3Z2JtcFI4RVF4ZUpNZ2hYQXU5TEVmQ1Vaakw0ekdwcUNEREltT1IzbkZoVTR6Z01VNURjdURsQ1NFVkhpcFRCRV9GWjFITU55WkNsUHlTQXdibw?oc=5",
+      "published_date": "2017-12-26",
+      "source": "Utah State University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "e2452394702339215c689611b75dd2c107496e5eef2d1b787a789823a4d8b7f1",
+  "feature_eligible": false
+}

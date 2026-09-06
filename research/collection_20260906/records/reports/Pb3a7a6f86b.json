@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T10:57:44.712393+00:00",
+  "lane": "reports",
+  "pid": "Pb3a7a6f86b",
+  "draft_year": 2016,
+  "name": "Stephen Zimmerman",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Stephen Zimmerman\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Stephen+Zimmerman%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Mountain West NBA Mock Draft Update: Zimmerman, McCaw see stock rise - Mountain West Connection",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSEdaWThiN1hCYmxXVkdMSUZtb2RrcEZFWklTekZNOXhFTkFfOGFQYUpwbjYyUmY1N0dzMEY3YzF5SU42SDF2R3dnbHpWX3lZeVFqU2tzbHVUTThGWWpWbkFmbVNVSE5OWDlDUEFWZngwQk0yOTVLSzl5cHVqdUM1R0luOXNNeVFfX2pwbnRiaF9rYlpQSWM2ektKSl96bjFuX2JBNGFMcGpNYTI5MUkyQmw4a2huQQ?oc=5",
+      "published_date": "2016-05-27",
+      "source": "Mountain West Connection",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "UNLV teammates Patrick McCaw and Stephen Zimmerman, UCLA\u2019s Tony Parker work out for Clippers - Orange County Register",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTjFEdTFPcjJCU0ZPbndmY3dlVHZiWjA1WVVER1d3N2swU0VSS3FiS3B0bExxdGxrOTcyS3hBQVp5RVhMcFdiamZKUFVRNUZXTDhhTzc3a3JDT0FwM2hzSGxhZFcwbTYyb0RLMmtaY2MwRVdmTi1KRnB0M2F5dVdqYWxvQ2RRVEJvSXpxUG13S0lTUzlfdEx6NDlsTFB4TlEtSmFzUTJFaHpTeEVKaXVqSWR2b21QMEF5YXpYOENxOGtIZWx2WGtRUA?oc=5",
+      "published_date": "2016-06-20",
+      "source": "Orange County Register",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA draft projections: Ranking Simmons, Ingram and top 40 - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWlplVllKQU52MlJBWWF3VFdnVTY4NlR4aDY0RkNhT1c3WGZvd1RXVW9xay1UWjJOV0J3MTBmdGk5Y19pTEdpZU1KTE51MEdLRl9zWExxLWluUUNVQzB2SlRWZmR3U1NVYWg2ajRfWC1FQ2Q4U0tqeUQ2d2JDLVlQS1JPSmRCY3dXMG1CREcwV19ZNWw4QWZzeC1ySlBEbktVRWFwNTRvYlY3NHNGRzJ1bVV0QmtaaEU4VVplcnliX2daTzA1U0E?oc=5",
+      "published_date": "2016-06-09",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Mock Draft 2016: Centers - HoopsHype",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdldSbkU4WGlBcU1NNmZXQzc3bktuUlA3MmpLdmpOUmRNOXUyWkZfdXhmNXlRbGFwZFdEZjRjSzFKZUEyM1F5RlpkeTl1ek0zakxTMXo1M3M0ajQtWWNQb3VxbFJ3aE9RalBRc3puUEFqR19zdWZJWWRfVHdwUHZpZmZDcDkxSmxBNVkwM1lzdGtKQlBIaUxDU1BlenRfTE42R0E?oc=5",
+      "published_date": "2016-06-22",
+      "source": "HoopsHype",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA mock draft: Ben Simmons is our No. 1 pick too - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMnM5RVZnRGtrU1RRWVE4N2VjZWwxbkJlZ19XZ3FsMVNuWUhWektaRzRtRmY0TTZyRzlwNXRGVGp6a1k5aFVhZmVxTFZUd2VyX01rRVpEQmJBRU1OWGhmM0RTVWd3T3VzNk5ZenNvTnlrUDk2X1haNUR3M1ZVTGU1S2FvdGZ1eVU?oc=5",
+      "published_date": "2016-06-18",
+      "source": "Los Angeles Times",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "7244363bf54306affd13d0b457f0f75ed6e5f07385b6a872fadb2fc5bf34fa31",
+  "feature_eligible": false
+}

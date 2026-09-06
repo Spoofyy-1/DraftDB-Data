@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:07:39.347599+00:00",
+  "lane": "reports",
+  "pid": "P1f3e01b488",
+  "draft_year": 2018,
+  "name": "Zhaire Smith",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Zhaire Smith\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Zhaire+Smith%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2018 NBA Draft: Zhaire Smith Scouting Report and Highlights - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObmpZLXg4TnNySW5pdWdYYlkyWmczTVk5am81TnRXdEpQbXdpcGJUY0NIT21NTmdTSnNocWdjN2lIMEl2MDNwV2xRUU1jTU1OdWtnWFFxbzRlQUpJS0wxclU0bHl3ZmpZNnFpUU8tdzVHSW5XU3RwUmZsTGE0dXg4YnhTQ01zMTBySlNUZWZ1OXdHcHVoY24yNE9hS2hfejhibndqSUZEck5sV1JxUnc?oc=5",
+      "published_date": "2018-06-18",
+      "source": "Sports Illustrated",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Could Zhaire Smith be a Possible Fit with Sixers? - Liberty Ballers",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQjNUam9QRzdxcVZCbHJCU1FsallHaVlleXlTR3hvS3hpWVp4c3FpdVN4RVpTTnFSS3hYMGxxTU1PekNkcHNtLVBzR3IyS2Rad1d2WExNV2Z2M2V5TUxBWUdFZ1AyMzE1UFN5X0VSVzAwcHZWaFFwUm5zdXdNNkVOclRyUTI?oc=5",
+      "published_date": "2018-03-20",
+      "source": "Liberty Ballers",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft profile: Shai Gilgeous-Alexander could plug Suns' PG hole - Arizona Sports",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUDZJWFFyWXkwVkNpaW04VEQtQTc2LVA3cE80aDlMbXFEbmlTMUNFR1daRkZXWEFsOFhtLVpSS2RaOGZfWXhmd1RBb3F3YzYxRmR2bkJYY3kza0xaZWdObFA4dHJ2RE56NkNwLUNzd3FqTEhTZzloa3NMVjlDcHVtSmJTVS1QT0VJenZPR0syaFljOTlTa19wd040UkxhZw?oc=5",
+      "published_date": "2018-05-29",
+      "source": "Arizona Sports",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2018 NBA Mock Draft (Version 2.0) - Hoops HD",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Db2g3clpWc3hPYXRYWmJNQ094eHAzMXczamluZy1nTk1ZOWdFTll1TXpyZm5iMHRoZ0FzSDFTSlkzNTc2WWNLd2x5X3BNV1NEeEFRZ3BMOGtzOEcwWjQ1RHhpQWFvUERGNkxIbGNMRE8?oc=5",
+      "published_date": "2018-06-12",
+      "source": "Hoops HD",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 6,
+  "response_sha256": "a07e8cde84d85b0e847737414c697878bd6ca9dc944203a8052d47e635137793",
+  "feature_eligible": false
+}

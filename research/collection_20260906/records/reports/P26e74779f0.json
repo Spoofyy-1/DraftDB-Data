@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:50:29.788793+00:00",
+  "lane": "reports",
+  "pid": "P26e74779f0",
+  "draft_year": 2015,
+  "name": "Keith Appling",
+  "draft_date": "2015-06-25",
+  "status": "ok",
+  "query": "\"Keith Appling\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2014-07-01 before:2015-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Keith+Appling%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2014-07-01+before%3A2015-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Lakers News: Latest Updates on Keith Appling, Pau Gasol and More - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbjJZMUNCalZld1l3Y3NCT1NsQ0hhWkk1WGdXQ2lLRjBqbUloQUhndDhUa294MHZrSW9Sai1VOVdrOEt5TkZFazVERW9HSmRHWFFPSTJUdDR5NEE5SzFDZGh0QXo3OE1GUFZ2Vmp4cjk5cGhNbU1aS1BpVmNEMFpjQm1RWFppdWZKM1czTXA4bnQ2cDJ1YzZXenhXb0xJc2xGY3AzUDZhZW9vZw?oc=5",
+      "published_date": "2014-10-22",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Lakers News: Los Angeles Makes Necessary Cuts in Keith Appling and Jeremy Tyler - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUEhmRE5KX1ZrREJfX0w1TnU1VHY3MzcxWXRBYzI2WkNBSDFySEhwUE1wSzVHeHRaLUZvVENGNVRzUk5teUkwNnE3Z1I3U2xCd1lycEVWTm56dS1zRVd1My11T2V1TEZxWnVmMXJfNVFvbFB0TnB6Mkt0R2Znd0JjX21teENSdmk1cEY2WUJhR3ctTU02WWdvUWI4S25vdUw3YVB3QWM2cDhTbVhpR2FjUktNeGZTWUhueWM3Z21ITQ?oc=5",
+      "published_date": "2014-10-20",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "9c0d2b92bdda903d0c282f7e0b4d39fb9f3811c58090f5d637de4ebc4a4b742e",
+  "feature_eligible": false
+}

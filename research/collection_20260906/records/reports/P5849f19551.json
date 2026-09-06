@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:51:02.439777+00:00",
+  "lane": "reports",
+  "pid": "P5849f19551",
+  "draft_year": 2015,
+  "name": "Cedi Osman",
+  "draft_date": "2015-06-25",
+  "status": "ok",
+  "query": "\"Cedi Osman\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2014-07-01 before:2015-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Cedi+Osman%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2014-07-01+before%3A2015-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2015 Draft Prospect | Cedi Osman - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5NkFPTWlDRlk4MnlZeTVGNlh3U2xNWnpoTmdLbS05dTFEbHZOUTFEa3Jzbk5BdnltSDBZaVROMDVZMGFoeFJZNGV1YnBoTTdDdkhjajl1MFBLeC05T3JxTzdPcmdpUjQtdHc?oc=5",
+      "published_date": "2015-06-02",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Best Comparison for Every Top-30 Prospect in 2015 NBA Draft - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd1F5VDN5emN3M1ViZHB5RmJ6aldmUXRISEd4eVMxVkR0X0kxekQ2YTZMWlF3U1VkYTlvUDlfYmluSWRFRHF0UGZWcjB0bGlRbUcxRmUzMDJWVGRwS0RMOG1YaVJRTlZ2Snc1dXpzOTFhTGN4YXFERzZoc3M0clVFV2R5b29Zemd6MGR0NjRIOGNlSURfeTA0VkM0bjNCQkk1T1Mw?oc=5",
+      "published_date": "2015-05-20",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "5b74e9fd5742ec2c00f659fe0a946d352cb853ef75180cbe378bf11b8c1d7742",
+  "feature_eligible": false
+}

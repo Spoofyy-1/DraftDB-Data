@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:51:45.137064+00:00",
+  "lane": "reports",
+  "pid": "P944090784f",
+  "draft_year": 2015,
+  "name": "Josh Richardson",
+  "draft_date": "2015-06-25",
+  "status": "ok",
+  "query": "\"Josh Richardson\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2014-07-01 before:2015-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Josh+Richardson%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2014-07-01+before%3A2015-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Atlanta Hawks take over first in the East, thanks to Jeff Teague - FantasyPros",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbkhHQ1VuNDE1Z3VCT1Q3Y3F0RlROaWwya2U4TjBYYUViZWwzR2JScVVBRy0tclZDVmNCT1B0YUpfWW1jaTJiOFJzcWQ3YWZiSVl4YVJDLURGazlqZk5tZVB2V0hkZTJPT29ib0lVcUhFeXhxaGtOWHQwRkRya2c0TTQxb1NNeHFzX01wZ0l0cXhKcmFDbHlYTDZCQzhhdGR6SkN5UV9n0gGrAUFVX3lxTE54SndPMm8xQnIxM09XNzVYNGczdTBTdTJGMVZGMjU4czNpcVczLW52a3Rtd1ZDTkRmcFNjSF9RZVpnaHRFNjJUZmx1NzBZQVppcGhjTW9FcnNMMXZwcWxlQWhLZzBhMFlvcDVEUWFVREtsODBXWVlFVG9MNzI5ZDAwamRVRXQ1dFh4bW0zdW9IaDdVUjBMUU93djlxZExZalBrUkYyaS1veldzMA?oc=5",
+      "published_date": "2015-01-03",
+      "source": "FantasyPros",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "c827ae36f1c9fb8ab3779b3863ed3fe66389d5e07ad4e40a207348f21af64900",
+  "feature_eligible": false
+}

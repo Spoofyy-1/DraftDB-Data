@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:00:02.215075+00:00",
+  "lane": "reports",
+  "pid": "P097ac7e3e1",
+  "draft_year": 2017,
+  "name": "Trevor Thompson",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Trevor Thompson\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Trevor+Thompson%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Tate deserves a hand for his drive, skill - The Columbus Dispatch",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOanAtU0xabjJGc2FuRUR0aTN5YXo0UHpXbDUxaWJZRl9OMF9RbWFkcW1sYTlmam5ibG5TMGRsbHJLSjZqRE80MXVlWk1pTjJlN3hMaWJINzNUV3luUHVuVGxpdUFjWGR4RGRpZkFvdlFOUW1hRk83T2l1dTZzV0NzZGpMdFZKMEwzd1NZNnRJQXl3Zw?oc=5",
+      "published_date": "2017-02-13",
+      "source": "The Columbus Dispatch",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "537634316e25bdf0759274fc3a0bda08a989e29f5182abb5b4b44578ce2f523b",
+  "feature_eligible": false
+}

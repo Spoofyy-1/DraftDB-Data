@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:58:31.922723+00:00",
+  "lane": "news",
+  "pid": "P4043f1171e",
+  "draft_year": 2019,
+  "name": "Javonte Green",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Javonte Green\" (draft OR scouting OR prospect OR basketball) after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Javonte+Green%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Ulm acquires Javonte Green - Eurohoops",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53Q29xWC1hVTNlWW4wSS1oQmJKZ0haNWtRcW9jUVRtTnBaemVWZ2ZMejdOVjJjTm5OWXpxb2RYRG1vZDM5ZkhORnVPZDdwM2tETk9zSGMxLUVETHhZRWJsenREQzFzazc3WUNrX19ManVaNUp1eDdLV3NqVQ?oc=5",
+      "published_date": "2018-07-25",
+      "source": "Eurohoops",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Detroit Pistons Transactions - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5M0lqM0gxZ2hKRm9BZWRzVVFlUGlvaGhpbWF2VnE5X054bEtjUml3NHJsSHdMdk9QczlLZTBkdEtTYjBqdlY3QnlhZVZjTFVfd1YyM0hVV1diYkpURVZHRnktMENpb2c?oc=5",
+      "published_date": "2019-01-03",
+      "source": "Yahoo Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "EuroCup Basketball: The Roca Team qualifies for the Top 16 - Monaco Tribune",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOazVkbUdKNGRkQy1tWTVOZkhKT1BsZXB0UExLY2FyMWN3clVzMGUxRll6VG1fOXB1MGllS1BNbFJtdkc1YWVIaWx1Mi03bHVqdE1iRVVSUnBmbGxOSzhnTkdmWUhRU0haWndSY3hGcGMzNjBWb2Zjcm1XbGdPX1JscHlkanhSaFRBaU9EVF9DcHdDbUdkRkhKaVpudnM?oc=5",
+      "published_date": "2018-11-21",
+      "source": "Monaco Tribune",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "EuroCup Basketball: Monaco vs Ulm, 40 minutes to enter the Top 16 - Monaco Tribune",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fS0ZFYlg0SXhMSWdZNlJ4V2VFTXVXTzVyMmVuQkJta3E4aW1WeUtSYTZRWDgyRE84Ny16aExWX1JRRV85N3lzZGdUUk9nb0c2cjJ5OTB2TzBoRTNobUQwWnpLRGViUzhId29XZHRIYTNWcFpjeHNqWnRZU3N4eUU?oc=5",
+      "published_date": "2018-11-20",
+      "source": "Monaco Tribune",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "2c73634787251b7655b94fb79f7c3863ff9deefae960a5d488e48b882bb9022b",
+  "feature_eligible": false
+}

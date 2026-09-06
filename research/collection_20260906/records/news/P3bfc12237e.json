@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:06:05.158613+00:00",
+  "lane": "news",
+  "pid": "P3bfc12237e",
+  "draft_year": 2020,
+  "name": "Vit Krejci",
+  "draft_date": "2020-11-18",
+  "status": "ok",
+  "query": "\"Vit Krejci\" (draft OR scouting OR prospect OR basketball) after:2019-07-01 before:2020-11-18",
+  "query_url": "https://news.google.com/rss/search?q=%22Vit+Krejci%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2019-07-01+before%3A2020-11-18&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "List of early-entry candidates to withdraw from 2020 NBA Draft - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcWZqRU1HWXJKaVVOTTFkSGp4eXBDTXZoM2xuTF92T28ydUVLeTVwSzNlc3pBLTBkSTV0QmlFZmh5ZENMemV1ZlZNU2JqT29aLTdiNHJaNUx1QzZTdlpSTTduWHFjYVYxWW5rX1JPVndycDdxVnpjajJONVhza1FDN0ZZWW94dTBxOEFjZklVdnluRmZVMU1EY2ZnZW00S0NPRFhOX1ItSlphbVlJ?oc=5",
+      "published_date": "2020-11-09",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Unreal Eldi Hysa hands Albania their first win; Georgia up to 4-0 - fiba.basketball",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT19HVk1xX2w5UzZ4NV9YRlNnOG1ETlEydWZ6Vi0tMDZGMm5kdzBBa1pYM21mZE8xWXVpY1V5R1AzLW93OTRaVWFIM05JZk03dWRDZWdvYlRwQVFxa3NvMjNTeElYNTFwM295LVpSaV9sVFQ5a1VTZTh3bW1jbnM4aHZsdXFCcWE4dFlnOFNvaWYxOThDUG8yMFk4NEZrTlVJRERlNUtxeHZPVGI4cGJKNkNuSWxORTMwV1FDZHVCbw?oc=5",
+      "published_date": "2019-07-17",
+      "source": "fiba.basketball",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Atlanta Hawks re-sign Vince Carter - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUUHNucjJrYWJwSVpiYnlNQ1p3Y3VXVnVMcDJwVW1uV1dWc0xmQ3hnX09tYm9yR2tJUG5nWDlDM0V4cldfZHpPS29IbHItWGFaMjVESHZvb0tDM2Y0WUZycHBpNTNXYWc3a1JrdzdHS2xuMm5oVDZB?oc=5",
+      "published_date": "2019-09-20",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 5,
+  "response_sha256": "292d0aca5d45dbfab7ab1e1682de55e8194db96edc8443375fb31b9c72336916",
+  "feature_eligible": false
+}

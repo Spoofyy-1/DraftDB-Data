@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:07:00.074192+00:00",
+  "lane": "reports",
+  "pid": "Pfaef4e4fa0",
+  "draft_year": 2017,
+  "name": "Kobi Simmons",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Kobi Simmons\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Kobi+Simmons%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2017 NBA Mock Draft 1.0: Top 30 Prospects - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSFZOdkRIRTF6bWcySjU5Z1IwemhRUDl3YUVYWXB0Q1ZUaTJ2Mk04SGFnMjVKbDNkOFE1OXZuV0h4R0tjVG91ZFlKM0V5S0tHcDg3LVRSUmdMdGpkUnJ4NmFhVXJvWUZkVWxJNVNLNVdYNldFbnRBbFpCZzFCOU9LSnY3QXZjaDNNRllTaGg0NlNacnNXS1M4aQ?oc=5",
+      "published_date": "2017-01-27",
+      "source": "Sports Illustrated",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "706661ea8e43963211a0656063120cf742e0d10f48b97e0ffa9244125f6f6856",
+  "feature_eligible": false
+}

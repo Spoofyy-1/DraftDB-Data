@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:54:35.036292+00:00",
+  "lane": "reports",
+  "pid": "P16f60c6002",
+  "draft_year": 2016,
+  "name": "Sheldon McClellan",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Sheldon McClellan\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Sheldon+McClellan%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Hurricanes sweep home-and-home basketball series from UF - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcTgyQWpDTHRQSHJ4YlVHVGY1RWRhWXZBcnhQU2ItSVZPN1pmaEdmNkN5LVdCY1YydWdTMDFOSXhEOG5kWDJsT005eHRnblozVExlVUZoVkNmamRLeHRmMHBHTWRRUDdZdFN5QlN1ZW9UaXpfZ09rM1E5NndRWUxnRFFjODF4TlpmbW9UaEVESzRLMndYTmluZVZrcEU3UXI0ZHEtd2VSbVRnVl9ZS25GTTBrY0xVeFpnSzl1a0Q2ekoyXzlndlNPX0llWkZxUC0xMUNaVS12aw?oc=5",
+      "published_date": "2015-12-08",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "972abf39866876b3245f7f6d14537608c5aadcd8ba6c0b27ec0e200968c3eff7",
+  "feature_eligible": false
+}

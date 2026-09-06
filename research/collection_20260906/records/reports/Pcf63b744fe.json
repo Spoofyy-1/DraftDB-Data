@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:53:00.176960+00:00",
+  "lane": "reports",
+  "pid": "Pcf63b744fe",
+  "draft_year": 2015,
+  "name": "Rashad Vaughn",
+  "draft_date": "2015-06-25",
+  "status": "ok",
+  "query": "\"Rashad Vaughn\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2014-07-01 before:2015-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Rashad+Vaughn%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2014-07-01+before%3A2015-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2015 Draft Profile | Rashad Vaughn | Minnesota Timberwolves - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5uYnlSTzhQeWhwMWY2V3hNODd3ZmdudWVGVkdhQW1iTFphandmTTc4Qnd3QmRPY2pacWxtQnZNdXR6UGtEa0lRWHNhX1llZzNpZUFBOFNNRmNBVXl5U1dOSzliMzFRREptUG8zaENhWUJSUUE?oc=5",
+      "published_date": "2015-05-15",
+      "source": "NBA.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Draft Profile Gallery | Rashad Vaughn, SG, UNLV - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdFBsU1BISTdVMFhPN0ZMLVdYZFFnNEZ0dlJiOTdwd0dab3cwdFJqMDdMVHRZYnJ2VHF6bjZ1b1lrd1hMSmVJenZFN3VoRFNDMVNzd2NIRjhLTXZxTElid3Z5U2o0cXV5azdnd3ZpeUMyOXZjenVwWXc1ejNLejl2ajdfSjRWNzhRWVlQYQ?oc=5",
+      "published_date": "2015-05-15",
+      "source": "NBA.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Full Freep NBA mock draft: Pistons take Johnson - Detroit Free Press",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdzVoQXh6bVprMU9JUU5rTGgzNF9pWXhYUGZEZW5Wb0ZDVmNXWlJ4SFFEQVBhZTNmTnp0cUFFT01VWUEyc1pUT2lSbDU5WDlsV2VYckhKUlN0OUhXNVFOMTY3VzA0YkR5U3huSHFtYVZYWXNCdk9adnVsX1p6WEdzOFJZbTVDYUxjdzEtaDBWWldjdTRqVnNfOGJ4Z29jZ2Fpbkh1enNzSEM1VFFpMEZlcEhKOGVNSm8?oc=5",
+      "published_date": "2015-06-24",
+      "source": "Detroit Free Press",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2015 NBA mock draft: the Karl-Anthony Towns or Jahlil Okafor debate begins - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa2psM3NWX0wzZmVLdXVybXR0bk5lajBzVEFxZVRqS2g5T21reS10WE5XSmJmX0xjNmxGakNDQXJHaW9CcWJTVW1uWXlCV3gwQXg4ZVcyWTF4VjBPZ0JjMlJ5ZmlQdU04NHBrZ3BQVWhhVVFzeUlqYU1BQlhCdDJ5bWpOUU5FSEhacHpBaDIybHN6b2RSb21yM2NMcm0tbDJnSVlvVGRGYWtnQ3ZBTHFLR2xreThFcXRibGVj?oc=5",
+      "published_date": "2015-05-20",
+      "source": "The Guardian",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 2,
+  "response_sha256": "8fe639c1846d33e9165565c7a39dfc42b4160d9dadc87989ab2b9a1758160fcd",
+  "feature_eligible": false
+}

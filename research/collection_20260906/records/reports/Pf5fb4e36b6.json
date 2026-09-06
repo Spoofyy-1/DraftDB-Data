@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:59:29.415041+00:00",
+  "lane": "reports",
+  "pid": "Pf5fb4e36b6",
+  "draft_year": 2016,
+  "name": "Malcolm Brogdon",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Malcolm Brogdon\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Malcolm+Brogdon%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2016 NBA Draft Profile | Ben Bentil - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oNzJiLVB4TWh3SC1NLXA3bk92eld1VlpDdzR0OE8wRmFuQnc2Tk1tQ25aRWNNZkpWUHpDZ2pzNXQteXJXM0N6emJTNHdaQUVsQlJmdmpPWE1hYnZhSzBTTWotVEZlV2RpX2VSWHUwMWQ1eE9C?oc=5",
+      "published_date": "2016-06-06",
+      "source": "NBA.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "af3210c069f80df844f0fefa698c31d367aa1d5e0324f854d0fe19049852fcaa",
+  "feature_eligible": false
+}

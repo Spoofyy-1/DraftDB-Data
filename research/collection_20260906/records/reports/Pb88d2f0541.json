@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:52:37.370645+00:00",
+  "lane": "reports",
+  "pid": "Pb88d2f0541",
+  "draft_year": 2015,
+  "name": "Tyler Harvey",
+  "draft_date": "2015-06-25",
+  "status": "ok",
+  "query": "\"Tyler Harvey\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2014-07-01 before:2015-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Tyler+Harvey%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2014-07-01+before%3A2015-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Draft Profile: Tyler Harvey | Boston Celtics - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXZDA4S243Z0dPS0FCRUUwRGR6YnV6djhNaVpXdkJlalUzNkRzdm1lbF8xMkh2cWxHcG5HS2dnTXlGdW5qNTJJRmdEclM3U2JMSkcwamFHYS1ibU5zTjVMcHpaY2U?oc=5",
+      "published_date": "2015-05-29",
+      "source": "NBA.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Mock Draft: Karl-Anthony Towns, Jahlil Okafor lead way on eve of big night - FOX Sports",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdHpZTGpUVkI4UjM2MjB2ZVlLMVJOdExIR0FRc3hsc0hkeG9XdlpDTGhRMDhrbk5wY2NjQl9rXzZNQVJMdGdjZHJDRFNPTjRtU0lDQnc5UFZ4bm5QZTNmLS1tMV95UGtNelRHMHIzQ2JyWHE4MWg3VEh0WXB5V0JIbkNURHJPUFhac05uY0ptWnkwaDVJU1lMakZhVERCWGt5RmdaQU53dThEamJWdjUzUm9taFfSAbQBQVVfeXFMTkoxLTBfd3JnOFNMa2VEYVR5cFNjd1B6TmdoMV9PbzVBTGJpZi0xTHFhVzNORGZBQ3pGTlZNaVQydzlhZUJ1cFg3QlNlUFZ0STlxNi1TM1FLSGxaaGhXcTBmRF9FYU5kZ3RrdEN3bHpnNGJGRk9CZ2xNb0tfRmRZXzRFNHhlenNjcTI2cnFvR3NpOFpoRzlXcVV1c0Q2dGRPZUdBdzFUYjQ0V0lQM3B0a05LME5G?oc=5",
+      "published_date": "2015-06-24",
+      "source": "FOX Sports",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "cd7720733529f3244b426cc06458bfd7728b8b9521ce35765c36d6eea12bd53d",
+  "feature_eligible": false
+}

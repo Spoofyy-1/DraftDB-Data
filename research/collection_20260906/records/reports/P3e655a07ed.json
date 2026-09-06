@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:08:09.101981+00:00",
+  "lane": "reports",
+  "pid": "P3e655a07ed",
+  "draft_year": 2018,
+  "name": "Ray Spalding",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Ray Spalding\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Ray+Spalding%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "New Louisville coach wasn't a factor in Ray Spalding's NBA decision - courier-journal.com",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQzQ0RWIwdEc5QjlCaVZJYmdZNU8tX2V3a1BLd0ZyLUxyaXVzZk10LXh4eVZVRHlvVUFacUR2b3FfaWM5Y3NJd0wtNHlwV2hQUXlCR0tuRVRuVFpPbTBjS2o2VW1WT0xIbm9TRXg0Q2p4VXQ0VGI1WE53MlhTY0JSdENUU0lXaWV6bmFBd25rUFBnTFgxR0I2X0xHTTRnU0hzYnJYbTVIanUtUjZlQmNEUVYtRllTZnR4aVJEMkNublhWaXdyRE8xRnRBODgtWGJ2TlBHMDdIbUp0X2lZUDdzVExZbE9RMURrSGJtTTRR?oc=5",
+      "published_date": "2018-05-18",
+      "source": "courier-journal.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 2,
+  "response_sha256": "52c74ee9a52f1f10ed7515b04743ec32472c3ccbef81c0cc0ce71fb2e729c03a",
+  "feature_eligible": false
+}

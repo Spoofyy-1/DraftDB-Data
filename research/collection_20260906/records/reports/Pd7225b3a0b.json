@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:58:50.264337+00:00",
+  "lane": "reports",
+  "pid": "Pd7225b3a0b",
+  "draft_year": 2016,
+  "name": "Tim Quarterman",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Tim Quarterman\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Tim+Quarterman%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Tim Quarterman NBA Draft Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Na3RVbDduaEE0YzRWT3k1UTh1bkZKSVE3d2tSTlpiLW9lZFBfLXNjcHFzU0RfelBOVTdmNUlVVXRFVlhWcVpTckFCREZtQnh1VFQ1ZFNWT0lRakM1ZV9VNmsyVEtpQTk4dUVWRnBfTVZkdzlL?oc=5",
+      "published_date": "2016-02-22",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "3b940b8e9f26b26ce6422a3613ffd435494e1de8d1ddd81a3b1d011834ac95b4",
+  "feature_eligible": false
+}

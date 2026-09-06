@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:50:35.646282+00:00",
+  "lane": "news",
+  "pid": "P3da380186d",
+  "draft_year": 2018,
+  "name": "Fred Sims Jr.",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Fred Sims Jr.\" (draft OR scouting OR prospect OR basketball) after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Fred+Sims+Jr.%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "PRE\u2011DRAFT WORKOUTS 05.24.18 - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TZS1IdTJmTFR6eHNqUUdMNU8wZG5xOTJlTHk0MzBTVDlFZ3hmWWx1MWo3emdEWURCQ3J4dklaSlNzbnFoeHZEMW42eEM1TXdXTkVVMEFia3lQZy1iek1DaW10QVJIWmV0bU1N?oc=5",
+      "published_date": "2018-05-24",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Chicago State men\u2019s basketball ends 40-game Division I skid and hopes to begin a climb upward - Northwestern University",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRjA5eXc4TVFCaVBxYUFTaWNMRWxsanFmdGpaeEE2c2lNWWpUeHVyNndNakdMdmhxUXpyY21yNnJ4T0hSekJwWVBSbTlSamNjSktpRjBha1NUanFwT1dlQm1JX0FUVUYxc1p0MnVLQ0ZTWGZVaElLWi1jbWRyZEFOU25ZNHQyRzgtTENIbkRmUDk0ODVsQnBBbEVCSzJLT0RaOUowUjRhN29IRFhrQkpiSjV3cVZFYXRkVG9XWWp4MDVrWlNjZmdYTWZJVG5nYlZBUFF5Ng?oc=5",
+      "published_date": "2018-03-04",
+      "source": "Northwestern University",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jalen Hayes scores career-best 30, Oakland beats Chicago State - WXYZ Channel 7",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWVFrV3NtUS1CVzFoU0xOdlpCX0MtdzNQSGdJWEdvQmJsTGRFaDFuNzhmWE9pWXY4S2NFNlZmeHNCOVNueTBlSVNyY0tnQ2JvMkg3cHMzRVZYTDNmYnBteW1Oc1JvSVZLRldJOE9XQzdkc3hKU0pPOEFySVpWY1pIaU5ZTUF5dW5YekI2cjYtOTdBcE90anh5cW44QXh5MUpxdHdWYkk2RQ?oc=5",
+      "published_date": "2017-12-09",
+      "source": "WXYZ Channel 7",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "f4ca553e646d80c0edaa49d8f101b69b9bde953f615b127b9e2192e39d158bea",
+  "feature_eligible": false
+}

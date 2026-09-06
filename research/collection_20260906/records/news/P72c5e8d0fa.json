@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:52:40.235833+00:00",
+  "lane": "news",
+  "pid": "P72c5e8d0fa",
+  "draft_year": 2018,
+  "name": "Marquez Letcher-Ellis",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Marquez Letcher-Ellis\" (draft OR scouting OR prospect OR basketball) after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Marquez+Letcher-Ellis%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA draft: Every player who has declared early for 2018 - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPekthYWxQR2JYalpZdThheFlPRDQxR2YxWG9rTUJKSjVuZEktQk5Vc2tFWlBEVmJZVHJ6UVFUNElFWW05b2tCNmpKbXljTTZkdFhVMFlBTkNXSllTc09OTU1CVXYycHJiOVY0dExEZnhMdDd6RXhBSlpDM29WU1lMb0dyRU9LMTUzY2Y5d2tvZlM?oc=5",
+      "published_date": "2018-04-24",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Wolf Pack lands another transfer in Wagner's Corey Henson - Reno Gazette Journal",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSHdBR24yZnRjMl8waWxrRElwX2xOLXIza1FtVE5SWS1MQ2JOSWJfZG5CTzVoNm5ENUJRLURLTkVsXzE2Yi02OE9YTWtkSjFMSUM4M3M3a1dTUXFRMXdKYjh5UmZKZjdLeUh0WnR6ODVHWGFtOWtTcHhFMEo1aWxsd1hqRGVMVGc3Tl9vZlpsUW5id2dKcUloVkxoVnFnd3dGdEFrdENWSUplM1J3QWhyQkFNbkFvbTJGQ0E0VGJ4bVY?oc=5",
+      "published_date": "2017-08-14",
+      "source": "Reno Gazette Journal",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "314d99985e429db9dd90f65a8eb4ac6a07a179c031123715151ed9dd0ed111a1",
+  "feature_eligible": false
+}

@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:10:36.959505+00:00",
+  "lane": "reports",
+  "pid": "P8926a62cc8",
+  "draft_year": 2018,
+  "name": "Robert Williams III",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Robert Williams III\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Robert+Williams+III%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "The 2018 NBA Mock Draft | Chicago Bulls - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBycnpOMGJ2SmE4NFBFeUlkTFVBdFVRNlBXUGlQR0NXTlM1Q2JXV1ZvRGVhY2JTbjh6QnNlbFJIYUZpdUVVazJrVUtqdnV0ODlRcTJUTTNqMWlkWlEtTC1Z?oc=5",
+      "published_date": "2018-05-16",
+      "source": "NBA.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2018 NBA Mock Draft 3.0: Trae Young Soars Into the Top 10 - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY1Zpc0l4N3hkNU5hcm1sU2d1WVhBM05YREthRXBFRjhzam4zY0JDcjJzRC0tcmxTYmF0WjNGb2NLS3dZTlIzSEZUTWw2c2VwRTJBMlJESEdMQU9NNnhiUzRxVmR6SVJ2QUhxdTMtMXowVmhGRE9LOHprWE4ydi04Y0VWd3l3MTZNcjM2bFhlZ1pQWnlJ?oc=5",
+      "published_date": "2018-01-02",
+      "source": "Sports Illustrated",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "8db14d7036f293d575bd9537af1cc4f7ba9e26fbabb563fdb6c5dc30153d8323",
+  "feature_eligible": false
+}

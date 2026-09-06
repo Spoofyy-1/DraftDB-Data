@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:54:41.537448+00:00",
+  "lane": "reports",
+  "pid": "P22b18d36a6",
+  "draft_year": 2016,
+  "name": "Marcus Paige",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Marcus Paige\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Marcus+Paige%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NCAA: Buddy named preseason third team All-American - Tribune242",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMW91RDFFWGotLXBTNUJkTzBDQVlMZE0xTHZMd2Q2b2lvNGR3ZTcyUFE5Z1RveEtWR2s4b01vN2h0RThoY2JfdDk2dkhXMnBSMFBQZ0xmSWR0VjdTcUMxWGNLeHlVMmZLVFV1OE0xNlh2eDRzWXhpMkZsdVpKdzR1LXN5bVVsWW5SZ1Bsd1pFRWhIV01DVkZuUjdrOA?oc=5",
+      "published_date": "2015-09-15",
+      "source": "Tribune242",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "237cc715570c08f53b2fc58f79f7ccf230e5816e292e700d556969d922f12d26",
+  "feature_eligible": false
+}

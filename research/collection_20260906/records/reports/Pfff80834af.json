@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:59:52.427370+00:00",
+  "lane": "reports",
+  "pid": "Pfff80834af",
+  "draft_year": 2016,
+  "name": "Mamadou Ndiaye",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Mamadou Ndiaye\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Mamadou+Ndiaye%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Meet Mamadou Ndiaye, the 7-6 center who just declared for the NBA Draft - sportingnews.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV3BGVFJWQk9qaVUyMklkb0RNTXo1VTlGeTJFandPWERaUnJGWldYdFRZODNXdjFOcTRsQmpZVlNWdHo0NVMzYlpsQ0FaWmdPRHNQYXJoLS1BRFlrSGw4T1N0c2dEaEowVmNXOUROYkV3SWFzcEMxdHJuZXctODdHaFNzbFF0N0VQUzJ4ZnpNYlVtMEVOOWQ0ZG9JRy10ZUUzd201SDEyOXVBU2ljYzV3bGt3bWpFYjMzODY4NHBIYzd4dU9wclhjamZod1A1Y1dVRWFSUW9XdkVqTEk?oc=5",
+      "published_date": "2016-04-08",
+      "source": "sportingnews.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Tyler Ulis NBA Draft Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uZmxCY05YSzNSXzRsVXdSWE11b2lWcGZPTVV1aTgzNmRTUnpZZTJHcE1UMl9RbzJIbG1IVmlOZnVCMlpJdERyS1QtODViWDZBa0g1TXlkMl9rckVmTWw3bUZJQ0xmendpb0VTUTFxSQ?oc=5",
+      "published_date": "2015-07-14",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "7-foot-6 UC Irvine basketball player crams into coach middle seat on airplane - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQkg5SDhSdmdfdDNMNlNpajlUc0xKbWlvbjRFUmV6ek5sdjBvakczVkR5QlA3MlNoYWtkeVlZalgybGw1U3o5bUNHME16X2ZDdkNscHdmX2RrLVRyMmdTc3BSb05tWG9pVThYaVpURFBWaUJVVFRHMFFMRG44cmdOWE40dk1Bc1RURU15MWFvWExhbHdQdDJTZmtOOUl2bDhIbFI0b2IweHY1VjVBSHctQ2x0NnVoaktFUmUyT1ZhLVhOZw?oc=5",
+      "published_date": "2016-03-25",
+      "source": "USA Today",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "a66baa16ebb4b040295459a73ae2eeee27561d908a6ccae8ed93900cdd072fb9",
+  "feature_eligible": false
+}

@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T11:06:56.800352+00:00",
+  "lane": "reports",
+  "pid": "Pf781dda14b",
+  "draft_year": 2017,
+  "name": "Ivan Rabb",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Ivan Rabb\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Ivan+Rabb%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2017 Kid Reporter NBA Mock Draft - SI Kids",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpTWRLWDhSc1JPLXRfMW5hRmRTQkdzV0JKTVY1U3lvX0JEQ2c2MjZ4dWVWVFJUSm5GZmJGN0l6VXpHSllhSGJOZDhab0oyM1RRY3RtejVfbkRqVDM1MlkzZWM2TzJVU2Z5Rm9ENnNPX3BGeVVQcVpz?oc=5",
+      "published_date": "2017-06-21",
+      "source": "SI Kids",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Mock Draft 5.0: First-round picks for Celtics, Lakers, 76ers and more - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSkxQT1Nxb2w3WVJYbDY4RnYyMWtXZUxCbE9xbWtEVGdHV3E1V2ZNaFF1dTZqYlpMa0QwdkIyVWJsVDctSEE1UWtJeWRTQnVpeGZVNThCelRyVFhLQ0hNN2Rsbm9EQ05ia0ZxcDltbEwxNUZXOXZKS2lKRERaSjcxRjMwM2RiLUNuUG9kNnFEU242aF9qZnfSAZsBQVVfeXFMUC1zWmJjMGRHRDdfT2d1QjNjWjRVTlVObGx6MFdlTjBnY056YzNEcTRRLWFnaTVGNHlDemQyWFVRZ05VcE5kSk5XWDlWY0hSMFFVRU96WjBGbGcyaDQ4bzhFSHhfaGR4SDBsaFBkM1gxdDVLU0RzVFRyd0RLT2dmNHdLa3g3YTFBZExUNU0tM2dVOHlLQ0d3bTA5NkE?oc=5",
+      "published_date": "2017-05-16",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Steve Popper's 2017 NBA Mock Draft 1.0 - Bergen Record",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaHgwdTF0X0RhdWtEZzNwbWhmX05MVjczSFBaaUd2Nkpjc2gwMGl5Z0hyejVYLUs2Mk9XYVZaNGI5RTRSVUJvczBJajZpdG1QeUZacHZWRTBHVzBjSkhZTTRQMGl4aVduTVYwNFo4d0diNnFYTk5iQ0tsZ2FDbkh4alh0US0yVnJHa3pEbWhtc2RhanJkMlRHTWRjNU9OcE1EZEM0WDRIVUFVTV9Wd1dPVw?oc=5",
+      "published_date": "2017-05-17",
+      "source": "Bergen Record",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2017 NBA Mock Draft: After winning top pick, Celtics go with Duke's Jayson Tatum - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM0xpT25HYi1IVHo0U0ZybU5uTTNfZUQwUXRyZmI5UllPVlN5MzNaU3ZHZ05pZUNDOUpUd0dPamVMOHpULU8ybkxkaFVPRlZvV1dET0x4ZkwwRVBHNEViTld3Ri1uRW5VY3RsZVR0NTFCcHlNVVpzVWhzcHF3c1VpcmlpX3RyLUIweU5tUlRlUDM2VU9OeElJY0RkQ053WVRERVM4Z1BmYWFLU1hUc183WUpQUQ?oc=5",
+      "published_date": "2017-05-16",
+      "source": "CBS Sports",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2017 NBA Mock Draft: Rumors And All 60 Picks - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa3Rwd2gyeXV3bzVlNFVuaU5hQ2ZBaEp2VExMb01uaU54MWYya0VQdVkzSDlyMkRoOUFpUTRieWg1Y0lGTzNkTDFGdkRwc0k4Qlc4Snp2Mi15WlpFVEdkRk85QlROb1I0YVhqLURaNVdJN1M3cktJWFVqSV9KZXFzSWQyWWktVk1ZcXlsY0tzREpkX0JoVlE?oc=5",
+      "published_date": "2017-06-20",
+      "source": "Sports Illustrated",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 2,
+  "response_sha256": "8e48bff27303fe96bfd9cfaf576d8e9eb727abb16dbac119fdf276fe76fe83f9",
+  "feature_eligible": false
+}

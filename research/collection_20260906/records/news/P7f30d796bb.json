@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:52:50.063806+00:00",
+  "lane": "news",
+  "pid": "P7f30d796bb",
+  "draft_year": 2018,
+  "name": "Dairis Bertans",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Dairis Bertans\" (draft OR scouting OR prospect OR basketball) after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Dairis+Bertans%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Dairis Bertans announced his absence from Latvia\u2019s November games - Eurohoops",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV2RxWUFwLWYyUjN4YnBTVUthMlRkU0d5c1VIYkJlX0JxZktHM0xKSmFGamRRaFN0ZmhISGxLVGozWm9QQVB2OFdMd3BWV2ZrMldYLWlMTS1kQ0NyWGRSVUpCTUI1cWoxakdRN3RZN25zOU1VTTdsTTBIOGZHcTZYVzYxdTJHRzhGclhBcTBtLXRjMFY3S1ZwVlI4VmgxNFo1?oc=5",
+      "published_date": "2017-11-09",
+      "source": "Eurohoops",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Latvia NBA Players - RealGM",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE14T3UyR0N0QmtVaEV6SlA1bEVKX2RLbWVQMDd2bDBvSDFJdDY3VktETnR6aVdHM1JnbWFWMzR4eEZsSldxWnJubnhVWVRKaUxvcDlTbER3OFdpME1ILUp0NVJoanU5cmlnd05kQnVvQm03X2VSbTNJUFVR?oc=5",
+      "published_date": "2017-07-21",
+      "source": "RealGM",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Players From Latvia - RealGM",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lNDRBeU1WcFpmcGFYREVfX2R5cHZLbl8xUGlfd25pd2lNMVlaaHYzeFVhOXlYRFdfTkliRnZqU1A1bGQyUDJRYVo4dEJKU2lLbVhwVjZvUU1CWGJQUkhMRWFiSGttcU9GMjdF?oc=5",
+      "published_date": "2017-07-19",
+      "source": "RealGM",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "9eecacd2fead16a970247f3e56addf4223d3a2258724394f50449e23a27ccb28",
+  "feature_eligible": false
+}

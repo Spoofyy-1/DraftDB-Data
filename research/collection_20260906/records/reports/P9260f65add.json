@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:56:58.770324+00:00",
+  "lane": "reports",
+  "pid": "P9260f65add",
+  "draft_year": 2016,
+  "name": "Kay Felder",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Kay Felder\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Kay+Felder%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2016 NBA Draft Profile | Ben Bentil - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oNzJiLVB4TWh3SC1NLXA3bk92eld1VlpDdzR0OE8wRmFuQnc2Tk1tQ25aRWNNZkpWUHpDZ2pzNXQteXJXM0N6emJTNHdaQUVsQlJmdmpPWE1hYnZhSzBTTWotVEZlV2RpX2VSWHUwMWQ1eE9C?oc=5",
+      "published_date": "2016-06-06",
+      "source": "NBA.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Oakland's Kay Felder nails 2nd-highest vertical in NBA combine history - Detroit Free Press",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUFQ0blM2RmdGcHp5eEdhcUVBa2hQaEFMdmtYSm9rbk5wU2hNdXRkZW9tOWVGMVBUbkpRSDZUaERsd3RwWEJNeU1qN2kwSFpvODhyQnJMREFSWnMtTkN0SUU0SG01b0xSdGw2d3llWDFBYUtwdzg4VGtIa2hVVE5yX0FMdGh6aGxzZDliSQ?oc=5",
+      "published_date": "2016-05-13",
+      "source": "Detroit Free Press",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Undersized Boston guard Isaiah Thomas gives hope to OU\u2019s Kay Felder - Detroit Free Press",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUHBfS0pwbnJKWm9IdXZlS21MSk5sNzlCSnBSX292MkRqUjZNbVZxTkVkWURuRjhyQkZ5WE5lRzV4SG5qRWtBUDlrdG1RNHNNX3B0QWFMcDEycmRON09acjd3SHNOS2pjdTg5VDZ0VkpadDNpS3JDeWRYaXp1bVJNMFYxTGFGVDRxRF91UVdlUTNmc1NHT0Y1T3h4UkhnenVzR0NjYXVrdTcxYkNsbFE?oc=5",
+      "published_date": "2016-05-14",
+      "source": "Detroit Free Press",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "ab3e3d14ff6b6259f43f2a44b6b482e523ef333db9e6ab8ea182a865a83a88cf",
+  "feature_eligible": false
+}

@@ -1,0 +1,637 @@
+{
+  "statistics": [
+    {
+      "id": "window2007_maturity0",
+      "window": 2007,
+      "maturity": 0,
+      "score": 0.500067422374383,
+      "fit_seed_std": 0.000802274965700169,
+      "folds": {
+        "2012": 0.5556758056758059,
+        "2013": 0.43135654261704676,
+        "2014": 0.5131699188302962
+      },
+      "gain_vs_exact_baseline": 0.0,
+      "fold_gains_vs_exact_baseline": {
+        "2012": 0.0,
+        "2013": 0.0,
+        "2014": 0.0
+      }
+    },
+    {
+      "id": "window2003_maturity0",
+      "window": 2003,
+      "maturity": 0,
+      "score": 0.4979219839798033,
+      "fit_seed_std": 0.0028336783857295855,
+      "folds": {
+        "2012": 0.49518999518999535,
+        "2013": 0.4372148859543817,
+        "2014": 0.5613610707950331
+      },
+      "gain_vs_exact_baseline": -0.0021454383945796462,
+      "fold_gains_vs_exact_baseline": {
+        "2012": -0.06048581048581053,
+        "2013": 0.005858343337334926,
+        "2014": 0.04819115196473689
+      }
+    },
+    {
+      "id": "window2000_maturity0",
+      "window": 2000,
+      "maturity": 0,
+      "score": 0.49638170464659553,
+      "fit_seed_std": 0.002958415424931889,
+      "folds": {
+        "2012": 0.5259259259259261,
+        "2013": 0.3801680672268907,
+        "2014": 0.5830511207869699
+      },
+      "gain_vs_exact_baseline": -0.0036857177277874187,
+      "fold_gains_vs_exact_baseline": {
+        "2012": -0.02974987974987975,
+        "2013": -0.05118847539015603,
+        "2014": 0.06988120195667369
+      }
+    },
+    {
+      "id": "window2005_maturity0",
+      "window": 2005,
+      "maturity": 0,
+      "score": 0.42479611865955086,
+      "fit_seed_std": 0.0017508732542845567,
+      "folds": {
+        "2012": 0.5233044733044734,
+        "2013": 0.2364625850340136,
+        "2014": 0.5146212976401655
+      },
+      "gain_vs_exact_baseline": -0.0752713037148321,
+      "fold_gains_vs_exact_baseline": {
+        "2012": -0.032371332371332495,
+        "2013": -0.19489395758303316,
+        "2014": 0.0014513788098693414
+      }
+    },
+    {
+      "id": "window2003_maturity3",
+      "window": 2003,
+      "maturity": 3,
+      "score": 0.36465715347434075,
+      "fit_seed_std": 0.0012176802898397113,
+      "folds": {
+        "2012": 0.35384800384800386,
+        "2013": 0.3016726690676271,
+        "2014": 0.4384507875073913
+      },
+      "gain_vs_exact_baseline": -0.1354102689000422,
+      "fold_gains_vs_exact_baseline": {
+        "2012": -0.20182780182780202,
+        "2013": -0.12968387354941968,
+        "2014": -0.07471913132290486
+      }
+    },
+    {
+      "id": "window2007_maturity3",
+      "window": 2007,
+      "maturity": 3,
+      "score": 0.3501119598122928,
+      "fit_seed_std": 0.004274011759773502,
+      "folds": {
+        "2012": 0.3128427128427129,
+        "2013": 0.3785994397759103,
+        "2014": 0.3588937268182551
+      },
+      "gain_vs_exact_baseline": -0.14995546256209014,
+      "fold_gains_vs_exact_baseline": {
+        "2012": -0.24283309283309296,
+        "2013": -0.05275710284113644,
+        "2014": -0.15427619201204107
+      }
+    },
+    {
+      "id": "window2005_maturity3",
+      "window": 2005,
+      "maturity": 3,
+      "score": 0.32419331034520504,
+      "fit_seed_std": 0.0011535196958044399,
+      "folds": {
+        "2012": 0.3397306397306398,
+        "2013": 0.20361744697879147,
+        "2014": 0.42923184432618394
+      },
+      "gain_vs_exact_baseline": -0.1758741120291779,
+      "fold_gains_vs_exact_baseline": {
+        "2012": -0.21594516594516605,
+        "2013": -0.22773909563825528,
+        "2014": -0.08393807450411223
+      }
+    },
+    {
+      "id": "window2000_maturity3",
+      "window": 2000,
+      "maturity": 3,
+      "score": 0.3028310112021333,
+      "fit_seed_std": 0.0024688329603207554,
+      "folds": {
+        "2012": 0.35014430014430015,
+        "2013": 0.16443377350940372,
+        "2014": 0.3939149599526958
+      },
+      "gain_vs_exact_baseline": -0.19723641117224966,
+      "fold_gains_vs_exact_baseline": {
+        "2012": -0.20553150553150573,
+        "2013": -0.266922769107643,
+        "2014": -0.11925495887760035
+      }
+    },
+    {
+      "id": "window2005_maturityk",
+      "window": 2005,
+      "maturity": "k",
+      "score": 0.24491728113841113,
+      "fit_seed_std": 0.004139168096142183,
+      "folds": {
+        "2012": 0.2563732563732564,
+        "2013": 0.008051220488195279,
+        "2014": 0.47032736655378155
+      },
+      "gain_vs_exact_baseline": -0.2551501412359718,
+      "fold_gains_vs_exact_baseline": {
+        "2012": -0.29930254930254946,
+        "2013": -0.42330532212885147,
+        "2014": -0.04284255227651462
+      }
+    },
+    {
+      "id": "window2003_maturityk",
+      "window": 2003,
+      "maturity": "k",
+      "score": 0.24114888208487914,
+      "fit_seed_std": 0.0021271794106974733,
+      "folds": {
+        "2012": 0.2327320827320828,
+        "2013": 0.05546218487394958,
+        "2014": 0.43525237864860505
+      },
+      "gain_vs_exact_baseline": -0.2589185402895038,
+      "fold_gains_vs_exact_baseline": {
+        "2012": -0.3229437229437231,
+        "2013": -0.3758943577430972,
+        "2014": -0.07791754018169111
+      }
+    },
+    {
+      "id": "window2000_maturityk",
+      "window": 2000,
+      "maturity": "k",
+      "score": 0.20044496919926338,
+      "fit_seed_std": 0.001596682767516116,
+      "folds": {
+        "2012": 0.31370851370851377,
+        "2013": -0.037374949979991995,
+        "2014": 0.3250013438692684
+      },
+      "gain_vs_exact_baseline": -0.2996224531751196,
+      "fold_gains_vs_exact_baseline": {
+        "2012": -0.2419672919672921,
+        "2013": -0.4687314925970387,
+        "2014": -0.1881685749610278
+      }
+    }
+  ],
+  "eligibility": [
+    {
+      "id": "window2000_maturity0",
+      "window": 2000,
+      "maturity": 0,
+      "fold_counts": [
+        {
+          "season": 2012,
+          "cutoff": 2011,
+          "k": 5,
+          "maturity_threshold": 0,
+          "max_training_cohort": 2010,
+          "ntrain": 740,
+          "eligible": true
+        },
+        {
+          "season": 2013,
+          "cutoff": 2012,
+          "k": 5,
+          "maturity_threshold": 0,
+          "max_training_cohort": 2011,
+          "ntrain": 818,
+          "eligible": true
+        },
+        {
+          "season": 2014,
+          "cutoff": 2013,
+          "k": 4,
+          "maturity_threshold": 0,
+          "max_training_cohort": 2012,
+          "ntrain": 892,
+          "eligible": true
+        }
+      ],
+      "eligible": true,
+      "reason": null
+    },
+    {
+      "id": "window2000_maturity3",
+      "window": 2000,
+      "maturity": 3,
+      "fold_counts": [
+        {
+          "season": 2012,
+          "cutoff": 2011,
+          "k": 5,
+          "maturity_threshold": 3,
+          "max_training_cohort": 2008,
+          "ntrain": 613,
+          "eligible": true
+        },
+        {
+          "season": 2013,
+          "cutoff": 2012,
+          "k": 5,
+          "maturity_threshold": 3,
+          "max_training_cohort": 2009,
+          "ntrain": 673,
+          "eligible": true
+        },
+        {
+          "season": 2014,
+          "cutoff": 2013,
+          "k": 4,
+          "maturity_threshold": 3,
+          "max_training_cohort": 2010,
+          "ntrain": 740,
+          "eligible": true
+        }
+      ],
+      "eligible": true,
+      "reason": null
+    },
+    {
+      "id": "window2000_maturityk",
+      "window": 2000,
+      "maturity": "k",
+      "fold_counts": [
+        {
+          "season": 2012,
+          "cutoff": 2011,
+          "k": 5,
+          "maturity_threshold": 5,
+          "max_training_cohort": 2006,
+          "ntrain": 489,
+          "eligible": true
+        },
+        {
+          "season": 2013,
+          "cutoff": 2012,
+          "k": 5,
+          "maturity_threshold": 5,
+          "max_training_cohort": 2007,
+          "ntrain": 550,
+          "eligible": true
+        },
+        {
+          "season": 2014,
+          "cutoff": 2013,
+          "k": 4,
+          "maturity_threshold": 4,
+          "max_training_cohort": 2009,
+          "ntrain": 673,
+          "eligible": true
+        }
+      ],
+      "eligible": true,
+      "reason": null
+    },
+    {
+      "id": "window2003_maturity0",
+      "window": 2003,
+      "maturity": 0,
+      "fold_counts": [
+        {
+          "season": 2012,
+          "cutoff": 2011,
+          "k": 5,
+          "maturity_threshold": 0,
+          "max_training_cohort": 2010,
+          "ntrain": 544,
+          "eligible": true
+        },
+        {
+          "season": 2013,
+          "cutoff": 2012,
+          "k": 5,
+          "maturity_threshold": 0,
+          "max_training_cohort": 2011,
+          "ntrain": 622,
+          "eligible": true
+        },
+        {
+          "season": 2014,
+          "cutoff": 2013,
+          "k": 4,
+          "maturity_threshold": 0,
+          "max_training_cohort": 2012,
+          "ntrain": 696,
+          "eligible": true
+        }
+      ],
+      "eligible": true,
+      "reason": null
+    },
+    {
+      "id": "window2003_maturity3",
+      "window": 2003,
+      "maturity": 3,
+      "fold_counts": [
+        {
+          "season": 2012,
+          "cutoff": 2011,
+          "k": 5,
+          "maturity_threshold": 3,
+          "max_training_cohort": 2008,
+          "ntrain": 417,
+          "eligible": true
+        },
+        {
+          "season": 2013,
+          "cutoff": 2012,
+          "k": 5,
+          "maturity_threshold": 3,
+          "max_training_cohort": 2009,
+          "ntrain": 477,
+          "eligible": true
+        },
+        {
+          "season": 2014,
+          "cutoff": 2013,
+          "k": 4,
+          "maturity_threshold": 3,
+          "max_training_cohort": 2010,
+          "ntrain": 544,
+          "eligible": true
+        }
+      ],
+      "eligible": true,
+      "reason": null
+    },
+    {
+      "id": "window2003_maturityk",
+      "window": 2003,
+      "maturity": "k",
+      "fold_counts": [
+        {
+          "season": 2012,
+          "cutoff": 2011,
+          "k": 5,
+          "maturity_threshold": 5,
+          "max_training_cohort": 2006,
+          "ntrain": 293,
+          "eligible": true
+        },
+        {
+          "season": 2013,
+          "cutoff": 2012,
+          "k": 5,
+          "maturity_threshold": 5,
+          "max_training_cohort": 2007,
+          "ntrain": 354,
+          "eligible": true
+        },
+        {
+          "season": 2014,
+          "cutoff": 2013,
+          "k": 4,
+          "maturity_threshold": 4,
+          "max_training_cohort": 2009,
+          "ntrain": 477,
+          "eligible": true
+        }
+      ],
+      "eligible": true,
+      "reason": null
+    },
+    {
+      "id": "window2005_maturity0",
+      "window": 2005,
+      "maturity": 0,
+      "fold_counts": [
+        {
+          "season": 2012,
+          "cutoff": 2011,
+          "k": 5,
+          "maturity_threshold": 0,
+          "max_training_cohort": 2010,
+          "ntrain": 414,
+          "eligible": true
+        },
+        {
+          "season": 2013,
+          "cutoff": 2012,
+          "k": 5,
+          "maturity_threshold": 0,
+          "max_training_cohort": 2011,
+          "ntrain": 492,
+          "eligible": true
+        },
+        {
+          "season": 2014,
+          "cutoff": 2013,
+          "k": 4,
+          "maturity_threshold": 0,
+          "max_training_cohort": 2012,
+          "ntrain": 566,
+          "eligible": true
+        }
+      ],
+      "eligible": true,
+      "reason": null
+    },
+    {
+      "id": "window2005_maturity3",
+      "window": 2005,
+      "maturity": 3,
+      "fold_counts": [
+        {
+          "season": 2012,
+          "cutoff": 2011,
+          "k": 5,
+          "maturity_threshold": 3,
+          "max_training_cohort": 2008,
+          "ntrain": 287,
+          "eligible": true
+        },
+        {
+          "season": 2013,
+          "cutoff": 2012,
+          "k": 5,
+          "maturity_threshold": 3,
+          "max_training_cohort": 2009,
+          "ntrain": 347,
+          "eligible": true
+        },
+        {
+          "season": 2014,
+          "cutoff": 2013,
+          "k": 4,
+          "maturity_threshold": 3,
+          "max_training_cohort": 2010,
+          "ntrain": 414,
+          "eligible": true
+        }
+      ],
+      "eligible": true,
+      "reason": null
+    },
+    {
+      "id": "window2005_maturityk",
+      "window": 2005,
+      "maturity": "k",
+      "fold_counts": [
+        {
+          "season": 2012,
+          "cutoff": 2011,
+          "k": 5,
+          "maturity_threshold": 5,
+          "max_training_cohort": 2006,
+          "ntrain": 163,
+          "eligible": true
+        },
+        {
+          "season": 2013,
+          "cutoff": 2012,
+          "k": 5,
+          "maturity_threshold": 5,
+          "max_training_cohort": 2007,
+          "ntrain": 224,
+          "eligible": true
+        },
+        {
+          "season": 2014,
+          "cutoff": 2013,
+          "k": 4,
+          "maturity_threshold": 4,
+          "max_training_cohort": 2009,
+          "ntrain": 347,
+          "eligible": true
+        }
+      ],
+      "eligible": true,
+      "reason": null
+    },
+    {
+      "id": "window2007_maturity0",
+      "window": 2007,
+      "maturity": 0,
+      "fold_counts": [
+        {
+          "season": 2012,
+          "cutoff": 2011,
+          "k": 5,
+          "maturity_threshold": 0,
+          "max_training_cohort": 2010,
+          "ntrain": 251,
+          "eligible": true
+        },
+        {
+          "season": 2013,
+          "cutoff": 2012,
+          "k": 5,
+          "maturity_threshold": 0,
+          "max_training_cohort": 2011,
+          "ntrain": 329,
+          "eligible": true
+        },
+        {
+          "season": 2014,
+          "cutoff": 2013,
+          "k": 4,
+          "maturity_threshold": 0,
+          "max_training_cohort": 2012,
+          "ntrain": 403,
+          "eligible": true
+        }
+      ],
+      "eligible": true,
+      "reason": null
+    },
+    {
+      "id": "window2007_maturity3",
+      "window": 2007,
+      "maturity": 3,
+      "fold_counts": [
+        {
+          "season": 2012,
+          "cutoff": 2011,
+          "k": 5,
+          "maturity_threshold": 3,
+          "max_training_cohort": 2008,
+          "ntrain": 124,
+          "eligible": true
+        },
+        {
+          "season": 2013,
+          "cutoff": 2012,
+          "k": 5,
+          "maturity_threshold": 3,
+          "max_training_cohort": 2009,
+          "ntrain": 184,
+          "eligible": true
+        },
+        {
+          "season": 2014,
+          "cutoff": 2013,
+          "k": 4,
+          "maturity_threshold": 3,
+          "max_training_cohort": 2010,
+          "ntrain": 251,
+          "eligible": true
+        }
+      ],
+      "eligible": true,
+      "reason": null
+    },
+    {
+      "id": "window2007_maturityk",
+      "window": 2007,
+      "maturity": "k",
+      "fold_counts": [
+        {
+          "season": 2012,
+          "cutoff": 2011,
+          "k": 5,
+          "maturity_threshold": 5,
+          "max_training_cohort": 2006,
+          "ntrain": 0,
+          "eligible": false
+        },
+        {
+          "season": 2013,
+          "cutoff": 2012,
+          "k": 5,
+          "maturity_threshold": 5,
+          "max_training_cohort": 2007,
+          "ntrain": 61,
+          "eligible": false
+        },
+        {
+          "season": 2014,
+          "cutoff": 2013,
+          "k": 4,
+          "maturity_threshold": 4,
+          "max_training_cohort": 2009,
+          "ntrain": 184,
+          "eligible": true
+        }
+      ],
+      "eligible": false,
+      "reason": "Fewer than 80 training rows in at least one fold, based only on cohort calendar dates."
+    }
+  ],
+  "interpretation": "Calendar-cohort censoring diagnosis using only pre-2019 development. Cohort age is not a filter on NBA survival or seasons played. Fit-seed variability is not generalization uncertainty."
+}

@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:50:52.694162+00:00",
+  "lane": "reports",
+  "pid": "P4a125216bc",
+  "draft_year": 2015,
+  "name": "Jordan Mickey",
+  "draft_date": "2015-06-25",
+  "status": "ok",
+  "query": "\"Jordan Mickey\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2014-07-01 before:2015-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Jordan+Mickey%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2014-07-01+before%3A2015-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Draft Profile: Jordan Mickey | Boston Celtics - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoR0dPb1BNeHFzMGtBX1dELUs0UWhvSEtxYmVsb3hoTmFPa21WMzZfc2ZXa2RkeUswcHFEMGlCRkNocnFKc3VySTFEU1RYRE1LZXRqbTNEQThrRjFra0tLTXA2NTdnQQ?oc=5",
+      "published_date": "2015-06-10",
+      "source": "NBA.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Commitment to defensive end placed Jordan Mickey on brink of NBA career - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY0s1b2V1T3ZfQkZRSE52UXMxMkVWTU5idm1nMHZTZzQtWDRoSE94MXVtbnB4ZEI5ZS0wczNLdWQ3aUZSY1VyRUpBZTR1MGlidEZTVHI3QWlOUjNmc1pXT2hRQjlxd3NwZzVFcnJDNGtxOV9ZUk5Xam5GV09OZ2hZMnFKMXVFcm5QeFdrblR0Wkdxa3pYZ1ZhV1d2eHAwa1phX3dFUUhtSQ?oc=5",
+      "published_date": "2015-06-22",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Best Comparison for Every Top-30 Prospect in 2015 NBA Draft - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd1F5VDN5emN3M1ViZHB5RmJ6aldmUXRISEd4eVMxVkR0X0kxekQ2YTZMWlF3U1VkYTlvUDlfYmluSWRFRHF0UGZWcjB0bGlRbUcxRmUzMDJWVGRwS0RMOG1YaVJRTlZ2Snc1dXpzOTFhTGN4YXFERzZoc3M0clVFV2R5b29Zemd6MGR0NjRIOGNlSURfeTA0VkM0bjNCQkk1T1Mw?oc=5",
+      "published_date": "2015-05-20",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2015 NBA Mock Draft: Post-Lottery Projections for All 30 1st-Round Picks - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWWtjVUNxS1JXbGFNOXdpMEk0bkY2THQ2NG5ZWGRzZDlVUTdVSjMzYldKNFdabHZQcUVFdUdOckF6bTR6c3VIWVJyS2RXTzhYY0dzbFYyZU0tZWVra2JoZzFlelFPdEItMnRPd1ExeTJ1RjB1NzVKTE44cG9kWGZKYnBjME1TY01rM255Z05DRVI3WGpGam8yV1ltb0dneFM5RENCdGJNV3M4WTBYdXZCa3oyNUw5QQ?oc=5",
+      "published_date": "2015-05-19",
+      "source": "Bleacher Report",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "0cc444f2371419f0728ef32a82d62cceb3eb6be1cf0cdc9c9c78e0ffc64a26fe",
+  "feature_eligible": false
+}

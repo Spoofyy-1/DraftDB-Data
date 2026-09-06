@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:01:48.169275+00:00",
+  "lane": "reports",
+  "pid": "P4074fe9b9e",
+  "draft_year": 2017,
+  "name": "Royce O'Neale",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Royce O'Neale\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Royce+O%27Neale%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Royce O'Neale Videos - draftexpress.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hVkU5aWZJOFFwUTRwZktqTlVLaGNlQmdVWXFEcmdaSExRUGRSMVEweU0wa1pMZkNoRWdUQ2N1eGVMUVpuTzhGZXUwd3J1QUMwYi1GcVJlR0RuV0xhcGhFMHdkZzhyUEROTzM0SWlyWVo?oc=5",
+      "published_date": "2017-04-10",
+      "source": "draftexpress.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "927f9cc23b0803fd91e6a0fc19888cf7e761131a59e4d018c64060871a085d98",
+  "feature_eligible": false
+}

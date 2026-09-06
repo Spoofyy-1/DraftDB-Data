@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:51:31.914744+00:00",
+  "lane": "reports",
+  "pid": "P831df49905",
+  "draft_year": 2015,
+  "name": "Norman Powell",
+  "draft_date": "2015-06-25",
+  "status": "ok",
+  "query": "\"Norman Powell\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2014-07-01 before:2015-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Norman+Powell%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2014-07-01+before%3A2015-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Norman Powell NBA Draft Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zOEV2TC1UZmZwNFhoc1o4R2dhUnUwMjNrSzFLcGxPbjBIckdnTVR5NURKY3BiTWhFRjcwLW0zdldqeVdFaVlyWlNxUjZWalNfZXhuRG1McGZOUGg2SnE4N3RnWElXY2FDbm1NbXdWVF80VVE?oc=5",
+      "published_date": "2015-04-12",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2015 Draft Prospect | Norman Powell - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vTEw2b0dNLVRJSkU0WEtITmk4aFI4WU9qVWVDSk5ERmJBdnJSbGJwTGpLR1YtUHpwTUo0U2VSamYza204aXZzUnVYaEhKV2FIak51VzlHZzJVR0tnZHJqekM5aUVqZHdfVEN3QlNn?oc=5",
+      "published_date": "2015-06-01",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jamal Murray NBA Draft Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ldW5IYTJOUXI5M3htWmdFbzltRWwtWG9CUFVuczNxai1tcWp4eEx6R0ZCRExfUGk2WDhFTTg2ZEFZeEtaRXN3VUYybjV5ZS1TQmM1Tml6ZEdDMXlUTENRQlJ1akN6WVEtNFpsS0VrblVrZw?oc=5",
+      "published_date": "2015-04-12",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "ebff39eb3842d0f78aae1950c26c0e51023f99d1d772dcb88c17f44bbcba1961",
+  "feature_eligible": false
+}

@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:55:10.879610+00:00",
+  "lane": "reports",
+  "pid": "P420da53cac",
+  "draft_year": 2016,
+  "name": "Devin Williams",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Devin Williams\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Devin+Williams%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Devin Williams, Mansfield Timberview , Dual-Threat Quarterback - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qaU1JbFhIc1RyZnc3eHFVLVZkeHpDVXF4R0xra2FzeGlpSURWck1TYzVOMl9Hb0lwYjdIdE1NeC13dEJfeW9oeFIzQ00yLUVaNlpmVldRQjBMV05BUVBV?oc=5",
+      "published_date": "2016-02-03",
+      "source": "247Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "c243ed8f80274eebbad86e489a46deaaf07b545133f2756aed187f95f3713b17",
+  "feature_eligible": false
+}

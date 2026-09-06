@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:04:38.863340+00:00",
+  "lane": "reports",
+  "pid": "Pa76a1ce248",
+  "draft_year": 2017,
+  "name": "Monte Morris",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Monte Morris\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Monte+Morris%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Iowa State's Monte' Morris' ticket to the NBA lies in his ability to take care of the basketball - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZEJwbWx5bkJObEtKYThwRzR0UGFqbFEtNS1zNDhKdld2VXR5NWxJcGhiT3BHd1Z0MkhxZHdvaDh0YlpkTkF0T3pkSWpvZlJzSEVCWUVuMTJqRTFKYlRoeGJsU0swdmtGcThDRUZBcndQNzhkaWo1SXJYMGRDSkJGUjdDa2N5N1Jndm4w?oc=5",
+      "published_date": "2017-03-30",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2017 NBA Mock Draft: Rumors And All 60 Picks - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa3Rwd2gyeXV3bzVlNFVuaU5hQ2ZBaEp2VExMb01uaU54MWYya0VQdVkzSDlyMkRoOUFpUTRieWg1Y0lGTzNkTDFGdkRwc0k4Qlc4Snp2Mi15WlpFVEdkRk85QlROb1I0YVhqLURaNVdJN1M3cktJWFVqSV9KZXFzSWQyWWktVk1ZcXlsY0tzREpkX0JoVlE?oc=5",
+      "published_date": "2017-06-20",
+      "source": "Sports Illustrated",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "1de62d66c88cee5b215af0df205e11f4ca1ac3dda63eaea520956228a27b6838",
+  "feature_eligible": false
+}

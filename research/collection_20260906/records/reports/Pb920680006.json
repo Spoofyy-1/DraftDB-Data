@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:05:01.684115+00:00",
+  "lane": "reports",
+  "pid": "Pb920680006",
+  "draft_year": 2017,
+  "name": "Damion Lee",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Damion Lee\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Damion+Lee%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Donovan Mitchell 2017 NBA Draft scouting report - courier-journal.com",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMzVDYl8wOTNnME40NGRVaTh6cmRkbW1IMjJSOEFrQlZ3aWZoLWFtMFF3ZUtWX1RmODNCVGhvVjdFLVpWZ21lVGttXzlyWEVRR0pUbmtfdHppaGhjUjg0aDBRcDQ2bEpGZ1VFNDR5MWtSS2h1ZWpKb1p6a1FQckloelVFdE81aWNNQXN6OUZBb1NYRFZ4VjlXbDBoM1hZdGU0YV9odDBINkduZjdQeVBMNUY2UnlrNEtvNWZzWTRra0wwV2tlQnNkdF9LNlVrSDZPNHRpSG9CdUFETnlxdzFFa2NDLUFkWDVtb1BaNUZnZWhHdVlCdVBwag?oc=5",
+      "published_date": "2017-06-20",
+      "source": "courier-journal.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "de86bcedda6734e61bfc2da8af9b6782e2f1d2e959a8d4201216f4199e421d6a",
+  "feature_eligible": false
+}
