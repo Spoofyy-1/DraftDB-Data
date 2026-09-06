@@ -1,0 +1,2727 @@
+{
+  "status": "completed",
+  "phase": "bounded research complete",
+  "target": 0.6,
+  "completed": 63,
+  "total": 63,
+  "candidates": [
+    {
+      "config": {
+        "id": "core:ridge:30",
+        "block": "core",
+        "family": "ridge",
+        "alpha": 30
+      },
+      "score": 0.24394626824942348,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.23189033189033192,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.07783913565426169,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.4221093372036768,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.2
+    },
+    {
+      "config": {
+        "id": "core:ridge:300",
+        "block": "core",
+        "family": "ridge",
+        "alpha": 300
+      },
+      "score": 0.25043803814059085,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.19365079365079368,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.1038655462184874,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.45379777455249154,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.1
+    },
+    {
+      "config": {
+        "id": "core:xgb:2",
+        "block": "core",
+        "family": "xgb",
+        "depth": 2
+      },
+      "score": 0.29463107311212594,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.20072150072150077,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.22477791116446577,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.4583938074504112,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 1.2
+    },
+    {
+      "config": {
+        "id": "core:xgb:3",
+        "block": "core",
+        "family": "xgb",
+        "depth": 3
+      },
+      "score": 0.30438263848443015,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.25642135642135644,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.21373349339735895,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.442993065634575,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.9
+    },
+    {
+      "config": {
+        "id": "core:et:0",
+        "block": "core",
+        "family": "et"
+      },
+      "score": 0.3093367296633509,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.1425685425685426,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.34357743097238896,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.4418642154491211,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 1.7
+    },
+    {
+      "config": {
+        "id": "core:cat:0",
+        "block": "core",
+        "family": "cat"
+      },
+      "score": 0.22333500833738665,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.17943722943722948,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.1309483793517407,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.3596194162231898,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 1.0
+    },
+    {
+      "config": {
+        "id": "no_market:ridge:30",
+        "block": "no_market",
+        "family": "ridge",
+        "alpha": 30
+      },
+      "score": 0.24286430914304705,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.22121212121212125,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.052292917166866744,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.45508788905015324,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.1
+    },
+    {
+      "config": {
+        "id": "no_market:ridge:300",
+        "block": "no_market",
+        "family": "ridge",
+        "alpha": 300
+      },
+      "score": 0.24113700462519236,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.19119769119769123,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.06333733493397359,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.46887598774391226,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.1
+    },
+    {
+      "config": {
+        "id": "no_market:xgb:2",
+        "block": "no_market",
+        "family": "xgb",
+        "depth": 2
+      },
+      "score": 0.2638985815551536,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.16219336219336222,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.2807683073229292,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.3487340751491695,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.7
+    },
+    {
+      "config": {
+        "id": "no_market:xgb:3",
+        "block": "no_market",
+        "family": "xgb",
+        "depth": 3
+      },
+      "score": 0.28711751355480547,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.23217893217893223,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.24504201680672266,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.38413159167876154,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.9
+    },
+    {
+      "config": {
+        "id": "no_market:et:0",
+        "block": "no_market",
+        "family": "et"
+      },
+      "score": 0.25384265488752566,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.15259740259740265,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.26713085234093636,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.341799709724238,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 1.7
+    },
+    {
+      "config": {
+        "id": "no_market:cat:0",
+        "block": "no_market",
+        "family": "cat"
+      },
+      "score": 0.168902269268529,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.06197691197691199,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.11462184873949578,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.3301080470891792,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.8
+    },
+    {
+      "config": {
+        "id": "no_international:ridge:30",
+        "block": "no_international",
+        "family": "ridge",
+        "alpha": 30
+      },
+      "score": 0.228644119652523,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.18347763347763352,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.1221128451380552,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.3803418803418803,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.1
+    },
+    {
+      "config": {
+        "id": "no_international:ridge:300",
+        "block": "no_international",
+        "family": "ridge",
+        "alpha": 300
+      },
+      "score": 0.2401596469758829,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.1752525252525253,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.14948379351740695,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.3957426221577165,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.1
+    },
+    {
+      "config": {
+        "id": "no_international:xgb:2",
+        "block": "no_international",
+        "family": "xgb",
+        "depth": 2
+      },
+      "score": 0.2741656396912462,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.186940836940837,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.18530612244897962,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.4502499596839219,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.7
+    },
+    {
+      "config": {
+        "id": "no_international:xgb:3",
+        "block": "no_international",
+        "family": "xgb",
+        "depth": 3
+      },
+      "score": 0.283688499838809,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.21832611832611837,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.20393757503001197,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.4288018061602967,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 1.0
+    },
+    {
+      "config": {
+        "id": "no_international:et:0",
+        "block": "no_international",
+        "family": "et"
+      },
+      "score": 0.26841836879889835,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.1253968253968254,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.29459783913565424,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.38526044186421543,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 2.0
+    },
+    {
+      "config": {
+        "id": "no_international:cat:0",
+        "block": "no_international",
+        "family": "cat"
+      },
+      "score": 0.2344569512430619,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.16053391053391058,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.21651860744297718,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.32631833575229796,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.7
+    },
+    {
+      "config": {
+        "id": "context_base:ridge:30",
+        "block": "context_base",
+        "family": "ridge",
+        "alpha": 30
+      },
+      "score": 0.1647917256335728,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.17145754828486345,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.11866456976020355,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.2042530588556514,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.1
+    },
+    {
+      "config": {
+        "id": "context_base:ridge:300",
+        "block": "context_base",
+        "family": "ridge",
+        "alpha": 300
+      },
+      "score": 0.1566242226210103,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.1320959797021968,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.09516282055444895,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.24261386760638523,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.1
+    },
+    {
+      "config": {
+        "id": "context_base:xgb:2",
+        "block": "context_base",
+        "family": "xgb",
+        "depth": 2
+      },
+      "score": 0.24652904787939747,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.048413958479029184,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.3139315320850864,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.3772416530740768,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.7
+    },
+    {
+      "config": {
+        "id": "context_base:xgb:3",
+        "block": "context_base",
+        "family": "xgb",
+        "depth": 3
+      },
+      "score": 0.2607910099924039,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.1061494104562595,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.3213658633077687,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.3548577562131835,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.8
+    },
+    {
+      "config": {
+        "id": "context_base:et:0",
+        "block": "context_base",
+        "family": "et"
+      },
+      "score": 0.24843813656195157,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.029915490761668773,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.2783046720698944,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.43709424685429155,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 2.1
+    },
+    {
+      "config": {
+        "id": "context_base:cat:0",
+        "block": "context_base",
+        "family": "cat"
+      },
+      "score": 0.22222994213475503,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.13823269040355643,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.28487005548732813,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.24358708051338057,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.7
+    },
+    {
+      "config": {
+        "id": "core_context_base:ridge:30",
+        "block": "core_context_base",
+        "family": "ridge",
+        "alpha": 30
+      },
+      "score": 0.2199311909015413,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.1983405483405484,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.1640816326530612,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.29737139171101434,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.1
+    },
+    {
+      "config": {
+        "id": "core_context_base:ridge:300",
+        "block": "core_context_base",
+        "family": "ridge",
+        "alpha": 300
+      },
+      "score": 0.2186729419011011,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.20692640692640696,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.1006002400960384,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.34849217868085786,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.1
+    },
+    {
+      "config": {
+        "id": "core_context_base:xgb:2",
+        "block": "core_context_base",
+        "family": "xgb",
+        "depth": 2
+      },
+      "score": 0.2769535816848327,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.14660894660894663,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.26569027611044416,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.41856152233510724,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.8
+    },
+    {
+      "config": {
+        "id": "core_context_base:xgb:3",
+        "block": "core_context_base",
+        "family": "xgb",
+        "depth": 3
+      },
+      "score": 0.3141880662778078,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.23398268398268401,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.2771188475390156,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.4314626673117239,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 1.0
+    },
+    {
+      "config": {
+        "id": "core_context_base:et:0",
+        "block": "core_context_base",
+        "family": "et"
+      },
+      "score": 0.2955973795009787,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.14054834054834056,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.3299399759903961,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.4163038219641993,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 2.1
+    },
+    {
+      "config": {
+        "id": "core_context_base:cat:0",
+        "block": "core_context_base",
+        "family": "cat"
+      },
+      "score": 0.26623946360588185,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.18088023088023092,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.30506602641056424,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.3127721335268505,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 1.1
+    },
+    {
+      "config": {
+        "id": "core_team:ridge:30",
+        "block": "core_team",
+        "family": "ridge",
+        "alpha": 30
+      },
+      "score": 0.2736967578809976,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.2566378066378067,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.1361344537815126,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.4283180132236736,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.1
+    },
+    {
+      "config": {
+        "id": "core_team:ridge:300",
+        "block": "core_team",
+        "family": "ridge",
+        "alpha": 300
+      },
+      "score": 0.29055088567217946,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.2573593073593074,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.14122448979591837,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.47306885986131264,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.1
+    },
+    {
+      "config": {
+        "id": "core_team:xgb:2",
+        "block": "core_team",
+        "family": "xgb",
+        "depth": 2
+      },
+      "score": 0.35609136894851184,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.27987012987012994,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.30122448979591837,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.48717948717948717,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.8
+    },
+    {
+      "config": {
+        "id": "core_team:xgb:3",
+        "block": "core_team",
+        "family": "xgb",
+        "depth": 3
+      },
+      "score": 0.3497566806699517,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.29660894660894666,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.27846338535414167,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.47419771004676664,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.9
+    },
+    {
+      "config": {
+        "id": "core_team:et:0",
+        "block": "core_team",
+        "family": "et"
+      },
+      "score": 0.31420100027520353,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.20800865800865806,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.32216086434573826,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.4124334784712143,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 1.9
+    },
+    {
+      "config": {
+        "id": "core_team:cat:0",
+        "block": "core_team",
+        "family": "cat"
+      },
+      "score": 0.2553289039589975,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.1573593073593074,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.23659063625450177,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.3720367682631833,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 1.0
+    },
+    {
+      "config": {
+        "id": "core_growth:ridge:30",
+        "block": "core_growth",
+        "family": "ridge",
+        "alpha": 30
+      },
+      "score": 0.24618908148795574,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.1625541125541126,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.18156062424969985,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.3944525076600548,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.1
+    },
+    {
+      "config": {
+        "id": "core_growth:ridge:300",
+        "block": "core_growth",
+        "family": "ridge",
+        "alpha": 300
+      },
+      "score": 0.25914558108945296,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.20577200577200583,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.13133253301320527,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.44033220448314786,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.1
+    },
+    {
+      "config": {
+        "id": "core_growth:xgb:2",
+        "block": "core_growth",
+        "family": "xgb",
+        "depth": 2
+      },
+      "score": 0.29701175129270896,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.18939393939393942,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.24993997599039616,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.4517013384937913,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.8
+    },
+    {
+      "config": {
+        "id": "core_growth:xgb:3",
+        "block": "core_growth",
+        "family": "xgb",
+        "depth": 3
+      },
+      "score": 0.32436146568697705,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.2405483405483406,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.26761104441776706,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.46492501209482334,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.9
+    },
+    {
+      "config": {
+        "id": "core_growth:et:0",
+        "block": "core_growth",
+        "family": "et"
+      },
+      "score": 0.3043751890810715,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.15122655122655124,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.3089075630252101,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.452991452991453,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 1.9
+    },
+    {
+      "config": {
+        "id": "core_growth:cat:0",
+        "block": "core_growth",
+        "family": "cat"
+      },
+      "score": 0.22603394438656843,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.12229437229437232,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.1707082833133253,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.38509917755200773,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.9
+    },
+    {
+      "config": {
+        "id": "core_skill:ridge:30",
+        "block": "core_skill",
+        "family": "ridge",
+        "alpha": 30
+      },
+      "score": 0.2762780613850853,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.28102453102453107,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.15553421368547415,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.3922754394452507,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.1
+    },
+    {
+      "config": {
+        "id": "core_skill:ridge:300",
+        "block": "core_skill",
+        "family": "ridge",
+        "alpha": 300
+      },
+      "score": 0.26587445498496715,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.23549783549783557,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.12816326530612243,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.43396226415094336,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.1
+    },
+    {
+      "config": {
+        "id": "core_skill:xgb:2",
+        "block": "core_skill",
+        "family": "xgb",
+        "depth": 2
+      },
+      "score": 0.3096551717401567,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.25360750360750367,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.23236494597839136,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.442993065634575,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.8
+    },
+    {
+      "config": {
+        "id": "core_skill:xgb:3",
+        "block": "core_skill",
+        "family": "xgb",
+        "depth": 3
+      },
+      "score": 0.3281610481784891,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.2850649350649351,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.23457382953181274,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.4648443799387196,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.9
+    },
+    {
+      "config": {
+        "id": "core_skill:et:0",
+        "block": "core_skill",
+        "family": "et"
+      },
+      "score": 0.30416477291536753,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.17943722943722948,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.28845138055222086,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.4446057087566522,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 1.9
+    },
+    {
+      "config": {
+        "id": "core_skill:cat:0",
+        "block": "core_skill",
+        "family": "cat"
+      },
+      "score": 0.21638593875632087,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.13499278499278503,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.15188475390156062,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.362280277374617,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.9
+    },
+    {
+      "config": {
+        "id": "core_all:ridge:30",
+        "block": "core_all",
+        "family": "ridge",
+        "alpha": 30
+      },
+      "score": 0.17986030664483177,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.03571428571428572,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.24350540216086433,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.26036123205934525,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.2
+    },
+    {
+      "config": {
+        "id": "core_all:ridge:300",
+        "block": "core_all",
+        "family": "ridge",
+        "alpha": 300
+      },
+      "score": 0.2515668475538462,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.23932178932178938,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.18357743097238896,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.3318013223673601,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.2
+    },
+    {
+      "config": {
+        "id": "core_all:xgb:2",
+        "block": "core_all",
+        "family": "xgb",
+        "depth": 2
+      },
+      "score": 0.3394080206447418,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.2942279942279943,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.28172869147659063,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.44226737622964035,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.9
+    },
+    {
+      "config": {
+        "id": "core_all:xgb:3",
+        "block": "core_all",
+        "family": "xgb",
+        "depth": 3
+      },
+      "score": 0.34664751100774566,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.3131313131313132,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.3063145258103241,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.42049669408159973,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 1.1
+    },
+    {
+      "config": {
+        "id": "core_all:et:0",
+        "block": "core_all",
+        "family": "et"
+      },
+      "score": 0.32287072791908683,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.17979797979797985,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.3540456182472989,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.4347685857119819,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 2.4
+    },
+    {
+      "config": {
+        "id": "core_all:cat:0",
+        "block": "core_all",
+        "family": "cat"
+      },
+      "score": 0.24932812221221923,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.12914862914862918,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.28816326530612246,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.3306724721819061,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 1.4
+    },
+    {
+      "config": {
+        "id": "context_all:ridge:30",
+        "block": "context_all",
+        "family": "ridge",
+        "alpha": 30
+      },
+      "score": 0.12526565272342707,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": -0.030839247311557152,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.2676695124704591,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.1389666930113793,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.1
+    },
+    {
+      "config": {
+        "id": "context_all:ridge:300",
+        "block": "context_all",
+        "family": "ridge",
+        "alpha": 300
+      },
+      "score": 0.19738193371022636,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.16777417214226528,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.176648393620303,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.24772323536811086,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.1
+    },
+    {
+      "config": {
+        "id": "context_all:xgb:2",
+        "block": "context_all",
+        "family": "xgb",
+        "depth": 2
+      },
+      "score": 0.28877761614653097,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.07616166005506979,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.38421975455408314,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.40595143383043997,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.8
+    },
+    {
+      "config": {
+        "id": "context_all:xgb:3",
+        "block": "context_all",
+        "family": "xgb",
+        "depth": 3
+      },
+      "score": 0.2918855784276773,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.08259276797243335,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.4038193550502457,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.38924461226035295,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.9
+    },
+    {
+      "config": {
+        "id": "context_all:et:0",
+        "block": "context_all",
+        "family": "et"
+      },
+      "score": 0.27102895638265384,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.08367666256524744,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.2908561403679295,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.4385540662147846,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 1.9
+    },
+    {
+      "config": {
+        "id": "context_all:cat:0",
+        "block": "context_all",
+        "family": "cat"
+      },
+      "score": 0.2548740604645427,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.0660453105221383,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.34955839210027845,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.34901847877121134,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 0.9
+    },
+    {
+      "config": {
+        "id": "core:tabicl:8",
+        "block": "core",
+        "family": "tabicl"
+      },
+      "score": 0.31155547961953545,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.2887445887445888,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.21373349339735895,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.43218835671665856,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 5.6
+    },
+    {
+      "config": {
+        "id": "core_all:tabicl:8",
+        "block": "core_all",
+        "family": "tabicl"
+      },
+      "score": 0.38147025428458753,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.3317460317460318,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.3670108043217286,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.44565392678600224,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 9.1
+    },
+    {
+      "config": {
+        "id": "context_all:tabicl:8",
+        "block": "context_all",
+        "family": "tabicl"
+      },
+      "score": 0.2801228652904375,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 539,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.17826453069815668,
+          "draft": 0.35115440115440116
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 593,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.29394573256436896,
+          "draft": 0.48753901560624247
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 648,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.36815833260878683,
+          "draft": 0.22117400419287211
+        }
+      ],
+      "seconds": 6.3
+    }
+  ],
+  "best": {
+    "config": {
+      "id": "core_all:tabicl:8",
+      "block": "core_all",
+      "family": "tabicl"
+    },
+    "score": 0.38147025428458753,
+    "rows": [
+      {
+        "season": 2012,
+        "k": 5,
+        "n": 55,
+        "ntrain": 539,
+        "cutoff": 2011,
+        "max_label_season": 2011,
+        "stack": 0.3317460317460318,
+        "draft": 0.35115440115440116
+      },
+      {
+        "season": 2013,
+        "k": 5,
+        "n": 50,
+        "ntrain": 593,
+        "cutoff": 2012,
+        "max_label_season": 2012,
+        "stack": 0.3670108043217286,
+        "draft": 0.48753901560624247
+      },
+      {
+        "season": 2014,
+        "k": 4,
+        "n": 53,
+        "ntrain": 648,
+        "cutoff": 2013,
+        "max_label_season": 2013,
+        "stack": 0.44565392678600224,
+        "draft": 0.22117400419287211
+      }
+    ],
+    "seconds": 9.1
+  },
+  "confirmation": {
+    "score": 0.22494501980801931,
+    "rows": [
+      {
+        "season": 2015,
+        "k": 3,
+        "n": 44,
+        "ntrain": 698,
+        "cutoff": 2014,
+        "max_label_season": 2014,
+        "stack": 0.21226215644820295,
+        "draft": 0.13079633544749822
+      },
+      {
+        "season": 2016,
+        "k": 2,
+        "n": 55,
+        "ntrain": 751,
+        "cutoff": 2015,
+        "max_label_season": 2015,
+        "stack": 0.17720057720057725,
+        "draft": 0.2042568542568543
+      },
+      {
+        "season": 2017,
+        "k": 1,
+        "n": 56,
+        "ntrain": 795,
+        "cutoff": 2016,
+        "max_label_season": 2016,
+        "stack": 0.28537232577527777,
+        "draft": 0.036826651779107565
+      }
+    ],
+    "role": "One-time confirmation; cannot be used to select or retry candidates"
+  },
+  "test_result": null,
+  "message": "Selection frozen. No blind test score claimed. Review provenance limits before a single locked test evaluation.",
+  "started": 1788681799.7049732,
+  "updated": 1788681878.4983895,
+  "current": "context_all:tabicl:8",
+  "selection": {
+    "kind": "single",
+    "members": [
+      {
+        "id": "core_all:tabicl:8",
+        "block": "core_all",
+        "family": "tabicl"
+      }
+    ],
+    "development_score": 0.38147025428458753,
+    "selection": "2012-2014 only; confirmation not yet accessed",
+    "frozen_at": 1788681870.0448046
+  }
+}

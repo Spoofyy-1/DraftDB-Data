@@ -92,3 +92,11 @@ Source for calendar matching: [FiveThirtyEight historical RAPTOR data](https://g
 Use Python 3.12 with NumPy, pandas, SciPy, scikit-learn, XGBoost, CatBoost, and TabICL. The supplied `data/` files are sufficient for `python research.py`; it refuses to overwrite an existing registered run. A local TabICL checkpoint is needed for offline runs. `run_sandbox.sh` documents the deployed server isolation; adapt its installation paths for another machine.
 
 To rebuild the calendar sidecar, download the RAPTOR CSV at the source URL in `calendar_audit.json`, verify its SHA-256, then run `python build_calendar.py --source RAPTOR.csv --identity ../../identity/tabular_names.csv --train train_source.csv --output .` (use the actual identity filename). Run `python build_context.py`, then `python prepare_data.py`. Source snapshots contain later outcomes for old training cohorts; only the filtered `data/` directory is exposed to the worker. `actual_pick` remains metadata for the benchmark and is expressly excluded from fitting.
+
+## First completed run
+
+All 63 configurations completed without runtime errors. The selected configuration was `core_all:tabicl:8`: development correlation **38.15%**, and one-time confirmation **22.49%**. These are pre-2019 diagnostic results, not final test accuracy. The run does not justify replacing the incumbent. No 2019–2026 test evaluation was performed.
+
+Paired development comparisons show that teammate-context features improved all six conventional baseline variants (+0.49 to +6.15 points). Growth features were small/mixed (−0.50 to +2.00); skill combinations were mixed (−0.69 to +3.23). Removing consensus hurt all six variants (−0.11 to −5.55). Removing international production hurt five of six (−1.03 to −4.09), with one +1.11 CatBoost result. Adding all context helped TabICL by +6.99, but hurt weakly regularized ridge by −6.41. These findings concern this experiment's development folds only and require further validation.
+
+The next already-planned task is a corrected incumbent reproduction, to distinguish protocol/sample changes from new feature effects. Confirmation results will not be used to retune this registered run.
