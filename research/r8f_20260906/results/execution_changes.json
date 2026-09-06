@@ -1,0 +1,8 @@
+[
+  {
+    "time": 1788689635.1156142,
+    "change": "Increase workers from4 to6",
+    "reason": "Hybrid backend leaves CPU/GPU capacity; identical model/data/seed tasks, completed results retained",
+    "model_parameters_changed": false
+  }
+]

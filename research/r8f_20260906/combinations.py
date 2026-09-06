@@ -39,10 +39,10 @@ def main():
     done={r['task_id'] for r in rows};tasks=[t for t in tasks if f'combo{t[0]:02d}_seed{t[2]}' not in done]
     state.update(status='running',phase='R8f · complementary feature combinations',total=len(plan['variants'])*len(seeds)+len(combos)*len(seeds),message=f'{len(winners)} statistics passed the preregistered development gate; testing {len(combos)} combinations.')
     write(state)
-    with cf.ProcessPoolExecutor(max_workers=4,mp_context=mp.get_context('spawn')) as pool:
+    with cf.ProcessPoolExecutor(max_workers=int(os.environ.get("R8_WORKERS","4")),mp_context=mp.get_context('spawn')) as pool:
         pending={}
         while tasks or pending:
-            while tasks and len(pending)<4:
+            while tasks and len(pending)<int(os.environ.get("R8_WORKERS","4")):
                 i,combo,seed=tasks.pop(0);vid=f'combo{i:02d}'
                 v=dict(id=vid,noscout=1,drafted_only=False,context=None,extras=list(combo),drop=['scout_'],hw='uniform')
                 pending[pool.submit(run_variant,vid,seed,v)]=(vid,seed)

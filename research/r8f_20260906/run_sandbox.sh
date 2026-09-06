@@ -13,7 +13,7 @@ args=(--unshare-net --unshare-pid --unshare-ipc --unshare-uts --die-with-parent
       --bind "$root/results" /workspace/results
       --ro-bind /home/ubuntu/.cache/huggingface/hub/models--jingang--TabICL /models/hub/models--jingang--TabICL
       --setenv HF_HOME /models --setenv HF_HUB_OFFLINE 1 --setenv XDG_CACHE_HOME /tmp/cache
-      --setenv R8_SANDBOX 1 --setenv OMP_NUM_THREADS 3 --setenv OPENBLAS_NUM_THREADS 3
+      --setenv R8_WORKERS "${R8_WORKERS:-4}" --setenv R8_SANDBOX 1 --setenv OMP_NUM_THREADS 3 --setenv OPENBLAS_NUM_THREADS 3
       --chdir /workspace)
 for dev in /dev/nvidia0 /dev/nvidiactl /dev/nvidia-uvm /dev/nvidia-uvm-tools; do
   if [[ -e "$dev" ]]; then args+=(--dev-bind "$dev" "$dev"); fi
