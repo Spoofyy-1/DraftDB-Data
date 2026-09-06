@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:14:37.089589+00:00",
+  "lane": "news",
+  "pid": "P48e5247a2d",
+  "draft_year": 2021,
+  "name": "Jeff Dowtin",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Jeff Dowtin\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Jeff+Dowtin%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Maryland native Abdou Samb commits to URI - The Providence Journal",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLXR0dkZSMHBTcmh4SjBxNnRreFpMWENFbEpBdXV2eEoxMWVEZEpKVmtiVUt5X0ttS19HakxHTEZvLWRKZkVqZXc4d2prWHFRLXlTQ1Q5R0xMZ3pFTEtkR0EtTThfc0VOOWR2dW9wTW5uNXRvOTdXTEY0UXNIaXVzNDQ0eHBwcFloZFBid3pkZ0drTkZNNWFRZGJZd2JoOTBRZ1JzX3pkR0Q0TU9wQ1E4TEFmYUMyY1NNaWc?oc=5",
+      "published_date": "2020-09-11",
+      "source": "The Providence Journal",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "9f0f10fc1ce1d4a85aad376292e19737ded532ed0c305e7841ff8b932fad1902",
+  "feature_eligible": false
+}

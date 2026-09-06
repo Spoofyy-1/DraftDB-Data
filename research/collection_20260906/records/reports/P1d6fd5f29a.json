@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:14:36.521899+00:00",
+  "lane": "reports",
+  "pid": "P1d6fd5f29a",
+  "draft_year": 2019,
+  "name": "Amir Coffey",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Amir Coffey\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Amir+Coffey%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "As Amir Coffey goes, so go the Gophers - twincities.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVVdkS1VWSDRMTlZKSmxJMndVYzlXVmtmTHZrNF96dDIyWHdpSnE1QXVTNVZwaFlmWnB3SDZBUzkzLU90bzY4bEs1dzdGTW1qSjJXWjJsM0NNeW5fWEhpUUh1S2hYWWcxX21sTzFKUkJrd2l6LXFsMnI1aGNzdFFiWVJB?oc=5",
+      "published_date": "2019-03-07",
+      "source": "twincities.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "6c2e9533bf161b8d18a2d9da0ae4af97888bbef5c67c23f4e51e346d6efe37a4",
+  "feature_eligible": false
+}

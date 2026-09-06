@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:14:10.208905+00:00",
+  "lane": "reports",
+  "pid": "P027da49c30",
+  "draft_year": 2019,
+  "name": "Deividas Sirvydis",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Deividas Sirvydis\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Deividas+Sirvydis%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft 2019 scouting report: The best international players - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR1NCNWduMXF3QnlwdnZtdTBUVXBLdmpKUTlNd3dqTEQxbDcydnBWZHNJYlhoLUNjN0hQd2pEMWtqNDVoR0hMN1ZFR1Q1cXlienpVN1Y5Q2NyRndMelZRN0xkak5sRG1kb0k5R2g4blhMREpkNnV5a1FFQ3FwMzhfejM5V2tQTlVPbUZfOE5qSU9OVFYzNmQw?oc=5",
+      "published_date": "2019-06-18",
+      "source": "New York Post",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "6cebad19680e82ad0aec89fa8f07aa6b15994205d98b6376588eff8553265a25",
+  "feature_eligible": false
+}

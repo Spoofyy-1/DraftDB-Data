@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:19:54.626265+00:00",
+  "lane": "reports",
+  "pid": "Pbafaf944fd",
+  "draft_year": 2019,
+  "name": "Dedric Lawson",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Dedric Lawson\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Dedric+Lawson%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "KU\u2019s Dedric Lawson eager to utilize skills gained at Kansas to carve out NBA career - KU Sports",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVHRFUkFjcTN4WWVnYnV3cHpCdUJJb2p4aUc2blRaSlIyY3FmVnktRm5hY2RDOFNsVUM3YjRMbHhKLUZudzRYRWpmeHNwUlk2WEpZV2YwV0twS2xnWnRUR0MwUXlUX1ZqejV6ZWlWdDNuTE4tYWc3NThOblF3bnROS0FGa2RyWm43cW1oc1VrRF9aZ1FBMkp5VWRR?oc=5",
+      "published_date": "2019-04-08",
+      "source": "KU Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2019 NBA Mock Draft: Duke's Zion Williamson powering his way to earning the No. 1 selection - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLWp1WURUZjdXRmVSdi00cWRwWXY3X002NmVoQ1d6MkhoaWY1TUtGek10dVdBQklLajgyNE9qTlJINlQzQ0p0LUpZZHRNUmp6bnhrS1FaUkpiUXFwbGR3WVR4Q0VKdjhjUmxjaUVYcndyUzBEQUFtRDlqT193ZTBJWnBOMC1fd25FSlcxRmYxUkZxSi1va1hGZlBvTnBsSWRwcU9BVHJtYVlaN0pOLTdBcGRQQzBpNnVWbU5qSTY0dWZldw?oc=5",
+      "published_date": "2018-11-15",
+      "source": "CBS Sports",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2019 NBA Mock Draft: Entire Draft (1.0) - FantasyPros",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EWlJZZkxWdVpyNDRzRk1fSkhPZ0kwaDNtVjRxUlhFODBLQVJDUDg4THM1RzVtaFg4MERjcDJybGpjTTFNZTVERWVNUFdCM0o3YmJ2TUQ2ei1qbnFvd2I0Y1lpelhnTGk4MlZaeXpqazhoQnpQVm5CeDVxcXp4d9IBgwFBVV95cUxOLVFiY0RiNjYtZGNWSjFETUZFZnBXOC11UDNjc01vcEVkX1pfaks4LUtrOUQteE1yTXJxWjNhQ25ybHZ5UXlISTBiWDMtOGliUWxoTVNISTBLU3Z5MmpyUVNZSklOejI4bjd0RmFWVHVScGdlTmJ6ZEFKdzY3dWU3TldVMA?oc=5",
+      "published_date": "2019-04-09",
+      "source": "FantasyPros",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "e0941b826b899bbb3b765cd90bc9317bb19e2ed8ab2a9ebe4f047f3aa9b3cb3e",
+  "feature_eligible": false
+}

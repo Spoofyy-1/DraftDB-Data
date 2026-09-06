@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T11:14:59.333716+00:00",
+  "lane": "reports",
+  "pid": "P2318b539a3",
+  "draft_year": 2019,
+  "name": "Vic Law",
+  "draft_date": "2019-06-20",
+  "status": "empty",
+  "query": "\"Vic Law\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Vic+Law%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "7fe1f390b5cf52a44b16890ced2696df8160060db45950c0670018b618525108",
+  "feature_eligible": false
+}

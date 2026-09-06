@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:11:33.086915+00:00",
+  "lane": "reports",
+  "pid": "Pa129b1725d",
+  "draft_year": 2018,
+  "name": "Alize Johnson",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Alize Johnson\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Alize+Johnson%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Growing up as the man of the house, Alize Johnson has worked for everything he's earned - Springfield News-Leader",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNajZjdm9IblR6X25xYm5jWGZfb2pmdi00OTU1bGI2OXN3QW11dlFZbWRDbGozQkVNMi1oX0hiMl9BNmN3NTFoS2FSS0NJdmc3QTZXM083SEtUcmxYR3NCTHFtTVlBMlpSZUlVdEdxZllERDdnSVRSWDN5TFNuX1NfOWJvTC01cEd5MzZjMzQ4WnlDdWxHSDdRVUxWRUJEX1M1Z19WZk01R29uRUlWS25UMkswSFloT3MxWHdVN24zWVFsaFJmTlVISVJxNUtESHZwUGhWRTRvRGV5Zw?oc=5",
+      "published_date": "2017-11-01",
+      "source": "Springfield News-Leader",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2018 NBA Mock Draft Ahead of 2017-18 CBB Season Tipoff - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaC05eDRKcjB3ZThjMF8zWmtMaTM2ZU1UUU5WTEExMmMtVGtpYXdtZXN1TVlTemlVb1VKOVhUNmdHcjNYeDhGd3hHZnk5LUYzd2h3d3pRbDY2aFFhOGpPQm9VRS1nWGFIYWkxOTdKdnMxcVVrMXJxbEhDeHpwaUJwR0xveUFIQ1JfakFIUE1DTXZLVFpDRHNmR1JBZVFJSWc?oc=5",
+      "published_date": "2017-11-06",
+      "source": "Bleacher Report",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2018 NBA pre-draft workouts: Who's going where - HoopsHype",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU2ZOdUFOY1F0LWw2VDBqaFgtUmNYa0JsRW44S1RVZkRrMG5HN0VILUJ4N0FQU01XcDFsbU14SktDVXNfSk8wdHRrOEFobnVfYWRTN1lhZnJIYUVvVzFPMlR2Q0d1OEc4b3pzQmM4a01TLW52NEtSSkY2QzRRS2RhV25UREhVOC1GMXRJU3huSTFUMW9jYkZycmhlQVI5MEh1MHJDUVREUkY3RUo5eUdYOEhBWG5yRG5j?oc=5",
+      "published_date": "2018-05-19",
+      "source": "HoopsHype",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "d5d61ec01b493ff4edc4b4e8e787cca74f4c7c6727dd26b747876e94f4592e6f",
+  "feature_eligible": false
+}

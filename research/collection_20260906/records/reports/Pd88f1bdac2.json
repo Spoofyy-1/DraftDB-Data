@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:20:40.516079+00:00",
+  "lane": "reports",
+  "pid": "Pd88f1bdac2",
+  "draft_year": 2019,
+  "name": "Miye Oni",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Miye Oni\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Miye+Oni%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2019 NBA Draft scouting report: Miye Oni - Peachtree Hoops",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd3hJa3JfX1lua1g2aWs2WTZmZmltNEtXU1NWZkFXT0d0UGx6ZzFPTFBiWl9HaExlVUxVLUlNcmlJeHVSczd6NjhzVm1kUVp5bkFFT09qWlM4Ym9Cc0Nzd09CRTBMSEZoUVZ1Z0hOSTV6cGNxdDRQZHVWTkNHS0xZdENOS1RFMG9rVG00anFuSFBsSWZsTHNGeUVmNWVfVmE5R1RQa3FLODBPZnJYLW9zeDVnUzFYRGM?oc=5",
+      "published_date": "2019-05-15",
+      "source": "Peachtree Hoops",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Miye Oni will test the NBA draft waters, could still return to Yale - New Haven Register",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSmVoclZIVjhGT3NNak90d1J6NXBFa1hMV3phcmZmYkI5eWlJZ3AzdnZCbzNOYkQxNG1ibTVxSjRjeWU0S21ldWJjSzB1R2cxbnhrV1J2Z1NlT2RPRUZ0V2JCZUxtd1hoUkk5azlzbUtVX0JMVzRJOEFLU0plUkhIcjI2NDhsT3MxV3ZkU2x2aEZ6enJsdTBPa2hBckp4ZnQ4Y3o5OA?oc=5",
+      "published_date": "2019-03-29",
+      "source": "New Haven Register",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "67fc80197092e204d52f26fdc9b173d6346ade248dd834a13992ad5971bb75f8",
+  "feature_eligible": false
+}

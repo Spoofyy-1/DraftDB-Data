@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:12:25.970328+00:00",
+  "lane": "news",
+  "pid": "P281db24dd9",
+  "draft_year": 2021,
+  "name": "Jaizec Lottie",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Jaizec Lottie\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Jaizec+Lottie%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Ryan Hawkins leads the 2021 DII men's basketball all-tournament, all-stats team - NCAA.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVmQyckk2NkZPeVlPVlZVYWo0V1FSMENYTGFXb244aFVZLTlkMTlpVTBrMGtkQnJsUXg3azJyUVV1Q2NqTlNUbzBxOW9nLUFPbFFYbW9hVllrNEJpb0w0dFk0SEVZZUprZDFlQzRrb2tmQklWLTJmVmJXMVMxOTZENU4tTnV3WXVPRUU2M2tRV0FmVDRMYlNONnNIa0I4Y1hLZENPckVsZmI5bG9xdHZRRTFqcmpPckltNWl1TDdPbkVNY0NfNjVRZ0c4aW1xd9IB0wFBVV95cUxQb3BlMFJNNnhfN2RXS2tlQVFyTHhSSEMzd0s5aHBQSHU2Y0V6ZlhyczJXYjlZV1FkX3hrdzI4OUhoc3dQM0JIUU4yU1RmSy0yMkJySjB2MjRVU0lhbkxkc21hXzhkYkJfUmNpNTNDRUxLNjZ0Y2Y5Q0E2b2JlM1ptekdodWlvLXJPWDk3ZTY5NzhFMmlRVFpIWjRrb0dxV0RYM1hMQ2VvWjdMMUlqLVJLdGlkUFVpV19rUEwxT3JOME15ZXRiWXA2a1FIeVBwalBrS0Yw?oc=5",
+      "published_date": "2021-03-29",
+      "source": "NCAA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Flagler College men's basketball making historic Elite Eight appearance against Truman State - St. Augustine Record",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQclE3WEdpS2FFU0QxNzRYSXpUN1NKRGtKUXVrT2Rkc2NoRWl1QnJvdEZabExSUC1yYTAzaXFxMkRlOEtab3VfTjNHZllYbzhNOGxobnZqNmV6YnZzbGI4MEpQN1plTmdZb0tTbjJ4UURfc0p0LThuSVIyeW00dGFXYlhyR21LVG9iMENEel83WkM0VVE2OGdzYWZpNmpqZUJNX0ItUmpMMnRlUmRhVk1nbjhxSlNlZWJnSWVHVkVYeE5kUHJIYmk3YnNTVEczSHhQVDhTUXhvejFxTTQwV0E?oc=5",
+      "published_date": "2021-03-23",
+      "source": "St. Augustine Record",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Flagler College men's basketball to play in the Division II Elite Eight. Meet the opponents - St. Augustine Record",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOakJFUmNOM3N5blQtRmdIekNKS1dXR0s4Y1h4Z1Q5MFMtajdvU0UyVTB2ZjZBV3dPT1NrWWpfMXFURjhOcHI1NVhmTjZicllXN3VqaUpwelFXUkRLc1hZckRTaFRhd3dCYTFnVHpFdWVpMFozT1dsV1dVZVZ1cjZlSWRkdFdLSl9zc2FjbVY1SkhYVlFNUnFGOUNGZkRkZ3VxZm5nZFVwSk16UzU1UDItaUlmSURoN3VvVkRIdG56R2RaVTItM1hfVjlFTXRmTWpJNVJ6dEJmMEtpZw?oc=5",
+      "published_date": "2021-03-22",
+      "source": "St. Augustine Record",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "a852055bfe59e1fe14e58487f6731db2945b89b103229cf283c1a9ed8a57b13b",
+  "feature_eligible": false
+}

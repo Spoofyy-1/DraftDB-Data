@@ -1,0 +1,73 @@
+{
+  "selected": {
+    "score": 0.3409375857379981,
+    "rows": [
+      {
+        "season": 2015,
+        "k": 3,
+        "n": 44,
+        "ntrain": 483,
+        "cutoff": 2014,
+        "stack": 0.23269908386187454,
+        "draft": 0.13079633544749822
+      },
+      {
+        "season": 2016,
+        "k": 2,
+        "n": 55,
+        "ntrain": 566,
+        "cutoff": 2015,
+        "stack": 0.3158426379056,
+        "draft": 0.2042568542568543
+      },
+      {
+        "season": 2017,
+        "k": 1,
+        "n": 56,
+        "ntrain": 632,
+        "cutoff": 2016,
+        "stack": 0.47427103544651955,
+        "draft": 0.036826651779107565
+      }
+    ]
+  },
+  "reference": {
+    "score": 0.3404448085659098,
+    "rows": [
+      {
+        "season": 2015,
+        "k": 3,
+        "n": 44,
+        "ntrain": 483,
+        "cutoff": 2014,
+        "stack": 0.24702234186374744,
+        "draft": 0.13079633544749822
+      },
+      {
+        "season": 2016,
+        "k": 2,
+        "n": 55,
+        "ntrain": 566,
+        "cutoff": 2015,
+        "stack": 0.30968486796071437,
+        "draft": 0.2042568542568543
+      },
+      {
+        "season": 2017,
+        "k": 1,
+        "n": 56,
+        "ntrain": 632,
+        "cutoff": 2016,
+        "stack": 0.46462721587326755,
+        "draft": 0.036826651779107565
+      }
+    ]
+  },
+  "protocol": "R8l retrospective cohort confirmation",
+  "freeze": {
+    "time": 1788692882.3745706,
+    "prediction_sha256": "7923e08617f0d566b89b4280e23e8d8b5a332d453376b36ecd51d1c85dbaea7c",
+    "policy_sha256": "558ef52fb55450f671c65136b759c49e924c5180fd79b5793091d5c21ac89807"
+  },
+  "interpretation": "Retrospective cohort-disjoint confirmation; selection used development outcomes through2018. Not an as-of2015 deployment or goal test."
+}

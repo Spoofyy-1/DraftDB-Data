@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:12:06.167062+00:00",
+  "lane": "reports",
+  "pid": "Pb779a9fa56",
+  "draft_year": 2018,
+  "name": "Deng Adel",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Deng Adel\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Deng+Adel%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "New Louisville coach wasn't a factor in Ray Spalding's NBA decision - courier-journal.com",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQzQ0RWIwdEc5QjlCaVZJYmdZNU8tX2V3a1BLd0ZyLUxyaXVzZk10LXh4eVZVRHlvVUFacUR2b3FfaWM5Y3NJd0wtNHlwV2hQUXlCR0tuRVRuVFpPbTBjS2o2VW1WT0xIbm9TRXg0Q2p4VXQ0VGI1WE53MlhTY0JSdENUU0lXaWV6bmFBd25rUFBnTFgxR0I2X0xHTTRnU0hzYnJYbTVIanUtUjZlQmNEUVYtRllTZnR4aVJEMkNublhWaXdyRE8xRnRBODgtWGJ2TlBHMDdIbUp0X2lZUDdzVExZbE9RMURrSGJtTTRR?oc=5",
+      "published_date": "2018-05-18",
+      "source": "courier-journal.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "bf07f9a0c15bf0538e3d1528fbdbb1b9df514afbb31ff242c612864926e3733d",
+  "feature_eligible": false
+}

@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:16:59.025761+00:00",
+  "lane": "news",
+  "pid": "P727c27e864",
+  "draft_year": 2021,
+  "name": "Sidney Wilson",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Sidney Wilson\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Sidney+Wilson%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Sidney Wilson Picks up Newcomer of the Week Honors - siuecougars.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aZ2stYXlTSFQzR3Y2Z3dxYm0tdndBazlqRUl3LXUydmYyczhJdFV0U1pDa0dmTmh5WnR3d1FqVnZJM1RHVmFod3pXV0hQSGZ5RmZqSlNoS1E4OWRMTTA3aHBwSTRTaVZubFE?oc=5",
+      "published_date": "2020-12-21",
+      "source": "siuecougars.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jahvon Quinerly: 3 things to Know about Alabama basketball\u2019s new point guard - The Tuscaloosa News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUmNNMDY1UkFmY3c0LUltUVdXTnpUTk42cFJqN21PWmF3c2JKMThHcnVZRDVZT29ON3dUM1o2S3N2YU5jRk1VYjlRNmV6U0hCN1pXWjA1YXpyZDhZakxuVjI0MUc5LTBEMk9qS2h5Mjg3bElIdGwtel9UOHRNZ1Zud3JrN0VaU1VCZ3BmTDZXZzZOREVPZHF2Wjh0VjFXZWpYS19XdTJSdDdKQ1FBaVJyNUE5Yw?oc=5",
+      "published_date": "2020-11-30",
+      "source": "The Tuscaloosa News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Who's In and Who's Out of the NBA Draft? - NBA Big Board | Rafael Barlowe",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1idUk5bDQyb1Q2MTVnUzRCeHM4WFo0VHB2aHhXZkhjX0hVYzhzeVhuUUdQTDRTOW0tanVMMWtyc3M3N3pLOTZXVHFMMjlyMUxvZHozWHlpR1ZZWXAzeXpaNWU1NkRYcldkRVFqQkF1amhwbW55UlZpc2hmOA?oc=5",
+      "published_date": "2021-07-20",
+      "source": "NBA Big Board | Rafael Barlowe",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA announces early entry candidates for 2021 NBA Draft - sportingnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGtCd05CUnBOaVg4bC1sa2Qwc0lsX2VrZjVPbDJ3RFdQZWJJcl9aZThWcFhZZUwxdm5mTmpfZloxTENnTHlOWkIwMUxBZmlEUGVzY3dHRjZoelJNZ1YxWGx6WlkyNkhvMDNobXpNZV9RT0hNWWxmdm55SS1pTnJ2Q25TaGFjWFdFWUViZHBuNnJnX1dtalNPdFh2V3V3eFp2TjE0VDZNM3lZNDk4ZGpMclpReHd5VzNyME8ybnFyNlc?oc=5",
+      "published_date": "2021-06-02",
+      "source": "sportingnews.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "532dd5a4f42efc48334ed1ec0fabee2089f8518c8dbe6e6599e83dc0cc4b6248",
+  "feature_eligible": false
+}

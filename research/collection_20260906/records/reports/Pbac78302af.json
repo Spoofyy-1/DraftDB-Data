@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:19:51.353379+00:00",
+  "lane": "reports",
+  "pid": "Pbac78302af",
+  "draft_year": 2019,
+  "name": "Justin Simon",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Justin Simon\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Justin+Simon%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Locked down: Justin Simon named Big East Defensive Player of the Year - Rumble In The Garden",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd1pNVWNENmRkU2hMejN3UnNwclZqc2ExQl9YNjZ4YlBKS0t2MFotVVJKY3NWWFVEYVpNUERnQkNHVmxDY3lDVXFEZDRkTE9QU2U5bXV0M0QyQlFKTllLVS1KU0ZLeWJyRnZJUnRTbjlOZG5waHJRMEdyTjJ1TzkxTXhObTJmc2pmZm1ON2ZlR2o5SzBoTHhfUjRYZllickFvRl9ST1ZtWHlnU0M5?oc=5",
+      "published_date": "2019-03-11",
+      "source": "Rumble In The Garden",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "330f704a1859318c3b3e2351742c10b17ee7b0c5b6c62331388e1b48b92fb60a",
+  "feature_eligible": false
+}

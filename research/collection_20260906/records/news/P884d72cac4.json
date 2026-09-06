@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:17:50.600798+00:00",
+  "lane": "news",
+  "pid": "P884d72cac4",
+  "draft_year": 2021,
+  "name": "Jaime Echenique",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Jaime Echenique\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Jaime+Echenique%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Dexter Dennis pulls name out of NBA Draft, will return to WSU for junior season - thesunflower.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ2JGaHN2LWQ2R2NVcnplcEdudW9lam82WTg3a09DWTU0NVhMOTItRkg0bUZVeE9mQktvZjAwV20yUTcwUVRtRmxRZnd2cVU2VnhsZU94Z2tlanFldUhlUmY0anM1TEdGWnkyejVmSkVzNDRINUxzX2ZuRHdLenl1emM1SXR0NGtCdTE4WWR2dkZmZlVTLXNZUHhySjBLZ3gtWXFBcnBwVi1zOElUUldvMHNsOGhkUGNM?oc=5",
+      "published_date": "2020-07-28",
+      "source": "thesunflower.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "9b78470caf4182f4deabf85decc0cd5203dd3c8fe0bfc54a073bbcb3e831ff38",
+  "feature_eligible": false
+}

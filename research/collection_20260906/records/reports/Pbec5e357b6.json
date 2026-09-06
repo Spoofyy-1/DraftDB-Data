@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:20:07.832114+00:00",
+  "lane": "reports",
+  "pid": "Pbec5e357b6",
+  "draft_year": 2019,
+  "name": "Kendrick Nunn",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Kendrick Nunn\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Kendrick+Nunn%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Kendrick Nunn Fantasy Basketball News, Rankings, Projections | - FantasyPros",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vWXFkaUFsMnZub0RaNktsUHR2ZHh4QTQ4NlpWREIzX2ZrN0R3eE5obmFMWFdTR2ZIQjRVakYtNjBGVVpJUE9hblpUd3kycnhYTzFQb19HaVVTVElmX0t4THlveUYzZVVP?oc=5",
+      "published_date": "2018-10-05",
+      "source": "FantasyPros",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "2c5ceb5c77e0f1e76df037b53846cbc75f32d0a369b8f523bbc9c367a4d6aaae",
+  "feature_eligible": false
+}

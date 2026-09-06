@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:17:53.886842+00:00",
+  "lane": "news",
+  "pid": "P8af3d1371a",
+  "draft_year": 2021,
+  "name": "Gorjok Gak",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Gorjok Gak\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Gorjok+Gak%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Lopez grad Colin Castleton granted waiver, can play for UF in 2020-21 - Daytona Beach News-Journal",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNWRrUTJpVHcwWkFXZkFJSTZla0dUREJwUzBESUtUNFBNWHlsWEhxdk9NQU5vQ1NaS1VoMF9IbW90RUltODdZZmxTcWM3QXcwcWVaS0ZhMmxIblN5Rk9uNVRiYmtlWDlxbW5QRGFuejg5d0ZITGRuV0o5YW5jRDZlb1NxSGpBcGJxOTJoN2pwNHc0Y0hoTFRYLU4wU20tNHBBbGh1MFdpdlRhV3BGNVNVQ1A5M0RtV2p5NVpwdUl5by16YlE3ZmJaYVpsMmI0NW9tcWVmbUxuYXU4YVZhUUlpRnFyODRwZw?oc=5",
+      "published_date": "2020-08-29",
+      "source": "Daytona Beach News-Journal",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA announces early entry candidates for 2021 NBA Draft - sportingnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGtCd05CUnBOaVg4bC1sa2Qwc0lsX2VrZjVPbDJ3RFdQZWJJcl9aZThWcFhZZUwxdm5mTmpfZloxTENnTHlOWkIwMUxBZmlEUGVzY3dHRjZoelJNZ1YxWGx6WlkyNkhvMDNobXpNZV9RT0hNWWxmdm55SS1pTnJ2Q25TaGFjWFdFWUViZHBuNnJnX1dtalNPdFh2V3V3eFp2TjE0VDZNM3lZNDk4ZGpMclpReHd5VzNyME8ybnFyNlc?oc=5",
+      "published_date": "2021-06-02",
+      "source": "sportingnews.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "6f179d1601e704d3a6bfb282f71905a86eb32b180864216ffd8ff60cc79f8f01",
+  "feature_eligible": false
+}

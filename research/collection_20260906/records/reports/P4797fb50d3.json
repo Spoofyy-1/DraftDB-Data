@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:16:01.861265+00:00",
+  "lane": "reports",
+  "pid": "P4797fb50d3",
+  "draft_year": 2019,
+  "name": "Quinndary Weatherspoon",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Quinndary Weatherspoon\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Quinndary+Weatherspoon%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Quinndary Weatherspoon: 5 things to know about Mississippi State's 2019 NBA Draft guard prospect - The Clarion-Ledger",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVkxCLVRHRnhuT3l2cHF4UEVZMGZlMWowQkdOQnBmTjRDOWNaZjNOVldaU2M4UndpVm82cXhjNGFwSFNEUG1GUC14NGFheHRKRDJRRjhhWXBsSE5CM19kelYxTURBZXpZTXJVSHJJbVd4S21JaG5XN1BvdjBJRzUydk5kamtGRFZMblhQcjNfVEhYd2V5MGpxYTN6SnppcVZZQUFRajB0bzB4QmxsbHVRai1hb1VhMTJpbUptcUE0dEZLWUN1dGkxeTJmcVNPQXluOG82cg?oc=5",
+      "published_date": "2019-06-19",
+      "source": "The Clarion-Ledger",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "c6a4e81b4383c06e0d91571af07b72e7fcf975c3b2f95cc2ca9a58e3c14ec28a",
+  "feature_eligible": false
+}

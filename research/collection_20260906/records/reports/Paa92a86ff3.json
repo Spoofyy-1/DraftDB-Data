@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:11:43.083384+00:00",
+  "lane": "reports",
+  "pid": "Paa92a86ff3",
+  "draft_year": 2018,
+  "name": "Shake Milton",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Shake Milton\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Shake+Milton%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "ESPN Mock Draft has Knicks taking Harlem native Mohamed Bamba - Zagsblog",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNREZNLUtNSmNoYVV6ampxa0VvbklQSFQxR1BTM0NHc2VULUo5WXZjNUtBZEJpRXJtYndHMXZEQS1wYnRZOVhWTmVUUVBLeTBEUkxfcldhWmRVekxoc0V2WGNCMThpUTY5Uno0MVkxOUJTalBHMTNOamJ6ZEhYaGhvODdJblpHR295TjlSa2dFMU1IOWY5UTRZTjBn?oc=5",
+      "published_date": "2017-08-15",
+      "source": "Zagsblog",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Way-Too-Soon 2018 NBA Mock Draft: Can Anyone Compete with Michael Porter Jr.? - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS0p1V3BiR2pXM3J1aEl6TTd2Znh6QlBqTGJsRU8xb1MxekY2X0xHQ25SQmp5ZVRmdnJEVUtKZUhNWHg4YzE2U2VSNU1sS0FRSndaY1hNQUJBcnNiNWJGV1hIR2l6cGNPVHU1NFFMN2NkcjlzYTVuYUtBSGhGMTlFTExHc3lLb2s5MUszRVd5ZTU5MGJXMGlvR2ZkbVl2SWR0bzNmUHdLLUNyV0ZmeUVVcFo4SXl3RmNtaHc?oc=5",
+      "published_date": "2017-08-01",
+      "source": "Bleacher Report",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Owasso coach Brian Montonati understands what Shake Milton is going through - Tulsa World",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN2pNN3lVLS11X2FzMHZEMmZHLWRRN1ZSbUFOMlZCaV80SUNQb0NfWnhYZ1psbkdEQ0VLaDFNTEdjU3hxdTM5dW9zdFFxN3p3YUM0VERacVJtb3NINzJPWmpEQ2ZzV08tWTk2S1ZBSGg1Z1Bvc0lYbG0xbXNqbHdDRDFrVjV3al9uYkxneGpBeThNOFNhM25DcHF3?oc=5",
+      "published_date": "2018-06-19",
+      "source": "Tulsa World",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "8f7305da8ea219ea7ed0ee32761ad93b8a4c4e79c6383f6c95ab05c972754dc2",
+  "feature_eligible": false
+}

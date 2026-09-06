@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:14:33.267863+00:00",
+  "lane": "reports",
+  "pid": "P1a41a85440",
+  "draft_year": 2019,
+  "name": "Jaylen Hoard",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Jaylen Hoard\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Jaylen+Hoard%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2019 NBA mock draft: Duke freshmen RJ Barrett, Zion Williamson and Cam Reddish go 1-2-3 after dazzling debuts - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNb0pjdHg5TXNlTktDOGJSSnRqOHB3VzFWLUoyb0tNV1p0N19rM1pwUjRHaWkzalVnZlFGdTVQQ3YzdjBWM3pBVFNxRDFGa0VsTVhfNzdvRlVYd1N3SzJrdDUtajhOV1NzSG5fSjdPcWVOaGZfOWtDLXBoeEowLTA3MzBMdFkycDROUHF6R05KMVBTXzNacE5PTUtEcnVuZzNDQ1ZIUWZjMGRlcWxrN09JczBOWkhua1NNczJmTlRxd2tWTXhPQkFkT2hnb2VEQ0o1ZElSbUpKOUxtWDA?oc=5",
+      "published_date": "2018-11-08",
+      "source": "CBS Sports",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "e69bd397e15f9cf0c0317d4e8fecaeca944a70b042c9e9a3df7f1e8ddab5b226",
+  "feature_eligible": false
+}

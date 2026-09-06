@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:15:32.104910+00:00",
+  "lane": "reports",
+  "pid": "P3022e1c032",
+  "draft_year": 2019,
+  "name": "Justin Robinson",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Justin Robinson\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Justin+Robinson%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2019 NBA Draft scouting report: Justin Robinson - Peachtree Hoops",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUjJLNlFDUDVaM01qRU5KUHRqUE5GODdKV20xZlU3MGJRTDB4al9LQ3Z3NVpxbFpxZDZIeGNLMEZIM2NLaDNtR0ZWdTh1SVBNU1ByMDdMUVJKVW5Rejl1V19GaTFEbmRuNmVDdU5mMU0xb2VKTWx0S1hTdVFhZWktQUNySHItUVByUExWNm5FZ3Y4dlltYVVvM1pPT3BHSENRbFZDVy15dVlQWE5BOUVvYmJTQVJvV0txNnJWdUZPZzdvQQ?oc=5",
+      "published_date": "2019-05-19",
+      "source": "Peachtree Hoops",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Virginia Tech Basketball: 2019 NBA Draft profile of Nickeil Alexander-Walker - Busting Brackets",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY0t5MW5fQVo2dFlnRmlkTGdrVU5xbUNPQjd2U2RSRTBMYThPdTZkWGtxbEVKeHlXdWdVcGRjeWNmbEszTnFyRkFpazFGSkhCd09PTWtBWlBNbGh6blJ5V1pwQmRjNHRkUFlPSmRUUjc3U29oZUVqcjcxUWF1azFFY2pJVnc0Zm5LX0kwRnNvWjhKY1h6MmpDM2J2ejZIUGt4TThvUlc3MUU2VGZuRlctZDdn?oc=5",
+      "published_date": "2019-06-13",
+      "source": "Busting Brackets",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "379a6a98f920762141eef3c39cb7a6176e311c1f2bf126497d472c2645b5fa96",
+  "feature_eligible": false
+}

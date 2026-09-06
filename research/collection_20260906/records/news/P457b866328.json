@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:14:16.571889+00:00",
+  "lane": "news",
+  "pid": "P457b866328",
+  "draft_year": 2021,
+  "name": "Gabriel Lundberg",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Gabriel Lundberg\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Gabriel+Lundberg%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Hoop Dreams: How Iffe Lundberg Hopes To Become First Dane In NBA - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUmVKejRFbzRCOUlNRU5YalgyRkZHcHM1d0VXSXc0NEJtLXFOTFVkX2JPMi02emI1dDE2QXQ4S2VvZjZOS1BoRGhjcm16X05jQ0M3TkdaUkRnRnY5aUtHNWFUSHZIMW5DWlVIYmhxdFFUUzJjc2FTWEdUTGF2OXFiX1JiYmdGRnhYWDItZzV5U1J0NWw3czJlVmZ4TVFvYmwyTmZhWG9iYWJBeEVRWmF2VTVtUHdfdGxE?oc=5",
+      "published_date": "2021-06-14",
+      "source": "Forbes",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "653c9a09b8074397295867121f468b5c920f82b337f45f3cd4dec10633b16bc2",
+  "feature_eligible": false
+}

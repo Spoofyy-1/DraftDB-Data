@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:19:25.020984+00:00",
+  "lane": "reports",
+  "pid": "Pb0f44d6b69",
+  "draft_year": 2019,
+  "name": "Jaylen Hands",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Jaylen Hands\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Jaylen+Hands%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Sam Vecenie's 2019 NBA Draft Big Board: Ranking the top 100 prospects - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUUJ0WGJMNHBab2NmMEQtSl92WHdGc3NmTFdxd1VhMGY2RDlJblRhOTRpS2UtLS12d0tEMEMydUhfRmg5LUlwQWJ6RDAxLU01QlVWWk0tVGZ4VlhBeWNsSkwzdmUwR1h4MUVJY1BfQWJxdUl0cG5iVW5oWVpIdE5LR2FYd2szMlI3azNDOGpGV0o3TTVCQnJINkQ2OWxfWDV2MWkyT1BCNjQxbVRGUGhYdTctSWZ6aW1WZ00w?oc=5",
+      "published_date": "2018-11-05",
+      "source": "The New York Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "810884c3ffbedf6ec298adb5e8b7c8b7e9decca7a9d8ad57a4b3ee46977abaa7",
+  "feature_eligible": false
+}

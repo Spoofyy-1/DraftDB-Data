@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:14:42.965349+00:00",
+  "lane": "reports",
+  "pid": "P2061b46d22",
+  "draft_year": 2019,
+  "name": "Jordan McLaughlin",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Jordan McLaughlin\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Jordan+McLaughlin%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "WHAT WE EXPECT: Could Jordan McLaughlin be more than Long Island\u2019s PG? - NetsDaily",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNenFKY3V5NlBCNG5XaHFtREMxR1JQZUFfRVAyU2h3b2FiUFM0NkpGLUdwQTF0T0FmdmowSkRfem1qYkhyVWVSS2JDWHZBSXV1bGstczZraW9LVFVHczhKNWp6ZkRTR3J6eG9oVnJKeWZmTHRYNkZ5M0plbjNNVzZIaEZKNWZrMHZNVjdZdkpPTkJFTDJjdmdKcU5vSjNkX2pvcGQ0RG52TjJDRHNDY2tfTEFR?oc=5",
+      "published_date": "2018-08-14",
+      "source": "NetsDaily",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jordan McLaughlin Fantasy Basketball News, Rankings, Projections | San Antonio Spurs - FantasyPros",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51dTBFRkFTaDlPZlVwVGFrWFYyWl9Nbm1ndEExbmZzeTFFYk0zU3FRNnBOLXdlc2VpNzRjQkFSSHd5M2FlMzVpUzJTNXVnZG5rQ3U3d3hKa1BmdTVOWWsya2ZYVXBoSVBlQlBHY1VB?oc=5",
+      "published_date": "2018-10-08",
+      "source": "FantasyPros",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "d9d243277397bb31b43b2f3c6dd38986720fe58e36d474502eb3b632cef94fba",
+  "feature_eligible": false
+}

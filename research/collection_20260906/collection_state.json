@@ -12,14 +12,14 @@
   },
   "reports": {
     "status": "running",
-    "updated": 1788693046.9432251,
-    "attempted": 28,
-    "existing": 1541,
+    "updated": 1788693640.809003,
+    "attempted": 209,
+    "existing": 1722,
     "total": 2560,
-    "current": "P8ecb19c544",
+    "current": "Pd88f1bdac2",
     "counts": {
-      "empty": 10,
-      "ok": 18
+      "empty": 81,
+      "ok": 128
     }
   },
   "scouting": {
@@ -34,13 +34,14 @@
   },
   "news": {
     "status": "running",
-    "updated": 1788693045.624178,
-    "attempted": 27,
-    "existing": 1850,
+    "updated": 1788693641.3687549,
+    "attempted": 204,
+    "existing": 2027,
     "total": 2560,
-    "current": "P02b23e4abb",
+    "current": "Pc4eb6bb8ac",
     "counts": {
-      "ok": 27
+      "ok": 202,
+      "empty": 2
     }
   },
   "mocks": {

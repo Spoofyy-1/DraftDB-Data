@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:12:19.200111+00:00",
+  "lane": "reports",
+  "pid": "Pc317d28310",
+  "draft_year": 2018,
+  "name": "J.P. Macura",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"J.P. Macura\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22J.P.+Macura%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Mick Cronin, J.P. Macura Had Altercation at End of Cincinnati vs. Xavier Game - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY1FGdExIeXJKMWxyMmkwUFZrRVRNLTN6Y0N4WUJOZUIzcnJKSGppNkxKdGtGTTg1Y2VEY2ViOHVIZVdrdmxYdk5PdmxnNWJxNHdXY3RuSWJmSGtPVFZCVTBXdEZDaExxUk5DaGd4bnlYOU9hQjlmaEJyTW10T2tKR3I1eHJ3ZS1FQUxDWmJtUkZtdXR6V0VzTmcxeFlSNEVRQmZGbEIyWUJVNmRma2dua29BeFJpM0hW?oc=5",
+      "published_date": "2017-12-02",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Rowsey prepares for 3-on-3 tournament, future pro career - Marquette Wire",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZUFvZFg1VmNqQjFGbjFyWHpQMG5XaFNTa3ctRnpBazdBd2I4U29WeVBQTWM4Vkc0cU9sWmJ5emtuLXk4SV9VdVlYdnl6a3JrZlBKWldUQ2xjTFdBTTY5a0FsMzdXdU1wODc2N0ZwYl9oME51VWRZUDkzb2tjcm9GV041aDN4eUJKd3dPaXJLdXYwYXluSFp5aU5yVmJJUQ?oc=5",
+      "published_date": "2018-03-27",
+      "source": "Marquette Wire",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "d5075f88b9b3aead25622ca62dd35d845022cc30e6f57b183e70aef5b1248135",
+  "feature_eligible": false
+}

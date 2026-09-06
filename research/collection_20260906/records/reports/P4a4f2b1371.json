@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:16:21.478084+00:00",
+  "lane": "reports",
+  "pid": "P4a4f2b1371",
+  "draft_year": 2019,
+  "name": "Brian Bowen II",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Brian Bowen II\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Brian+Bowen+II%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Left in the Wake of the NCAA Bribery Scandal Nightmare - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSkJUejNwNkU3MEtNZmo3RXltRDVUbnVwdWRIb3V5a0N1cjBSWUI4MjI3YTZ5QndBV0RzRVVSODFBS0twVE9CZkFKaE5qM3pZeThncEVJSHNYV3RlSXVKTUtOUnBTSEp3Z29jOEFYOXlGakhqU0lDekRUQXA0cDRuM0RwQzZpLVRRSTY4ZkFEcFh6dVhOQXE2SlVMNFhkb2dZM1drWDZpOVpuejd2VEZJ?oc=5",
+      "published_date": "2019-05-13",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "45f126582678e33d8941d205ed4c1bac5235bf7b3039df277927f4852b6f3d1d",
+  "feature_eligible": false
+}

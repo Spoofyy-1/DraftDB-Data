@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:20:01.217985+00:00",
+  "lane": "reports",
+  "pid": "Pbda39b05ec",
+  "draft_year": 2019,
+  "name": "Tariq Owens",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Tariq Owens\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Tariq+Owens%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Jarrett Culver Is A Prospect You Can't Underestimate - Elite Sports NY",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaV91bzdDa3ZEVTUzQ2ZtYUZia0ZXS2J2cllmREd4RnJQR3hnNnBCc1Izajl3c05QRmhCanluRUdrODBYNFhLMjVmdlp2MEU5TlV1ZTNkZGFiWXF0TUg4X1doS1REZlk4Z1doRU50X0g1VEtKNG52Z3J3ZEVQNnhSak9zNmhLZmlKU2hlbnVXWnFsY1ZyTUd2elp6QQ?oc=5",
+      "published_date": "2019-05-25",
+      "source": "Elite Sports NY",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "9f89ef0922e8f5930ec1e93d6dd6b0b9ca05e74ad22dda9222d64bae65121f01",
+  "feature_eligible": false
+}

@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:14:13.235022+00:00",
+  "lane": "news",
+  "pid": "P452df756e1",
+  "draft_year": 2021,
+  "name": "Samson George",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Samson George\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Samson+George%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "The amazing journey and mission of BYU's Gideon George - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV2JpTHkzYl9yMm5XaEVXNUtfN0c0S05HSzA3WmRhTm1odnU5YU5zYjZPMzVsdV81RmR1eEVZdzRFVmQyZjBzRGx5T2lxSnhSNTVVSGNTeUhlZW5ERGN4Z29xVkwxS1BvajJfQ1loTmdrM2xqb0NkUmlTcWJhdldac3hNbUhwZE9xVFNNeHVXSDZWY2oybzFtTW5LMjhSZnJNZlRiTUFOcEF6RXBWejlz?oc=5",
+      "published_date": "2021-02-26",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Abilene Christian Start Time Changed; Moved to SEC Network - Arkansas Razorbacks",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLXlIcGI5NzVacWZwRHdtLWczRllQOHZtb3dadVpoelhGWFQ3QkpHMHFOVnlBbldxcXNCVjVrZE1MNVRQelJzRTAyY1dJY1FVNW5CWUtJZ0pDWE4tdC1JOUhoYjBubTdZODExWnU5Yk1ha0IybjBrTm85b0lPRDJIdHFQV3FaaFRVLU95QW53RkJZZWc?oc=5",
+      "published_date": "2020-12-18",
+      "source": "Arkansas Razorbacks",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA announces early entry candidates for 2021 NBA Draft - sportingnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGtCd05CUnBOaVg4bC1sa2Qwc0lsX2VrZjVPbDJ3RFdQZWJJcl9aZThWcFhZZUwxdm5mTmpfZloxTENnTHlOWkIwMUxBZmlEUGVzY3dHRjZoelJNZ1YxWGx6WlkyNkhvMDNobXpNZV9RT0hNWWxmdm55SS1pTnJ2Q25TaGFjWFdFWUViZHBuNnJnX1dtalNPdFh2V3V3eFp2TjE0VDZNM3lZNDk4ZGpMclpReHd5VzNyME8ybnFyNlc?oc=5",
+      "published_date": "2021-06-02",
+      "source": "sportingnews.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "aabee39f736463ce0ded75bc6f66365ab3ffaadd496f1e3e3f1d95b48d239043",
+  "feature_eligible": false
+}

@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:16:18.200050+00:00",
+  "lane": "reports",
+  "pid": "P48e78aee32",
+  "draft_year": 2019,
+  "name": "Sagaba Konate",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Sagaba Konate\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Sagaba+Konate%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2019 NBA Mock Draft: Entire Draft (1.0) - FantasyPros",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EWlJZZkxWdVpyNDRzRk1fSkhPZ0kwaDNtVjRxUlhFODBLQVJDUDg4THM1RzVtaFg4MERjcDJybGpjTTFNZTVERWVNUFdCM0o3YmJ2TUQ2ei1qbnFvd2I0Y1lpelhnTGk4MlZaeXpqazhoQnpQVm5CeDVxcXp4d9IBgwFBVV95cUxOLVFiY0RiNjYtZGNWSjFETUZFZnBXOC11UDNjc01vcEVkX1pfaks4LUtrOUQteE1yTXJxWjNhQ25ybHZ5UXlISTBiWDMtOGliUWxoTVNISTBLU3Z5MmpyUVNZSklOejI4bjd0RmFWVHVScGdlTmJ6ZEFKdzY3dWU3TldVMA?oc=5",
+      "published_date": "2019-04-09",
+      "source": "FantasyPros",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "74ef49512b5a6071afc8fe5afce2dc5633247d30972a555d6be5f5bdd56320f5",
+  "feature_eligible": false
+}

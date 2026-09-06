@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:13:30.982749+00:00",
+  "lane": "reports",
+  "pid": "Pf2fe8710f7",
+  "draft_year": 2018,
+  "name": "Gary Clark",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Gary Clark\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Gary+Clark%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2018 NBA Draft: Gary Clark Scouting Report and Highlights - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZFBhYUhob3pucURERlBEUjJwWUpONDJkZXUxNlVJMXJqa3ctOEctTnRCZlhvQWRFS0Y0M2xPSjVvQ1VSdzhRZHlEUUkxSS1xc2tmQ2NRQXBMdlZROEt1aG5ad09mRGFuaU1Qc25CTjdUd1BiMlNrc3hSN1V1NFpUTUFNSm8wQ1FCeFBOeTZMTWV5RHJZM3hlcXJOd0JUYWhoODFZcktCRG9Za3M?oc=5",
+      "published_date": "2018-06-17",
+      "source": "Sports Illustrated",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2018 NBA pre-draft workouts: Who's going where - HoopsHype",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU2ZOdUFOY1F0LWw2VDBqaFgtUmNYa0JsRW44S1RVZkRrMG5HN0VILUJ4N0FQU01XcDFsbU14SktDVXNfSk8wdHRrOEFobnVfYWRTN1lhZnJIYUVvVzFPMlR2Q0d1OEc4b3pzQmM4a01TLW52NEtSSkY2QzRRS2RhV25UREhVOC1GMXRJU3huSTFUMW9jYkZycmhlQVI5MEh1MHJDUVREUkY3RUo5eUdYOEhBWG5yRG5j?oc=5",
+      "published_date": "2018-05-19",
+      "source": "HoopsHype",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "073131a0c8f8f327c154afc379b5a85d4b7db7f8db335472d2b39a827663c4c8",
+  "feature_eligible": false
+}

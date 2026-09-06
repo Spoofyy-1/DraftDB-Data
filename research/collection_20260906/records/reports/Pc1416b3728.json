@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:20:11.104821+00:00",
+  "lane": "reports",
+  "pid": "Pc1416b3728",
+  "draft_year": 2019,
+  "name": "Zach Norvell Jr.",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Zach Norvell Jr.\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Zach+Norvell+Jr.%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Guessing game has Gonzaga\u2019s Rui Hachimura, Brandon Clarke going in middle of first round at NBA draft - spokesman.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTGRyLUpZOG1PaElzRWpxUTU1LXp4ZDJSNU05QmVudkVTeHZWOVFPSjhPQmtYUlRMeWRsZnVVTnBjYndWakF3TDlGTmZUSURNUDM1NE1oSi1YZ3pGOGFRU3BBMUNsRWhBT2s4N1BadmNiaEZJUWNGVkNER3BtcTNYZ3NoeHpHbG5UWktUUkx2aDl1Z3FCeDZfZXZmckNQdw?oc=5",
+      "published_date": "2019-06-18",
+      "source": "spokesman.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Sam Vecenie's 2019 NBA Draft Big Board: Ranking the top 100 prospects - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUUJ0WGJMNHBab2NmMEQtSl92WHdGc3NmTFdxd1VhMGY2RDlJblRhOTRpS2UtLS12d0tEMEMydUhfRmg5LUlwQWJ6RDAxLU01QlVWWk0tVGZ4VlhBeWNsSkwzdmUwR1h4MUVJY1BfQWJxdUl0cG5iVW5oWVpIdE5LR2FYd2szMlI3azNDOGpGV0o3TTVCQnJINkQ2OWxfWDV2MWkyT1BCNjQxbVRGUGhYdTctSWZ6aW1WZ00w?oc=5",
+      "published_date": "2018-11-05",
+      "source": "The New York Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Gonzaga\u2019s Rui Hachimura, Brandon Clarke mum about future following NCAA Tournament exit - spokesman.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYlQwVWluejBYMVJMYkFuMkVTUGNSYmpOZC1VNk01Z0pDTWpIN3publdkZmwyNmx4QW1oejYxVGNRc3hIcVBFdlJtQW1xUXVvZXg4UHREZEQydnhfUVozSmIxdVBRTFB2NVFyc01nVkJzVGFPSkFUYUZOSE9BVHNxdWNMcjJjbjNtNm9ENUYwaVZOUk9UV0tHUWZkMmg1Zw?oc=5",
+      "published_date": "2019-03-30",
+      "source": "spokesman.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "81f6fecc31b6473bae6c4bdbff42c2fc86918ee122c66b0bafed0fcd348230ee",
+  "feature_eligible": false
+}

@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:15:55.178073+00:00",
+  "lane": "news",
+  "pid": "P659829b9e5",
+  "draft_year": 2021,
+  "name": "Paris Bass",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Paris Bass\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Paris+Bass%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Paris Bass - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QNFc3dVpFRDdRV0VsdXc1cU9FaXRNcjdsRzU5ZkJZMHFxeXFGZ0N3aEZsbmc0V3hrMnRJWmFndXJwbjZZLXQ5ZUdpaGV3OFRPS3gzVzktbnM?oc=5",
+      "published_date": "2020-11-17",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "5a5fbed26e2bc3a334cb7b7e5b42d4e2da651f547e02dd553d17f5f198e6d995",
+  "feature_eligible": false
+}

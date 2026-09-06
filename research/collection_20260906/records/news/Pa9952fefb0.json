@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:19:20.553483+00:00",
+  "lane": "news",
+  "pid": "Pa9952fefb0",
+  "draft_year": 2021,
+  "name": "Ahmad Caver",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Ahmad Caver\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Ahmad+Caver%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Memphis Grizzlies sign Ahmad Caver - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRWNqUWQ2OWY3RHR6ZXBqY0hDTEtOUklGU2JkSzhGLWlVUndJaEtnT1lXRkZwY1RJWHZPMjVYWjdCZG5BU2k3aFRnN0FiLTRoUktPMVJTRkJoYXZvNU9qRU9LWVRvX3FzdXlQamNhZ1lOUjVSZXByMEotS095SHl6UlRn?oc=5",
+      "published_date": "2020-12-11",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Ahmad Caver - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JM2E2Z2xmOVB1S2RQX2tFeG53OUlQcWY4UldrNE94ZVZvZktjMjZHNWl3OXBiTFoxUm9WV3JTb3lSMGFBSzU5Z096M09PdEpXWjE1dmJnVVhCUQ?oc=5",
+      "published_date": "2020-11-04",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Memphis Grizzlies finalize 2020-21 regular season roster - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR2Z0UFBNb3otSUxQa2tZclZEVk85bk5CaTc2UTJ3TGY3MEdRTHJYeTFYanBEVUN2eXFhWXptckd3aVdkLS1WTG9jZ1FZQWdiajlwejBLR2RMRTRHRWlQelZJSEdlOXlYT0E3bEtISUVySWw3ZzJsbllRR09DWjU4WG50N0dIeUh5Vmd1bU53NEpwMVItay1RWFM4cnVJbnc?oc=5",
+      "published_date": "2020-12-19",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "16414a4845d88cc369f965d2ce385364308ab0dd04004287485fa6d0a54dd5bf",
+  "feature_eligible": false
+}

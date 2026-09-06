@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:12:35.949648+00:00",
+  "lane": "news",
+  "pid": "P2c6f1d319f",
+  "draft_year": 2021,
+  "name": "Jordy Tshimanga",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Jordy Tshimanga\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Jordy+Tshimanga%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Hyland Named Atlantic 10 Player of the Year, Schmidt, Osunniyi Earn Top Honors - Atlantic 10",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeGFpVnZHV3RfUVAtb0ZNblpYaVBRbERNVkRBR0s5NndmSkJJU0pWZnVQRE5TVmFWX1ZvX2lJa2FzSXJlZE5ZWGFkZVNNYlNCZXlUQVJ4RmFFblItM3NlX01jamhFMzlFS0xzLWRfMElDWEFvSGh5WmstMEFENzhEcEtjbHNUSUJFU3JwQ1EzMEJnQzR0TjlSQUllU3Z6bnh3TU1kZnZ0Y3hQS3hIcmNod25fV3FZU0VnRnZEbUthMVZ5RmlSc0g3UWxyX0pKdEtr?oc=5",
+      "published_date": "2021-03-10",
+      "source": "Atlantic 10",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "McCoy: UD\u2019s Grant Calls Crutcher One Of The Best Flyers\u2026Ever! - Press Pros Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTlZ0cnVkYmFrNFNmcWlBeG9RdUZBMzI3U1Z5emladUVvUmFLX3FVZVNoYTZQZWMzNDg4WEdUWi11UDZsdDNjNlNwMkZWMjZFbEItV0Y2SG00RnE1R3Fya251MFFZR2hHYWhqc05fMXlKSU5vUUdQeGlRaGxvRlFrSTZYT094WloxamtRUVBkenJ3X1NiRnNYVV9mNGtGcC1LZEE?oc=5",
+      "published_date": "2021-01-29",
+      "source": "Press Pros Magazine",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "7dcf3c74a0fd4622b163f3bf6a3f204bd616722ebfa7db6136ba7d8a6e1e9505",
+  "feature_eligible": false
+}

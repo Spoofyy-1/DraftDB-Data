@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:19:07.011895+00:00",
+  "lane": "news",
+  "pid": "Pa47e64a2a6",
+  "draft_year": 2021,
+  "name": "Deion Hammond",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Deion Hammond\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Deion+Hammond%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Monmouth Men's Basketball beats Marist - Asbury Park Press",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWWx3d0hCaGtPOGFPOFZYdzdkVm0tYmxOX3Z4T3BadGdsTVFCLTlOQ0I2Q0VDRV9nTFZIR195Zm4yLTZIaVZTZDhKdU8tdVAzNUF4SDQtYW5VZFNBTkxUYjdfRGxCeFVkbmZCUG00cUFjWHc5NDQzdGlveTRTNmRaWmczQWpJcXRpdW0tbktlMmU1NlFreFJ4TGZQdWw2LVdGdElTMkdR?oc=5",
+      "published_date": "2021-01-09",
+      "source": "Asbury Park Press",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA announces early entry candidates for 2021 NBA Draft - sportingnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGtCd05CUnBOaVg4bC1sa2Qwc0lsX2VrZjVPbDJ3RFdQZWJJcl9aZThWcFhZZUwxdm5mTmpfZloxTENnTHlOWkIwMUxBZmlEUGVzY3dHRjZoelJNZ1YxWGx6WlkyNkhvMDNobXpNZV9RT0hNWWxmdm55SS1pTnJ2Q25TaGFjWFdFWUViZHBuNnJnX1dtalNPdFh2V3V3eFp2TjE0VDZNM3lZNDk4ZGpMclpReHd5VzNyME8ybnFyNlc?oc=5",
+      "published_date": "2021-06-02",
+      "source": "sportingnews.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Monmouth coach King Rice interviews for North Carolina job: report - Asbury Park Press",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeVZBaHBBd2w4Zmlhal9MejMyWWZRZzNOS19seVJKeVVKWlZ0TWNuTUZ0cUpKRFdTbndROUI0MGxvMTZ3Mk4wbnhlUVdrd1dwM1pTMWJyMEhZZ005b0hPeFB2bUEtZ2NNUXhjX3pETm0yM0hCVGM1ME1MNFhWZU10Z0poQTVxSFh1TGhleVQwXzlLbC0zLWlIUC1UMUZrT0hYOF8tXzJ4MndWV2F2ckQ2OEtRNTM2eGdxS0h2YzF6TXVFbHFmck8zTHM4SDlTRmR4SkE0LWZ1aHFsOWNjb09XVjg0QzBYLXpMeUtaYQ?oc=5",
+      "published_date": "2021-04-05",
+      "source": "Asbury Park Press",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "26022d2be34784e029e70ecde19053736f6ec37fade8a1ce82b53c176825ad40",
+  "feature_eligible": false
+}

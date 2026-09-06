@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:20:30.670875+00:00",
+  "lane": "reports",
+  "pid": "Pd00fce6a5a",
+  "draft_year": 2019,
+  "name": "Zylan Cheatham",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Zylan Cheatham\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Zylan+Cheatham%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "ASU Basketball: Assessing Luguentz Dort\u2019s late-season NBA Draft profile - Devils in Detail",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWkI1VzJsRXdMemMwLUtfRUYtVk4tQnJadGxiM2RFVUpyV01pZEEwbGVRN0tmdkRtSHpKSWJPMFBvdWtta3FBWHkta2g0MW9sbTBQRVMycmtKLXlrTHd4NWFIV1ZnVjJKQlByNkJxR1JtX3FkTjRLM0QzWUxUMzFzZ3hoYlhWak15QjViX2hPbU9DMDVDRi1UbldiQk1GVC1qYkNwcmRTcWt2QQ?oc=5",
+      "published_date": "2019-03-06",
+      "source": "Devils in Detail",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "1b1f92fff823d5df943ecb2f4bfcf52838d87ef79db4a634ad4b1b9b07ff0550",
+  "feature_eligible": false
+}

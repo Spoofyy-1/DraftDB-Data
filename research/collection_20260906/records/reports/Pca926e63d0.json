@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:20:24.132286+00:00",
+  "lane": "reports",
+  "pid": "Pca926e63d0",
+  "draft_year": 2019,
+  "name": "Josh Reaves",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Josh Reaves\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Josh+Reaves%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2019 NBA draft prospect Josh Reaves: 'Teams love the intensity and passion that I play with' - HoopsHype",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSE5FMkNzWHZ5M0x3QS1KRHlfTFV4MUh4a3hYcTk0eHRhRkNYSW1lNlJFenROR3g1azFpWC1pRFhheHRXTnJtbndkdmFZVWZtdi1ER2VfVnRIb0RHWDlJOF9fakR4TWs1MUkxcjE1Z2IxSzdrZGNYTjdSSVZ0NTZBcFdBRy1DRkZ3ZHphOTVPTDkta2lfQTlaR2ZWOVoyMUMycG5tWGVheEgyV2RlSVN0OGstM04yVzV4TjdxbUxEXzR6VzRq?oc=5",
+      "published_date": "2019-06-10",
+      "source": "HoopsHype",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "5ad403d7c816b553029e90c3cbe73a493750a7dd12cc5537c4ac85379ec5d155",
+  "feature_eligible": false
+}

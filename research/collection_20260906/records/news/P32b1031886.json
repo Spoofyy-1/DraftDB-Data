@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:13:09.998663+00:00",
+  "lane": "news",
+  "pid": "P32b1031886",
+  "draft_year": 2021,
+  "name": "Romeao Ferguson",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Romeao Ferguson\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Romeao+Ferguson%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Bradshaw named ASUN's Co-Player of the Week - Bellarmine University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd0E5SlVxZ1o5S2RxaUs2OGl1aUp6MXFLdmNKd1JyNl9LRFRJa1VnalVrR2NfRk9SS3RGSW1ReVg3N3p2b0ZSMFA2enZwX21NNVlaeVg4U0dDQ2R1bTFPSTFjTWlqZmFvZ002LWNKVEtzemxnenhYeUtyUmMxaDh4R0Y0bzB3TlNxMkpjODRGeURoRy1kS3J4TG1XLVNsU2dPR2o0NWZiNHQwT251aHZV?oc=5",
+      "published_date": "2021-02-08",
+      "source": "Bellarmine University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Happy Birthday!: HoopsHD interviews Purdue legend Joe Barry Carroll - Hoops HD",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZko4aE5GQ1VQX3NmdzE4MnhKb1pJVHBwa3dDbmxyRWIxNUotdmRvcGhGa3VXMDYtNFh2SmR1OWJIWVYwdktFNEcxVEkxdHkwUGZaZWpKWjBXd3VCdDU0R2RpWWV2WG16bFQxbHMwMzA3XzI5TEM4Yi14c2ltX21DLUlRQ3NCc3RxRWRieFlrMkxjbndyUFlaZ2VMQmZVZw?oc=5",
+      "published_date": "2021-07-24",
+      "source": "Hoops HD",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA announces early entry candidates for 2021 NBA Draft - sportingnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGtCd05CUnBOaVg4bC1sa2Qwc0lsX2VrZjVPbDJ3RFdQZWJJcl9aZThWcFhZZUwxdm5mTmpfZloxTENnTHlOWkIwMUxBZmlEUGVzY3dHRjZoelJNZ1YxWGx6WlkyNkhvMDNobXpNZV9RT0hNWWxmdm55SS1pTnJ2Q25TaGFjWFdFWUViZHBuNnJnX1dtalNPdFh2V3V3eFp2TjE0VDZNM3lZNDk4ZGpMclpReHd5VzNyME8ybnFyNlc?oc=5",
+      "published_date": "2021-06-02",
+      "source": "sportingnews.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "a0408f2a1df0d37da27e7f8eceba5032c02c5dbf923bce989428294084ba9317",
+  "feature_eligible": false
+}

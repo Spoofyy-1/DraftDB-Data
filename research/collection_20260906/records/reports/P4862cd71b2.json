@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:16:14.946938+00:00",
+  "lane": "reports",
+  "pid": "P4862cd71b2",
+  "draft_year": 2019,
+  "name": "Chris Clemons",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Chris Clemons\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Chris+Clemons%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Carsen Edwards Scouting Report - Liberty Ballers",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZlJfcUpLbzl0ZEVjbU5KbDNfY3RzanYwSmRJaFRObzNVNXdtWkVZY1dxWVEwRjNPYUlDaWpYdVFqM1lsOHo1OGhnX1I4c1NvWW1QR0xlZ1ZNRTFYWnRYUkozaWoyRFlFUnFvbVN4bVhzSGhIVmVIUEd3QzU2TGJTci1jdGs4ZmU2R014VEJoM2hOU2lSS2k0T1VzSENkMWJkZVZVUWxjNFdyc0JNbVhIcXl1ODFTcVVHNVNzLWNyeWYzTTl2c1Yw?oc=5",
+      "published_date": "2019-06-08",
+      "source": "Liberty Ballers",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "a1eda6aa83f957a6b086569d8298b20103c63aa31cb6981a89adec066c44f9c5",
+  "feature_eligible": false
+}

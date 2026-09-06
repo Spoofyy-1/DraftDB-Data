@@ -1,0 +1,82 @@
+{
+  "started": 1788692855.1036687,
+  "status": "completed",
+  "phase": "R8l \u00b7 frozen cohort confirmation",
+  "completed": 6,
+  "total": 6,
+  "workers": 1,
+  "candidates": [],
+  "best_configuration": {
+    "id": "frozen_pair01",
+    "score": 0.5110854299644533,
+    "seeds": 3
+  },
+  "message": "Retrospective cohort-disjoint confirmation; selection used development outcomes through2018. Not an as-of2015 deployment or goal test.",
+  "confirmation": {
+    "score": 0.3409375857379981,
+    "rows": [
+      {
+        "season": 2015,
+        "k": 3,
+        "n": 44,
+        "ntrain": 483,
+        "cutoff": 2014,
+        "stack": 0.23269908386187454,
+        "draft": 0.13079633544749822
+      },
+      {
+        "season": 2016,
+        "k": 2,
+        "n": 55,
+        "ntrain": 566,
+        "cutoff": 2015,
+        "stack": 0.3158426379056,
+        "draft": 0.2042568542568543
+      },
+      {
+        "season": 2017,
+        "k": 1,
+        "n": 56,
+        "ntrain": 632,
+        "cutoff": 2016,
+        "stack": 0.47427103544651955,
+        "draft": 0.036826651779107565
+      }
+    ]
+  },
+  "test_result": null,
+  "updated": 1788692882.4171724,
+  "current": "Frozen confirmation complete",
+  "reference_confirmation": {
+    "score": 0.3404448085659098,
+    "rows": [
+      {
+        "season": 2015,
+        "k": 3,
+        "n": 44,
+        "ntrain": 483,
+        "cutoff": 2014,
+        "stack": 0.24702234186374744,
+        "draft": 0.13079633544749822
+      },
+      {
+        "season": 2016,
+        "k": 2,
+        "n": 55,
+        "ntrain": 566,
+        "cutoff": 2015,
+        "stack": 0.30968486796071437,
+        "draft": 0.2042568542568543
+      },
+      {
+        "season": 2017,
+        "k": 1,
+        "n": 56,
+        "ntrain": 632,
+        "cutoff": 2016,
+        "stack": 0.46462721587326755,
+        "draft": 0.036826651779107565
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T11:13:21.150370+00:00",
+  "lane": "reports",
+  "pid": "Pefc5241948",
+  "draft_year": 2018,
+  "name": "Isaac Bonga",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Isaac Bonga\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Isaac+Bonga%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft 2018 scouting report: Isaac Bonga - Peachtree Hoops",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZXRFZTV3OGF5NE95OXRncGVaeFZiNk85RUlkbnd0ZzNmdzZvNm5BS0c1Y0JuTGZxTGFQcnhiMlpQenltNXY4Q19rUGV3N2JuYW9jYW1keHkxS2ZOYXR4c0h6M0xtNUlmWVRiMTRpVEVSNUMyRk1aYm1oX0FSSE8tNU9CRE1mdzh6MUhqbFVQWTVHN0dpRTJaTDYzS09FdWYyeEU2Tk51U1hEcjZ4M21jcUxOUXFrWkN2d1JVNlMzaUxLNTlWZm1Gd2lfeFhLQXA5?oc=5",
+      "published_date": "2018-05-02",
+      "source": "Peachtree Hoops",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2018 NBA Draft: Issac Bonga Scouting Report and Highlights - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVGN0SDNfamxRMHJEM244TGxJRDd5ay15MmdxQWMyY216dU9uSkZQTTY1NUxnLVJZbENSaDV5NUE1Nk9LRTMtejFOYVk2UEVIREZHS1ZUTFNiV2IwWF9GS1VmLWhRNmNGS3l6ZUhwSUZnZ0ZhQl81dUIwUHpLMEplakZIZFA5U3o1Q3VteWRDOGk5SXkyMjlyZkxLNDV6V1JQT09IejFNYUl5Z0hk?oc=5",
+      "published_date": "2018-06-17",
+      "source": "Sports Illustrated",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "ESPN Mock Draft has Knicks taking Harlem native Mohamed Bamba - Zagsblog",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNREZNLUtNSmNoYVV6ampxa0VvbklQSFQxR1BTM0NHc2VULUo5WXZjNUtBZEJpRXJtYndHMXZEQS1wYnRZOVhWTmVUUVBLeTBEUkxfcldhWmRVekxoc0V2WGNCMThpUTY5Uno0MVkxOUJTalBHMTNOamJ6ZEhYaGhvODdJblpHR295TjlSa2dFMU1IOWY5UTRZTjBn?oc=5",
+      "published_date": "2017-08-15",
+      "source": "Zagsblog",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Way-Too-Soon 2018 NBA Mock Draft: Can Anyone Compete with Michael Porter Jr.? - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS0p1V3BiR2pXM3J1aEl6TTd2Znh6QlBqTGJsRU8xb1MxekY2X0xHQ25SQmp5ZVRmdnJEVUtKZUhNWHg4YzE2U2VSNU1sS0FRSndaY1hNQUJBcnNiNWJGV1hIR2l6cGNPVHU1NFFMN2NkcjlzYTVuYUtBSGhGMTlFTExHc3lLb2s5MUszRVd5ZTU5MGJXMGlvR2ZkbVl2SWR0bzNmUHdLLUNyV0ZmeUVVcFo4SXl3RmNtaHc?oc=5",
+      "published_date": "2017-08-01",
+      "source": "Bleacher Report",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2018 NBA Mock Draft Ahead of 2017-18 CBB Season Tipoff - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaC05eDRKcjB3ZThjMF8zWmtMaTM2ZU1UUU5WTEExMmMtVGtpYXdtZXN1TVlTemlVb1VKOVhUNmdHcjNYeDhGd3hHZnk5LUYzd2h3d3pRbDY2aFFhOGpPQm9VRS1nWGFIYWkxOTdKdnMxcVVrMXJxbEhDeHpwaUJwR0xveUFIQ1JfakFIUE1DTXZLVFpDRHNmR1JBZVFJSWc?oc=5",
+      "published_date": "2017-11-06",
+      "source": "Bleacher Report",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "4ea92bc280bfcd811b3310949be07d05029eee78b5a10320243ce5aaf91d07b8",
+  "feature_eligible": false
+}

@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:15:58.593121+00:00",
+  "lane": "reports",
+  "pid": "P4516ced6d5",
+  "draft_year": 2019,
+  "name": "Moses Brown",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Moses Brown\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Moses+Brown%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Michael Walsh, Moses Brown , Pro-Style Quarterback - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mZWhYMGJBZ0R6YlMtVFBkRE5Da283UVJrdTRjSEVyTjVQWnZIWE1pQ1N1LTR1T2s1OUFjcjJVVTh1V0V3aDk2UnFtTWR0WHptdlpvVzNmQXdaVGFvRXRFMGh3?oc=5",
+      "published_date": "2018-07-18",
+      "source": "247Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "652e2b8e92dcc71324bcda1a3aa5acc9c0c90e34f5309909ae677501db69de28",
+  "feature_eligible": false
+}

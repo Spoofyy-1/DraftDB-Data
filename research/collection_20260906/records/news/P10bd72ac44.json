@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:11:35.068526+00:00",
+  "lane": "news",
+  "pid": "P10bd72ac44",
+  "draft_year": 2021,
+  "name": "Koby Thomas",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Koby Thomas\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Koby+Thomas%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Carter carries NSU to 84-72 win over Coppin State - 13newsnow.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdnBfbWozV3Nwa3A5SF8xVnMwYjNlel9kRGt1ZTZBdW0tOVpRTS1mZXpLOENsTTV3NU5fYnBsZEw1MHpjbzZzN3FQY1lBMEFjY1Y0MG5QRk1LNC16LW9GNmpfUUtURk9WbjFOUGlGb0w1SVZ4NEU2OWVqQV9yMWxZZnFZWldQRTktRHgwbi1NR08tbDFEeUFv?oc=5",
+      "published_date": "2021-02-07",
+      "source": "13newsnow.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "MJ Randolph from FAMU is MEAC Player of the Week - HBCU Gameday",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNm41bEtJTjlEUVpTdmZPT0FvVUJyd2JaLVA2bU1tcWYxdTlTLXVtYTJIYmZPcUFDbGhkdG1mWmw3dXRnWVFSQl9KZzgxLS1pOXZVek90NWZMUWw3NTlObVZ1VFpvSnFFVjFrc0pNdUhBQVRZeTVTQTFySE55clVxVG5vb2FvWHlMRnJTOQ?oc=5",
+      "published_date": "2021-01-12",
+      "source": "HBCU Gameday",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA announces early entry candidates for 2021 NBA Draft - sportingnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGtCd05CUnBOaVg4bC1sa2Qwc0lsX2VrZjVPbDJ3RFdQZWJJcl9aZThWcFhZZUwxdm5mTmpfZloxTENnTHlOWkIwMUxBZmlEUGVzY3dHRjZoelJNZ1YxWGx6WlkyNkhvMDNobXpNZV9RT0hNWWxmdm55SS1pTnJ2Q25TaGFjWFdFWUViZHBuNnJnX1dtalNPdFh2V3V3eFp2TjE0VDZNM3lZNDk4ZGpMclpReHd5VzNyME8ybnFyNlc?oc=5",
+      "published_date": "2021-06-02",
+      "source": "sportingnews.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Imhotep grad Fatts Russell wanted to join a championship-caliber team. At Maryland, he might have found one. - inquirer.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY21rbW54N2dPTWRDUmtDb0tBZ2NHekdBVjFFdEV0QjZkSVpoN0ZaTk8zNC01azVLOWxRZGZHNjFvd01CbU5UN2pwcUJKMUxHZWFwVFYyaHZ3YzdWQTRlbmxoX1ByeEFYUTFxdWpIYkhpNzV0akt1ajZXaWF1SFNFeDk3SFg4dGJEZ0RadXd2bEoxU2I5WVpEZlF0MERCWlE?oc=5",
+      "published_date": "2021-04-12",
+      "source": "inquirer.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "5990808dfb8925956eeaf7f48be6bc7a85f49070ff449eabe2fab3839c73ada1",
+  "feature_eligible": false
+}

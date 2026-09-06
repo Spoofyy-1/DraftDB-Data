@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:19:21.737451+00:00",
+  "lane": "reports",
+  "pid": "Pab169ed872",
+  "draft_year": 2019,
+  "name": "Jaylen Nowell",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Jaylen Nowell\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Jaylen+Nowell%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2019 NBA Draft scouting report: Jaylen Nowell - Peachtree Hoops",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVkJMcmdfYXQ3OUU2Q3FuSW5SeE5QVTNiQ25rX3hHcXJxMjI1cmRzNExjWGt2NjRQNldMbUlxU0xWSzd5Skk0SjhTc1pQWTRsUW5iQ1ZrY2wxc0RhYm1CSzdkMGZUUmF3dEd4dmFCRGJPWnNEVFNmV0dJMjRzR2xfUUdmQU9VaW9YVVpLN0RkRzJfREY0VGJKRHFfUGdlcTh3Mnh4aHFpU0NTelpPbmdnaURJT3o3dXJQT05j?oc=5",
+      "published_date": "2019-05-10",
+      "source": "Peachtree Hoops",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2019 NBA Mock Draft: Entire Draft (1.0) - FantasyPros",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EWlJZZkxWdVpyNDRzRk1fSkhPZ0kwaDNtVjRxUlhFODBLQVJDUDg4THM1RzVtaFg4MERjcDJybGpjTTFNZTVERWVNUFdCM0o3YmJ2TUQ2ei1qbnFvd2I0Y1lpelhnTGk4MlZaeXpqazhoQnpQVm5CeDVxcXp4d9IBgwFBVV95cUxOLVFiY0RiNjYtZGNWSjFETUZFZnBXOC11UDNjc01vcEVkX1pfaks4LUtrOUQteE1yTXJxWjNhQ25ybHZ5UXlISTBiWDMtOGliUWxoTVNISTBLU3Z5MmpyUVNZSklOejI4bjd0RmFWVHVScGdlTmJ6ZEFKdzY3dWU3TldVMA?oc=5",
+      "published_date": "2019-04-09",
+      "source": "FantasyPros",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Sam Vecenie's 2019 NBA Draft Big Board: Ranking the top 100 prospects - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUUJ0WGJMNHBab2NmMEQtSl92WHdGc3NmTFdxd1VhMGY2RDlJblRhOTRpS2UtLS12d0tEMEMydUhfRmg5LUlwQWJ6RDAxLU01QlVWWk0tVGZ4VlhBeWNsSkwzdmUwR1h4MUVJY1BfQWJxdUl0cG5iVW5oWVpIdE5LR2FYd2szMlI3azNDOGpGV0o3TTVCQnJINkQ2OWxfWDV2MWkyT1BCNjQxbVRGUGhYdTctSWZ6aW1WZ00w?oc=5",
+      "published_date": "2018-11-05",
+      "source": "The New York Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "57abde03ca12bcf40b218dd0b15dc32f9e4df26244d7ef3e2b3f396027c5d4ef",
+  "feature_eligible": false
+}

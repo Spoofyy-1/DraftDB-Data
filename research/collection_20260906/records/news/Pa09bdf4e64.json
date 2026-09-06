@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:19:00.461700+00:00",
+  "lane": "news",
+  "pid": "Pa09bdf4e64",
+  "draft_year": 2021,
+  "name": "Georgios Kalaitzakis",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Georgios Kalaitzakis\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Georgios+Kalaitzakis%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA 2021 Draft Prospects - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DZmloRHV5LVl1RUFyOGppRVBmdUZ3TTdhYU0zR21fNkNyekpVdEp4UmctbXBIVE93MXdpd2owdlF0dGg0YWFaWTNVSVdhRWJxTDR6UWhnaGpwNC1nSmVWMVNwT0hVcDZjUU9F?oc=5",
+      "published_date": "2021-07-07",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Kalaitzakis 2022 - paobc.gr",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kMGNTc3Z3TkxCSjV5UjF2THRwT1RDbjhuX1RaNnpxOC03NDJid3FyM00xOGhCYzEwSEdjdS1Ocjl1Q1VlRFUzbi05STNYNm9NYXJWN0Jlc3o5UUY0?oc=5",
+      "published_date": "2020-08-11",
+      "source": "paobc.gr",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Panathinaikos link the future with Alpha Diallo - BasketNews.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORnB6eFJSLUswd3VNVFFvNUxrQ2dlTFdjY0MwRzQxQ2NGVkhtNDg2eVFjRU0ycHliYlNqVFNLNGFjaHdLWEtaOGg2YjllNGZ0R3NzVXo3SE9Vc25SYzdkTElUQkN6WGNxVHk1OXREMUlIdkl2dEZWdlJPeDJlTWFSZGpKQ196T3huaHZiMUg5X1Y?oc=5",
+      "published_date": "2021-07-24",
+      "source": "BasketNews.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "List of early-entry candidates to withdraw from 2020 NBA Draft - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcWZqRU1HWXJKaVVOTTFkSGp4eXBDTXZoM2xuTF92T28ydUVLeTVwSzNlc3pBLTBkSTV0QmlFZmh5ZENMemV1ZlZNU2JqT29aLTdiNHJaNUx1QzZTdlpSTTduWHFjYVYxWW5rX1JPVndycDdxVnpjajJONVhza1FDN0ZZWW94dTBxOEFjZklVdnluRmZVMU1EY2ZnZW00S0NPRFhOX1ItSlphbVlJ?oc=5",
+      "published_date": "2020-11-09",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 4,
+  "response_sha256": "b75421b163ac9fe773a9f2cd5796ba5db74765f0fcaf75d16d374803b6d4892d",
+  "feature_eligible": false
+}

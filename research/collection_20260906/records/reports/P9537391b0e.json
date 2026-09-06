@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:18:58.833953+00:00",
+  "lane": "reports",
+  "pid": "P9537391b0e",
+  "draft_year": 2019,
+  "name": "Caleb Martin",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Caleb Martin\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Caleb+Martin%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Nick Kovacs, Springboro , Wide Receiver - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55MWV0SzhFSUFaVzR0M0JIYUdqVnNDLWhnaFpoOWlMNkNNc1lOMkd1RVJRR0VDVVBjRGNNUXZWX01ZV0RpTGFhd2FWSzdFcHVLODctUkpLcGNZRGM5bTlXOFBLUHlJUGY5UTZXRjVsYXBaa3JF?oc=5",
+      "published_date": "2018-08-31",
+      "source": "247Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "0e870ea4ca36cc47292123baf10e608d520fdafbe2bd2cb6adff48615d230df3",
+  "feature_eligible": false
+}

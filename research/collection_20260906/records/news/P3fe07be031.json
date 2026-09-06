@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:13:43.385866+00:00",
+  "lane": "news",
+  "pid": "P3fe07be031",
+  "draft_year": 2021,
+  "name": "Lydell Elmore",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Lydell Elmore\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Lydell+Elmore%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Lydell Elmore transfers from Livingstone to High Point - HBCU Gameday",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY0ZzUm50MmQzQ0E3eHhTOU1MNlJjeWxIMmNrSkk1VnBZMHFUUkx1N216SGVnd1gwcU1mbFRJeWgwbEJfVmJ5TmRMMmRTeVNXaW5WZWxXQ0wzNlRUd3g0Q2lUSVFSMjdQd0FwY0dJejNGazlUWFN5bHduT2FRSy1wTGFuRVNaRWNWcGIwWU1STEVqUVNC?oc=5",
+      "published_date": "2020-07-22",
+      "source": "HBCU Gameday",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Elmore and Wright Power Panthers to First Win - wfmynews2.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYnJUOS00OHJPUjRuYmJkdzkycE5iMFVrOFpnVEt5OXVmTVgyMy1NSVZHU0E5SlpfMDMzVjZVOEhBSkFuckU5WWlsQXdUaDk4Z0pEaVFfT0NjcS1JZUY2ZjZDRldCcl9hdFdiQVkwdzM3U2V3QnM4b0lqTkNNZjYtak5LS3RCajFJT0FlUklBel9oeWJqNHZ1U0dtTE9xT3J5SFpFdkNpSEJ6Vkx3VHQtRXE4ZVZjWlgzY2t0SmV4M0YzenVoak83QkJrX3lDWFAwLU4zaVZIc2Q?oc=5",
+      "published_date": "2020-12-05",
+      "source": "wfmynews2.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA announces early entry candidates for 2021 NBA Draft - sportingnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGtCd05CUnBOaVg4bC1sa2Qwc0lsX2VrZjVPbDJ3RFdQZWJJcl9aZThWcFhZZUwxdm5mTmpfZloxTENnTHlOWkIwMUxBZmlEUGVzY3dHRjZoelJNZ1YxWGx6WlkyNkhvMDNobXpNZV9RT0hNWWxmdm55SS1pTnJ2Q25TaGFjWFdFWUViZHBuNnJnX1dtalNPdFh2V3V3eFp2TjE0VDZNM3lZNDk4ZGpMclpReHd5VzNyME8ybnFyNlc?oc=5",
+      "published_date": "2021-06-02",
+      "source": "sportingnews.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Who's In and Who's Out of the NBA Draft? - NBA Big Board | Rafael Barlowe",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1idUk5bDQyb1Q2MTVnUzRCeHM4WFo0VHB2aHhXZkhjX0hVYzhzeVhuUUdQTDRTOW0tanVMMWtyc3M3N3pLOTZXVHFMMjlyMUxvZHozWHlpR1ZZWXAzeXpaNWU1NkRYcldkRVFqQkF1amhwbW55UlZpc2hmOA?oc=5",
+      "published_date": "2021-07-20",
+      "source": "NBA Big Board | Rafael Barlowe",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "76fe05428ca7ecda04e8c7d13e2848c150548294059ffc4ec0649b3eefd16754",
+  "feature_eligible": false
+}

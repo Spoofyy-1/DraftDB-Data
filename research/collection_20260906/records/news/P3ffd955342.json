@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:13:46.667447+00:00",
+  "lane": "news",
+  "pid": "P3ffd955342",
+  "draft_year": 2021,
+  "name": "Gabe York",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Gabe York\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Gabe+York%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Gabe York | Guard | Indiana Pacers - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rTUJqemR5WkdXQTNvUnhhak5FYm13NGFtRlNQMTdmVnY4VTR6Tk8tbTItVnMxcFJkOXlmVXMwbWtYVWJMVkRWMVVTUFl1WldUNWRMdG5Jbw?oc=5",
+      "published_date": "2020-11-17",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bonzie Colson earns Basketball Champions League MVP award - Eurohoops",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZTREVGRGSU92SzdSTWQ5ajNDM0kyamVzWG5aYndXa05aclJ1RjlRVFNwczVWZUJyMlZLSTFDakVlaVpkX2FSb2U3SXdPT1NVNzNFcFRfTmhoWnV3WnRqNmh0UENwamwyV1NHSHU2NTRYeGZhMGFqVGdvTkFmSURHc2JTVGY5amJYLWJBbjFtVl9xM0k0Z25tbWNNLVlack5xQWh3ZGFiNVJiSXdmb1RveQ?oc=5",
+      "published_date": "2021-05-07",
+      "source": "Eurohoops",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "188eecaa4693969a132a336c453dceaab1bf397eb3182e5e4f80db8366433076",
+  "feature_eligible": false
+}

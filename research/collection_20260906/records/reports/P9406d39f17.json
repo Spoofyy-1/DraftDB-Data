@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:18:55.516377+00:00",
+  "lane": "reports",
+  "pid": "P9406d39f17",
+  "draft_year": 2019,
+  "name": "Gabe Vincent",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Gabe Vincent\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Gabe+Vincent%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Gabe Vincent Fantasy Basketball News, Rankings, Projections | - FantasyPros",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDSURBdWxRMHRvUGF6MWdZMmVKNHRPNS0ydlFfVVBlU0lySTlxc1BFTmstVUVlbnNzbHdpQThmR2hGNGVWVHhFX1dGR1pPdHlvcHFKREV0OVhnQk9GSXZVUk1EX1FaNXc?oc=5",
+      "published_date": "2018-10-05",
+      "source": "FantasyPros",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "e7fbeee42c46048085f545df020dac0100c745657eb52a9492693c90ae86011a",
+  "feature_eligible": false
+}

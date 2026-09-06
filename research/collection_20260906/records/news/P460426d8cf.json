@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:14:27.068485+00:00",
+  "lane": "news",
+  "pid": "P460426d8cf",
+  "draft_year": 2021,
+  "name": "Jonathan Baehre",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Jonathan Baehre\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Jonathan+Baehre%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "PHOTOS: Men\u2019s Basketball vs. Clemson - Georgia Tech Yellow Jackets",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT25vU2h1bGxtZnRNcEgyQWgwUEJkLTQyVkUyWmtVNnlnajRrSkhGeWNMcHlfZUhjUGNCaHItR01pOUlIWTZDd3RBcUpTelYyRUdFZWJYb216NWk2Mjl6WHNkeGVBMVFBeEotNzRBT2dua2hZeWFwQVl6SEhTTFh5NHlB?oc=5",
+      "published_date": "2021-02-12",
+      "source": "Georgia Tech Yellow Jackets",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2020-21 Seniors \u2013 Men\u2019s Basketball Spotlight - Clemson University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZFM4c1JkZW43RFpqaHFJeG53dkhvaG9MZE8xM1M5N2RLbE9qWnNCdWRhLW5vak10dUZCQThOTjhKUWl2R1hGOXVwX2ZUU1FNdnQ3aE9lUG84bklWV0tWTk9wcEJyM0t4YzJZa1A3dmlBTkl4MmJ1cjViVzVJSjRFcFpzMGwxbU85OWhZ?oc=5",
+      "published_date": "2020-10-26",
+      "source": "Clemson University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Clemson basketball loses Olivier-Maxence Prosper to transfer portal; second player this week - Greenville Online",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQc1I5WFNQQ2NKWkhjTjNrUzlROW9Hd1M5ZjlZNGw1ZEtjVDNyWGVaQWhrZlBuTm10Wl9yM3FJR0o5LXRJcl9HaGlIb1ZmVlVEOWIyNEFvZjBYZ0R5RTNrZzVRTDVPRm5qekNfTjFpWHZ2bTN4RkdQekg2WWd4ME5FUmppMDc5TVd2aUtIcE9ZS0R3Z2hQWnE5MjhPV3RTUUdLTFFtSFIzTDZmYkFqRk4zcjdsbGgtSFpRZTdhX29LQjRLVVloWHRpVnlLUDBBSjBudF9WbQ?oc=5",
+      "published_date": "2021-03-24",
+      "source": "Greenville Online",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA announces early entry candidates for 2021 NBA Draft - sportingnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGtCd05CUnBOaVg4bC1sa2Qwc0lsX2VrZjVPbDJ3RFdQZWJJcl9aZThWcFhZZUwxdm5mTmpfZloxTENnTHlOWkIwMUxBZmlEUGVzY3dHRjZoelJNZ1YxWGx6WlkyNkhvMDNobXpNZV9RT0hNWWxmdm55SS1pTnJ2Q25TaGFjWFdFWUViZHBuNnJnX1dtalNPdFh2V3V3eFp2TjE0VDZNM3lZNDk4ZGpMclpReHd5VzNyME8ybnFyNlc?oc=5",
+      "published_date": "2021-06-02",
+      "source": "sportingnews.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "2d11edf9dfa7d90e4b59d8e1aa99e97df3e78453bba15a89876afb8223ae5835",
+  "feature_eligible": false
+}

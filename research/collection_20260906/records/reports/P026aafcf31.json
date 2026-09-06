@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:14:06.970535+00:00",
+  "lane": "reports",
+  "pid": "P026aafcf31",
+  "draft_year": 2019,
+  "name": "Devontae Cacok",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Devontae Cacok\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Devontae+Cacok%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "UNC-Wilmington's Devontae Cacok Is the Most Lethal Post Player in the Nation - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYzEzMEZMUXpzTHZwVVhFWkJWYnF4dVpHU0prRFNYY01DaWNCSjJ6ZnQxSnNaWTJsMWlnX05nWTUwQTVSUzJIaGZGOThUejk1QmZaM2U4N0hVU2k1c0tyVkZKcTVONlRzcXltZlEzUDNCWlFHdkJWZDRvZWRsU2RvTmJidm40dTM2N1JjLWdrQXZaeDhmMzhnVVFVZ3JrUEdDeGZlU3ZwQ0p1X09Ec3lrMVZqZTl6WGZ0a1kw?oc=5",
+      "published_date": "2018-12-04",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "5716dadd3960b42d1cd827d237102ea2be7259f5c42c94e0b3ba00748fd19288",
+  "feature_eligible": false
+}

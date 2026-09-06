@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:12:12.654251+00:00",
+  "lane": "reports",
+  "pid": "Pbb5225b691",
+  "draft_year": 2018,
+  "name": "Kevin Hervey",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Kevin Hervey\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Kevin+Hervey%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA mock draft: New lottery order and top 10 picks - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaWVaMHRUcWVUX3VZSG9mdm5hY3FYcXpnWHNna01nT3g0OVpnWTJiU1RKZ2FoZjNXaV9ienRNZnZJLV9UZkxJZmpMaWxuMUNmeWs0QklVb3N4VENsWVhSSlFGR3Jkemc0VUxCZkxUbFlyV1NESU1XRWQ5ZFhqQ0k2LXZlMk05YWthTjJzVGFOQdIBlAFBVV95cUxOUlNLdm5CVk9DZkhaSDlTZHJvVWVIbGpmcDNHMnd0NENWNFNMWXdIMWFwbW5SOVA2bDVKY2VzTFF2emRHVHBWdlZmUW1MNlkyTW5KRDhLR1V5ZjV6M3JnWWhKZlVmTlZEd21Wd0MzaFhCM3NpVTZFYVVsZjV6RkkwTExEQTJxSGJLQXhsWWs1YmN1Yzgz?oc=5",
+      "published_date": "2018-04-14",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "d76ccdcff26627a143dffecfd00b80bde027f9c96a74370d1b6c21bfd4076837",
+  "feature_eligible": false
+}

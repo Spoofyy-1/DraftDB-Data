@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:11:15.278374+00:00",
+  "lane": "news",
+  "pid": "P082336d76f",
+  "draft_year": 2021,
+  "name": "Elyjah Goss",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Elyjah Goss\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Elyjah+Goss%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "IU Indianapolis 89-85 Oakland (Jan 25, 2020) Game Recap - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KYjlDSG9ra0p3YVJXbERqcDZ2WFRsM2tkVC1wdVFzbUlFcE1ueUdWMEg4SDF3VmplV1A1RlFVclBETWUyWmtzT05mR3V3eG1sWUFScVJ3ZW56Q3QtNEVYRmdZLUp0Y2ZrMlBfYkV4b2hGRTNSZnc?oc=5",
+      "published_date": "2021-01-25",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "d59ed17ff07d748b1f5bde0aa152890bd2ea35c3174874977efed5c53c021f5e",
+  "feature_eligible": false
+}

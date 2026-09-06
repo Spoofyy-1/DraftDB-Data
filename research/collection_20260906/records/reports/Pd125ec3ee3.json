@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T11:12:35.539966+00:00",
+  "lane": "reports",
+  "pid": "Pd125ec3ee3",
+  "draft_year": 2018,
+  "name": "Brad Wanamaker",
+  "draft_date": "2018-06-21",
+  "status": "empty",
+  "query": "\"Brad Wanamaker\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Brad+Wanamaker%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "6cd7fee4db54e2e52410f6c4f8a67459b8ddded8f90cbe4ca3c0a566baf8d6e9",
+  "feature_eligible": false
+}

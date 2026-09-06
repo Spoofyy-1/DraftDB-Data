@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:12:29.280258+00:00",
+  "lane": "news",
+  "pid": "P29e5d27062",
+  "draft_year": 2021,
+  "name": "Trevon Scott",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Trevon Scott\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Trevon+Scott%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Trevon Scott - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MOFJsOWM2Q0hvUVBpOGloV0NDRHZyMjUxQWJTbXNiZTdQdHVTMzlva0t6N2tGV2lsU0VkWlVwZ3UxdjhYZjJpaGpETExLNmtnSmw4RXhsa3A3TXM?oc=5",
+      "published_date": "2020-12-16",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Trevon Scott made history at UC this spring, now he\u2019s ready for what comes next - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSzFELXhwdmw5SE9FMHR6eFM1MmVLS0dCbHFuUXc1OF93YUZITzJRYzdrb2pHMnZTaUswejhybjI1RG0wbEFvZ0ptcEd4MDN5SlhvNkV5UkY4N1JhWHBvOXVMbnFlUkl6NTlvWDlwQnhlV2tFMDB1Vlc0eUdOY2xSTjBhRnJnT1NIVTB6elRCUnV6cDFTdTBVVFd3NGMzRFJPYnBwWnRHaE5scmszUVNpbFJjV0RSZzE3VktjNDhFczI5WDZzX2ZzakR3?oc=5",
+      "published_date": "2020-08-21",
+      "source": "The New York Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "How Zach Harvey became one of the most important players on the Cincinnati Bearcats - Cincinnati Enquirer",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPN3Bkczh3RjZMSWhnTVN0bUY0UVJTaEhsdzZydWc4RnlVRFRRWlhsYUtKNWlaaFpIQnNDTDdqUVdwX3hiSXB4YjhQSkp3QzVtTUdzeWJENkZ0S1M2Wm9Fc29OWlFwWlhieFFkMnYzR1c1ZHVsOXhBdUhjNXNUbm92S2hNUXRuNmdpZzhmbGFuclNQcFF0MllVX2I4azBGUk04a0FDeE1nbl9Sb0RvY0o2UXYwMmxObFpNOXlxazBiZldMbHE0aVFJd2RmLUxMaVFncXlQalJOME5kNG5ZbXMydTQ1SmxYdk5sN3FBc0tn?oc=5",
+      "published_date": "2021-01-13",
+      "source": "Cincinnati Enquirer",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Delaware Blue Coats face Austin Spurs in first-ever playoff game - Open Thread - Liberty Ballers",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUDd2LTRnVW4zbGNyVWJ2a2c2WERjVVdIX3lRUEpYaTZLRGJtako4cWtRVmhPUXdLQjQ3am1aYzhnRms4UTRSWXdLazVvQVgtaWV3QWQ4MU1fVDFDcEEtZnJfdjZ0OTE0ZHc2MmF1ajlZbTdDVWluaHRfSmxvNUtyUEd2TV9sYzRTd0hWU2tSanBOM3dub0tPa29mYmFHd1RBMHRaUEV2UHRrd3JiMk5GWVBRZ2ZEUktoWmhBdjBIRHljak9aQkpGTTY4Y0FDZUtOek5FaQ?oc=5",
+      "published_date": "2021-03-08",
+      "source": "Liberty Ballers",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "307a065181b181bbbc9ceea0809a5023512159afc1023da062a709c2dd3e92e5",
+  "feature_eligible": false
+}

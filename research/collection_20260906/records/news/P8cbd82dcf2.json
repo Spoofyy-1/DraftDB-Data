@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:18:03.762865+00:00",
+  "lane": "news",
+  "pid": "P8cbd82dcf2",
+  "draft_year": 2021,
+  "name": "Ty Gadsden",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Ty Gadsden\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Ty+Gadsden%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "4 Questions at UNCW as NCAA basketball practice begins - Wilmington Star-News",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWkc4cnVYZG9iSjdkellLcU9CR1hyMENZWTdIM2NKYWlyOVoxdWdXODQ5ZjVSazdaX3pmbUtVMUNZRS0wLVZwVUtWLWduVnFfS19nZXpmT3F5djJLcXVaa2hpUDU0dGtXTzM3UGNZZzF4WTFDQlJVVDRBZTBIR2liaURib09GNUt6RlFvZllYZ09DSV9ySGxpaGEyNlFvYmE0VXhFaUlCYnhabExHd1k0Z3M2RGdvVjlfbDExbzBVeDdDQXpDVVRtT3VHVnlfS1drLVNwQmVR?oc=5",
+      "published_date": "2020-10-13",
+      "source": "Wilmington Star-News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA announces early entry candidates for 2021 NBA Draft - sportingnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGtCd05CUnBOaVg4bC1sa2Qwc0lsX2VrZjVPbDJ3RFdQZWJJcl9aZThWcFhZZUwxdm5mTmpfZloxTENnTHlOWkIwMUxBZmlEUGVzY3dHRjZoelJNZ1YxWGx6WlkyNkhvMDNobXpNZV9RT0hNWWxmdm55SS1pTnJ2Q25TaGFjWFdFWUViZHBuNnJnX1dtalNPdFh2V3V3eFp2TjE0VDZNM3lZNDk4ZGpMclpReHd5VzNyME8ybnFyNlc?oc=5",
+      "published_date": "2021-06-02",
+      "source": "sportingnews.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "bdbb03540b5a4f09575d512bd979c51ac96f1297d66d7b0c96b18e1945bfb532",
+  "feature_eligible": false
+}

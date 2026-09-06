@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T11:17:20.758852+00:00",
+  "lane": "reports",
+  "pid": "P6b5b70ee01",
+  "draft_year": 2019,
+  "name": "Jalen Lecque",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Jalen Lecque\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Jalen+Lecque%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Jalen Lecque - Basketball Recruiting - Player Profiles - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYU1kSkh6aUVhdVg0Y0RsWUV0cUcwMUhCbFlQWVRYN1VBN3RfZWFZdE9zUUlKZFBZSnU0SlU4UVJHUHh5YTJ1TW9TYlJHb0JTaTdYN1UxZ3lhN2hIdEs3ZER3T3VUNVYybUhSbHNrNExnUHk4SUZHbm9MQ2hzSmNrNmlSakRxYTE4elVZUDJLWUFhUQ?oc=5",
+      "published_date": "2019-05-30",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jalen Lecque, Phoenix Suns, Point Guard - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iMFdGaHM3R0lfUFlYaTVpUnl4WGFOeVJhX2pvQTdYZzBwaHBsd052eDVZSUtqWXZ5WUhzNWFkYmFpX2tBR0xMMkpEYWVwVnUxcWY1RDFqZWpjRW5n?oc=5",
+      "published_date": "2018-09-18",
+      "source": "247Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NC State Signee Jalen Lecque NBA Mock Draft Update - PackInsider",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUVo4aG80NjluYmsya0h6U054QXdIdmZJaGdWWnJpZzdlZXFKa2l4aXY5b0REbG4tckNVbDF5S2Q4alN2d1dTc2ZyZzZrSGJ1NW5lcXluN2w5c1hnWEFuWWl1UjQycENSVVJyVFJDTWpFWU5fZDROQmFxaC1ORDR2aC0wd1BuSEVJM2xQUmtIZw?oc=5",
+      "published_date": "2019-05-21",
+      "source": "PackInsider",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jalen Lecque to Forgo Playing at NC State, Enter 2019 NBA Draft - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONGJzUG1mZzEzZjZzbkpGS1VvcGE1RUkxZkZiX2xJeC1Kb3p2OEtFWkxZTnZ1a2pTaEJpcjVzUFVNT1h2RG9HV3BvLUU0eV8yNzhsbUxmZUUxc2hpRnRhOWlnR3BrWTNHc2lVaUpKVTBpcWYya2xHM0lCSkpwN2l1NWdBMlZzT0RLRkxKeHFSVTB4NVRWdVkzT0lUSFJMUS1YMVR6RG8xNUpqUQ?oc=5",
+      "published_date": "2019-04-20",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Thunder awarded the No. 21 pick in the NBA Draft after tiebreaker - OKC Thunder Wire",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUHZ1SmJ5ZkktQ0VIa29qZGVZU2gyb3pVSVN3NUdUbkc5Y3dIMWRjbF8xUkR3Y1RkQTVBUzYwMndseTd5T3k2bTRib3d4TXdhNEM5V2k2alpQM2stdzUwSWtMUWJQb1ZzS3lJQ2ppSWQ0UEZ4aTBMX0xFSTR2MXZZMVRJTEwtNE1tSUVnT09tTllIYjVWYkFRVE1QZ0RsR21wUVNQM1VpTW5yd1RWVUdzRmtmMHdLS05PQUpYUkN2bmFFUzhJSlJrOV83Y2xzalFiRlZZdENTUHF0YXE4R2YyaHdaa0oxWV9WSlE?oc=5",
+      "published_date": "2019-04-13",
+      "source": "OKC Thunder Wire",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "b921b8127b4f4c06338fa7782f88e522e82605493d02722c33f55a015e5499eb",
+  "feature_eligible": false
+}

@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:18:33.574323+00:00",
+  "lane": "news",
+  "pid": "P9951cfb317",
+  "draft_year": 2021,
+  "name": "Damion Rosser",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Damion Rosser\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Damion+Rosser%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "UNO\u2019s Damion Rosser announces plans to go pro - Crescent City Sports",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLTNHaVJIT2c3UWVRd3NNODJtZGVEd3d3ckNPRVNQdUNhZ2JkaE5xLXg2SjVXSk1seXNsVTNvbWRnVnZOQVpieUFWaXR2VmlXMk1KenowbnhlOW5QY2JCMnhmMHQtX0twenpsMllmZ0xqeHRlTF81SWFNaDd1Z1F4ei1B?oc=5",
+      "published_date": "2021-04-22",
+      "source": "Crescent City Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA announces early entry candidates for 2021 NBA Draft - sportingnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGtCd05CUnBOaVg4bC1sa2Qwc0lsX2VrZjVPbDJ3RFdQZWJJcl9aZThWcFhZZUwxdm5mTmpfZloxTENnTHlOWkIwMUxBZmlEUGVzY3dHRjZoelJNZ1YxWGx6WlkyNkhvMDNobXpNZV9RT0hNWWxmdm55SS1pTnJ2Q25TaGFjWFdFWUViZHBuNnJnX1dtalNPdFh2V3V3eFp2TjE0VDZNM3lZNDk4ZGpMclpReHd5VzNyME8ybnFyNlc?oc=5",
+      "published_date": "2021-06-02",
+      "source": "sportingnews.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "58ecdbb8cab24905a39b0fd32603f029eb63610266f18d531681ac0cc047daed",
+  "feature_eligible": false
+}

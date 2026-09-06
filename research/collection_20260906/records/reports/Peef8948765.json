@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:13:14.667971+00:00",
+  "lane": "reports",
+  "pid": "Peef8948765",
+  "draft_year": 2018,
+  "name": "Vincent Edwards",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Vincent Edwards\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Vincent+Edwards%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2018 NBA Draft Profile: Vincent Edwards - Hammer and Rails",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT2M4UGR5SmJYQ0RuV0VkYjQ5UHFzQWpUQ3djZ1AxZEd1M21PRy1Wb012dnc1TmJ0RkM4YzF2b3F1TXdrV2tkMGdqLUg5anVNZXhJUGVWV21nUkNCd2dFbnJzSkpfQndUSlBIeDVKQWR1ejN6NnNRd2Jka04zVmdyMU5CVlpCVnZ5cXFQUC1qOWNsUQ?oc=5",
+      "published_date": "2018-06-20",
+      "source": "Hammer and Rails",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "2666a3f4ec7be0ad34a5eaf75b46ccc9a9e100a43872e1c27f274a5023687cbe",
+  "feature_eligible": false
+}

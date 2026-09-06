@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:15:15.676109+00:00",
+  "lane": "reports",
+  "pid": "P2b2d444bdd",
+  "draft_year": 2019,
+  "name": "William Howard",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"William Howard\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22William+Howard%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "WNBA mock draft 2019: Sabrina Ionescu's return to Oregon shuffles top pick - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQUVET0JSLWZIMkNDXzNmcWVaWmVEaHozeWNTRGVpdEpDdDhOYWQ3czJUUlpGckpwUkJheWE4QnJaLWc2T2hzVXk2bnNKdXY2amxPRVRtclQ1U2RJcURLWE1RbXc3clRCeXR1MWhiZVRsVDBTVVpLRGVtUndOamdMSFE5TDdud2NSMmNFRFN2cVZEdW56eEN3a0g4NGVtZ1lfZmVoWmk3eXdscXNndHUwaTFaT2w?oc=5",
+      "published_date": "2019-04-07",
+      "source": "ESPN",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "7b58923b30773efdf21ac6a23cf7da56d4320ad4513598f30ac9d7601afe4faa",
+  "feature_eligible": false
+}

@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:16:05.114165+00:00",
+  "lane": "reports",
+  "pid": "P47c5a2733b",
+  "draft_year": 2019,
+  "name": "Terence Davis",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Terence Davis\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Terence+Davis%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft: 5 things to know about Ole Miss guard Terence Davis - The Clarion-Ledger",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV3psWV9fb0pCSTg1RmpaWHM1WmtWRHdKZ200TFZQeTBRUnpJUTFLcVR2Ql9Wd2FJN0lSaFNLMEFScE1fb1Ayd04zTUlLR2JFZUhpaHc3ZnA5TXdCeFJnSHBCY2NXaXFIdkpHUnI4S2ZiZER1MjBTdEFENE9fUVoxb2hWMnMwQWhDbkJpSXVJTzJBMWJQYVpXNWt5MEhwSG1PeWZ4dVp0TUhUUnQtSWVoYVduU0JXaHhVb2NVcVptM2pzUjEycTVGZ1RvRW1najRR?oc=5",
+      "published_date": "2019-06-19",
+      "source": "The Clarion-Ledger",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bleacher Report's Final 2019 NBA Mock Draft - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMDF6U3N6c2lNTXJNV3VlMk4weF9sTGRHbkpaSlpwczFOSXlaM3ZZeXo1ZVVkNk9Cd3dwMWViWUpUUmxVeXN0Q2otVGxsUUVKZjk1blRvMUVnc0F5VkpfRG9MeXdpYkdoSlJaZGs2RG5IcHFEODVVRGRxWkhlWDA2VTk2ZTl3aXJ1WXVrTXVrQQ?oc=5",
+      "published_date": "2019-06-19",
+      "source": "Bleacher Report",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "0a3498a535cd70c6f11dd4d59f56ad08510a070d5c0901efe89e2ae88e346c2c",
+  "feature_eligible": false
+}

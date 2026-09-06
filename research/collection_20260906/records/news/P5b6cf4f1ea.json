@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:15:14.333282+00:00",
+  "lane": "news",
+  "pid": "P5b6cf4f1ea",
+  "draft_year": 2021,
+  "name": "Arinze Chidom",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Arinze Chidom\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Arinze+Chidom%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "UCR enters Big West tournament as No. 3 seed, first game Thursday - news.ucr.edu",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNajhBbkZJcnBwY2JVcUllMjd2UGZpVEpfbTVERGZ3Z0hiZGZ4dUk0MTl4d2NHVTNiX2VaYzNCdldJVUd0TlRjSnlmTERWOUhoU0Z4amFUdFdDMEhiUG1pT2EySlBXMFV2a0RnOW1HME13RTJwcTczdlprTGRkYzVZOUlaSVlHQzlKanlnaHV1dlRIT3lmRVJvdE5MWVJLVF9qUXln?oc=5",
+      "published_date": "2021-03-09",
+      "source": "news.ucr.edu",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Big West Announces 2020-21 Men\u2019s Basketball All-Conference Team - The Big West",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQenNwTnYzdjk1MFJxZEF6c2ZOU19nZURSS0Nyc3Zyd3hZbFZ0a0s0SVE3Zm83N2lpREY4UGlFaTczazA1aWxPenRZQlRaZFJQZWpFUktaaUtpYTBiVHFzRjZNYTZjelptY1N5R2g4bEVFQkxycWw4eTRaNjRGdXVQLTE1eGZka1VSVnc1QlgyNS0tX3pwRDY3RUlKa3pWNHlteE53?oc=5",
+      "published_date": "2021-03-08",
+      "source": "The Big West",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Basketball success might not save UC Riverside athletics - Las Vegas Review-Journal",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ3BsTW1OYmF5TFljcExGTjVqNmtIeFRRSjgzSEFZSG80X3ZEelVrMk10X2lUTjZVN19yQlkyZTR4b3JVSXh2VHNFUGE1WTVsZTlDU2ZfWVJHWlVyc1MwWmZVc1BLTG1ZXzVzUDRFY21oMW1zSXlfV1FrWUxLbWxoQzdmdGIwY3Rua3V5M0V0QWtfM3k0VU12d25jWWFZTkpPcWJBUUNCSGhmTzJZQzdwYWRUYnZtRnZxNXZRUlU4Y0t5SUlU?oc=5",
+      "published_date": "2021-03-11",
+      "source": "Las Vegas Review-Journal",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA announces early entry candidates for 2021 NBA Draft - sportingnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGtCd05CUnBOaVg4bC1sa2Qwc0lsX2VrZjVPbDJ3RFdQZWJJcl9aZThWcFhZZUwxdm5mTmpfZloxTENnTHlOWkIwMUxBZmlEUGVzY3dHRjZoelJNZ1YxWGx6WlkyNkhvMDNobXpNZV9RT0hNWWxmdm55SS1pTnJ2Q25TaGFjWFdFWUViZHBuNnJnX1dtalNPdFh2V3V3eFp2TjE0VDZNM3lZNDk4ZGpMclpReHd5VzNyME8ybnFyNlc?oc=5",
+      "published_date": "2021-06-02",
+      "source": "sportingnews.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "a93f9325eba292e90d8bf3febd4d58fa207d6e6551455b4001df2026bab7d948",
+  "feature_eligible": false
+}

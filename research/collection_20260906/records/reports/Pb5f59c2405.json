@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:11:59.563495+00:00",
+  "lane": "reports",
+  "pid": "Pb5f59c2405",
+  "draft_year": 2018,
+  "name": "Thomas Welsh",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Thomas Welsh\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Thomas+Welsh%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Denver Nuggets select UCLA\u2019s Thomas Welsh in 2018 NBA Draft - Orange County Register",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ19PNzZPWEQybklSeFB0eHJpYi1oR2ZLdWNWSXVmZWR4S2hFY0FucDRYdktGZTJhNXB2NHFqbnpGQXJlZ0xWaDNlemFzbUxvU1I4WTF5UWtjNkp3eFZDa0lfQzhUR0pDa2s0cU45YTdUWnR3UWhLZmh5Tm9vU1luM0pnWXBQQUR5ZUE?oc=5",
+      "published_date": "2018-06-19",
+      "source": "Orange County Register",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2018 NBA pre-draft workouts: Who's going where - HoopsHype",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU2ZOdUFOY1F0LWw2VDBqaFgtUmNYa0JsRW44S1RVZkRrMG5HN0VILUJ4N0FQU01XcDFsbU14SktDVXNfSk8wdHRrOEFobnVfYWRTN1lhZnJIYUVvVzFPMlR2Q0d1OEc4b3pzQmM4a01TLW52NEtSSkY2QzRRS2RhV25UREhVOC1GMXRJU3huSTFUMW9jYkZycmhlQVI5MEh1MHJDUVREUkY3RUo5eUdYOEhBWG5yRG5j?oc=5",
+      "published_date": "2018-05-19",
+      "source": "HoopsHype",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "fe1f5f087750b6e2d7188bc5984c0cfeb2ef8b5091b14f471e16966286486116",
+  "feature_eligible": false
+}

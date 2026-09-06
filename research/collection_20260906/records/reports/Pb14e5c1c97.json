@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:19:28.259518+00:00",
+  "lane": "reports",
+  "pid": "Pb14e5c1c97",
+  "draft_year": 2019,
+  "name": "Aubrey Dawkins",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Aubrey Dawkins\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Aubrey+Dawkins%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Johnny Dawkins: Tacko Fall, fellow UCF stars are strong NBA draft prospects - Orlando Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaDc4bXRSRFNBYmI4LS1jSUZzVjRaUWNfTlhZTnZDd1QzbUpPaTFtcGt2ZmprZHNXS3dTc1YwS01XNS1uZzJhckEzdlg3NzhHSEg0ME4weUpfb0ZhYUN2MlBxdVdGTGlzalIwMGNJVnhXc1k2UV9jR2gxV19Ta3NnSWVZdlh5NV9FcVVicmhrWWduMWlQR1BydEZuN2NoN1VzMnpVckZnVjhQSmJIaXhuRU1pd0FKSnRU?oc=5",
+      "published_date": "2019-06-18",
+      "source": "Orlando Sentinel",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "0f4acbb10fef7e8e5348f53fda189561ab5a55e136741eb183d16bda7e16c2c0",
+  "feature_eligible": false
+}

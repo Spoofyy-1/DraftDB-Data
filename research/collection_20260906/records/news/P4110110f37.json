@@ -1,0 +1,64 @@
+{
+  "collected_at": "2026-09-06T11:13:56.586332+00:00",
+  "lane": "news",
+  "pid": "P4110110f37",
+  "draft_year": 2021,
+  "name": "Usman Garuba",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Usman Garuba\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Usman+Garuba%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2021 NBA Draft scouting report: Usman Garuba - Peachtree Hoops",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeEZ1UHJhQlhDOUlxTHowVjdBUzhSRjFHcHhzY1VaaElXMXlPTzlXaEtVT29JMDBSaG80YlBFR3ZFV1lEUU5WbFBfc1hxTHVoOEswREhwQi1sbmloS2dWYTZPOGxuWkxyaW1yeldHVWNCRE9uaTQ5bjVTbnFJV2xGTkRaR0MzdXRoNWttWE5Hd2F1RlE3UXU3Zk1kWDJQVDdCcG1fR1FFQUhwVWNMbmFiRHZlUVpOOEpHdEgwRWw3ZjQ1S3RXZDl4eFBmbHN3QjZmV0pveGp1bjRNOGd0dTU2cA?oc=5",
+      "published_date": "2021-07-22",
+      "source": "Peachtree Hoops",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA 2021 Draft Prospects | Usman Garuba - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vYUkxUG95c3A2TlhLekN6OEJMOUVPY3JvQ1NOZ291M0o1OERsS2lRc2p0UHA4dVpsaW15WVJKWFJ0Y3c2czYydk50eV8wX1N3UXZYbEh6T1J0NkxfR3ZjNXhDTQ?oc=5",
+      "published_date": "2021-07-07",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2021 NBA Draft Profile: Usman Garuba - The Strickland",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04eGE3cXdGM3hXMFM4YnNCN1Jhb0s1MWV6T0w4ZFZXZGJ3bEJKQUpQTmN0SGpjZnRFMS05clNFbHBuOXZTb05UZS1nblpTLUVGSVFwSEZjUzBOd1p5UE1kYTUyVEw0UWRwMGVpTkZZQnZUUEU2Um1iMQ?oc=5",
+      "published_date": "2021-07-07",
+      "source": "The Strickland",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Usman Garuba Basketball Stats | - FantasyPros",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ISm1DU1hsajNxZVZsUUdyQnhVeVY0dVN3YmRTbHpqVVM3RDk4VVJUMGZFdzRvV0phX3FITE9JLVVMb2hkZDhxRDQ3bkpJNE9uYWF5b2xhY05kMmJfdmJQQ2IwczU?oc=5",
+      "published_date": "2021-05-29",
+      "source": "FantasyPros",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Josh Giddey, Usman Garuba and Alperen Sengun among top international prospects - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSE90aU1jck42QXJwMEdtTkM2QVNGWUo5eXdCMEFhRHY2aWd2SlBRQWNGRFE4WVVKT01HeDd6aDhlS1d1S3JEQm9ZYzF1UU5vUUlJRk1XS25NMTV5QUFyTVBvWl9DMjhIWVR2UFpuQS1JNFFtZ2JiSzR3M3J2enREVWVtSUx2QQ?oc=5",
+      "published_date": "2021-07-26",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2021 NBA Draft Prospect Analysis: Usman Garuba - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3lha0lVSkt6Y09jRUV6MC13MEZnYjhnWVBSdlU3OVMxUGYtaF9GelFITFBqSENrR0o5bzZoTjQtUms0VlE4UFFZQ1RkZTI5Xy1QOVVUQ2JNV285cFAyMnVTM2F3MWFhRVc1TU1uU2U4SURCbHZkSGwwbk5DbE12Y2p3TzZfa0E4NVVkZjg2VU84QQ?oc=5",
+      "published_date": "2021-07-15",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 3,
+  "response_sha256": "b6e37cace1d00ddb8131c68e4188989cf3951b131cd535ea1c9e9bc6bc4751b0",
+  "feature_eligible": false
+}

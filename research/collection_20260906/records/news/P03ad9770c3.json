@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T11:11:01.851651+00:00",
+  "lane": "news",
+  "pid": "P03ad9770c3",
+  "draft_year": 2021,
+  "name": "Cameron McGriff",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Cameron McGriff\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Cameron+McGriff%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "OSU Student-Athletes Record Highest Semester GPA In School History - Oklahoma State University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMzNTVHRfaEJOZ29FMTlMREs5UHNOSzZwZzdCdnlBWlFqQVd0cFJSaGxkN244WmZCX2JaQTVkNndrenRxb05jY3F1dm1ROGJ0a0N5ckc0TkNvbTdzdnlsMEtMXzhZODlzLW82RzBRUF9IWndZX0ZvdnhXYTJ3Q21DWm9HeHJyRjM4V1EzMHVzd0tNQlVtSUROUEVLbkloSFhEcktBemthYktta3lfem1pd0VheUJKX2Nj?oc=5",
+      "published_date": "2020-07-21",
+      "source": "Oklahoma State University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Oklahoma State basketball: Why Avery Anderson III is finally comfortable with his role - The Oklahoman",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaXJaTTNYM3RZWVdmRXVabW9iTDNQeWZQTlFBY0JyYkhSRHpqbUlCWFhFeGF0M3RWSGNRbXJyd2l1VElCM1MzSzduTUF3alJ6b2VudVdlOGpCbHBXcE45cXRUR2VmM1Q1MklmcXBXaG1leHVvV1FQVG83WDI1d25NSlhzTFV1WGY4TFR1d0xMZFhyT0JycVlvQXJsZ01MbHhXTC1YUnljZW50MDRKR3JraFBMUEluNUpDaGlHaXR6Ry16N3hrdTBPQ2VjSFZPMnRVUzNZTW05ZjNwOXQ4Sm1Kc0VqNGNrTG9jbFE?oc=5",
+      "published_date": "2021-02-06",
+      "source": "The Oklahoman",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Robert Jennings, Oklahoma State Cowboys, Power Forward - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUaHB3Qno4ZFFrN1lJOFdGR1FYTWV4cExsTVNEbURUQmNLb1pCZGRvaUdDdUJkMkp2X3JZU2EzWlNabTZsZjNaNDV2QXNpckphYUM1RDdRVHBranZpZGt4Rl9qeGg?oc=5",
+      "published_date": "2020-11-23",
+      "source": "247Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Cannen Cunningham, Oklahoma State Mutually Part Ways - Pistols Firing",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcGZhdlFoempvMHF1WnQ2dWJNdmEtLUNsYnpRZDVkVFRWNWdiRXcxaVQ2Y0ZMdkNxOEppd2p6OEozSjFiUk5PRk14OUVQRmMySE5GdkNBdjFBZy1oa1BDUjJFeUU5U29feHg3VXRiWTl6NXdiajM1eFRoN1hFU0xkMWF3Z0oyYkJxMEE?oc=5",
+      "published_date": "2021-04-08",
+      "source": "Pistols Firing",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Oklahoma State basketball: Cannen Cunningham leaving to manage Cade Cunningham in NBA - The Oklahoman",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWkRudjNqQk5VNWpjNG9SY1FSLUpHTHVjRWdGZDJoenZOQzNfS1NUUVB1YWNjQXllUnU0OVhHTmlPdkIzMlUwcWs5Q3lxS0hCNUpiQ1FtbE5CRFJpaktLWlJZVVJubHFvdjBzZkstSUpwRXlIdm4ybkdkRmVpNFgwdGxnOWo1aHlPbV9oV3d1X04tU2tpem1SamtkT2sxWW9ySkd3RVZ6Nk1rU3hpZzAyS2JLLUl0UlpIbm44cGNHUQ?oc=5",
+      "published_date": "2021-04-08",
+      "source": "The Oklahoman",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "c7a10b275d075ac110e20e68d9a920ee4b7d6101fb8cf6a1ee23bea9f76d97a7",
+  "feature_eligible": false
+}

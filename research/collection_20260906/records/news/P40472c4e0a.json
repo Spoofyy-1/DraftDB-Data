@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:13:49.944015+00:00",
+  "lane": "news",
+  "pid": "P40472c4e0a",
+  "draft_year": 2021,
+  "name": "Sam Cunliffe",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Sam Cunliffe\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Sam+Cunliffe%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Evansville basketball's Sam Cunliffe opts out of upcoming season - Courier & Press",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONXlfR1QyeE9xOU9XWjhhNF90Tzl6cnA5TXFtTm1uTTRQYUdnRGc3ZjlodWZfQ1RndnZraTJLaDl5S1VPTnE5VGlvN09KNHhJUE9SenpzenMtQUd2c0Y2THBzZVM2X094ZTF3T2M0VGlHaWdmWGd1cG9qRzNnTXVsa0U1MEVnRGc0QjV4Wkw4UGI3dVFrMWR6ZTBEak5wVjZUckRUTmVELVRkb1V1MzcwNEJrbVU1M2F6cXQ2OExfQlBhcHh4YzlOZ01aSF9kNm9VTGFlWG1CVkVuZF81?oc=5",
+      "published_date": "2020-10-28",
+      "source": "Courier & Press",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA announces early entry candidates for 2021 NBA Draft - sportingnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGtCd05CUnBOaVg4bC1sa2Qwc0lsX2VrZjVPbDJ3RFdQZWJJcl9aZThWcFhZZUwxdm5mTmpfZloxTENnTHlOWkIwMUxBZmlEUGVzY3dHRjZoelJNZ1YxWGx6WlkyNkhvMDNobXpNZV9RT0hNWWxmdm55SS1pTnJ2Q25TaGFjWFdFWUViZHBuNnJnX1dtalNPdFh2V3V3eFp2TjE0VDZNM3lZNDk4ZGpMclpReHd5VzNyME8ybnFyNlc?oc=5",
+      "published_date": "2021-06-02",
+      "source": "sportingnews.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Who's In and Who's Out of the NBA Draft? - NBA Big Board | Rafael Barlowe",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1idUk5bDQyb1Q2MTVnUzRCeHM4WFo0VHB2aHhXZkhjX0hVYzhzeVhuUUdQTDRTOW0tanVMMWtyc3M3N3pLOTZXVHFMMjlyMUxvZHozWHlpR1ZZWXAzeXpaNWU1NkRYcldkRVFqQkF1amhwbW55UlZpc2hmOA?oc=5",
+      "published_date": "2021-07-20",
+      "source": "NBA Big Board | Rafael Barlowe",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "d6c7f599aa5c0dfe33fa3a58ac23795367bbea34b35479d4d57fa1d9c2abbee8",
+  "feature_eligible": false
+}

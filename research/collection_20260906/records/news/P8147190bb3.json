@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:17:16.123399+00:00",
+  "lane": "news",
+  "pid": "P8147190bb3",
+  "draft_year": 2021,
+  "name": "Jock Perry",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Jock Perry\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Jock+Perry%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "UCR enters Big West tournament as No. 3 seed, first game Thursday - news.ucr.edu",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNajhBbkZJcnBwY2JVcUllMjd2UGZpVEpfbTVERGZ3Z0hiZGZ4dUk0MTl4d2NHVTNiX2VaYzNCdldJVUd0TlRjSnlmTERWOUhoU0Z4amFUdFdDMEhiUG1pT2EySlBXMFV2a0RnOW1HME13RTJwcTczdlprTGRkYzVZOUlaSVlHQzlKanlnaHV1dlRIT3lmRVJvdE5MWVJLVF9qUXln?oc=5",
+      "published_date": "2021-03-09",
+      "source": "news.ucr.edu",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Who's In and Who's Out of the NBA Draft? - NBA Big Board | Rafael Barlowe",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1idUk5bDQyb1Q2MTVnUzRCeHM4WFo0VHB2aHhXZkhjX0hVYzhzeVhuUUdQTDRTOW0tanVMMWtyc3M3N3pLOTZXVHFMMjlyMUxvZHozWHlpR1ZZWXAzeXpaNWU1NkRYcldkRVFqQkF1amhwbW55UlZpc2hmOA?oc=5",
+      "published_date": "2021-07-20",
+      "source": "NBA Big Board | Rafael Barlowe",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA announces early entry candidates for 2021 NBA Draft - sportingnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGtCd05CUnBOaVg4bC1sa2Qwc0lsX2VrZjVPbDJ3RFdQZWJJcl9aZThWcFhZZUwxdm5mTmpfZloxTENnTHlOWkIwMUxBZmlEUGVzY3dHRjZoelJNZ1YxWGx6WlkyNkhvMDNobXpNZV9RT0hNWWxmdm55SS1pTnJ2Q25TaGFjWFdFWUViZHBuNnJnX1dtalNPdFh2V3V3eFp2TjE0VDZNM3lZNDk4ZGpMclpReHd5VzNyME8ybnFyNlc?oc=5",
+      "published_date": "2021-06-02",
+      "source": "sportingnews.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "From Team Manager to Division I Award Winner: Dom Pickett\u2019s Basketball Journey - Joker Mag",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tVUVLaGRkWG05LUluX04xem00YUh6MjdETUI5SGZ3eURzTFlVTmV3M0tXcEFzSzJ1dlpTWk1xNkk1bnlaMVM1ZThmdzJ1WG1qR0R6NzQwS2JjRTdEbmc?oc=5",
+      "published_date": "2021-04-23",
+      "source": "Joker Mag",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "6ce31fee1b790cc2fe3a63931e49eb36c51d7510cd8ff024738397849da8d257",
+  "feature_eligible": false
+}

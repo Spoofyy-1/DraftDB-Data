@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T11:15:22.241424+00:00",
+  "lane": "reports",
+  "pid": "P2c24c6affb",
+  "draft_year": 2019,
+  "name": "Jordan Bone",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Jordan Bone\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Jordan+Bone%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Jordan Bone, Detroit Pistons, Point Guard - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BOVhTdjNqMUMxRE54UlNVVmtOQVllU1VucFZoT1g3aU83R1h5QnNYSXFlWElPWUhyRXhGZXI2MjRlRjUyT0tPYUtlbGxFWWRzdm5OY2g4OHMzVWM?oc=5",
+      "published_date": "2018-09-12",
+      "source": "247Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2019 NBA Draft Profile: Grant Williams is a relentless overachiever that you need on your team - Rocky Top Talk",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQWtYQ2o4WDBaY0NlSGtOUk43S3JmcGJQQXZPTmhvWWlQWENDbXlTWGk2enktdURQclcwRjRCd2RPaENxejFuRHBzc0hCUVBndldaUlk3YkZuaG1iNzNyejc2SGVnai10REY5NXV1NVlkZXlldmxfVDluY3FOMzI1Z3BoT01nb2plMVJ6TnRwNkY0ZnZEeXJmOW5sMm5lc29FSUktYnhmN3FCRVFHaTd1LS1JMHFfOHR6Um1CRkFLNA?oc=5",
+      "published_date": "2019-05-24",
+      "source": "Rocky Top Talk",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2019 NBA Draft profile: Grant Williams - Celtics Wire",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUkMzeUxaUzVfODZObTNNc0IzNU9Kcl91bjh3bUhFOXl5eDJJVXVDcDhLZUVKZWx3ek9aRThIR1ZxLWc0OUhxVGFoMHItM3FKaUNPeXhacTltWjJDRVNuYWNjVjBUVVd5SUN4RXBabDd5SUlVeDZYRHNMeUFvUVUyNzlsb3dvVVdiYWdMa29BSWFCc1lGamszUV9BcUdmdnpFV1cwRVYycFZEVzQwMFpVNGRER2V6MzFfS1FV?oc=5",
+      "published_date": "2019-05-22",
+      "source": "Celtics Wire",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2019 NBA Mock Draft 6.0: Projecting All 60 Picks After March Madness - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbE1uM1RleGRQRzBhYk9zSWR1ek5qenUtMW5rWUFlMWFXQzlvUmhyZFpzTXl3ZGYzRU9KUFVqUlY0U3A2RDVIQUhKRDVGQnNwQVVLQnZzMVBpclNuZHFDRzFRaEYzNDJWaFU2VlNmSndONlAwdld2aWtIRlpiT3NXc2Vka2lEZUZBZU0wODdmeTFRbzQxcWZxYzlPOE9acExNYVZNSUhkSnZuVTFsVkQ5dXdmTQ?oc=5",
+      "published_date": "2019-04-09",
+      "source": "Sports Illustrated",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Tacko Fall shatters records at NBA draft combine, while Bol Bol among big disappointments - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcER0dm9URWtaNFBwZWdMWlR4T2g5UUNVN2N2T3RjaXZXOS1UckhVQjFrQUdlQXlDNFpCN1BfQi1VNGhQbWQ4M2JJZ1p4TTZZYVhOQkRNUHVWZDVFRmpvTkhrZVpvVzBZUHFiekozeFRfYW5wdnJZaVdkSmJ6cUxHTGVuWFRleHMwTTNoU1ppbFlld1pDV0NqeWJIV21aSDhGb1FpdmdqcUJIZUdPb3pOOVcxbXhzTGtEWEZxM0NGb1lrTkJrYXM4enpn?oc=5",
+      "published_date": "2019-05-17",
+      "source": "USA Today",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "e142eb76343af51036d88a722d9fac5cfecfba93d4ccc4c805ed7b0404771789",
+  "feature_eligible": false
+}

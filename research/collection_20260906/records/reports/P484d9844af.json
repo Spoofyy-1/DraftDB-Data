@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:16:11.672352+00:00",
+  "lane": "reports",
+  "pid": "P484d9844af",
+  "draft_year": 2019,
+  "name": "Marques Bolden",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Marques Bolden\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Marques+Bolden%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft scouting report: Duke's RJ Barrett is more than just an inefficient, ball-dominant scorer - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNS1qWmpLYjdrZkVPdTRIRTdHaUNIRDhSRGZpd1UtTnlGNWdFSFQtSVFzSmxuUUhTMDV4RnZtd3lBVVRmQ3d2eW5ieURJdjNtbU5kX01oWVNkMzdVaFFHdEk0MUdiSEZRa3N0UWNyVkctTG5QbldBUEdUUFE1VDlqc2NLZmxEQkd3NHV3b1haQjl1YV9uMHdaOGtsVVh5eTBBYTRWRXNhWnozUERXY2llSDF2OXVhM3A1TjVlRVRfeHpUMk5CMzh0UjdRX3hTakFtbXh4QnRWMFRCSUZlVHBmcQ?oc=5",
+      "published_date": "2019-02-07",
+      "source": "CBS Sports",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Draft Profile: Is Cam Reddish The Poster Child For Positionless Basketball? - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVF9GUkVja3lWUzZsTGt3RmJweWxCTS00aVRveHZRR0QwOVQyQ0F2ZmxHY184TjhlZVphbzNrZDBWbFF0VnBhZERGQ1RtWENVNzBMX1NKcWpvX0djTGJNNDVVMTVqV1pVNjZhcE1ZcUxpNkdyLWhLTExwVXd1UkhwNXQ1eDZlT2tkVXlSTWwxa1Y5LS0xLWliTg?oc=5",
+      "published_date": "2019-06-13",
+      "source": "NBA.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Duke's Marques Bolden, Javin DeLaurier Enter 2019 NBA Draft, Could Return - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM3lXcURfYVhGOFRsS1RWbHN6LWdrSzBRQ3ZlenlZNGI2eFNJdGl1LWVRd2hzbXRURDZ4RnBXbGtDaWVVN2tLTVlIb3BXcUxoQkFfTDJhSjVBejBSS2V1cmYyUVF0aHFCdzNCSnEwNkhyczcyRDU0SlVyWG5OUHR6Qk5zMzRDSFRCVTFzdFpHWFFMenc5ZlhWcG9yZXJfcTBmT0V0Y3Zpa0FvekZud20zMXhId0w?oc=5",
+      "published_date": "2019-04-22",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "06fb6db258107ca7e95375fc37770aec7b4fb4d8267d2f1c4e96b774b39f8ad4",
+  "feature_eligible": false
+}

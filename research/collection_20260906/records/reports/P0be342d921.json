@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:14:16.738033+00:00",
+  "lane": "reports",
+  "pid": "P0be342d921",
+  "draft_year": 2019,
+  "name": "Chris Silva",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Chris Silva\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Chris+Silva%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "\u2018It was destiny for Chris to be with Frank.\u2019 Senior Day ends era for Silva, Martin - The State",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTUtBVW9aOU5hN3hKVFM2V3EyVGlaY08yT1hBdUV4STlnd0swQXBwb1l1d19fVV9od2FZQWJQa0ZGa21tZWd4SGEtVnBYUk80Zk80UEw0c2h4SkJGQ3BIbzFIY1hZVG82c01kbEhWUC1lUUNxX1RhNjl0THRhYWJscDBXenhDMWhUSlRwYWQwTlRwb0RacGQyYWlRRjlzNENhQV9tZ2YtYld0X09RRHlz0gGvAUFVX3lxTFB4cHBKWHBwOVljTk1sNGwwS0NzeWVyVnFLTDdZdTZ6UUctM2pZUjgtTEpWWnFZamdmNm1ucDlEcUpVX05BNDQ4MWJ2cXQzV3VSeHhyb1RKRmxmR0Y0dS02Wms0TzRQblltRlpwVlBQSnRIVEJuNDNIaUs1c2JhS3NPMHpiakZXS1ZJS2ZqaGxySDRXS1psWGtScmxfQU1SRGx3NThmMVRTTTlYMzdfb2s?oc=5",
+      "published_date": "2019-03-07",
+      "source": "The State",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "24bdd02373dbbe075cdf2e078b66cf78f6325887565195f8c4e0ebd66c77ea4e",
+  "feature_eligible": false
+}
