@@ -125,7 +125,7 @@ def research_state():
         for record in s.get('candidates',[]):
             if 'score' not in record or 'task_id' not in record: continue
             config=record.get('config',{}); arms=config.get('arms',[])
-            if config.get('arm')=='permuted' or 'permuted' in (arms.values() if isinstance(arms,dict) else arms):continue
+            if config.get('arm') in ['permuted','RP','PR','PP'] or config.get('bio_arm')=='permuted' or 'permuted' in (arms.values() if isinstance(arms,dict) else arms):continue
             if 'control_' in record.get('task_id',''):continue
             ident=record['task_id'].rsplit('_seed',1)[0]
             groups.setdefault(ident,[]).append(record)
@@ -146,6 +146,11 @@ def research_state():
                 complete.append(dict(id=ident,score=sum(row['score'] for row in rows)/len(rows),seeds=len(seeds)))
         if complete: s['best_configuration']=max(complete,key=lambda r:r['score'])
         matched=s.get('matched_summary') or {}
+        for pair in matched.get('pairs',[]):
+            if 'real_mean' in pair:
+                pair.update(RR=pair['real_mean'],RP=pair['control_means']['RP'],PR=pair['control_means']['PR'],
+                            joint_minus_A_only=pair['gain_B_given_A'],joint_minus_B_only=pair['gain_A_given_B'],
+                            passes=pair['exploratory_complement_candidate'])
         for statistic in matched.get('statistics',[]):
             paired=statistic.get('paired_rows',[])
             if paired and 'real_score' not in statistic:
