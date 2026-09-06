@@ -1,0 +1,34 @@
+{
+  "passed": true,
+  "models_fitted": 0,
+  "records": 3810,
+  "reference_replays_exact": 3,
+  "frozen_files_unchanged": 43,
+  "frozen_manifest_sha256": "8c90bebefbda1ea7c59d2d1320ec7e70115cf5a8f782b937e5fbdf9d0e8ba8eb",
+  "preregistration_exact": true,
+  "queue_registration_exact": true,
+  "append_log_all_hashes_exact": true,
+  "complete_summary_recomputed_exact": true,
+  "compact_candidates_exact": true,
+  "single_and_double_deletions": 1128,
+  "fixed_width_permutation_controls": 47,
+  "all_pre2019_development_only": true,
+  "no_model_promotion": true,
+  "task_archive_manifest": {
+    "sha256": "37009e013aceb2dd4f9a1af7f2b09e7a731a9ea19c58c03aa0074964e2ecb0ed",
+    "bytes": 1036429
+  },
+  "chunks": 17,
+  "original_bytes": 520580415,
+  "compressed_bytes": 127677372,
+  "max_chunk_bytes": 7919365,
+  "all_record_roundtrips_byte_exact": true,
+  "elapsed_seconds": 3171.861063055054,
+  "trials_per_minute": 72.07125263545385,
+  "verification_seconds": 38.48232550401008,
+  "verification_code_sha256": "4e8dfd25fd7d28262028fa24b2f44ad72b53a8ad186b189a84f48af54c5b2ade",
+  "summary": {
+    "sha256": "e318ac207769e01a64e7cd372905ae1bf7ad3b6915603ad83982df3c58e628d7",
+    "bytes": 3052283
+  }
+}

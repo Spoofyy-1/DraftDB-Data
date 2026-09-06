@@ -1,0 +1,302 @@
+{
+  "f50_peer_sd_usage": {
+    "name": "f50_peer_sd_usage",
+    "group": "teammate_distribution",
+    "formula": "Minutes-weighted SD of teammate usage; focal player excluded",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_peer_sd_ts": {
+    "name": "f50_peer_sd_ts",
+    "group": "teammate_distribution",
+    "formula": "Minutes-weighted SD of teammate ts; focal player excluded",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_peer_sd_ast": {
+    "name": "f50_peer_sd_ast",
+    "group": "teammate_distribution",
+    "formula": "Minutes-weighted SD of teammate ast; focal player excluded",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_peer_sd_tov": {
+    "name": "f50_peer_sd_tov",
+    "group": "teammate_distribution",
+    "formula": "Minutes-weighted SD of teammate tov; focal player excluded",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_peer_sd_orb": {
+    "name": "f50_peer_sd_orb",
+    "group": "teammate_distribution",
+    "formula": "Minutes-weighted SD of teammate orb; focal player excluded",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_peer_sd_drb": {
+    "name": "f50_peer_sd_drb",
+    "group": "teammate_distribution",
+    "formula": "Minutes-weighted SD of teammate drb; focal player excluded",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_peer_sd_stl": {
+    "name": "f50_peer_sd_stl",
+    "group": "teammate_distribution",
+    "formula": "Minutes-weighted SD of teammate stl; focal player excluded",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_peer_sd_blk": {
+    "name": "f50_peer_sd_blk",
+    "group": "teammate_distribution",
+    "formula": "Minutes-weighted SD of teammate blk; focal player excluded",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_peer_rank_usage": {
+    "name": "f50_peer_rank_usage",
+    "group": "within_team_role",
+    "formula": "(number of eligible teammates with usage below player + half ties) / eligible teammate count",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_peer_rank_ts": {
+    "name": "f50_peer_rank_ts",
+    "group": "within_team_role",
+    "formula": "(number of eligible teammates with ts below player + half ties) / eligible teammate count",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_peer_rank_ast": {
+    "name": "f50_peer_rank_ast",
+    "group": "within_team_role",
+    "formula": "(number of eligible teammates with ast below player + half ties) / eligible teammate count",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_peer_rank_tov": {
+    "name": "f50_peer_rank_tov",
+    "group": "within_team_role",
+    "formula": "(number of eligible teammates with tov below player + half ties) / eligible teammate count",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_peer_rank_orb": {
+    "name": "f50_peer_rank_orb",
+    "group": "within_team_role",
+    "formula": "(number of eligible teammates with orb below player + half ties) / eligible teammate count",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_peer_rank_drb": {
+    "name": "f50_peer_rank_drb",
+    "group": "within_team_role",
+    "formula": "(number of eligible teammates with drb below player + half ties) / eligible teammate count",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_peer_rank_stl": {
+    "name": "f50_peer_rank_stl",
+    "group": "within_team_role",
+    "formula": "(number of eligible teammates with stl below player + half ties) / eligible teammate count",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_peer_rank_blk": {
+    "name": "f50_peer_rank_blk",
+    "group": "within_team_role",
+    "formula": "(number of eligible teammates with blk below player + half ties) / eligible teammate count",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_team_share_fta": {
+    "name": "f50_team_share_fta",
+    "group": "team_opportunity",
+    "formula": "Player fta / (player fta + sum of teammate fta); null if any teammate value missing",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_team_share_three_a": {
+    "name": "f50_team_share_three_a",
+    "group": "team_opportunity",
+    "formula": "Player three_a / (player three_a + sum of teammate three_a); null if any teammate value missing",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_team_share_rim_a": {
+    "name": "f50_team_share_rim_a",
+    "group": "team_opportunity",
+    "formula": "Player rim_a / (player rim_a + sum of teammate rim_a); null if any teammate value missing",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_team_share_dunk_a": {
+    "name": "f50_team_share_dunk_a",
+    "group": "team_opportunity",
+    "formula": "Player dunk_a / (player dunk_a + sum of teammate dunk_a); null if any teammate value missing",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_team_share_ftm": {
+    "name": "f50_team_share_ftm",
+    "group": "team_opportunity",
+    "formula": "Player ftm / (player ftm + sum of teammate ftm); null if any teammate value missing",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_team_share_three_m": {
+    "name": "f50_team_share_three_m",
+    "group": "team_opportunity",
+    "formula": "Player three_m / (player three_m + sum of teammate three_m); null if any teammate value missing",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_peer_three_diet": {
+    "name": "f50_peer_three_diet",
+    "group": "roster_structure",
+    "formula": "Minutes-weighted teammate 3PA / (2PA+3PA)",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_peer_rim_diet": {
+    "name": "f50_peer_rim_diet",
+    "group": "roster_structure",
+    "formula": "Minutes-weighted teammate rim attempts / (2PA+3PA)",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_peer_defense_density": {
+    "name": "f50_peer_defense_density",
+    "group": "roster_structure",
+    "formula": "Minutes-weighted teammate (STL%+BLK%)",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_peer_creation_density": {
+    "name": "f50_peer_creation_density",
+    "group": "roster_structure",
+    "formula": "Minutes-weighted teammate AST% / (TOV%+1)",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_minutes_concentration": {
+    "name": "f50_minutes_concentration",
+    "group": "roster_structure",
+    "formula": "Herfindahl concentration of team minute shares, including focal player",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_usage_concentration": {
+    "name": "f50_usage_concentration",
+    "group": "roster_structure",
+    "formula": "Herfindahl concentration of minutes\u00d7usage across team",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_career_slope_two_p": {
+    "name": "f50_career_slope_two_p",
+    "group": "development",
+    "formula": "OLS slope of two_p against actual college season year; at least two unique prior seasons",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_career_slope_three_p": {
+    "name": "f50_career_slope_three_p",
+    "group": "development",
+    "formula": "OLS slope of three_p against actual college season year; at least two unique prior seasons",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_career_slope_ftp": {
+    "name": "f50_career_slope_ftp",
+    "group": "development",
+    "formula": "OLS slope of ftp against actual college season year; at least two unique prior seasons",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_career_slope_ftr": {
+    "name": "f50_career_slope_ftr",
+    "group": "development",
+    "formula": "OLS slope of ftr against actual college season year; at least two unique prior seasons",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_career_slope_ast_tov": {
+    "name": "f50_career_slope_ast_tov",
+    "group": "development",
+    "formula": "OLS slope of ast_tov against actual college season year; at least two unique prior seasons",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_career_slope_orb": {
+    "name": "f50_career_slope_orb",
+    "group": "development",
+    "formula": "OLS slope of orb against actual college season year; at least two unique prior seasons",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_career_slope_drb": {
+    "name": "f50_career_slope_drb",
+    "group": "development",
+    "formula": "OLS slope of drb against actual college season year; at least two unique prior seasons",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_career_slope_minutes": {
+    "name": "f50_career_slope_minutes",
+    "group": "development",
+    "formula": "OLS slope of minutes against actual college season year; at least two unique prior seasons",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_career_slope_ts": {
+    "name": "f50_career_slope_ts",
+    "group": "development",
+    "formula": "OLS slope of ts against actual college season year; at least two unique prior seasons",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_career_slope_usage": {
+    "name": "f50_career_slope_usage",
+    "group": "development",
+    "formula": "OLS slope of usage against actual college season year; at least two unique prior seasons",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_posterior_ft": {
+    "name": "f50_posterior_ft",
+    "group": "shooting_reliability",
+    "formula": "(makes + 0.7\u00d720) / (attempts+20); fixed prior, observed attempts only",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_posterior_three": {
+    "name": "f50_posterior_three",
+    "group": "shooting_reliability",
+    "formula": "(makes + 0.34\u00d750) / (attempts+50); fixed prior, observed attempts only",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_posterior_rim": {
+    "name": "f50_posterior_rim",
+    "group": "shooting_reliability",
+    "formula": "(makes + 0.6\u00d730) / (attempts+30); fixed prior, observed attempts only",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_posterior_mid": {
+    "name": "f50_posterior_mid",
+    "group": "shooting_reliability",
+    "formula": "(makes + 0.4\u00d730) / (attempts+30); fixed prior, observed attempts only",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_posterior_dunk": {
+    "name": "f50_posterior_dunk",
+    "group": "shooting_reliability",
+    "formula": "(makes + 0.9\u00d710) / (attempts+10); fixed prior, observed attempts only",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_posterior_two": {
+    "name": "f50_posterior_two",
+    "group": "shooting_reliability",
+    "formula": "(makes + 0.5\u00d740) / (attempts+40); fixed prior, observed attempts only",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_nondunk_rim_pct": {
+    "name": "f50_nondunk_rim_pct",
+    "group": "skill_combinations",
+    "formula": "(rim makes\u2212dunk makes)/(rim attempts\u2212dunk attempts)",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_rim_ft_pressure": {
+    "name": "f50_rim_ft_pressure",
+    "group": "skill_combinations",
+    "formula": "(rim attempts+0.44\u00d7FTA)/(2PA+3PA+0.44\u00d7FTA)",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_perimeter_ft_agreement": {
+    "name": "f50_perimeter_ft_agreement",
+    "group": "skill_combinations",
+    "formula": "3PA/(2PA+3PA) \u00d7 posterior FT probability",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_assist_usage_efficiency": {
+    "name": "f50_assist_usage_efficiency",
+    "group": "skill_combinations",
+    "formula": "AST%/(usage+1) \u00d7 (1\u2212clip(TOV%,0,100)/100)",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_balanced_stocks": {
+    "name": "f50_balanced_stocks",
+    "group": "skill_combinations",
+    "formula": "2\u00d7STL%\u00d7BLK%/(STL%+BLK%)",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  },
+  "f50_foul_adjusted_rebounds": {
+    "name": "f50_foul_adjusted_rebounds",
+    "group": "skill_combinations",
+    "formula": "(ORB%+DRB%)/(fouls per 40+1)",
+    "source": "Bart Torvik public player-season CSV; explicit raw box-score fields only"
+  }
+}

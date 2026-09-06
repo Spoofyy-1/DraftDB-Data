@@ -1,0 +1,25 @@
+{
+  "study": "r9a",
+  "unit": "draftdb-r9a-20260907",
+  "systemd": {
+    "RuntimeMaxUSec": "2h",
+    "CPUQuotaPerSecUSec": "22s",
+    "MemoryMax": "150323855360",
+    "ActiveState": "active",
+    "SubState": "running",
+    "InvocationID": "fbe98609bc20429c8ce51bf1763677ef"
+  },
+  "tasks": 3810,
+  "workers": 4,
+  "CPU_preflight_passed": true,
+  "Z_verified_before_launch": true,
+  "updated_epoch": 1788715993.014076,
+  "first_snapshot": {
+    "status": "running",
+    "completed": 14,
+    "total": 3810,
+    "active_workers": 4,
+    "error": null
+  },
+  "references_passed": 3
+}

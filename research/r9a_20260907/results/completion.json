@@ -1,0 +1,11 @@
+{
+  "status": "completed",
+  "tasks": 3810,
+  "scheduler_counts": {
+    "snapshots": 811,
+    "summaries": 137
+  },
+  "elapsed_seconds": 3171.861063055054,
+  "workers": 4,
+  "no_model_promotion": true
+}

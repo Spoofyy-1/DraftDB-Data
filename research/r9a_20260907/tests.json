@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "models_fitted": 0,
+  "schema_complete": {
+    "single_deletions": 47,
+    "double_deletions": 1081,
+    "permutation_variants": 141,
+    "fits": 3810
+  },
+  "exact_full_X_references": 3,
+  "missing_reference_blocks_interpretation": true,
+  "all47_permutation_mask_cohort_marginal_and_reproducibility_tests": true,
+  "unaffected_values_order_and_original_immutability": true,
+  "rejected": [
+    "raw_prediction",
+    "canonical_prediction",
+    "future_label",
+    "constructor",
+    "unregistered_predictor",
+    "unregistered_permutation_seed"
+  ]
+}
