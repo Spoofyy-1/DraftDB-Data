@@ -1,0 +1,64 @@
+{
+  "collected_at": "2026-09-06T09:58:54.996595+00:00",
+  "lane": "news",
+  "pid": "Pd6f3aa739f",
+  "draft_year": 2007,
+  "name": "Jason Smith",
+  "draft_date": "2007-06-28",
+  "status": "ok",
+  "query": "\"Jason Smith\" (draft OR scouting OR prospect OR basketball) after:2006-07-01 before:2007-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Jason+Smith%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2006-07-01+before%3A2007-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Jason Smith Remains in NBA Draft, Selects Agent - Colorado State Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeWlLVjByVTRmbGdPNE5HWWJmanZTVVNBYkNXVnJqV1RmVmRySFZyU0pXQUVfNDROeHFZNy1HMlgyNXIyNVEtZTVTb0Z1THczVFMwV3pkaFpqc0psN3QtZE5nMXZyUUJ5dVVabG53MjlwQ0FaOThHR1YtN0J1LS1icDZBbFB6RDFO?oc=5",
+      "published_date": "2007-06-18",
+      "source": "Colorado State Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jaycee Carroll Named to United States Basketball Writer's All-District Team - Utah State University",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ0lCYW1QZ2ptLWNHR3FxS2p5M3I4UXppblJCQkdmRkI2Vmk2ck9JMUVpME1YN2NzWnRMeDM1b19yVHJjTV9HWjQtZG1kUzNLS24xaFZnQ2xCN1gwTDZaWEFxOFI4NFV6UTkyZnNWTUY1V2RndVBYUXVyZXZDdm83WWR5RHN1bjctcklqX1NQX2hFaDFqZ2YxVG8taXhhVVdMNDhmem16WHE4dw?oc=5",
+      "published_date": "2007-03-08",
+      "source": "Utah State University",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Game Report, Greece v Australia 72-69, GROUP C - FIBA",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa2dtdzZaYTBUOHFOdVphX2JtWld0VTBNTTUyQTBfQ04ya3FQMmd2anY2bm96UHQxT1NqSkZSV0RDZXF6VWlLVjVucWdYZEo2c2otdVFNZVhMM0plZ0tabTNIeFpOaHpvTDB4djFtSHVXYkJRM3VaLUVQWTBOcGFib2E0SUVhM3M?oc=5",
+      "published_date": "2006-08-22",
+      "source": "FIBA",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Opals and Boomers Squads Named - olympics.com.au",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE85M1hUaXZiTnZlZ25oYndOLTVFa25ibDExdDh5ZWl0YUUyYm03TDRYRnlVemdyVHU3RHQ0dldxNWd5SmJCWUcwN0hROUU1UUtucS1BWFcxQ3hQQUZ3OFVXZHdSOEdzX3ZEdUpfdFdMSnVpQQ?oc=5",
+      "published_date": "2007-03-13",
+      "source": "olympics.com.au",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jim Williams Passes Away - Colorado State Athletics",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GN3FDWnFNVzZpa3hCcXJ5NTExS0ZYYmtRSkNFVUtfWVZYa2JYTjJIWmpMNGNWVVA0d3QwbEp5eXlkSmQ1Q21UVGJyUWRCMzh3UnhUekc0QWlzczhhVWJnMkpObTRJQWJ0RGpz?oc=5",
+      "published_date": "2007-05-31",
+      "source": "Colorado State Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Creason double-double trouble for cold Frogs - The Denver Post",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQclNWOUdSc3JDWEN3VFBYRWlaMGxuQzVLa0NwV3hval9EVmNZUkZ0X1dWR09mRW15SmZyRHBQSmk2OTYxdWpEbW1LbjhDSzl2QTFVVWZyeUJtWnZpRUU0U2lNd3hGdWZJVzQ5WWptbnhrNGFyanJ2bUNPWVpSbXU2bTJucFJKTkJTQS1F?oc=5",
+      "published_date": "2007-01-17",
+      "source": "The Denver Post",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 4,
+  "response_sha256": "fbd7d1b9b5ce24ed976538409055a07725a789ba3b31209117be207802b6f4a9",
+  "feature_eligible": false
+}

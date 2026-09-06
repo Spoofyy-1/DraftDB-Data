@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T09:58:15.350750+00:00",
+  "lane": "news",
+  "pid": "Pba0c961d37",
+  "draft_year": 2007,
+  "name": "Al Horford",
+  "draft_date": "2007-06-28",
+  "status": "ok",
+  "query": "\"Al Horford\" (draft OR scouting OR prospect OR basketball) after:2006-07-01 before:2007-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Al+Horford%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2006-07-01+before%3A2007-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Vitale on Noah: He was just kidding baby! - Sarasota Herald-Tribune",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU0Zxd09nejkzWWJBUFRnOWFZODRvMXVaSVFyV3NyLW51UnZlYzMzR1JRQ3NoTlQ4YTV6b21TWXlrcVVXcG5Jb0hHNXA2QWY0MzVlaVBDcEtzbVNyU2IycVhGcmlIWDlOMi11SU9XaENycDY1Z1hRU3J1UE5UTHp5Z0I2M0NNeGg1Q0ZLQjUwUjVKMV9vWHFJODRmY3YyYkxWbzRfb3FiSQ?oc=5",
+      "published_date": "2007-02-28",
+      "source": "Sarasota Herald-Tribune",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Who's the Top Gator? - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObzJRTDE4ekdrcTBWMWtJenRDbEJCWlh3S2JQQ0tHZ2pOUHdmdFJwZGhacnRrME5wN3hDR3ZBdVdMeS00cU9BTUc0SXBIanhfbFRmTUh5NnRiMkJJYTU1bk92NE1TR3A1d3dEbV9JSTZHM3BGTHB0Mm5nNDZkV2JSNU9wVmViU29G?oc=5",
+      "published_date": "2007-06-25",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Al Horford is showing nation why Gators are so tough - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNV9udTBsT29kNjZRckJwR3dYUG9NaUcxQWF4UzROZTlRM0JkQU05R20tZEJpcDdFN3FuNTBKN1RjZVFZM0NnamExR3FkSVpfcVYzb0hodmpIWVNxM3VSNHRJWTYyQTZYUEwxVy1UdGFTTklYdDEwU1VyY3l1SXVPamVLYThmZnhudGNZRHFYQmNHRXlvYWxqZ0JBNWxuQkl6dTRJZE9MSU5mSlZzb0tpalpHR0NFZw?oc=5",
+      "published_date": "2007-03-22",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Gainesville is Noah's kind of town - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeExXOUJ4bGpQS2F2Z21FSnptRHhGUjFVMW1KVFFzYklDQmRDS3JONGk5WnlOSkJrX3VnR2dTdHh0dEJoTlhydGstbmR5RUU5UDZWeVdSRFdxdzZYXy1CUnNyaXJhRGNYVlpCRngwTTR4alRmVzB4djd6S2N6NEptS1Y3VzhIcWhfbmRCVVpBZ05WWnZzNDNPZXJhcVI?oc=5",
+      "published_date": "2006-08-25",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 4,
+  "response_sha256": "0be6f8614a62b5502182b03fa762bcac9de6f05d2c8c30169a2088aaa0136a43",
+  "feature_eligible": false
+}

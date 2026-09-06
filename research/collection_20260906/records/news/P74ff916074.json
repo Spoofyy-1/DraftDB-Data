@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:53:38.098956+00:00",
+  "lane": "news",
+  "pid": "P74ff916074",
+  "draft_year": 2006,
+  "name": "Renaldo Balkman",
+  "draft_date": "2006-06-28",
+  "status": "ok",
+  "query": "\"Renaldo Balkman\" (draft OR scouting OR prospect OR basketball) after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Renaldo+Balkman%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Music City mojo - GoUpstate",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaWV3ejAzR216VkUzMExsLUJ6c05MQVhxdEkyem5OekExcGF5c09YNm1oSTItNmctaldqeHVTY05WdUktcnRQWllEd0FyekpKNmxBMkhzQW1WM0pZdTltaV9YQzBoYTlXTlkyeHNmRXFmN1NoYWkwblhBQmdOWVdqRlVn?oc=5",
+      "published_date": "2006-03-09",
+      "source": "GoUpstate",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Brutal stretch continues for Wofford - GoUpstate",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM1ZGTG1Pb1NYSHUtd2p2dWFySl9LZFhsb0s4MjFha0dqbWFBdDZ2Z1kyVW4weUN1ZHZ4alRiUjV2dkJ2cHY4ckZ1UEZkeGZOWjd6WjU4T19qN0F6MlN5ZWtxcUUwR0I5bDRaM2oyZnk5elZhYW9GZmVtbTFkWHpFUHg0NWFTUkZpbzg2amhTR3JFcHJueDVvaEhLR0I3dw?oc=5",
+      "published_date": "2005-12-18",
+      "source": "GoUpstate",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "b0bcf5822db5449da75f4549a40d5a66ed7935e266546ecb6723ce0d409a724a",
+  "feature_eligible": false
+}

@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T10:06:18.460458+00:00",
+  "lane": "reports",
+  "pid": "P820aca19f1",
+  "draft_year": 2001,
+  "name": "Mike James",
+  "draft_date": "2001-06-27",
+  "status": "empty",
+  "query": "\"Mike James\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2000-07-01 before:2001-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Mike+James%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2000-07-01+before%3A2001-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "4f5071ec1bd7bbeab27305595a2415aa1684596b9cd74347db483f6f7c032c85",
+  "feature_eligible": false
+}

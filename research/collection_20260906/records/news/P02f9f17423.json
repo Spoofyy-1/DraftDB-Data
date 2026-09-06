@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:55:53.302892+00:00",
+  "lane": "news",
+  "pid": "P02f9f17423",
+  "draft_year": 2007,
+  "name": "Coby Karl",
+  "draft_date": "2007-06-28",
+  "status": "ok",
+  "query": "\"Coby Karl\" (draft OR scouting OR prospect OR basketball) after:2006-07-01 before:2007-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Coby+Karl%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2006-07-01+before%3A2007-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "For Karl and His Son, a Time for Healing (Published 2007) - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FZXQyV1hQbHYzLTY2MjZ0aXFyTEZMN1QxMzVTRXVGTHhEQVozQ3JJSWgxT1BBcHlSRVBEaEFITTRBZEZVb210VGY3cFFGcmdacHVKWFFaVnpQQ2JieW5NZTNTT0hwSjE1aHJDcDVveDZRUQ?oc=5",
+      "published_date": "2007-03-06",
+      "source": "The New York Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Aggies close out Broncos - Deseret News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84ZjdLZ0s5SXI3Yk9fM0tDZnRac2hrbEJfQXZ2T2wyMFowR2lTbVFxR3g4U3BjUHlPZ0xfV2J5UVdUcDN0ek56R19HM2RtaktaWnVBbVpYQXRpc1laWDB1Z0xZbjduSzdmamlOcjVkcGFyYWswMElr?oc=5",
+      "published_date": "2007-01-19",
+      "source": "Deseret News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "0ee2b92c70156d2217e951b7eeb0458aa47e8861572a4821b0d00006f39431b7",
+  "feature_eligible": false
+}

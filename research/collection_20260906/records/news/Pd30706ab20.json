@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:16:43.310258+00:00",
+  "lane": "news",
+  "pid": "Pd30706ab20",
+  "draft_year": 2011,
+  "name": "Willie Reed",
+  "draft_date": "2011-06-23",
+  "status": "ok",
+  "query": "\"Willie Reed\" (draft OR scouting OR prospect OR basketball) after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Willie+Reed%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Kicked off the court: Mitchell\u2019s future uncertain; Reed contemplates options - The University News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObTFqdHB3R05USGdtRjNqbWZVYk1YRkh1d3hYTXBQRFhMNE1NdnkxZHhDdllGS1llaThQSDVtQjFxS21VN0JjVTljVV9mMlN4aUM5U3hEOUk2VEQ3Um9jcFpaZUs2RDJCTkdTVVVBSFI0Zmw5WU9rLS12eFpMc2VHUURKMnRrZnNQZlhkMm83emdXX3BLWGtOWkRTWW5wb1Q2SmwyUWNGSWdPbGxib1dLMTV0MmdOdw?oc=5",
+      "published_date": "2010-10-21",
+      "source": "The University News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Reed readmitted to University, suspended from basketball - The University News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRW1UVHlkcUlROWJFUzN1U0VjbFdHLWNmQ2NCOFpTaFA1ZjU1QlNaNDVyUkJldFBSZVRDaFJYbmJIeVNUdERhQjZIWVdQd2ktSmw3RnY0aDFqcFVySlJDUGEwdkt5U0RlVE1LOVRtaUZjLVNDdE5lOS1oWjRwSmE2azBZc3E4cGdXemk2NXY3YUZoQQ?oc=5",
+      "published_date": "2011-01-08",
+      "source": "The University News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft 2011: Tristan Thompson and the 10 Best Shot Blockers in the Draft - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdG93UTQ0ZFVKeE9QVnpZYjdDbnhkeEJDNjZxWWJhLVU1YnRaWWQ3d29TY1daWHVsY1B5VWZUNGFxdENXanhCNVYyN19lUDB2Q0JkMnhVWFlsOFF4enNCSHMzMF9RMGE0YkhFWk5JLVl1STI3THZHbllrcVZySE1IWjlVNUVRN3BmVmlvajUzbmdicGR4ZFNOSVhvMUhEd0F0TFhTUnRRWFpWUW4zazNyVFFKR3VVYWp4?oc=5",
+      "published_date": "2011-06-06",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Mitchell readmitted to University - The University News",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sLVdsRFBuVlo1Wldlc0Q0ZjgtUzY5SnVxS3hBZkZBdURSYTZhVmFZSlBqUXNYVmUxLXdOMkN1Z1FxQmRtWDIwZXhGM2haNElmVnF0dElCaWZiZ1U5WWhYdXhta01ZMFI5bUV6czVtM255aWpt?oc=5",
+      "published_date": "2011-01-09",
+      "source": "The University News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "addabab899f18422c63c0dde69b0fedb369003873f3e8cc295f47bca49cede5c",
+  "feature_eligible": false
+}

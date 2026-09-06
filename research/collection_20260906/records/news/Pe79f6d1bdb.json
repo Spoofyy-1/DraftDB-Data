@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T10:06:51.109396+00:00",
+  "lane": "news",
+  "pid": "Pe79f6d1bdb",
+  "draft_year": 2009,
+  "name": "Eric Maynor",
+  "draft_date": "2009-06-25",
+  "status": "ok",
+  "query": "\"Eric Maynor\" (draft OR scouting OR prospect OR basketball) after:2008-07-01 before:2009-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Eric+Maynor%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2008-07-01+before%3A2009-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Unfinished Business for V.C.U.'s Maynor (Published 2009) - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JNVdPMkJ2cjlmcTlKdmI1Zy1sRUlLeUJGMWhKN2p6Smd3MUJnX2Q5ZW1RdDJ2aVVrU09GcGd0YjVIUU84SVcyNC1CcUhMUzBCVU1QYkFGcG1pRXltQTE2RndZWWtUWmRLeHB0LUNNbTJadVpCd3c?oc=5",
+      "published_date": "2009-03-18",
+      "source": "The New York Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "OU-VCU: Saturday, December 20, 2008 - The Oklahoman",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS1NRV2dNWUpSUWN6d2xpMTJJQWNIeXZSMTFmNW5WTmFXbzQ5MVkta3VldE82aC0zTHlfZVN5eFhabXBFNU1OU0xjRFBlR1JNekxuN2Zoank3ODk0VVZEMzBUUzJxV2ZDRGxyWmY1OGFHRk5rOHEyZThEMl9fNU1lRnhjd0sxb09jWHN6ODY0SEJNamk3SHI2THpDbGE5bGlvV3ZjQVZ0T3U?oc=5",
+      "published_date": "2008-12-20",
+      "source": "The Oklahoman",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Brock Young Named To Cousy Award Watch List - East Carolina University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWm1DRzRFeTR5MHRQaGx6YVlVb1Q5bHBScVd4MEcxU3JfMWFYVUhaSFlEYkZkSWdDc0ZUOWJQV2tqYlZlNlRfY29peHB4MWw1TF9DR0JLUWt4SnlIczRKWjI3SXhlRGdzNDNtNzdvNExHbmlZQTE4bW1qanRta18yTGhvcl9xcUVh?oc=5",
+      "published_date": "2009-01-15",
+      "source": "East Carolina University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Miss You, Josh Heytvelt: Gonzaga's briefly troubled big man - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMmtzYXE0Sk11cUZkSi1oWURJTVpMb3l4NEN5TlcxbUtXcFVQNTkwRThFSjJlMkk4UjFHeHZESnpCQUZfeXExeG1uSDRuZzA4TUpBZ3BwVk1RQnlYOG1NZkozQXl0ZDVyMk5GM3NSQkw4OUI4SS13eVN1cVZHZmdnak5mekdWeFI2SksyY0J2eDlYZFN1eHlOME52a1hBNWhMNVEwYlFhcnI?oc=5",
+      "published_date": "2009-06-12",
+      "source": "Yahoo Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Kool Reaches Milestone in WMU's 62-79 Loss at VCU - Western Michigan University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhUFRWaVB1RW8xUkNIZlVVQWQ5OTl3VF9HZzhTT0poYjR5VUpKclgxRWRVcHlvaFlDVXpZU19YSi1nZ0hXOW5jNjA0VlF5a2JfWm5GaWtrNjI3bVAxcEhz?oc=5",
+      "published_date": "2008-12-04",
+      "source": "Western Michigan University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "1f5d5b45c97df7d0cccd4d3bca4de36c4139a90f7a2e5a573c093c0732cb7875",
+  "feature_eligible": false
+}

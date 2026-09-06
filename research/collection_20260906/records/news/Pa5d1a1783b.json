@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:15:43.826808+00:00",
+  "lane": "news",
+  "pid": "Pa5d1a1783b",
+  "draft_year": 2011,
+  "name": "Mychel Thompson",
+  "draft_date": "2011-06-23",
+  "status": "ok",
+  "query": "\"Mychel Thompson\" (draft OR scouting OR prospect OR basketball) after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Mychel+Thompson%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "San Antonio Spurs assistant Mike Budenholzer reportedly serious candidate for Golden State Warriors\u2019 coaching vacancy - The Mercury News",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUXE0cS1lOVp2XzlYQXUwYTRKZFBHXzJjOVgyQXVsTW5DcUhJelFJckNlT0tESkx3WjhHeHZ0blZyQlVTSHF2S0hjZGpLRGUxNjNaY0tLck96OENuY09WUGxsbTJibktOcy1sd043WVNNRmdPdWc4bVNmNkNIZ1kyZXZzc293b0tZbm9fbWxQN1V2QkJzSEVuYU13WVBqSXkyVWNiV3VQWlB3RmRucU9zZWxsbHN1ZnoxTkJlMHpPSTFGWkQxaFR1c0hiYndDbUJUOVZsdHBvVzcyTVk4V1pXUll2Yzc2Vk9GT051M9IB8gFBVV95cUxPZHJnWmdIamdiaWNydmt4N3U0THZHdjB1MXl1QTA5VTAzbm9NcFR3YnBZWmRzQkNoUkJjZlNkNlJ5dURBQldWNHhQNmhHYkZodHBJUDBBMXlYcUktMXdINkRtU0lsb3Q0S0ZZNGFKWkx5V0hGODQ4SDVpYnRkd1F1dWN1ckZMN3lZcnVCUGZNaUIxbm9mM2xyZTQzUnVSS0dma05yMXk2QjUta2FSenFuUnM0a0N1cFN5MllyMFU0cnBYYzJSR2RpWXB1dDRicFFOelJ4TDZrTVdWdUhLd2NLdjY0d0wydXE5UV91aEFNbVF1dw?oc=5",
+      "published_date": "2011-05-31",
+      "source": "The Mercury News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "ccebe1064fa441641c10620daa204d432c2575358403d99e78627eb13e03a263",
+  "feature_eligible": false
+}

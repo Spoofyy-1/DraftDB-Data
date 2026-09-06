@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:54:50.998900+00:00",
+  "lane": "news",
+  "pid": "Pbdc6b072d0",
+  "draft_year": 2006,
+  "name": "Curtis Stinson",
+  "draft_date": "2006-06-28",
+  "status": "ok",
+  "query": "\"Curtis Stinson\" (draft OR scouting OR prospect OR basketball) after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Curtis+Stinson%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Iowa State Wins Fourth Straight with 59-51 Win over Tennessee State - cyclones.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUVFwMFBwd00wcTdTR2owRURRWXBJY3BYQXlPQlhMekg1c3FBSWY4Y1E0WDVHeXdQZ0o4YlRQeTAxNmlKaUIyd3JENnJNR3M2cUFuNVR5SjdZdEF3RVJzOF9OQWZocndWNm00Q2poazVFcEdWRHNxbFMwTDlBM0psSnMwNHNrNjQ?oc=5",
+      "published_date": "2005-12-28",
+      "source": "cyclones.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "261759c23d67b1f68b519c1e74dc1bca55dfb2e0593fc70aef299fb965ccde9d",
+  "feature_eligible": false
+}

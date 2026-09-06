@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:05:29.440932+00:00",
+  "lane": "reports",
+  "pid": "P3f83cdea39",
+  "draft_year": 2001,
+  "name": "Kwame Brown",
+  "draft_date": "2001-06-27",
+  "status": "ok",
+  "query": "\"Kwame Brown\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2000-07-01 before:2001-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Kwame+Brown%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2000-07-01+before%3A2001-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft 2001 - Potential stars make draft unprecedented - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OVVh5aXRUVEtIX2lYYjRRbmE0RHBMcDEtaUdtYVBZcktnSVplM2xjTEZVemt6ZGNJRG9RbG8xV3FNMDE5emRjSk5uN3l4SXNiMGRybEZvWUtvUTZ5WGZqTGctVUMxOFFEYVBR?oc=5",
+      "published_date": "2001-06-22",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "f9dc5b03c9a542ae78576ab94cfa74b19659f06b8a8a0241a000d7bbd36623d1",
+  "feature_eligible": false
+}

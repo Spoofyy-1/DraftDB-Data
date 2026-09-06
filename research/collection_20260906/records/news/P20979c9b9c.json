@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T09:52:01.455621+00:00",
+  "lane": "news",
+  "pid": "P20979c9b9c",
+  "draft_year": 2006,
+  "name": "Guillermo Diaz",
+  "draft_date": "2006-06-28",
+  "status": "ok",
+  "query": "\"Guillermo Diaz\" (draft OR scouting OR prospect OR basketball) after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Guillermo+Diaz%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "PUR - Diaz ready for big leap - FIBA",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43VDdRUE56UUZEenJwZlVldUZRcURuRDBoOUFKTGV5OVltemw2cHRfMUJsTlQwLUw5RGxtV1lYVUdRcmFsekFGN3JfdU12SERmZ29uTXlNNHRZY0tvOTJ0WnVlamhVN1ZzckdiWVpkaFk?oc=5",
+      "published_date": "2006-03-31",
+      "source": "FIBA",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bienvenidos, future NBA stars - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM1ZIZkdtMWNJbVZ3SjlKeGVuT1F4aWlsb3dJeEFFd2pYVl8xY1VVTWxiclBhdE1vV0hvVndQdDctemh6Wmg3XzJHNzBNR2t3WmxBOWRmYXNtR0YwZ1FfY3h1UzlKZ2xxd0lIVGV2bGpyUDBnNks0SW5pVzk5U2Z4MDQ1LVYyNGpOVWcyOHhzcmlsMXBZY1E?oc=5",
+      "published_date": "2005-07-18",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Miami Faces Clemson In ACC Tourney Opener - Miami Hurricanes",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05MUxiZWJlLTJSYmxaUXVvNXJWNzN4MXRwLU1Rc1pHRHhWZElwX3FBTlZBQkJuekhLb2NIdVpnUE1zUjFjYjJMNVdFd2RiV0lPVm5OUW5IOXAtc3lsM1NSWmRFZC1OUQ?oc=5",
+      "published_date": "2006-03-07",
+      "source": "Miami Hurricanes",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "\u2018We\u2019ve got to keep it together\u2019 - The Diamondback",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWU9la2h5NVpLRWVXdHFoQWtlUC1McV9McURsd3RYbDJZYWVkR25EMEV3aTFBb1RaUmNuN0pKT20tbDVEaS1PVklZREJ0MnVBLXJHTE9SdEhPZFk1QkhoVl9BZ1JSNTdZX0NQaWtTRld4SC1oVnIwbUNsLWJIUWxUVFM5MTIzX0Fy?oc=5",
+      "published_date": "2006-03-01",
+      "source": "The Diamondback",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Smith, Dudley, Rice Earn All-ACC Honors - Boston College Athletics",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oenhiVEo5bEVYcWd3QXFnSVhfZDFMYnEyRjdNLWE1cW9DXzZxMVFnQzIzcHFxWERiclZyeFpNMHlvazRXZTBydWtSVk5BM2dRc1R3c25NbjVTMmk4VXVyTXlfS1MtaVNmbzFQc0Z4YUgyX2lhYVpFTmVEX3U?oc=5",
+      "published_date": "2006-03-06",
+      "source": "Boston College Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "e871b84b1fed88c17a85eb348ccec0d18d14e626ef0564f2b31f540c1fe05db5",
+  "feature_eligible": false
+}

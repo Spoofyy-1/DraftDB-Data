@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:56:42.983819+00:00",
+  "lane": "news",
+  "pid": "P473b24f6eb",
+  "draft_year": 2007,
+  "name": "Wilson Chandler",
+  "draft_date": "2007-06-28",
+  "status": "ok",
+  "query": "\"Wilson Chandler\" (draft OR scouting OR prospect OR basketball) after:2006-07-01 before:2007-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Wilson+Chandler%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2006-07-01+before%3A2007-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Catching Up With Wilson Chandler - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWExnVlVSd2cySG1xdTl6c3ZoaGd5Nmllei1uVzZEU1NOaFV4SDV0eUNsUWNicDJiWnFLMnlpNEEyd3RxU2JKbXZnMjNjc2VEOWNpU3V4MU4tNXJ2b1FQT2stSWhhaVY1Q3hOWmJEVDY4QXo3SEVmUzJuNUpGTFpaUXlCRFRMUlI3Z19zSzBtWDlWUQ?oc=5",
+      "published_date": "2006-10-24",
+      "source": "247Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "38d303dcb610486ce1925c80014a4d85c1b376d1c6b044534dd0d891541c0239",
+  "feature_eligible": false
+}

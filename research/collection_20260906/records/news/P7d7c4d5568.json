@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:05:37.970299+00:00",
+  "lane": "news",
+  "pid": "P7d7c4d5568",
+  "draft_year": 2009,
+  "name": "Omri Casspi",
+  "draft_date": "2009-06-25",
+  "status": "ok",
+  "query": "\"Omri Casspi\" (draft OR scouting OR prospect OR basketball) after:2008-07-01 before:2009-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Omri+Casspi%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2008-07-01+before%3A2009-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Sinai Says: Can Caspi end the wait for an Israeli in the NBA? - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXR3V1JXQ2ZMRFMwQmlhWTAyS2RRcnlvNmJYR0VaNHhUUVNqOU53enBIelpLYVA0NTRZQUxTYkY2X1pxcE5OaTg3VUUycW5wbUZ1MS0zblVwUWRCUlVqMUhWZzJPSklxeUdwaWVxaEh0MUEtOG9hUzF4T0x1bUowd1h0OXpabTlwTWRiWXpUU2dwRjE5RDNnMXlEVS0xRVdKVUljRE5B?oc=5",
+      "published_date": "2009-06-17",
+      "source": "The Jerusalem Post",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Omri Casspi: \u201cGive Him a Chance.\u201d - maccabi.co.il",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mYURwd2ZUbERsUUhmaDlaaHBfbEhYeFZqUG9XR25qMHpiM0VLSFdxQ3Ftcm9zcGFCeWhVTFZYQmJ3Nmxyak1WWmxLYVk1S2xNSE1OV05HVEMwQQ?oc=5",
+      "published_date": "2008-10-30",
+      "source": "maccabi.co.il",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "d5c69423e88ffc69a203ddc989648305a397a684a18d5bee88df227cd0987186",
+  "feature_eligible": false
+}

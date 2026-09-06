@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T09:57:48.963436+00:00",
+  "lane": "news",
+  "pid": "P971be31864",
+  "draft_year": 2007,
+  "name": "Gabe Pruitt",
+  "draft_date": "2007-06-28",
+  "status": "ok",
+  "query": "\"Gabe Pruitt\" (draft OR scouting OR prospect OR basketball) after:2006-07-01 before:2007-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Gabe+Pruitt%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2006-07-01+before%3A2007-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "USC hopes this is at least a start - Orange County Register",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45a1ptXzZjZDdXamZaYzl6UExIcVNXUmJPajN4a1FxSGxrdDlselY2NmhtTEo1MVF2M1UtaWZLdGNHY3lOaDh4SnRyejB6dWhkYTM3aWxzN1NZZW9kc0hnVk1JU2tmb3pNYXB5bi0weUdfOGQ5VTR4cEZCQ29uQQ?oc=5",
+      "published_date": "2007-03-13",
+      "source": "Orange County Register",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "USC 87-68 Texas (Mar 18, 2007) Final Score - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdWVoYnp0OTdOZ2xkNllwcjkzSmxra2NHcXlxTERrUm9nVElGdVA4Z1Z3WDQyM0R6Xy15elE1VU9WaVNEMGZxcXdFenYxcDdxckpFd1N4aVhFWVkwZmFyVWNQSnpZaC1NOHVrZnF6RXdPaXk1WEp3WE1XYjYyZFVXWE1NalM?oc=5",
+      "published_date": "2007-03-18",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "USC\u2019s Nick Young will enter the NBA Draft - Orange County Register",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMjNTTWJRUHp6VjRBZ0ZRdHgzLWhSZThoU0RZUFdMSk5uT204VVd3M0RUUERWUjFXV09JQmZvc184a1g0WVlIcndjQ2pYeGZ0NmlQdFA1NXRsVU5FVldJaklFX1JqNUdoTmpIWFEwUFZXWW82WF91TEcyaWN0V2hicVpVSklhUQ?oc=5",
+      "published_date": "2007-04-18",
+      "source": "Orange County Register",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Trojans dedicate NCAA tourney run to Francis - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZTc5djYwclBjUHVic3lfYlRQMkFlMV9VMlZaZ3lQSGRFZjZoR09hUFV4ZGxLQVppcWtsWThzb0JwaVRvR1ZuY3BMYXhGRnM4RHJvbW04LXV3MGV6UXhuNEZYUlgybWJDYXV3bzc4TW1tbmRpTGl3dGJuWlVyRGw1Mk1WOVhFNThIVE5xVW8wSjVHZU94dEU4RzVHUW1SaXd0TS10NTJhWk5wUkhq?oc=5",
+      "published_date": "2007-03-17",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Pranks a big part of football rivalry - Orange County Register",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTFdqOE9HUEd0S0FfREhJc2xoQ1JYNGhDVWJwMEwtNmN4SkVpZzZENVBHSGIybEdFN180dU1RdXp4U1NFYTdWVTlEdlpvQUo3NmVyOEgtVkxMV3ptWk83dGtjZkpieGc4a2ZyTi1XVHBjNU4teXZ2WGhhWmxKbThNLUdn?oc=5",
+      "published_date": "2006-11-28",
+      "source": "Orange County Register",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 2,
+  "response_sha256": "a2c0d2ea152db993e794293b060eee78710b8c5025e68a87803c0134fafc7dd6",
+  "feature_eligible": false
+}

@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:57:12.723423+00:00",
+  "lane": "news",
+  "pid": "P61624e71c6",
+  "draft_year": 2007,
+  "name": "Sean Williams",
+  "draft_date": "2007-06-28",
+  "status": "ok",
+  "query": "\"Sean Williams\" (draft OR scouting OR prospect OR basketball) after:2006-07-01 before:2007-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Sean+Williams%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2006-07-01+before%3A2007-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Rumor: #18 Pick + Adonal Foyle for Jared Jeffries and Mardy Collins - Golden State Of Mind",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85eDVjTWpxd0hCaFhVajc4VEplSnk5N3ozRjF0Q0pwOUhTUlVrWFlDMnpjaHBibWRURHpzWEtfNG80T3RJdmlwM3RkMlB4bU53Mzh3OXJGVWtleXZJc2pCUG45THM?oc=5",
+      "published_date": "2007-06-27",
+      "source": "Golden State Of Mind",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "d29f07a9d5e6e520f514c96eb69bff47fe09d248aae1a3695b47bb075fa24eb9",
+  "feature_eligible": false
+}

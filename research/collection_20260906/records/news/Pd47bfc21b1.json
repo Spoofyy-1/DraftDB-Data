@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T09:55:14.028314+00:00",
+  "lane": "news",
+  "pid": "Pd47bfc21b1",
+  "draft_year": 2006,
+  "name": "Shawne Williams",
+  "draft_date": "2006-06-28",
+  "status": "ok",
+  "query": "\"Shawne Williams\" (draft OR scouting OR prospect OR basketball) after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Shawne+Williams%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Pacers 2006 Draft Central | Indiana Pacers - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9USEhCM0Z6ZklMVkRxS0RUVWJMdEZTeHVaeW5RMFVOMllfZnJfYnNjanVUNjBNcFRwb2wzbm9zUWhkOGV1UkF5OU9aZVZTUUpFajg0WXZON1BHdm5HVjNsYmVsb1hObjA5?oc=5",
+      "published_date": "2006-05-23",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Memphis' fab freshmen run well together - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2aGphT0ZMbjZXT1RSTWFtME5qbXhYbGRaVWxYZHVsQnJVdUNFdHc0VDlxNC1ueWJrcGpXTkx6anJNdDFOM1p1cEZ5a2dDRXV3?oc=5",
+      "published_date": "2006-03-21",
+      "source": "NBC News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Williams Named Rivals.com National Freshman Of The Week - University of Memphis Athletics",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN0dxa3VSaHpNM29Wa08zaGpZeEVDbHlKMzc4QUhPVWY1bXRpb2hHYWdncUJjZWp3bVB4VlRyaFB2Y0QySldER3NLcl9LbHUtWHU4YlZTQkp0QndIWUwwcEFxVU1lb2JiTEs2LTFMS0pHSFhoT2hyRFdReEVGZWxLVU9VNElUZDNNcWJidGlTTkFMTzFoRWRfWDZn?oc=5",
+      "published_date": "2005-11-29",
+      "source": "University of Memphis Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Memphis Falls Short Against UCLA - University of Memphis Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ueVRGYWlFU19zMVBZUFRDWlMwNkhROGdLNGo5QVIyQmlmTUtFdEh6Z0FoNll4bXpROVNxMjJsb09Gd25ZZ1dJQkZxUVRueG1HaXFPN2FEVE9BMHcwOXYxZTNDelFEX1puZmx6Uk5XNDN2aUxESll5WHRn?oc=5",
+      "published_date": "2006-03-25",
+      "source": "University of Memphis Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 2,
+  "response_sha256": "baf7fd8d3ceab7d819468b86680c3ffd75c65d29f19fbaebdf62004d1376b48b",
+  "feature_eligible": false
+}

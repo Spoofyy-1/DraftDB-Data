@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T10:14:10.426291+00:00",
+  "lane": "news",
+  "pid": "P4ec69893f6",
+  "draft_year": 2011,
+  "name": "Jan Vesely",
+  "draft_date": "2011-06-23",
+  "status": "ok",
+  "query": "\"Jan Vesely\" (draft OR scouting OR prospect OR basketball) after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Jan+Vesely%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Jan Vesely: \u2018I will enter the NBA Draft\u2019 - slamonline.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwaFJDR1pEZXZvSDdGc09NY1FJOXIwdi0xLXNKVXFzd0NQLVBvTzRPcVlpZ2hVLWRVejhuUm04Q0xUTWtiS2I3X0RvQ2NHN2ZrR2V4X2lmZHRUdzZITXNWa2JMWTNpdGdqVFRvdmxjZnZYc3c?oc=5",
+      "published_date": "2011-01-14",
+      "source": "slamonline.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft 2011: Jan Vesely and 5 Best Prospects for the Washington Wizards - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSEJNUGd2NjVJdG1saFlvUXpRbzVfcXJGNmVGZ0hoS3JMa3F3dFIydW5kb1dCR2hBVlFJNGtVc1RESFVaM2w4Y2I2TktRaGFidjZCN252MnJhQTl2THViOTF1cGhXdWQ1UFNJeG90aC0xUUZPb2w4VXlNdm1vand2S1RDMnpoeTN0QmExX0gzTld6MnV0bVlBUGY2ZFRPVjRPRjZOSFFvWXN6R3VqM2hnTlA5NUJQUXc?oc=5",
+      "published_date": "2011-06-22",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2011 Draft Prospect Profile - Jan Vesely - Bullets Forever",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVFctcGNRNjVETG04Q3J3am9xb0tXbk0tQTcxaEdIR3VRWHN1cU5yZnUzZ0p5eWV2SVNtNEo1ZHRCYjgzNzJXSFdNNXRPMmNiMTZkNkdPNE1GbWM2YXVWYUlLdERreTQ1Uzh3aUlBTFZwSDdNQzlCQ2UzQld4bmgtNS11UUxzVDVrbkdFSVFNd28?oc=5",
+      "published_date": "2011-03-25",
+      "source": "Bullets Forever",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "International Flavor In The 2011 NBA Draft - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwMDhxTG5qYXdNWVVPU1ZUX2JfZjZCUmo2WFplX0pJRnVseUFKZzc2NTF3a0tkYkNOd2VUVTJEdnV6aFBnZHViTlBZRFREQjBmeE1Ycm1QR29tQVR2S1UtRUJzWVMwOTM0czZQS2dGbi0yWEx3aXJJ?oc=5",
+      "published_date": "2011-06-22",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft 2011: Enes Kanter and the Top 25 Best Big Men Prospects - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd1loZW84cUVOUXk5ak5GRDhNM1F1aERsdDNibTBaQWowSzdBYnpnTU9hcnVXS1pBbmZxbDA5YTc4bTBwVS1UcU9JZHlTN0wyU3NQeEJ3ZHJ0SElZcGNZVWE4RUZfZEVtZW5vM3dXcUh2SEQ0c29yVnJCQnR0LVMzd2VybGZEeXFXdmxPeS0yTnM4eVlQOWhHSEhJeGY0Y1hHd19ad3BqbWhJa3M?oc=5",
+      "published_date": "2011-05-16",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 5,
+  "response_sha256": "f0a38517ba5926bdc75c11be9181636a43d9a480784a9c7b90ee2da2eec63df6",
+  "feature_eligible": false
+}

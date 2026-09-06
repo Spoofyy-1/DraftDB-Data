@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:03:11.963004+00:00",
+  "lane": "news",
+  "pid": "Pfa9e39fc67",
+  "draft_year": 2008,
+  "name": "Rob Kurz",
+  "draft_date": "2008-06-26",
+  "status": "ok",
+  "query": "\"Rob Kurz\" (draft OR scouting OR prospect OR basketball) after:2007-07-01 before:2008-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Rob+Kurz%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2007-07-01+before%3A2008-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Notre Dame Continues Homestand Against Brown On Saturday - Notre Dame Fighting Irish",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeDk0akFBQmJjNVRmVUM5cDlGQVBydVJBZGpwRXJmS3E0S3l1T2FjYlB6aGtvLWloMFloaDZNLXpVSlR3UW1oSDAzajJ3NGk0VnVILXBKcmRoZTNDYm9uTk00R1YzMERZQnR5V09FVVVHZkhWR3ZIeDVnNUxCNk8weUxPcUtzR05EYWFfRG41QlUzQjRtOXRNVTdHY0RxZE0?oc=5",
+      "published_date": "2007-12-27",
+      "source": "Notre Dame Fighting Irish",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Fighting Irish Defeat St. Edward\u2019s, 71-56, In Final Exhibition Game - Notre Dame Fighting Irish",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdWRoNUZNODM2cURjUHhVTC1hZEdlY2g4S0tKd2NQel9KdWlZZVQzQmpELXRoSE44UHk4U1g3V1IyNjhmN0RtaTFWYV80ejJBS2w2ejNNcThhVGVzemFqRGZlNVRhU00zVFhaWFhJdVJPcEp0TEJkS3pUUzBVRDRQVFhRZDNRZ0xRQkRSTHN6QlBvRGlHVFgxVjN1VG5sTEYtYkxVOWRxcVN4UQ?oc=5",
+      "published_date": "2007-11-07",
+      "source": "Notre Dame Fighting Irish",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "f46f66ff5d9f0334ab7c929ad142ea92d1b474f8561d03f8863abb4ec655dd11",
+  "feature_eligible": false
+}

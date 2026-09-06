@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:02:58.482564+00:00",
+  "lane": "news",
+  "pid": "Pe67238da8c",
+  "draft_year": 2008,
+  "name": "Nikola Pekovic",
+  "draft_date": "2008-06-26",
+  "status": "ok",
+  "query": "\"Nikola Pekovic\" (draft OR scouting OR prospect OR basketball) after:2007-07-01 before:2008-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Nikola+Pekovic%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2007-07-01+before%3A2008-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Euroleague Transfers Table 2008/2009 - BallinEurope",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kZ1pVZTZyUlhfVTdYSWxzZXNHZmhXRHRZZUlram5vUHFtTnYwZlhkTjU3cHF0U1dzdUdJUlNzVmowWE9TSDZ1UmVHUkZRd19zTWsyNGV2cE10Y201RzBBMzJ1ZEQ4dw?oc=5",
+      "published_date": "2008-06-17",
+      "source": "BallinEurope",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "2d6a5e818ce91ed0d00f782cb1e130a9dad9d2db15bf0fbf769dea0f840e881a",
+  "feature_eligible": false
+}

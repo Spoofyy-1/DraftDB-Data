@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:17:23.377968+00:00",
+  "lane": "news",
+  "pid": "P0c0603520c",
+  "draft_year": 2012,
+  "name": "Pablo Prigioni",
+  "draft_date": "2012-06-28",
+  "status": "ok",
+  "query": "\"Pablo Prigioni\" (draft OR scouting OR prospect OR basketball) after:2011-07-01 before:2012-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Pablo+Prigioni%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2011-07-01+before%3A2012-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Argentina name Olympic squad - Guyana Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9oQnRYSHRSUFNJM0xRMkNlaTUzMG5xOGxqbmFPbkYyNGpXMlZDQnRkOWNJaUlmRElhMm56TjFQYnRWN2hiMnZoVjBnLVllQWJHWTdyTVM2a0lsWWlpRVpEWWZCN1NiRTd5SWJGcDExMFo5RFd0UTZR?oc=5",
+      "published_date": "2012-01-27",
+      "source": "Guyana Chronicle",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "bd845a086479fe82a36c9ee3caf7f591938b3e99927006bd3963c53109ebdccd",
+  "feature_eligible": false
+}

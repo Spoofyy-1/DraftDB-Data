@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:04:34.824191+00:00",
+  "lane": "news",
+  "pid": "P4b1ba6339f",
+  "draft_year": 2009,
+  "name": "Lester Hudson",
+  "draft_date": "2009-06-25",
+  "status": "ok",
+  "query": "\"Lester Hudson\" (draft OR scouting OR prospect OR basketball) after:2008-07-01 before:2009-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Lester+Hudson%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2008-07-01+before%3A2009-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "UT Martin Head Men's Basketball Coach Bret Campbell Resigns; Jason James Named Head Coach - Ohio Valley Conference",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55X1hjMjJnajh1S0RlSEpwU2RJSTRFdjZ1c0VoVk0yd3Via1ZaODVDU3JnblpCeVVUcEFDQ0hmcEJJUlc2YnMxMGw1dllQWVBZZlhCZzFVZlJrWXFkWnhFV3d1QQ?oc=5",
+      "published_date": "2009-06-05",
+      "source": "Ohio Valley Conference",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "81cf38176cdd9f6044e56b6a2a9e08e5baa25b79a8e7db39ebee670ea5400d7d",
+  "feature_eligible": false
+}

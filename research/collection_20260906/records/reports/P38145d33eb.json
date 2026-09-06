@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:51:55.067930+00:00",
+  "lane": "reports",
+  "pid": "P38145d33eb",
+  "draft_year": 2013,
+  "name": "Elias Harris",
+  "draft_date": "2013-06-27",
+  "status": "ok",
+  "query": "\"Elias Harris\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2012-07-01 before:2013-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Elias+Harris%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2012-07-01+before%3A2013-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "GU honors three seniors - The Spokesman-Review",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90REtscXk1MU9XTGhCdXRaajZPNlVxalNleGlpQ3k0Z3pKSC10dHNzRjR3aXBYS2RhdGZXRlBtVXZjeWs1c2ZVZjFCdkd0cHBtVVJXd1RVcDAwT3NFM1Q4V1FxS01PUC1KR1NoaVEyVGQ0S3ZydE50M3ZR?oc=5",
+      "published_date": "2013-03-01",
+      "source": "The Spokesman-Review",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "1862826fdf2fc1d27f0cbaec0a6d80da30221c640055f2a2e7a576fbb6db004b",
+  "feature_eligible": false
+}

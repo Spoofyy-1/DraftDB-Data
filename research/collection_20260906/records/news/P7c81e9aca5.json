@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:01:19.111854+00:00",
+  "lane": "news",
+  "pid": "P7c81e9aca5",
+  "draft_year": 2008,
+  "name": "Anthony Randolph",
+  "draft_date": "2008-06-26",
+  "status": "ok",
+  "query": "\"Anthony Randolph\" (draft OR scouting OR prospect OR basketball) after:2007-07-01 before:2008-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Anthony+Randolph%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2007-07-01+before%3A2008-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Rip City\u2019s 2008 NBA Ultimate Mock Draft - ripcityproject.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM1JSS2dtUll1UUlCaGpyY2JlaENSY2hqVkNqYWJJM3Z3bDlOVTExbkE2Z2F3LTZFNjV2czNrRGZTTnZXSGRadUJZaUp1S1l5OFppXzJacHdhaE5oTGZHVjgzZjFvNUFHZXF1dFJvZWNiT1JXY1pBZk9MMmlUOUo3UXdFMA?oc=5",
+      "published_date": "2008-06-22",
+      "source": "ripcityproject.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "If the Draft Pool Is Deep, Players Think Twice Before Jumping In (Published 2008) - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIUXRUQkMyMnR1VUNfc3JOb0lBRkJsOVhuUG1aa2NBTzZhVW1Ud0tlLXRyS29SX2pNM3dRbFk5d1dFR1dTT2xlS1ZmQ3pQdE5JSWF2TzRwR2tYYjB4M3lYZ1FpVlpsWTQ4YXQ3UXQ5S3MwZ0JPNFFn?oc=5",
+      "published_date": "2008-04-06",
+      "source": "The New York Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Richard Hendrix named first-team All-SEC - The Tuscaloosa News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ2ZDa0F3ZEdoWGJHMmJLTnh2YWhzWE5kMm80QWliNmc2aUpfeUFzSjBBUUw2TE1ZZUI4cE1kM0lxWnRBa0RISUlNUDlCR0RJcWN6MlRlRmphZmFpYTJNWG53WjVrTnIxT3VOdE02TTIwanpjdVFDeWt5bUhhUnE5ZlpfbHNvM3BDY3BUY0xJYTdjMDVZY18ySXZCSlo3VmR1R1BLMlQtcDJVeldV?oc=5",
+      "published_date": "2008-03-11",
+      "source": "The Tuscaloosa News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "631c27fbcb94e65373c1328b8df8e8a88adc73226a410d44f0d87cd63c258467",
+  "feature_eligible": false
+}

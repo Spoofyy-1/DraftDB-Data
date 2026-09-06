@@ -1,0 +1,64 @@
+{
+  "collected_at": "2026-09-06T10:00:03.550071+00:00",
+  "lane": "reports",
+  "pid": "Pd907989bcb",
+  "draft_year": 2014,
+  "name": "Jordan Adams",
+  "draft_date": "2014-06-26",
+  "status": "ok",
+  "query": "\"Jordan Adams\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2013-07-01 before:2014-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Jordan+Adams%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2013-07-01+before%3A2014-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Zach LaVine | 2014 NBA Draft Profile - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Xd0l3X1l0djJTM1VuWEQ3WTctSEp5MUtCb2thVDhhb1lxTGJTM3hjNk5ROHloUnBQb3QwUzM5b1pwV0NCckpaZk1PYkRTWTkzOUJqY0d1a01PTFlUOHp6eXVzZXJ3dGRtdG0zWnZ3aDBPNkljTjYwRmIzMGE?oc=5",
+      "published_date": "2014-06-12",
+      "source": "NBA.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Mitch McGary Updated Scouting Report - draftexpress.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORTFUdmNSQlN4NDdqOEYxVUZtZmNkMjVZd0YtX3VkYU1IUXcydGpudWdNbWZHekZVZjIzTUVSd094X3Q5UVQyU1UzMV9IUl9lWVJPc3kzZktKeGpkUFpnOHlJTzNXWEZJZ21wR1VOb09BdDJscEE2MjRWTW8tV1FIaVl1U04?oc=5",
+      "published_date": "2014-05-07",
+      "source": "draftexpress.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2014 NBA mock draft: Cavaliers should go big at No. 1 with Joel Embiid - SB Nation",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdkhjMlZIMkxLeTdRbFJ0RWV1YTV0SFBFdmZzd3J3SlkxbThLaERWUGVCc3c3MF9iTG5ZaHIxTDZLd3c5ZWxOUjhxTHE1ZEZDdzMzcmNCUjJqb05jNVVGcDBtTmZkZUNVTkphQWRib21jY2dOVzVDQzV6cldJUHhFYlpnLW1GNHpQWURvYg?oc=5",
+      "published_date": "2014-05-20",
+      "source": "SB Nation",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Draft Profile: Kyle Anderson - Orlando Magic Daily",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSM1VUMm1EZnBaOGVlQlpuR2ZTYVB4RUlCRldseWdZcERLbnZBZVRRdjZsRTZ5dVpPNjNrY2NTVFo0UWgyRjNGVUo2dGo3WjlXYy05VkloTk95dUswclcyejI2ZjB3bS1scTJ5c1ctTjgyWlFUNWZyQw?oc=5",
+      "published_date": "2014-06-08",
+      "source": "Orlando Magic Daily",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Kyle Anderson | 2014 NBA Draft Profile - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCVlY3SWcyUHFlaDVDdlVCQUNFN1doTUVpdG9qaXc0dWtnc0h4VDRnTmFkU3FxU1Vqcnkwa2lfcWNCdW5hR3dqRjc1bFM1SktiOU9TTWxmQmZxeFlFMDZxZnBKZVk2eXV2NVJFNHFKOFFKSXU1UG1KMmZ3Vmk2azA?oc=5",
+      "published_date": "2014-06-17",
+      "source": "NBA.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Gary Washburn\u2019s 2014 mock NBA Draft - The Boston Globe",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjRCN3k5NGhKamFFOG9nNzlMWEY4M2JLZzZBenZaZFpTcHQ2ZHA1VWVmX0EzX2ZPNVlaaXk5eUowenZ0VzRzdVF0LVUyNk1XSVJiYTFuaW9mM2ZQTTJOa1EyRGhPZjVDN0x2VkN5b19PUFIyclNHdGpPVWxPQ1haODhURkpQcEl6NFRIU19CTHo0Zm1VSUxRTWlrNE1BalVZcEJHbHkydnptckM3?oc=5",
+      "published_date": "2014-06-25",
+      "source": "The Boston Globe",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "2cd0fb57d7110583a1d5f1215c10af2dfe42c723eed862fe9e2703c79efeba53",
+  "feature_eligible": false
+}

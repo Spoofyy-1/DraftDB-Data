@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T10:20:16.906500+00:00",
+  "lane": "news",
+  "pid": "Pae1e3e2903",
+  "draft_year": 2012,
+  "name": "Brian Roberts",
+  "draft_date": "2012-06-28",
+  "status": "ok",
+  "query": "\"Brian Roberts\" (draft OR scouting OR prospect OR basketball) after:2011-07-01 before:2012-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Brian+Roberts%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2011-07-01+before%3A2012-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Classic Jewish Basketball Player Dolph Schayes Discusses Amar'e Stoudemire and the NBA Playoffs - Tablet Magazine",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOTZqMkNRU1hmS2xyb1MzNHBzTkVuYUhQYkZWN25TeEZNVm1laU5EWlBuODRMMWZpU2FkTmV3eXlGNGVtdG1lM0JDeldHbTdodVRrby1DbVhWTmRLNE9tbHhxU3RfYTNGYjZkQlVwY1F1Z2dnaTRkWTZIT0t4TWcyRHZSSkppMUtURlJpSXExcDF2QQ?oc=5",
+      "published_date": "2012-05-02",
+      "source": "Tablet Magazine",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Brian Roberts back on field in Bowie, gives thoughts on Machado - Hartford Courant",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSG1ReFJnTnl2MnBsRFNXbUdRUHRzcnEwdEdXemZOaHFobU5IZ3l6SVdVUU5LbnFzUGNMRDl0Z3lCSVBkcnVMWWQyMEMzZHM3cWFvTFoxMmtnY0ZCLVM3SE9KbkhtejRkS3Q3aldhTFByTkRELXBELVREaXRMa3ZmNXZ2V0dweEFaVVRYMldKeF9Wa1prQU1YdjhLZWtidWs?oc=5",
+      "published_date": "2012-05-24",
+      "source": "Hartford Courant",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Roberts Plays 3 Innings In Return To Baseball - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbExhUWh5MWRYVHpGeF9IeTVWS3d6V2tvS2wwaXZqQWExVDhLOS1uTVhYUEhJRmVaM1JBUGZZblM1NzB3a1REdmlFU1dteE9KYWpCbE53blgtUkpPall4bkNrQnBqbDlLZ1k2cUg1TzJKbFpjWDJCbzZ6bzhYczJ5UHpVR2FRaHVGYV9xeEpB?oc=5",
+      "published_date": "2012-05-24",
+      "source": "CBS News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "The real reason the Astros are the worst team in baseball: It all goes back topitiful drafts - CultureMap Houston",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWmlZcUQyUktjZ0JqOU1WWkppLUVNSVNGVjBiTDFlRVFveENFb2xJN2VScGZZRlNJZXF2YUItU3RlOWE1d282alpycF9EZzNuX1VSdnhaN3NhWkhkWUVvM25kdEx4eFhRaDBzNU9pck40RXltYU1udjg3cjdtSE54Nk1CWDFDSl9leVlpTHdLVDU2V1JFTXVLOFdjbVpYT1RWM3BicDBfbmM1WlFJSkpNdjh0bHdyRWxMUVhBRHBHUHVDSXo2RVpBdWI5OHh3bEpqeEp2TTBSUkpDUHNK?oc=5",
+      "published_date": "2011-07-10",
+      "source": "CultureMap Houston",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "The lenses that really will make Rooney see red - London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVEtVUVA0cmotTV82WEQ5WnY1cWNMOU9DUWs2LUUtOU1sM1Nkd1J3c2RtMk9Oa0hUaUg3M1Vvdkd4ejRRQlpidmtqWlB6MDNMNGowVklvVUprVGt0N2FmUzV4SmJkWUsyUjdncUdXWmdvaG5nbG5uaEdYd3FfVzBnUUxDaXMzRFMxQ21RU3JFZHhfanlWaWZjNQ?oc=5",
+      "published_date": "2012-04-14",
+      "source": "London Evening Standard",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "a0481345e2da9d17cfe002e105be3c84da446fb55d37aa9d2353fe815fffc177",
+  "feature_eligible": false
+}

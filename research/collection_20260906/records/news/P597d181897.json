@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:05:04.648416+00:00",
+  "lane": "news",
+  "pid": "P597d181897",
+  "draft_year": 2009,
+  "name": "Robert Vaden",
+  "draft_date": "2009-06-25",
+  "status": "ok",
+  "query": "\"Robert Vaden\" (draft OR scouting OR prospect OR basketball) after:2008-07-01 before:2009-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Robert+Vaden%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2008-07-01+before%3A2009-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Butcher adjusts to life on bench for Butler - The Herald-Times",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbE5OelVjQ0xFdGctOFNOYnpKMTQ0VG1aYndoRGZzdURBQ2g0OFJZQlNkeVlMVkhrUUZyNW5sSTdIZWNqNWhDNFdTRzVDdW5OLW9palZpcTNyWk9rdXYwR1NXTHc5dVlpZGpQdkMtaXdDT3hPOUhSdDJldXZ1c0lqSTU5SW5ZRzlSdjR6RjIyYUVrRkl2NHhzLXk2a2ZHbTZBWWpGY19YR2tPV24zbnN3?oc=5",
+      "published_date": "2008-12-31",
+      "source": "The Herald-Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "883c59dd63dc94171e1d52cd8a2e861367eedb5f8ef9c81a52d8db5e5e0a890f",
+  "feature_eligible": false
+}

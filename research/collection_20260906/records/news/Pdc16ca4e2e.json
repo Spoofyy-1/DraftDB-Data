@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:11:31.911000+00:00",
+  "lane": "news",
+  "pid": "Pdc16ca4e2e",
+  "draft_year": 2010,
+  "name": "Quincy Pondexter",
+  "draft_date": "2010-06-24",
+  "status": "ok",
+  "query": "\"Quincy Pondexter\" (draft OR scouting OR prospect OR basketball) after:2009-07-01 before:2010-06-24",
+  "query_url": "https://news.google.com/rss/search?q=%22Quincy+Pondexter%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2009-07-01+before%3A2010-06-24&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Quincy Pondexter makes the big play, as a senior leader should - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaUZkYUdqX3V2ZElDV0poWDdsMDh1d0k2cTFRTUhkNXk1RVN4RFQ0WXZnaGJ2eWZKTjcxUTNESWFXS3VLWVM5VUlUYzlpRXA2SmRmZXJCY2h6dGlmb2RockNsSWhzTVVqRFpwY1RIVVpQY2lpeUMxVEs4SW1sMkpDQkdCQlFNWjc4QzRWSUN5OGlyVldSMU1KSS04S0t2VFk?oc=5",
+      "published_date": "2010-03-18",
+      "source": "The Seattle Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Buzzer beater clinches win over Washington for UCLA men\u2019s basketball - Daily Bruin",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SUFVoaVZLNjdVOXp5VFE0OHlyMC1xU056UlNXbGIzSmJHd0EwWkh1ako3Y1dGR0F3c2dsZ214M3pFSFZ2RURUOVcwcjFVSlE4ajFrZnpteHE2bDBqeGNjQTlRUDFxUDhKSk9FcmQ1Ml9jOW9XQ1MtcA?oc=5",
+      "published_date": "2010-01-21",
+      "source": "Daily Bruin",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Husky 2011 Schedule Released, Noreen to Visit UW and WSU This Weekend - Seattle Sports",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOajZCZVJlWkR3ZHF2TFJjcTVhTm1yZ2x1dDVqMm52MU02eDNoUnc5M0E2UTlCN28zY3VGM2o4cm9TQWFQVzFjNjNXd29iR2FXUFBpakFyd2FNdjZERDNLZ3l5UkZ1VmJIRHM1ejhBUU1JWXNnOERIWGhqalV5bURIYXZTRGJWTnhlZWtnaVFwb25kZWhybDdHVHZyLUJFQy1wYkF2aTQxU0tTOGpQYUdLc0pqSQ?oc=5",
+      "published_date": "2010-06-10",
+      "source": "Seattle Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "ab21d8c32baac7351889efde92e5ae60671f369a267a4c2fbe41cfef652c51c6",
+  "feature_eligible": false
+}

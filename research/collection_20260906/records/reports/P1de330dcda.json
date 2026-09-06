@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T10:01:22.345939+00:00",
+  "lane": "reports",
+  "pid": "P1de330dcda",
+  "draft_year": 2000,
+  "name": "Raja Bell",
+  "draft_date": "2000-06-28",
+  "status": "empty",
+  "query": "\"Raja Bell\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Raja+Bell%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "3f0b1344c3b669854fe96f3f8a35c54234e8462b6a3f390dd8ebc2b7638039f5",
+  "feature_eligible": false
+}

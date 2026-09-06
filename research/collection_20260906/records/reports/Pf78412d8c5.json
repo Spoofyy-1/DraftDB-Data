@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:00:39.530292+00:00",
+  "lane": "reports",
+  "pid": "Pf78412d8c5",
+  "draft_year": 2014,
+  "name": "Damien Inglis",
+  "draft_date": "2014-06-26",
+  "status": "ok",
+  "query": "\"Damien Inglis\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2013-07-01 before:2014-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Damien+Inglis%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2013-07-01+before%3A2014-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Mitch McGary Updated Scouting Report - draftexpress.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORTFUdmNSQlN4NDdqOEYxVUZtZmNkMjVZd0YtX3VkYU1IUXcydGpudWdNbWZHekZVZjIzTUVSd094X3Q5UVQyU1UzMV9IUl9lWVJPc3kzZktKeGpkUFpnOHlJTzNXWEZJZ21wR1VOb09BdDJscEE2MjRWTW8tV1FIaVl1U04?oc=5",
+      "published_date": "2014-05-07",
+      "source": "draftexpress.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "0f07fdcfc36dbd3d03bd9385b29f21f38fdbb62dadb30eb7712dea9a1af7e24c",
+  "feature_eligible": false
+}

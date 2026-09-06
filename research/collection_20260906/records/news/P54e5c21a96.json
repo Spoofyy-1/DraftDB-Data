@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:52:57.756038+00:00",
+  "lane": "news",
+  "pid": "P54e5c21a96",
+  "draft_year": 2006,
+  "name": "Cedric Simmons",
+  "draft_date": "2006-06-28",
+  "status": "ok",
+  "query": "\"Cedric Simmons\" (draft OR scouting OR prospect OR basketball) after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Cedric+Simmons%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Smith, Dudley, Rice Earn All-ACC Honors - Boston College Athletics",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oenhiVEo5bEVYcWd3QXFnSVhfZDFMYnEyRjdNLWE1cW9DXzZxMVFnQzIzcHFxWERiclZyeFpNMHlvazRXZTBydWtSVk5BM2dRc1R3c25NbjVTMmk4VXVyTXlfS1MtaVNmbzFQc0Z4YUgyX2lhYVpFTmVEX3U?oc=5",
+      "published_date": "2006-03-06",
+      "source": "Boston College Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "5aa752948fea587a393ef48e3c09d7ba945cc080d1f36e48deb9aede92cc6678",
+  "feature_eligible": false
+}

@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:59:41.350704+00:00",
+  "lane": "news",
+  "pid": "P1ca581fef0",
+  "draft_year": 2008,
+  "name": "Sean Singletary",
+  "draft_date": "2008-06-26",
+  "status": "ok",
+  "query": "\"Sean Singletary\" (draft OR scouting OR prospect OR basketball) after:2007-07-01 before:2008-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Sean+Singletary%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2007-07-01+before%3A2008-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Tech Downs Virginia in ACC Tournament Opener, 94-76 - Georgia Tech Yellow Jackets",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNFdxcjZXS3RyVkJkWXROVlY2dFozejQtdWtsVDgtbkNRTFdRS2JUczVxb0c4SU9UMEJ3b3lnQkl6NjJJQy05Nm15ajc0RUh5Y3RrQ2xURUN3ZENaNkxxN3JzeWo3TWVzb1k4ekIxVUFrZmQ2VDZJbVpWdFcxbWRfeUp1VDMzdWk3ZGUwdmFJVHpNa1BvMkxqaQ?oc=5",
+      "published_date": "2008-03-13",
+      "source": "Georgia Tech Yellow Jackets",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "24c8ba2c61de441edb4981f1c6c43e4ad72148b02cb0bbb35ff9011144d0a94a",
+  "feature_eligible": false
+}

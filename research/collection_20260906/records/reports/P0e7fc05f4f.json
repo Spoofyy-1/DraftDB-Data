@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T10:04:53.683241+00:00",
+  "lane": "reports",
+  "pid": "P0e7fc05f4f",
+  "draft_year": 2001,
+  "name": "Chris Andersen",
+  "draft_date": "2001-06-27",
+  "status": "empty",
+  "query": "\"Chris Andersen\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2000-07-01 before:2001-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Chris+Andersen%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2000-07-01+before%3A2001-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "2ef1f85acffe45d224d96f832c0113efca3167ce09d4f8b777489c56ae029fe7",
+  "feature_eligible": false
+}

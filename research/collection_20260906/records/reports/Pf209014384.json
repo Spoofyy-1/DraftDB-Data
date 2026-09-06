@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:55:38.013714+00:00",
+  "lane": "reports",
+  "pid": "Pf209014384",
+  "draft_year": 2013,
+  "name": "Ray McCallum",
+  "draft_date": "2013-06-27",
+  "status": "ok",
+  "query": "\"Ray McCallum\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2012-07-01 before:2013-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Ray+McCallum%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2012-07-01+before%3A2013-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft 2013: Ray McCallum Jr. scouting report - SB Nation",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc1hyWFdYMHd1c1ZabkR2X2RudFYxYU5SZFBYbG00MmM2eExtaTl0cTJwbC1jQmEzQTRMbzlmTXZMaDhaa3NvSGQyZWR4TTREcDRjRjdPNDVHdHI3Ui02Y3lySGpDUTBtQzdscHlBVTRRczhyM0ZVOF80TXFHZ3BqWGtycXpCSzZOWEdfS0lR?oc=5",
+      "published_date": "2013-06-09",
+      "source": "SB Nation",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Rapid Reaction: Chad Ford\u2019s latest mock draft - Lake Show Life",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGb0VOaDZvelo5elRPZlZZMnV3eGhDSjlWNUZsQ0k0VGpaTkg3LVZNc3YwRS1NdFJTamlNNW1hblVLZk5YX3ZWOFRNQ3JycEVfYms2d1ZDTEctcDZoaWxYRU9IYURMUS1wS2lzbGJYTkthakE0TEE?oc=5",
+      "published_date": "2013-06-25",
+      "source": "Lake Show Life",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "0809c218f3a9d24cc64b22fceaec9956a7d2813bf01ccaba8bab7c0660e3993f",
+  "feature_eligible": false
+}

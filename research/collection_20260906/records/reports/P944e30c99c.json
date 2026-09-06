@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:58:11.923996+00:00",
+  "lane": "reports",
+  "pid": "P944e30c99c",
+  "draft_year": 2014,
+  "name": "Joe Harris",
+  "draft_date": "2014-06-26",
+  "status": "ok",
+  "query": "\"Joe Harris\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2013-07-01 before:2014-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Joe+Harris%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2013-07-01+before%3A2014-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Joe Harris NBA Draft 2014: Highlights, Scouting Report for Cavaliers Rookie - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVkpRRzhsN0s4TmlFQzhOTlZhWFp0eWUyaVhGanRWR29HWkVMa1pwUW5XcFVIYlExM0FwTHJ6Mkl0UV84TG9FdlZUd1MyNGhGNDR5WnI4X1VtalNpWnBQWnpSaWZ5eUtqZ0piQnQ2NXNmX3RZdVk0dlFuWjkyR0NBZ3YwZTRkMTR5b01ibzF6TlZONXd1SldCaDdoNmNwaXZGTERMQk1GRzk?oc=5",
+      "published_date": "2014-06-25",
+      "source": "Bleacher Report",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "fd8be105d045073d13076291aafa5682d01c6cce085f3233d5d90df580fc2a0c",
+  "feature_eligible": false
+}

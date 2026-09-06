@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T10:18:09.970214+00:00",
+  "lane": "news",
+  "pid": "P31e884be2b",
+  "draft_year": 2012,
+  "name": "Jared Cunningham",
+  "draft_date": "2012-06-28",
+  "status": "ok",
+  "query": "\"Jared Cunningham\" (draft OR scouting OR prospect OR basketball) after:2011-07-01 before:2012-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Jared+Cunningham%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2011-07-01+before%3A2012-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Jared Cunningham leads Oregon State into Stanford - SFGATE",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSHBLODBlQW9MQ0pjeDI4UWtkdmVLdmlqZWVuVmtsZk94SXRNRi01Ynp0LVlPWlJZOS1abmthY1lYV1dxTWhLSEx5S2w5WXZNV0JDdnNhYXpsUzJDTWI2RXdEWndFWk9oWDY4LTB6cjF4S0E3WGp2RzZTTmxxZl9NY0RvdjF6cWdNbkxsS1Z4R1N5Zy14SUtpZ3FxTXNmWVlI?oc=5",
+      "published_date": "2012-02-16",
+      "source": "SFGATE",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jared Cunningham named to all-conference first team - KCBY",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMVluS0oySTFoRlVZcXJqS0szRW5DT0xvOGxuVUhJYjRJYUNtdVRiWWtJRzluLWZsTkRoQWRfcG5kVXhlZEUwRzZ6bWEyNDI3QlhabXhwWTZGYWNjSHJfSmUxbk1XTkdydkJyYUhkTmlYMklzQ19zV3JQMnA1VHFUUUpKT3FnbzNnU2VRSXJNUEE0Mm05Yy1tZmF4Z2o2bWpic2Zr?oc=5",
+      "published_date": "2012-03-04",
+      "source": "KCBY",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Tinsley hits game-winner against OSU - Vanderbilt Commodores",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU2lRUV9QYkxscjVfSy1teHVnelBOUXlhMUNUMHlXUHBlOUcwSFBpZmJqQVhRZnhVcHVUMkVFUHZBNzYzTEExVUtZcF85T2FhVzNEZG5LZVZzdVlnU1RWV1c0aFhMODdwV0p0dXpxSXlGVWI0ajBXREhySk5KX1RIcE95dw?oc=5",
+      "published_date": "2011-11-20",
+      "source": "Vanderbilt Commodores",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2012 NBA Combine: Measurements By: Aran_Smith - NBADraft.net",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IU3A2bzJ4TUxvYUxOSzZhWHhZSUl1OEhoZXkwZ3lRTUgzV0E0VDFqTGRQNXdtdjB1Q1VuVFIwci1WMUI0RjllZUdjSGNaNV94STdjUHowVG9FVF95V3VJUWRuVW9Pdw?oc=5",
+      "published_date": "2012-06-08",
+      "source": "NBADraft.net",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Oregon State Beavers basketball: Roberto Nelson's shoe, the offense and the Arizona road trip - OregonLive.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVERlblFFT01TNW9tLWNWZkNIX3JpeHRMcFVsMXM1dDczaFpMNXgyMFNfUkY3TDNoTWFuXzJaakI4b3htLXhNSnI2SVFfNmhNcnYwam9rQ1AtWElwNm1kTmJVQWV0MEwwSVcxOUJJQmExbzNYX3RsOEYzNlFTUEZVcUFicVRKZHFT?oc=5",
+      "published_date": "2012-01-10",
+      "source": "OregonLive.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 5,
+  "response_sha256": "4e8e14af20c2b94a7affdcf7129bcb22f40e3895f01a6f903e40807fea5d1488",
+  "feature_eligible": false
+}

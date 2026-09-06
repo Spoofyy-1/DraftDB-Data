@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:12:46.851854+00:00",
+  "lane": "news",
+  "pid": "P16bad3a52e",
+  "draft_year": 2011,
+  "name": "Eric Dawson",
+  "draft_date": "2011-06-23",
+  "status": "ok",
+  "query": "\"Eric Dawson\" (draft OR scouting OR prospect OR basketball) after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Eric+Dawson%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Roundup \u2014 Eric Dawson, Hope baseball team improve to 5-0 - The Holland Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRDI5TGtDT3pLczFnbjlWczVPQkRsYXhXbk02WlcxTkpqRjkzcjFBSk90N1M3c0dhZzVSUHl5aXV5cnVudk05S3JWcFpfbnJWbDUxaElIQ1VRNllpS1oyUFJZSGVINHEza0NtcE9TLUVaS3NaVnhadXdDMXVpZUZUaFNiSzJWQUJDbkZnSnQzQkUtS1l4U1RaSVJjV1c1T0RrbUR1Ug?oc=5",
+      "published_date": "2011-03-22",
+      "source": "The Holland Sentinel",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "1cd2be47ffcac8c192a282d1e14adfba1fc5b1303edca5bc661314c60341dccf",
+  "feature_eligible": false
+}

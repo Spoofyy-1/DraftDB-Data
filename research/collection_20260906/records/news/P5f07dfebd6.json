@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:00:55.879278+00:00",
+  "lane": "news",
+  "pid": "P5f07dfebd6",
+  "draft_year": 2008,
+  "name": "Jerryd Bayless",
+  "draft_date": "2008-06-26",
+  "status": "ok",
+  "query": "\"Jerryd Bayless\" (draft OR scouting OR prospect OR basketball) after:2007-07-01 before:2008-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Jerryd+Bayless%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2007-07-01+before%3A2008-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Derrick Rose is seen as top NBA pick - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94eFVGZDJmclN1bWIwRnk1MTl4bFJad3ZkTm5aMVB3cXdDUkhFUmJ0ZmpHaFhHcTM3bXdXT2Jpd2ZFVW84UTEyelFVZU05Z2Vid3V1NUswa1BlU2h5Y1lsdVZIUUlnYVcyV3U5WHJpMVNnbzA?oc=5",
+      "published_date": "2008-06-24",
+      "source": "Los Angeles Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "If the Draft Pool Is Deep, Players Think Twice Before Jumping In (Published 2008) - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIUXRUQkMyMnR1VUNfc3JOb0lBRkJsOVhuUG1aa2NBTzZhVW1Ud0tlLXRyS29SX2pNM3dRbFk5d1dFR1dTT2xlS1ZmQ3pQdE5JSWF2TzRwR2tYYjB4M3lYZ1FpVlpsWTQ4YXQ3UXQ5S3MwZ0JPNFFn?oc=5",
+      "published_date": "2008-04-06",
+      "source": "The New York Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Venoy Overton stars in UW win over Arizona - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbXpqVGpKMDRwQklndm56T3ltZVhrTWJzdHlfVmRTNnkySnhKU2dQQkZwcFgtNjVjaldxU0lWWHJHZFM4bmpFekFRLVdrSkR2VE5UU25BYnV4dFRHTVdRNFh3SzllaC10VWR5NXg5QjlqdlZENWNXLVUyaXlxR184eGxPbmFjcW9lNWYtQWZQa25nSFdR?oc=5",
+      "published_date": "2008-02-22",
+      "source": "The Seattle Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Adam Yauch\u2019s basketball jones - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16Y1UtWUlBUERqQk1hanM5UDhrVTd5UHp2RVRGYjFSRmtnLUlzRFlVX2kyeHZjbkhRRkNFcy04S2Z3dC1tSWM0QXpQZE5CZFhKZmxLVkl0NWdGRWVVU2lQVEl4U2FCVzdFSl9yNmtPZkx1eXRtUGRsa0doZ1JhUQ?oc=5",
+      "published_date": "2008-06-22",
+      "source": "Los Angeles Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 2,
+  "response_sha256": "0adcd4301a5e5fb9def92e1415841c4088b688270134ba444b6a48842ccb822f",
+  "feature_eligible": false
+}

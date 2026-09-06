@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T09:58:54.587180+00:00",
+  "lane": "reports",
+  "pid": "Pab87e9a8b8",
+  "draft_year": 2014,
+  "name": "Spencer Dinwiddie",
+  "draft_date": "2014-06-26",
+  "status": "ok",
+  "query": "\"Spencer Dinwiddie\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2013-07-01 before:2014-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Spencer+Dinwiddie%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2013-07-01+before%3A2014-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Colorado\u2019s Spencer Dinwiddie out for season with torn ACL - SB Nation",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeHVFZkRjdU5UQWttV3NEZXhNSUZqbTNJZHVrS1NWRkZqc0RKNzhZZ1BXTXZ5akJaRW5HVUVfdF92UW52THhhNm1lQlZIb2s5WWkxRjBjNEFDbjdfTml3MWRrRGNTeUI1SW5BUGFFMUw3eWdkV0FEdmNTOXpFOTlZSnktVExEMk5CUEtVMUc5T3N1Y09lY2w5MlZ5Z0V0bllxUHhVUExTUV9WaUVGdmc?oc=5",
+      "published_date": "2014-01-13",
+      "source": "SB Nation",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Mitch McGary Updated Scouting Report - draftexpress.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORTFUdmNSQlN4NDdqOEYxVUZtZmNkMjVZd0YtX3VkYU1IUXcydGpudWdNbWZHekZVZjIzTUVSd094X3Q5UVQyU1UzMV9IUl9lWVJPc3kzZktKeGpkUFpnOHlJTzNXWEZJZ21wR1VOb09BdDJscEE2MjRWTW8tV1FIaVl1U04?oc=5",
+      "published_date": "2014-05-07",
+      "source": "draftexpress.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Joel Embiid NBA Draft Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zQ3BFbXd2djRMdXR2MGs2VWdqbkVUOG50bk9ibEIzVGVGa0YtYnhVbFgyNkJhTk8zN2VXVVVtZXZIbWtZRWI4MGZhbUU2bDQ1TE5pbEJlMDJ6LXFjZVhfMzZ6WEhUMjh1dUZLaHlwcHg?oc=5",
+      "published_date": "2013-07-23",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2014 NBA Mock Draft: Projecting Entire 1st Round as 2013-14 Season Starts - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVzNKeHFZQThCTTVpckJnU1Bic093VEw5Yk9oU2JZdUJ4TlJRaHNxXzRrRXFWMUZPQjdSdGFUNFJQQTBscEJGaE5SM0c0bDVVcEpfREdqaFowTlBQLWo2eEhVU2pTZUl4cVZXVktqdmEwZkRWeUFsZ25vR0ZOblBpUFlVLUlERDRiVFNwM19XOGxJYTFWdl9iUkZ3RWlLWUZGbzFQU0M5NjhMVGw0dXZtSTVJeTdwTC1xNm9iQU5Bdw?oc=5",
+      "published_date": "2013-10-30",
+      "source": "Bleacher Report",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "2986dd8c0e153a3be141a2cec619c0c75001c126aea87abc4b9646b417f5db51",
+  "feature_eligible": false
+}

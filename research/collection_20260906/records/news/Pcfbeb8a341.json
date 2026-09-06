@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:58:38.492480+00:00",
+  "lane": "news",
+  "pid": "Pcfbeb8a341",
+  "draft_year": 2007,
+  "name": "Stephane Lasme",
+  "draft_date": "2007-06-28",
+  "status": "ok",
+  "query": "\"Stephane Lasme\" (draft OR scouting OR prospect OR basketball) after:2006-07-01 before:2007-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Stephane+Lasme%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2006-07-01+before%3A2007-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Lasme Has First Triple-Double Since 1973 To Lead UMass To 63-49 Win Over St. Francis - University of Massachusetts Athletics",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbWFTLWlvYjVXT1VQMGNmWldDLUVHSWQtUmVEemhwZjM0QjFVSVZkRlNHUTZZcWVnYVo4R1Y1cEpiUG1Qc3JKalNUMDFJTjNtQ0M2Y2lFbW5nOXRXemZ2ZnRBTmUybVlmWEgzYzVDSFZRZDdTX1RnUDhGdERSdWF2S0NSQkNwSkhZZFdTdkVwcG85dzEwV3Q1RWFYUDFKcXJWeGZNczZuVEdtOTZ1Q0hpb0ViYVJ4REM0YWo5Z3ZtNEgtYUZz?oc=5",
+      "published_date": "2006-11-22",
+      "source": "University of Massachusetts Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "14dc3dadc08b4bbabf7182c465c9654d8e6f7701dd80704c3b1f490876be7ead",
+  "feature_eligible": false
+}

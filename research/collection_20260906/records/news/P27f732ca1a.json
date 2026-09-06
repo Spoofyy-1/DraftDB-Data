@@ -1,0 +1,64 @@
+{
+  "collected_at": "2026-09-06T09:52:14.601662+00:00",
+  "lane": "news",
+  "pid": "P27f732ca1a",
+  "draft_year": 2006,
+  "name": "LaMarcus Aldridge",
+  "draft_date": "2006-06-28",
+  "status": "ok",
+  "query": "\"LaMarcus Aldridge\" (draft OR scouting OR prospect OR basketball) after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22LaMarcus+Aldridge%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Thomas Picked No. 4 by Portland in NBA Draft, Traded to Chicago - LSUsports.net",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4Y0pVLS1qSEwydFlRTTlSWlV1cEVCZ0luZjZ1TUliMXNVZUZFN2hVS0F2R29CdWtMWml1NnpWS3A0cWpkbG9NODZBQ3FKUGZEWHhmVUxncw?oc=5",
+      "published_date": "2006-06-27",
+      "source": "LSUsports.net",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Texas 74-71 West Virginia (Mar 23, 2006) Final Score - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZklhYy12WVVxUk5zMEc3RF85RE1sNnVOTVRINkZTYkFHLVRyb0Zaak9rUjUtQUs2S0JLbjByaVV6U2pZSEFKWTFLWVVkQjRCVS04RlhBLWs1eVMyODBwc0xFYXNlUW1ERWtBSHo4NGhFZnpXQlpiSEV0WVNjLTFzdXpMbC0wUjlfcjZ1LVVaTWJXZw?oc=5",
+      "published_date": "2006-03-23",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Aldridge to declare for NBA Draft - University of Texas Athletics - University of Texas Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uVXFxX3AwVUZ0Wl9ZWVZzZWt4Mkhua0FqYTloM1J1UUFWWExMYTJDbkRSMXdZT00wZm5aMUItSHJ3SmIxamcwdFhYeXR0aG5acEQ4ZU5BcFNZTW1NRTYwUElMajVQdw?oc=5",
+      "published_date": "2006-04-10",
+      "source": "University of Texas Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Sophomore sensations - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMVd5Rm5vRkJFSkM5N3I3MlBwVHVLSnJXT2pXVEUxX3ZDSHRhLVRHWTk4TmpQMjBBV3lDTUNLSTZLZEE3SkNjVVVTWTZiVGdqSXd6czRWY3BJY2tLTmQ2aFMzSHVfY3VaNWxWd2Fab2thc3JNN2pVekpvQWtMY1FZcFpySFU1R0EwUkZV?oc=5",
+      "published_date": "2006-02-03",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "No. 2 Men's Basketball edges No. 13 West Virginia - University of Texas Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1UFd0YldDMS1uMmZRc09wUDVIS01pZFc4VGhBNHhuNERpRVRzZTFtUkItX3d6VTdpQ2tqRXJReHpLVUkzX3NmdEcwUlRkU1ZoZEtKOVRldm5uVFRmR0w5MV94YVN4WEk?oc=5",
+      "published_date": "2005-11-21",
+      "source": "University of Texas Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Longhorns spotlight: Connor Atchley - University of Texas Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqYktZbmtNRG5Kcmh6a0pNMTdnXzM4V2psYkRUOHRSRm5YTllreTBFQ3Z1cnpOamx5Z2pxdnl5R3daTDcwOThtSGI3LVBpVWRRbWtPajNuTVBJWVlKYThEaWl5ODFTWEU?oc=5",
+      "published_date": "2005-12-22",
+      "source": "University of Texas Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 4,
+  "response_sha256": "470bdd2967c4b4259c4dc4f65185b2ca7146c0834e7f38d3fd892b2ddda8e9fc",
+  "feature_eligible": false
+}

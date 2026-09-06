@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T09:55:20.603385+00:00",
+  "lane": "news",
+  "pid": "Pe047befac5",
+  "draft_year": 2006,
+  "name": "Steven Smith",
+  "draft_date": "2006-06-28",
+  "status": "empty",
+  "query": "\"Steven Smith\" (draft OR scouting OR prospect OR basketball) after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Steven+Smith%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "cb0231186b2832a47b548869df491e3529216f95f80ce62ae098a69a4f679017",
+  "feature_eligible": false
+}

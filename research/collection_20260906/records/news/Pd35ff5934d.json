@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:58:48.422427+00:00",
+  "lane": "news",
+  "pid": "Pd35ff5934d",
+  "draft_year": 2007,
+  "name": "Brandan Wright",
+  "draft_date": "2007-06-28",
+  "status": "ok",
+  "query": "\"Brandan Wright\" (draft OR scouting OR prospect OR basketball) after:2006-07-01 before:2007-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Brandan+Wright%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2006-07-01+before%3A2007-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Jared Dudley Earns ACC Player Of The Year Honors - Boston College Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLTZFZmRNRmt5Y3NTUGhrSElPMG9CRDF4V1oyYTdscTF1Zzc2NWlXUzc1ZEdyN1FfTDc1VFhhOWZ5QnAtdWJwbU8xeDRVWEhmc29jaW1mQlBiUGhKMVRXQmV2bF9kbmRsTE1KNVFzeFhTYlQ5aWMzWU9sU00xYmE1MFJxRno2XzVqTE5j?oc=5",
+      "published_date": "2007-03-06",
+      "source": "Boston College Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Oral Roberts Humbles No. 3 Kansas With 11 3-Pointers (Published 2006) - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9udkhZTkN4cml1SXYzNFJKcFU5X2NIcndLQWtwaTJWNzkzc1pEZm9iRUt0UnRXUFpnWHBWcTl5cjZqSWNHa2NqMnRvWnJuQXhOVUhXaXJWS0lKRlFhNkswREZ0c3JIdzdCLXo4VHVmUjQ1YnJnMDF3Rw?oc=5",
+      "published_date": "2006-11-16",
+      "source": "The New York Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Follow-up tests bring Landis bad news - East Bay Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPczFteUZLM1JlUWlPYllKTUE4Z001SXIwdmcycmFEaVVtR09rX3dqM2MyQ2phZHZMVkR6cjNHSTFEZFl4OXV3RDdEc3RqZVVQY09yNFVNc25BOUk5NU1DMTVXZmt3ZmltRlBMeVRtbFhrcWp3NHhHUXd5bWIzbnczUGh3eTNCWDhHcFHSAYoBQVVfeXFMT3MxbXlGSzNSZVFpT2JZSk1BOGdNNUlyMHZnMnJhRGlVbUdPa193ajNjMkNqYWR2TFZEenIzR0kxRGRZeDl1d0Q3RHN0amVVUGNPcjRVTXNuQTlJOTVNQzE1V2Zrd2ZpbUZQTHlUbWxYa3FqdzR4R1F3eW1iM253M1Bod3kzQlg4R3BR?oc=5",
+      "published_date": "2007-04-24",
+      "source": "East Bay Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 4,
+  "response_sha256": "60fa60b3da05fadbaea3e7e37a2181f7bee6b25c9559e6d36fdf3df113588f2f",
+  "feature_eligible": false
+}

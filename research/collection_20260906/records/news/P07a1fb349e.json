@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:12:19.898214+00:00",
+  "lane": "news",
+  "pid": "P07a1fb349e",
+  "draft_year": 2011,
+  "name": "Donald Sloan",
+  "draft_date": "2011-06-23",
+  "status": "ok",
+  "query": "\"Donald Sloan\" (draft OR scouting OR prospect OR basketball) after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Donald+Sloan%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Texas A&M player\u2019s remarkable recovery from gruesome injury is a story of hoops and hope - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc3hfR1JxYVVSMF9GbnZBbnFjWkRUMy0xQWlneTI2WnBURlZTRHpnWkhRX3VvWmwySE5RYnp3Z1hnZVcwMW9nZE5WV3ZwVlB3cTZDTWF2UzZkdDhEUnVNNW5OOUI1anZNdzJrMW1mRGxmM2tLNk91UHBTQ3YyRHctQ1QyRHAxOG9WVG1JRmloUUd0SzFrbzNicTl3MW5GcGE0OWRoa0Z2UFJQREtBbF9mOEhQbGtYNEF0Q0tRYlljWHE?oc=5",
+      "published_date": "2010-12-09",
+      "source": "The Seattle Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "A&M's Middleton no longer a surprise - Columbia Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa2dVNXQzLTJ4Rlhtbml6bzFNalVqYlhjV1Jua3ZmRjUyck0yaDFHTmZUZVJ2U09TTENXWFR2Q0JIbDlPbFJsQ1pZYldSME5ycm5PTXdwSlpwVzE5MkZQcFl5NzAxYmtXbzNlWGlXSDF1bFlDNW5SMjVJc2hKaU93bE53RVJrUDVjbDBQLVJsV3BRbG1GVnBNa01aeXhEeVpMWmxpVkFkMnBXdw?oc=5",
+      "published_date": "2011-01-15",
+      "source": "Columbia Daily Tribune",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Reno\u2019s selection of Nick Fazekas to kick off tonight\u2019s D-League draft - nbcsports.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZFBRVEViYVI5ckR5R0UzVVJaR1g3YVlGVlFoeHJaZTZVVGxMNm40bE1RN3ByejltdThxaF9zTmR6RFRPbVRFQmpkczZRdHZUZTE5ZE1LNHg5T0RvWnFOQlpsOG5rOWN3NDczamRaaE9xREtYX290dmxVOXoyNUJqelhhSVVCQmVKVjk0QmVZQVUtU1VqQjB2T09zTV9xbzhjTGo1eQ?oc=5",
+      "published_date": "2010-11-01",
+      "source": "nbcsports.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "5f4cc86ccd617b6203e76a2c0b170ef3d0e465fb0edb915507d7a2302d3f3dd6",
+  "feature_eligible": false
+}

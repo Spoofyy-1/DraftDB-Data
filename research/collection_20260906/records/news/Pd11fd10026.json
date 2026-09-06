@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T10:16:40.030903+00:00",
+  "lane": "news",
+  "pid": "Pd11fd10026",
+  "draft_year": 2011,
+  "name": "Andrew Goudelock",
+  "draft_date": "2011-06-23",
+  "status": "ok",
+  "query": "\"Andrew Goudelock\" (draft OR scouting OR prospect OR basketball) after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Andrew+Goudelock%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Andrew Goudelock has blossomed into a superstar at the College of Charleston - Post and Courier",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWTRsbkNwRnZxWW9CZ01NV1hyOFlnQjZtN0ZvcW4xdGZPRGNRMzV4YnpZNXZuMzR2b3dCSmdyd18xOWNkNnJaeWRDdDRzZ2tITmlCNG5fcHpfUVVjMi1pVEViRnl1NU9PV2hnWDJqMEs1MFVYOFpnWWdnMkRSem9ISjFlLVNGb0lpLU9YU2ZDUUhuZjdiQks2akFRell1d0h6ald5cm8zdFY4QklPenQyQU5ORnY2Y2Fka2pwNjF1R25jMHc1RHJQX2V6cmc0bTNaeHFNTW1iQ05PUXlrQ01YWVA4SllCY0t2d3JETDZ5cnVRc1ZMNHhF?oc=5",
+      "published_date": "2011-03-02",
+      "source": "Post and Courier",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft 2011: Jimmer Fredette and the Draft's Best Jump Shooters - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdFl4c3JmT3FkZUkzOUsxX1NSLVM1UkZRMjhLeTBLb0tWd3ZGcnNrNTMySEpyNVV1M2hlREVzT1l6ZURBTVQyRWNkVGdlenI3bXkyMHBNYVFPM1UwaFNBMDBmVTFyWW9WWmdTZkM2ZXF5UlJNSTRMU1JORHNxaUtZU3RrYVl5UVBVN1pnaXJqYnJUbnh1bTBZbElZSXp1OVV6SWtuSGYyQkRLZ2s?oc=5",
+      "published_date": "2011-06-07",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Chattanooga?s Omar Wattad Earns All-League Honors - University of Tennessee at Chattanooga Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YTWJDa2I3TUNLUVRDN1BMUHdteHJFLWV0T2FxcWY3WG45X0RVUkdZMExIR2Jic0VtR1BPM29ieGUxOGQ4MXVlQ1I5d3lzaXhUZ2Zzc0hVT1NWYzQ?oc=5",
+      "published_date": "2011-03-02",
+      "source": "University of Tennessee at Chattanooga Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "St. John\u2019s basketball players in the slam dunk, 3-point shooting, all-star game - Rumble In The Garden",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQczk2WlpYQnplUlBReXl6aDVkSTU4cHp4MTQxUTJoZTJ1ZWxQQ1ZLTXBBZjJ1WVNZTkxpNklkb2Z2R0JPX3NLcVRqQ3lPeGxTUzhjNnlOelpaaXJwM1dGTDRtb0h6VkkxZUxfQnRNbnBiakp5WFhPRWNRaFVyMHN6eTF2MnJkWnNZVUI5b0IzOWVOWjU5UzNvdmNlY0w3TEdhM29Kc1BVd2VGd1BqcWV6MGJDWGRuWGlldDFxVDI5Yw?oc=5",
+      "published_date": "2011-03-30",
+      "source": "Rumble In The Garden",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Norris Cole, Kenneth Faried and the Top 10 Hidden Gems in College Hoops - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYWs2Wl9UNDBzQkRPUERWSGZNNHRYMTZQdTVxdnUtbkxWeHdaa2hJd2MyX2c1RENnZjZQWG0tYnYzQUJMbDRNLV9sUmIwcnBzalB4T3hmN3FOam9wTXdsVHhiRUoyTXd5WGNfSXJGbHZyZmFyUXdUUzBLU1RpZk1fMHE1SVdLdWN0NnZUNDNLUG82d0c4REFPTmJiekJXOTFDZDhEVDltckpPYlBXTDk0Vnlhbw?oc=5",
+      "published_date": "2011-02-12",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 3,
+  "response_sha256": "409a1ca2a7ff1340bd075182c0fd4a7ef3875a995ac6dd4f41949d3794eb605d",
+  "feature_eligible": false
+}

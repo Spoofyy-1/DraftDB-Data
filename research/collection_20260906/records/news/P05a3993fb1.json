@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:51:35.283797+00:00",
+  "lane": "news",
+  "pid": "P05a3993fb1",
+  "draft_year": 2006,
+  "name": "Jeremy Richardson",
+  "draft_date": "2006-06-28",
+  "status": "ok",
+  "query": "\"Jeremy Richardson\" (draft OR scouting OR prospect OR basketball) after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Jeremy+Richardson%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Statesmen rally to beat Tigers - The Tuscaloosa News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd0kxOV95RllyMGt1Y0JLNUNNZnVmRmwwRE1GalUyZW5xREl3c2tnWDgzMVQ4WEdsQ3BYMHpsaXoxTmZxNGpVUDRRMlZTRnVmbXlqWGxqQzBoSy16S1FDOXh4OUcwSWJaZDljWUtKTnRJWk9od3d0VVdLTHpyNUx5MC1ISk5lcXA0bnZrNms4ZnFrbExoSGhSUmRHbXY?oc=5",
+      "published_date": "2006-03-11",
+      "source": "The Tuscaloosa News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "2bcc18dafe46a34eef89cce450f97894c04ed1462de623c68e60484a7e49e8c6",
+  "feature_eligible": false
+}

@@ -1,0 +1,64 @@
+{
+  "collected_at": "2026-09-06T09:59:47.955098+00:00",
+  "lane": "news",
+  "pid": "P2528efc939",
+  "draft_year": 2008,
+  "name": "Bobby Brown",
+  "draft_date": "2008-06-26",
+  "status": "ok",
+  "query": "\"Bobby Brown\" (draft OR scouting OR prospect OR basketball) after:2007-07-01 before:2008-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Bobby+Brown%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2007-07-01+before%3A2008-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Cal State Fullerton\u2019s Akognon heads toward NBA - Orange County Register",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeHdBWld0eWpaT3lCaWxHaXVwY05sQlc4UmVUb3p2c3pHdnN1S0pheHJiRzVBMWtXaWFMUFV3Tzh4d2Q5V3JPWUY5Vzczb3QyVS1tT1JTY25COFc4R3c0Rm1MMC1YWW9Da05XQzEwYmJKTDg4QkhNOWdnSTZ6OHl6cm5KNjZfQUFnNmF5aA?oc=5",
+      "published_date": "2008-04-18",
+      "source": "Orange County Register",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Local college notes: This run won\u2019t wear off any time soon - Norwich Bulletin",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOHB3NDU0bVdpNzh2cW9xMEFfeG44WFZ6cGhnNUlpV3BiRXVaeGFRcEtCWjZTQnZobXlRTzBPNVd1N2FldDhNMFRWenJyTUo5ZXZvUk5uc2pqaVhtellmUlpWUEE1R0doT1QtOFhEb2JOTVBJcEtOUFpDZG5FVUtjck9yMEJuZ0tsWkdWV2hOc2hXWURWSUVXbVBwYWZCUQ?oc=5",
+      "published_date": "2008-03-25",
+      "source": "Norwich Bulletin",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Why Kobe won't win the MVP - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZUXZTQ0NVckNrYk9HWUZZUE1CSW9sTUZSMVhiaGV6c1YwLXZDOGRudDJ3YWhjQ1doQ3VCZkdjcHg4bV9SaVJPdHQ0LTI2R1QwakJtQl9JX3N2VW9XMERvWENPSVhBODA?oc=5",
+      "published_date": "2008-04-07",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Whitney Houston, Bobby Brown battle over custody of daughter - Orange County Register",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSHMteHhfS2k5T3RlOTFNTXZYNFVVOW9Ld2s4Yno0a2lvbEd6V00yWDJMUGFTZlBXaEZXSGkxXy1lMmJrY0c0ZDNtYTFOSXU1bHNraW1NZ2RLSVZGTXZXblYyM0lLTWFzMi1ZVmJFZzdCQnlwWU1wbjlmeV9ScnlmdmJBdmhRZ0MzelVwRWd5YnVyZmpzdXV2YlF2VFhEVVU?oc=5",
+      "published_date": "2007-08-30",
+      "source": "Orange County Register",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Ryan Phillippe Is a Stern Super Fan - howardstern.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbWtxZ0lFQWU3c2p5V3dNNmdLdU9aUDFtTDV6RUdUVnJyQ19DSmc3bkJQYzI0WFU4NWpMaEtNV2NDdHFCd0pRZVZVUFZTOHhkLXhxai1ZajZSTlJRWGtSYUNOM0N6WjVueTFOZXlQcDF3U1RIMERfb19QcHBOTFM3NXdGSzF5MGdGQklhWWJWR3dlb0RLeDJDc1k2dWJNRmMw?oc=5",
+      "published_date": "2008-03-20",
+      "source": "howardstern.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Whitney Houston and Bobby Brown head for courts - trend.az",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00aVBJYnhvSnJrbU9jRzZrWnp0UVdBeFNtMDJ5T1VaWG9oUkQ0U1hyaHpHbUg3UDRVWTNfT016ZnFRakt5QlBZalgzS05XMVVTN1N1Z2hxaUxTRHFhOXNCSg?oc=5",
+      "published_date": "2007-09-03",
+      "source": "trend.az",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "8963459df1982b16b10e5a8db057e9f4980b839e225ad3af5bc31729f2de1c1d",
+  "feature_eligible": false
+}

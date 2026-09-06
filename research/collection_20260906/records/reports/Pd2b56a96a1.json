@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:54:52.515602+00:00",
+  "lane": "reports",
+  "pid": "Pd2b56a96a1",
+  "draft_year": 2013,
+  "name": "Pierre Jackson",
+  "draft_date": "2013-06-27",
+  "status": "ok",
+  "query": "\"Pierre Jackson\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2012-07-01 before:2013-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Pierre+Jackson%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2012-07-01+before%3A2013-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Baylor's Jackson won't be overlooked in Big 12 - MySA",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRXhGMXhhUEFQdkI2bk1iZ0FjVC1MWkpjY1NtN0lvcG5rWFVNcWFfWEJvR0wxSHEwTmVScHJITVlmV0lHRkdHcEZWWlJfMV9YNlYyYzloYkJSYjdpSTRqanJJREI4WWNlT1RHRkFGZU5XMGUwMWpfMmtJb251NFRCWFJkVHBma3VGd3R4cmp4YTNCSmFtVkFlZzFkNUV0X1luRlRLOVJ2SWpKcWg1c1k5TUxsRHJrTG1lYWx3NHhrMFFnZGJ5Y1p1dk1EbHVlSEV1OHc?oc=5",
+      "published_date": "2012-10-17",
+      "source": "MySA",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft 2013: Golden State Warriors don\u2019t hold a pick, yet - SB Nation",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbzZvRnJCVnZBdVVCdFJCRzZtNC10bHBIRnhDZ01aWHVBdEQ2YWRRLTNCLURsMUlGdS0ybXBnWjZfdEhWaFhMV2dQalpfWDRDd0hQSTNfRmp3bFZ4dU1SMzlYRFhENG9oT0FZUWpfM0Z3V3F5VmlpOTNTWThEMXpqSGJnS1NWV0VkY2xkTFBxRFB4RXhScUE?oc=5",
+      "published_date": "2013-06-25",
+      "source": "SB Nation",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Sports Agent Blog\u2019s 2013 NBA Mock Draft - Sports Agent Blog",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS21WTFZlZTRBWXllQ2F1Y1pZYUFrd1UwNWNmZDhTREczaHVnXzJNT2J0LXVYcHNQaGJSdnV3MGlFUTdrTkVpRW5jYkJMOHhiVkFUYkF0Q0tKZHFHWFRfeHpXZmlqQnI0QnlBWTgyb0pEMHcyOVN2QVhSTjlhaFR4dmlGVk0?oc=5",
+      "published_date": "2013-06-24",
+      "source": "Sports Agent Blog",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "e527ece57f61f2af05c086a0c6c8b1ad6189dea0883517c153db54ed295523b9",
+  "feature_eligible": false
+}

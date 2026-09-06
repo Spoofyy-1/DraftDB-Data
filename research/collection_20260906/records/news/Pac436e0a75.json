@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:54:34.352312+00:00",
+  "lane": "news",
+  "pid": "Pac436e0a75",
+  "draft_year": 2006,
+  "name": "Hassan Adams",
+  "draft_date": "2006-06-28",
+  "status": "ok",
+  "query": "\"Hassan Adams\" (draft OR scouting OR prospect OR basketball) after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Hassan+Adams%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Hassan Adams Suspended from Pac-10 Tournament - KOLD",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOVJsTGg4NjZndTVXN0tSMHRWcjFUQ0xZZjlET2Y5NWdBOXJKR2xHdnJaeUZHdFhaeVFWRFZoMDlNa25FY2tDNTRlc2laN2RkRGM4TDh3YkFsOGhPczdFS0xlZ2M5V041MFB1dDAtNWczVGRvb1htOXdWdGdkTndXdjNfbUhnY05q0gGbAUFVX3lxTE5WQmY4LWsta25NNXlLZGlVeWVsRHlfM3RldnlUbUZETWVLcDB1bzhzUENUc1BidlF1MTBvM0hpYkcwQmJPY0pMYXEwRFJCS1hhY3ZfUlF4RGF3cWRiNGlPX25YWEtxNmJzTS1pSVdxbWpxRVRCWW1nUTFqUVJ2dER6akF5YjRVOEFQYU9TVExjckdLTHA1d3dCS1RR?oc=5",
+      "published_date": "2006-03-07",
+      "source": "KOLD",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Arizona takes off - Orange County Register",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14NDRYR25jMnEzQzdGLWxuSFRDWUdxb0tZS1FLRXZKSExCRmtMOWlBWTZEb1hfZ3RhR0wzRC13dTg2QWhZdVJJNWVzSTZnMmJ2VmFUVVRzbDZhTnlDRUdsbUVvVFVaa2M?oc=5",
+      "published_date": "2006-01-05",
+      "source": "Orange County Register",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "\u2022 Villanova - 82 Arizona - 78 Final - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUWl1VnU3YlRDMF9LVnRqamFTMDJia3V0ZkpuNGlaeFhDRDg2Smx5ZzdfbXFIRm9qWUlMVGNXMW5zZHdGc3pDdnBBOHpXeVpNNkZ1N1EzOFNIUHhZd2tLS1JHMERxZW81a0UtaWkwQ3VCS1QwbkctaUtDUXpxTFpJdEFybHBkM0xOVlBSWC1WM25ET3QyVlFtX1gzYW9jYlBlWU05c2lJTWsxRWozTWp0Y2dGZXFyNFpmX3B0UWpOTQ?oc=5",
+      "published_date": "2006-03-18",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "a6c609b48b9e52acd88bad95edc9b280aab280f637c02fba9010688241e89b4d",
+  "feature_eligible": false
+}

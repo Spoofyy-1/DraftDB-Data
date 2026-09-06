@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:52:44.475680+00:00",
+  "lane": "news",
+  "pid": "P4bb660105c",
+  "draft_year": 2006,
+  "name": "Ryan Hollins",
+  "draft_date": "2006-06-28",
+  "status": "ok",
+  "query": "\"Ryan Hollins\" (draft OR scouting OR prospect OR basketball) after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Ryan+Hollins%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Final Two: Bruins, Gators - The Spokesman-Review",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDRHpMTnRidmRMNGJ4dmk5UzdCTWd4SDRXekRlbUN1WXJIY0NYUDMyUVFkUl9hcnhxSjBZVnZCMXdEQkRmWkZhem1ib1hFMUJsYWlaOFQ3bFphMF9sU3ZmeE13RFRzaEYzdUt0Z1lNakNnYWNqM1JPbFZn?oc=5",
+      "published_date": "2006-04-02",
+      "source": "The Spokesman-Review",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Gators win championship - houmatoday.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN19FUDRZUURjaS1SMkROYkRyQ2xjd1FWWWZWXzJ6SjIwTXk3aUFzMkk4bUxpU0FYUlcxUnRpNjUtOXNuNGhwdEgzcEJ2NTdzNzBhRkZtOWxQN0gtbk9ZQ0h6T1k4TnV4U2ktbWd1SGFBWTFpWHI0bU5LU05xU0hNdEo1MWZ6T19KaUVrbzhGdW1LSDZaUTJncXNJckdXMGh5?oc=5",
+      "published_date": "2006-04-04",
+      "source": "houmatoday.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "UCLA rejected, dejected after big loss to Florida - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQkZQOWJheHhwZHE1bzdSalRhU3ViQVZtWUdsRlo4OFQ1QkZFSU9fNUdtMno5TFF4SS1CZEZHNkZUa3NPU0dIVDNlVU1Lc1pMUnB0VXNDY3dCMUQ3ZDJTeS1UejU5TFBRbmtHbVZKY1NoVmJZMHFyTDVmemotckdDWGxPRjBlRG9sWWM1UEdtS0JiODZiWFJCbjBTcmRfeWxhLVc1aHpyelVtX2JOYUIxYw?oc=5",
+      "published_date": "2006-04-04",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "a3006c071f7c20ca43fd8d30be5a81bda0d5926f31e0c13e56edee5fd912285e",
+  "feature_eligible": false
+}

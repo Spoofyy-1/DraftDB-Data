@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:55:34.768966+00:00",
+  "lane": "reports",
+  "pid": "Pf1615243ab",
+  "draft_year": 2013,
+  "name": "Myck Kabongo",
+  "draft_date": "2013-06-27",
+  "status": "ok",
+  "query": "\"Myck Kabongo\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2012-07-01 before:2013-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Myck+Kabongo%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2012-07-01+before%3A2013-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NCAA investigating relationship between LeBron James' agent and Texas guard Myck Kabongo - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdG80cEx0TTRObS1EOVhCdEt1S3F1NnNMTUZpRzJuTmRzaVJ6WmhNRU9ETVYtbWlpcERKaVlhREhrS3B3ZGRjUzFpM3EzOWItT0o5aTE1TGd5YnZlN3NaQVhZNnhSRExTMGFDd2dtSlJGOHdiNzhtRjNpU1VSODF0ZGdOdHF3dWo3Y3BTMUlfUC1sY1ZRaW5QZXlpakpFa1JZdGhac1FCWlNoMFpLYXBJRzZHc3R0QndJdDR0VFJaTEdyOHM4TElsSmxR?oc=5",
+      "published_date": "2012-10-10",
+      "source": "Yahoo Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "A look at Myck Kabongo, part of Trail Blazers predraft workout No. 10 - OregonLive.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV2VLeHltSV9NS1RQRER1ZEhRTlVUX0Frb214XzlIaURRNkhrWFI2RVlvekoxakhnV3RrWS1EczdYS2NzSk9MOHNJbURNaW1tM1dhNFMyWnM0cS1YOVYySmIwVjNjVUV5VDlscnEwSjV1NlVWeWN1RVFyTVViOXVWOXdjdjl0NkVyMzJzeUMtcWkxelZHRmk2S21WY2xyM0k?oc=5",
+      "published_date": "2013-06-19",
+      "source": "OregonLive.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "dba926e40984edc57c5b00e27e26fb9ff657d2ba073ba1be9dc9e449a4d06b6c",
+  "feature_eligible": false
+}

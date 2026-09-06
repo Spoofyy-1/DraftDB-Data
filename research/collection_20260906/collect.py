@@ -81,24 +81,31 @@ def mocks(year,players):
 
 def main():
     a=argparse.ArgumentParser();a.add_argument('lane',choices=['news','scouting','trends','mocks','reports']);a.add_argument('--hours',type=float,default=8);a.add_argument('--limit',type=int,default=0);args=a.parse_args()
-    players=json.loads((ROOT/'players.json').read_text());players.sort(key=lambda p:(p['draft_year'] not in [2012,2013,2014],p['draft_year']>=2019,p['draft_year'],p['pid']));out=ROOT/'records'/args.lane;out.mkdir(parents=True,exist_ok=True)
+    players=json.loads((ROOT/'players.json').read_text());players.sort(key=lambda p:(not 2007<=p['draft_year']<=2011,p['draft_year'] not in [2012,2013,2014],p['draft_year']>=2019,p['draft_year'],p['pid']));out=ROOT/'records'/args.lane;out.mkdir(parents=True,exist_ok=True)
     jobs=sorted(set(p['draft_year'] for p in players)) if args.lane=='mocks' else players
     if args.limit:jobs=jobs[:args.limit]
     start=time.time();counts={};attempts=0;consecutive_errors=0
     for p in jobs:
         if time.time()-start>args.hours*3600:break
         key=str(p) if isinstance(p,int) else p['pid'];path=out/f'{key}.json'
-        if path.exists():continue
+        prior=None
+        if path.exists():
+            prior=json.loads(path.read_text())
+            if prior.get('status')!='error' or '403' in prior.get('error',''):continue
+            try:age=time.time()-dt.datetime.fromisoformat(prior['collected_at']).timestamp()
+            except Exception:age=0
+            if age<3600:continue
         rec=dict(collected_at=dt.datetime.now(dt.timezone.utc).isoformat(),lane=args.lane)
         if isinstance(p,dict):rec.update(p)
         try:
             rec.update(mocks(p,players) if args.lane=='mocks' else globals()[args.lane](p));consecutive_errors=0
         except Exception as e:
             rec.update(status='error',error=str(e)[:250],feature_eligible=False);consecutive_errors+=1
+        if prior:rec['previous_attempts']=prior.get('previous_attempts',[])+[dict(collected_at=prior.get('collected_at'),error=prior.get('error'))]
         save(path,rec);attempts+=1;counts[rec['status']]=counts.get(rec['status'],0)+1
         save(ROOT/f'{args.lane}_state.json',dict(status='running',updated=time.time(),attempted=attempts,existing=len(list(out.glob('*.json'))),total=len(jobs),current=key,counts=counts))
         print(json.dumps(dict(key=key,status=rec['status'],items=len(rec.get('items',[])))),flush=True)
-        if consecutive_errors>=5:break
+        if consecutive_errors >= (1 if args.lane=='trends' else 5):break
         time.sleep(0 if rec['status']=='unavailable_before_2004' else 20 if args.lane=='trends' else 3)
-    save(ROOT/f'{args.lane}_state.json',dict(status='backoff' if consecutive_errors>=5 else 'completed_or_time_limit',updated=time.time(),attempted=attempts,existing=len(list(out.glob('*.json'))),total=len(jobs),counts=counts))
+    save(ROOT/f'{args.lane}_state.json',dict(status='backoff' if consecutive_errors >= (1 if args.lane=='trends' else 5) else 'completed_or_time_limit',updated=time.time(),attempted=attempts,existing=len(list(out.glob('*.json'))),total=len(jobs),counts=counts))
 if __name__=='__main__':main()

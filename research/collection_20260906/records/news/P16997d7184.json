@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T10:03:38.619182+00:00",
+  "lane": "news",
+  "pid": "P16997d7184",
+  "draft_year": 2009,
+  "name": "Jon Brockman",
+  "draft_date": "2009-06-25",
+  "status": "ok",
+  "query": "\"Jon Brockman\" (draft OR scouting OR prospect OR basketball) after:2008-07-01 before:2009-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Jon+Brockman%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2008-07-01+before%3A2009-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Aminu Named to All-Tournament Team at Portsmouth - Georgia Tech Yellow Jackets",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR2tza1pFbDNzODhGMEd3QlI3X3VMTDRFMU1ab2NjZHJHWkNWNUxYb1V0cHZ2YXlMRjNZajY2eE5jUU1GTjBTME5DRENrMEU4Z1pmSlV2VHRRZG5nXzVxaElyc0VFcEZ4X0FjbjJ3dzlycm5HcTdrQW10M0hkSGZ5bF9vNHplSHhVc3JsUnNFSnFSc2s?oc=5",
+      "published_date": "2009-04-14",
+      "source": "Georgia Tech Yellow Jackets",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Where Are They Now: Jim Marsh, former USC, NBA player - Seattle Post-Intelligencer",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdDYyUm5LWkkzaEFPcUxEcHhjMGNwVUMtV2JRNGNTRkJTbWNkako2OEJSNTFVOS1KTWIwZjJDZkJ0cFhhYVlzWTV4MjllNHZrVXVtaGFWclN1VU8tZkVtSEwwcG9OYnpFNFFoWkM1WFU1OTR1MWtQenRwSnc5akdielRkaTQyclJjTzFUSjczV0hiYkotYk5MZmp3WmI?oc=5",
+      "published_date": "2009-01-19",
+      "source": "Seattle Post-Intelligencer",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Washington\u2019s Justin Dentmon finally gets back to NCAA tournament - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQk4yemtFem0zN0ZYNHhoWVdRVm5PbmxzcUJNLU5oTnczeWJMeDlpdlpLNlZSQ1k2dVduWC1yVnJxeEczZmpWNUxReXNDNjFKakxKNzdqLWZ4eDJYXzZPc2ViemwyMHhwNkpMcFBFUnBzV1BGQU94bi12M1FVNzZacW0tWmxrQWtuYzhnOHdERlh0UlBTbEV6U0FDVDZPbWktaUVWMTlyRUluSzU0UEZqdw?oc=5",
+      "published_date": "2009-03-19",
+      "source": "The Seattle Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "UW continues march to madness - The Spokesman-Review",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeE5Kc1RVWVdOMk13REhIX1ZadHNFUVpBNFVOcDlxTDA2UVhtM1NKRC1vUnJUazF5Z3J6ZnlYS2dUOTBreC1waUsxRmtmSF9scEVVc19mcUV5ME9MQU1TbHFzMjN4U1g5aUZxVnFxdXNzV0w0MkxNTWVLVWpTZVRSanZB?oc=5",
+      "published_date": "2009-03-13",
+      "source": "The Spokesman-Review",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Photo detail - Tribune242",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fclp2RkRUM2dneGp6NHdkRTVMdllFYXE4RXJHWDVoYkJnNVpDQzNLT1FwZGFnQThoVWExVGRiMWRZTkt1a2V4aHh3eXk1Z2RPaDMzRVhDN29FZDA?oc=5",
+      "published_date": "2009-02-25",
+      "source": "Tribune242",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "7020f77bd127513b2badc71cf20bb9dd8f1311f2deeb123fab399c6e965726d7",
+  "feature_eligible": false
+}

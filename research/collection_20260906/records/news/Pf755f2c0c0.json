@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:17:03.588906+00:00",
+  "lane": "news",
+  "pid": "Pf755f2c0c0",
+  "draft_year": 2011,
+  "name": "Jerry Smith",
+  "draft_date": "2011-06-23",
+  "status": "ok",
+  "query": "\"Jerry Smith\" (draft OR scouting OR prospect OR basketball) after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Jerry+Smith%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Jerry Smith - Washington Commanders",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15UG0tb2hOUEUxVHE5d1FIQzFQdVlWamdHUGphUmlwdlh2S19TekhyMk01WHl0TmNIdzk2RTV2LVZDM3FzQnUwYXJBSU5QbWpPOVd5QkpMMDIxM1lBUWgzaA?oc=5",
+      "published_date": "2010-10-28",
+      "source": "Washington Commanders",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Montgomery makes peace with his past - The Denver Post",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWk5TQnBjUkdib1pUMmZpMmkxMWhFcVRvX3VJVUIzVERnTDFWWDdmcVBaRG1jZXcxTnVjekF2RU1IdjFCdkJaRXFPd0o0cGE5V3RYMko0bUVjM1lpRWFId3FfOFkwMTlrR3lBcmhhNWduM0VjcnFUeW5vTGl6clIycg?oc=5",
+      "published_date": "2010-12-27",
+      "source": "The Denver Post",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "6658f1f16620219d91f43fdebd249f901298f7642817933e2691d4a73630df99",
+  "feature_eligible": false
+}

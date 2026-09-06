@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:07:49.543877+00:00",
+  "lane": "reports",
+  "pid": "Peca9b04dbf",
+  "draft_year": 2001,
+  "name": "Eddie Griffin",
+  "draft_date": "2001-06-27",
+  "status": "ok",
+  "query": "\"Eddie Griffin\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2000-07-01 before:2001-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Eddie+Griffin%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2000-07-01+before%3A2001-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft 2001 - Griffin's No. 1 problem ... his past - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUZHFweWZOaXZkb3RmWTUzUmZ4VjB4c1ItdDZfMThuM1JWLWlmUHFCVEY0ZnZlcUdfR2R2MkF4aEo1cjg4dXcxVlgzblluVGJiMkZaLTdRazJsTmg2eGMyYVBYSEtxUGhBV3ln?oc=5",
+      "published_date": "2001-06-22",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "c8e1a42842f8fea738333c653c19bc5ac683e420fd25a993b987e3160293ceb5",
+  "feature_eligible": false
+}

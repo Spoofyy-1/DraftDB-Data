@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T10:06:41.209623+00:00",
+  "lane": "reports",
+  "pid": "P9aa7ef7a41",
+  "draft_year": 2001,
+  "name": "Alvin Jones",
+  "draft_date": "2001-06-27",
+  "status": "empty",
+  "query": "\"Alvin Jones\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2000-07-01 before:2001-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Alvin+Jones%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2000-07-01+before%3A2001-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "c7b4827328263d151435ee16fc4123605c1e3f2eee378673f842e5cb348ae68e",
+  "feature_eligible": false
+}

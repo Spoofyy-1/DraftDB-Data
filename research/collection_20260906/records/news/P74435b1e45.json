@@ -1,0 +1,64 @@
+{
+  "collected_at": "2026-09-06T10:05:27.967347+00:00",
+  "lane": "news",
+  "pid": "P74435b1e45",
+  "draft_year": 2009,
+  "name": "Daniel Hackett",
+  "draft_date": "2009-06-25",
+  "status": "ok",
+  "query": "\"Daniel Hackett\" (draft OR scouting OR prospect OR basketball) after:2008-07-01 before:2009-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Daniel+Hackett%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2008-07-01+before%3A2009-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Q&A with ... USC's Daniel Hackett - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvT2d5Y29sRzN1RFNhNUt6RDBHU2Z0YUhGMHllajhlZ1lxQ1ZPZzBmUWJyNG1pdHhiSk5vNVF0azRreXFPcjl1TE5FWk9uV19PcEl2ZDAzaHF5YkFUcGtXLVBaemlVSDA?oc=5",
+      "published_date": "2008-10-12",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Trojans stifle Harden, Sun Devils - Orange County Register",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kbTcxQWV1bmRNaFFUYlp6dTNjaVlKTEVfWTFXXzhXTUxEbm03VldxN1QyRjRzNC03UEhuUU42Z1NGRGRfRU1wQWNNajVvMTN3TksxRmQ0ZmkyYVVXQUlDQWpVSGV1eFRrRlhiREs3TUJCRnV5NXM1ajhKdw?oc=5",
+      "published_date": "2009-01-15",
+      "source": "Orange County Register",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2009 Eurocamp Measurements By: Aran_Smith - NBADraft.net",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZelNUN2k3VnVMS0s1TEtUSXpaZjU0V0dHcU9peFM2NHpxYnBPVjlFMUl2bUJrNVpYenJqby1XVkVNOGg5QlJZR3hvbXNxNjBycTI4cmo0dEswVU82NmFJalZn?oc=5",
+      "published_date": "2009-06-11",
+      "source": "NBADraft.net",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Q&A with ASU Hoops Analyst Brad Nahra - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTXNMZkJ0Nktmdy1tM05fcmR1TGJ5RDJFY1kySVhCM3hLV2JTNXRhZnY1VE0xWWd1OUdVZURBYk4xR3ZzbGFJNkVrR2k5TmNqLVdTSDEzc0c5UlhwekJacWljY1czcm9aSWd2V0NxcVFiRGswWVdzYlR3ZUlBNmVhcXhEWWdMS3d5TkhJUXdCa21HRWUwYmlfY0ZlMEpEcVVs?oc=5",
+      "published_date": "2009-01-01",
+      "source": "247Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NCAA Tournament: USC\u2019s junior achievement - Orange County Register",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV0g2Z0toYUpKRGtwY3NRYW9wNll1ZWNLSE10X0Zsc29QNUM2NzZFOWNQSVhVdXdlaTZEbGZ4RmJSZWFMV25VZkZhUzhuZmtYSG82UjF6ektHZFU1dmtWNGU1d3VhcHBlbnQ2S09McktCQ05ReVQxc21YS3IteGJfRnQyWWM?oc=5",
+      "published_date": "2009-03-19",
+      "source": "Orange County Register",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "USC\u2019s Wilkinson familiar with underdog role - Orange County Register",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORUt3ODRlbEIwYWhGSjBPcFlFMUF0cjBMWVFzYWtEd3ViZHB2TENqcFJUZFdBMUNSVlhTMkFLd2VDbDNiakZ2NnA2bTlxeWVUUjdTcm41WXBJcFdyWWgtVUNqTno1TUplTkxZUEpuYVl5N25BcjVBZ1JuRlRDSXBBUjFyZHRzbThM?oc=5",
+      "published_date": "2009-03-04",
+      "source": "Orange County Register",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "054722653882ac5e7f2efad427a4b3274fd3c37856fee61da5faf478450ce91d",
+  "feature_eligible": false
+}

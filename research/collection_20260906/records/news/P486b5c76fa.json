@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:00:24.803755+00:00",
+  "lane": "news",
+  "pid": "P486b5c76fa",
+  "draft_year": 2008,
+  "name": "Luc Mbah a Moute",
+  "draft_date": "2008-06-26",
+  "status": "ok",
+  "query": "\"Luc Mbah a Moute\" (draft OR scouting OR prospect OR basketball) after:2007-07-01 before:2008-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Luc+Mbah+a+Moute%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2007-07-01+before%3A2008-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Good Sports: Love\u2019s Letters - Newsroom | UCLA",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6aTRlVUFqY1IzWUI1Mzc5S2E3eFZQeEhzdDdJWlNtOXJlREswZjBGa1VVNl9qMC1COHJBRkpSZ2hYUWFaQ3BITEJWTE9FbkZVeFRtQktpd1YzZldacWlFaEVlSEkzalE?oc=5",
+      "published_date": "2007-10-01",
+      "source": "Newsroom | UCLA",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Former Bruin Westbrook will finally step out of the shadows and shine on NBA draft day - San Bernardino Sun",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnhUMFczeW1oQ2M1bGpwWFk2TW1NUWtVQWZ0N2xra2V2SW80M2hTRG9vaUhQQ3RhR09pUS1HdnZxY2JieW9Tb2tPOXZud0xxak1nN3VZeDRMOFN2dlZRX1cyUDNpUWRsckpBWEszNGpmd1pRVDJuQUFWSEFvbU9HYTZTVlg4MWpYa0ZIVW9KWUZ0eWtsMGhsX0lNemhXTlNSeWFSbDZ3YUVlZnFFR2twMG5wOEtjbHNsOGh3bw?oc=5",
+      "published_date": "2008-06-25",
+      "source": "San Bernardino Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "5c34fcaf1199f0da79fa684e21b84c27f4c452895809429eb4d8a377c05d83af",
+  "feature_eligible": false
+}

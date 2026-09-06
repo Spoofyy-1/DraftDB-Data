@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:04:38.086127+00:00",
+  "lane": "news",
+  "pid": "P4b68bd7095",
+  "draft_year": 2009,
+  "name": "Wesley Matthews",
+  "draft_date": "2009-06-25",
+  "status": "ok",
+  "query": "\"Wesley Matthews\" (draft OR scouting OR prospect OR basketball) after:2008-07-01 before:2009-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Wesley+Matthews%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2008-07-01+before%3A2009-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Marquette seniors' legacy will be as winners - OnMilwaukee",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4YkZablV3c2NZOWJiekU1M3Z4cmdhMkVZemFQdlRNX3ZyYTk3RHZYNWVYWEExeTdoYmg5WWpnUzgwd0ZvVVFsQ0VTOVEzcHFKRXdzMnNEZzZEakJZ?oc=5",
+      "published_date": "2009-03-08",
+      "source": "OnMilwaukee",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Madison Memorial claims Wisconsin state boys basketball title - Isthmus | Madison, Wisconsin",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWmx3bk5fb0hLaXcxelRHbmNfTUdxX3ZhSldJckR4a2hLUkFldV83bU52dnd1UzJzOWpZU19kSEdFS1I2eGpLalJOUk5adUZ3SmtyWjB6bDhDMTVqdFJpN3d6OWk3d08wb2RwZkY5d2pHS1Jqc2dBN0JQR3VoZEZpT1FpT3B3cm9uNzAzUGd6SURBUXB3ZlJTTWJB?oc=5",
+      "published_date": "2009-03-22",
+      "source": "Isthmus | Madison, Wisconsin",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "The 100 hottest Milwaukeeans (that you've heard of), part one - OnMilwaukee",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsTTktVlZRXzgxTmxVQVNBeWpvZlFQN2ZMMS1WVWZYQXREcWI5VkhhejFrSzBRc2szU3NQcXlJX0FZZW9OMUFySlUzTHp0QkZxM2FCekt3?oc=5",
+      "published_date": "2008-11-11",
+      "source": "OnMilwaukee",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "ac6f53adb5ca8410599ac53f204a870e405ecc4fd18aec652b74f06e263a8a76",
+  "feature_eligible": false
+}

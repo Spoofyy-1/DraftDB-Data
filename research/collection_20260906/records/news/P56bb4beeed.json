@@ -1,0 +1,72 @@
+{
+  "collected_at": "2026-09-06T10:04:54.696948+00:00",
+  "lane": "news",
+  "pid": "P56bb4beeed",
+  "draft_year": 2009,
+  "name": "Marcus Thornton",
+  "draft_date": "2009-06-25",
+  "status": "ok",
+  "query": "\"Marcus Thornton\" (draft OR scouting OR prospect OR basketball) after:2008-07-01 before:2009-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Marcus+Thornton%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2008-07-01+before%3A2009-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "North Carolina 84-70 LSU (Mar 21, 2009) Final Score - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYW9sek9oMXdMRXJFTkdKN3d6dXBsbTlIdUlKVFBidml4VTc2d0VLMGRoOFY3T3o4c0h6S3FpRlVFNXBZQmx0alU2WDlUYl9QdEZleWRNSUVJaGpDWnFoQTVjSjZFUnhSaHZqSVFmSUstVjBLazNncmkxSk5UeXRGelNjaWFnV1J3ZjlEM0M1bEM?oc=5",
+      "published_date": "2009-03-21",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Randolph Scores 30 in NBA Summer League Debut - LSUsports.net",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IREJSY0RxVEw3U1BXR3BTN3dkWlNoa3VuZ1E2LWd2YmlXMXBGUnN4ZktSUFlOTmszVjk0X0RkcFNfV21BYlVEOGZIQW9mN0QwelNpZ1MxMGQ?oc=5",
+      "published_date": "2008-07-11",
+      "source": "LSUsports.net",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "KELLNER JOINS MEN'S BASKETBALL STAFF - Nicholls State University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1td0ZINHEwXzNTMGR2UzF6NlpjTkdrdzZtTHpFdjdtMGJmMkt1RW1qRW5Rc1RPT2U3Y0xmcHhRNFVyRDducUcwRTJhVEMzUXVPOXZfVnFNcXhkaTBJbXB1QVpXYVZsVk0yTXdj?oc=5",
+      "published_date": "2008-08-21",
+      "source": "Nicholls State University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Live Blog: Heels advance to Memphis, win 84-70 - WRAL",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BQ244REJUdl9Wc1hkeXBLX0J3RnpENzAwbWRVLS13d1pHMVBZSGZOVUJ0RVFEeWZYaVZGcVd2WGxITjdYeDROa09NWC1MY2NLZzJWVUZ1SQ?oc=5",
+      "published_date": "2009-03-21",
+      "source": "WRAL",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Basketball Holds Opening-Game Media Session - LSUsports.net",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3V3ZaeTZia0RzVTJOa2hTeXJFVE42RXpxLUZQTGFydjhTTmFtdzlFdE0zSDhEaW5kTE9HMTMzaVNpWktYcldVbFVMcmhPblRUN3lDWkF3S1Q?oc=5",
+      "published_date": "2008-11-10",
+      "source": "LSUsports.net",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Patience, Effort Prepares Johnson for Senior Season - LSUsports.net",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnMVI0VkFCckJLc2x6YTd0SWJ3MDhtendhNnR6QzNyM0o4ZmpvM1JfRGI2UjM3NGVFWk5SUENhSlhJd3hVODEyUDRaRjM0NW1CejdDeVhpVGM?oc=5",
+      "published_date": "2008-10-31",
+      "source": "LSUsports.net",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "LSU Basketball Announces 16-Man All-Century Team - LSUsports.net",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12aEVKRmRuOUx4d0xwbHpKajM5bHhLWVV5eFJILXdsVEJYWl9SQXBhcjE0bk1FN1lLNGpnOWdWamp1OVV5REIwZU9rT19VRzdpZjJlTDlZZDM?oc=5",
+      "published_date": "2009-01-30",
+      "source": "LSUsports.net",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "03cebb578792058da450052ea251037d758675f08613123ce1a755f549036531",
+  "feature_eligible": false
+}

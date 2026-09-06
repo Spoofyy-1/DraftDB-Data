@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:57:58.790991+00:00",
+  "lane": "news",
+  "pid": "Pa610141ccc",
+  "draft_year": 2007,
+  "name": "D.J. Strawberry",
+  "draft_date": "2007-06-28",
+  "status": "ok",
+  "query": "\"D.J. Strawberry\" (draft OR scouting OR prospect OR basketball) after:2006-07-01 before:2007-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22D.J.+Strawberry%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2006-07-01+before%3A2007-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Counting down the madness - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yRThkeEo0MVN1Unk1cEgtcFhPVEJnQnFESnc5VjhUOVR3a25RWjV2NU01OFlIaUE5NmRkUG92Q1VLTTRPSzRiR19KMzY3WUl1REY2Q3h5dGNiY25oSDlXVHlCTDBKZ1E?oc=5",
+      "published_date": "2007-03-14",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Xavier Senior Standout Justin Doellman Set To Play In Senior Showcase - Xavier University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcXlJNTgyWUVRckZ4RVFTNzhEUUN5RzhqT3Q0ZWNfRXJvS2pnS053U3NTeENQRzhlT29kMFc0RlhPUDMwTVlwTzIxb3lmV0FXelBSQ2V2Rk1STXpNWHFla1hJeHN1MDJJTWZTZGRTcUpDeWQyck42NUY4R2p6MGVlWldPVFp2WFhwS3pLOHdQMmlyeFJSbGY3alR0VGJvdW55MFhyU3EyYXY?oc=5",
+      "published_date": "2007-03-26",
+      "source": "Xavier University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "454a0ec555698d966a686e8c03608c7c59713df52346213b39f8572a592472e9",
+  "feature_eligible": false
+}

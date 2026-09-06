@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:59:31.561181+00:00",
+  "lane": "news",
+  "pid": "P0e7908a570",
+  "draft_year": 2008,
+  "name": "George Hill",
+  "draft_date": "2008-06-26",
+  "status": "ok",
+  "query": "\"George Hill\" (draft OR scouting OR prospect OR basketball) after:2007-07-01 before:2008-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22George+Hill%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2007-07-01+before%3A2008-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Fisher Lands On Mid-Major All-American Team - Niagara University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92TVJtM3dGcm1qUkZiN1J2a1FVMjBEZmxxY2U2VnlNMlc2ZUhTSkJ2c0xNZ05ZUmhDekx0bmkyVDlvSVM3ellsVnZYa01kSjVoUUhHYzV5UzllN0E4Z0ZGd2hYVUU3aTMtcHJFQWdJUQ?oc=5",
+      "published_date": "2008-03-27",
+      "source": "Niagara University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "9bf6facab7d09070760aa63cfb96d3ba2952b440f0d2931029f2afb180afba03",
+  "feature_eligible": false
+}

@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T09:56:23.218818+00:00",
+  "lane": "news",
+  "pid": "P243742fc34",
+  "draft_year": 2007,
+  "name": "Rodney Stuckey",
+  "draft_date": "2007-06-28",
+  "status": "ok",
+  "query": "\"Rodney Stuckey\" (draft OR scouting OR prospect OR basketball) after:2006-07-01 before:2007-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Rodney+Stuckey%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2006-07-01+before%3A2007-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Former Kentwood star helped by \u201cblended family\u201d - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb0d1b2RpSEEzTzdUM0VLVnpxaXZqUGFpcFVCMUJMcW4tZXh1ODMxR1VfNGV6SVZBQy00ZDNlOEVuSXNqbDA3MktnVVlVd0xSUmcxY3JqT0RtTjVPaUFlWFB4WTA0NHVuYlZKaFA2UVU0Y1hIYnBMSXJpYWl2SWRUdWR6bmlSMG9CZFE?oc=5",
+      "published_date": "2007-06-27",
+      "source": "The Seattle Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Eastern fires Burns - The Spokesman-Review",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLb0xoWWJLU2V2aVVEMENWd1N0RkdlVkI2QktyVkdyZ2FMMWVfS01lQnFXSkhBOGtLOTdLejBJRXh0YWE0QmlpaGhDZnVjQ01YaUlLa1d1c2tjZ05zZ0tsTmJEX3NYb3ZtdEZSTnhKeVVJYU9T?oc=5",
+      "published_date": "2007-05-31",
+      "source": "The Spokesman-Review",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "STOKES NAMED TO COLLEGE INSIDER ALL-AMERICA TEAM - Hofstra University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWjVHZWhQNDhGalZnRlBDaXVvOVRpZWowZE41RXBlU3M1Z2RrQ0h0aTc0bFRTck12NW5fcHozeXBFaWlaQ0FOWERramh5YmpkUXowYV8zRE1VQlJuakp3U1Y5VXF6NndWTVZsUGEzelJTbkNtdEptOWd6TG10T0ppZEwtY2FtYXNDRm1pbHI1R3FHTVZL?oc=5",
+      "published_date": "2006-11-01",
+      "source": "Hofstra University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Predraft Camp | Durant far from finished product - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSWZGSXpqYUp3YXF6OHhNQ1JCLXdsN0swTkxvdXZYQ1UwNVFnTTFzcjE5NEZjRzFiVnZJa0k1Y0VUay1XVGt2anJmenFyckNiOXlCaGI5cm04WlFTU1VmT0tuOFZweWY5M3h4bHNfN01ac21Xak9ZdVVfT0M5TWljTkJUZGpfamIyLUhlbmNZUkM?oc=5",
+      "published_date": "2007-06-06",
+      "source": "The Seattle Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "95dcf36ce947dbc9d1c85c40d429ee57028a4b9ac1ca53f91b4f378aa56b7e44",
+  "feature_eligible": false
+}

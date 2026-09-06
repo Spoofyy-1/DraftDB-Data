@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:13:30.377440+00:00",
+  "lane": "news",
+  "pid": "P3d4bf642e0",
+  "draft_year": 2011,
+  "name": "Xavier Silas",
+  "draft_date": "2011-06-23",
+  "status": "ok",
+  "query": "\"Xavier Silas\" (draft OR scouting OR prospect OR basketball) after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Xavier+Silas%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NIU's Xavier Silas returned with two goals, but is only meeting one - Rockford Register Star",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU1dVM2czRmgxWHpHU0tGSXVDN29YWFZ4NEhhSi1RZzBNVWtUMThjOUM2R1ZuUmEwNk5aOXRuRnBEQm1pRmVEV2MtNmtNUHRvUDR4M0x1aVhaUVE3RElQUXFTYk9HOGFtaGFpQ0xfd3JGaU9WSEtabGRwNWwyYzJJdzRyeHp3QXBWQmpMb3lwNEVUUGZmcFc4M2VLSQ?oc=5",
+      "published_date": "2011-02-09",
+      "source": "Rockford Register Star",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "With NBA Draft fast approaching, Iman Shumpert makes the rounds, gives Nets a look - NJ.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tUHFPN0FTSXhheGlSRjdxak1lazZDX01iNWJxYnp0NGppN2tXYnhOMUUyTTRrcXZWS1RPVlY1Z2pSVk9Wd2o1bGxNYl9wclBMRFc4Z3AwcWtkMHJsOW93VDd1MEZyMmpfcWQzV25ZdF9fSmZ3Mnc?oc=5",
+      "published_date": "2011-06-07",
+      "source": "NJ.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Former St. Edward star Matt Stainbrook a pleasant surprise for Western Michigan: MAC Insider - Cleveland.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOEdBZGlHMkxvalpXd2JiVlVkeEJNWGF3OWtnRlBaa0g1TmNPQWlrUWRrcXJQZ2RHNHRaLXp0azVsanMtTHpkUXJaWXpOR2djXzJmQlIzNGxWeVNxWjFIc0dhWEFxa1gtNG9OaW1RUWY5OThCV3FwUVFkX0Vrd1AzQkxXNno5ZnZtckxBQw?oc=5",
+      "published_date": "2011-01-29",
+      "source": "Cleveland.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "edfc63f1b56bc648c5b6d7baa9f630b4eaebb7c79b46cc62a88971f6c454e113",
+  "feature_eligible": false
+}

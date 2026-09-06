@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:03:18.505362+00:00",
+  "lane": "news",
+  "pid": "Pffe825f9b7",
+  "draft_year": 2008,
+  "name": "JJ Hickson",
+  "draft_date": "2008-06-26",
+  "status": "ok",
+  "query": "\"JJ Hickson\" (draft OR scouting OR prospect OR basketball) after:2007-07-01 before:2008-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22JJ+Hickson%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2007-07-01+before%3A2008-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Good Workouts Led to Hickson's Decision - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS1JSZWtlZS04MzhzWGlZMVZIWEpFWlNYRDQ3V3pKcFVyUGNGX2lhUE11OW5vbmthSy0tdDVZQzRRZ19RbGFTdFU4bzA4Y3JDY3Zna0dQV0ZFYkpFTnh6RWw2dTFQVVFpNHNxLW83MEtkSmc0US1HSDIzQ1hiVUJ4eGRRbklIaDh0OHEwelNMVjJLQklaTEpDTWVpazhwek1DbUwxQTNsSWhKelhE?oc=5",
+      "published_date": "2008-06-16",
+      "source": "247Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Collegiate journey not boring for Grant - Wilmington Star-News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSWNQMDRlTEhCX21uckZ4SFU2OGhpUnNMV2x0Q19PV0N5Yl9nQUU3SlNna0wzT1lkWmxoYmNkNFN4QWctRUs2ckkyaUl0emJNVk45Z2RiV280bWFpQmNMOFI4RGZPLXc1Vy0taEVEbkpjR3ZPWTlIdlpaaGE3OXBjMEoycHc0MXFPRXJSLTNiM1pqWXpsZDFMQy03RmsxVnV2WTJBQ1lLUEo?oc=5",
+      "published_date": "2008-01-26",
+      "source": "Wilmington Star-News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jackson: Celebrating the elite - ESPN Page 2 - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QekxMMm4wVlQtNkE1d3B1RUZyalBmZXZxRXVQR0FtRnFLZDI3OVItS2JXOEtCWmtQVHo2NjBEQ1d1VVhPaXZDQmU0TExZZVBNZDg3U2NJRkFtZ1lMYVhFQ0F1VUFXNlU?oc=5",
+      "published_date": "2007-08-25",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "1bf18101110a1956b8e7a882e600c3c3dec862998073d8129879d3b6a1c755d8",
+  "feature_eligible": false
+}

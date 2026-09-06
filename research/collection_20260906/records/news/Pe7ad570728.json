@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:06:54.387980+00:00",
+  "lane": "news",
+  "pid": "Pe7ad570728",
+  "draft_year": 2009,
+  "name": "Derrick Brown",
+  "draft_date": "2009-06-25",
+  "status": "ok",
+  "query": "\"Derrick Brown\" (draft OR scouting OR prospect OR basketball) after:2008-07-01 before:2009-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Derrick+Brown%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2008-07-01+before%3A2009-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Derrick Brown - Xavier - KSL.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54aU5EUVRzRTlQQ0QzZV9rdG9oZTM3SHRKMmFDbWlZTUZoLVlQZVhTNXlZOEVXRFY0UjdHYU9uek5NWGFFOHJKTWdNb3ZCUmVqS3BhU0RyOUVCTGdTSEFEa0owYWY5SFFIRGc?oc=5",
+      "published_date": "2009-06-19",
+      "source": "KSL.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "La Salle 70, Temple 63 / Xavier 68, St. Joe's 54 - Inquirer.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOTZwc2lVdGJ0Yl9hQTVuWmQ1X1BINEl4LS1QYVRsVnVKQjlqRHBmVHNaMGxmT3BFem8wUl9TVTN3eW9DYkRMUVVJS2FNQzhmd3Q2Y09uZlNJUmJReWVkNHlQNmg2RjllaHlUbk5VaHdsRm90dnpQSklJWjU3Tm5lSHNB?oc=5",
+      "published_date": "2009-02-26",
+      "source": "Inquirer.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Sean Miller goes old school - Boston Herald",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zMUhxbE9CZmxxQ2tQVG9pcEthXzhaN3dEeENLeFJxcG5sUzlPUEtUMEp4ckxxYUt0RzF4OTZuSWtzZlBGdXFkMk92endZSmFYdWFPVnAzMnN3d2hPbkpRU0E1dlBkdHRjWkNndENlT3hhbU5KMVVv?oc=5",
+      "published_date": "2009-03-26",
+      "source": "Boston Herald",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Halfcourt Buzzer Beater Downs Tech - TechSideline",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQjU3bE1CdTRoY2VkTnh5MzYzdXBNX0RtVnhkcVV3UDRPcHZraDR3U19BNl9nOTNiSzFiUVo1SXNjQlBXUWZoTm91Z21GYU5jT2lkTU4xWmMtbFlOeGlJak9aSkoyRmJJVVJnU2RVeXQ4V0FUb0RLZG9JMnpXUGxaUHJWMUV1Vi1QdmdnUmpBbTNFN2xocnpBM0VR?oc=5",
+      "published_date": "2008-11-21",
+      "source": "TechSideline",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "969715dd9f50d5d0ba2de2fcfb69e4f9ce3021a37f59aca003c3a460b11fe6e0",
+  "feature_eligible": false
+}

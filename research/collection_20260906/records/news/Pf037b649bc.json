@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T09:55:43.510646+00:00",
+  "lane": "news",
+  "pid": "Pf037b649bc",
+  "draft_year": 2006,
+  "name": "Allan Ray",
+  "draft_date": "2006-06-28",
+  "status": "ok",
+  "query": "\"Allan Ray\" (draft OR scouting OR prospect OR basketball) after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Allan+Ray%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Brown named to All-American basketball team - dailyillini.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUlRFbTFwYjBqR2FkdWN1Y2Zod1RnVlBiZUlxb1FDci12ZHNYb1puRGl6LVdMZW0xczVGY0NYTHdpdDBKemNkM0lhckgyNGFWSzltRERkd1NETW1DMzVXLThWcEpPNFFpNzg2R0E4aENyVUtyOVREaFpicXA5MVA2bkkwSElzcVl2ZC1OYXl5QU1seDdYTkVFRV9n?oc=5",
+      "published_date": "2006-03-29",
+      "source": "dailyillini.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Redick Wins Naismith Award As College Basketball's Top Player - goduke.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1STDhSbnI1SGw2S2dncWJTZFZnQ2VXOGZzQThrMXc0N083S1JuYUswblpBQzVUTHZaNEFXaTJTOVhXa0JCd0ltMi15LUpISjVz?oc=5",
+      "published_date": "2006-04-02",
+      "source": "goduke.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Associated Press Names Merritt Honorable Mention All-America - Samford University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE03MFdaMnRvLTNPa3hPMEhBc2NKLTZNSkpPSEZ0X0NUZXpzNEs5ZWl3c2NuSDFVOTc0Uk53UXFNbHZDVnN3REt0eHFsMWVoVnh6QXlSUjBtdHlyaTB1RmpIR1Fwdw?oc=5",
+      "published_date": "2006-03-28",
+      "source": "Samford University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Skin the 'Cats - Ocala StarBanner",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WMnVkZlJwVzRSZllvM1d5UlU4b2gtS0VPT19XZ3lTU0FlNmd0V092bVRHaUVETTVOaFNEbWFNZ2t1REY2ZWI3SkhtN2NHMEtRSlJfbFl0Z1NCUlM1RlZ6X1FrREstd0pSUmpvS3JQV2laNzF2TFBYQ0Zn?oc=5",
+      "published_date": "2006-03-26",
+      "source": "Ocala StarBanner",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "99e2a49f4ff9e785f144efe1f47b01f926dea6155bc77d5c2a6d9995245e4826",
+  "feature_eligible": false
+}

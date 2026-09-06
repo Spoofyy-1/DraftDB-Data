@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:59:24.266576+00:00",
+  "lane": "reports",
+  "pid": "Pbed27928bf",
+  "draft_year": 2014,
+  "name": "Vasilije Micic",
+  "draft_date": "2014-06-26",
+  "status": "ok",
+  "query": "\"Vasilije Micic\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2013-07-01 before:2014-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Vasilije+Micic%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2013-07-01+before%3A2014-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Vasilije Micic NBA Draft Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55bnpsOU1DX2FyVW9raTA2ZERtWWo5T1pDVXR0bEhORlpmUVk5T2hNOG9ZVURtM29ISWlNYjZlOUdvdGgxMGlra2VJZjZoelZ5R0UtcFA4UzZnOHNyYWZJT05vUTY5a2tmVml6b3ZfYjhrOXVx?oc=5",
+      "published_date": "2014-05-28",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Vasilije Micic NBA Draft 2014: Highlights, Scouting Report for 76ers Guard - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMmNERHdDTFNZQklDRzNnaTNGY1dfbVRWb2pSZGYtQ3hDcUk2SDhSTFlMelh1M1ZrWHJ6OU5fSGp3dXdFakJpc1NtNjR4eXZkS29VOGxnMDJYTC1iQXR3dFF3eU1NMnplaXprVlZDdWtCejhXbURwaEN5TURJR3RoLUlTV3JHdi1qWkxGYjUwaVFIYzBvM3c0cXhFQnRueFBIWUx5dmNxWENYNTlZa3c?oc=5",
+      "published_date": "2014-06-18",
+      "source": "Bleacher Report",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "e7efd59bf9e730ed4d0e2e4d7dea80e69b63cfddfa85a3d3c1b92b1d2623d5ce",
+  "feature_eligible": false
+}

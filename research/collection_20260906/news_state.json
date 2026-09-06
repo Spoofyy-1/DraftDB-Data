@@ -1,12 +1,13 @@
 {
   "status": "running",
-  "updated": 1788688232.690846,
-  "attempted": 421,
-  "existing": 421,
+  "updated": 1788690017.1582222,
+  "attempted": 947,
+  "existing": 947,
   "total": 2560,
-  "current": "Pd7ea309dee",
+  "current": "Pae1e3e2903",
   "counts": {
-    "ok": 235,
-    "empty": 186
+    "ok": 652,
+    "empty": 293,
+    "error": 2
   }
 }

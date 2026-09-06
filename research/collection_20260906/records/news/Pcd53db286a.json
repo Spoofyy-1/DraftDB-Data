@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:58:35.025160+00:00",
+  "lane": "news",
+  "pid": "Pcd53db286a",
+  "draft_year": 2007,
+  "name": "Derrick Byars",
+  "draft_date": "2007-06-28",
+  "status": "ok",
+  "query": "\"Derrick Byars\" (draft OR scouting OR prospect OR basketball) after:2006-07-01 before:2007-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Derrick+Byars%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2006-07-01+before%3A2007-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Vandy\u2019s star shines on national stage - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtV2paODFPdnY1QXJsNzRsRVNzNVhhWG8wMHpqT1BZdk5jMXN4RC1LbDNCUnhYUlQybV9JcVdqd0o1cTlmblNIX3J6RDV0THpY?oc=5",
+      "published_date": "2007-03-19",
+      "source": "NBC News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Byars, Vandy seize spotlight - Deseret News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRQ2xPZERsTFZOTHJMNUxMaVVsOEJvckpvR3FnX3pTdTAzNDhGbjRYNkloeDRnam9SQV9QcFhuOGQwZV9JSE91U1dkZlVYYURVX3dCNVcwUHdqNnNUNDlsNWpzRk9HdnB2N0ZoUWdyZmRxLVZwNEpkQW93Yw?oc=5",
+      "published_date": "2007-03-18",
+      "source": "Deseret News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Men\u2019s Basketball Preview: Northern State - Vanderbilt Commodores",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdlhiQTRRZHFsaGFxa29UcnBUYk5QUUZkVWxHV2tabFVQN0RYZTNBR2JES3Z6RzBaNURrVmtxa2g3VzRsWW9UM01uU0gwNFJIRnE1Ujg5S3J3d3Y3WTktWXktdmZybGJyTW5Oc2F3NUQ4aUc5YmZ2Vlp4dThJZ2o4LVVKdUp1WEE?oc=5",
+      "published_date": "2006-10-29",
+      "source": "Vanderbilt Commodores",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "2f38ee0afad9c5e4a594ed4d41b480e7ce258c7c0fb5641b21f8fb61a2774e63",
+  "feature_eligible": false
+}

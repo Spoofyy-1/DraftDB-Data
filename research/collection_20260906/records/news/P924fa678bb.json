@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T09:54:11.228128+00:00",
+  "lane": "news",
+  "pid": "P924fa678bb",
+  "draft_year": 2006,
+  "name": "Marcus Williams",
+  "draft_date": "2006-06-28",
+  "status": "ok",
+  "query": "\"Marcus Williams\" (draft OR scouting OR prospect OR basketball) after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Marcus+Williams%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "UConn 98-92 Washington (Mar 24, 2006) Final Score - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM1FOcmc1Umc3RVQ0S0hQNURaSnRYTjQtSDRhdkgtTnZPOVlhWU5aaVZJMm9tbGt0S1p4MDBaQ1BZUy0ybk04enRHbWlGQ1VKbUV5bUZnd3YyQThEUHZ3NThYTXd1QVp4UzlKN3JTZ0dNNlhOeDhNTGRRS2NyVXJVYi1JaC1TN0FlcXY5MFBB?oc=5",
+      "published_date": "2006-03-24",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Tech Freshmen to Participate in Global Games - Georgia Tech Yellow Jackets",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ1lXVDFJcldNTERpQ3MzSWNfRFlyczFFaHNMV0ZNUXFvUXkxY3BDdWpYUEozVG1aY0lQLTcwc093RXFwTy1MMTVwRVdWaXBJUVByeENhYmhNZUhlUENyazB2azVENWNyQWxadllJUUNURTh0MVhxdldNLXJOcW5veFZjQTBjOHdnWnFQSV9R?oc=5",
+      "published_date": "2005-07-13",
+      "source": "Georgia Tech Yellow Jackets",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Associated Press Names Merritt Honorable Mention All-America - Samford University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE03MFdaMnRvLTNPa3hPMEhBc2NKLTZNSkpPSEZ0X0NUZXpzNEs5ZWl3c2NuSDFVOTc0Uk53UXFNbHZDVnN3REt0eHFsMWVoVnh6QXlSUjBtdHlyaTB1RmpIR1Fwdw?oc=5",
+      "published_date": "2006-03-28",
+      "source": "Samford University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "UConn 72-59 UAlbany (Mar 17, 2006) Final Score - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU0haazZ6UDQxTndkUmNFQUpWZjJhYV9OUlA5TzVJR241UmNqcUhRYU84ak1qX0VUOVRHTzhWUFM1dVpyMWlncVFYVHJTUkdWNDdRczNET3U5VXFrakxyQzBOckttOGRrQlRvVHllY0djaTdXS3UxYkFRa0NhQU5BYXpJZElRUkxIVEE?oc=5",
+      "published_date": "2006-03-17",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "8380ae3cbda26313395a9efd5956458655505a536ad0a69b8a3895f69397a7d5",
+  "feature_eligible": false
+}

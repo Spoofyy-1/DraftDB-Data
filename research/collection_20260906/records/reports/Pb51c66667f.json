@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:59:01.174226+00:00",
+  "lane": "reports",
+  "pid": "Pb51c66667f",
+  "draft_year": 2014,
+  "name": "Nick Johnson",
+  "draft_date": "2014-06-26",
+  "status": "ok",
+  "query": "\"Nick Johnson\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2013-07-01 before:2014-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Nick+Johnson%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2013-07-01+before%3A2014-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Khem Birch NBA Draft Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5iNHBKSF93WkJrNFFZRFZqYlNZOGlVa0l5M1RGY1Y3U2Z6TVROblJ4R2lzYTJWQ3dBa1lEUmc0VnVZTk1qNjlZcU9ONFpTR0ZhV0tMYTdFSVY4eUt0RVJNOGI4M3pfaWRSS3hhVVNBQQ?oc=5",
+      "published_date": "2013-08-02",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Mitch McGary Updated Scouting Report - draftexpress.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORTFUdmNSQlN4NDdqOEYxVUZtZmNkMjVZd0YtX3VkYU1IUXcydGpudWdNbWZHekZVZjIzTUVSd094X3Q5UVQyU1UzMV9IUl9lWVJPc3kzZktKeGpkUFpnOHlJTzNXWEZJZ21wR1VOb09BdDJscEE2MjRWTW8tV1FIaVl1U04?oc=5",
+      "published_date": "2014-05-07",
+      "source": "draftexpress.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Draft Profile: Kyle Anderson - Orlando Magic Daily",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSM1VUMm1EZnBaOGVlQlpuR2ZTYVB4RUlCRldseWdZcERLbnZBZVRRdjZsRTZ5dVpPNjNrY2NTVFo0UWgyRjNGVUo2dGo3WjlXYy05VkloTk95dUswclcyejI2ZjB3bS1scTJ5c1ctTjgyWlFUNWZyQw?oc=5",
+      "published_date": "2014-06-08",
+      "source": "Orlando Magic Daily",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "a76ccf8b9bdfe6636f7e0d955f2c81d21be55357b9780aec61330e0d62306f91",
+  "feature_eligible": false
+}

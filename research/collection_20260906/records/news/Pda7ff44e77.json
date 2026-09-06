@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:02:48.549865+00:00",
+  "lane": "news",
+  "pid": "Pda7ff44e77",
+  "draft_year": 2008,
+  "name": "Nicolas Batum",
+  "draft_date": "2008-06-26",
+  "status": "ok",
+  "query": "\"Nicolas Batum\" (draft OR scouting OR prospect OR basketball) after:2007-07-01 before:2008-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Nicolas+Batum%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2007-07-01+before%3A2008-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Timberwolves invite nine prospects to work out - Pioneer Press",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM3gwaEs5RTRYeW96c1F1cUhwN0g3dE4yUVpYMnRmWnJwSDU1dVJUd25tVXVjdU5Ma0poWGRDMHRROTdDTlhVYXRCM1NvUnlFd3k3Y1cxanhmeEJPWmk0WG5ZWWt3MVpmcXFNOW01T1c4YWE0MlpWellseGFZNVRUcGdzSGlSdFRFOGlyRTBB?oc=5",
+      "published_date": "2008-06-13",
+      "source": "Pioneer Press",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Live streams for free - BallinEurope",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5c2ZqYzdEcVVpdV95bWthb290TjIxMzh4M3JNR0ZkcXNjQWRWUHkwbTRNMHo3LXZaNTFfVFJuTnRIa0N0bUdLOGFnNmVra2RHaEIxVDBEQ2xWWDhfZE05VQ?oc=5",
+      "published_date": "2008-01-30",
+      "source": "BallinEurope",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "811ba0f9d7ee2175acb8a44931a68a246a996edf2e344339185fccd1df74cf1c",
+  "feature_eligible": false
+}

@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:54:57.518863+00:00",
+  "lane": "news",
+  "pid": "Pcbdc976fea",
+  "draft_year": 2006,
+  "name": "Tarence Kinsey",
+  "draft_date": "2006-06-28",
+  "status": "ok",
+  "query": "\"Tarence Kinsey\" (draft OR scouting OR prospect OR basketball) after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Tarence+Kinsey%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Music City mojo - GoUpstate",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaWV3ejAzR216VkUzMExsLUJ6c05MQVhxdEkyem5OekExcGF5c09YNm1oSTItNmctaldqeHVTY05WdUktcnRQWllEd0FyekpKNmxBMkhzQW1WM0pZdTltaV9YQzBoYTlXTlkyeHNmRXFmN1NoYWkwblhBQmdOWVdqRlVn?oc=5",
+      "published_date": "2006-03-09",
+      "source": "GoUpstate",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Gamecocks repeat as NIT champions - Lawrence Journal-World",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wUFJRYmxRM3h1Sy1LTG5TRGRyNTVndTQtUmZfamNtTUFveTZXRU9kRkFJdHhNREtFRDBaR2FMWlQ3dU5JUkJ4cXJhVVUzbDQxbkE5b1lTb0xfRUcxb0tIeDUtRzdUdnZnTng2QUV0OE5SZHQ4bWI2eldscXgzZw?oc=5",
+      "published_date": "2006-03-31",
+      "source": "Lawrence Journal-World",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Gamecocks win NIT again - Deseret News",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBac1VtMnIzN0RSWmk2OFRaV1pxaE1zaDZXdWcwaERESnp5ZXZUVFhPYjc3M2Z6MDBza0JrM0NRVFVadnZvS21vUUJNSGxnV2pVRW1NMlpNOEJjNVFETWhXMGVmVFVLM3Y4UXBibTh0d3MxQjdkVVE?oc=5",
+      "published_date": "2006-03-31",
+      "source": "Deseret News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "f0828679285b6163c135c01370fcee851bce009276cd1a464b5a5028c1da4da0",
+  "feature_eligible": false
+}

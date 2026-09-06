@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:54:06.833857+00:00",
+  "lane": "reports",
+  "pid": "P9dbf445dc5",
+  "draft_year": 2013,
+  "name": "Dennis Schroder",
+  "draft_date": "2013-06-27",
+  "status": "ok",
+  "query": "\"Dennis Schroder\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2012-07-01 before:2013-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Dennis+Schroder%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2012-07-01+before%3A2013-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft 2013: Dennis Schroeder scouting report - SB Nation",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNWZwS3JseUFmNzFQUkFXaWJEMEd1aThaY0hGd1Jxd1F5ZTN0eXR5WTFvMzFNX0k3eGZUalEya2ctSENza0ZjSnI3VlItX3BUSmpaMFRhQlFGV1I0dVBlMndDeWVEX050eG80Tkc2c3MzXzZJYVBXN0hQLW1PaHF5SEJsWXlpaXRZZVkzN0k2Q1p6Vmc?oc=5",
+      "published_date": "2013-06-09",
+      "source": "SB Nation",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Anti-NBA Mock Draft 2013: Evolution of ESPN\u2019s Top-100 Big Board - Brew Hoop",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNWt0aTVaakREQWhoY3hIZlcyeGpBcXhaQzlFZERTODlBVTNjQ0tZM2JNMlE2UEhOd0JiX2hQVGZnOThSaVIxcE5Ubmc3YTdZY3ZZbUowUDJPbEZWY2NGdmlpeVJOSVpGNDF0RWY0aEgzbWpLM3o1eEhza2Fkdl9zQTNRaHdJT0k?oc=5",
+      "published_date": "2013-06-16",
+      "source": "Brew Hoop",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "477ec340a37d2323445d0f7d9f2fadfabaf9b0f6fdb20379623ff129e03e220a",
+  "feature_eligible": false
+}

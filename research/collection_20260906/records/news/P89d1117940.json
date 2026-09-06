@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:15:17.232654+00:00",
+  "lane": "news",
+  "pid": "P89d1117940",
+  "draft_year": 2011,
+  "name": "Jeremy Pargo",
+  "draft_date": "2011-06-23",
+  "status": "ok",
+  "query": "\"Jeremy Pargo\" (draft OR scouting OR prospect OR basketball) after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Jeremy+Pargo%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Milk Carton Madness: What Happened to These Former College Basketball Stars? - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTBBai1DTXh0UlJBbUlWbW9VbVhGTFQ4MG5MMUpFcXlkWERQX3hlTkpRVmJDZVhpbGFmcXVnUlp4SlU4R3F6SkxXdjlVcTJ4M2VsNURjb3Rvd2FBeWhaRjc2cDU1bGlPR2dtZm91bTBzbEJuNzRNRlFYQVZuQ0JNQTdGTVU5ZzBSYjRMWFhCYXBsQmJCTFdQUlBISEhOcUVYZDJJS0FqdWc0RTI2ZDNmMEh0NWE2WXd6?oc=5",
+      "published_date": "2011-05-12",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jeremy Pargo Signs with Maccabi Electra Tel Aviv for One Season - maccabi.co.il",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94ZnpFWU1PUW9JVjU5d1lzSFoyaDB1eUdOSzVsMXFJcHRfckVfeGxjcW9vOFp1X09QZFRDMUJvM1V0TXRVWDBqN0RXQ2pOU0wwVVlyZ2N1NzNqZw?oc=5",
+      "published_date": "2010-08-26",
+      "source": "maccabi.co.il",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jeremy Pargo Signs for Two More Years - maccabi.co.il",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85R0RoRk9rOGJfWUpocDhaR3FHdWFKQXU5OTZfZk9pdE9NRndPek9KM19iR0VUeVc3bzFXS0dtd0NVNkxPbFV6TDVteG5LcTd5QlN1cENVQXZWdw?oc=5",
+      "published_date": "2011-05-24",
+      "source": "maccabi.co.il",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "15bd837c598180bb8023f7684870e0f3c0a30005d5398e0cea8a08ce8db12e88",
+  "feature_eligible": false
+}

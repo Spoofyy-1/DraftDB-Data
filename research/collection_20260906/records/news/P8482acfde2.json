@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:01:29.111459+00:00",
+  "lane": "news",
+  "pid": "P8482acfde2",
+  "draft_year": 2008,
+  "name": "Sonny Weems",
+  "draft_date": "2008-06-26",
+  "status": "ok",
+  "query": "\"Sonny Weems\" (draft OR scouting OR prospect OR basketball) after:2007-07-01 before:2008-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Sonny+Weems%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2007-07-01+before%3A2008-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "USBWA Names Alan Voskuil to All-District First Team - Texas Tech Red Raiders",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcU5JS1NEakN4ZzhPZHdsMUhnSmFZSjIzVEhPUlZsZlNVU01Ud2JSNWNZeTNnX0dfclBZNWs3b2lNbmt6UTVNOUZoZmdENy1EZkpHcDQyczBLVkwtcDVsQVhkejVCSDcwaGNNSkVnX0VoWWhid1ZvTEVETm9lVmJWV3ZwRVZOeUo0UURld05VbEozZw?oc=5",
+      "published_date": "2008-03-11",
+      "source": "Texas Tech Red Raiders",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Notes from the Field: Basketball Practice Begins - Arkansas Times",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMnEwa1puZ3NORzhFRDNVNm83aUtXd0xoTFR3eUlPQ3EwUXZReE1tSlpQSzRnRVJmdl9YRWdiMWh3Vl9tSVdqUnpmRHUyNUhDZTIzYUVUaXptT1o0aUxVZjAxTUZtc21fX05KXzVpcWFYSlBJdmc0TmpFTmV4M3ZOUzZSZDkxR1BOYU9PVUxOV0poQ2dfeVlEUFllalI?oc=5",
+      "published_date": "2007-10-16",
+      "source": "Arkansas Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Richard Hendrix named first-team All-SEC - The Tuscaloosa News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ2ZDa0F3ZEdoWGJHMmJLTnh2YWhzWE5kMm80QWliNmc2aUpfeUFzSjBBUUw2TE1ZZUI4cE1kM0lxWnRBa0RISUlNUDlCR0RJcWN6MlRlRmphZmFpYTJNWG53WjVrTnIxT3VOdE02TTIwanpjdVFDeWt5bUhhUnE5ZlpfbHNvM3BDY3BUY0xJYTdjMDVZY18ySXZCSlo3VmR1R1BLMlQtcDJVeldV?oc=5",
+      "published_date": "2008-03-11",
+      "source": "The Tuscaloosa News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "9725b6e245d643c2d023099c6cda4d52046b093a5364439c713c33ce3ea40288",
+  "feature_eligible": false
+}

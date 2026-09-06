@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T10:00:42.626011+00:00",
+  "lane": "news",
+  "pid": "P4e0fbd7a78",
+  "draft_year": 2008,
+  "name": "Jason Thompson",
+  "draft_date": "2008-06-26",
+  "status": "ok",
+  "query": "\"Jason Thompson\" (draft OR scouting OR prospect OR basketball) after:2007-07-01 before:2008-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Jason+Thompson%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2007-07-01+before%3A2008-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Jason Thompson - Mississippi Free Press",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWaGhVZkJGWHM4VmZBcEsyOVBEbC1kcEJ2SXBHZ1hTZWstbE5ESHZYdlRtem9jQmtudGxKOWtmVmZEaWtiZ3pEU2tPUXlVWC1nUEd0bmI1RGd0OEVfaUp6UUZR?oc=5",
+      "published_date": "2008-06-04",
+      "source": "Mississippi Free Press",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "MAAC men's basketball insider - Times Herald-Record",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaUd1SnA2amFrNDluZ0hKR2xnM3BONkhMa3pueXB1bFZMQmhGaXBHLUNHV2dsV1hLQ3lfVVdvbWM3bF94ZEI2TnJROXJSUnVneExKamFxOXF2NFZHcUplZXVOczQ2TEtnalhpandEZ0NadFlsdVpmSmdXdUFtelE4czlyWlNMeTJ1dkJmVGd6TFlzNzdiWU5TY3Braw?oc=5",
+      "published_date": "2008-01-04",
+      "source": "Times Herald-Record",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Fisher Lands On Mid-Major All-American Team - Niagara University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92TVJtM3dGcm1qUkZiN1J2a1FVMjBEZmxxY2U2VnlNMlc2ZUhTSkJ2c0xNZ05ZUmhDekx0bmkyVDlvSVM3ellsVnZYa01kSjVoUUhHYzV5UzllN0E4Z0ZGd2hYVUU3aTMtcHJFQWdJUQ?oc=5",
+      "published_date": "2008-03-27",
+      "source": "Niagara University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "GBHS Basketball banquet award winners - Gulf Breeze News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUWx0NzAtRm00cFNZMWlCYjBfU3JKMXRrYTgxWUtjQVdDeVh0LUNPcFA2QjhqTE5RWjZlMThWUjFWRUxETXZVYUZPb2NMQ2gtX2hDSTZpYWU2U1JWV1NRWlFZUmJJaXhvSUdFNENRQWt2UHdPcjItZWg5SHZxS0VXaXZhMlEtZw?oc=5",
+      "published_date": "2008-03-06",
+      "source": "Gulf Breeze News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Gulf Breeze Ford honors Dolphin athletes - Gulf Breeze News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT1RscTRPR1hRalgxT05TTTN3d1VmRmQ5UVhWb0dhNjB5S1NvMXJEdFVhU2VkUkx4WWdzajFEbzNnLW9Jd2RJTkFPVDc3c2RaMmVZUFp3c2tLejJieTExWHYzaERLdVFzNjFod2NaUkQ3LV9TS096ZnAycHEycXdacDNXMlRaQS1kemc?oc=5",
+      "published_date": "2008-05-29",
+      "source": "Gulf Breeze News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "c7120f620ac5cef3acc8ee68ffb7f5ab6e323611fcaa10673b8cfd8dfd86c625",
+  "feature_eligible": false
+}

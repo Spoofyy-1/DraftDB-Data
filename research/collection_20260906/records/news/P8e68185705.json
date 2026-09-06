@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:57:42.450050+00:00",
+  "lane": "news",
+  "pid": "P8e68185705",
+  "draft_year": 2007,
+  "name": "Kyrylo Fesenko",
+  "draft_date": "2007-06-28",
+  "status": "ok",
+  "query": "\"Kyrylo Fesenko\" (draft OR scouting OR prospect OR basketball) after:2006-07-01 before:2007-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Kyrylo+Fesenko%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2006-07-01+before%3A2007-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Top International Draft Prospects - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Ed1h3cndSRlYwczlqZjQ3eVpUSmxfLW9GdFFTV0o0ckNFUFlsWE9WQ1o4UVA5MTNEV1U1QVBXM0IzbDhaVnFDOVFJRjltVDAtWFpUMDVtbWtGdzZ0UW15TjJGa2NRcHRmdjBTSTY3cmdnSlRXZ1RDbg?oc=5",
+      "published_date": "2007-06-22",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "f126efda65193db8d70fbbf994f7d87819656088dd2bfd23ae5283c7dcf241ff",
+  "feature_eligible": false
+}

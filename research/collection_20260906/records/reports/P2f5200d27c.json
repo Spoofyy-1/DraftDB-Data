@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:16:54.922485+00:00",
+  "lane": "reports",
+  "pid": "P2f5200d27c",
+  "draft_year": 2007,
+  "name": "Javaris Crittenton",
+  "draft_date": "2007-06-28",
+  "status": "ok",
+  "query": "\"Javaris Crittenton\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2006-07-01 before:2007-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Javaris+Crittenton%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2006-07-01+before%3A2007-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Javaris Crittenton Interview By: Aran_Smith - NBADraft.net",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKdkdTVW1zQ2NTLXNLOFBSSHMybnhVamlieXZtTDFHaTIwR0VPN3E5aUVKS08wRE9Hd2ZRd3NYR0FGZ0VITnNQeW5aRXVJS0p6bmJmSkEzMDVIZ2FzYWtVdWtRZEg?oc=5",
+      "published_date": "2007-06-20",
+      "source": "NBADraft.net",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "3fd81128ab5dd2528efda0ee4d0a28bab61842482f91117e848dfe1faedd76c5",
+  "feature_eligible": false
+}

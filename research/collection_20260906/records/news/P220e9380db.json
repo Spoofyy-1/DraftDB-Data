@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:07:47.156061+00:00",
+  "lane": "news",
+  "pid": "P220e9380db",
+  "draft_year": 2010,
+  "name": "Mustafa Shakur",
+  "draft_date": "2010-06-24",
+  "status": "ok",
+  "query": "\"Mustafa Shakur\" (draft OR scouting OR prospect OR basketball) after:2009-07-01 before:2010-06-24",
+  "query_url": "https://news.google.com/rss/search?q=%22Mustafa+Shakur%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2009-07-01+before%3A2010-06-24&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Thunder sign Shakur to 10-day contract - Sportsnet.ca",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1adHFCUnRiTnlhR19WWE9LVzIyTWZHaGRDUVNTRGxxbUNiMGh3aWp1RVdaSlpPWG1TeXV2X2RlSkNPQjYzV0tCNUZSYXNJN21rRmg0RklZOFBDYWE1WXM4SnhTSGY1UdIBb0FVX3lxTFBtaDdpMV85ei1IaDlXUGlYODEwVVppRnZCZEZlTGp1dC1UY2VXQkN0bGIzVEZKbnFxY2Y0WmVFS0tMLVE3Vk83WGU5cnlKVUdFdVdPN0owQ0pxQUJ1YzRBa3RvX2tOM1BqTGtaVTlqQQ?oc=5",
+      "published_date": "2010-03-16",
+      "source": "Sportsnet.ca",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Tyreke Evans' strength coach is support system - Inquirer.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLW9zeEpPM3ZjWDV4NFdxQkdpcXRHMFljdERSLWlhOVZ6aVFYYXcwbjNSTVdmeG5rTUxfdnRoS0Y3R0M1VXV5UjJGNjBnUmhNc3RhdmhVTGFTbmFkcFJuWmNvTnBET3loNFlITlplSWlTQnd0TXF2bHZ1ZFM3b1Uxb29DUTl1OEx5V1NucTNfbS02ODc4NjdEcldJVjBDZGhINVN4Vk5OdG1hZw?oc=5",
+      "published_date": "2010-01-15",
+      "source": "Inquirer.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "d5d4f7f97938e697761caf6f632be3561774382113fa5683960e2fc22ea5fce3",
+  "feature_eligible": false
+}

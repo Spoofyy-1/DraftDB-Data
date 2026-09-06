@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T09:58:12.057235+00:00",
+  "lane": "news",
+  "pid": "Pb70d7d0b57",
+  "draft_year": 2007,
+  "name": "Daequan Cook",
+  "draft_date": "2007-06-28",
+  "status": "ok",
+  "query": "\"Daequan Cook\" (draft OR scouting OR prospect OR basketball) after:2006-07-01 before:2007-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Daequan+Cook%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2006-07-01+before%3A2007-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Jones: Undrafted Thurman - ESPN Page 2 - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXZWJiZUpLQ2ZIYkNxR193VTNXWE1neW5HejJsaDN1aGZjM0dpV0trR2hsbGl1bVUtVENQSG5MR3ZlRFQyS09WaFVFWC1JYnUwWHgxeGF6V1Uxb0dZZC1OQXA1QTg?oc=5",
+      "published_date": "2007-05-04",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Sports > Image - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53aUMyX052VVdKd0JmbFhxYVBYVGdyczhiYzF0TkZpdWtnWEZWTjJncnFFTE1NV28tQjJJWFdaYnFYRWpPX1VzQVFGNmtyeEVvcnZ6YmdZZ1RMNHdUYldiRk5vWFBBblJJRURjaWJWazc4UUpzbGJlMFM5WUo?oc=5",
+      "published_date": "2006-12-22",
+      "source": "The New York Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Ohio State Will Celebrate Season Tonight - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcUpvTXRVOEtYSjlDdzJqdElWVTBaVi1hWnZtYlJoaGV5bGszZmczZHhYb2kxZWhwRVhVdUtHdUE0QlotMFNraWtfdk9WZnA3dGhqWVludko1N3BFdlJMNktGUjZCUm9Hd2oyc2htNGJUYm8xdXlkZjB3WXdwTndFNEwtX251YXlkRXVfeFozMXJtUnZMd0ZSOURTWlZkUjJaVGc?oc=5",
+      "published_date": "2007-04-10",
+      "source": "247Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Pogue leads Wolverines to title - The Columbus Dispatch",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUUF5MlRjWmF6S3FUc1k4MDZ4c3EtX3cxZkVjc2NxUHBfQlZDbWJfUWhFRTZGU3FtRDlXYnV3V0hBajFpei1JRGxLNE5DaDk2WkVWTFJFVi1PcnpycWJMd3Vab3p0eTNVai1WbGlaZ1RyXzhkbmwzY1lwbFpsTnRmNVIxUUc5cEN6SThXdnFHb1RpcElFbUE?oc=5",
+      "published_date": "2007-03-25",
+      "source": "The Columbus Dispatch",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 3,
+  "response_sha256": "a239234e89b3e3022c337bda3b65bddbf40cfd70178ea5618021b198f8c7824b",
+  "feature_eligible": false
+}

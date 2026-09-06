@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:05:17.967220+00:00",
+  "lane": "news",
+  "pid": "P6d59a1d0fb",
+  "draft_year": 2009,
+  "name": "Reggie Williams",
+  "draft_date": "2009-06-25",
+  "status": "ok",
+  "query": "\"Reggie Williams\" (draft OR scouting OR prospect OR basketball) after:2008-07-01 before:2009-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Reggie+Williams%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2008-07-01+before%3A2009-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Better Know a Draft Prospect: Missouri Wide Reciever Jeremy Maclin - Big Cat Country",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QRmVJR2ZXcVA2aGlMc3BpTUpxVlNmTmxXQkhacDRfY2xSN2h1clVERXdCQ185bHlkOFlOSUJKcE5LZHlaaWE2ZjdGZ2Z5STdKOU5KU1V1cUZPV3VLWnJvcW9jVExMeUsxZ0RFNmNLT2lBaGtHejBIMUlsQ3Q?oc=5",
+      "published_date": "2009-02-09",
+      "source": "Big Cat Country",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "The Best of the Beasts: News ranks its all-time Big East teams - New York Daily News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTWhfUGZZd1oyTmZnckV1WXRobTQtRlZrNWRDaW05VGl6Yk1wMGMwQThoYkhtLTZiMG9kSU1USVJOX2k1NVRFenJuZFJSbm43VmxCXzlpTDU5SmVTUG00UmNhSDBFLTUwUENka3ZhZnZTMVgyZnQ2VHl6MnFINWZMenNLQVA3bWJaUE1Yc0lQNGc2bzlrTHhKeHlPaFJMdXBFaG80?oc=5",
+      "published_date": "2009-03-16",
+      "source": "New York Daily News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Team Preview: Jacksonville Jaguars - NFL - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSRUt3bmdTUlFSRHA0ckVMSXVvZk5CUEV5NUJwckx6Wl9hNXlKd0N3TnFlR213QU5fWEFkem5ZbUdkYTE0THdoYlRzNjVuSWJMQWJEd2tKeEhqbGhZ?oc=5",
+      "published_date": "2008-08-28",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Leaps of faith: Slew of Big 12 players project as first rounders at next level - KU Sports",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTk1XSVBzNHRHc0VvdzFCMmZqamdiOUFfYUJBNzJ4ajU0VGUxYmowNy1HdmdWb0I2dlNRWWk0TllabFVHSjNqVnkyNEpDT2g5SDBpS011ZmE1ZldiWWt4d1dtWFhBekRfemJ6enprMTZjaWpwR2V6UllpVVdJUk1PSkxkVzdoNmNkR3pUaW4wNnpydWRMbG5yNDV3?oc=5",
+      "published_date": "2009-04-22",
+      "source": "KU Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "95c6952755d2c7f913aec21d935ce3e15d0b7276dd53e88528c491fb98a3a59b",
+  "feature_eligible": false
+}

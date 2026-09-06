@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T10:01:25.595812+00:00",
+  "lane": "reports",
+  "pid": "P1f7c85948b",
+  "draft_year": 2000,
+  "name": "Ernest Brown",
+  "draft_date": "2000-06-28",
+  "status": "empty",
+  "query": "\"Ernest Brown\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Ernest+Brown%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "9554e8ea7dcb5b8d0257098ecaa172912be5075c42a7f260e9294f39391bcc65",
+  "feature_eligible": false
+}

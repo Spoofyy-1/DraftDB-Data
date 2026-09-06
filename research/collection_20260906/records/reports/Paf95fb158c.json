@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T09:58:57.946952+00:00",
+  "lane": "reports",
+  "pid": "Paf95fb158c",
+  "draft_year": 2014,
+  "name": "Jusuf Nurkic",
+  "draft_date": "2014-06-26",
+  "status": "ok",
+  "query": "\"Jusuf Nurkic\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2013-07-01 before:2014-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Jusuf+Nurkic%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2013-07-01+before%3A2014-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Jusuf Nurkic NBA Draft Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCQ09WblV6NWQxOUlCdmZVcTVVMXdreVl2MFNuOGd0MHJVU3FtcC1NYW5aQURfS2ZGRS03U2VmOV8weC1QOTJaSVVQNlJZbmthZTNGVDNVR1JLckxWLWdiS1pUMER0SXRzQVQ5SWdOSXVldw?oc=5",
+      "published_date": "2014-03-29",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jusuf Nurkic: Scouting Profile for Denver Nuggets' Draft Day Acquisition - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLVdOZm9QRjNsS3V0RzFmNkVid3gzX0NPUVNrVmN3c0dLeDN4MGptSXRETVZyMlNKempsU1NUQ2FMUUJ3VU56TGtIRVV5WWptZHNWdFJITjd1QldNVUtHbFVqeHM3SXp3Ry1Hc0FNSDNIbXRvZjg4NUhBeTR5dUwyWXRva3FGU09udFFqQnVRV3V4LURDekxQLTBJSndoMTNObExjU1cxNTZYTXc?oc=5",
+      "published_date": "2014-06-17",
+      "source": "Bleacher Report",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2014 NBA mock draft: Cavaliers should go big at No. 1 with Joel Embiid - SB Nation",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdkhjMlZIMkxLeTdRbFJ0RWV1YTV0SFBFdmZzd3J3SlkxbThLaERWUGVCc3c3MF9iTG5ZaHIxTDZLd3c5ZWxOUjhxTHE1ZEZDdzMzcmNCUjJqb05jNVVGcDBtTmZkZUNVTkphQWRib21jY2dOVzVDQzV6cldJUHhFYlpnLW1GNHpQWURvYg?oc=5",
+      "published_date": "2014-05-20",
+      "source": "SB Nation",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Mock Draft: Andrew Wiggins No. 1, Lakers pick Julius Randle - Los Angeles Daily News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc1J1cTZ3d3JXU3JKSVc1SF94czlPMXhTVWNobnpWdHlzWmpQNFpCMHp0UW9MOS1rTXNTUEhrb0Qwa2NOenZiNUhnTXFVb1h1M3BvblpOV01LVVh3QWNjR2NEZEprMXdYeENXQkM5SWZhSnJ2N1R0QzM5eUQ4dU1DYkp0QnFlYlZCbFQxTkd6UTJaZl9CblJfc2RVZmxmXzhiVWduOEpR?oc=5",
+      "published_date": "2014-06-24",
+      "source": "Los Angeles Daily News",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA: Mock front office makes its picks - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTmhiMGJ4VFprZk9pbExwU3JhSXhtNEc1eG15OFhENGdJdWxaUW5qcGJyM0FMallDRkZlYmx3S2lsa1J1TzVoSExJa0dJYkNGVUlub3RBa3dPRmxoUVh5TmUwX1lEZWp2aDNYZ0s4V3AydTNGbnBnV04xTlItMHYtNlJPVHZxZFVhUWwtWUM4VjlFUWV3aDFSY1c5el9XS01KbVJ4QThrWEhTajJ2cjFPWTBxWmpVMEExZW5DOG5mYnp5dw?oc=5",
+      "published_date": "2014-06-22",
+      "source": "ESPN",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "316542a6ba4257729b20e6e6dc3f386181f6c237bec0b7e90924a5c68a3e9bb8",
+  "feature_eligible": false
+}

@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:54:37.868005+00:00",
+  "lane": "news",
+  "pid": "Pad940d555c",
+  "draft_year": 2006,
+  "name": "Solomon Jones",
+  "draft_date": "2006-06-28",
+  "status": "ok",
+  "query": "\"Solomon Jones\" (draft OR scouting OR prospect OR basketball) after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Solomon+Jones%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Bulls Conclude Rainbow Classic With 54-50 Win Over Loyola Marymount - USF Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rUDF3aUY4Yi04WGNGZUdSWkpmTnZXZkFZTDUzLTdPMEhFTzBGd1gtWHJFUkhyWHR0Q1NmM0QtUER4bHQ2MlR4NDROSm1KSE04alpmQ0lYbko?oc=5",
+      "published_date": "2005-12-23",
+      "source": "USF Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "a012397c992682a15a08abc56aee2784ac05f3d79694cfe6379e8709f76cd2c4",
+  "feature_eligible": false
+}

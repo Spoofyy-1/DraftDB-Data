@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:52:48.031177+00:00",
+  "lane": "reports",
+  "pid": "P607c704c53",
+  "draft_year": 2013,
+  "name": "Deshaun Thomas",
+  "draft_date": "2013-06-27",
+  "status": "ok",
+  "query": "\"Deshaun Thomas\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2012-07-01 before:2013-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Deshaun+Thomas%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2012-07-01+before%3A2013-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Mock Draft 2013 roundup: Nerlens Noel likely to go No. 1 overall to Cleveland - SB Nation",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQWhxNE50WVQzdXFhSEhQTFNBYWRVejVvOUNXLVhiYUY3Y0pCcWxsamJLU0wydWF0UXJYZDhJTHBua2llbF9kNUJCMWdfMEVReFE4N1ZEc3JIRExUQkhGWTY3UkNJYU9aRVV6bmNsUmhvcmJoYU54cHMyS0lteW5BQ0tSalFtMVRhYmYxMzNGSDJ5Wms?oc=5",
+      "published_date": "2013-05-22",
+      "source": "SB Nation",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "8847cc7d1a4f9f9de21d6117f3169ec545fafa0c4ac8c4ada06c6a1697dee8e4",
+  "feature_eligible": false
+}

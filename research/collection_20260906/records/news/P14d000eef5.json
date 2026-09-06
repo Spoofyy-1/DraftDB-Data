@@ -1,0 +1,72 @@
+{
+  "collected_at": "2026-09-06T09:51:48.316686+00:00",
+  "lane": "news",
+  "pid": "P14d000eef5",
+  "draft_year": 2006,
+  "name": "JJ Redick",
+  "draft_date": "2006-06-28",
+  "status": "ok",
+  "query": "\"JJ Redick\" (draft OR scouting OR prospect OR basketball) after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22JJ+Redick%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "The other side of J.J. Redick - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56VlBKdHBQU1lSTG0tOUppeXh3NHQyRUdOVUpXSlRSdzN3UjNBVnZFc2lrUkM0RlNWVV9lTE5EU3J4U3dsRzYtY3lYRHNxZ3NacGZNRG5tdXVNZFdNY21VcXZTeW5jRUpsWDkwZzNueHV6MzlzYWtvdGNB?oc=5",
+      "published_date": "2006-02-22",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Redick Wins AP National Player of the Year - goduke.com",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MNFJZWThtcFhHZDMxMUEzSEpTZHhOcVlXc1pQN0VNcU02T2R0QjdlcmoxdU56UmtGZmV3Z1g1MUlqRUc1VDhrRmVrdkF3S1BRT2c?oc=5",
+      "published_date": "2006-03-31",
+      "source": "goduke.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Duke Hoops Star Arrested For DWI - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tb1pNV3lVSWp4d0s0ejFoVkNNMEE4bkpqOE93bFZ0VW96Z3hldGZFT01fWXhsY1hrdmdvVnR5TklwT05NX2diTzNTczdoQ0xGRzdqdkkyQUNBNldsMHR0M2hrRWZUZHpQSFh6UWhPWQ?oc=5",
+      "published_date": "2006-06-13",
+      "source": "CBS News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Morrison scores SI cover shot - The Spokesman-Review",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZFNvWHd3bXdxWDRIY252QzVuYkJ6eERucnB3bUJ2V0piMGlNcnRRNFJ0SFBUMEh6MTV6VUVrdElBREVXaFY2ck82dC1JcENVaU82b2t0QUhOTkwwLTJYbHJLcjVyN0s2N0c5eDR6SzJOalBEQW10dThhVkRfS1BsSFNR?oc=5",
+      "published_date": "2006-03-01",
+      "source": "The Spokesman-Review",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Redick Breaks ACC Record, Williams Leads Duke To 74-66 Win Over Temple - Duke University - goduke.com",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYT2dvWEU2QjZFSi1WVzNEc0hfYUcxdDhXRVRMNTJTbTJ2ODBRT2hmcENNSkNCSGgxaHp2WjJfYm1NSGJxRXVMa0xycDk0dUt3Z3c?oc=5",
+      "published_date": "2006-02-25",
+      "source": "goduke.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Redick Wins Naismith Award As College Basketball's Top Player - goduke.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1STDhSbnI1SGw2S2dncWJTZFZnQ2VXOGZzQThrMXc0N083S1JuYUswblpBQzVUTHZaNEFXaTJTOVhXa0JCd0ltMi15LUpISjVz?oc=5",
+      "published_date": "2006-04-02",
+      "source": "goduke.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Redick Wins Senior CLASS Award, Williams Also Honored - goduke.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02RkJTTlUwaGFvM0pGS3hFUE83SG1mRUlESGdhMG1nTFF2UzVhZmM3QUhFRm44VUR3bmVLeXBoYTM1ZmQzRkI3alBwVjJ3SUJf?oc=5",
+      "published_date": "2006-04-02",
+      "source": "goduke.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "c75b821fff1a708006c3324e75c5a0d48c30b62395a32806055daa3525a924ab",
+  "feature_eligible": false
+}

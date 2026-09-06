@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T09:59:57.820880+00:00",
+  "lane": "news",
+  "pid": "P2bc925c307",
+  "draft_year": 2008,
+  "name": "Joe Crawford",
+  "draft_date": "2008-06-26",
+  "status": "ok",
+  "query": "\"Joe Crawford\" (draft OR scouting OR prospect OR basketball) after:2007-07-01 before:2008-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Joe+Crawford%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2007-07-01+before%3A2008-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "UK's Gillespie expects pressure - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS2d3aWI5RGRURlVVRl9OY1hUQUVKOWZPRndwUm9LdlFOUjdSVXNBRmRWUnpqV2MzcHRwUWVvSEI4LXhHUTNBa0hzNjZIQ21UeHpLNzRVbmtYa0ZhUU03aWE4QkFfTGVVb3ViQjRKdVl5WDhHSGdHRUF4Q0xCd0xINFNQWUhXSDkyMUxXWjg1M3Q0OFZCVmhscQ?oc=5",
+      "published_date": "2007-10-26",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Kentucky Tries a New Role: Underdog (Published 2008) - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55ZXJWSzV1aE9IM0JmUTFYMHhMNVRrOG82akM2UjdGQVJueVE1aU5XMXdDcGpTa2o4VVVfN2ZuWWhOcHdPQ0pJM3Y3MmxoWEw1ZnNLN0NMc1dCT2JwTTRVSElwOGU1N2pycWdyVnQwRWdBU0NqdU5jZDFPVQ?oc=5",
+      "published_date": "2008-03-20",
+      "source": "The New York Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Richard Hendrix named first-team All-SEC - The Tuscaloosa News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ2ZDa0F3ZEdoWGJHMmJLTnh2YWhzWE5kMm80QWliNmc2aUpfeUFzSjBBUUw2TE1ZZUI4cE1kM0lxWnRBa0RISUlNUDlCR0RJcWN6MlRlRmphZmFpYTJNWG53WjVrTnIxT3VOdE02TTIwanpjdVFDeWt5bUhhUnE5ZlpfbHNvM3BDY3BUY0xJYTdjMDVZY18ySXZCSlo3VmR1R1BLMlQtcDJVeldV?oc=5",
+      "published_date": "2008-03-11",
+      "source": "The Tuscaloosa News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Q&A with Sundiata Gaines - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcUMwNWZDT2EwZGtkczBnTnA1RGVINkJoWWNIWVZuN3VFRkhlbjdYVzFHSlluMmNUWl9uN3BlVXdZX1RiOFVoOE14bmppRDRSclljT0x2UDlMbm42ZlBCcnFGTUNNYTdKQzJ6Z3UxNEZGZmVtbi01a0Y3d3NMeXdCMEJqSHhyMWRNS21xVnRRUQ?oc=5",
+      "published_date": "2008-02-07",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Duke barely gets past Belmont - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcTlWNWRyeTdXcE5hLUo2ZTFsWldLdVpDOU9CZDJaT3RBOHdtUGVEdnJMNjk5NzFaV0VCdG12WjNKbzlLR2RScHJpeXF6UGxWMU5FV20wQ1BORVJHd3FQSmd6VGxZTHB3Q0p6bWdGS2tLcDgtdGZLWjNpVkg3VFp3aDhJY3I5dC1RdW10bE1NTzRJSUZBcVdN?oc=5",
+      "published_date": "2008-03-20",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "feb304a04d255f3bacde9d31e4377d6fe5d23bf6a5352033abd8de9fff1f3408",
+  "feature_eligible": false
+}

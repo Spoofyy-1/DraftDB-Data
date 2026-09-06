@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:03:15.220393+00:00",
+  "lane": "news",
+  "pid": "Pfcb4575061",
+  "draft_year": 2008,
+  "name": "JaVale McGee",
+  "draft_date": "2008-06-26",
+  "status": "ok",
+  "query": "\"JaVale McGee\" (draft OR scouting OR prospect OR basketball) after:2007-07-01 before:2008-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22JaVale+McGee%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2007-07-01+before%3A2008-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Timberwolves invite nine prospects to work out - Pioneer Press",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM3gwaEs5RTRYeW96c1F1cUhwN0g3dE4yUVpYMnRmWnJwSDU1dVJUd25tVXVjdU5Ma0poWGRDMHRROTdDTlhVYXRCM1NvUnlFd3k3Y1cxanhmeEJPWmk0WG5ZWWt3MVpmcXFNOW01T1c4YWE0MlpWellseGFZNVRUcGdzSGlSdFRFOGlyRTBB?oc=5",
+      "published_date": "2008-06-13",
+      "source": "Pioneer Press",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Cal\u2019s Anderson declares for NBA draft - The Mercury News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR25Fdm9pYldZX1JKbjdma2IyLUo5UkpKT1hGb3Vwd3UtOGU5b0NHdE1YSnUyUFFuY1d5NUdKM2xVbk4wbGVPVU9KYlhzNVdEbGc1dmVBb2g5Q1Y2QWZPZDIzQjVZZjJYWjR5TWhuX2trZFJtWVJkQUUtSExWODQ0eVZ30gGHAUFVX3lxTFA1dXdsaUU0UDRVVzZXLTlCaVR3Q3VuQU8tb05tcmNOaVUxTmN2SERNdzJ1S0R0UHJBaFQ3S2V0X3IxZjdKNmhSR0RMUXN6dFJpS25uRXV1OTJReW5WbG1WOFUxeGItRF9JOVNpM3lnZ0ZxVXNram9UUTU5NEdERGRpQXJoQmdqRQ?oc=5",
+      "published_date": "2008-04-03",
+      "source": "The Mercury News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Rip City\u2019s 2008 NBA Ultimate Mock Draft - ripcityproject.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM1JSS2dtUll1UUlCaGpyY2JlaENSY2hqVkNqYWJJM3Z3bDlOVTExbkE2Z2F3LTZFNjV2czNrRGZTTnZXSGRadUJZaUp1S1l5OFppXzJacHdhaE5oTGZHVjgzZjFvNUFHZXF1dFJvZWNiT1JXY1pBZk9MMmlUOUo3UXdFMA?oc=5",
+      "published_date": "2008-06-22",
+      "source": "ripcityproject.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "ebd04d51c6a60740c62872fd69b6b9fa1c992790ae44d32d9e59cda3e11e0b3f",
+  "feature_eligible": false
+}

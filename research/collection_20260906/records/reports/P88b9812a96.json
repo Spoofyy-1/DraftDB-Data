@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:57:58.902468+00:00",
+  "lane": "reports",
+  "pid": "P88b9812a96",
+  "draft_year": 2014,
+  "name": "Drew Gordon",
+  "draft_date": "2014-06-26",
+  "status": "ok",
+  "query": "\"Drew Gordon\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2013-07-01 before:2014-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Drew+Gordon%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2013-07-01+before%3A2014-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "The Case For Tanking: Aaron Gordon - Liberty Ballers",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTUFGN0pHeEZyNEpuWC0tS2dZSG9Lajl2cW1Jc2lFY2JLeFJXbzNDdENaWWJaOGRETDNmbHBIdkRkLXk4azRxYkMtUzRZLUhPTjFYN3F3SFRwOGFDQm5zUjNuT2ZBdHVxQ0h1QnBqNDM0ay1uWnVERlA0YTY4ZlBzYkhaUVF0ZUdmRHRnT3dIYzhaalJqa3BhRWJiY0NiakMzZV9SVUVWM2xmN3hoZi0wOTc2MmJXOWFn?oc=5",
+      "published_date": "2013-08-06",
+      "source": "Liberty Ballers",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Aaron Gordon - NBADraft.net",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ReGcyN2NTODRDZk5HWmQ3VVp2RGI1aW9WTnRsRkZTREFnaXpjUHdEek5LYUtmc0xLUEhjYmF2MVJzenZSbXVlNE1aZW85by1qVHpxTk1GNjJodw?oc=5",
+      "published_date": "2014-05-12",
+      "source": "NBADraft.net",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "2c21bd597b154fe64c49895b632000bc7c3c711a495194d83105106445ec8f79",
+  "feature_eligible": false
+}

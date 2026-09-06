@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:11:45.244365+00:00",
+  "lane": "news",
+  "pid": "Pe6ceea2b5e",
+  "draft_year": 2010,
+  "name": "Hamady Ndiaye",
+  "draft_date": "2010-06-24",
+  "status": "ok",
+  "query": "\"Hamady Ndiaye\" (draft OR scouting OR prospect OR basketball) after:2009-07-01 before:2010-06-24",
+  "query_url": "https://news.google.com/rss/search?q=%22Hamady+Ndiaye%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2009-07-01+before%3A2010-06-24&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "College basketball 1/21/2010 - Inquirer.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOFktOFRES3VJckJldklVcWpqZTQ5emZoNFo0OXNHUGZ3TEVPMkNGNlV5SXN2Y0xqWnd4M3A1TlVVVFk5SkE5al9YMFoyWXExTXBYQUF5eDh3UFVUQUkwckJ6bmw3T0hCUWxRdVBMSG9VZkpmV0lUZF9WVE9tZzJTYWh6a3Q?oc=5",
+      "published_date": "2010-01-21",
+      "source": "Inquirer.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "51aa8153bdf2f2ad43b030956837ee7f4e8699a1836389d21fc165f9f50f62c2",
+  "feature_eligible": false
+}

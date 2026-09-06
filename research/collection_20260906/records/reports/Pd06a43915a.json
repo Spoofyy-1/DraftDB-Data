@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T10:11:32.441101+00:00",
+  "lane": "reports",
+  "pid": "Pd06a43915a",
+  "draft_year": 2002,
+  "name": "Yao Ming",
+  "draft_date": "2002-06-26",
+  "status": "empty",
+  "query": "\"Yao Ming\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2001-07-01 before:2002-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Yao+Ming%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2001-07-01+before%3A2002-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "d0a91ea91473c3b1498820dba3d6317b507da7b2a87f10dece9dec59087b33e9",
+  "feature_eligible": false
+}

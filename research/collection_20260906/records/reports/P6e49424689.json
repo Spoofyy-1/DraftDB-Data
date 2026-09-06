@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:57:42.678332+00:00",
+  "lane": "reports",
+  "pid": "P6e49424689",
+  "draft_year": 2014,
+  "name": "Dwight Powell",
+  "draft_date": "2014-06-26",
+  "status": "ok",
+  "query": "\"Dwight Powell\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2013-07-01 before:2014-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Dwight+Powell%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2013-07-01+before%3A2014-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Dwight Powell NBA Draft 2014: Highlights, Scouting Report for Hornets Rookie - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNREltNG9FZlpvTmttUlBrdkNCNkZ0V2pvcU9YQUJuNzlLU2VFMTJ5M01qa2o0dmdmTzBwY2d4dURTQkFRY2NhUl96STJhVWZmejNOeXR6Q0FZOGg0ZlFnbFYxSFZhMGQzdllOZVU5Q3lnWXpqVENTWFJjaVkxWjJLVFliXzB6VFlKUVdMSmdub3YtaENPR2hhbjY0WVl0dGlTc3R2a3VuSFZnUVNB?oc=5",
+      "published_date": "2014-06-23",
+      "source": "Bleacher Report",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Mitch McGary Updated Scouting Report - draftexpress.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORTFUdmNSQlN4NDdqOEYxVUZtZmNkMjVZd0YtX3VkYU1IUXcydGpudWdNbWZHekZVZjIzTUVSd094X3Q5UVQyU1UzMV9IUl9lWVJPc3kzZktKeGpkUFpnOHlJTzNXWEZJZ21wR1VOb09BdDJscEE2MjRWTW8tV1FIaVl1U04?oc=5",
+      "published_date": "2014-05-07",
+      "source": "draftexpress.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "8dd3358c72061317e49f1b7cd3b1da42544e62dcd363c289620c24c0f9d20c8e",
+  "feature_eligible": false
+}

@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T09:59:01.732723+00:00",
+  "lane": "news",
+  "pid": "Pd9ad951135",
+  "draft_year": 2007,
+  "name": "Morris Almond",
+  "draft_date": "2007-06-28",
+  "status": "ok",
+  "query": "\"Morris Almond\" (draft OR scouting OR prospect OR basketball) after:2006-07-01 before:2007-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Morris+Almond%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2006-07-01+before%3A2007-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Almond on Cover of Basketball Times - Rice University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uRlNicTdyYU9yT2RURHJxVXZjS0FuSXpwTkVLNHN4NFp2SHhpUDl0a2RKel9mdGRtcTJZX055bk1NMGtxWEdFLXRkODNRbHN2c0Z4c1hwSGhHMjB3dU85dWNLSDl1ZXJDd2pPUDVrel96ZkdIU0JycUF1UUI?oc=5",
+      "published_date": "2006-10-24",
+      "source": "Rice University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "STOKES NAMED TO COLLEGE INSIDER ALL-AMERICA TEAM - Hofstra University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWjVHZWhQNDhGalZnRlBDaXVvOVRpZWowZE41RXBlU3M1Z2RrQ0h0aTc0bFRTck12NW5fcHozeXBFaWlaQ0FOWERramh5YmpkUXowYV8zRE1VQlJuakp3U1Y5VXF6NndWTVZsUGEzelJTbkNtdEptOWd6TG10T0ppZEwtY2FtYXNDRm1pbHI1R3FHTVZL?oc=5",
+      "published_date": "2006-11-01",
+      "source": "Hofstra University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2006-07 Season Review - Rice University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LSzUzczM1Tl9xYnJMbWY1Nzd4dmxSZmNoYkM0NEpzX01yUENCRzBNSDgyMFlzV0t3WkJ6Um5fWGFsRnR4aDk4NEd1cF9xcVRpaWxURXpnUVExU0VLdVlfLW1wVnRtYzA?oc=5",
+      "published_date": "2007-05-09",
+      "source": "Rice University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Beverley named to coach group's All-District team - The Arkansas Democrat-Gazette",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcm1renFEU1JaeTVDem93WEktenN6Wm9OZWRjcTZxLXVnZVVlcEJramVXQVlGS3prWmZkSWFJbGZqS21OeHVnWWptV2pKY0hpNG12U0sydloxZl9GSlBVU2ZyTElfMm5rVlE0cXNyWTFueTdDLWFOZ3A5ZGJscWVVOGtxdnRrdWVraXVYU09PWDRXcWo2OGlLUg?oc=5",
+      "published_date": "2007-02-28",
+      "source": "The Arkansas Democrat-Gazette",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "0896a1047ef029f7094ecf4dcf7f1c48bf9f7e0e3598c5e43f3d40b7803c0b19",
+  "feature_eligible": false
+}

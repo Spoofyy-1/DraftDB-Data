@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:05:21.347175+00:00",
+  "lane": "news",
+  "pid": "P6f23e4dd26",
+  "draft_year": 2009,
+  "name": "Marcus Landry",
+  "draft_date": "2009-06-25",
+  "status": "ok",
+  "query": "\"Marcus Landry\" (draft OR scouting OR prospect OR basketball) after:2008-07-01 before:2009-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Marcus+Landry%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2008-07-01+before%3A2009-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "All-Big Ten preview: Marcus Landry - Inside the Hall",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNnFaX09VamN2Q2NibDh3dldMMFdCRWhYUnAwTTFxX2RkUFVkZU9ldFVFMVJyVklCU2RZTVNId2Q1Q283emltOGR5OWlmT3FnWXEzZXVUZjY3OEZXRUMxZXFJNEY5ZWdKSzZmR3J3cFF0bkZPRW5NOXhJZ0x4QXZSUQ?oc=5",
+      "published_date": "2008-10-27",
+      "source": "Inside the Hall",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "MU, Badgers break hearts and brackets in Boise - OnMilwaukee",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WN0h3LTVMUUlRTWM0MEJwNEtTa21Yd081NzQyckNoR2JMR29TSzRhcC1hbm1vemEyZVRvYjRfQzY3bXhxb0NUNGg0a0YwTXJvam5kcUNGTzQ?oc=5",
+      "published_date": "2009-03-23",
+      "source": "OnMilwaukee",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "UW's Krabbenhoft learned gritty play from his father - archive.jsonline.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44ZlZoWm1uZnRMVGhRZF9PM3llZ3FucTdLWk0yd2ZmbmJoLUduTmRTZjRqd1hPd0x2MkhtS2VUeUZTX2FkY0REdlc3RThJMmZCMktlM1RGbGxzcENSYklVa1lDSWx6OV9S?oc=5",
+      "published_date": "2009-01-04",
+      "source": "archive.jsonline.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "7554d2fbd2e4e9620344e128bd695094533ddb6d9971322a997633a406904c08",
+  "feature_eligible": false
+}

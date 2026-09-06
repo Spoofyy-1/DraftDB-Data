@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T09:58:02.156317+00:00",
+  "lane": "reports",
+  "pid": "P8c2c5e7b71",
+  "draft_year": 2014,
+  "name": "Isaiah Austin",
+  "draft_date": "2014-06-26",
+  "status": "ok",
+  "query": "\"Isaiah Austin\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2013-07-01 before:2014-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Isaiah+Austin%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2013-07-01+before%3A2014-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2014 NBA Mock Draft: Projecting Entire 1st Round as 2013-14 Season Starts - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVzNKeHFZQThCTTVpckJnU1Bic093VEw5Yk9oU2JZdUJ4TlJRaHNxXzRrRXFWMUZPQjdSdGFUNFJQQTBscEJGaE5SM0c0bDVVcEpfREdqaFowTlBQLWo2eEhVU2pTZUl4cVZXVktqdmEwZkRWeUFsZ25vR0ZOblBpUFlVLUlERDRiVFNwM19XOGxJYTFWdl9iUkZ3RWlLWUZGbzFQU0M5NjhMVGw0dXZtSTVJeTdwTC1xNm9iQU5Bdw?oc=5",
+      "published_date": "2013-10-30",
+      "source": "Bleacher Report",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Baylor's Isaiah Austin declares for NBA draft - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNjlTellRMUVZeXJ4aDdsV1NHY3F5RVJtUk9UNXc2TENiUGpnYThDX2lucU85RGN6X0dDNnBiczVJZk9LYUFXdnNhbHo3ZXZHSGhHNHRrODZ1cDV4cmhNcmoxWURVdlJZSDU5alpGMkl3TkpIaE9yYm9BSHV2ZTJOTnBfb3RyZHdoQjBIaGpHQV9JdW5rUDluVG9fWQ?oc=5",
+      "published_date": "2014-04-22",
+      "source": "CBS Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Mitch McGary Updated Scouting Report - draftexpress.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORTFUdmNSQlN4NDdqOEYxVUZtZmNkMjVZd0YtX3VkYU1IUXcydGpudWdNbWZHekZVZjIzTUVSd094X3Q5UVQyU1UzMV9IUl9lWVJPc3kzZktKeGpkUFpnOHlJTzNXWEZJZ21wR1VOb09BdDJscEE2MjRWTW8tV1FIaVl1U04?oc=5",
+      "published_date": "2014-05-07",
+      "source": "draftexpress.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Seeing Is Believing: Half-Blind Isaiah Austin's Unique Journey to the NBA Draft - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY3h4RFRNZy1xRXdCdHlBRldITkVFMHotbWNPQXlrSGJRaXdORGFpUGJmbTNIdlNTNEQ3QVVuSDA4eDhUR2haZW1OeXNmSG9sc2ZPYmVXbFlhRldPMG5kWnBQam1wXzdiQTNSdHl3cnhrQ2NLdkx6Z3FXZ2NtV1VuVFB1Snp1WVQ2QmRuM0pGRDFrdmJuSE00T0tULVF5LWlaaXNkVkM4TVJ4V0k5bHFFWkhpZDhQN05rTHFxeDZR?oc=5",
+      "published_date": "2014-06-19",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "c212c246c6a6a15bb47134bbc7c1b0ed756d095c363a733ad0c8c550c2cb879f",
+  "feature_eligible": false
+}

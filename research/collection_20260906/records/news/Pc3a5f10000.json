@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:02:25.393608+00:00",
+  "lane": "news",
+  "pid": "Pc3a5f10000",
+  "draft_year": 2008,
+  "name": "Kosta Koufos",
+  "draft_date": "2008-06-26",
+  "status": "ok",
+  "query": "\"Kosta Koufos\" (draft OR scouting OR prospect OR basketball) after:2007-07-01 before:2008-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Kosta+Koufos%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2007-07-01+before%3A2008-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Koufos, Guards Among Latest to Set Net Workouts - NetsDaily",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaGdybUVuc01iN2RkcFlwZ0ZEZEdLVmZfaFRYQnJxM1ZfOGxqbWFUWG41ZkFhTG12ZVVzejIyeFoxTkhpblI0WXpmQVRRUEZlQm1sZWRFa0hpMExfZHN4VGJqRnNPbzdnekZSekJLdGk2aFZQLVptVWxZMHdmZndmbmJKZw?oc=5",
+      "published_date": "2008-05-26",
+      "source": "NetsDaily",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Timberwolves invite nine prospects to work out - Pioneer Press",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM3gwaEs5RTRYeW96c1F1cUhwN0g3dE4yUVpYMnRmWnJwSDU1dVJUd25tVXVjdU5Ma0poWGRDMHRROTdDTlhVYXRCM1NvUnlFd3k3Y1cxanhmeEJPWmk0WG5ZWWt3MVpmcXFNOW01T1c4YWE0MlpWellseGFZNVRUcGdzSGlSdFRFOGlyRTBB?oc=5",
+      "published_date": "2008-06-13",
+      "source": "Pioneer Press",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "69b98ed5b5368d1f89ec4bf304cc33d824a29cc0b1ee3c86364e6bba7574313c",
+  "feature_eligible": false
+}

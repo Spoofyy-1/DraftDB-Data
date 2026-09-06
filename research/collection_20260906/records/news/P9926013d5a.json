@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:19:56.770877+00:00",
+  "lane": "news",
+  "pid": "P9926013d5a",
+  "draft_year": 2012,
+  "name": "Ben Hansbrough",
+  "draft_date": "2012-06-28",
+  "status": "ok",
+  "query": "\"Ben Hansbrough\" (draft OR scouting OR prospect OR basketball) after:2011-07-01 before:2012-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Ben+Hansbrough%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2011-07-01+before%3A2012-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Nets hopeful Ben Hansbrough believes being healthy will be enough to land NBA job - NJ.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwTDlBVGlXUV9DMzJSTEx4ZUdhOG9uTWZ0ZndUVEwxYXdZNl9ySDBfczNhS0JuQVBuMW9nY0xzM2U3WFlkSThkOWdOdjhCc0tIRUtHZjJEcFRmZl9wWHMyNWpyRmdtb0pwZE1JLXFzSTJONjFRVWc?oc=5",
+      "published_date": "2012-05-23",
+      "source": "NJ.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "'Near perfection' \u2014 The 1936 Notre Dame championship basketball team - Notre Dame Magazine",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWmQwT2FiSUNuR1NjVXNLVFY4RHdpQ0dSUlYxNjZIeVptVndfcF9yVi1BWkVDWTNRbnh2Q3h2bjFZeHJRTmQ3SlB1U1pEQzU1LUIyTHVzLTM5NDN2R1Z1STY0T0ZNOFFHS25oLWp4SW5UdHV1SWQxenBvYTJ1VnpZalQ1T0swOUQxRHpsOWM1S1pXZTlxaUMwRHpaV3NfUQ?oc=5",
+      "published_date": "2012-01-23",
+      "source": "Notre Dame Magazine",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Talk of Passports, Not Passes, in Idled N.B.A. (Published 2011) - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2NYZktldzVKNV9qQXRjTGJ3c3FhU2ZSSmpMdDB3YlZ2ZjBmYUtJNWdmaV9uUTZEa2dHSkNfcFN2aVZ4TUJzRVRQcVBDMloyQnMtczRJTnlqNFRVcGxtdmROWHJsdEVfS3VLSVA1VG0yaC1ldVJrVS1MUjBETFlYWXBEdE5KY1M0em03eGRqbzlYT3hveUluc0JkUHlvREJhZWc?oc=5",
+      "published_date": "2011-07-15",
+      "source": "The New York Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Transfer Sherman Doing What He Can - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjdi1wNzZqa256QkZjSWpJVTJYZkhXSU1qSDRWM3drRXFNQk1tbmkzVkt2MlYtLXN0N24xTWxJV3FCVUNNTmkzTTNyZ1A5Y2pQV29VOTk3ZWIxamtmS09KZDBvNFR5T1Q1X3VxckpQVXR1T0JHV1lPakY5Yw?oc=5",
+      "published_date": "2011-12-12",
+      "source": "247Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "502567fcbe8ef3a90b8c292956059f2cdc3a3a64e2264208bdc228c9e900eddd",
+  "feature_eligible": false
+}

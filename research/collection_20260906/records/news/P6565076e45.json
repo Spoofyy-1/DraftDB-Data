@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T09:53:24.016548+00:00",
+  "lane": "news",
+  "pid": "P6565076e45",
+  "draft_year": 2006,
+  "name": "David Noel",
+  "draft_date": "2006-06-28",
+  "status": "ok",
+  "query": "\"David Noel\" (draft OR scouting OR prospect OR basketball) after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22David+Noel%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Maurice Ager To Compete In College Basketball Slam Dunk Championship - msuspartans.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaEF4Z2pHU3VfNmM5eWtBZ2tEZHdpdzhwZFFSTFZhZ1YwQWZVUHQ2Y0k3UXZrb3FvT01mQmw3M0UydVJPR094MklyQnNOM3VPQUpCZGNnUzVyTlVpWTdHVS1qNFRDUy0zY1JqdXJWdXFsQ2VMNjlaWEhVZjN6TDZtWVo1anBvQmNfX1N0YVJjQkh1T0twbGRGY2ZHOXhURTdqRmxlWHd2bGY0RWc?oc=5",
+      "published_date": "2006-03-29",
+      "source": "msuspartans.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "No. 12 Illinois Wins Rematch With UNC, 68-64 - University of Illinois Athletics - University of Illinois Athletics",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVTZCUm5TaDE2dE9GelExbTlwRDlZNDlsRzlCS2JLTVNqR0Q0Ym9NVkMxekVCOVNmUU4wLVBEYVI0UzJUWk9saHY1MlFmLU9wb0hBOXhuWm4xRmJnTGxWb0R1OTlNQUEwQkV3azRZRXdUOGNlUzh4MWYtZnhzc2xrYktxbXpsMVIwZ2VEcXBB?oc=5",
+      "published_date": "2005-11-29",
+      "source": "University of Illinois Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Carney To Compete In Slam Dunk Contest Thursday In Indianapolis - University of Memphis Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWkU1V3g3UWhTdDJucTVnV3VGb2xKbTJMYjFZdEMxUTlLN0JnSlZ0YWY2S1hILWtnbGhfSjJ5Skx0TXNOQW5FWmxUWlZrSlpiaEJ3TkVvR0lNSmdWeEwwZGFrRDNUOENaczM0QkZvSWpxMko1bFlWWkgwMGxZam1OdS00Sm5uT2NNR2diVHVXNVFTQkxqWVlDVXhaWGo1V2MwTDlv?oc=5",
+      "published_date": "2006-03-28",
+      "source": "University of Memphis Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Smith, Dudley, Rice Earn All-ACC Honors - Boston College Athletics",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oenhiVEo5bEVYcWd3QXFnSVhfZDFMYnEyRjdNLWE1cW9DXzZxMVFnQzIzcHFxWERiclZyeFpNMHlvazRXZTBydWtSVk5BM2dRc1R3c25NbjVTMmk4VXVyTXlfS1MtaVNmbzFQc0Z4YUgyX2lhYVpFTmVEX3U?oc=5",
+      "published_date": "2006-03-06",
+      "source": "Boston College Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "6cca8c413adf4a3db5691943d590c1d8ca88379d6bf035834cd93c3c3f7d9530",
+  "feature_eligible": false
+}

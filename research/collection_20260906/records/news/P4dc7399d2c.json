@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:52:51.145923+00:00",
+  "lane": "news",
+  "pid": "P4dc7399d2c",
+  "draft_year": 2006,
+  "name": "Hilton Armstrong",
+  "draft_date": "2006-06-28",
+  "status": "ok",
+  "query": "\"Hilton Armstrong\" (draft OR scouting OR prospect OR basketball) after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Hilton+Armstrong%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "UConn 72-59 UAlbany (Mar 17, 2006) Final Score - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU0haazZ6UDQxTndkUmNFQUpWZjJhYV9OUlA5TzVJR241UmNqcUhRYU84ak1qX0VUOVRHTzhWUFM1dVpyMWlncVFYVHJTUkdWNDdRczNET3U5VXFrakxyQzBOckttOGRrQlRvVHllY0djaTdXS3UxYkFRa0NhQU5BYXpJZElRUkxIVEE?oc=5",
+      "published_date": "2006-03-17",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Sooners bounce back from loss, beat ORU - The Spokesman-Review",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcWdha3BFdmxMTWZFYkZTdjNfUmFUN2ZGbWx0NDJuakVOcFFjLTltS3VtejlRYmlsSmtPcU9XVk9JcnRzbkZPQzlmWXpaaVRHV1RBVW01RzNmdklmSk5qM0pudlQ1eWNLbkRzQUpOUmlvcndGdUZSdTJwM1VFUEtHQnN3X1lLSGdVVjBETzNn?oc=5",
+      "published_date": "2005-12-29",
+      "source": "The Spokesman-Review",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "UConn does it again - The Spokesman-Review",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQTEh6VGJwZ2o2Z3dVOFdES0huTkdpZ3I0dVZQVm5uZ19FMHhqMml4dlZGMmcyaXVHdkJrQWUwT2JoNnYzYjhTSzBMQzBpX3VQVEF2dHlMcmtVWW1laGQxd1BOWFl2aFhrMFVXR1B0X29YREhI?oc=5",
+      "published_date": "2006-03-25",
+      "source": "The Spokesman-Review",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "cd149d62eb901bf5c2885f81e2e9e7af5a6c04c1f8a045af37946d9b451178b7",
+  "feature_eligible": false
+}

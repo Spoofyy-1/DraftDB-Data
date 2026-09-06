@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:51:05.507739+00:00",
+  "lane": "news",
+  "pid": "Pf4d4553b6f",
+  "draft_year": 2005,
+  "name": "Antoine Wright",
+  "draft_date": "2005-06-28",
+  "status": "ok",
+  "query": "\"Antoine Wright\" (draft OR scouting OR prospect OR basketball) after:2004-07-01 before:2005-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Antoine+Wright%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2004-07-01+before%3A2005-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Wright to Declare for NBA Draft but Will Not Hire Agent - 12thman.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaUlIaFZ2Z3BZdW1LdHI0dGsyaWR2MWhDMlhZWklFb2ZhdDN1UTVXOGlDUWhkMXNCSTNmdkEtTEtHSEtEYm95WlEzS0NsNldoTEhkVmczYlFsM194Wk85emVodmtJZ2M2Vzh5T3daNkFFT2pJOWNFWWpCZlBPZUJZeEFLdWU2Z1Zjc2NYOFVULU90LWlHWmc?oc=5",
+      "published_date": "2005-04-05",
+      "source": "12thman.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Exploring options - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMDJKdG5nXzFsSFQyM0JxcW01OUQ1dHNkem1fbjR5SVg5bFVEckJ5TmRSakJfRGRzRE1qTXB4bFk0aDlVbDBCS0hONDRpTk16c010aXdJakwzZ1U1YVZXQU50OHdkc1pCLWxvVWY2NHJFNEpZVVFIazlsbVBCa3I2QkY0RU5wcVk?oc=5",
+      "published_date": "2005-04-14",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 2,
+  "response_sha256": "d171608ba327025e0c56500a5d00342b4188135822929fa2113ccf9a632b8cf4",
+  "feature_eligible": false
+}

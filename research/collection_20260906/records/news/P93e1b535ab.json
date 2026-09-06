@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:57:45.699266+00:00",
+  "lane": "news",
+  "pid": "P93e1b535ab",
+  "draft_year": 2007,
+  "name": "Marc Gasol",
+  "draft_date": "2007-06-28",
+  "status": "ok",
+  "query": "\"Marc Gasol\" (draft OR scouting OR prospect OR basketball) after:2006-07-01 before:2007-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Marc+Gasol%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2006-07-01+before%3A2007-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Game Report, Spain vs Greece, 70-47 GOLD MEDAL GAME - FIBA",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTWxWRi1FMERCbTdXay1yV1BNT2dkUGpvWEVxOVlScGtiNFpyRmpyMkhSRmxLcGVUbDFkaGdIcXJYbm5JTkhFemo3LUo5bWgtblV4QkIydnRJSzVNazl5SkJiOVJFaTFSZWIxY2RzaW9yOWZFS29aSUNxTTlXMEwzcXZWamdoYXhDSDU0MmRn?oc=5",
+      "published_date": "2006-09-03",
+      "source": "FIBA",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Top International Draft Prospects - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Ed1h3cndSRlYwczlqZjQ3eVpUSmxfLW9GdFFTV0o0ckNFUFlsWE9WQ1o4UVA5MTNEV1U1QVBXM0IzbDhaVnFDOVFJRjltVDAtWFpUMDVtbWtGdzZ0UW15TjJGa2NRcHRmdjBTSTY3cmdnSlRXZ1RDbg?oc=5",
+      "published_date": "2007-06-22",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "ESP - Spain are the team to beat at EuroBasket 2007 - FIBA",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZklNZkgxLWFPNERjZnJ1OTRZR0RnS0U0MDV2RnlWX1paTEhmQkl5dXVzYmpOa2s2ZC13QVFmWnB1RmFPalFzVWNmbnNNWHhka1pnVWNVbzU1NUFQVFlqdkZ5dkZITHdpR3pFRjl6aFFaOERjQTJaZUdETEdaM3FsVWtuYUstd0p6dWVmZXhR?oc=5",
+      "published_date": "2006-10-20",
+      "source": "FIBA",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "4a8d6142a2e403f17ebeb2358f87f5f8e937f1ea94477c48d763c1ccd8807881",
+  "feature_eligible": false
+}

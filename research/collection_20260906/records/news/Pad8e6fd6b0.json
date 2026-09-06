@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T10:06:17.967205+00:00",
+  "lane": "news",
+  "pid": "Pad8e6fd6b0",
+  "draft_year": 2009,
+  "name": "DeMar DeRozan",
+  "draft_date": "2009-06-25",
+  "status": "ok",
+  "query": "\"DeMar DeRozan\" (draft OR scouting OR prospect OR basketball) after:2008-07-01 before:2009-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22DeMar+DeRozan%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2008-07-01+before%3A2009-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft Prospects: Demar Derozan, USC - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc1VscmFtWjM1d3hOUjlIaDliRHV0UnRkaVJLWTRQc0owaXl0UmV2WnRXUUxIYUQ0OXcweE9xMDlNeEV0SjR2TXRaQ1lBQWpnYW1KYlpaeC14eHJoM3NPT29Sc2E0WmRwYllwbXp2aDNuOHBURzFwaVJzZTc5ekZkU3BLQlB3ZlU?oc=5",
+      "published_date": "2009-05-25",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "DeRozan to get look from Wolves - Pioneer Press",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9PQVVINzI5UzN6NjFacWl1VDBqT3JqZE5Mb2dYVmxIZGNRczRWUkl1THAycU1RVUpZcW05NjVaVk1CbHZqX1hZa3BMTkZWNlFNb0VSMjRjMUZTVmNaWVYwNnMwMnhLOW5SSC0tT1lmeGxuZHdQVW9mRlh3?oc=5",
+      "published_date": "2009-06-20",
+      "source": "Pioneer Press",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "DeRozan plays on as drama plays out - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTjJRV2MzWVYtdFRvcUdRcnhQX2RiVzZVcmg0c1liSjNqa2F3dUx2X2tta21jUVZkM3E2NllmUVVnWDBvaVhzZDZ3WVp1TFhQdkNQcjFXcGlueFZ1c2s2U0xmaFhLNmFYNXo1dmNOd3NGSHY5Ny1UbTBWaXlFVnhvNEFTZw?oc=5",
+      "published_date": "2009-01-15",
+      "source": "Yahoo Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Kobe Bryant - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBza2p5SndqbmZLb0dURFhKc2xPdldDRUJOU2hIUWthRUxIUW1pOWpOYVRjcVhGSGdQcnBKbE1Pa1RGSVlCTkJpN0U1MlBQdGxXZ01sUHJBVzI?oc=5",
+      "published_date": "2009-06-04",
+      "source": "CBS News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "USC\u2019s DeRozan to take mantle of star freshman - Orange County Register",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQUhpNGphOVpTUGRtOWRZTWRYTmJLem5HZEo1X2Fad1g0ZERKdkNDbEdTNWYzSmxNSWtITWJmUXp4ZC0tYktlUmRULUx6LWJ3b3dES04zb3BKY0tJQWlFV0dBTzhnVzlycmsyUGg2bmw3X3lEcUVKUGdXbC1MY1RlU3FyZXE3VXh0VjVJ?oc=5",
+      "published_date": "2008-11-13",
+      "source": "Orange County Register",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 5,
+  "response_sha256": "aa739ecef0af755bc66fe35aa5f6e940a4321be9878d4f66e5e1de184354ac84",
+  "feature_eligible": false
+}

@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T09:55:27.114056+00:00",
+  "lane": "news",
+  "pid": "Pe4baee43bf",
+  "draft_year": 2006,
+  "name": "Bobby Jones",
+  "draft_date": "2006-06-28",
+  "status": "ok",
+  "query": "\"Bobby Jones\" (draft OR scouting OR prospect OR basketball) after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Bobby+Jones%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "TCHS\u2019 Jones retires after 30 years - The Tuscaloosa News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdzBPcnZDenkwcHdYb2Q4Zy1zWjRVSDVPdmRoajI1d0Q2bC1EYkx3TDFnMVBTR3V3UDV6VkdYblQ3N09hNS1uRFlUQndXRXVobjVJdEZfMnVQRHZpQjNUTTNyZlVWcEh3azU5VkYtVksza2Z0LWdKa2Fuem1weDNzaGNZeThTRkNUV1R1blNWMHNIRHFJSzhCV21VVk5EMWRt?oc=5",
+      "published_date": "2006-05-17",
+      "source": "The Tuscaloosa News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "TCHS\u2019 Jones signs with UAH - The Tuscaloosa News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNzdVdjZIZ1VxdVhOXzhPbTFJWV9RMDdVeVhRamNWNnFjS0k0Mko2akZKaXM1U2dmRzZZTVFETExlVmIwLVpQb244c0hMeFhmUFQ3ZktmZm5XUzlWV0dYUzRVR1F6bDFuX3AzMnphOUxHZVRsSnd6X3gwNG9tU291RERmV0VucUxMcWFmTG1Sd3FKbllmcUE?oc=5",
+      "published_date": "2006-05-11",
+      "source": "The Tuscaloosa News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Sarasota foundation gives sporting chance - Sarasota Herald-Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnVCdDR3YkpCa21qdHpNOHV5Y2s1bEJNT1ZHNC14bzJIZUhMb0YxSVZEUjNfdS03ZjFRYkdmTTJfOWtvb2J1Z0xNa191OE43MVk3Z1JYY21lUXAxa1pjUEIwUTZtQUgwV2JDZGxYTXVBd3NoeEZlRkpPRTVIbVpTOVJkYm1KMlVjX2h4WnRLTjh3aW5SUHZncWRMcG8wTVVlSG1RajFwWFZsZw?oc=5",
+      "published_date": "2006-03-29",
+      "source": "Sarasota Herald-Tribune",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Weeks becomes TCHS\u2019 third basketball coach in 70 years - The Tuscaloosa News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ182eFBYTjFDbTYtaXFFUEczTU8xWGNMdEF1WDMzSmMzMUFiWWZsUVIwUXF6Rkhxb3E1c05XM3FwWS1uMnRaV0IyRHJ6cWlWTGstQlNKYmtDZG1mZ0JmTm8wM1V3YUJBdWN0X01fNTlFVVZ6VjFiZzdsekZGVVZ1UzdMSjRZTlg2eEFaVExpN05vZnhEZXdjalMwVkpPcTZDZ2kwRU5UQVZMQjFfU1VDeWNmSExhR2JmVUww?oc=5",
+      "published_date": "2006-05-31",
+      "source": "The Tuscaloosa News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 2,
+  "response_sha256": "2e085f5ee470ece6f153d7ab7c1b4bbc5221ef064aedd66c5b9092487f5fc5db",
+  "feature_eligible": false
+}

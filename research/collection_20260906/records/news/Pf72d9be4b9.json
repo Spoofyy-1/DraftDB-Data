@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:51:12.310695+00:00",
+  "lane": "news",
+  "pid": "Pf72d9be4b9",
+  "draft_year": 2005,
+  "name": "Lou Williams",
+  "draft_date": "2005-06-28",
+  "status": "ok",
+  "query": "\"Lou Williams\" (draft OR scouting OR prospect OR basketball) after:2004-07-01 before:2005-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Lou+Williams%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2004-07-01+before%3A2005-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Lou Williams, South Gwinnett , Shooting Guard - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JNmp6VTBRQjl0WS1TaXJHRXpobjRqSERUMS1kS29TVERsZHdobHJUdGpIdVlMVk1ybjJtNmNUbmdLcmFoZ1VyTHVfMlRGTHVhQm9DcW9BX2dTeldobW1ickNlcVRZVWhqUXdieEZWcEZLS203a1E?oc=5",
+      "published_date": "2005-02-02",
+      "source": "247Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "James Williams Obituary (2005) - Racine, WI - Racine Journal Times - Legacy obituary",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEtQTWhyYWZmM3hKbzF0eUFwRW1lR3Vwa254aEU5R0hpd1hROWtnOEJoVV9XWHFHaWpwa1hHcUQ1eGp3U0g4c2g3aHUwR21XTVhaUHB2MFA0b0RZVmNzY3VsWEZBRHVacG1rQmxNejB4cHRwdmVpSnV6TGN4MVZ3NEp4V1BaMXRNZld0MFZnalhjdmt5?oc=5",
+      "published_date": "2005-04-15",
+      "source": "Legacy obituary",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "a00a079b64b840336af9c45e46daf85e3458033c55da9b9db0b5b44d78f296e5",
+  "feature_eligible": false
+}

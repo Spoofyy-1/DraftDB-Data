@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:52:17.901739+00:00",
+  "lane": "news",
+  "pid": "P2815fbec81",
+  "draft_year": 2006,
+  "name": "Cedric Bozeman",
+  "draft_date": "2006-06-28",
+  "status": "ok",
+  "query": "\"Cedric Bozeman\" (draft OR scouting OR prospect OR basketball) after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Cedric+Bozeman%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Survivors - Sarasota Herald-Tribune",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yZVI4STViTi1vTl9hQnpWVGJYbm1zMjA5S05pWWhvYjc2Z1pJYU0wdmZyN25LczJ3dWE0QzlRa1M5dEtOR19zTzNRLVVhZnZENHBha0dEOEtmZlV3SmtZd0kzd1VZa2pKLTJzX05ybGNuYU0xckZhQ1dnNXlBWjQ?oc=5",
+      "published_date": "2006-03-30",
+      "source": "Sarasota Herald-Tribune",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "95cada9fc8e31b9dad562954396a11c0acc34e1e211fe0977bb3414be2e21f61",
+  "feature_eligible": false
+}

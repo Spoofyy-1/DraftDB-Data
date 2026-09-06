@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T10:02:24.143532+00:00",
+  "lane": "reports",
+  "pid": "P65db320efe",
+  "draft_year": 2000,
+  "name": "Michael Redd",
+  "draft_date": "2000-06-28",
+  "status": "empty",
+  "query": "\"Michael Redd\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Michael+Redd%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "ca423a781402a03ff63510849d8073c0fd40706c510940661ec3c0a6957522ab",
+  "feature_eligible": false
+}

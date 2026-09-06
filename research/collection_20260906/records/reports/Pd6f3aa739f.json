@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T10:19:17.669077+00:00",
+  "lane": "reports",
+  "pid": "Pd6f3aa739f",
+  "draft_year": 2007,
+  "name": "Jason Smith",
+  "draft_date": "2007-06-28",
+  "status": "empty",
+  "query": "\"Jason Smith\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2006-07-01 before:2007-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Jason+Smith%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2006-07-01+before%3A2007-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "12d398140f440308268ab804f11b90844f3e087964bd67a6ec3b0c3152562664",
+  "feature_eligible": false
+}

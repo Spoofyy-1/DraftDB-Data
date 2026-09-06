@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T09:53:47.230405+00:00",
+  "lane": "reports",
+  "pid": "P8d17fbd48e",
+  "draft_year": 2013,
+  "name": "Chris Smith",
+  "draft_date": "2013-06-27",
+  "status": "empty",
+  "query": "\"Chris Smith\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2012-07-01 before:2013-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Chris+Smith%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2012-07-01+before%3A2013-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "95a7b07bf4b36542c75be8552bbaa826e39d5d03b174172dee1bcf67492b12e7",
+  "feature_eligible": false
+}

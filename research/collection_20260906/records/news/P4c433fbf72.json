@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:52:47.886626+00:00",
+  "lane": "news",
+  "pid": "P4c433fbf72",
+  "draft_year": 2006,
+  "name": "Pops Mensah-Bonsu",
+  "draft_date": "2006-06-28",
+  "status": "ok",
+  "query": "\"Pops Mensah-Bonsu\" (draft OR scouting OR prospect OR basketball) after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Pops+Mensah-Bonsu%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Colonials Win Seven Straight With Victory Over Duquesne - George Washington University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUTRPRENNQmxnMFN6TjJfMHVmX3FwWWFpUkh0OVpGc2RtOURZQzdKX3QwUm02c1pZc200ekllMWY2dXRaVHVnZ1U4a2ZUVzRNa1RvSTdDRzVQM3YzWDE3eHRPUUh1NEc1X1lVYmhQSzBZWHNCdkR0SjVnMUhSYmlQMGRyclBCdXJxMnBGZGozN2VTTmI5UkE?oc=5",
+      "published_date": "2006-01-25",
+      "source": "George Washington University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Colonials Are Shown Way Out - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPeHBIZFFQNWg3X2pib2hqNzRRQTFTV1lGS3RRaUg0Y0NEdEU2M2Q1ZWpCcmIwSVJ3UnppOWRpRmJGVVRLQ2ZROHVFR01OTXAwVEpUbHBfdENlXzJIemtGcWpLaHUtaEZIazV6ZXZWNnhIbGJTTGdzVHIxWlZna09lQTF1ejNUQl8tSzdwV0dnS2g2SnZpbVJDeF9zLUhJS0xBZzMtSGhHdmZmbE05Y2Z5WGFEcS1iOW92WXVKbmJLQXhlWW5kcEN5VU1PU1BlRVhLekRXSVM0dTl4Q195MHRWbkdMMWphQnVodGxaVlFkbXYzU3hYTm1oT2pEZjNwREwxT1ZIS3paV01Pb0NZMjQzTGliNHBzMHRieDc4ZlZGTUhhUkVoeVlwVjRraTdQd21Hd0ZrRk9EVU96d2gyM3hSRE9B?oc=5",
+      "published_date": "2006-03-19",
+      "source": "The Washington Post",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "bad567e82f0b895bd999924ba11087ab94109b89278dca0b9670ee15e31f8a81",
+  "feature_eligible": false
+}

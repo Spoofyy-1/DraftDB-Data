@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:52:34.382669+00:00",
+  "lane": "news",
+  "pid": "P4634e39421",
+  "draft_year": 2006,
+  "name": "Rudy Gay",
+  "draft_date": "2006-06-28",
+  "status": "ok",
+  "query": "\"Rudy Gay\" (draft OR scouting OR prospect OR basketball) after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Rudy+Gay%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Carney Named To USBWA All-America Second Team - University of Memphis Athletics - University of Memphis Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOEttamxPLVVnN3JqQXVsczE1cGJWLWNuUlNJUVdoeUxYcUxOOGJGUHY0ckJZWjFjU3dWUXlSN1RiOUNHUmMzU2p2Qlo0bktUcWtMNVp2V2JEYVlSQmpmMXpqRnlrY25HUUNtQkc5US1nWE1vRjBZVXVPdVNxeFpnX1VSS21jWm1iamc?oc=5",
+      "published_date": "2006-03-07",
+      "source": "University of Memphis Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Redick Wins Naismith Award As College Basketball's Top Player - goduke.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1STDhSbnI1SGw2S2dncWJTZFZnQ2VXOGZzQThrMXc0N083S1JuYUswblpBQzVUTHZaNEFXaTJTOVhXa0JCd0ltMi15LUpISjVz?oc=5",
+      "published_date": "2006-04-02",
+      "source": "goduke.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Associated Press Names Merritt Honorable Mention All-America - Samford University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE03MFdaMnRvLTNPa3hPMEhBc2NKLTZNSkpPSEZ0X0NUZXpzNEs5ZWl3c2NuSDFVOTc0Uk53UXFNbHZDVnN3REt0eHFsMWVoVnh6QXlSUjBtdHlyaTB1RmpIR1Fwdw?oc=5",
+      "published_date": "2006-03-28",
+      "source": "Samford University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "ffc5ce7eb1ed038e2c6780e140846b901aca69aa2ca99838aa50346d03cf3ca4",
+  "feature_eligible": false
+}

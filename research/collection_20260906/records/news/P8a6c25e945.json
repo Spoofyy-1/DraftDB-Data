@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:15:20.499783+00:00",
+  "lane": "news",
+  "pid": "P8a6c25e945",
+  "draft_year": 2011,
+  "name": "Lance Thomas",
+  "draft_date": "2011-06-23",
+  "status": "ok",
+  "query": "\"Lance Thomas\" (draft OR scouting OR prospect OR basketball) after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Lance+Thomas%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Duke Basketball: 10 Reasons the Blue Devils Won't Go Back-to-Back - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTmRGTTJ0Q0FFQTFYa1BKdFdONS1rWjdSVmZSQ2JoX2ZuSllHaUVabDJka3pxR1k5TE9hYjJUbzV6Z2stamRVZHQtQnpCOVQ4QVNQZHBVWHZQY3FDUWgyc3V2TjhuQVFlWlRVQWxrN3dRNzNaOGlMMHpJb1ZpMU15bVRvUjg2Wm0tSHA2V3F6Vm1pS3VaV2JqYjFoY1lVeVJ1WjhCVVlxeFFlQQ?oc=5",
+      "published_date": "2010-11-01",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "All-time St. Patrick vs. St. Anthony showdown - MaxPreps",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM2dkczJ5N0NrVWVpSmNCZzZoZy1kdF9OTWhwaEYxVVRBU0JrV1Z5YlhSSzBza0JsaEFuRzdFSF9oR1djMHJDa2k2Z3d6blJtSS1ERUtGdTlFWW1QOHFRU2M3cG1SakpjbU1XTk05STA0aUp2TDYybkVCbFdXOG5vcmU1a2V3RU05SVZBVTJDdFhJR2k1WFMxc1JQdmlUaDBp?oc=5",
+      "published_date": "2011-03-08",
+      "source": "MaxPreps",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Duke Basketball: Comparing Each Current Blue Devil to a Former Duke Player - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU2JOZmdpck03XzJUTnZ1dnJyTE0wb0FXaEZidzdtQWU0R2JRZUM0ZFZQZ3RjeWF4NnlQRmMxUmU4TlZkbjdWcEx3SkRRYlkyQy1pRUQtNUpUMmJfa0d0YXF3TUlpVWNZM0liUndORFBLSHFMWDlCNUQtNWw1a2ZSb3EzWldvTlpZalpIZWhHXzdqS2dwdHVWNTJvekRiZU5jcTZqTjI0VGU5WGcxVDlKT0VQWERhS28?oc=5",
+      "published_date": "2011-06-14",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Duke Basketball: Breaking Down the Blue Devils One Player at a Time - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRTBIc2h0QnFNVjRfVjlUUVlYbTdzaEN5WFhEeS13Z0FOM1B5UllqYWd6SzlueTgyYS1JT01Pa3dsU1NEY1ZfYllSaDVrWXJPeks0b0pZMjVlVTBpSnI4OHJzYXMzazRyOXF5NWpaSUF1YnNIWlNLN3VNRDZhMWp0UXJBOEVaZ2k5MmN4Q0syNml6NW5BYWlwZkxRQVRlc3NudkJGaGpDTEtFdUEwZ1E?oc=5",
+      "published_date": "2010-10-24",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "896a24c41158d1f0b7726053512bc9e49822d93e98226498ad80d5e9893f1822",
+  "feature_eligible": false
+}

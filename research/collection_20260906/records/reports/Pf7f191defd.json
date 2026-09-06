@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:55:44.591488+00:00",
+  "lane": "reports",
+  "pid": "Pf7f191defd",
+  "draft_year": 2013,
+  "name": "Otto Porter Jr.",
+  "draft_date": "2013-06-27",
+  "status": "ok",
+  "query": "\"Otto Porter Jr.\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2012-07-01 before:2013-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Otto+Porter+Jr.%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2012-07-01+before%3A2013-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "\u00bb There Will Be No Hummers: The Personal History of a College Baseball Flameout - grantland.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNzFlbWlfZVZaWnJtMXB3Vm5yRjFoczFCS09JRXlRRjVCcnFFZ0JZWWpHUVNqalkxc3gxZldoeTNNVThIYXNtd081Y3FiYVd5UXZTNEpmaEFEb2dSalJSaTJzMk1GTWZrUTRxeFQ2b0NpQnB4Y25NeUFHYm1fU0tRV2FrSHJHcUJETmk3bXdjendnYlFxSnZlZmppelZQUmk5MFZ6d1FPelMtdXJtMUxxTTBB?oc=5",
+      "published_date": "2013-06-25",
+      "source": "grantland.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "The common-sense 2013 NBA mock draft - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcDNJSFF5ZnNwSVdZVVpjMk1tMktEVzltQjZrd3QzYkhkRkxzckh2S19vaTZzcF9CVlVDVmdEaTF6cThvdWRFaVctMGNGY1N6MG1PUXdUTVlneFRuckdaZF8tLWthY1IzREdoSVpNSzV6WEJMbUtITVFaeDBwS01jR2g2ZlJneFRSV0h4Qmd1d0o3RkVYSng3OFVkVjlxLS1wSkZrdkxiTHpHcTZ2UkFnLUpXNjlFTllp?oc=5",
+      "published_date": "2013-06-24",
+      "source": "USA Today",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "867c7f518610a6c6be0e57f981df9300af80fb946578b55149833e616a7efe30",
+  "feature_eligible": false
+}

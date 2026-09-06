@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:50:52.274571+00:00",
+  "lane": "news",
+  "pid": "Peb2d46202e",
+  "draft_year": 2005,
+  "name": "Travis Diener",
+  "draft_date": "2005-06-28",
+  "status": "ok",
+  "query": "\"Travis Diener\" (draft OR scouting OR prospect OR basketball) after:2004-07-01 before:2005-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Travis+Diener%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2004-07-01+before%3A2005-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "The Dominator/ Top recruit PG Dominic James - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbnN0U1JwRHEyOGJmSEc1QnBrd1hta0p4UWdFN1RXa1hvV0I5bjgwTzB5c2dWc0ZtRXlWbV9rR0h6NDRMY3djb0FndmhWWl9LN2l5RGc3YnZFcnkyY3JMQWJaRDRHS1ZJNkFpRGgwRjB1VUxrQTVLTUw2SWRiS3g5RHd4Wm56UW1oMWtwQlRNeUt2WVg4T2hRQnRNbk5yS0dOZGlj?oc=5",
+      "published_date": "2005-03-18",
+      "source": "247Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Tigers Picked To Finish Second In Preseason Conference USA Basketball Poll - University of Memphis Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbnBmSC1KcTBtVFpXTWhIUkhuN04tRDNEbTNmeW1lSEI1c1lCWnkwZ0Jtcl9hbkJSdExyc3R1WUFUejAwVEdqUzJJR2RjYWFMOTlJZzZpeEZqYlIzckEzWncweHRrbWlkZHZRRmVZbWhOVFlKM0czVENDOWJKN2JzdkNrT2d5aGcwVjBUU19kRXpMVFNmQXZXRldEUzRnRHpfQVNBZGtGdE1aWGRQNEdIcWJpTQ?oc=5",
+      "published_date": "2004-10-26",
+      "source": "University of Memphis Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "c2fa1e7cda9f97116cd86d85d9029153135e1edbb35c34d091ceea6ae11c5d8d",
+  "feature_eligible": false
+}

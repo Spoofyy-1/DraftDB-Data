@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:52:34.971662+00:00",
+  "lane": "reports",
+  "pid": "P591a253b3e",
+  "draft_year": 2013,
+  "name": "Phil Pressey",
+  "draft_date": "2013-06-27",
+  "status": "ok",
+  "query": "\"Phil Pressey\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2012-07-01 before:2013-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Phil+Pressey%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2012-07-01+before%3A2013-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Pressey declaring for NBA draft - Columbia Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU215bDhOY2d6Umw3NThoZFhkREl3cFhTbjNHLV96TUpxX2FoanRNN0hwZ3BSN3hhU1RkeDRmNm0tZnB5c1NsWFkycVBXbVIzQ3hhUWdpcm1VTFVCYmNnU1lENVBaMUhqNVM4RUFMbGdSWHUwUmJxUG5TbXBrbHJSSVFoSk9lQjItejFFV2cxcVZlU1U5aWVoTHN5MmpzN3I4S0RWTkhoLUl6TUVhMVBTbHhzR1ZGZ2Rscjlj?oc=5",
+      "published_date": "2013-04-10",
+      "source": "Columbia Daily Tribune",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft 2013: Golden State Warriors don\u2019t hold a pick, yet - SB Nation",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbzZvRnJCVnZBdVVCdFJCRzZtNC10bHBIRnhDZ01aWHVBdEQ2YWRRLTNCLURsMUlGdS0ybXBnWjZfdEhWaFhMV2dQalpfWDRDd0hQSTNfRmp3bFZ4dU1SMzlYRFhENG9oT0FZUWpfM0Z3V3F5VmlpOTNTWThEMXpqSGJnS1NWV0VkY2xkTFBxRFB4RXhScUE?oc=5",
+      "published_date": "2013-06-25",
+      "source": "SB Nation",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "f5d5c3c15fdd8cb28bfce0527f0143bd2a9804f0b5d1d6d36a62e63aca59dee8",
+  "feature_eligible": false
+}

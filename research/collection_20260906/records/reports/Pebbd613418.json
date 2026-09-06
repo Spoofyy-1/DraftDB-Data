@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:55:21.694552+00:00",
+  "lane": "reports",
+  "pid": "Pebbd613418",
+  "draft_year": 2013,
+  "name": "Matthew Dellavedova",
+  "draft_date": "2013-06-27",
+  "status": "ok",
+  "query": "\"Matthew Dellavedova\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2012-07-01 before:2013-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Matthew+Dellavedova%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2012-07-01+before%3A2013-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2013 NBA Draft Profile: Saint Mary\u2019s Matthew Dellavedova - Mid-Major Madness",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdWxrZ2oxVE0tdl9jQi1wTTNCRW01bVZUVGxSUUlLalhiUUw0U2FOY2dtenhkX0c3Z2JFd0ZvU21WR0stbC11UXR3Sk1tYVA1NlM4ZTdsS2psdjFYeTF1ejF3c1BmdnpMZnFKZTVYZUtZOWstWnNGYjEzWUtfQ0ZCU3R0NTBqQVdXT1ViVUdrMDRaV0R2U2hUZ1A1Ykc2M0I3dTVHUmtR?oc=5",
+      "published_date": "2013-06-08",
+      "source": "Mid-Major Madness",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "3448d15055c64df9b04363016d3086575e346f6e9f4b78e2cdd7d2c5f0c982b5",
+  "feature_eligible": false
+}

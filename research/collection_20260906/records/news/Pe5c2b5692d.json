@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:55:30.488158+00:00",
+  "lane": "news",
+  "pid": "Pe5c2b5692d",
+  "draft_year": 2006,
+  "name": "Quincy Douby",
+  "draft_date": "2006-06-28",
+  "status": "ok",
+  "query": "\"Quincy Douby\" (draft OR scouting OR prospect OR basketball) after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Quincy+Douby%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Roberts' Buzzer-Beating Three in Overtime Sinks Rutgers, 86-84 - Syracuse University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50TVBvQzVMbzhDTXVLeEg0UlVWQjJiaUlsNkJPQWFzMlhZVjdScjJFZkxqM0s3NkJKZ0wxaGRMS0hkXzdHWDBWMmhnMkJ5Ty1zR1lEVDhB?oc=5",
+      "published_date": "2006-02-01",
+      "source": "Syracuse University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "eb2804649000c13280502239ce62603dcf9fbbd58e3a41fb09b91dedde83f0e6",
+  "feature_eligible": false
+}

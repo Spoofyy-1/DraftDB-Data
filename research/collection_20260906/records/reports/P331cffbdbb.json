@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T09:57:03.203178+00:00",
+  "lane": "reports",
+  "pid": "P331cffbdbb",
+  "draft_year": 2014,
+  "name": "Jabari Brown",
+  "draft_date": "2014-06-26",
+  "status": "ok",
+  "query": "\"Jabari Brown\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2013-07-01 before:2014-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Jabari+Brown%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2013-07-01+before%3A2014-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Jabari Brown NBA Draft 2014: Highlights, Scouting Report and More - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNDdxZkVyUjlIVFppWndxLVhHS0FJdVpYZTIySW5yaklST08tanZ1Z1I5cUhZeGtJMDFJYjhQRFdmaTI4QzVnT3dUeERBXzFfVkgyRHRIUENoNTZSYUxaNW15RDZ0U2VKSDlKRjdNS19FOG1FZDJjVE9HSWx4S0F1MzF2SklCNVVQczRvVFlzc05heVJ5djF1WFRNZHJWM1AyeUFveXFBM0NnMEE?oc=5",
+      "published_date": "2014-06-22",
+      "source": "Bleacher Report",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Brice Johnson NBA Draft Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NQkxNaFdZQnpvRlNEaVR5Q3lEVl9WWm9BQUJLSXNUa0FELWpoVDdZb1lZRmJlTmVJT0FxcWI5bUw3ZWJyejMwbnkwcVE4SGFRMjQzTHZYblRQSy1aeWtlNE1iampaTVFZUE44ZXNMTmtQQmc?oc=5",
+      "published_date": "2013-12-10",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Mitch McGary Updated Scouting Report - draftexpress.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORTFUdmNSQlN4NDdqOEYxVUZtZmNkMjVZd0YtX3VkYU1IUXcydGpudWdNbWZHekZVZjIzTUVSd094X3Q5UVQyU1UzMV9IUl9lWVJPc3kzZktKeGpkUFpnOHlJTzNXWEZJZ21wR1VOb09BdDJscEE2MjRWTW8tV1FIaVl1U04?oc=5",
+      "published_date": "2014-05-07",
+      "source": "draftexpress.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jordan Clarkson NBA Draft Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiMjJCcEUyTjVNSTgyaVktY1l1c2VVUGNDQXBONzgxWU5EOEhScHF1X3IzN201ZmI3MUM5anhrbWd2V3J3c1BiUTFWTFRfTjVxZ1VwcFpiU09kU3ozazNsVS1VVEJUQ2xuSTFqd3M4eGIxNUNWekE?oc=5",
+      "published_date": "2013-12-06",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "ab7ef7f049a3b1d4e3847030e18264e9373db6de6b98009b6354abb95b4adade",
+  "feature_eligible": false
+}

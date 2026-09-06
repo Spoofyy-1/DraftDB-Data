@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:51:41.775639+00:00",
+  "lane": "news",
+  "pid": "P09e349620c",
+  "draft_year": 2006,
+  "name": "Robert Hite",
+  "draft_date": "2006-06-28",
+  "status": "ok",
+  "query": "\"Robert Hite\" (draft OR scouting OR prospect OR basketball) after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Robert+Hite%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Hite Lifts Hurricanes Past Seminoles In Overtime, 84-78 - Miami Hurricanes",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBERTd6LWNiRUNIajBULXNpOXluMVRtelpuYTcyV0Z2bkVMdmRsUTAyTWl0VnJwNWNINHJXX2VvWF9ycUhnbzF1UTVTX3VpSzVxcFJzNmZkMDZiZEF0Y01GOENQX092UQ?oc=5",
+      "published_date": "2006-01-29",
+      "source": "Miami Hurricanes",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "UM gets back on track at FSU - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQem1CaERIVGJFNGNGdDZjYmI1WkRHNDB1akxCOEZxRHB6YmlXdmluZ0lPNDVJRFpTQnVFYTdRUjdoUDV2RExQWXBPdGVyeWJtMGd5cm1JRk90cVNTb08yY0pIYmRMNHlQblZ2MG9sUmdqdS1DVWFKZEJEem1tbjk4THNiNWl2Q1hkazRzSG1UTTVsc2pfX1E?oc=5",
+      "published_date": "2006-01-29",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Miami Faces Clemson In ACC Tourney Opener - Miami Hurricanes",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05MUxiZWJlLTJSYmxaUXVvNXJWNzN4MXRwLU1Rc1pHRHhWZElwX3FBTlZBQkJuekhLb2NIdVpnUE1zUjFjYjJMNVdFd2RiV0lPVm5OUW5IOXAtc3lsM1NSWmRFZC1OUQ?oc=5",
+      "published_date": "2006-03-07",
+      "source": "Miami Hurricanes",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "a32960513db03061bc280546449a710e44158f99590ad09d6ddb8298ce3e1318",
+  "feature_eligible": false
+}

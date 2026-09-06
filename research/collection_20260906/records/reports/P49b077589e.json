@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:17:14.422016+00:00",
+  "lane": "reports",
+  "pid": "P49b077589e",
+  "draft_year": 2007,
+  "name": "Acie Law",
+  "draft_date": "2007-06-28",
+  "status": "ok",
+  "query": "\"Acie Law\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2006-07-01 before:2007-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Acie+Law%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2006-07-01+before%3A2007-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Acie Law IV Interview By: Adi Joseph - NBADraft.net",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tYVpCV0xvd0VMSTBIS3d3MlNMdmhkY0N4RmFGQTA0bXhtTXhseC1sbXp2LTNNbEthRnVEckVONG8tbjJkdF8wS3lWeGM1cUhVZmJrcmhhaU5kWWM?oc=5",
+      "published_date": "2007-04-14",
+      "source": "NBADraft.net",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "b5f420fca38a6830cd5092880c3a115b6c15fed2fdcbe2c137231b9331fe1c72",
+  "feature_eligible": false
+}

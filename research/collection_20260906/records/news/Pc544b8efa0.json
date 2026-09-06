@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:58:25.207481+00:00",
+  "lane": "news",
+  "pid": "Pc544b8efa0",
+  "draft_year": 2007,
+  "name": "Marco Belinelli",
+  "draft_date": "2007-06-28",
+  "status": "ok",
+  "query": "\"Marco Belinelli\" (draft OR scouting OR prospect OR basketball) after:2006-07-01 before:2007-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Marco+Belinelli%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2006-07-01+before%3A2007-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Top International Draft Prospects - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Ed1h3cndSRlYwczlqZjQ3eVpUSmxfLW9GdFFTV0o0ckNFUFlsWE9WQ1o4UVA5MTNEV1U1QVBXM0IzbDhaVnFDOVFJRjltVDAtWFpUMDVtbWtGdzZ0UW15TjJGa2NRcHRmdjBTSTY3cmdnSlRXZ1RDbg?oc=5",
+      "published_date": "2007-06-22",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "7db2b20f507efc591337a7f42da97be8c6accb5c1af95d79bed7590261ab4a89",
+  "feature_eligible": false
+}

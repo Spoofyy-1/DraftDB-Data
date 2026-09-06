@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:59:27.543425+00:00",
+  "lane": "reports",
+  "pid": "Pc0fff42784",
+  "draft_year": 2014,
+  "name": "Devyn Marble",
+  "draft_date": "2014-06-26",
+  "status": "ok",
+  "query": "\"Devyn Marble\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2013-07-01 before:2014-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Devyn+Marble%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2013-07-01+before%3A2014-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Roy Devyn Marble: Scouting Profile for Orlando Magic's Draft Day Acquisition - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLU1fNjJOQWp5R2w2ZGZwekk4eDJVdGs2bURpMk16ZldCZ0pjNVJwLWhGbEpZdHFWelljcUdlNUg5UFI0QWRjYXlDcXNqTVlsNjdEOHpVOXBEQTBFU1VMSVc5a0NVdS10WjljTGFXRkc2cG9wRjZoNUhuMWZaZE9LdTVGYjd3MGhOYmJIQkRPUDNlSDRLNVhObUprVmR5TnRkV1k0MVFzVFUxOGpXOHJUaA?oc=5",
+      "published_date": "2014-06-22",
+      "source": "Bleacher Report",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Devyn Marble, Southfield-lathrup , Combo Guard - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yMzhnM1pLRTh6RHNrRHlPVnlQdWFVaGFLSzRaNzFzNGtEMFhuUVZPWThKQXBqemdtNVFUN284MUZ1Z29QMXdIc1RMSXZjMks1Y3BnQm95eEpuQW5najVlNER2MHJTTDZ5dlZQaXJoSzgtbnJS?oc=5",
+      "published_date": "2013-10-05",
+      "source": "247Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Mitch McGary Updated Scouting Report - draftexpress.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORTFUdmNSQlN4NDdqOEYxVUZtZmNkMjVZd0YtX3VkYU1IUXcydGpudWdNbWZHekZVZjIzTUVSd094X3Q5UVQyU1UzMV9IUl9lWVJPc3kzZktKeGpkUFpnOHlJTzNXWEZJZ21wR1VOb09BdDJscEE2MjRWTW8tV1FIaVl1U04?oc=5",
+      "published_date": "2014-05-07",
+      "source": "draftexpress.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "beb4e4cfeb37505e363c21adbe010b8e4921b7f6ef29a4d262222c60fe399e48",
+  "feature_eligible": false
+}

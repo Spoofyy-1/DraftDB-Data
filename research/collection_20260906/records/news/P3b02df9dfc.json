@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:00:14.906221+00:00",
+  "lane": "news",
+  "pid": "P3b02df9dfc",
+  "draft_year": 2008,
+  "name": "Anthony Tolliver",
+  "draft_date": "2008-06-26",
+  "status": "ok",
+  "query": "\"Anthony Tolliver\" (draft OR scouting OR prospect OR basketball) after:2007-07-01 before:2008-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Anthony+Tolliver%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2007-07-01+before%3A2008-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Anthony Tolliver Taken In Second Round of CBA Draft - Creighton University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2eUl4UWhnbFRKZW9WQXlnUWloZmRiZE9wZ3pRTjROc08xNklOVTVsRTZWUEV5MDR4MTB0N1ByOWRQcldxRjhmTVFqMjlnSVRDZ2Z2OVBBVTdnZw?oc=5",
+      "published_date": "2007-09-28",
+      "source": "Creighton University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "ce4e3dc49153476f3c345e18d3587037246a61f34bb4962710b5fd224bf60d44",
+  "feature_eligible": false
+}

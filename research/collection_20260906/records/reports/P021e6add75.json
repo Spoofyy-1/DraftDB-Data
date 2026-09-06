@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T10:08:12.600745+00:00",
+  "lane": "reports",
+  "pid": "P021e6add75",
+  "draft_year": 2002,
+  "name": "Chris Owens",
+  "draft_date": "2002-06-26",
+  "status": "empty",
+  "query": "\"Chris Owens\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2001-07-01 before:2002-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Chris+Owens%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2001-07-01+before%3A2002-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "048a7e6be117c3a6178b5dd6cf4441360327152d79179e2aa977fdcf40d87a17",
+  "feature_eligible": false
+}

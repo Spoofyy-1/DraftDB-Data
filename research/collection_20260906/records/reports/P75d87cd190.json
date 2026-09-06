@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T10:06:15.234629+00:00",
+  "lane": "reports",
+  "pid": "P75d87cd190",
+  "draft_year": 2001,
+  "name": "Jason Collins",
+  "draft_date": "2001-06-27",
+  "status": "empty",
+  "query": "\"Jason Collins\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2000-07-01 before:2001-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Jason+Collins%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2000-07-01+before%3A2001-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "b7994464e6846cd683211c6071ea971991fd427b792b3be64e3dbd450cfdbe32",
+  "feature_eligible": false
+}

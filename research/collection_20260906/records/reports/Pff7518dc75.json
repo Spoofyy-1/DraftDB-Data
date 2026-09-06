@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:50:52.953056+00:00",
+  "lane": "reports",
+  "pid": "Pff7518dc75",
+  "draft_year": 2012,
+  "name": "Quincy Acy",
+  "draft_date": "2012-06-28",
+  "status": "ok",
+  "query": "\"Quincy Acy\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2011-07-01 before:2012-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Quincy+Acy%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2011-07-01+before%3A2012-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Doug McDermott NBA Draft Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jS3ZwdktlbkVXVktiM0NvdGVLeEZ6VkxiYkVnRkpwcXJTclZUWS1WTG9zVXlqaEs0MGpkVXh5NkdsaU1jTWYzejVQWWp4N081X0N0V21ycVJyRVp0VDJQSFphNDBlZHRUZXNCNnlza1Q5ZjBj?oc=5",
+      "published_date": "2012-03-23",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "8d4e538a03ce9c4d436656323c0de03814070e8eb16bbc13b472b88865dfc02e",
+  "feature_eligible": false
+}

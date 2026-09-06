@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:19:50.197845+00:00",
+  "lane": "news",
+  "pid": "P909613bae5",
+  "draft_year": 2012,
+  "name": "Mirza Teletovic",
+  "draft_date": "2012-06-28",
+  "status": "ok",
+  "query": "\"Mirza Teletovic\" (draft OR scouting OR prospect OR basketball) after:2011-07-01 before:2012-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Mirza+Teletovic%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2011-07-01+before%3A2012-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Slovenia is better than BiH - en.vijesti.me",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVU9QclhSbzlMT1EzcEUtcXQxajJvN2dFd0dhSVN1QlpZTFhwLTBndy1hdjVqMmhZdVJjUm1mQk5mQ19FU0ZLUlRTT3NNQi1KTVdiWjh5dE4yZGFCZmRMeGNZSU5aU25WbzJDV2tVRDdlT3JmTlpPNzc1UWZObmRFSGJB0gFsQVVfeXFMTXp2MUl6bnhQc0xIOW5hVDFxYWJMbHhRT3NjTGxzM3JRdTlERFdkUmdlUlZnUV9FTUk5Z1RyaFBQZWdTalpsWmJVSU5BYWcwLWtkVTBzSTlZai1Bc0JQQWw2NGE4UGxXQ1BYZXR3?oc=5",
+      "published_date": "2011-08-09",
+      "source": "en.vijesti.me",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Milko Bjelica was injured - en.vijesti.me",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52TGhfYTFwU25JUGxzRFlfa2RoNzJtcTFaTC1MQlRnMW9iZVI3RHl6RklnZW8wLWF5aTZzbXN0Q2w4QkFRR3dXMlFOV2NxMm9WR05mT1RVcHJ6cllrT2E4MlNxZm5QQ21yWXA4WEk5U1gtLWw0VXZNTVlvMkRoaG_SAWpBVV95cUxOWkMyN1V2dllBQnlOZC05ZnBBMFRvSHdBbHZfYkZCWE1lVjFqczk1VEVrMVdXdldCdUVHOExfVTA4OFA2T0JvbWMyTzlNN1JvTV93R2ZrLUFBYTVTd09JUWJaaTg5cVlvZVJn?oc=5",
+      "published_date": "2011-11-25",
+      "source": "en.vijesti.me",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "fdfabc3df4f94a7f6ccd6cb87c8bca9fdec9d16781ce7f879b3e161b5e93853a",
+  "feature_eligible": false
+}

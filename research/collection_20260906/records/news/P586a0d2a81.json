@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:57:06.177819+00:00",
+  "lane": "news",
+  "pid": "P586a0d2a81",
+  "draft_year": 2007,
+  "name": "Joel Anthony",
+  "draft_date": "2007-06-28",
+  "status": "ok",
+  "query": "\"Joel Anthony\" (draft OR scouting OR prospect OR basketball) after:2006-07-01 before:2007-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Joel+Anthony%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2006-07-01+before%3A2007-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Sports briefs: Warren Carter works out for Jazz - dailyillini.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbDk0MGI3SUlHNVltbVpQWGV3VzBRSHY3OFpLQWNrMk16YnlmMXhDb1FvX1FzWkNXeWhfSmN2WGExUGg4MjNHX0tTR3VmS2d6XzBBNlh0UXJ3MlV4ZWpZX0QwNlozbmtDT2VEbkNkc3VENmpQZjlxdzEySWVRc2ViRWhPNWF2Yml6UlZSMmVBWXpuczA?oc=5",
+      "published_date": "2007-06-26",
+      "source": "dailyillini.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "4c2904581794a71ca0470ca49a09827940095daa19f083c3493bf7bfe89f8384",
+  "feature_eligible": false
+}

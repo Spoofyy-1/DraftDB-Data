@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:59:51.248165+00:00",
+  "lane": "news",
+  "pid": "P267f5baf8e",
+  "draft_year": 2008,
+  "name": "Sun Yue",
+  "draft_date": "2008-06-26",
+  "status": "ok",
+  "query": "\"Sun Yue\" (draft OR scouting OR prospect OR basketball) after:2007-07-01 before:2008-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Sun+Yue%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2007-07-01+before%3A2008-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Sun Yue's Contract with Lakers Unsigned - China.org.cn",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsQ0d4RHFsZ2o5Zjl0ZE5sNVA0bzRmdkcweUJoTkVRVFFsN21RcGN5dWFZVk5WYmJ2TnFrOEVRcXl2M0pwZlJQQzM4MDFmYjdScUNJSE8wZ3ZBVkxCYmdDWFlROXBkbjUxLW5Ueld2TjZNVF96?oc=5",
+      "published_date": "2007-09-14",
+      "source": "China.org.cn",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Yao defends coach against media assault - China Daily",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uYkZsa2VwcWNjeTR1UmM1djhielB0THlSbmp5WjJoOTZIOFJyNGZRZmdvWWtwX2hHdGJDbjhtTkN1dllTOTR0MHVITGRVZmVlR1FLLXFEUU1OTGtfMVZaaGhXWDZHNlJpTGJqcG02ZUFtVVRf?oc=5",
+      "published_date": "2007-09-06",
+      "source": "China Daily",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "China beat Memphis in 3rd basketball friendly - China.org.cn",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqSm8wbW16V1Ftd2VHMTZQQWhHWHZEam9uTmxqNW5ISXBpX1pQcERCMnFjT08tSlBFanVyTXdXWDBFdVBrRTR4Rzd6Ni1KTHo3Y09hWmpiU1gxQjVlVnY3UDlLS1pFM2FVc0VETzhQel9SaW1pbkE?oc=5",
+      "published_date": "2008-06-02",
+      "source": "China.org.cn",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "2ae7a0c59b06203d7a1abf894764b168b6dfdfd27421065180c320c370db3640",
+  "feature_eligible": false
+}

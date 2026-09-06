@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:06:04.583540+00:00",
+  "lane": "news",
+  "pid": "P977d8b209e",
+  "draft_year": 2009,
+  "name": "DaJuan Summers",
+  "draft_date": "2009-06-25",
+  "status": "ok",
+  "query": "\"DaJuan Summers\" (draft OR scouting OR prospect OR basketball) after:2008-07-01 before:2009-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22DaJuan+Summers%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2008-07-01+before%3A2009-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Howard crashes Mourning tribute, leads Magic over Heat - The Spokesman-Review",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX2Z0bzh0YURBQ1VkT3ZhUGl0OVUwTy1JSm9VNWNXeWtiRmxPMXhUWGhQTGhjcDlKVjNvTjVXSmlYSWNBNnNaQ0dHSDJNemp4ZWhXX3VPOXpQVjQtWVF3UkFLVWlnWTk0Wk1feDgxLUpNbGttRWJqZ1ZEVHpsdXBrbGIwS00zeHZGeVVBXzVjMzY4eXdRS0RwTTc3SQ?oc=5",
+      "published_date": "2009-03-31",
+      "source": "The Spokesman-Review",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Blake Griffin, Tyler Hansbrough lead All-America picks - Boston Herald",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWUhQbXBOVWF5NC1JdlBPZFd5MGVKaWN4X3hHdjVHVENBZUlHRG1NZUdwZURDY3p2eTJlemJjSE02cjJXVms4NW5GclhackRabHNwR0MySmNzNUVIa1A0dGJvLUREaUpsdkt1bHJXM09UbkFZb1JMVmF0QmhPVTktSzh1ak1MeFVtSkJ0NENNQ1laSTN6Z1V4cmlR?oc=5",
+      "published_date": "2009-03-31",
+      "source": "Boston Herald",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "07f7992508d34dd9b2ad11d07c1f86350929f9a4af2ea84c7ca1aa03e1aa8d0b",
+  "feature_eligible": false
+}

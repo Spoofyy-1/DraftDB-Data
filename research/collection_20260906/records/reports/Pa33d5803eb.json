@@ -1,0 +1,64 @@
+{
+  "collected_at": "2026-09-06T09:54:13.289546+00:00",
+  "lane": "reports",
+  "pid": "Pa33d5803eb",
+  "draft_year": 2013,
+  "name": "Archie Goodwin",
+  "draft_date": "2013-06-27",
+  "status": "ok",
+  "query": "\"Archie Goodwin\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2012-07-01 before:2013-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Archie+Goodwin%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2012-07-01+before%3A2013-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Archie Goodwin - NBADraft.net",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01N2RUeVZwbHl1ZmluZWZuMmQ0N2pGLU8yMVd3Y1M2Ni1pcjAwMWQ0WTJwNVp4WHZRZnRieXNxV3NQZWx0ZHFWT0FZcEhDU0JfWENndXRtYlJTRHQx?oc=5",
+      "published_date": "2013-05-03",
+      "source": "NBADraft.net",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft 2013: Archie Goodwin scouting report - SB Nation",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNODB1YUJPZU16OUJSLXRCN2RqV0p0SFFpeWVLZUZUczhLamNXQ3p1TGdKVGM4Q24yaUhqM2g5RjdWUHJXdXFqMzZ6OEtLUTMzdXZXRTF3VWlwVDJLV1RBNzQ0ZUh4Q0x0a3FwUUUzTHBOb3RRWEItZUw1eUpUQVVlVWRQS3E5RUUwVERTNzlmR0E?oc=5",
+      "published_date": "2013-06-08",
+      "source": "SB Nation",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Anti-NBA Mock Draft 2013: Evolution of ESPN\u2019s Top-100 Big Board - Brew Hoop",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNWt0aTVaakREQWhoY3hIZlcyeGpBcXhaQzlFZERTODlBVTNjQ0tZM2JNMlE2UEhOd0JiX2hQVGZnOThSaVIxcE5Ubmc3YTdZY3ZZbUowUDJPbEZWY2NGdmlpeVJOSVpGNDF0RWY0aEgzbWpLM3o1eEhza2Fkdl9zQTNRaHdJT0k?oc=5",
+      "published_date": "2013-06-16",
+      "source": "Brew Hoop",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Sports Agent Blog\u2019s 2013 NBA Mock Draft - Sports Agent Blog",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS21WTFZlZTRBWXllQ2F1Y1pZYUFrd1UwNWNmZDhTREczaHVnXzJNT2J0LXVYcHNQaGJSdnV3MGlFUTdrTkVpRW5jYkJMOHhiVkFUYkF0Q0tKZHFHWFRfeHpXZmlqQnI0QnlBWTgyb0pEMHcyOVN2QVhSTjlhaFR4dmlGVk0?oc=5",
+      "published_date": "2013-06-24",
+      "source": "Sports Agent Blog",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Anti-NBA Mock Draft 2013: Evolution of Draft Express\u2019 Top-100 Big Board - Brew Hoop",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd1lLRjZsSFhDSG1FVGFxdWNoNmN4aDNsV1BQNVEwYU13Sk5KYktyQ2lOTkpIRS1Rb0hVSDdZMEdLVk0wNFRpeERoa0xiY0Vya2ROVzZ1c1Baazd6UzRHd1NHbm5qR1Y3bTl1Y1NwaDNtanYtUzA5MEFWbnNMZFVySUgzSDJTSjNIVm9KLQ?oc=5",
+      "published_date": "2013-06-22",
+      "source": "Brew Hoop",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Mock Draft 2013 roundup: Nerlens Noel likely to go No. 1 overall to Cleveland - SB Nation",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQWhxNE50WVQzdXFhSEhQTFNBYWRVejVvOUNXLVhiYUY3Y0pCcWxsamJLU0wydWF0UXJYZDhJTHBua2llbF9kNUJCMWdfMEVReFE4N1ZEc3JIRExUQkhGWTY3UkNJYU9aRVV6bmNsUmhvcmJoYU54cHMyS0lteW5BQ0tSalFtMVRhYmYxMzNGSDJ5Wms?oc=5",
+      "published_date": "2013-05-22",
+      "source": "SB Nation",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 2,
+  "response_sha256": "0605ed83d8433596c566df01c6600a56dff21ec2c733d9e8446c738b9065e69e",
+  "feature_eligible": false
+}

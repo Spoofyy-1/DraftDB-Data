@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:05:44.775849+00:00",
+  "lane": "news",
+  "pid": "P8514f39741",
+  "draft_year": 2009,
+  "name": "Jonas Jerebko",
+  "draft_date": "2009-06-25",
+  "status": "ok",
+  "query": "\"Jonas Jerebko\" (draft OR scouting OR prospect OR basketball) after:2008-07-01 before:2009-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Jonas+Jerebko%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2008-07-01+before%3A2009-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2009 Eurocamp Measurements By: Aran_Smith - NBADraft.net",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZelNUN2k3VnVMS0s1TEtUSXpaZjU0V0dHcU9peFM2NHpxYnBPVjlFMUl2bUJrNVpYenJqby1XVkVNOGg5QlJZR3hvbXNxNjBycTI4cmo0dEswVU82NmFJalZn?oc=5",
+      "published_date": "2009-06-11",
+      "source": "NBADraft.net",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "109ed34c7f2c8096e9290d9e7fdcdb0cb410737b0b525b367357fcd46d0c1a63",
+  "feature_eligible": false
+}

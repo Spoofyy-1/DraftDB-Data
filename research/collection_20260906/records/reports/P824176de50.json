@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:53:24.155573+00:00",
+  "lane": "reports",
+  "pid": "P824176de50",
+  "draft_year": 2013,
+  "name": "Sergey Karasev",
+  "draft_date": "2013-06-27",
+  "status": "ok",
+  "query": "\"Sergey Karasev\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2012-07-01 before:2013-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Sergey+Karasev%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2012-07-01+before%3A2013-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft 2013: The final Bullets Forever community draft board - Bullets Forever",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYnB1OEFkUmZ5TXVKX016TTk0dVdJVHUzMkpHM0NDRHFCRl93d0NaYlc2czRrRmZGaUQ0WUZodjVZNE9oV3lSZGcyODNkMi1PcHlXcVJyUGp3VWJVaXozaEdrSF9NRDRSQnBMX3UyWV9pWkExaUwwZHFLYTZIT1BUbm9yOFRDR3prN1ZleU9nWURnZzNSOHlpeFdn?oc=5",
+      "published_date": "2013-06-24",
+      "source": "Bullets Forever",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Mock Draft 2013 roundup: Nerlens Noel likely to go No. 1 overall to Cleveland - SB Nation",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQWhxNE50WVQzdXFhSEhQTFNBYWRVejVvOUNXLVhiYUY3Y0pCcWxsamJLU0wydWF0UXJYZDhJTHBua2llbF9kNUJCMWdfMEVReFE4N1ZEc3JIRExUQkhGWTY3UkNJYU9aRVV6bmNsUmhvcmJoYU54cHMyS0lteW5BQ0tSalFtMVRhYmYxMzNGSDJ5Wms?oc=5",
+      "published_date": "2013-05-22",
+      "source": "SB Nation",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft 2013: Brooklyn Nets seek cheap talent behind set roster - SB Nation",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS1NRcjFKLS1YMkN4UTF5T2FDVHdMRS1FUDdZMHoyVHROTDRjZkFkQjFKOFFHOWZkdm5EOG1OcTY2TzN5UTdqSlRBZkZjUm5TNV9QM3pwTkRoWnVYc1J4NlZrc2gyYlBNU1VJZzROdWdWcDk1ZG1lWHh5NXRNMWt5SUVVUW9yLWxTcHJF?oc=5",
+      "published_date": "2013-06-25",
+      "source": "SB Nation",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "4c3bae29d98a10f79699bda442b58df892598fc4e2a0c8b74660a5d93d24ff7d",
+  "feature_eligible": false
+}

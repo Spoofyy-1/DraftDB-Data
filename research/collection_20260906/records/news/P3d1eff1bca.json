@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:00:18.233149+00:00",
+  "lane": "news",
+  "pid": "P3d1eff1bca",
+  "draft_year": 2008,
+  "name": "Alexis Ajinca",
+  "draft_date": "2008-06-26",
+  "status": "ok",
+  "query": "\"Alexis Ajinca\" (draft OR scouting OR prospect OR basketball) after:2007-07-01 before:2008-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Alexis+Ajinca%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2007-07-01+before%3A2008-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Timberwolves invite nine prospects to work out - Pioneer Press",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM3gwaEs5RTRYeW96c1F1cUhwN0g3dE4yUVpYMnRmWnJwSDU1dVJUd25tVXVjdU5Ma0poWGRDMHRROTdDTlhVYXRCM1NvUnlFd3k3Y1cxanhmeEJPWmk0WG5ZWWt3MVpmcXFNOW01T1c4YWE0MlpWellseGFZNVRUcGdzSGlSdFRFOGlyRTBB?oc=5",
+      "published_date": "2008-06-13",
+      "source": "Pioneer Press",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "dfb3febc91a327abd8a6b6f7e334f73a5c720a390c1b5c134e210baa3ea934ff",
+  "feature_eligible": false
+}

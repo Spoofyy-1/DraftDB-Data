@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:01:32.364545+00:00",
+  "lane": "news",
+  "pid": "P8ff779ec76",
+  "draft_year": 2008,
+  "name": "Steven Hill",
+  "draft_date": "2008-06-26",
+  "status": "ok",
+  "query": "\"Steven Hill\" (draft OR scouting OR prospect OR basketball) after:2007-07-01 before:2008-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Steven+Hill%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2007-07-01+before%3A2008-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Arkansas upsets Tennessee 92-91 - Whole Hog Sports",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMndKd05IUlZtY3g4TWdqRVJUcDhPVGJtQWxTaUJRZXgxaUtKRWtzeU9tV25zZFZ5cUpXT1RqRUhJNTRyVVlGa0JDTnNrWkdOUm54SmJPM2FaY2M3YWdxem1OZkVzdENJQm92STVtQ3N1c1NHSDM4LXc4OElkdE44anVBRlppaFk?oc=5",
+      "published_date": "2008-03-15",
+      "source": "Whole Hog Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Notes from the Field: Basketball Practice Begins - Arkansas Times",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMnEwa1puZ3NORzhFRDNVNm83aUtXd0xoTFR3eUlPQ3EwUXZReE1tSlpQSzRnRVJmdl9YRWdiMWh3Vl9tSVdqUnpmRHUyNUhDZTIzYUVUaXptT1o0aUxVZjAxTUZtc21fX05KXzVpcWFYSlBJdmc0TmpFTmV4M3ZOUzZSZDkxR1BOYU9PVUxOV0poQ2dfeVlEUFllalI?oc=5",
+      "published_date": "2007-10-16",
+      "source": "Arkansas Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "3A hoops brackets set - Post Independent",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91ZW1iaC1ndkVZSU1wZGd4VWxpblFxSThwZWdyeXktdHN2SWw5TXBlQUNBRU1qUmFxZkEwRktVMEFER2UwY2w0Rlc0a1JWVVRsOWg3X3hMNktlV1lZYUNOMERhTkM1dlp4TjhjcFFR?oc=5",
+      "published_date": "2008-03-03",
+      "source": "Post Independent",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "69c575bb536222f1019af27efdf5c839b5aaebfdf98f2f5a6fc365d51aa3fe05",
+  "feature_eligible": false
+}

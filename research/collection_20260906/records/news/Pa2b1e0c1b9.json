@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T10:15:40.555795+00:00",
+  "lane": "news",
+  "pid": "Pa2b1e0c1b9",
+  "draft_year": 2011,
+  "name": "Ivan Johnson",
+  "draft_date": "2011-06-23",
+  "status": "empty",
+  "query": "\"Ivan Johnson\" (draft OR scouting OR prospect OR basketball) after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Ivan+Johnson%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "2a29153f70693f6b0dd2967ee63a5c9329a7abe71ed6a1f7b1cfe7585577e4ba",
+  "feature_eligible": false
+}

@@ -1,0 +1,64 @@
+{
+  "collected_at": "2026-09-06T10:11:22.974742+00:00",
+  "lane": "news",
+  "pid": "Pd646388a2b",
+  "draft_year": 2010,
+  "name": "Elliot Williams",
+  "draft_date": "2010-06-24",
+  "status": "ok",
+  "query": "\"Elliot Williams\" (draft OR scouting OR prospect OR basketball) after:2009-07-01 before:2010-06-24",
+  "query_url": "https://news.google.com/rss/search?q=%22Elliot+Williams%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2009-07-01+before%3A2010-06-24&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Tigers Make History With 52nd-Consecutive C-USA Regular-Season Victory Over Rice, 80-68 - University of Memphis Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdzJ6bS16X01yX2JyZ2hWeVd5N3h2NVQteFVQNXZ1ODNkWWRuSW9TTUg0XzB2VUp2bGJrYktJemxVT0FQVlB1QUYwRzRsbnVZcExWQUNpWktSTGMtMGtWWWVTZmdvNU51eldJbFZKUk5JakxERUdFZ3VkLWkwemlxNXh4Wjc5eUdyOXJMa0FoOHBLQ1dlOWh5QlMzemNNNWQ0S3pCaXhHSTRmMFVCMm1WVUI2RWU5Sk5rVjdkX2lVNjJQdw?oc=5",
+      "published_date": "2010-01-16",
+      "source": "University of Memphis Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2010 NBA Draft: Top 10 Guard Prospects - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYkZ2UG1veU9icEY3QmpSV2dRaERXX1AyeGxUY0RBSkNfaDRySE5DZDVLNnVENUlnMzVwSE9aZUxiZEJGcE5TeXVlTzhOZFF1ZWJhcUVJbVRPbTZCOTlqbU8yRHRZcHpZeV9fZ29xTDlRdGFFcS1ZUU14Q1ZVTUF2RQ?oc=5",
+      "published_date": "2010-06-18",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "ACC, Big Ten and Big 12 Loaded With Title Contenders - The Hoya",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVHZWWlFfcmNZYTZ1MG9TT0Q4MFhJYlV1bkQ2VVRLSUNuX2xIc18yY0FVTzE1R1cyX3BGR19QMzNWdldDVkdINDJnWDBqQ2QyX3JKUzVVWjVkN0x1RWo2OHZTNTBTWFdPa0NRQzdKWF92b0JrVzc2eUtJdWkzYVVCWlFFQlBsU1dEelZsYlFkZw?oc=5",
+      "published_date": "2009-09-18",
+      "source": "The Hoya",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2010 NBA Mock Draft: Kentucky Wildcats Gone Wild - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNW03eEdtdGwzdHAzVU1xSmNGUmhOM01MMTB5M3RIVWpIdlRZWC1HazZiQ0dTb0lScWlpNDBBN09Wb0NGNEdWUFlIN3VxYWI2UzZjdVo1SlA2T3RuRkQzbWxsaTNKSlRfc1RZYXVxV3JuYkxXeWtpRHVYYWhoTEVQQkhzbkxZVGkxRUNoOXB5NkFSMlFx?oc=5",
+      "published_date": "2010-05-07",
+      "source": "Bleacher Report",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Unknown in the U.S., Parks has celebrity status in the Philippines - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpOGVOTHVtejk1WWt1VjZMR3JETkpJeGk5NC12d3ZqMFdMaVYzUVc0eW1CLTdvemdkdmxsTDBWLW0zaVZBRWoyaHJoRHhNd0hWdk1GRFdJbU1QSW8?oc=5",
+      "published_date": "2009-07-10",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "College Basketball Handicapping: Conference USA Tournament Preview - Doc's Sports",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOUlnNzVITExXeFlrNkZWekQ5aFQxVm91S2M5R3h0Yjk2cHlYVFp2YUE2dFFocmZpWFdOSzNIcHFzQzMtNm55UTdqWXE0YTh3d1Z3bWtlanRtREF4dHgwMnlnUzgyUnBwYk9VeEo3QzgzTDNfOHhadTdIU2FCaGRkN1FIcHVsZGdzcFJ0eg?oc=5",
+      "published_date": "2010-03-08",
+      "source": "Doc's Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "b08cbfa2f45b8ae2ccd0154d6f90e0feb7d0d74fcffbcdf982af34ae52d9174d",
+  "feature_eligible": false
+}

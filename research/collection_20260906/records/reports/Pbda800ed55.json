@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:59:20.853240+00:00",
+  "lane": "reports",
+  "pid": "Pbda800ed55",
+  "draft_year": 2014,
+  "name": "JaKarr Sampson",
+  "draft_date": "2014-06-26",
+  "status": "ok",
+  "query": "\"JaKarr Sampson\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2013-07-01 before:2014-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22JaKarr+Sampson%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2013-07-01+before%3A2014-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2014 NBA Draft profile: Jakarr Sampson (St. John\u2019s University) - Rumble In The Garden",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUF84RHNHeUdtRjh6a0FQbXN3d2pCeGFSV2dRYVNxNXo4d1JNV0dfVHV3ZGl1SFBFbXRfd3ZZV2h0b1ZCMUxiei1uMEowX0hHMGtKTm5QdnBUZUxDUXhtbThuSGliNi02NUZDZ3d4NlEwYVNIT1RXOVhtMGJid2F1QlBOdG9McmNCOWFHbXk1dFpJVXFjRHJfVVQ3VGpiNlZ4LUV3Vzg5ZGZxNjNqRjRoUg?oc=5",
+      "published_date": "2014-06-25",
+      "source": "Rumble In The Garden",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jakarr Sampson NBA Draft Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iSlJKbG11VG5UODhqMEhKU2JCTlg4ZnVaaEliMXB1Q3VRTTRUOVRRc1FWMzNxOENFUEJoN01wdjBBTTlQS2ZGaGNHOE1wMEdNbXh1b0JiSzljRHNrcGwwOGI0TE5TQWVSVTJocmEwNXNBaHd1?oc=5",
+      "published_date": "2013-07-25",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "St. John\u2019s Sampson to Declare for Draft - Zagsblog",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zVzBwTGl3UXBLM2thTS1DVHRwbzY2X01wam9GVlJHZEYwS3ZzTzlfMldlMWY5eHFDZkJmVzNIWFdrZzFJRHJwaDRSME1ONlcxSjR5MGFFWjVrTTZHWW5Oc3l6cXl1QmxBOGp2RkVkeDZUWjNYTTQ0UzBuY3BtUzQ?oc=5",
+      "published_date": "2014-03-24",
+      "source": "Zagsblog",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "ec59c57596f297c91b014e5c2d4c8c450d97e39fbc1ac571724783c4292b5e6b",
+  "feature_eligible": false
+}

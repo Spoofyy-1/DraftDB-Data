@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:52:21.151571+00:00",
+  "lane": "news",
+  "pid": "P3765a7e186",
+  "draft_year": 2006,
+  "name": "Chris McCray",
+  "draft_date": "2006-06-28",
+  "status": "ok",
+  "query": "\"Chris McCray\" (draft OR scouting OR prospect OR basketball) after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Chris+McCray%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Maryland starting guard arrested - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pb01BTWRfZm93NFdRZUF2elBPRnFNQnJ5aC1QQTFTcnZuVWg2RVcxWENMLW9fQ3hjZHY0RktpTjZkMWpWdG1SR1FXSVQyQ0U?oc=5",
+      "published_date": "2005-08-29",
+      "source": "NBC News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "5d2487b8970cd51f54d2efb6d8188982c93039fec376b96afe0d3432cec1a649",
+  "feature_eligible": false
+}

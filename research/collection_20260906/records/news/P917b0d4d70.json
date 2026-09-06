@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:05:54.724550+00:00",
+  "lane": "news",
+  "pid": "P917b0d4d70",
+  "draft_year": 2009,
+  "name": "Patrick Beverley",
+  "draft_date": "2009-06-25",
+  "status": "ok",
+  "query": "\"Patrick Beverley\" (draft OR scouting OR prospect OR basketball) after:2008-07-01 before:2009-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Patrick+Beverley%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2008-07-01+before%3A2009-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Beverley signed by Ukrainian team - Whole Hog Sports",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ0ZrSzhLcU5FVTdZNm5KVmR2bWZVV09Xc0JRTS0xUHEyYXluZDVFdnVqNWkyR2k5alVWSjVDbmVvbzlUM3RMN0FkNEIyVHgxOEczR1NVSjN5NHZ2SkwzSUpUeG9mZFY5WmZkby04QXRleUNIaU5WcWJNWVhGWDNJTV9RTVh6dw?oc=5",
+      "published_date": "2008-10-14",
+      "source": "Whole Hog Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Beverley: Cheating not limited to him - Whole Hog Sports",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZS10MF8tal9FU2FoTXJMZHphY0JjMGFRbEZxOTBaNjhkaU1sdUkzOHllN0hCTHFDU1pOZzVUUzJhZWxkb1dSQ2dpeVRiZ2tGVzFCc1lpeEk5WDFfMXdNV2t3dlhjU29NVHUyOGI4ZEhpd0Z2d1BlTjV2SHZweXFpSEszb2RjNU0tcUh1U2poeUZDQkczd0E?oc=5",
+      "published_date": "2009-06-01",
+      "source": "Whole Hog Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "f858d1fb427df9e618a51a0515a577fff55570ca92977ce0b39e51e1933ae361",
+  "feature_eligible": false
+}

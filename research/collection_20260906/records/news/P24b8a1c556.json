@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:07:50.415064+00:00",
+  "lane": "news",
+  "pid": "P24b8a1c556",
+  "draft_year": 2010,
+  "name": "Terrico White",
+  "draft_date": "2010-06-24",
+  "status": "ok",
+  "query": "\"Terrico White\" (draft OR scouting OR prospect OR basketball) after:2009-07-01 before:2010-06-24",
+  "query_url": "https://news.google.com/rss/search?q=%22Terrico+White%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2009-07-01+before%3A2010-06-24&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft Combine: Athleticism Test Results By: Aran_Smith - NBADraft.net",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BaVhDb3NWT3dMUGtRREtSQldwNlJWMkFyeVkzTGdJSTlXbDJ1bDBLVlBoZDFqS01FVGZwSjlnZm1pejJxNzlxQi1MNWZKd1RuQndnX1BLZ3FoR1l6d0RnVUE0aDZWeDFjRVhGM29feGd1dkJMNjVJ?oc=5",
+      "published_date": "2010-05-28",
+      "source": "NBADraft.net",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "2dc239ad2619c3dd23c7e7652a560b110808dadd9fa45b8c8893b09196cf0de6",
+  "feature_eligible": false
+}

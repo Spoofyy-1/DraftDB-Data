@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T10:19:37.132094+00:00",
+  "lane": "news",
+  "pid": "P86f7665380",
+  "draft_year": 2012,
+  "name": "Bernard James",
+  "draft_date": "2012-06-28",
+  "status": "ok",
+  "query": "\"Bernard James\" (draft OR scouting OR prospect OR basketball) after:2011-07-01 before:2012-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Bernard+James%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2011-07-01+before%3A2012-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "College basketball: No. 5 Missouri at No. 3 Baylor highlights weekend matchups - OregonLive.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU0JUVDVhQTBCLXRYT2Iyc190LWZHWGE0X0VQT0xnZ08yUXJPRFI5YUhxV0pWdGVFVDRaRGlIT3NReDNCWUdnb0RqM01nTmtmajQxZFJIZGNuREhlZlFnblVKVXBnRHppcGtfOXJhYmNnMk9ZTjQ1SGdoRXhCdTZMNXB4MDE2WUhkOVNwVmk2VDdSZw?oc=5",
+      "published_date": "2012-01-20",
+      "source": "OregonLive.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2012 NBA Combine: Measurements By: Aran_Smith - NBADraft.net",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IU3A2bzJ4TUxvYUxOSzZhWHhZSUl1OEhoZXkwZ3lRTUgzV0E0VDFqTGRQNXdtdjB1Q1VuVFIwci1WMUI0RjllZUdjSGNaNV94STdjUHowVG9FVF95V3VJUWRuVW9Pdw?oc=5",
+      "published_date": "2012-06-08",
+      "source": "NBADraft.net",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Florida State Wins the #ACCTRNY 85-82 over North Carolina - Atlantic Coast Conference",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMzJKcGFxZ29WcGtjR3hTNGlQbVJqdC1meVZpNTlmNll5MjJMMlBXZFFDc2lxU3htcUxfY3ZhbDFZQm5RWGN6WUN1cldzYlFwUG82S1ZvRjVrRF9OTlpPdUFEYUc0TnQyb0FPd0pLXzR5Vko4eURDNGZoVU9nMi12RUlGcU03NHROOUE?oc=5",
+      "published_date": "2012-03-11",
+      "source": "Atlantic Coast Conference",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Iman Shumpert selected to All-Rookie first team - newsday.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaXZ6SHNfUjZwczR6eTc4eDVHSDFCd2U2NnM2cnpVSGp3WWFwQVRMcERCckJRLXlmN21RMVg1ZGZnSm9DN0tYdWVwOGlCY0drWkFGNXRyNVlmLWM0bE1IeVhRZ3kyVVlIRFFzT1ViSXl6TUcyTG9JV2ZJRVdTQ2hwYzZadkh1Um9BZW5ZMm4tbDRVSXFGSGtDOTFMalF5Mm03SEwxalNB?oc=5",
+      "published_date": "2012-05-22",
+      "source": "newsday.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2012 NCAA Tournament: Opening rounds - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZdWlkOFROV3hqYmdmV2xFaDlycU5qU3N0amgtOEU1U2V4Ti1md0hleEwxRkdGQ1lLcDNxM3dsMXpVT2NuSXlSZThQWVdtLVhwR2dJZy0zZ1NZYXJITy1UZy0tWUg2NHozNkV4c2l0TW1Pa0QtNXFUSQ?oc=5",
+      "published_date": "2012-03-14",
+      "source": "CBS News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 4,
+  "response_sha256": "dfa47a8d46ec3e88031884fa27b86012dea964e5d72e54a737156200701b4241",
+  "feature_eligible": false
+}

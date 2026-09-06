@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T09:54:14.536108+00:00",
+  "lane": "news",
+  "pid": "P9a20aba619",
+  "draft_year": 2006,
+  "name": "Daniel Gibson",
+  "draft_date": "2006-06-28",
+  "status": "ok",
+  "query": "\"Daniel Gibson\" (draft OR scouting OR prospect OR basketball) after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Daniel+Gibson%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Longhorns spotlight: Daniel Gibson - University of Texas Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96anVSRmpfbW9qU2Z6NlJZOEpIdWRoMlpvZDFkRFhWaUJadmcxUTdwU2VKTWNzZlZ3MXIzYWhkb25US0l0cW8xR2l4VVh1RHhIR3B6LVVEZHV0NV9CblN6ZlROMVpvZw?oc=5",
+      "published_date": "2006-01-23",
+      "source": "University of Texas Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Darrell Arthur: The Future of the Horns? - Burnt Orange Nation",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hb1hPVkFrUWUtRThidGlmb05KYW1Hd0l4bTdBQzdoYnRhLUVmTHgtTmpILUFpWWNoNWtzNFdhc05EcTkyQ1RfN28zc1M3dUUzbnc0M3E0TERGbTdFZVFrRm5NM3I?oc=5",
+      "published_date": "2006-04-11",
+      "source": "Burnt Orange Nation",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "LSU 70-60 Texas (Mar 25, 2006) Final Score - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOazBaMnFHcWxsdmdnWHdVYkM4cFdQY0gzQ2UzWDVzMGV2N201RGx2NHQzWDlvVHRSWEVHeXJhb0ZmRnRQaEl0SExDT1Z5UDN2ZUhCLXNUUUhMb000MThJenBIeHdZTlVYTkRoRDN4dFBsdFBnT19ISldOcDRmNnNTbkhLc2k?oc=5",
+      "published_date": "2006-03-25",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Sophomore sensations - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMVd5Rm5vRkJFSkM5N3I3MlBwVHVLSnJXT2pXVEUxX3ZDSHRhLVRHWTk4TmpQMjBBV3lDTUNLSTZLZEE3SkNjVVVTWTZiVGdqSXd6czRWY3BJY2tLTmQ2aFMzSHVfY3VaNWxWd2Fab2thc3JNN2pVekpvQWtMY1FZcFpySFU1R0EwUkZV?oc=5",
+      "published_date": "2006-02-03",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "No. 2 Men's Basketball edges No. 13 West Virginia - University of Texas Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1UFd0YldDMS1uMmZRc09wUDVIS01pZFc4VGhBNHhuNERpRVRzZTFtUkItX3d6VTdpQ2tqRXJReHpLVUkzX3NmdEcwUlRkU1ZoZEtKOVRldm5uVFRmR0w5MV94YVN4WEk?oc=5",
+      "published_date": "2005-11-21",
+      "source": "University of Texas Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 2,
+  "response_sha256": "44580fd00e8bbb34ad47cf48602c8f641409b608e7baa3b3625df841c47edfe5",
+  "feature_eligible": false
+}

@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:57:22.714833+00:00",
+  "lane": "news",
+  "pid": "P6950e00d3b",
+  "draft_year": 2007,
+  "name": "Tiago Splitter",
+  "draft_date": "2007-06-28",
+  "status": "ok",
+  "query": "\"Tiago Splitter\" (draft OR scouting OR prospect OR basketball) after:2006-07-01 before:2007-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Tiago+Splitter%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2006-07-01+before%3A2007-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Tiago Splitter\u2019s Jewish roots revealed - Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBraG5teER1QVdJRm80a3hGNWZFdHgzV1FiZkp0c2RnZVctanhVMEFhU2RTclVtdUJZdE03VGxOUTZkcERnYVZMQmlwMmN2Z1FoN2gxOG9wRGJRUmhUZmw3YkZqWVI5aElDMkE?oc=5",
+      "published_date": "2007-02-15",
+      "source": "Ynetnews",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Top International Draft Prospects - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Ed1h3cndSRlYwczlqZjQ3eVpUSmxfLW9GdFFTV0o0ckNFUFlsWE9WQ1o4UVA5MTNEV1U1QVBXM0IzbDhaVnFDOVFJRjltVDAtWFpUMDVtbWtGdzZ0UW15TjJGa2NRcHRmdjBTSTY3cmdnSlRXZ1RDbg?oc=5",
+      "published_date": "2007-06-22",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "5dfe3b610278a2e87fb06f42caa75fa00ace5ece3f2acfeb2dcb7c5e931dcb1e",
+  "feature_eligible": false
+}

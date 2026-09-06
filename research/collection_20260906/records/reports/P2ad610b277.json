@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:51:35.400643+00:00",
+  "lane": "reports",
+  "pid": "P2ad610b277",
+  "draft_year": 2013,
+  "name": "Giannis Antetokounmpo",
+  "draft_date": "2013-06-27",
+  "status": "ok",
+  "query": "\"Giannis Antetokounmpo\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2012-07-01 before:2013-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Giannis+Antetokounmpo%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2012-07-01+before%3A2013-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Who is Giannis Antetokounmpo? - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MdHNjNEh3cGZkeUtFR29tc1UzdXNBWDluSkYxM1VoY3hmSEh4M01Rai01VjNzc2ZJU2pFR1RzY1VrQWJCZzl0SV9ncXB5Vnk0SXAwQld0MHV1X1RnQnlpWnVwRlpvak0?oc=5",
+      "published_date": "2013-06-12",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2013 NBA Draft Prospect Profile: Giannis Antetokounmpo - CelticsBlog",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNWRJTUNGc2tfbE1ZTTM0ZS1QQ1E2N2cwQk5CX2tBQ21LWTQxSERtdzZnQUJkaExJR2l3TUFKSEFtVzc0YkZLU0lIc3l4YUhQdDFycnduc0pzNmZWa3E4c2VvaGxscUQ3NnBobTY3MGtSUnJYSi15djRDZERUN2NrRkhEVVBsMjE4NEdrTFNEc2NNN1hHQi12VmVSSW9Qb2trQ1BIM0U0b3hQU25RM1JPUmdxTWhPcHdmemVqSXh0eGdtMk9DLTJHag?oc=5",
+      "published_date": "2013-06-18",
+      "source": "CelticsBlog",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "9cb7f0475c200323c7b038a56468189087e31935fab07e896a9919f341da6aaa",
+  "feature_eligible": false
+}

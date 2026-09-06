@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T09:56:14.180858+00:00",
+  "lane": "reports",
+  "pid": "P12d1ca8d35",
+  "draft_year": 2014,
+  "name": "Nik Stauskas",
+  "draft_date": "2014-06-26",
+  "status": "ok",
+  "query": "\"Nik Stauskas\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2013-07-01 before:2014-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Nik+Stauskas%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2013-07-01+before%3A2014-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Nik Stauskas | 2014 NBA Draft Profile | Minnesota Timberwolves - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82b2RsMDJ2aUtMVXJxODEweDhPbmk4d3E4eTNMVS1aV3FucGlkY1ZWaTQwRlBDalAtX1V4SFpxLURoVC1fQy1sbVdWaHhDTnVNc1Azd21ZZzVaMDczbU5QSnFsbTdYMFdDNVpiWkRrR0V4NDNYUmxiVWIzYmhEZw?oc=5",
+      "published_date": "2014-06-09",
+      "source": "NBA.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Nik Stauskas has a good shot at a great NBA career - The Boston Globe",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZXU5RU50QmxLRm5FdEE1QTRSXzUydmxqaVp0R1ROMWwtbXZieHhDYXpuenh3QXBDaWNYd1RpYWhFR1djcU9tQ2tOT3lxVXhweE9jR1FCbVFYX2RTWE1kcldtc0E4Zk5UUzJaNFN0a3hQRHY5SjNFTWp3dGdxN0J6NDFYb21iMllaaFhQdnNHV0FPVHhEb2hIYm90OV9Hb013WFZoOWJwMzBjdnBvdHJqNG0yQjBNcjk4MXY2ZG9vaHU?oc=5",
+      "published_date": "2014-06-25",
+      "source": "The Boston Globe",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Doug McDermott | 2014 NBA Draft Profile - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV0E3eGtLdUExQUZhdTg2RFg1M1dtVUJqbHc1amtudjJWZ250ZTF0cTFKVFhWamJldi1sLU9sOGtkcWt2YzQwZkZrZi1LbVB0NU5aTVNkenlqSGhqdUlWbENRZjByMnJwNEtvZElwVVlxVWcycEVRalpZV3FvelRXRw?oc=5",
+      "published_date": "2014-06-15",
+      "source": "NBA.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA: Mock front office makes its picks - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTmhiMGJ4VFprZk9pbExwU3JhSXhtNEc1eG15OFhENGdJdWxaUW5qcGJyM0FMallDRkZlYmx3S2lsa1J1TzVoSExJa0dJYkNGVUlub3RBa3dPRmxoUVh5TmUwX1lEZWp2aDNYZ0s4V3AydTNGbnBnV04xTlItMHYtNlJPVHZxZFVhUWwtWUM4VjlFUWV3aDFSY1c5el9XS01KbVJ4QThrWEhTajJ2cjFPWTBxWmpVMEExZW5DOG5mYnp5dw?oc=5",
+      "published_date": "2014-06-22",
+      "source": "ESPN",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Gary Washburn\u2019s 2014 mock NBA Draft - The Boston Globe",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjRCN3k5NGhKamFFOG9nNzlMWEY4M2JLZzZBenZaZFpTcHQ2ZHA1VWVmX0EzX2ZPNVlaaXk5eUowenZ0VzRzdVF0LVUyNk1XSVJiYTFuaW9mM2ZQTTJOa1EyRGhPZjVDN0x2VkN5b19PUFIyclNHdGpPVWxPQ1haODhURkpQcEl6NFRIU19CTHo0Zm1VSUxRTWlrNE1BalVZcEJHbHkydnptckM3?oc=5",
+      "published_date": "2014-06-25",
+      "source": "The Boston Globe",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 2,
+  "response_sha256": "e82e4363800f6eb4f8e431ae8f5757d67c2f8f4dc862174f52c806f134aac670",
+  "feature_eligible": false
+}

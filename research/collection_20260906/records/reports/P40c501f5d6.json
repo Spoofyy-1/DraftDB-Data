@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:16:58.162516+00:00",
+  "lane": "reports",
+  "pid": "P40c501f5d6",
+  "draft_year": 2007,
+  "name": "Marcus Williams",
+  "draft_date": "2007-06-28",
+  "status": "ok",
+  "query": "\"Marcus Williams\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2006-07-01 before:2007-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Marcus+Williams%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2006-07-01+before%3A2007-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "How KMart Became Marcus Williams...the Lost History of July 2004 - NetsDaily",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeXFGZXhjZ0Rwc09FRWU4RGx4N0dvdlZwMGV0U0c3LUt5RzhuQy1jS3ZUTFFnWl9DQWJFNU5WRFFzSWZDNzR6UWRLMGRLX2ZEVDJzT0Fid0xPRzBjY1hUdWlaT3Itc1dZeWRLTE1PN2hBdDQ0TnhrTEtYbGc1bkpIZFRn?oc=5",
+      "published_date": "2006-08-26",
+      "source": "NetsDaily",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "4d6b93d3e6ce25a0846ed02c5d756d336f9506b72f5f68ad1c807049bb4dd3ee",
+  "feature_eligible": false
+}

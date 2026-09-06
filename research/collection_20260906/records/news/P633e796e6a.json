@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:53:17.467167+00:00",
+  "lane": "news",
+  "pid": "P633e796e6a",
+  "draft_year": 2006,
+  "name": "Chris Quinn",
+  "draft_date": "2006-06-28",
+  "status": "ok",
+  "query": "\"Chris Quinn\" (draft OR scouting OR prospect OR basketball) after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Chris+Quinn%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Irish Battle Blue Demons Saturday - Notre Dame Fighting Irish",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUnVsYXRzQ1lJYWpPcVUzWnVfSzU3UzYxNWVRdkdlS1djRkc0UkxlU3lRcm4yTUFTeE5Zbk1kejdmVE1PNTgxcnhGVGs0UGIxM2xSVVNMS09MYmZKSWhib25FLTE4YkJJamlVVmJ4YTc5MGx4czRDanFFdnhnSFk3VA?oc=5",
+      "published_date": "2006-01-05",
+      "source": "Notre Dame Fighting Irish",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Carney To Compete In Slam Dunk Contest Thursday In Indianapolis - University of Memphis Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWkU1V3g3UWhTdDJucTVnV3VGb2xKbTJMYjFZdEMxUTlLN0JnSlZ0YWY2S1hILWtnbGhfSjJ5Skx0TXNOQW5FWmxUWlZrSlpiaEJ3TkVvR0lNSmdWeEwwZGFrRDNUOENaczM0QkZvSWpxMko1bFlWWkgwMGxZam1OdS00Sm5uT2NNR2diVHVXNVFTQkxqWVlDVXhaWGo1V2MwTDlv?oc=5",
+      "published_date": "2006-03-28",
+      "source": "University of Memphis Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Merritt Ranked First In The Nation In 3-Point Shooting - Samford University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIVTVLenRGaW5GR3Vqa2ZlOGRheW1xb3RQRUZHWVlCdnRpUXh2bVprZjRnUk9rb1RxcVZDTlFGM0ltRXk3SFo4QUhxOVhTVUE2RGhuNnVETWlId2oxU29CYTlUaw?oc=5",
+      "published_date": "2006-02-07",
+      "source": "Samford University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "be50cda4ce7af8e905109d55fc37d24cfcc0fceb8c17d0a62a65c98871966c45",
+  "feature_eligible": false
+}

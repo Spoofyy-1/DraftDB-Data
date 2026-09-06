@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T10:05:57.990767+00:00",
+  "lane": "news",
+  "pid": "P922c03ccad",
+  "draft_year": 2009,
+  "name": "Chase Budinger",
+  "draft_date": "2009-06-25",
+  "status": "ok",
+  "query": "\"Chase Budinger\" (draft OR scouting OR prospect OR basketball) after:2008-07-01 before:2009-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Chase+Budinger%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2008-07-01+before%3A2009-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Miss You, Chase Budinger: Here lies a dormant 47-inch vertical - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYzZ4MHRNY0ZadTZrcmQzTFd5WXZIYUd0RzJ4Q3VQcHBuZnJBRmFNR0ZoUzd6Y1dvdTVJLUZ3ZkNSemNySER3aGw3bWNRRDloc3ZlamdabFBVMjVfQjFxT2lpOVZ1Y21La1o5bVYyN3RORV9pY2VBWTlIYUFGOFRISlpoZjZGSGVocGlLY1E5OTVjMmdmakM1OVFIX1lzNEVzN2JmTQ?oc=5",
+      "published_date": "2009-04-22",
+      "source": "Yahoo Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Season Retrospective: Jordan Hill - Arizona Desert Swarm",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeEdFa0l3a2R6dVpGTzhFeTRTT1M5aF8yQi1NZkxNV1BuZ2tzU3ZiVEwxOGNUUjF6NnZIajVsVlR2NTJYUkJrR0F5azdUT1MtU3FHRVJ1OWRSU09pUFB2OHlSUWd5WjVSZzFZZXZtZW1XbHBSWlQyaWx4Q0lhZ0FlLVF6c0ZVdw?oc=5",
+      "published_date": "2009-04-22",
+      "source": "Arizona Desert Swarm",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "WSU prepares for test in Tucson - The Spokesman-Review",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1MSXRpRDF2YW05Mmo4S1FpeUgwcHlVaTZzajAxR1pXenZ6a0tVbjliTDNuSThoa3BEWlNKOGFTVUNaSmZreFg2ejN6YjZIaldydVBLOU8yUDJNajJsd3FqUEJmM1NtOTAwQXh0c3hNcU1sZlh3dzVSWVUtYw?oc=5",
+      "published_date": "2009-01-30",
+      "source": "The Spokesman-Review",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "David Kahn, Minnesota Timberwolves get to work - Pioneer Press",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUzV6NGdNaGJuN0xMWWFuaE51cWJibUlpTGNNOVNNSURXMlREMHF3VXpVNFpRalFxYzZEOXlfVzV6Z2R5OVNRVTMwMHFZTWRhZTlzaFo1NktOWURVcE41bWp3a0JaQ09RUXp1RGpFNnBiM0s3dUg5OVNyNTJhXzJqUlZzemdyVVlLQXBJYg?oc=5",
+      "published_date": "2009-06-03",
+      "source": "Pioneer Press",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Q&A with ASU Hoops Analyst Brad Nahra - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTXNMZkJ0Nktmdy1tM05fcmR1TGJ5RDJFY1kySVhCM3hLV2JTNXRhZnY1VE0xWWd1OUdVZURBYk4xR3ZzbGFJNkVrR2k5TmNqLVdTSDEzc0c5UlhwekJacWljY1czcm9aSWd2V0NxcVFiRGswWVdzYlR3ZUlBNmVhcXhEWWdMS3d5TkhJUXdCa21HRWUwYmlfY0ZlMEpEcVVs?oc=5",
+      "published_date": "2009-01-01",
+      "source": "247Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "9e928bca53077bda665ee4497fd6e642113055370e91151332650d38d4a80897",
+  "feature_eligible": false
+}

@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:51:08.792280+00:00",
+  "lane": "news",
+  "pid": "Pf4d757d073",
+  "draft_year": 2005,
+  "name": "Arvydas Macijauskas",
+  "draft_date": "2005-06-28",
+  "status": "ok",
+  "query": "\"Arvydas Macijauskas\" (draft OR scouting OR prospect OR basketball) after:2004-07-01 before:2005-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Arvydas+Macijauskas%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2004-07-01+before%3A2005-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Yao Ming takes anger out on New Zealand - China Daily",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kS2RCMFladUpYazNaQk1KS3Vrb0xYZE1fTnhBVGh6MWpwMVpYZnFVbEVyOWpINldvN1JBLXNOM2k5Tjd4aXI2bDVYR3pBQmIySnFZMnJZTHpQYU1zamFxRVNYUEo1UkNFOFZIRTR6bkR5V3E1cDM4dXdsYw?oc=5",
+      "published_date": "2004-08-18",
+      "source": "China Daily",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Dream Team surrender title - BBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0NFhldWFkNUpqUUo3TGJvZkZGbkJ6SWlwUjFkZWVOcnVpenAxQ09xbVA5OTgzNGtubWpiTkhzUUhmM1dGSDVOME56ck56c2VHUXd0TjBZOERBMWtlOVJremhtZHhHN2IyU3lWM0N4cDJ4NW9RdU1B?oc=5",
+      "published_date": "2004-08-27",
+      "source": "BBC",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "236fff32ba352046bc388dc19fdeaaacc84c2fe3f48427b2957080ccc34eec3d",
+  "feature_eligible": false
+}

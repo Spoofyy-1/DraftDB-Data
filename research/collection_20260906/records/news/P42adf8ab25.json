@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:56:39.677181+00:00",
+  "lane": "news",
+  "pid": "P42adf8ab25",
+  "draft_year": 2007,
+  "name": "Rudy Fernandez",
+  "draft_date": "2007-06-28",
+  "status": "ok",
+  "query": "\"Rudy Fernandez\" (draft OR scouting OR prospect OR basketball) after:2006-07-01 before:2007-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Rudy+Fernandez%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2006-07-01+before%3A2007-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Argentina, Spain make semi-finals - Taipei Times",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81UE9uam9kLWtCWVl3TUNBcWpsbzF2TndpRGhJdkF5UkdSUndScU1EX0FQaGVJZnljRHZtdTJSYk9FczZCUzBmOUpqR0s4ZXV3NHBmN1BPaUc4ZlhreHR5bDRGbzZpZG9fdjdGVHJkY0hiZDIzUmlLeQ?oc=5",
+      "published_date": "2006-08-30",
+      "source": "Taipei Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Top International Draft Prospects - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Ed1h3cndSRlYwczlqZjQ3eVpUSmxfLW9GdFFTV0o0ckNFUFlsWE9WQ1o4UVA5MTNEV1U1QVBXM0IzbDhaVnFDOVFJRjltVDAtWFpUMDVtbWtGdzZ0UW15TjJGa2NRcHRmdjBTSTY3cmdnSlRXZ1RDbg?oc=5",
+      "published_date": "2007-06-22",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "ESP - Spain are the team to beat at EuroBasket 2007 - FIBA",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZklNZkgxLWFPNERjZnJ1OTRZR0RnS0U0MDV2RnlWX1paTEhmQkl5dXVzYmpOa2s2ZC13QVFmWnB1RmFPalFzVWNmbnNNWHhka1pnVWNVbzU1NUFQVFlqdkZ5dkZITHdpR3pFRjl6aFFaOERjQTJaZUdETEdaM3FsVWtuYUstd0p6dWVmZXhR?oc=5",
+      "published_date": "2006-10-20",
+      "source": "FIBA",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "dfab9de25b0d5f0bf83fdf512bf6810e10141fd9dc1d7e4ef61a8d6f27bb7ddc",
+  "feature_eligible": false
+}

@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T09:54:01.204142+00:00",
+  "lane": "news",
+  "pid": "P8b41334856",
+  "draft_year": 2006,
+  "name": "Rajon Rondo",
+  "draft_date": "2006-06-28",
+  "status": "ok",
+  "query": "\"Rajon Rondo\" (draft OR scouting OR prospect OR basketball) after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Rajon+Rondo%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Rajon Rondo's Mentor Doug Bibby Speaks - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQzRudGp4dWs2Wkl3cFgycUJYOVY3a05xRWgtVG44bkowYnZxRXNDcjZtdVEzbHFwaWREMjYzVjNNZ0RvaHZKODE5MU55MEtQcmpNR1dFOHQ4MnJIbWNRak9VdjktM08ydlpTaEUycENZcl81Q1dSYlUwNW1Gdk55SzFESWJRN0huRXVWQVJvQWdqUGdDTTBoWkZJZw?oc=5",
+      "published_date": "2005-07-26",
+      "source": "247Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Sophomore sensations - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMVd5Rm5vRkJFSkM5N3I3MlBwVHVLSnJXT2pXVEUxX3ZDSHRhLVRHWTk4TmpQMjBBV3lDTUNLSTZLZEE3SkNjVVVTWTZiVGdqSXd6czRWY3BJY2tLTmQ2aFMzSHVfY3VaNWxWd2Fab2thc3JNN2pVekpvQWtMY1FZcFpySFU1R0EwUkZV?oc=5",
+      "published_date": "2006-02-03",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "The long shorts stopper - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTemxwMXJucTlqcFFJMGNzcHUzbDBWTW90X0d0QWEzWjU4Sl85bURacHJFRzNSdEl4NE44bDBVMDdQdGkwc0ZrRnY1dmJMbUtrSzVLdDJmbnZtRjNESU5OTjJjUVRaOFk?oc=5",
+      "published_date": "2005-12-09",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "It's not easy being Green these days - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM3JzNF83cVc3LUkyWXFFcGlWMUo2c3dfRjltNU12OFZyMWF4NWpaa3JMQ1pXSldKVmtRemV3NDRzcnlweVc1M0ZsNnpCdGNwT0xUa1A2TXVlRlFvX0ZzM0pYWmNTcGJGeEpKd0N4WTFQa29NZDRYNGZEanlNWXdNOXJrOTNrSm5oLXlWTUFocFRIcHZ4VmVPX2ZWd1d3X1k?oc=5",
+      "published_date": "2006-03-03",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "2f6c3b0369e72c9119bf7ab415f435a12163f11f4f472592317f5d6601d6c5e4",
+  "feature_eligible": false
+}

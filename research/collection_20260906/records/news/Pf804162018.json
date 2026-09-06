@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:51:22.167937+00:00",
+  "lane": "news",
+  "pid": "Pf804162018",
+  "draft_year": 2005,
+  "name": "Martell Webster",
+  "draft_date": "2005-06-28",
+  "status": "ok",
+  "query": "\"Martell Webster\" (draft OR scouting OR prospect OR basketball) after:2004-07-01 before:2005-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Martell+Webster%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2004-07-01+before%3A2005-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Prep seniors on bubble amid talk of age limit rising - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZC1fVW1uc0YwMXIyTzhqZktQdUJKZ21xYnlrYWFRTndSWWtSTGhkWGdiMjVuVk10YTlmbDB6ZElaMWNzUWo1anRVVUo1R2dFMTdMcUVJeXI0endyNDQ5cXNEbkhxZDI1aElNN1dOV00zNGtJZW01dlJGQkhucWZlSFF2bjBpYnBzem5ycnk3X183NDBEREpGT1JlSGlneTdaeXRSaUd4RVRmT2szVjdjZnp4MVFTQQ?oc=5",
+      "published_date": "2005-04-18",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "1b19651f8f5e58f0ba8abdd6cbe8808c6d848a726991f4d62104a99c4187ba71",
+  "feature_eligible": false
+}

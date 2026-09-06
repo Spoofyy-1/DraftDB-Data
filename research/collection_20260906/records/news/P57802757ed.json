@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:04:58.086104+00:00",
+  "lane": "news",
+  "pid": "P57802757ed",
+  "draft_year": 2009,
+  "name": "Jermaine Taylor",
+  "draft_date": "2009-06-25",
+  "status": "ok",
+  "query": "\"Jermaine Taylor\" (draft OR scouting OR prospect OR basketball) after:2008-07-01 before:2009-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Jermaine+Taylor%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2008-07-01+before%3A2009-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "UCF Men's Basketball Top 40 - Darryl Davis - UCF Athletics",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTm56cjF5Z0s1YVpsZEhmaTZqRS1tN3g0TW9wd3k1R3M0UnAxcXJWb21TblY5eFVZSFdOdzlHY2Vfams3ZHRDaGxkTnUzUnJHUnBoSjBwQ3N5ZVFGZXV0UWNyamtib0hGcl83TjVidzc1TDZZZmRFNThnaXdjR1pQa09mWWk?oc=5",
+      "published_date": "2008-12-25",
+      "source": "UCF Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "UCF Men's Basketball Top 40 - Ruben Cotton - UCF Athletics",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVlJJMGVjbGoyWi1SYkFRXzQ1Q21LQndHV0Q3VlJBSE43MWdBclYybGU5eWswV2tyOFM3NHNqWjNEMjBpRWNuWUVmT2lOZk5zSVQyYmlvaDBBaWtTd04yNWRmTjZKZDdEbjdmYVdpUkpETk1LMWxPZ0dVUzI4Mm5JV2tyNA?oc=5",
+      "published_date": "2009-01-01",
+      "source": "UCF Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "39c29091c2dedc16c0a772220b838810e2ccba254495c0de39acad79f014af52",
+  "feature_eligible": false
+}

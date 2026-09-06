@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T09:50:39.010846+00:00",
+  "lane": "news",
+  "pid": "Pdb057d444b",
+  "draft_year": 2005,
+  "name": "Daniel Ewing",
+  "draft_date": "2005-06-28",
+  "status": "ok",
+  "query": "\"Daniel Ewing\" (draft OR scouting OR prospect OR basketball) after:2004-07-01 before:2005-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Daniel+Ewing%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2004-07-01+before%3A2005-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Channing Frye Named to Collegiate Basketball Award of Excellence Watch List - University of Arizona Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41Z2ZDYllTdGRhd0ZUcHotcXJYQldDQjV0TnFORGhZcVpRNWVvNGF4OTFKN2x4d002MVdkTlRLZ3FGSy1nblRjemlKdkJGZXVjVTV0ODduNnVpNDZkUV85ek9MaXM?oc=5",
+      "published_date": "2005-02-18",
+      "source": "University of Arizona Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Michigan State 78-68 Duke (Mar 25, 2005) Final Score - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT1BKb3ZOa3UyTXFmTEY0bWJrOEowZWRNNFNsc1lnYm1xM2Y4WGpNaHJPZUM3c3pGNHM0QUxVZUtsbFVuMUNNUEV3TlRCeUVTSnBmQ18wclpodkJiRGxtNVB4ZThNOE1BOF9fODctUEZOa0pSV3F2Tk1rYnNDWmViSFRiakVvR0xCaDRyRlRn?oc=5",
+      "published_date": "2005-03-25",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Duke adds another title - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTkNua21WOTVVQ0g5dkJnYWNONlU1aDliVHR1Y1hxYW9Za1pkX01fZ0hFazNJS3NuRWltMzFObnh6T1FuQmxoMXVrVUtmcTF6YWVOd0t6NFoxUmZwMFBRRnhlbzh2Nl9MMGdBR205UzVjQTBUN0NJYVBySlMxRnc4d0JjdmpUTEdtTjVTVEJ6SQ?oc=5",
+      "published_date": "2005-03-14",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Unbeaten Duke proves its worth - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lOU05V2xCUDJCYlR6OWwwc01EOXJIWW5nZ2V1SmFlZFU1dllxLUZaYWo1Z2lRdU93VkI0RVFKWlJyZ0d3cWRGSmFfOTVwUlE?oc=5",
+      "published_date": "2005-01-24",
+      "source": "NBC News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "f526176933558d96872a632420d4722190df87295fa5da3b8d9d28dc339cc83d",
+  "feature_eligible": false
+}

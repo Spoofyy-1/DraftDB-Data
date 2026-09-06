@@ -1,0 +1,64 @@
+{
+  "collected_at": "2026-09-06T09:59:11.532696+00:00",
+  "lane": "news",
+  "pid": "Pea4d2012e7",
+  "draft_year": 2007,
+  "name": "Jeff Green",
+  "draft_date": "2007-06-28",
+  "status": "ok",
+  "query": "\"Jeff Green\" (draft OR scouting OR prospect OR basketball) after:2006-07-01 before:2007-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Jeff+Green%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2006-07-01+before%3A2007-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Hibbert returns for higher basketball degree - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uaXByXzRSb3Frdy1yMUZPRkRrRi14ZWpfMk43UUZWc3dCWXltMUJ4OUpNdmpXa3UySm1ldVZGX0NoUWF2MEtlNjhLN01qWTFU?oc=5",
+      "published_date": "2007-05-23",
+      "source": "NBC News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "No. 13 Pittsburgh Falls To No. 9 Georgetown In Big East Championship Game - pittsburghpanthers.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVWlmU2VxaDFVUVpyRFRCY1dheEhMMExieE80aDFCNi1fcVo4b0E5aXRrczRlb1hHTDE4Y0hjWkU3Wkc2M0VlV3E3RE50SUtpNUhYeGQ0TzVQRzlIY3hqWFVqSmhnYzVtamxHcVdzakFsbEVUOXRFZDNUSldfREN2Y0E5Q0g0eVRCd3lOMktWOTZHaEluNWFBWm9VazFpTGZQYUFJOVdNenIxb3FsY0NxSGZHalQ4Qnk4?oc=5",
+      "published_date": "2007-03-10",
+      "source": "pittsburghpanthers.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Counting down the madness - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yRThkeEo0MVN1Unk1cEgtcFhPVEJnQnFESnc5VjhUOVR3a25RWjV2NU01OFlIaUE5NmRkUG92Q1VLTTRPSzRiR19KMzY3WUl1REY2Q3h5dGNiY25oSDlXVHlCTDBKZ1E?oc=5",
+      "published_date": "2007-03-14",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "THE 1-2 PUNCH / GEORGETOWN: 2nd-seeded Hoyas overtake Tar Heels - SFGATE",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPODlxTFhoMVBmVjNRLTN5UEs0SkdhNlBXbFpObDBiWlVLR2FqT0xHZi14TGtfamxpNDNKaVR2ckFDc21abEUxa0VVMUxQX3RaaDE3MXVJclZFQXJBNHhQOUNiOUhsWlVWdk5QN0E3UHc4STB6b0IzMFl2eVlQQWZ4Umg0Nkotb0M3RlVWRFhFNGUxWko4a1E?oc=5",
+      "published_date": "2007-03-26",
+      "source": "SFGATE",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Down To The Final Four - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmR0w5NUZIVWlXVkhFMWszU2gtaWNOX19FYWJfNFA3R1QycnhWckVTZ29XcUJpUnBOSzJXbzdCRi1IbFJCSnFoUy1fSUFZYXlPdFlFb09RZ2JIVU5KUmh4dHVCZFRKbHc?oc=5",
+      "published_date": "2007-03-23",
+      "source": "CBS News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Q&A: Ohio State coach Thad Matta - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOajQxZTNNczN3X1JtRHlQTGRqa00yOE9xdm8tUmNodGNoR25JZHdTcHdwMlU1UkZqeFBfVktLV0JDUGhhQ19xaUVmVlNCdU1LOThJS2hBbDRIRllxTDljSzVwSUpuSWx0UXp2eDVFSmdyXzBJVHB1aE5yZWdYdHg5X2hZMVVPcmJ3NjV1ZEZPQWxvR1NDX2NxZQ?oc=5",
+      "published_date": "2007-03-30",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 4,
+  "response_sha256": "03394f0161fc5d44cf0fd43cc2ba92fc5621737451b06d32777e9ffe093d6860",
+  "feature_eligible": false
+}

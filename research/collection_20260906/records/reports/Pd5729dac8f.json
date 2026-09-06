@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T09:59:50.546782+00:00",
+  "lane": "reports",
+  "pid": "Pd5729dac8f",
+  "draft_year": 2014,
+  "name": "Cleanthony Early",
+  "draft_date": "2014-06-26",
+  "status": "ok",
+  "query": "\"Cleanthony Early\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2013-07-01 before:2014-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Cleanthony+Early%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2013-07-01+before%3A2014-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2014 NBA Draft Pimp Your Prospect: Cleanthony Early - Liberty Ballers",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd25tSkN2LWV5blRwRElzVEFTZHpncllfd19uQ1FNOU9iMHBuYk03NlppZlpISGpQRm1FU2JXZVQwUWpVVEVDTG9XV3BEWXVETGNnMjNSQTBBYjVDRUwtXzByNTlIVlJ0S3doZHZsX2JvemUtaFV4NC1yWHVZYzN1M2ZSbHVxSTdTX2RqOVprNA?oc=5",
+      "published_date": "2014-06-03",
+      "source": "Liberty Ballers",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "On wings like eagles: Cleanthony Early rises above hardship - Wichita Eagle",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVVG5fTHV4TGJ3X09aOThSUF9RVk50NUZfU0NnTWNlUGcxVF9qazdLVVNsZ1NTeDFKSlJ0Q1l0Nmx4UV9VRUVLUjVtZ2xBNUxyenFBQTRFaENiWFHSAVtBVV95cUxNTDFfN0QyRFNNUHVXMWtwajZVMTZEam9EUl9FRnJiRFlRdGxycFdWa192TnZra0tXV2tGVG5aS2JZVWVtRkVScXhVMDlPYzhUMU9tUjM3TDl1cktr?oc=5",
+      "published_date": "2014-03-16",
+      "source": "Wichita Eagle",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Cheick Diallo NBA Draft Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pSTV1R3hLbW8yZ0hkY0RPcm52OHFGSmtfSzh1eGdSYlFfTFVPVDU0LXZGVTQzOHZZWXFZLWx4WTJtMktzWGdZVWhuUU5FNHpYaXVObnlSZ2ZpYjNKVXA0VTVjR1VfcmNxZHJpekN6NmtQYkk?oc=5",
+      "published_date": "2013-07-28",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Mitch McGary Updated Scouting Report - draftexpress.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORTFUdmNSQlN4NDdqOEYxVUZtZmNkMjVZd0YtX3VkYU1IUXcydGpudWdNbWZHekZVZjIzTUVSd094X3Q5UVQyU1UzMV9IUl9lWVJPc3kzZktKeGpkUFpnOHlJTzNXWEZJZ21wR1VOb09BdDJscEE2MjRWTW8tV1FIaVl1U04?oc=5",
+      "published_date": "2014-05-07",
+      "source": "draftexpress.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA: Mock front office makes its picks - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTmhiMGJ4VFprZk9pbExwU3JhSXhtNEc1eG15OFhENGdJdWxaUW5qcGJyM0FMallDRkZlYmx3S2lsa1J1TzVoSExJa0dJYkNGVUlub3RBa3dPRmxoUVh5TmUwX1lEZWp2aDNYZ0s4V3AydTNGbnBnV04xTlItMHYtNlJPVHZxZFVhUWwtWUM4VjlFUWV3aDFSY1c5el9XS01KbVJ4QThrWEhTajJ2cjFPWTBxWmpVMEExZW5DOG5mYnp5dw?oc=5",
+      "published_date": "2014-06-22",
+      "source": "ESPN",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "fda3b4b27a2b4d3a496ec2605044b3abd6310588e8a009b1e6c714df7b169a02",
+  "feature_eligible": false
+}

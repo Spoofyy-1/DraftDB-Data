@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T09:56:59.466957+00:00",
+  "lane": "news",
+  "pid": "P56d107e80a",
+  "draft_year": 2007,
+  "name": "Carl Landry",
+  "draft_date": "2007-06-28",
+  "status": "ok",
+  "query": "\"Carl Landry\" (draft OR scouting OR prospect OR basketball) after:2006-07-01 before:2007-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Carl+Landry%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2006-07-01+before%3A2007-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Florida 74-67 Purdue (Mar 18, 2007) Final Score - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSklmc0pqN2lXVzFxTFRpeUxvQXhRX0dwTlQtbXRhM3FVdkd3OHVnbDJqZVdxVVUwdWdXYVFSR1dpNDc1NXBZQnotUjNQWll2bTdwTUNTWVVkODVvZlBwN1ljS2VRazh3cS1fUi1CRm5ESHVTWi1US1lsdVQtVFZ5YVhfZFRRLUFjcEtr?oc=5",
+      "published_date": "2007-03-18",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Teague Too Much For Illini - Purdue Boilermakers",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jYlNmZkllMzRubFNaRDJPNkdvOXpOWnpEUzV4N0ZrV3UyS2hvZmtIWHdfM3pKOUIwUUNsVFJJWERUT0RYcFJ4RXlFQUxyY2h1TUJkS1RjYnBIUDN6NENDZTNqNlF1UkpFT0dXUnhYMlFyemItZ2c?oc=5",
+      "published_date": "2007-01-27",
+      "source": "Purdue Boilermakers",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "College Basketball Roundup | Teague has career-best 32 as Purdue stuns Indiana - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUnI5eUVpbno1XzljcUl0cmNqajd0cktDT2NuYllQS280bThEcnJmOWEwdXRmd3NONWg3dFJlS2JZZWo1SENIVFpOcjJndWdIVnVVdGRrdHMzc2hBLUlZTXltVHBtQUtNbXNCM3p2RUZDdl9tV1luVEd5UFhXMUgyOVg3dEJYcjZSZklKQVJabFN5emhGTURiNnNuODFZaXl3U0kyLU9Udl9leTdfMUh0SHV2UQ?oc=5",
+      "published_date": "2007-02-16",
+      "source": "The Seattle Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Xavier Senior Standout Justin Doellman Set To Play In Senior Showcase - Xavier University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcXlJNTgyWUVRckZ4RVFTNzhEUUN5RzhqT3Q0ZWNfRXJvS2pnS053U3NTeENQRzhlT29kMFc0RlhPUDMwTVlwTzIxb3lmV0FXelBSQ2V2Rk1STXpNWHFla1hJeHN1MDJJTWZTZGRTcUpDeWQyck42NUY4R2p6MGVlWldPVFp2WFhwS3pLOHdQMmlyeFJSbGY3alR0VGJvdW55MFhyU3EyYXY?oc=5",
+      "published_date": "2007-03-26",
+      "source": "Xavier University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "508c677d0e3b361dc8c79a934580e330aa69998530f2584735dddeb98dbc64ff",
+  "feature_eligible": false
+}

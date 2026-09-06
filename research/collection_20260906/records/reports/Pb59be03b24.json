@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T09:59:04.448128+00:00",
+  "lane": "reports",
+  "pid": "Pb59be03b24",
+  "draft_year": 2014,
+  "name": "Markel Brown",
+  "draft_date": "2014-06-26",
+  "status": "ok",
+  "query": "\"Markel Brown\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2013-07-01 before:2014-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Markel+Brown%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2013-07-01+before%3A2014-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Markel Brown sets sights on leading Oklahoma State to Final Four - The Daily Advertiser | Lafayette, Louisiana",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOG1FRnRiN0NQTEg5N2NaNzJrM1RrUnhEN2Vvbm9fckY1SzdzbmVNdUxzSkZURnh6RVREM2d3OFIxenRyRUtBdndVT1dNaDkybUZVX2dCUGRkTHlRN05DQWVnNXpnTmg5RWFIRGZiQUJtMjF5QmFPREp6aXRMdkxNT3h0NTBRQzI2RHF3UTRGVElsUk5od3BTWUNMU29IUk1ESHBQcjc2OTRQOFBEZUYzWHM5bUJmUzE0Sk1mcnAtbmtmLWZpVUE?oc=5",
+      "published_date": "2013-11-10",
+      "source": "The Daily Advertiser | Lafayette, Louisiana",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "C.J. Fair NBA Draft Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTb09MQTNHVzNxU1NXUGxTWjZjaDFlYU4tY1dfcEU4LTRVd3dndTl1Qkp5WmRiNmJHTUNjR3BYUk01RkFZemN3UVBkR0RaVldwa3ZYajZqY2pQZXpfWHJDTTR2OGV6aHlaUlhjLQ?oc=5",
+      "published_date": "2013-07-25",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Mitch McGary Updated Scouting Report - draftexpress.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORTFUdmNSQlN4NDdqOEYxVUZtZmNkMjVZd0YtX3VkYU1IUXcydGpudWdNbWZHekZVZjIzTUVSd094X3Q5UVQyU1UzMV9IUl9lWVJPc3kzZktKeGpkUFpnOHlJTzNXWEZJZ21wR1VOb09BdDJscEE2MjRWTW8tV1FIaVl1U04?oc=5",
+      "published_date": "2014-05-07",
+      "source": "draftexpress.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Buddy Hield projected as late 1st round pick for 2015 Mock Draft - Tribune242",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOalJ5Z0FCYkIxTHVUWGNkRlBmeW9wbVNORllUd1AxSFBROWYzSDNhV1h4VENoaURCbmYxN0VyYlZ3bm10ZTl2dFZkdUNIVFd3ZTJHaWFaV1BfaVdxSElNZ2l3SkU2MFJiSGhoNlFVNzc0R1lxVmpzU3JXMHlXN3VRSlRvMENwT1k2YzI0MkxvZkNNbTRlbnp4YQ?oc=5",
+      "published_date": "2014-06-19",
+      "source": "Tribune242",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "383acd1d5238148cc0f0c76c8819c15d9acd178ee86f0e04b65058586f4d5f16",
+  "feature_eligible": false
+}

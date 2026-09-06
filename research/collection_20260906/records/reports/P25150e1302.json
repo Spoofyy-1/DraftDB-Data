@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:56:43.699431+00:00",
+  "lane": "reports",
+  "pid": "P25150e1302",
+  "draft_year": 2014,
+  "name": "Thanasis Antetokounmpo",
+  "draft_date": "2014-06-26",
+  "status": "ok",
+  "query": "\"Thanasis Antetokounmpo\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2013-07-01 before:2014-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Thanasis+Antetokounmpo%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2013-07-01+before%3A2014-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Thanasis Antetokounmpo NBA Draft 2014: Highlights, Scouting Report for Knicks SF - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObkZvRTRiN250OTBodFlNbW83R21xb2tnalJKYjRSY1dScEp5d04telFwZjNlYTVsTG9nMUR4S1FpdV9YR01RZUpNUS1oNFBlMFF4X0hxTFNuRWxYMmpVVGRrbEtXOEZUUFBHMkp3S24wVFEyeXlxRFJJSkJHNmw1QXU3ZDF2blZNMWZMMVRzWXVGaGtIRVhHZGFuaVVyYXFaX1B6VkNOSnJyVG1wZ25wNVJ1d3ZUQ000?oc=5",
+      "published_date": "2014-06-18",
+      "source": "Bleacher Report",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2014 NBA Draft Pimp Your Prospect: Thanasis Antetokounmpo - Liberty Ballers",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWlYxMEJveEJTcWFfM2k5UEdDbU5CVTU2TTd5UEF5bWVlWGtiTWVJcmxjcjZ0cnJrMk11ZkhMMXdIYldUTk1rM2pZRk1yQ2IzdElfQ0ZNb3M2ZENvZGQ5YWk5UXZwSlRpOVFZTmRJX1BWLWVDWlFFQjVwV2hHelJmUk5jRjNXRzdOZEFsN2NiX3ZhLXEtUm1DclhqLUNwNHdwdzVxeWUzZmZxVXFKa1BYN3k2V2hnM0RNWWJxbjFMSmZXaWhVTzMySUFqRWZqRTlwRDZtWGFjQVJRTFI0Q3VSbzFuSQ?oc=5",
+      "published_date": "2014-05-30",
+      "source": "Liberty Ballers",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Vasilije Micic NBA Draft Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55bnpsOU1DX2FyVW9raTA2ZERtWWo5T1pDVXR0bEhORlpmUVk5T2hNOG9ZVURtM29ISWlNYjZlOUdvdGgxMGlra2VJZjZoelZ5R0UtcFA4UzZnOHNyYWZJT05vUTY5a2tmVml6b3ZfYjhrOXVx?oc=5",
+      "published_date": "2014-05-28",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "afc528ec06e65fa0c758c7ead06071364a2dfde6ff9404b63dc6889f970e09dd",
+  "feature_eligible": false
+}

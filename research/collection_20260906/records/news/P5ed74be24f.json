@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:19:10.311936+00:00",
+  "lane": "news",
+  "pid": "P5ed74be24f",
+  "draft_year": 2012,
+  "name": "Kent Bazemore",
+  "draft_date": "2012-06-28",
+  "status": "ok",
+  "query": "\"Kent Bazemore\" (draft OR scouting OR prospect OR basketball) after:2011-07-01 before:2012-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Kent+Bazemore%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2011-07-01+before%3A2012-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Bazemore and Cooper Named To All-State Squad - Old Dominion Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVmNuSF9ta2E4em5JZHppa1I5RFE4V0lPSkNvbFU5VU03dUhDSTEwR0VIUzNIaFFQSDBhSmpoNjkwb0F2OU1MMUVwSVlNLTJ3d3l4WE5xNjU0RkJoZjlIWVl6RW9ESHU5UHo0eEYzcml3SS0tSmY5ZVBORlFkN0dzcndEajRHMXhY?oc=5",
+      "published_date": "2012-04-03",
+      "source": "Old Dominion Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Charles Odum Named Lou Henson Mid-Major All-American - Portland State University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0NG1MRzFwS2FMcGtSaGtPSW9pYkVRdzBaSlJWekF0NlA2S0kzR0dtd1JBU0pDUUJLdllhY1VYLTB0Y0ZHOVE4TGtlSS1BRDBQZ0hpOHUwWUQ1VzE0cXBjS3hBNA?oc=5",
+      "published_date": "2012-03-20",
+      "source": "Portland State University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Trail Blazers predraft workout: Tyler Zeller, Meyers Leonard highlight first group - OregonLive.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNWo4RXZIY0U5cDBLXzZBLS00TmZscHpWWFdERFlmLVZUSzliMlpZY2EzbEdfVURlTkNySEw5OTFhWlA5NFpKUnZUUlpzc2Uxd0FjUEJweGIxYzJTdG1FTUtmV1g3clVTUWhDbmRqOG1fbGZmQVN3eUZLS1BhYTdmNWxUampYT2FrQ01vZnV1WTdZZXdsUGw1elBKd2M1NmM?oc=5",
+      "published_date": "2012-05-29",
+      "source": "OregonLive.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Blaine Taylor adds fuel to VCU-ODU rivalry with postgame comments - The Commonwealth Times",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLW5jY3JkZm9Vbk9wWkFXZmc1NFhYLWotMC1XNWNLckxZQV9qUW9RRTUzY2ZoRXROWTNFck8zNi15WVlKb1ZQQVAxcmJodXVKOEw1enZqMnFyZUVCNWV3MEQ5eUFjaVVBRTE1bVc3UEYteVJzNll1STdESl9sZUtUUE9lRTlqME5DYVpqalQ0Y2ZFZ1NpOEo4OVFaNjU1ZWtieHE2VXFUazBPT1k?oc=5",
+      "published_date": "2012-02-11",
+      "source": "The Commonwealth Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "67e6838ed9c5a9379012159cf7e8ebcfa42a243cbc201d0f14bbf966411e3373",
+  "feature_eligible": false
+}

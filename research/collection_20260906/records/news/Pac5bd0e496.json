@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:58:02.041284+00:00",
+  "lane": "news",
+  "pid": "Pac5bd0e496",
+  "draft_year": 2007,
+  "name": "Demetris Nichols",
+  "draft_date": "2007-06-28",
+  "status": "ok",
+  "query": "\"Demetris Nichols\" (draft OR scouting OR prospect OR basketball) after:2006-07-01 before:2007-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Demetris+Nichols%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2006-07-01+before%3A2007-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Eugene Harvey Named BIG EAST's Top Rookie For Second Straight Week - Seton Hall University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSGRtV2dhWFM5Y24wSVRzRnNZM2JHLW44VTJYaUtnalRYbEFDZVA3eEtaWXg2QTFkQ0lsUndnbkZPSXU4QmpuS2RXSW9fNnJiNWdqNDg5M0kyU3VJN0lpN05SZGhyRmFGWXRlbmRQLWUzTmg1NDhRMGxGcDVxczdGeDV0U2xld0pOYTM3ZWRFT3ptRkR1Nks2WlRySDExbFpsNDR3cUU5dHU?oc=5",
+      "published_date": "2006-12-11",
+      "source": "Seton Hall University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "f6da8c2c485377752142bc7d2ff81ee9b0f6e8e2d2a32617dae98038cb0077f9",
+  "feature_eligible": false
+}

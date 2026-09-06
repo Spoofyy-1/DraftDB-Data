@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:16:26.814758+00:00",
+  "lane": "news",
+  "pid": "Pc6eddeb128",
+  "draft_year": 2011,
+  "name": "Courtney Fortson",
+  "draft_date": "2011-06-23",
+  "status": "ok",
+  "query": "\"Courtney Fortson\" (draft OR scouting OR prospect OR basketball) after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Courtney+Fortson%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "The Dumbest Athlete Twitter Posts Ever - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOEJGN3RVb0dIamFfWnRNSzF6OXBDNkxpVGl5RnRaMUpWSld2R3hVQk9sRGRUYUsweURjZllVRGxsZkZ6a2lZRGVmZkVlcE92VEhmSFV1U3pvR2J6NzJmX29sNTFZMFVYNU5waUlCd29UdzlvdVY1alFXMDV0b0V4SU15UTF3TF8x?oc=5",
+      "published_date": "2010-12-09",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "JOHN PELPHREY TIMELINE - The Arkansas Democrat-Gazette",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaHFEYnMtcHAxQWdISW83T1NyT09nNDVSX0xodG5GSTVRU3VfQTZoY0txVjk1aE8zS0s5Y1Z0SHdfZnA0eEZ3UDlVYkhxdkFpd2JHVUFYYTZURHo1elA2Y25CS0x6V1dCMm9ZZXZQYks0RWMyQnVyWVgtVnNJZ201S01IRUo0Y00?oc=5",
+      "published_date": "2011-03-14",
+      "source": "The Arkansas Democrat-Gazette",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "42042941d2e4677db331e0161e93ec2a05c29e6c81c3aeb4bf422d8eb3f3f5e1",
+  "feature_eligible": false
+}

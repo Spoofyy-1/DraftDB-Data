@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:59:14.284787+00:00",
+  "lane": "reports",
+  "pid": "Pbac4f67696",
+  "draft_year": 2014,
+  "name": "Walter Tavares",
+  "draft_date": "2014-06-26",
+  "status": "ok",
+  "query": "\"Walter Tavares\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2013-07-01 before:2014-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Walter+Tavares%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2013-07-01+before%3A2014-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Mock Draft: Andrew Wiggins No. 1, Lakers pick Julius Randle - Los Angeles Daily News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc1J1cTZ3d3JXU3JKSVc1SF94czlPMXhTVWNobnpWdHlzWmpQNFpCMHp0UW9MOS1rTXNTUEhrb0Qwa2NOenZiNUhnTXFVb1h1M3BvblpOV01LVVh3QWNjR2NEZEprMXdYeENXQkM5SWZhSnJ2N1R0QzM5eUQ4dU1DYkp0QnFlYlZCbFQxTkd6UTJaZl9CblJfc2RVZmxmXzhiVWduOEpR?oc=5",
+      "published_date": "2014-06-24",
+      "source": "Los Angeles Daily News",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "b9341242013cdd6a6992ae4cb621c1cfd606112b9d559dfdd60c13594668dfc0",
+  "feature_eligible": false
+}

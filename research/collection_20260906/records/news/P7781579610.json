@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:53:41.345445+00:00",
+  "lane": "news",
+  "pid": "P7781579610",
+  "draft_year": 2006,
+  "name": "Steve Novak",
+  "draft_date": "2006-06-28",
+  "status": "ok",
+  "query": "\"Steve Novak\" (draft OR scouting OR prospect OR basketball) after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Steve+Novak%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Numbers back up the praise for Marquette\u2019s Steve Novak - The Tuscaloosa News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc2RINURoNGtwa1ZVTWI1WTI0LUNITzNQNWk5UFliQWo1anBhNHR0a3dXdEdUWUcxbmdtX3FCbjE1UmpyMW5aOGFnNlQyRHhuVmNEWG44OVJENjN4c1JacURPYzdzVjJuaDBIZk1rb3lGMUJZeUxqSk9vY240SUh3dGYtUGoxVHBSVUFGUUZNOEhMNE9WR19mLW1vSTFDeVNPaDdPNEY2N0xPNG9lSi1sVkdVQ0N2X19Ia2JF?oc=5",
+      "published_date": "2006-03-14",
+      "source": "The Tuscaloosa News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Carney To Compete In Slam Dunk Contest Thursday In Indianapolis - University of Memphis Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWkU1V3g3UWhTdDJucTVnV3VGb2xKbTJMYjFZdEMxUTlLN0JnSlZ0YWY2S1hILWtnbGhfSjJ5Skx0TXNOQW5FWmxUWlZrSlpiaEJ3TkVvR0lNSmdWeEwwZGFrRDNUOENaczM0QkZvSWpxMko1bFlWWkgwMGxZam1OdS00Sm5uT2NNR2diVHVXNVFTQkxqWVlDVXhaWGo1V2MwTDlv?oc=5",
+      "published_date": "2006-03-28",
+      "source": "University of Memphis Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Dean Earns All-BIG EAST Conference Honor - gocards.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9POXRUUmwtNnFWaXdGRWk0NDdPZEhDcGk5NGdnaW9mVFFSUWFROU1FM3VaN0lRVWpzeDYwdlNER2tXb05GS3VEZUx3dldhNUNrZ2owUEExeXQ4VzlOR1ZlWUR1WEZCZW1yZmdCenZZajFHTXAyMi1tV1U0VTkyc28?oc=5",
+      "published_date": "2006-03-06",
+      "source": "gocards.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "c5270d2acf74497b99ce0e66dabd930367ee4eb462a2db4e8b7ffb9cf9118cb3",
+  "feature_eligible": false
+}

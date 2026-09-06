@@ -31,10 +31,12 @@ def catalog():
     assert len(defs)==50 and len({d['name'] for d in defs})==50
     return defs
 def main():
-    parser=argparse.ArgumentParser();parser.add_argument('--repo',type=Path,required=True);parser.add_argument('--out',type=Path,required=True);a=parser.parse_args();a.out.mkdir(parents=True,exist_ok=True)
+    parser=argparse.ArgumentParser();parser.add_argument('--repo',type=Path,required=True);parser.add_argument('--out',type=Path,required=True);parser.add_argument('--source-cutoff',type=int,default=2026);a=parser.parse_args();a.out.mkdir(parents=True,exist_ok=True)
     rows=[];sources={}
     for fp in sorted((a.repo/'tracking_raw').glob('torvik_*.csv.gz')):
-        year=int(fp.name.split('_')[1].split('.')[0]);sources[fp.name]=hashlib.sha256(fp.read_bytes()).hexdigest()
+        year=int(fp.name.split('_')[1].split('.')[0])
+        if year>a.source_cutoff:continue
+        sources[fp.name]=hashlib.sha256(fp.read_bytes()).hexdigest()
         for r in csv.reader(gzip.open(fp,'rt')):
             if len(r)!=67 or int(r[31])!=year:raise ValueError(f'Bad source schema {fp}')
             d=dict(name=norm(r[0]),team=r[1],season=year,tpid=r[32])

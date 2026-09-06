@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:17:10.152973+00:00",
+  "lane": "news",
+  "pid": "P0074b51801",
+  "draft_year": 2012,
+  "name": "Luke Zeller",
+  "draft_date": "2012-06-28",
+  "status": "ok",
+  "query": "\"Luke Zeller\" (draft OR scouting OR prospect OR basketball) after:2011-07-01 before:2012-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Luke+Zeller%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2011-07-01+before%3A2012-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Three-Point Play - Evansville Living Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vd05vMDlXdXdremJoY2Iyb0NMdm5NdF9CVkY2Yk1Lc284MlU3ZXlZSkszQllYQ1dmX1BFZkhtZXhETndBSjlEX0c3MjREU2M3b25jamVaTlJGeS03S1hB?oc=5",
+      "published_date": "2012-03-16",
+      "source": "Evansville Living Magazine",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Frank Hassell On San Antonio Spurs Pre-Season Roster - Old Dominion Athletics",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMEF0YnRiaWJJTUhSa19xNUZyUF9SR0lGVEYyT0RpT2JfQXhLLXRnVFZkbnRCLV96OElEZW5nQjlWVU1ZV0M1VGFvdnJJQWJEUmxmZFJBdUNsUnlUc0EzSW5Rc3RVUkttc0RmZU45RU1SWFg0b1F3NUE5N1g2TEs2ZGk3Qm93RUxPa2duZUM1M2wzeWY5?oc=5",
+      "published_date": "2011-12-19",
+      "source": "Old Dominion Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "5255b86f0024bcbefa1d6e983e07ca179979c8cd2330a004787546296ad72a84",
+  "feature_eligible": false
+}

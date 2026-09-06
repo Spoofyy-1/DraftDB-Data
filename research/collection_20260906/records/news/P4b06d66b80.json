@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:00:31.411950+00:00",
+  "lane": "news",
+  "pid": "P4b06d66b80",
+  "draft_year": 2008,
+  "name": "Goran Dragic",
+  "draft_date": "2008-06-26",
+  "status": "ok",
+  "query": "\"Goran Dragic\" (draft OR scouting OR prospect OR basketball) after:2007-07-01 before:2008-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Goran+Dragic%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2007-07-01+before%3A2008-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "SLO \u2013 Erazem Lorbek out for Slovenia but Pipan optimistic - FIBA",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYzNreGd4ZDU5QmNwWTUycHpjeFZFWEdHS2s0R0xVSkhCcjc1eFlSYmJGNGNKT1FGc1VLVGJRZUxaSkVjVTVXTlZ6NkxybmhxZVcwVU9ia2ZaUlFPT2xjT0FkMkl5VjUtZUs0MDlTMFdUMzFhcGktdl9CRnVFUWRiWnF3NVpCV2xEc0R2ZU45dy1pOHVGSlE?oc=5",
+      "published_date": "2008-06-01",
+      "source": "FIBA",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "baf0b5fe2cae574c841d3fa42a6a623183db9ab3a403f477875c1e5ca9c21caf",
+  "feature_eligible": false
+}

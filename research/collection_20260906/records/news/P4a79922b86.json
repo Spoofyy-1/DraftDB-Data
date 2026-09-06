@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T09:56:52.918067+00:00",
+  "lane": "news",
+  "pid": "P4a79922b86",
+  "draft_year": 2007,
+  "name": "Corey Brewer",
+  "draft_date": "2007-06-28",
+  "status": "ok",
+  "query": "\"Corey Brewer\" (draft OR scouting OR prospect OR basketball) after:2006-07-01 before:2007-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Corey+Brewer%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2006-07-01+before%3A2007-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "The '04 Gator Boys have the ties that bind - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT1VrcUxodk1QN3VfUG1vRWFiZzVtZXltR3JERG9sdlgzOS1SSlJUWVlJbU9LZ203bmlQZWQxQmMwNmp2R3J2Z3pTX1hRdzRhQ2RBcEQzbHc3NXQ4YlYxaGE0U2k5ZWxzRnJjUmlmX051aGVDYndkbXVjbjZ6ZS1LMDNyYk5xbGZseDEzQUwxZkk5Y2N3Z1ljRmxrelNSczhnTXJ5TUdSQQ?oc=5",
+      "published_date": "2007-04-06",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "It's 'going to work out' - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQmRmd2xiSHJhVHQ2R2pQTm02UlBaY0txMmxsSE9JaURCSHpYcUNzNDNBanlOSGhCTzVtU3poQWxZRmQ3SjlISmpGZ3hBZFhlczZ1ZEpxeHVwczJXSzJ6b0FoajFsWjBBaXFJRVdiZXNUMExNN25PQ2trSVVpQllGTHVZT1NCN3duWlctdw?oc=5",
+      "published_date": "2006-12-14",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Who's the Top Gator? - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObzJRTDE4ekdrcTBWMWtJenRDbEJCWlh3S2JQQ0tHZ2pOUHdmdFJwZGhacnRrME5wN3hDR3ZBdVdMeS00cU9BTUc0SXBIanhfbFRmTUh5NnRiMkJJYTU1bk92NE1TR3A1d3dEbV9JSTZHM3BGTHB0Mm5nNDZkV2JSNU9wVmViU29G?oc=5",
+      "published_date": "2007-06-25",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Noah, Brewer, Green are finalists for award - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZGx5Q3ZGYzJFSzlTMFFVS0tqUnhiZzdNWHh1bl95TkJ4RzN4MGpWSU40VnkwWGR0MmQ5eGNPbHAxa0ZsOEtGRFZTblpDbkxHYlVjenRrX2pIdlRvZWRURElHM0dTVS1md2dNcUxoOUgwT0FMeXdnazQyZlVURmJ5Rk5acFRLUDdPQjNFS3k1ZnpPalVqeV9fVTU4TkdqODhXZFJjQzdnRQ?oc=5",
+      "published_date": "2007-03-03",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Gainesville is Noah's kind of town - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeExXOUJ4bGpQS2F2Z21FSnptRHhGUjFVMW1KVFFzYklDQmRDS3JONGk5WnlOSkJrX3VnR2dTdHh0dEJoTlhydGstbmR5RUU5UDZWeVdSRFdxdzZYXy1CUnNyaXJhRGNYVlpCRngwTTR4alRmVzB4djd6S2N6NEptS1Y3VzhIcWhfbmRCVVpBZ05WWnZzNDNPZXJhcVI?oc=5",
+      "published_date": "2006-08-25",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 4,
+  "response_sha256": "9abb96eb302161e5f0367239b85965a04ec6077cdf6fc26e44a55dd884ef14d3",
+  "feature_eligible": false
+}

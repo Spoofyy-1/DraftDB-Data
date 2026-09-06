@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T10:06:05.454625+00:00",
+  "lane": "reports",
+  "pid": "P704a5fd478",
+  "draft_year": 2001,
+  "name": "Joe Johnson",
+  "draft_date": "2001-06-27",
+  "status": "empty",
+  "query": "\"Joe Johnson\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2000-07-01 before:2001-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Joe+Johnson%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2000-07-01+before%3A2001-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "761bb442ef08746836444c84c0390342882af0c69d61f47663ec1cbca0bd5a0f",
+  "feature_eligible": false
+}

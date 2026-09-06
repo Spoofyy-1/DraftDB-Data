@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:51:58.158626+00:00",
+  "lane": "news",
+  "pid": "P1bf2734620",
+  "draft_year": 2006,
+  "name": "Mardy Collins",
+  "draft_date": "2006-06-28",
+  "status": "ok",
+  "query": "\"Mardy Collins\" (draft OR scouting OR prospect OR basketball) after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Mardy+Collins%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "MARDY COLLINS NAMED ATHLETE OF THE MONTH FOR JANUARY - owlsports.com",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OTjNPOWZycW5tVENBX1gwRHJYbGx4Q0dnWlozR2VlMk96cWNXajJ0d0xnRUJGWWZoQXBHUEoyYm9feVBGTURrdXBJTEkwZ0hlZERzMHF2UlRiaTV2?oc=5",
+      "published_date": "2006-02-06",
+      "source": "owlsports.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "MARDY COLLINS NAMED PRESEASON CANDIDATE FOR NAISMITH AWARD - owlsports.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JbXNYcmVhYjVoTDlUQTh0SjFFNkhYUmlaZmVvYzJmemlrZld5d2xEa2Jzbl9mR0pnZjc4NDJNNGNOb2c1MGdjMDRPam1jN3VqdUs4dkdOd2NuR2dQNjRhSw?oc=5",
+      "published_date": "2005-11-22",
+      "source": "owlsports.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "b0bbd99ccc09c58882248a32a877b49932519bff8c3c2951abdccba274d3f474",
+  "feature_eligible": false
+}

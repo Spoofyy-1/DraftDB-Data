@@ -1,0 +1,64 @@
+{
+  "collected_at": "2026-09-06T10:02:38.508423+00:00",
+  "lane": "news",
+  "pid": "Pd19bde5a19",
+  "draft_year": 2008,
+  "name": "Courtney Lee",
+  "draft_date": "2008-06-26",
+  "status": "ok",
+  "query": "\"Courtney Lee\" (draft OR scouting OR prospect OR basketball) after:2007-07-01 before:2008-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Courtney+Lee%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2007-07-01+before%3A2008-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "On top of the hill - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11cEQzOGhSOGRUMUlwc3Z4QlBXektiS0pUa0toTWhHMnROVVFhbTNTTFNXM3RyRXN0dXotU1FGMzhkMEVOc253VHV0NVNsczZRSXphQ2c1VHpPaGoxOHhHNk1sZ3o?oc=5",
+      "published_date": "2008-02-14",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "UCLA 88-78 Western Kentucky (Mar 27, 2008) Final Score - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd05RUzZtWmIyZGxtaUFleUZNUXAzOWpzUVpzTlBlTm1jaUdlTkNJSWwtOUYtX0oxeFB4TlRWRG9PaEVKT1F6ZlltZ3hPeWhVTUE0aWFtSXJVOEZyQjZoTlM0clJick1wX0tnb25KYmJxRnRodl9mcXJzNEJqYmZIS0VRZmI0aWtRUFpIaw?oc=5",
+      "published_date": "2008-03-27",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Fisher Lands On Mid-Major All-American Team - Niagara University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92TVJtM3dGcm1qUkZiN1J2a1FVMjBEZmxxY2U2VnlNMlc2ZUhTSkJ2c0xNZ05ZUmhDekx0bmkyVDlvSVM3ellsVnZYa01kSjVoUUhHYzV5UzllN0E4Z0ZGd2hYVUU3aTMtcHJFQWdJUQ?oc=5",
+      "published_date": "2008-03-27",
+      "source": "Niagara University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Rip City\u2019s 2008 NBA Ultimate Mock Draft - ripcityproject.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM1JSS2dtUll1UUlCaGpyY2JlaENSY2hqVkNqYWJJM3Z3bDlOVTExbkE2Z2F3LTZFNjV2czNrRGZTTnZXSGRadUJZaUp1S1l5OFppXzJacHdhaE5oTGZHVjgzZjFvNUFHZXF1dFJvZWNiT1JXY1pBZk9MMmlUOUo3UXdFMA?oc=5",
+      "published_date": "2008-06-22",
+      "source": "ripcityproject.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Unlikely hero enters Kentucky lore with big 3 - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBaeFFKSlRfdmJkcWJUckNvYU1yeDFfakQwZFRpdmw0dHBWZEkwV3dHU3k1YVB2U21YSDNRX2hxcE5mLVNIWENKdWk0dGFSYlNS?oc=5",
+      "published_date": "2008-03-27",
+      "source": "NBC News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Western Kentucky, a Long Shot, Beats Drake at Buzzer (Published 2008) - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKT2ItUVlCX0JUWlQySF9EeFA0VjFESnNVM2RSSWNNbjJaRGZuMC1aT1NzZDMtd29oeUJKRVI5SVBZTEgzM21Ra2VYZ3g1UXA3RW5CTTRBQTBCTERQSVl3TDhBc1RwZFZPNEhTY3lISnJxSGR6dUVwZQ?oc=5",
+      "published_date": "2008-03-22",
+      "source": "The New York Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 2,
+  "response_sha256": "7670aa0187dc45a32355377fd102d9b9944b9f34399b773ef364894fb5a63f48",
+  "feature_eligible": false
+}

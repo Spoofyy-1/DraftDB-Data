@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:53:50.474369+00:00",
+  "lane": "reports",
+  "pid": "P8d3cc27d9f",
+  "draft_year": 2013,
+  "name": "Seth Curry",
+  "draft_date": "2013-06-27",
+  "status": "ok",
+  "query": "\"Seth Curry\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2012-07-01 before:2013-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Seth+Curry%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2012-07-01+before%3A2013-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Duke vs. North Carolina final score: Seth Curry heats up early, Blue Devils cruise - SB Nation",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdlRQYWRPZ1gwLTVITjZoZWxpRjZhd25pSmR3MEpSQTkyV2pJVXFWeG5UUVBRSVdQYTR5MlJOcXZSa2ZBSFlkR3ZWSlRiY0NOWENzY2h2NWhobC1xNXlrMmZwYkMxZkJPZ3ZMZk13dzkybkVsQzFNUlMwdXc4MkRUSEVhSVhDdVRBLTU5VkpBYXE3RDBKMi1F?oc=5",
+      "published_date": "2013-03-09",
+      "source": "SB Nation",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "21802fca67f1c292062c2af8226b4cc77d3bbdbc0a06887aa4931c9d2f20306a",
+  "feature_eligible": false
+}

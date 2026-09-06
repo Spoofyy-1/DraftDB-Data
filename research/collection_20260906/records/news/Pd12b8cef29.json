@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:55:04.187412+00:00",
+  "lane": "news",
+  "pid": "Pd12b8cef29",
+  "draft_year": 2006,
+  "name": "Randolph Morris",
+  "draft_date": "2006-06-28",
+  "status": "ok",
+  "query": "\"Randolph Morris\" (draft OR scouting OR prospect OR basketball) after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Randolph+Morris%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Players embrace the return of Randolph Morris - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZTJvVEV2ZXZxZklvS2JRNVZsZ2ZjQlBUSW5nT3FwZUJENVl3Si1TdWVqQ3BNMDMxaVg4Q3pweDJIMDFfb05hWmZIODBrTG9ZZFlrRU1sbVFtY2N4NzdRSTJSZDk0NmZOUmdOOHdoZm90bUlvTDRDdU9jZnhNNUs1cko0dEc2UjRSYnZ3SmxpTTkyRVlXX0xJOGtEZXVpLUs5U2hSdmxn?oc=5",
+      "published_date": "2005-10-20",
+      "source": "247Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Sophomore sensations - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMVd5Rm5vRkJFSkM5N3I3MlBwVHVLSnJXT2pXVEUxX3ZDSHRhLVRHWTk4TmpQMjBBV3lDTUNLSTZLZEE3SkNjVVVTWTZiVGdqSXd6czRWY3BJY2tLTmQ2aFMzSHVfY3VaNWxWd2Fab2thc3JNN2pVekpvQWtMY1FZcFpySFU1R0EwUkZV?oc=5",
+      "published_date": "2006-02-03",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Roberson, Walsh look for work - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUDdTM3R4blc0NGxCMXhhNmE4TC1CbktvOFFIaUVrbXRTSk9VemhBOXUybEVpNFhqUU1JVVpUOTQ4ZUtkSjhacnp0SFhjLXJiWnF2NVVHX2x6TUZodTlzYW5NTDRPYTdfQlZxaVVvUmpkVU0xOU5NWTNxNW5vdzI4dDdmMzdZVGFNZW5sQjVIZG1OcktSRkE?oc=5",
+      "published_date": "2005-07-01",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "953833324bcb63dde4b9b47004690c3f7f9f648c13417c81d0c18ae8e99474f0",
+  "feature_eligible": false
+}

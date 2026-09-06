@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:12:13.317157+00:00",
+  "lane": "news",
+  "pid": "P05848850fc",
+  "draft_year": 2011,
+  "name": "Jerome Dyson",
+  "draft_date": "2011-06-23",
+  "status": "ok",
+  "query": "\"Jerome Dyson\" (draft OR scouting OR prospect OR basketball) after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Jerome+Dyson%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Aldrich to twins: Get ready for the grind - cjonline.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNV9MdHEzSm12a25qc2dmN3lYODNfY0lsdUtfOTJYU05GaFF0WG8zM01zdzZoRXZvSkxtaVlCUUkybUJiVVo1VWJpQWJudHFpNkVRV3ZzYk1nMlVSRW13UU8yT0x5MEMwZ2NwNGNPNmVHZzBjUEJPcVFyZ1NKTGYzV1pXbTZSYjdhRGZhampLd2VJWmF2c0JtY0RJSXhNNFlq?oc=5",
+      "published_date": "2011-06-18",
+      "source": "cjonline.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "D\u00e9j\u00e0 Vu: We Have Maya and Kemba and the Others Don\u2019t - UConn Today",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUmVneVNJcERTUHBzcnJYLWZ6X1VTUVprbkZDUGVITXZ6b1BOdVJNUExBS09DOUdtUGJfTmo2cFBqdk9HNGxULVhLaG40OFQ0RUxsek81MjFlaV9xTHoxNzRKVUgtZG9yMFo5YkZ2dC1xRVpsSUtxVHVGcGpqZVhIRmE0MmtXY2d0UFptVFh1VW5hQ3RnQmxZ?oc=5",
+      "published_date": "2010-12-13",
+      "source": "UConn Today",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "UConn Basketball: Power Ranking Jim Calhoun's All-Time Great Coaching Seasons - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaDJIZHJwal9LRERqZzZFbC1STlN4djNyQ0lKbVc2dWdfTEFOS2xQU1RpTlA3ekxVWnM4cG8tM2UwaXhKeTh6MkpZVzJvQThraW5UWXk2cS1GbXd0SnNkZXBERGxaZU0yT0x0TXo2RWE5dXdGNnFXM3NLa25kaEJKb09RS2tNNEEyOHpKeGZ4bWN5RW9WQzFQUnJFM2o1X19aRGJpclJvQkt5aWhTU0hEcW5XX1VhZ0F4cFE?oc=5",
+      "published_date": "2011-04-05",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "0a24f6135c7218fcbc122173200fe064cc2d2a7f7be043b015dc8fe7398eaed8",
+  "feature_eligible": false
+}

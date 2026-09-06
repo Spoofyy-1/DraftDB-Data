@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:14:07.143983+00:00",
+  "lane": "news",
+  "pid": "P4e1bce542d",
+  "draft_year": 2011,
+  "name": "Jeff Foote",
+  "draft_date": "2011-06-23",
+  "status": "ok",
+  "query": "\"Jeff Foote\" (draft OR scouting OR prospect OR basketball) after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Jeff+Foote%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Doron Perkins Signs with Maccabi, Lands in Israel Tomorrow - maccabi.co.il",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUQnFzdWxXM0NuTkFmTVN1a2ZlX185UzhBU3hXVFNFSkk5N05kX3ZhV0NVc0ZpVE1sYnhuS3l4SVY1MDZqVVRMT3VCZ3c2Ri1SOHRhSjU4LTBqdw?oc=5",
+      "published_date": "2010-08-29",
+      "source": "maccabi.co.il",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "052950621dee28ef685ad8b1ec02b8a8da6262191ba1c48a41bd62aa0e45c67e",
+  "feature_eligible": false
+}

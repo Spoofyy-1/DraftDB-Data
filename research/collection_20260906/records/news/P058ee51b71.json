@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:51:31.970336+00:00",
+  "lane": "news",
+  "pid": "P058ee51b71",
+  "draft_year": 2006,
+  "name": "Ronnie Brewer",
+  "draft_date": "2006-06-28",
+  "status": "ok",
+  "query": "\"Ronnie Brewer\" (draft OR scouting OR prospect OR basketball) after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Ronnie+Brewer%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "FLorida vs. Arkansas - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObExiaHhmUEt0ZzAwNFphaVY2WEdweTZjZ1A5LU12SXg4VlpLX3pndDlORzgydFd0TDFhTXVvNlM3UERId3hpVWVkYjdSbmRoTDd0SXpPZFFqd0FHUTU0UjFaTkNhQnVsbVNUbXp0Q2hZeVhKbmh0YTI3aW1FUXNNSmx1UTZZQUlDMVM2MXdJUnc5dTlPdUxweWIxQzM?oc=5",
+      "published_date": "2006-02-19",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Razorbacks top Florida in shootout - Ocala StarBanner",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObFN0bUtRX0x5OU9aNWU3NDlmZWEwQkVFXy0wWHM3RDZ2TUIybUF3NGFLYjhEbFJ5ekItWHMySTZ3TVZUM2dZNTVubEpFTldzWVNNV2RpNDl4WW9VOGVRXy1nbDFpSXdubGV6MjBEQVl5NUNqZXJ1S0Y2NGdCNTdoSS1yTlBQdVpFT1NjWDFTVU1VeTdWWHc?oc=5",
+      "published_date": "2006-02-18",
+      "source": "Ocala StarBanner",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "After first quarter, score is . . . - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82RVp2U0VZVEpKWUVIbGgyVFFVUlh4VVIxLTQySEs2M1EwcHR1YktYVG9xdVNOMDdTYkhpamxKdS15S1o2cFdmTFE1dk1aZkRicUNRcktBblZwVFhFeDhLcVRGMERmUnM?oc=5",
+      "published_date": "2005-12-16",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "06fd52d6177507d31cce7b4b7c728532cc2f43b0230c4dbbeecf3d9173af97c8",
+  "feature_eligible": false
+}

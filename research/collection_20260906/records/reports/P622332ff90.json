@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:52:51.340692+00:00",
+  "lane": "reports",
+  "pid": "P622332ff90",
+  "draft_year": 2013,
+  "name": "Nate Wolters",
+  "draft_date": "2013-06-27",
+  "status": "ok",
+  "query": "\"Nate Wolters\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2012-07-01 before:2013-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Nate+Wolters%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2012-07-01+before%3A2013-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Know the Prospect: Nate Wolters - postingandtoasting.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd3dRRDNiN1RTNkZjbWJiZ0ZLV1RkS3lOdEhhaTA0RDZPVXY3Tjljcl83X3RSVHBsSk1MRV9FMlFkRXFRN1NsNTgzOVVFeHlwejZlaE5uZ0VwRkJUV0JfajRPZHdrRC16OVlZSkxWTmNMbnVDUG9QNmR5U3dlSEI3UmNlb1o2LWc1dFRBd3hLbTA1aDNo?oc=5",
+      "published_date": "2013-06-26",
+      "source": "postingandtoasting.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft 2013: Golden State Warriors don\u2019t hold a pick, yet - SB Nation",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbzZvRnJCVnZBdVVCdFJCRzZtNC10bHBIRnhDZ01aWHVBdEQ2YWRRLTNCLURsMUlGdS0ybXBnWjZfdEhWaFhMV2dQalpfWDRDd0hQSTNfRmp3bFZ4dU1SMzlYRFhENG9oT0FZUWpfM0Z3V3F5VmlpOTNTWThEMXpqSGJnS1NWV0VkY2xkTFBxRFB4RXhScUE?oc=5",
+      "published_date": "2013-06-25",
+      "source": "SB Nation",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "5800a4dad18d4f2b47c738bbfb1b19e586173576a392f18f59c8a637e5625d03",
+  "feature_eligible": false
+}

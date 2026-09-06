@@ -1,0 +1,64 @@
+{
+  "collected_at": "2026-09-06T10:01:15.779421+00:00",
+  "lane": "news",
+  "pid": "P7c1c1e7eac",
+  "draft_year": 2008,
+  "name": "DeAndre Jordan",
+  "draft_date": "2008-06-26",
+  "status": "ok",
+  "query": "\"DeAndre Jordan\" (draft OR scouting OR prospect OR basketball) after:2007-07-01 before:2008-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22DeAndre+Jordan%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2007-07-01+before%3A2008-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Jordan decides to stay in NBA draft - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVHU3c2FtLW9DenEyLU1rVm5sYWttcklQVUJtTF91MlNBUEpGa1RPeWJwa1AyZF9LRGh6NjRZTHF2VEEzaTlGc0prOTYzLUZkV0FQaTA1bl9jczJzTk0tU1dqOVYwWkEzZzlJUUxSRDBBTUx6cnp3YzZrVlZhYkRZelNjaDVFWXVlTTMtczZ1bE1ZWW1FbDVaVA?oc=5",
+      "published_date": "2008-06-16",
+      "source": "247Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jordan's game trying to catch up with his body - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUkhheERZSFcxQU8tMkN1dGVLaW1nTmZpdnFmOUhrS096T0Vaa2hKZmFKWkRmQTBfbnFnNWNVY2FwWEZzYnlZVXVFODhBV2JGN3lvOEh0aE1RRmtKVHdOVWEzU0VzMHA5LTZQdEZyOFkwU2o2Q0M3QmtycmtJNDhMNWpWYXFKX2NmWjZiSERuemJRWHA1?oc=5",
+      "published_date": "2008-06-12",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Underclassmen Declaring for NBA Draft - Rumble In The Garden",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSncyQ0Y5WlRWZVJiU3ZVNjQ0djFaN2hiLS1hRm9SQmsteE5FWi1HMGF6dk1XdUNVcUFienZ5ZXliR2lNLUxHbHNCVUZPdFZHYUY4YkZWNVd4bmRCYVBVNTFOZ1NMWF95Vm04T1pPS1llU0JPbmE0ZzlkNmFObnRSLWZ3MmdTUlZHUGdqY0xBblQ4Zw?oc=5",
+      "published_date": "2008-04-10",
+      "source": "Rumble In The Garden",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "If the Draft Pool Is Deep, Players Think Twice Before Jumping In (Published 2008) - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIUXRUQkMyMnR1VUNfc3JOb0lBRkJsOVhuUG1aa2NBTzZhVW1Ud0tlLXRyS29SX2pNM3dRbFk5d1dFR1dTT2xlS1ZmQ3pQdE5JSWF2TzRwR2tYYjB4M3lYZ1FpVlpsWTQ4YXQ3UXQ5S3MwZ0JPNFFn?oc=5",
+      "published_date": "2008-04-06",
+      "source": "The New York Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "USA - FIBA U19 World Championship team named - FIBA",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd0tGWm9UWUtJTFdyWTRpX1d0dmZ1RFZ5NFBzaGRNdnBhMTA3OUdnbWNSNHhiUnpjS2N3ZE03VFJOQXZaWXQyOWxhM0dUb0lGR2NDZFZqMS1lVmJab09nNzhPQzdndGd2M1g0RUFncHFSdTc1Ry1tS1VEVWNGcC1GNFBLbVA?oc=5",
+      "published_date": "2007-07-02",
+      "source": "FIBA",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "U.C.L.A. Pulls an Escape (Published 2008) - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NTk80a2s0ZGR5cktlVVZNMHJHV1pub3dGY1hGQ0hJeEVlNVJwUzhOLWhGR1VSUjJ0OWlSTTVEMjdRaC1JWDZLVUlQWlQyUVBpY2UxVHY0Q0w0ZFFnNmxoQUFvY2VhU0ZXbXdGZHV1MnVIUDVndWlN?oc=5",
+      "published_date": "2008-03-23",
+      "source": "The New York Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "99ad82e0d29234aab8455af9fda91020a8770dbe803348b92c2fb306d33ebdc6",
+  "feature_eligible": false
+}

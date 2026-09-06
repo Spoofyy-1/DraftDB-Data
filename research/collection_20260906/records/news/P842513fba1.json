@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:53:51.356423+00:00",
+  "lane": "news",
+  "pid": "P842513fba1",
+  "draft_year": 2006,
+  "name": "Josh Boone",
+  "draft_date": "2006-06-28",
+  "status": "ok",
+  "query": "\"Josh Boone\" (draft OR scouting OR prospect OR basketball) after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Josh+Boone%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "UConn 98-92 Washington (Mar 24, 2006) Final Score - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM1FOcmc1Umc3RVQ0S0hQNURaSnRYTjQtSDRhdkgtTnZPOVlhWU5aaVZJMm9tbGt0S1p4MDBaQ1BZUy0ybk04enRHbWlGQ1VKbUV5bUZnd3YyQThEUHZ3NThYTXd1QVp4UzlKN3JTZ0dNNlhOeDhNTGRRS2NyVXJVYi1JaC1TN0FlcXY5MFBB?oc=5",
+      "published_date": "2006-03-24",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "e60b2051459897c13e4fe3a860d2508dbafd3d7fc235776eb49ce8e1fb8812fa",
+  "feature_eligible": false
+}

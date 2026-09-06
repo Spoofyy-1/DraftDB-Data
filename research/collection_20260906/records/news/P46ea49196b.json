@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:18:43.319978+00:00",
+  "lane": "news",
+  "pid": "P46ea49196b",
+  "draft_year": 2012,
+  "name": "Gerardo Suero",
+  "draft_date": "2012-06-28",
+  "status": "ok",
+  "query": "\"Gerardo Suero\" (draft OR scouting OR prospect OR basketball) after:2011-07-01 before:2012-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Gerardo+Suero%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2011-07-01+before%3A2012-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Danes' Suero a grateful player - timesunion.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaVlGSDdfOUVwYzRiX1llRXhudFhFWHZBV0h1dmx4VTI1LXVoZDRRdENmV0VNZ1BUZlRmQTg2dkkwMDlrOEdpblFNMHU4MmVoNHlGaUh5VFFnUHVZeUxpUVYtNlc2d2hrTGxKclo1eVV0dDVpRGJxVVN6b1pvTkFmdk1QdnBmVGZPZHlB?oc=5",
+      "published_date": "2011-12-03",
+      "source": "timesunion.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "18c1b5874e49299235e26bb3b6f9717ae0a1a30ea0612ffb9c0a487eb4c3a363",
+  "feature_eligible": false
+}

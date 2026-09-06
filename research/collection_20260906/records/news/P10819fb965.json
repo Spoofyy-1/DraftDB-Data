@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:12:33.447043+00:00",
+  "lane": "news",
+  "pid": "P10819fb965",
+  "draft_year": 2011,
+  "name": "Carleton Scott",
+  "draft_date": "2011-06-23",
+  "status": "ok",
+  "query": "\"Carleton Scott\" (draft OR scouting OR prospect OR basketball) after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Carleton+Scott%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "#14/15 Notre Dame Set For Big Monday At Marquette - Notre Dame Fighting Irish",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQzJYWXVsU193WWNyUVVWbXVkUXUteDkxTE1BRnNzMGJVMVFjOWhHUGdFOG5FRGVfOGYzdkVDX0gyN2pVSUl4ZEFFWVJIODNJd0hlTDAwZ01RaDVTNjc1RXVfTjhINUdXb1VoRjI5bXB5aWVkaUtnTHhldC1lc2ItTExPU0NGZEdlVzl5S2xTNmJfQWVk?oc=5",
+      "published_date": "2011-01-08",
+      "source": "Notre Dame Fighting Irish",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2011 NCAA Tournament - Opening Rounds - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZODBXTDEwNmdvdEoxdFRaVHJaa2NVOXk1MzNmc2JJNnlyaFRUMjloQTcxVDdBT3Q3VUllM1puUE9tOUNWZWdtOXFpZlJJaEctVjdtMGRFQi11T1VMRWtKeWlUd2wyNVZHMmh1aGlIMUhjX0E4MzdCWQ?oc=5",
+      "published_date": "2011-03-17",
+      "source": "CBS News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Men\u2019s basketball: Irish hand Pitt second loss of season - The Pitt News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUXAwXzNQT0hScUhsM2Q3bUQyR2oyYUlGSFlpaTExTm9iTXpfTFUtQThYemVvVmRVVjNreFFqdDBKMWhyRnRoYkJzQV9PWmFnWUFvdGtpOVNVekg5azJKLThUSHowV1lFdFNzWV95X1dpSlowd3NKUEQ2OVpFcUxvSS1ZWTVfQXBmNVE0d0o3aXdxUHpqWWdNYVNYWlFiQ1nSAaQBQVVfeXFMUHZ4XzhoVzYzUE9NZkx4bS03dEFFM2JIUmZkS1J1OHpqb0F4TzV0eldxNmZfMzZVWHN3NFFlemk1ZTNnMXp6R1loZzVCaVc2VnNCVXFiZFRyZUlodEFBTGI2dTh2OVpJZzZ3cmdNT3hPVThtblEyT3lkR21aQy1rdWNXS1RiTFYtLXVKc2l2dHhla1B0MDA0SXFLZmxST3hYZkNTUU8?oc=5",
+      "published_date": "2011-01-24",
+      "source": "The Pitt News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "No. 23 Notre Dame Outlasts Gonzaga, 83-79 - Notre Dame Fighting Irish",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMUpVcXkwV2ZZQUtDdlpVbVU1ZWVIYUdGeGdYRG5qSG5aR3hYS3l1eW1LX2ROclAxVTg5YkVUczBCNFNyZ0FaZnNISmVETUVoUVN3QjJlZVlCWDBhdkJzTmk1cFBFUVhqSE9UOWlJQVNVV0Z3LURmUGRjbks5S1UtdFlmZ1cxSXJi?oc=5",
+      "published_date": "2010-12-11",
+      "source": "Notre Dame Fighting Irish",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "c19aa38054c37c3c2911ae7805fae0f5e23d1c196faabd7ef36754a0e8b4add2",
+  "feature_eligible": false
+}

@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T10:04:37.375996+00:00",
+  "lane": "reports",
+  "pid": "Pfdb326aa01",
+  "draft_year": 2000,
+  "name": "Brian Cardinal",
+  "draft_date": "2000-06-28",
+  "status": "empty",
+  "query": "\"Brian Cardinal\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Brian+Cardinal%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "bc306c2561cb9fa91f3f155766519bda1cea0c0e67524a5071adc594a3d20cb1",
+  "feature_eligible": false
+}

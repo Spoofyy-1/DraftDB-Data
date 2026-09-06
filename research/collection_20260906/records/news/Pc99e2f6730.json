@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:06:34.483947+00:00",
+  "lane": "news",
+  "pid": "Pc99e2f6730",
+  "draft_year": 2009,
+  "name": "Toney Douglas",
+  "draft_date": "2009-06-25",
+  "status": "ok",
+  "query": "\"Toney Douglas\" (draft OR scouting OR prospect OR basketball) after:2008-07-01 before:2009-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Toney+Douglas%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2008-07-01+before%3A2009-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "BC\u2019s Tyrese Rice hopes point was made - Boston Herald",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYTNzVDdKSDZKR1dFbWtpTUwtNTl2b1NuOFptUHFOVlVXZi1FMW1mbmw2NWk0c3hneHd3cW14RnVaZVcxd1IxckxlX2NLQ2poekZDT0VmcVZfUWw0SExtLUtSVG1jckhvRTJfMjRRcDhPbGVlYjRxZDBnUjZnMExYVU5oSQ?oc=5",
+      "published_date": "2009-06-23",
+      "source": "Boston Herald",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Patriots trade Cassel, Vrabel to Chiefs - The Spokesman-Review",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZWRzOGdlTE9kUmdhcUdzWjlSSkF6VW1JdTZfWldpR1M5VUViUks0MVZyMGlRV1dsNHJVTWo3MzBLUE1rMkdscXlyNG56NTFzQmtrVFR6elRONEx5NlJnamZOUnZBdWRHZ1FrZ2pZLWtDV05IOFBqUUtJQ0FNV2dEemN3eUNqd3AtazI3RTln?oc=5",
+      "published_date": "2009-03-01",
+      "source": "The Spokesman-Review",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Blake Griffin, Tyler Hansbrough lead All-America picks - Boston Herald",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWUhQbXBOVWF5NC1JdlBPZFd5MGVKaWN4X3hHdjVHVENBZUlHRG1NZUdwZURDY3p2eTJlemJjSE02cjJXVms4NW5GclhackRabHNwR0MySmNzNUVIa1A0dGJvLUREaUpsdkt1bHJXM09UbkFZb1JMVmF0QmhPVTktSzh1ak1MeFVtSkJ0NENNQ1laSTN6Z1V4cmlR?oc=5",
+      "published_date": "2009-03-31",
+      "source": "Boston Herald",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "64ef906974ec463d5467da9c0d0e8f4ad541bb0950a6886a21a3cff0506c6bfa",
+  "feature_eligible": false
+}

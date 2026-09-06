@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:53:04.514739+00:00",
+  "lane": "reports",
+  "pid": "P70aaa5fb09",
+  "draft_year": 2013,
+  "name": "Andre Roberson",
+  "draft_date": "2013-06-27",
+  "status": "ok",
+  "query": "\"Andre Roberson\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2012-07-01 before:2013-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Andre+Roberson%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2012-07-01+before%3A2013-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Colorado\u2019s Andre Roberson out indefinitely with mono, could miss the Pac-12 Tournament - SB Nation",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMy05c3BGUUx1bkdOZ0haOTAzVTNfenZOS3BRTG9Na0FCUUhRa1Rvcms4bG5kRm9BV0locnJkTTJ3eXlvX1ZCN3UyZVF2QWJOcmtwSHBRTlFiVk1mNUFtdkMtWlRHbHhVSmtkTC0tSlRoak52REtJS25oM3hybEZTSHBCaE5XQkJPYmNUR0hPbXFCVTZfSkxVMFlRUVB1ZXhrVE45Mk42dUV5eVU?oc=5",
+      "published_date": "2013-03-07",
+      "source": "SB Nation",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "dae862ef453ee3fa2318a4f50b50c9c56bb683634ddeac25cfb5e127d9054cbc",
+  "feature_eligible": false
+}

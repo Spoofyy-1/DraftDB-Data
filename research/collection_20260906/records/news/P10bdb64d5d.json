@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:17:29.961710+00:00",
+  "lane": "news",
+  "pid": "P10bdb64d5d",
+  "draft_year": 2012,
+  "name": "Alexey Shved",
+  "draft_date": "2012-06-28",
+  "status": "ok",
+  "query": "\"Alexey Shved\" (draft OR scouting OR prospect OR basketball) after:2011-07-01 before:2012-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Alexey+Shved%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2011-07-01+before%3A2012-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Sixers Reach Deal with Thaddeus Young; 5-years, $43 Million - 97.3 ESPN",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdERXSFJNMWREZTJ1YWdpNnF6Z2g2dVQtb1M3dEJZdnBsakNEN1hvcnZRUFZVZTYycmtQQjZrYV9ONjdaQ0N0RUlIUHdxaXpxNzJlZmp0anREeVFaVUtNTVZSemVQWWdwaWZ1Vmw2V1BaSWVXd3R0eEJGMWJVc1JncnhCWQ?oc=5",
+      "published_date": "2011-12-09",
+      "source": "97.3 ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Russia better than Greece - en.vijesti.me",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQko4ZFhIOS1BeUhnNHd6U3l3TmllUFNnVlBuaUU5dm5NNlAtdlVYLUktaEVLLU9xU3hiQk5MOWRQN1dGdnF4VmJrNkllZk1YWGJ4b1MybzVTVXZTNjdqQXJCS3cyWkE3Q1NmYmxTeDRCTEJ1MW43SXBTMk5XWGdMZUdxRdIBbkFVX3lxTE85b09HOC1lRUE4dXpLZ3dXZUhMYjgxVGNaUEk5Z01SdVBpQUltUU9sTmpGX3ppVGNzMU1xd3pqdEtadWVwTUdMMU10RWhQVjdKNG02RnpFek5rcTlpOUNmU0V4bW9Xdkt5bkw1dmVB?oc=5",
+      "published_date": "2011-09-10",
+      "source": "en.vijesti.me",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "ae54affe226a82798fa992af17967a95689937077b875a0f04363c87e7e3d11c",
+  "feature_eligible": false
+}

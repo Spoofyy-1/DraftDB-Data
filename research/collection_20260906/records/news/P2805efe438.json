@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:03:58.693651+00:00",
+  "lane": "news",
+  "pid": "P2805efe438",
+  "draft_year": 2009,
+  "name": "Christian Eyenga",
+  "draft_date": "2009-06-25",
+  "status": "ok",
+  "query": "\"Christian Eyenga\" (draft OR scouting OR prospect OR basketball) after:2008-07-01 before:2009-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Christian+Eyenga%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2008-07-01+before%3A2009-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Shaq traded to Cavs for 2 players, pick, cash - East Valley Tribune",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVHdhcDg0a1lQQVhuZVFZOG5Dc1ZOSnpGUDhESWpneE1qVFg3aFlOc0RXSTV4RnFIN3lXeExPcXhnalhsQUR6aE8wUWh3djhRbDByZENqTC1tR2VqcFFhYUVDZEJYT245OXloVDBMR1VzVGFLTTZEMmt2c1VtLXphcF9RTEpYQ3B3RnVBYWtaS01kNTZ5eFlwUGoydWlGbjNrN21FZW9yNFd5eXpqVGRvWDBqVmZTUTZxLWFRU3B6eFRWWUNsOHZPNVpZMjc?oc=5",
+      "published_date": "2009-06-24",
+      "source": "East Valley Tribune",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "d066f11387b8b413657a7edbfa93d8d8694d789928ef9a04df88c7f2c7202ea6",
+  "feature_eligible": false
+}

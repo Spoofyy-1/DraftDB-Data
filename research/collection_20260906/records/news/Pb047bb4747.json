@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:02:02.198653+00:00",
+  "lane": "news",
+  "pid": "Pb047bb4747",
+  "draft_year": 2008,
+  "name": "Mike Taylor",
+  "draft_date": "2008-06-26",
+  "status": "ok",
+  "query": "\"Mike Taylor\" (draft OR scouting OR prospect OR basketball) after:2007-07-01 before:2008-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Mike+Taylor%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2007-07-01+before%3A2008-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Punahou upgrades Hemmeter Fieldhouse - Honolulu Star-Advertiser",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLZTdQSFNuQkdLQ1ROWnRBdXVTSXdTMTlkcHZuOEN2akN5UHhKTExFdTNUeEZjbjJfWkJtbXJ2ODlHeDR2aHBWSEdlVWdZZGZKbEtWNGQ2d0ZZVTB1MXNaSVEwamdrdkZ4bXMycnIwdnB2Zw?oc=5",
+      "published_date": "2008-06-12",
+      "source": "Honolulu Star-Advertiser",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2008/01/16 - Honolulu Star-Advertiser",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CYS04Mkl5S2dkYXdGRXpPbExaRUtRd3dabGctZEp5VHlWVXhPSnIyeDZLVXI0aS15R0VKWFhsVWlfRUYzTEhNcGlpSXlTMjc5VzV2b2JQZWdubDZKb1dybFc4YmRfS01qd1NyTUpyZzRrQQ?oc=5",
+      "published_date": "2008-01-16",
+      "source": "Honolulu Star-Advertiser",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "9b5b8e2496474f0a16df7f9747efd0cfa1509aaf443429a724a7112d8e529360",
+  "feature_eligible": false
+}

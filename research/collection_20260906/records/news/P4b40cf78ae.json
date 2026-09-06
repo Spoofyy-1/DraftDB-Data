@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:00:39.385557+00:00",
+  "lane": "news",
+  "pid": "P4b40cf78ae",
+  "draft_year": 2008,
+  "name": "Davon Jefferson",
+  "draft_date": "2008-06-26",
+  "status": "ok",
+  "query": "\"Davon Jefferson\" (draft OR scouting OR prospect OR basketball) after:2007-07-01 before:2008-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Davon+Jefferson%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2007-07-01+before%3A2008-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "USC prefers to focus on this season - Orange County Register",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qbUlFSVBPUGdDZGsxX2htdXBON1ktbjY0eW8tZ0xsdmk3VTZ3OUlzR01Xb2RYcHNxOXVEejY4elM4dHZnblhKTlBlWERtdmVtLWozV0w1dmhJcW5wWjRtLTFwclFMN2hvOFpyTTNfMWlFaUI2WWI0X0FMZVVXREE?oc=5",
+      "published_date": "2008-03-07",
+      "source": "Orange County Register",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "College Basketball: Home is where the hoop is - Norwich Bulletin",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPblVKbW84WjBZMWloand5RWhKZEE3S01Jc1dWQ2N0dVo5VVFjQ3o1RHdFV0V0VGdWdG1hTXhGcUlnS1VIZlQyMnR3dWZpeGd0QTNjQVJkYmFQMlRZdFVmXzlaRjNJeXdtVE5MQlRxRzZGem90S2FWUTVfS2JUTFdLOHdKa0tBYm9WM0R2ZHN6QTlua3VkWGdNWUdlNXdJd0o3dHY0YkhSZUtINGVTaFE?oc=5",
+      "published_date": "2008-02-10",
+      "source": "Norwich Bulletin",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Was Mayo a good thing for USC? - Orange County Register",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HaGlqNlgxZGNBNVJweGtNY1JfYlR0YUdyM3lSMVVVc3EtQkUxMFhRLUpVUXNjYzJzekJ5WlVPYjhtU2oyV3RBSlk1YUZHTXdwcnhKemFua1hIdVJRckhaSWV2R1BtT0NaS1Jlek5GWFNQOVNELTI0?oc=5",
+      "published_date": "2008-06-25",
+      "source": "Orange County Register",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "1a380d4db5e17aeeb12547130ede3847059f82110d503984ce5d2d6ee92c3bd0",
+  "feature_eligible": false
+}

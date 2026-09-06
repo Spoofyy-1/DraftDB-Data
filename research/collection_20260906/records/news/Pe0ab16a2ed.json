@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:16:53.559558+00:00",
+  "lane": "news",
+  "pid": "Pe0ab16a2ed",
+  "draft_year": 2011,
+  "name": "Julyan Stone",
+  "draft_date": "2011-06-23",
+  "status": "ok",
+  "query": "\"Julyan Stone\" (draft OR scouting OR prospect OR basketball) after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Julyan+Stone%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "ULM's Mingo Named Sun Belt Men's Basketball Player of the Week; Warhawks Travel to UTEP on Wednesday - University of Louisiana Monroe Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NeUV2R2VYeFdBNHItRG8zZ19WVDdSaVRpSjh6eUxlOFNMZmJhRXphZ2FpYUIyQnk1YkRBTGZMMjlhSjVZSDBOdHpVRnZSdG5JcF9mVFhXUE5kaWEyVFE?oc=5",
+      "published_date": "2010-12-14",
+      "source": "University of Louisiana Monroe Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "b0a12f447573838bc2098f8dd81db69e39cc262983ce2c63cfd59377f1d7a0e8",
+  "feature_eligible": false
+}

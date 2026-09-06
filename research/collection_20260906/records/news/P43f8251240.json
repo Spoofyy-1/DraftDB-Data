@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:18:40.038578+00:00",
+  "lane": "news",
+  "pid": "P43f8251240",
+  "draft_year": 2012,
+  "name": "Dion Waiters",
+  "draft_date": "2012-06-28",
+  "status": "ok",
+  "query": "\"Dion Waiters\" (draft OR scouting OR prospect OR basketball) after:2011-07-01 before:2012-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Dion+Waiters%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2011-07-01+before%3A2012-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Now, Syracuse Guard Restricts Clashes to the Court (Published 2012) - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWWItcmFISTlabHNvX0tzZ1pCWW14WTVscGRIMHIwZnFRYlc3RU54YzkzcFJWeHNqSXpvUHkyWTI5b2JPSW9UeUZ5cGRUSjk5SzRZZW5qVTZkeVBJT2dEMXVJNU9xZzZsRlh3ZnZOYzRLVkZqaDgyZHJHMHJwd21WX3UwMlhpVDUwM2pKRlVDRC04aXF3Q3JiRGpnX1JMVmFNcm9PNVVNbm5Edw?oc=5",
+      "published_date": "2012-03-23",
+      "source": "The New York Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Dion Waiters Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55bDlNQWlMNk9CQm8yVHZ5VEpQU0Z1cGZoWUJXLWZoUUFveGhlVGdOZWNzMWhpbTZ5MHR0RTBBQ2FTMHhWV3JLaUxJenFuWGxVdlQ3NVdBVlVMaDkzcDFucDdxRUM?oc=5",
+      "published_date": "2012-03-26",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Waiters: \u2018It felt like we were playing 5-on-8\u2019 ; Source says it was his final game at Syracuse - Zagsblog",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TUnhsYnpQMndzYmdDanRzMU9KbDV5N3p6d2ZKVUtRZlEtWDBRdm9GbjRaTkVkS2oxaHBVWEE2akVCMm9iR0ZhSnVJS0JTc2NSbUNtTUlNeXFVNDQ0bjIxWW1BZUk5el9PRjliNFVtOUx3MDB0d0xPbVhPMXZ0SDg?oc=5",
+      "published_date": "2012-03-24",
+      "source": "Zagsblog",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Your comments on Syracuse basketball's Dion Waiters: 'I wish we could see a couple more seasons' - Syracuse.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY1BFUmM2OWhPVXNmZmt4a20zS082WUIwUnZ5UDVXbFVYWFo4NHQ0ZFY0Z2xvUVdSaHd3Nk1tSFEzRHZBYjZ0Um1LSUNPU3puVzlRRXF1QWZEcVZTb0dyRGFXazJTSkgteTY5N2hBN3Q1UENVcGZ2SGI1Ni04YVNjOU92S0E1MUZERldQYU1sREI?oc=5",
+      "published_date": "2012-03-27",
+      "source": "Syracuse.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 5,
+  "response_sha256": "3ec9781cf253aa3aa3ffe62cd6b8d576d69b6041c6b71970f04d9b9d7a296777",
+  "feature_eligible": false
+}

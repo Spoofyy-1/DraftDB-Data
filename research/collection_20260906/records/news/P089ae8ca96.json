@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T10:17:16.785717+00:00",
+  "lane": "news",
+  "pid": "P089ae8ca96",
+  "draft_year": 2012,
+  "name": "Maurice Harkless",
+  "draft_date": "2012-06-28",
+  "status": "ok",
+  "query": "\"Maurice Harkless\" (draft OR scouting OR prospect OR basketball) after:2011-07-01 before:2012-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Maurice+Harkless%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2011-07-01+before%3A2012-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "St. John\u2019s basketball is jumpin\u2019 thanks to top recruit Moe Harkless from Queens - New York Daily News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc0duOENlaFlSdjlhM2pYajh0V2NyNFdmV1B5d0pOdlFSNUY1UTRtakRWOXc4UDNVR1JHZEh0NW10NWhMZUdMRkRneFVPcVJKbG93N3NhY2pxbjhPcXZqZGZxWXZHTmV2M2E4QmZtYzBiVkdHeDFCQmlJOW00OXVVQjZmRy0yZXFOQy1USWo0cjlNR192ekNoYWRTRGtiSU4xNFFtMENPd0tsMzhXbng5Q3RDSzNYS3c?oc=5",
+      "published_date": "2011-11-05",
+      "source": "New York Daily News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Moe Harkless\u2019 coming out party not enough, St. John\u2019s falls 83-76 at Duke - Rumble In The Garden",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMkZELWVURnhTdXZ3MmVTc0MycXlURHJMZmNicGxZN21reU4xYjFSeHNfNzM1blptVml4UDE0SEFOSkZXbkNwSDYtVGtKTGhzU21zOHAycG1aVHNTTUIxT0xFWHk1T2F6UDhpNUtpVmFMV1R4c25NUGhpMGFrVENfaEhJWDdMVGhlMGp2MA?oc=5",
+      "published_date": "2012-01-28",
+      "source": "Rumble In The Garden",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "St. John\u2019s freshman Harkless looks to be more physical - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOFpsLXZuMExfcHZaa0otSzZEb1BNQnFxOU51UldvNTVKeXhBc0RhclhERDBkbkFBUklZbF93UWNuaEpEQlVuWERERjhpWFdFYVJCUzl2TTlXcktVSDBHeDd4QkRxS1JBaF9QSVJYd2pGeVJoWEhjV0dkZm5VcC1aVEVicDNEdnN0OHpB?oc=5",
+      "published_date": "2011-10-15",
+      "source": "New York Post",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NIA Prep Parts Ways With Coach But Marches On - Zagsblog",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRndBczVFWm1qcG0tdWdqN2t6NmU0NFI1MVhLTmFQcWtHZGZrRC1sbTlyU1FXdnZkZ0IzYklyWWtsbGhzU193OEQtenpMX2dGaE5mdHZCdmdIbnZub0xlVS14MDhoclhPQVdGQzkyUFFUZThpS2VpRThPenhlYTFGbkNfTzhMVHdkSHc?oc=5",
+      "published_date": "2011-11-23",
+      "source": "Zagsblog",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "The bomb drops: St. John\u2019s freshmen Sampson, Pelle, Garrett all ineligible (updated w/ quotes) - Rumble In The Garden",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYVpaM2s1bTgwelpSMDhmSzBVZ042b1oxV3RlZDQ5Yk1uNDBDOURwQmlUb2FtR1Z3UUV3TlJjd1IzUFI3VG1wdHdGdkppSXRiZk43RHpmdGFHcFotaV9RRUlReENZdUhiR0Y2WUVhbHNRWWF2VjBSUWd6QWo5ZFFvTlNEejNsMnhEWlhFR3h3MXJvcVF3LUlUbDBYd0VLRXRmNEotYlVTallsUFRLVUd4X0c5cTJLZEJGelZDd3VfZk0tTzhhTDY2cg?oc=5",
+      "published_date": "2011-09-15",
+      "source": "Rumble In The Garden",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 5,
+  "response_sha256": "413ac0cb616c4b1190e3c24b990b981108496923fb12469489792ab380b4721a",
+  "feature_eligible": false
+}

@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:04:25.007167+00:00",
+  "lane": "news",
+  "pid": "P38fd19ed26",
+  "draft_year": 2009,
+  "name": "Taj Gibson",
+  "draft_date": "2009-06-25",
+  "status": "ok",
+  "query": "\"Taj Gibson\" (draft OR scouting OR prospect OR basketball) after:2008-07-01 before:2009-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Taj+Gibson%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2008-07-01+before%3A2009-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Kobe Bryant - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBza2p5SndqbmZLb0dURFhKc2xPdldDRUJOU2hIUWthRUxIUW1pOWpOYVRjcVhGSGdQcnBKbE1Pa1RGSVlCTkJpN0U1MlBQdGxXZ01sUHJBVzI?oc=5",
+      "published_date": "2009-06-04",
+      "source": "CBS News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NCAA Tournament: USC\u2019s junior achievement - Orange County Register",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV0g2Z0toYUpKRGtwY3NRYW9wNll1ZWNLSE10X0Zsc29QNUM2NzZFOWNQSVhVdXdlaTZEbGZ4RmJSZWFMV25VZkZhUzhuZmtYSG82UjF6ektHZFU1dmtWNGU1d3VhcHBlbnQ2S09McktCQ05ReVQxc21YS3IteGJfRnQyWWM?oc=5",
+      "published_date": "2009-03-19",
+      "source": "Orange County Register",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "USC\u2019s DeRozan to take mantle of star freshman - Orange County Register",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQUhpNGphOVpTUGRtOWRZTWRYTmJLem5HZEo1X2Fad1g0ZERKdkNDbEdTNWYzSmxNSWtITWJmUXp4ZC0tYktlUmRULUx6LWJ3b3dES04zb3BKY0tJQWlFV0dBTzhnVzlycmsyUGg2bmw3X3lEcUVKUGdXbC1MY1RlU3FyZXE3VXh0VjVJ?oc=5",
+      "published_date": "2008-11-13",
+      "source": "Orange County Register",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "9366ad1831c4d787e2598051838c5143efde0bcc95fb6cec943e9686e51ac30a",
+  "feature_eligible": false
+}

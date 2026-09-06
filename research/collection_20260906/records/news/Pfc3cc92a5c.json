@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:07:07.703386+00:00",
+  "lane": "news",
+  "pid": "Pfc3cc92a5c",
+  "draft_year": 2009,
+  "name": "Garrett Temple",
+  "draft_date": "2009-06-25",
+  "status": "ok",
+  "query": "\"Garrett Temple\" (draft OR scouting OR prospect OR basketball) after:2008-07-01 before:2009-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Garrett+Temple%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2008-07-01+before%3A2009-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Basketball Holds Opening-Game Media Session - LSUsports.net",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3V3ZaeTZia0RzVTJOa2hTeXJFVE42RXpxLUZQTGFydjhTTmFtdzlFdE0zSDhEaW5kTE9HMTMzaVNpWktYcldVbFVMcmhPblRUN3lDWkF3S1Q?oc=5",
+      "published_date": "2008-11-10",
+      "source": "LSUsports.net",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "North Carolina 84-70 LSU (Mar 21, 2009) Final Score - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYW9sek9oMXdMRXJFTkdKN3d6dXBsbTlIdUlKVFBidml4VTc2d0VLMGRoOFY3T3o4c0h6S3FpRlVFNXBZQmx0alU2WDlUYl9QdEZleWRNSUVJaGpDWnFoQTVjSjZFUnhSaHZqSVFmSUstVjBLazNncmkxSk5UeXRGelNjaWFnV1J3ZjlEM0M1bEM?oc=5",
+      "published_date": "2009-03-21",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "b72a80147965a0392decf4f1ff0b5ba03dc2b8b4beb3fd7313131da1332d0f9a",
+  "feature_eligible": false
+}
