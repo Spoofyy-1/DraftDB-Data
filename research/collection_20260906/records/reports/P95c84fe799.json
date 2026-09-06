@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T12:01:44.695681+00:00",
+  "lane": "reports",
+  "pid": "P95c84fe799",
+  "draft_year": 2025,
+  "name": "Max Shulga",
+  "draft_date": "2025-06-25",
+  "status": "ok",
+  "query": "\"Max Shulga\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2024-07-01 before:2025-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Max+Shulga%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2024-07-01+before%3A2025-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA 2025 Draft Prospects | Max Shulga - nba.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45bkVNZzNaUnY3UHRvU3RPZVNCMy1FRGdydnFpVzJMTkFFMkNROHNiV1FkUnpLVW5odDRSc1VucGVGczNuSWxzWkRtRndCV0xkZ0RXM09xX3VRVldHT09qWQ?oc=5",
+      "published_date": "2025-06-10",
+      "source": "nba.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2025 NBA draft player survey: Who is most underrated? - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSlZOZVZrZHNZZGtzUTVsRFBaNVNKVUc5TlllVmRKcDJielhkaGQxLVQzeTNHMjhwUzh2WjhtQ1RPMzlwUnE0bmRKU3lHbTVxSXBueTJnSFlwbmZEeVNlWjRMOVNETGRWYXVVOEg1cnVXMDRrcTVjbFZlS0tWYVo0RldkaVdfQWR6d2FzSEVQZnh5RFAwSHlob2U1RWZSUk01WkdlNlpNWGNESVhDRHpRMHZ6d0gzeWdUZW5KbnJHbFdBWDBRNGlRUWFPWW1DOXMyTzBB?oc=5",
+      "published_date": "2025-05-28",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2025 NBA Draft Profile: Tre Johnson Thrives as a Dynamic Shotmaker - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOGRPVVlWMWJGQlRtNFlmT21lWVBlOEpmMEJ2Z3hvclZWelIxOUZfdGdub2RDX2o3ZTNLUXBzanc4RlNSbDNRNzhkdEM4azlUX1dELUc1RGpjVmhyWjFEVkRoVXRNM3FReEk1OUxJZGNTQWdxbHk0VXk4X2dsbFRvRGVJaThPQV9mRU1QcHdYOVNFN2pIUWc?oc=5",
+      "published_date": "2025-05-28",
+      "source": "NBA.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Men's NCAA basketball player rank: 2024-25 preseason top 100 - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbDl4VGpqeU5SZkFuYW5sQ19OYTJjRW52LVBvUjhveHpTZDRkY0FVV3lVV1U3bTJPbUJVRWFrVTVkWFBBcnlnNDE3azRjRXBZZzRlZlF3MHlYZjBYUTMxRTljcktVaklnSUlHNkJ4U1VOQ0FKU2NHeE9KOHJ2ZFcxNzlsZXBDLUN6ZG5TWDFNV3BfazNqeFpCV1Jqa0l4cmpEcEVYUFk4cTNuUU5vbWdTdGhWaHAyRHpNc0dELW9tOWU?oc=5",
+      "published_date": "2024-10-28",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA 2025 Draft Prospects - nba.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZMVYzMm5pNnN1Rk5LMlRxc2M1Z3pWbGxPRHBORFJ5eGFzMWhSU1Q2WGhHNDFySEMtUF9MR19GMXJwZl90czFZR2tMZWliVXcwUjZvZzdnLTN4c1ZKem42X1JTUTJJNFNUNDFVVjhjQ3c?oc=5",
+      "published_date": "2025-05-28",
+      "source": "nba.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "f4862753d6c3828bdf898a0ba60a9b7e5e2d5a0c5aaa6c4bc45929fd2dcb5728",
+  "feature_eligible": false
+}

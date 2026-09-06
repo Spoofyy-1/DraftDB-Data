@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:56:56.311154+00:00",
+  "lane": "reports",
+  "pid": "Pe6c95cf044",
+  "draft_year": 2024,
+  "name": "Malevy Leons",
+  "draft_date": "2024-06-26",
+  "status": "ok",
+  "query": "\"Malevy Leons\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2023-07-01 before:2024-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Malevy+Leons%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2023-07-01+before%3A2024-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Malevy Leons Scouting Report - edemirnba.substack.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Hcm5tbUFWQkUxTzhadXplYVFTd21nZ3JuVFNTZTZaZXFhVS1ySnBCY1g1aFY1RGNMamFsQk5zTWx6cWdqWmoyRGsycDVuN085S0FibjItbTZlbGl1cUswaHdZcV9zaUd3bDJIcHZB?oc=5",
+      "published_date": "2024-05-18",
+      "source": "edemirnba.substack.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "e11b31ac241024999f28012d9bb025cd3aa1eec2c64d206d9fd105fa0aa29e93",
+  "feature_eligible": false
+}

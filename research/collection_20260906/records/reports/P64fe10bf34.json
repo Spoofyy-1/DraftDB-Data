@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T12:00:50.588225+00:00",
+  "lane": "reports",
+  "pid": "P64fe10bf34",
+  "draft_year": 2025,
+  "name": "Myron Gardner",
+  "draft_date": "2025-06-25",
+  "status": "ok",
+  "query": "\"Myron Gardner\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2024-07-01 before:2025-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Myron+Gardner%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2024-07-01+before%3A2025-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Nikola Jovic scores 15 in season debut - FantasyPros",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTjVRTjIzU0d5V1hNY1pLMU9JNTU0a3d1Y0I5YzQzWVZ6aEVsMVkyOG44U0pKRGJQbU5EZDV0cE5YQXE2Sk1sT0gtRkpONW54ckYxZU02ZWd2LTJZeFZPVzZRNXFBNDhYNUg3VGpjWTB2QmpfZ1F6SWI0eHFJTkNPeEhYeUo2bGIyb3dn0gGQAUFVX3lxTFBnT3pJU3NBNmh6S19nLVFoVmdIM2Q2bzZ6bjZGa05yT0ZmRG9SMTlLYXFIalhlb09rRGVYcVlLT2Z3QVhCUjNsVkdxUFpYVjZmMzZtbnNES0NYREt2SUdDdjhUZ19HRVlEcEo5djB1Vm9TLTJtN29kZkU1Ulg0eVVhaTRvdUxPTVlNZ1pPOGlJUA?oc=5",
+      "published_date": "2024-10-24",
+      "source": "FantasyPros",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Giannis Antetokounmpo scores efficient 28 points Tuesday - FantasyPros",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZjFPZldVY3JicWMwSzI4ZjRHVmp6dzRPMnR3YlNBNFFKTFNGeGFXcWxDcXdwX3dZYXRBY1hYUGx5X19KdXdQblVDclBfTmJjUVo1eVRFaWcyZC1zdEFnZUl3Tl92QXV5VmNvRnJUN292UXNqQmJRZmFIVXQ3RURnQUlrQlVJWFpQbHdRSVZVYU9uUG1Td1hzUS1QTFJjUmY5RFQ1VUdTb9IBrAFBVV95cUxPOVJsalpvN3lhMTk0TDhTQjhrNGIta3dPX0lwTFF1dUtFTnhsdDFqZDluaDVGcW5XTTFzOXhSUWNxMTZlMXhic252aWYwbWloNGwtUV9pemk2cjFPWGFrZlEwZUJyNnhtZWJJaWwybGstUk1uRDVncEtZMXR1cDduaEdkRGlxQzBiSVJlREV5MkNzay0yVWtid3l6MTdIWUREWXVtcGlWWExPYjd2?oc=5",
+      "published_date": "2024-12-04",
+      "source": "FantasyPros",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "60f089c05ae861d183778944602f0da6ce036a933efc0e455b69574b7a9de14f",
+  "feature_eligible": false
+}

@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:58:51.990122+00:00",
+  "lane": "reports",
+  "pid": "P19a9559b15",
+  "draft_year": 2025,
+  "name": "Sean Pedulla",
+  "draft_date": "2025-06-25",
+  "status": "ok",
+  "query": "\"Sean Pedulla\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2024-07-01 before:2025-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Sean+Pedulla%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2024-07-01+before%3A2025-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Sean Pedulla - NBADraft.net",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zUkpEazFFeExSOW5VNlpveXNGOTZ2SEp4c2xiTHJ5UmxiSVU2SFVOMkdHb1gxY2hFR0U3REdRb21CQzFpeFJGdDVRRW5mWFJQN0hWNHFkZnplZw?oc=5",
+      "published_date": "2025-06-16",
+      "source": "NBADraft.net",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Sean Pedulla Scouting Report - edemirnba.substack.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tVGFHbjNqRUxqQVgxcm55X0N3azVKR1AwSGJLc3o3X3NzSVZHYzlNZEFtWXBxSW1kTm5lNmdLb0ZqZFIzUGZGRmRaWFhuNDVkN2JYdVAxUXI5M2JMMGlmUWRhQjBJUWJjWE01bm53?oc=5",
+      "published_date": "2025-06-20",
+      "source": "edemirnba.substack.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "In UNC basketball\u2019s matchup against Ole Miss, former ACC foe Sean Pedulla leads Rebels - Raleigh News & Observer",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13ejZFaTV1UlVfcWVPQ2VwV3lBNlowQzNKSzJmYjZSLWJNZzJhS0FxZGJ3ZDJXSi1wX1JjM1I2UF9zbUxVTVYtNGdkMlhienJ2MDBjWE1TdFVBZGg4QlAwT3ZxSmxoUExjM2tiY2tnaFpURUlDSUNBMGdfZXR6UdIBfkFVX3lxTE4tUEwxRExYNTZ2cHpkZGNDaGREMFJiOG91NVRRVWUxdWdzTGJPLWZtcGVlQ3phdmFmZ2lBVTQyd1lJOUFGenA5eHNqOXI5a0Rhb2loaHhDU3ZSamR4MVNJdmozS1hMTnB6emRpcy12RDA4dEcwVTd0b2ZtZHMzZw?oc=5",
+      "published_date": "2025-03-20",
+      "source": "Raleigh News & Observer",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "The Ultimate 2025 NCAA Tournament NBA Draft Prospect Guide - noceilingsnba.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRVURFeTZ1b0U1R2xlRVVCWkotWWdfdnZEbjNOclBweXN0OVNqRUlLQUs2SzJqelRxX1dIMXd0UGt5TklQNEctV3lNcnhGT2NKczVmMDhpUXJJQk0xMUNQVXpvWUx6SmxIWExBLTN2ZnZwTVU?oc=5",
+      "published_date": "2025-03-17",
+      "source": "noceilingsnba.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "4de242e1a342312222b40ae09ffaf2d202d1a402d4033b81e72de05a2fd9e720",
+  "feature_eligible": false
+}

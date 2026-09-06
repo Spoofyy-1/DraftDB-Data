@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:55:45.791964+00:00",
+  "lane": "reports",
+  "pid": "Pb8bba3b38a",
+  "draft_year": 2024,
+  "name": "Jaykwon Walton",
+  "draft_date": "2024-06-26",
+  "status": "ok",
+  "query": "\"Jaykwon Walton\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2023-07-01 before:2024-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Jaykwon+Walton%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2023-07-01+before%3A2024-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Memphis basketball vs. Austin Peay: Score prediction, scouting report - The Commercial Appeal",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZVJwa0xKaVU3ZVY4Z3NoR3lPS2R2ZHZTd25JODk3d3RySi1PemU1QkFQVENReHJOYnR3eDVSX3VJc3BsNnM4YW1LZ3ZaVndZMDEwbnlrcmV0Zkh5UmM1MnFtQmJSd0NFTUVpM2g0OVZCVDhKZFNvN1dDSmJKTjBCdEF3MktNZmUxOXBsUm9kSnhYQm9mVk9wQXZ3SlFwendNaE1nMXd3SGlTZXRDUkxjT1M1VmhBZkdlVWhDOV9pWk80Q0t1YWNpMElERXA4cDlHQW92aWJEZXRPN3ZLY29ZRDVIV28xZ1haMmRSa3dZNnE?oc=5",
+      "published_date": "2023-12-28",
+      "source": "The Commercial Appeal",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "8dea7c88c338c1f61920b10fa1581a552f679b98418603f15c10d5b9b2065904",
+  "feature_eligible": false
+}

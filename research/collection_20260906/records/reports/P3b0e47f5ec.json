@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:59:42.703750+00:00",
+  "lane": "reports",
+  "pid": "P3b0e47f5ec",
+  "draft_year": 2025,
+  "name": "John Poulakidas",
+  "draft_date": "2025-06-25",
+  "status": "ok",
+  "query": "\"John Poulakidas\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2024-07-01 before:2025-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22John+Poulakidas%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2024-07-01+before%3A2025-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "John Poulakidas Scouting Report - edemirnba.substack.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GM3A2VmU0VDJSSkZ0NWdqQ2JVeW8yb004WUpsSS1UVHFKNnJFX21ReXd0UmNpQ3NRaVJqdXNGaGVPYWJaWFZVZlpvdkV2STE0SGVIRnF6SGVUUVAxeTF3MV9hamV0UVdPSUpaMTJHdWN0UQ?oc=5",
+      "published_date": "2025-06-14",
+      "source": "edemirnba.substack.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2025 NBA draft big board rankings: Top 100 prospects - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVDhSZFJhOW9mVnVoOUxzMkRFRzRCMkpGY1hrQ20wQklzdDBIRTI2eGZMcVFNaWNrY2R3WDNyc09STVp1TDdCWGtGZ1hzZnl4bEdrVU5oUkFqekRWUk9JLTBxVnZaX2hKV0szNndlRnU5RF9iVkpnREVoTW1PYmhNZllIN05nWExRV0o1djV2WEFzT2hDbzVhUkRHTTZ1NmxlMXJmQzY3VQ?oc=5",
+      "published_date": "2025-06-21",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2025 NBA Mock Draft V.8 - noceilingsnba.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51cDdGUWxvS1VpQUJhQmVLYklycE9USW1jQWdCMElvdVFURWVrX3B6YU9zTkxva0R4QnhzRmxxNWVaRVB3Z0MycEhDanVLb0pmUExndlhBRGRpTzJsSXVSbl9MXzA?oc=5",
+      "published_date": "2025-06-11",
+      "source": "noceilingsnba.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Who are the Lakers targeting in the 2025 NBA Draft? - Lakers Daily",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQllNbnFpWE1GQzF5SXNsaXRyRk4tdEI5dGEwS25COHp3clQ4MVBxVHpxMlpzZHBlLUdrSkFkQlNfWG1JbXI2Nkk5ekRDS0JnSmVyTUw4TF9EcFR0c2RCTHdxM2NNemlkVmpTQ2F3MzlPbTZ3aENPdjY1MjlmdXJxZA?oc=5",
+      "published_date": "2025-06-24",
+      "source": "Lakers Daily",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "785f3baf0b1d5e83caf131e0b44ff1239537beaf4cae2d55163dc42ac9068e3f",
+  "feature_eligible": false
+}

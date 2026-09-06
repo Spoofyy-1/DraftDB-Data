@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:52:22.626475+00:00",
+  "lane": "reports",
+  "pid": "P26b4659b22",
+  "draft_year": 2024,
+  "name": "Branden Carlson",
+  "draft_date": "2024-06-26",
+  "status": "ok",
+  "query": "\"Branden Carlson\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2023-07-01 before:2024-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Branden+Carlson%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2023-07-01+before%3A2024-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft Scouting Report: Utah's Branden Carlson - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV3ZqdVRTT1J4aDk4NGNmWndiRHFQaHllelliTS1oenhiTVF6NThkMno4akFlWUhXNHVHWXRHVFpkZlZBZk5TRWJ3VkRNak5uVElBWnBoajkxTEczUFY2a2ZwSFJybDNELVZOV3UwZEtvSDdsckkzaEZXM2NIZVlhQWlzd3RKZFRZRGN2Ry02SEZkV0lPLVl3eWFreVo5WnB6QnEyblNGUURmSmp5?oc=5",
+      "published_date": "2024-06-04",
+      "source": "Sports Illustrated",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Still a Ute after five years, Branden Carlson could create problems again for Arizona Wildcats - Arizona Daily Star",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNFd0SGVYbkJMaG1ucXZsdkJfQ1FNckkyM0RNMTlfUmxjNEY2TDdnTi1nSE1TdHFtV0UyWFdrTUt5YWRXMHFFRUN6XzctTzE5V2dkam54eW9HV1ZoWlhJU29sdEZ5dGliaDNVYktIbW1xamZHRWFxY1k2RS1tYkFxUHUzQ3RmSlRja0dGM1cwbmNBX2RORXhIalY5bGhqUzI5Ui1UNmR0MGNFSlRad2N2RGttbnY?oc=5",
+      "published_date": "2024-02-07",
+      "source": "Arizona Daily Star",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Shai Gilgeous-Alexander records double-double in season opener - FantasyPros",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2MzWUtRQmMzTFo5TG8tczdhMUdZWmI5LXg1VzJmQmFTWDRGQlotek05YWZtMHlKWGZ6ZXpIeTk1RktTcnVDNVFNU054MEZBNXRmd2k2dkRFa3h6NGYyVDZzemowRVdZeGdSZkIycGlmMlRnYjJmd2xHWDJFRXozS1RtcTh1N0JlOG94VmZKeG5VbmtyMjB0OGFHTTR1Q1NLRWpHVUEwdnJZZzTSAbABQVVfeXFMTXZsYjF4S2xoeWRfSmJhLVJJVEltTmJIZTlCcjh0TkFrZUpyZVJqckpEVFlpMHlIYVRvM2RaUVVjSFVIS2dYc1k0cTE4Q1dBNlJuMDQ1eXFDQzF4TTJ6TWhKTXUtZ2x0MWNYXzVxZlVHMW9xM1BvbUlUX2FMYWs1OTJNblpoWWl0N3YtU24weEp6VTJWOXA0d0tBak13OTdmNWI3UWpaRWx1NUVmeHJESUs?oc=5",
+      "published_date": "2023-10-26",
+      "source": "FantasyPros",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "2ed8cdb1eb5793c8321c85b8e4a2d2ba4527b5486b967861485e12bf345dddc6",
+  "feature_eligible": false
+}

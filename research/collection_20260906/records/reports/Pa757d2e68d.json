@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:55:12.096244+00:00",
+  "lane": "reports",
+  "pid": "Pa757d2e68d",
+  "draft_year": 2024,
+  "name": "Jalen Cook",
+  "draft_date": "2024-06-26",
+  "status": "ok",
+  "query": "\"Jalen Cook\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2023-07-01 before:2024-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Jalen+Cook%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2023-07-01+before%3A2024-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Alabama basketball vs. LSU: Score prediction, scouting report - The Tuscaloosa News",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQclhJZjc3RGxhV0xOU0FRUVJZaVpaQ1k2Z2J6elhYNWR6MnRvOHIxeFRGSGV3TUxwUzd3UG16SlU2R0x5SVZRcTVIdk9XdDQ4eXhkcHEwVGVaV3JoNjFkVHRCT2hpU241OURESHJaTU0ycWR5eDdXT1JycnRmQ2NmYTJ1OWhsaWdoanlUOTh4OWl6YXdYSTh3dXRsX2RXRmlZS1JBeldGTWVYZWlNZnJpNUhaWjVRUEpleFc4bm9lNHhWNTg5dUZyZnN6UTA5d1E5RGgyUElxV0h3dw?oc=5",
+      "published_date": "2024-01-26",
+      "source": "The Tuscaloosa News",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Tennessee basketball vs. LSU: Score prediction, scouting report for SEC game - Knoxville News Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPLU16SW84S1BWTTg4bDUydGo5ZjMyX1BQS1pQdVlNVWlzYkQ3d0lwQ0tmRlNSVTkxSTdCTWZJUWNuMmpsa3UxWUo2cG45S1R6dGp2QmU0SHBrUV9fMTYyd0xTWk9kcm1IeVJDNEhycUc0UUNtcDZjWFJJeTRJRUpUQlBJb2s0UGxiQWh3Q2ktRF85N3lQdm40TmxWNTZfVVRaQ0JwMHY1cTc5NkREVy1IM2FZVHVOVld2OFdQclNiUno4N2NVWTdTaXFIeGZaSWFtNzZBaVZLSDUwWXdtMHRWMlFCR29WTVlkcGlhMWtpdzFxT0psT1lFdlJLdEIxMWo5elVzR21mOA?oc=5",
+      "published_date": "2024-02-06",
+      "source": "Knoxville News Sentinel",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Auburn basketball vs. Tennessee: Score prediction for game with 'championship implications' - Montgomery Advertiser",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOYzN3WEM2N2tvV0JkWThOcEEyeXZLZE1tRUVNSlBVRmhpRGpEcWE2TklrVjBmZDQtNFhfVW1DT3VKbjFOTW1nZTNPUkVWSzRtVm96ZEp0NUhHa0swWl9YMEtOWGM2U2VPMTlKbkVqT0liUkNXZ19YZWFUdmU4X3hXa0JIWkVpRi1JUzFTYll4UV9Cclp0dzA2bGF4ZTQ0bDAzT2xfb3dKR2Mwb1FHa05sQ0g2elFjU0tXdlZoWU9kUFdMNGRXSk9qLXlaOE0wbVB5cDE3cXFVRTQ0c21HdXVKVzBoRE1MM2MtT0R0Mk5NME1CcFFwWlFUWExmdW1VamlycWc?oc=5",
+      "published_date": "2024-02-27",
+      "source": "Montgomery Advertiser",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "20622cab005c77d0dbe9ce3390efb4120605f69d7e1b33abec481b358169ad65",
+  "feature_eligible": false
+}

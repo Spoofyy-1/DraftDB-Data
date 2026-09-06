@@ -1,12 +1,11 @@
 {
-  "status": "running",
-  "updated": 1788695411.8988018,
-  "attempted": 720,
-  "existing": 2543,
+  "status": "completed_or_time_limit",
+  "updated": 1788695477.8747761,
+  "attempted": 737,
+  "existing": 2560,
   "total": 2560,
-  "current": "Paf6b5cd8b6",
   "counts": {
-    "ok": 710,
+    "ok": 727,
     "empty": 10
   }
 }

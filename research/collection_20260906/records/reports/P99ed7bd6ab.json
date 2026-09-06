@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:54:48.023625+00:00",
+  "lane": "reports",
+  "pid": "P99ed7bd6ab",
+  "draft_year": 2024,
+  "name": "Alex Ducas",
+  "draft_date": "2024-06-26",
+  "status": "ok",
+  "query": "\"Alex Ducas\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2023-07-01 before:2024-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Alex+Ducas%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2023-07-01+before%3A2024-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Way-Too-Early Top 25: Who, finally, is the No. 1 team for 2023-24? - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWUhhUWFyNGtPLVR6RXVILTF0TV82azRITlVOS0VHUXlCaG1aZkR0Sk83dU5IZHpRWnN3QTB4YTBUSnFIRHZFMnh0MldEcF9KN0RUMGMyY1JUMGVzMmk1dGl5U191aHpLNmxvLTVDaUFlM2FxMmxWMGd1bU9RbERDMnM2b2xqVTNNbHMxZmx0TVZSeENkMWl0T1BNbzJ6Rk9oeDV6R2VPWlNHSmthM2tMZFoyOGRHOWNFTTk3YmJmd0tmVVE?oc=5",
+      "published_date": "2023-10-09",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "c6dc5baef3874882857bf290da93723938075814ad003deed11afaaa3d1addf5",
+  "feature_eligible": false
+}

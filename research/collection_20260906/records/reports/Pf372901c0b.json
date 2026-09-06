@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:57:26.540832+00:00",
+  "lane": "reports",
+  "pid": "Pf372901c0b",
+  "draft_year": 2024,
+  "name": "Zacharie Perrin",
+  "draft_date": "2024-06-26",
+  "status": "ok",
+  "query": "\"Zacharie Perrin\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2023-07-01 before:2024-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Zacharie+Perrin%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2023-07-01+before%3A2024-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Zacharie Perrin - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80RkZrNGVHNUctUVpGUTRGaGNBUVVEVzI5amxkbVk2ZU5CQzdEN3lhRmVIN2lEcS12TGtYQmVXQkFKVWV3dmkxYUs3V3k5cl9tY1hF?oc=5",
+      "published_date": "2023-12-08",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Miikka Muurinen - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54MmdYQlZGU3c0a0Q0X1BpLWhkT3BnNVJxMGFQbzlONnZ2M3VuUF93TnBFMmxNT1h3ZUhDTl85VmI3Q3RlWmg0UlVUb056c3NMWlNF?oc=5",
+      "published_date": "2024-04-26",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "09d6b2ebafca25abf83431ae105fd34b5c4b88ae7f813f5b14c7cb2e0d96c115",
+  "feature_eligible": false
+}

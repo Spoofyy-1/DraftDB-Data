@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:51:55.381074+00:00",
+  "lane": "reports",
+  "pid": "P1c44c138bb",
+  "draft_year": 2024,
+  "name": "Mohamed Diarra",
+  "draft_date": "2024-06-26",
+  "status": "ok",
+  "query": "\"Mohamed Diarra\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2023-07-01 before:2024-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Mohamed+Diarra%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2023-07-01+before%3A2024-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Milwaukee Bucks Draft Primer: Workouts, mock drafts & trade rumors for the 2024 NBA Draft - WTMJ",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRMWtJdUxuWVlfS0VDei1JYTdHblZaTndhdHFSbjBNRF80S3lPQ24xWUtjQnNtODRXY1duWmRmaGR4SEZzWTVhNW5ULVNOSU9fWEJrTXl3bGJXVUNubGl6eHgwX09nWkxvRUZ5VC1NcFBTUkdjRGRJTHNXeWsyZw?oc=5",
+      "published_date": "2024-06-25",
+      "source": "WTMJ",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Nuggets 2024 NBA mock draft tracker 2.0: What national experts predict Denver will do - The Denver Post",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYVZwMFlTcGNBSkZMTVRrOENfOVBJX2xEb1dDT0FyM3oybllQOE1qWHg5ZGxFRXNob2lqNUpmSGVMQ1ZEbkNrMmlVUm5JU2RmS3QwYjRwTGlkaXdndk1Cdk42XzNjYm9OTzY2RV9OZllneEJ6ajJZTmVhY25jVU1BQ1d3?oc=5",
+      "published_date": "2024-06-13",
+      "source": "The Denver Post",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Chris Bell hits 8 3s in one half as NC State botches scouting report: \u2018That\u2019s kind of outrageous\u2019 - Syracuse.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOR0FKNGdGOGd3SmNzc1pXcW93S250MUNlWWE1ZEM2VUhobXpiNWd4d0pCR2p0U3ZyYXhmVThGRDQtUjg2REJuWkx0WTVvN2daanVrYVNnZUdnU2NNWkg1ME1odDRXME9lY1JuN21wb0hidWN5RU9ZTXppbGJsdGtVc2Q1dG5wX2pfSHJTc2k3VkgzMFpwcDM3dmFacEFERnktNTA0Z1RuTVdxb3hLSHdEUkZfQTdobWlLTkp4MlN1eUV0YjhRbUxaR0ZJaGVvZFlyMmQ3NVpURG1LWU5mYlFHNlhn?oc=5",
+      "published_date": "2024-02-21",
+      "source": "Syracuse.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "a249d949f5f0560178693b9cad95ab77650f454944c25038a5a1ad073565b1a0",
+  "feature_eligible": false
+}

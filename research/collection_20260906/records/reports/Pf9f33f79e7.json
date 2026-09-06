@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:51:18.252339+00:00",
+  "lane": "reports",
+  "pid": "Pf9f33f79e7",
+  "draft_year": 2023,
+  "name": "Tristan Vukcevic",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"Tristan Vukcevic\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Tristan+Vukcevic%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Tristan Vukcevic - NBADraft.net",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91S0dvaEhIV0R4Rm9XcktWVC1TMXRCN3hXeTFub2NsWnV0MFZFX3ROUE5USXBvdklFUnlRdlhLN0NBc1h0cUI4Z2RaVG04MjB1R2ptcFZGQWdjM3hPdzM4?oc=5",
+      "published_date": "2023-06-19",
+      "source": "NBADraft.net",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Stock Up, Stock Down: How the 2023 NBA Draft Combine Changed Our Mock Draft - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUkhGcU5PUmprQXF2ZWRJSk9hS2ZuR3NkWUxRSXVQei02TDZrQzJsMENoa0pLdm1TR1ZfRUxuUy1YbktaMTFpMGlFR1lWd29uZGVqT0VyelRCdS1WMDBUMUc1MUlscFhUd3dZRzJhX1JBTU5OQjhjMEJqSTZnaXFfRE1wVVdlSkZuMzlQN1RkUXNaTTlmc3FocVpPR3RDVTY4QVJBVFEzZEdGRUVjenQ0T0haUzVVeVJ3Rnc?oc=5",
+      "published_date": "2023-05-20",
+      "source": "Bleacher Report",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bleacher Report: Final 2023 NBA Mock Draft and full 2-round predictions - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2VSUkphelpkaGJhWVkzTm5pQ0VqUVRyZjFKNGppOEM4SldKM0QtdFFxcWVCM2xTOVZpRHJPOTBEeHM3S0pMY0NRdlhRcF9iTDdBdElqU1FlRGo0M05XbWtBcDBCMUJ5RExIMFhtaGE2U1JjNDRnaU00S1UxTXpZX3dveFA2WXhPa3BwekFJSnNpa01Renc3Y1JOYWFkUQ?oc=5",
+      "published_date": "2023-06-21",
+      "source": "NBA.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "e4158d50651718c2715074677fcbb31ba86bc620a2aefe45833df626950c17ad",
+  "feature_eligible": false
+}

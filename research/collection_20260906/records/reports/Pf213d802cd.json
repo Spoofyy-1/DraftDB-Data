@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:51:08.174894+00:00",
+  "lane": "reports",
+  "pid": "Pf213d802cd",
+  "draft_year": 2023,
+  "name": "Pete Nance",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"Pete Nance\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Pete+Nance%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "UNC basketball vs. Indiana: Scouting report, score prediction for ACC/Big Ten Challenge - The Fayetteville Observer",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNE10aG14MDdQbk1vcmR5MVVkeS1vcnEzSkVqTFlZbl8zT1p1eW1mME1NMjZxc0RCVUNYNlFBd3RzYUFONTRfOE5TUDBPQ1V2WHNjWmk1VFZhRkNKSWxzRlh6Nl92eVdxdElQeG5JSWRsMHFuQzNFbGxnYWRtUnVaZV96RkdLRVpXeHdETjVRNF91MTR3M1FVNmRPYk1tQWo0b3BSNVhuYUNaVVdfTVJ2ZWRldW1scWdqaktjNTJDOEZxUUU3YW1GZWwzTHo?oc=5",
+      "published_date": "2022-11-29",
+      "source": "The Fayetteville Observer",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Scouting Ian Jackson and his fit at North Carolina - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORmUtQlRrYmNZZGpxSTk4NTI3eVB2ZnM5T2Z2T2tKX2dpMnRDbXZTd0R1OWowNGNWYmlVRnE2ekNULWJ1VG1oS3VidG9Db1p6dVlYbWZQZjVOTHRndU5lZFBtMmUzRTVOd3BlclBsTTcwZFZTdGFGakRITjF2ajFadkd5bEdONk0yZTJVTTVqck9lWVJfbk1JYmVrc09TSVFZN29MeENZbEN0ZkpWSXBNMlVmbw?oc=5",
+      "published_date": "2023-01-16",
+      "source": "247Sports",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "North Carolina basketball vs. NC State: Scouting report, score prediction for rivalry game - The Fayetteville Observer",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV2JCeUNUV3RlOWs4Zm9CeUtDYkFCWmxKcFV2eURDd0I4eW9rQnJiajN5UTBXLUxnaDd2QTd5ZGVHRVkwbHZDTm5LV2pYUU9IMlFjdVJ2bEpVUWlod1RHTUJVV18wVzdSeVBJcmFWbDI3SU04NHRjenppTDdLOFNlLXJobklEbWhueW9haWJXdTd5YnpJQ1BhdE4xbkloMXVjVTRhb0Z2OHZqNG5FNFplNHFERkNPOUIxNHE4WGlnM2FNWlRGZHM0NzA1TU1JY2ZDbkE?oc=5",
+      "published_date": "2023-02-18",
+      "source": "The Fayetteville Observer",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Drake Maye Gives Scouting Report on Older Brother & UNC Walk-On Beau Maye - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVVQxQ0xnVzgzM2E3Um1zNl9jbVJKMjB6aFVoUFNTX1hlMU50TEtGWmh6dm9UZG54WDJUYzVxSUd3Z2tlVnp0cVEwM2ljOGRTcEhnaC1FeFc0RHFxckFFTXRCM281a0FmR2N5WE5LU1ZLOXhPLUNQSXRtQUtZLVhLUDdCTDREX3pWMDhfOTRKS3FlUVliWUI0OWdWYlhsY2JRN3BGU19HVEFab1RjNnh4bnFB?oc=5",
+      "published_date": "2022-10-12",
+      "source": "247Sports",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "eded75656ed9154936eda3f096fe3187e91ab8fef0999e21fd0a338ab4027c18",
+  "feature_eligible": false
+}

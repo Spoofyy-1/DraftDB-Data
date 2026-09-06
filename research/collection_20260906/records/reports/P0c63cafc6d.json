@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T12:04:01.170854+00:00",
+  "lane": "reports",
+  "pid": "P0c63cafc6d",
+  "draft_year": 2026,
+  "name": "Bryson Tucker",
+  "draft_date": "2026-06-23",
+  "status": "ok",
+  "query": "\"Bryson Tucker\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2025-07-01 before:2026-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Bryson+Tucker%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2025-07-01+before%3A2026-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Bryson Tucker Scouting Report - edemirnba.substack.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzTmktNGxYY1JqY2VJNElrUlpyN2xMUU9kQlhOaGpmVGdaNGtYWUxxemtTaFl5SXJ0SFVUVVoxZldtRDRaQ0ROeThTS3lCVnRlbzRmNHhFam14RkxDZDNnNVMwNkJoWG8zSHB0blFXNA?oc=5",
+      "published_date": "2026-06-02",
+      "source": "edemirnba.substack.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Three additional early entry candidates withdraw from NBA Draft 2026 - nba.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTDVyYnlLcGhEb2FzaWwyUVdFN2tWdElFYzZxQUlFRUoydl9zb19OcTk0cmZDeElpWWZvcjVBUHNwbVVva1FhQUVhNVM4b1d0Y0ZKVVpMU0t1b3J5aHYxUjdtZlpNVm92NHBKSXA3U1JLaWtVRk93Z214UlJCYUpZazF6TE9VMTdfdWNNUjJvOXUyMTNPR2huaA?oc=5",
+      "published_date": "2026-06-15",
+      "source": "nba.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Michigan basketball vs. Washington: Preview, scouting report and game thread - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbG5iYzdiaFBhRWJETkVtcG9YQjUtaE1qWTlSVnUzVVEwNHRiamFZWG5LWS1NeXNVZkdDVHFJdWlIN25lc2lLYnFVSGdXeGpueFpkRmx0NW9BZWNfSnhXT0hjOGRnZXBXdTlsa1ZXd3hzbXlrX0ZyN0tJZ3NJNExtVFV2YVJrZTR6bk8xSFdteXlkclZ1dXF4MTJkQ3FadWRiU2RNNE10Z1NiY3NaZW1uV0V2OXAwTWJwSUpia2pmYUNjaHVqZXByZUZKUQ?oc=5",
+      "published_date": "2026-01-14",
+      "source": "247Sports",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Key College Basketball Injuries Ahead of Conference Tournaments - rotowire.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFptdWNBTVpXM0RWZWtCMy1PVnJ6d1ZmbWdmMS1ZSlpTYlFRajI0NzItS091dHBqOW9GbWNHVzY4OEJERDViNEloTTdVX0h2UzFYOFBUNzViSXJNcWg4dm5qSDVrS24wQTlyS0FHN2lkZi0yTkNEMHdrR29MSmM2RmZrbU5xNzdYN3NsSlk0b2hUdWc2STlfeFh0SlN1MkVmOTh2eEFoMlFPa1dq?oc=5",
+      "published_date": "2026-03-11",
+      "source": "rotowire.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "59129330a4b72c35c9ce42f35b44bd1ca47f962170646386488617614a88b116",
+  "feature_eligible": false
+}

@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:54:10.883784+00:00",
+  "lane": "reports",
+  "pid": "P75990d7854",
+  "draft_year": 2024,
+  "name": "Eric Gaines",
+  "draft_date": "2024-06-26",
+  "status": "ok",
+  "query": "\"Eric Gaines\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2023-07-01 before:2024-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Eric+Gaines%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2023-07-01+before%3A2024-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Eric Gaines Scouting Report - edemirnba.substack.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlcDRIbFJOVS0tbGNwV19mNGZ2UzlhbnFWN01UMDZTWXNWOUlwRUNxejM4eXlwWk1XVEFkc3BYdHpOR3k0Y3p6akhyS3RVZVRpUzBUWnp0MDljdndmS0NzeWlTbUJkZjFNTmNybA?oc=5",
+      "published_date": "2024-06-03",
+      "source": "edemirnba.substack.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "23d4d21a17ede83b038ffdaac902ef78025442c8e13dc93dc0e4dfad4fae266f",
+  "feature_eligible": false
+}

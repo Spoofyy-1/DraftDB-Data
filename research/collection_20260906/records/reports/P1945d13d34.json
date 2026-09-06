@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:58:48.670795+00:00",
+  "lane": "reports",
+  "pid": "P1945d13d34",
+  "draft_year": 2025,
+  "name": "Blake Hinson",
+  "draft_date": "2025-06-25",
+  "status": "ok",
+  "query": "\"Blake Hinson\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2024-07-01 before:2025-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Blake+Hinson%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2024-07-01+before%3A2025-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Blake Hinson fires back at anonymous report of Bronny James getting special treatment - On3",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa1BDQXVHekxkR1ZQYkNqdFVrVWtFUl9mVGU1bjdfMDRUcmczQndETTVXMzBqN2VpOGJiNzg5NjAyU1lRZFliREcyMnZQcWJISVliS3Y0Rmt6SVQtamY0QmRaWUVLWkFqSklJWElKTk0zcmM0bkRVNnlycTExNHEtRHZ6UlUweWUyejQxYllIZExBdFJRUHVnWVpTdHM0dHhzMVEzbDdZU3RTcWR5ZzlyN3pwcWUzZ3pSdk9aMDdfdEdQQkpW?oc=5",
+      "published_date": "2024-07-30",
+      "source": "On3",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "c685eeeab4650b5b46809fce84a9e5202f4e60d1b227e24e2424e093179f86e3",
+  "feature_eligible": false
+}

@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T12:02:57.802396+00:00",
+  "lane": "reports",
+  "pid": "Pd83ff943df",
+  "draft_year": 2025,
+  "name": "Jahmyl Telfort",
+  "draft_date": "2025-06-25",
+  "status": "ok",
+  "query": "\"Jahmyl Telfort\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2024-07-01 before:2025-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Jahmyl+Telfort%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2024-07-01+before%3A2025-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Jahmyl Telfort Scouting Report - edemirnba.substack.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yRVlDRWNRN3JxZno0aDhCZFpBQzRNUWNJZl9HVTlrcHBtd0prWUpTTTdfSHRqWERqSjJtRUkydGRjVEVDdlh2SGxkbm1OT0liOEtWSDU0ajlmcW01VW8weHNXbVJkQXNZVWllbk9WZVU?oc=5",
+      "published_date": "2025-04-12",
+      "source": "edemirnba.substack.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "What you need to know: Men\u2019s basketball vs No. 19 UConn - The Butler Collegian",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcVpFSGwzQ1MxZ1JXS1V6NUZmQU5NZzRaSk9pV1dpZDdGZEFCQk80M3JtU3prZnhxZHZ1WUlKZlI1LU5mdlc4R1p2SmpOTE96MXZOczBEY0dBc29TbFMtSzdBc1hvczZoM1dvYXZ0SFZEVjNod3FHaW5uNE1QalRQQW9vUG8tZmEtTGNrb1ptR2x3MGM5QmZB?oc=5",
+      "published_date": "2025-01-21",
+      "source": "The Butler Collegian",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "3d0ac02ff2fb1018480a8a4a2d6868e5e3bca0e88637fe38c8a3d2fdc6b8d811",
+  "feature_eligible": false
+}

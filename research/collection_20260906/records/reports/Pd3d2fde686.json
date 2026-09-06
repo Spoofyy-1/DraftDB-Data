@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T11:56:22.562732+00:00",
+  "lane": "reports",
+  "pid": "Pd3d2fde686",
+  "draft_year": 2024,
+  "name": "Isaiah Crawford",
+  "draft_date": "2024-06-26",
+  "status": "ok",
+  "query": "\"Isaiah Crawford\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2023-07-01 before:2024-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Isaiah+Crawford%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2023-07-01+before%3A2024-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft Scouting Report: Louisiana Tech's Isaiah Crawford - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRzZScXo5eGJVWFlUN0JNWUpYZk1BQmFxQzNhUkRXLU1feTFQZkRMUzRJandUczQ0cWxHLWxHMkU3dVpIS2VfUjRnSHdTNWwySzgtZHZqWVpicWgxd3dkVHZ3NVpJWWF3YmI2djdWaWJHRmNyNlNKYXE0ZW8tYldqUERJSG4zMGhaSGttX2JtazRyM0hzQTdlWWszNWhTbG53NTFjX2hWQQ?oc=5",
+      "published_date": "2024-03-16",
+      "source": "Sports Illustrated",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Isaiah Crawford Scouting Report - edemirnba.substack.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pT2thbUpnUWl3N25XNjBCNW9POUFyd0ZyeEc3R1E3SjltMWU3NVZxNVJDUUtiM0syOFlnQzdPTEhoMHFxY1Rrbk13MGVVX290UjFyR3g1WHJrU0lnRGhueXdDcW9wWnU1aEh6ajBGZFFIUQ?oc=5",
+      "published_date": "2024-03-25",
+      "source": "edemirnba.substack.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2024 NBA Draft Big Board 4.0 - edemirnba.substack.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lRGpJRlpmUFU3aE10S202YmpVanI5LThMeHUtalhyLVVIZkh5WUg4dXdQR3ZvVjdCM2hPeDIyc0lhZmt1MUxrQnE4ajR1YTFuXzhBVzBCOHpVdG12LS0tcG14RmdZY1UtdDZGZw?oc=5",
+      "published_date": "2024-06-13",
+      "source": "edemirnba.substack.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Isaiah Crawford | Abilene Christian Wildcats | DL - SportsGrid",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJbGVZS3ZHeExEdlFPR0pGOEtFY0lKVmZtamlObXdNODBVXzlHeXg1ZTlVS3FHQ183ZFhpS0MyNHRGYUhjQ1F1eDc3NFJIenQ4cFhKenVzUnFOWFBxU09SMmJKaWZNUEhzSTZPbg?oc=5",
+      "published_date": "2024-03-16",
+      "source": "SportsGrid",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Scouting Live\u2019s 2024 NBA Mock Draft - NBA Scouting Live",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pbkc3cUZtcU5JRzdBNEJuN3dsZ1hMSjFHdHVIM0htNVZ4VGNzd2l0dUtZWnZvOHhyM0V6QjFJVGtGU3kyYUk1ZHVjTEJJa184cGVaOTBfeWpydnFmT3haZ2xfSG5OZVNrWUJ5eDREVzRxeEc2dHB1NU5hZw?oc=5",
+      "published_date": "2024-06-23",
+      "source": "NBA Scouting Live",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "34ecc44f7258bf31fd114f11807f45379248d461aeaa4f8f61d491f49ac310ac",
+  "feature_eligible": false
+}

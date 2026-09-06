@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T12:02:54.495916+00:00",
+  "lane": "reports",
+  "pid": "Pd559eb82c1",
+  "draft_year": 2025,
+  "name": "Andersson Garcia",
+  "draft_date": "2025-06-25",
+  "status": "ok",
+  "query": "\"Andersson Garcia\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2024-07-01 before:2025-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Andersson+Garcia%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2024-07-01+before%3A2025-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "The Ultimate 2025 NCAA Tournament NBA Draft Prospect Guide - noceilingsnba.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRVURFeTZ1b0U1R2xlRVVCWkotWWdfdnZEbjNOclBweXN0OVNqRUlLQUs2SzJqelRxX1dIMXd0UGt5TklQNEctV3lNcnhGT2NKczVmMDhpUXJJQk0xMUNQVXpvWUx6SmxIWExBLTN2ZnZwTVU?oc=5",
+      "published_date": "2025-03-17",
+      "source": "noceilingsnba.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft Scouting Report: Kentucky's Andrew Carr - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVjB0MHA4cUducm1Tc19ZZ0RuT25JWWJ4QXN6aG5aZnZBLWZKajJmZFZjQVpNMkJ1N0YwX1NBZXJTOUZGa3YxbGJnRnRCN0ZmYlNMXy01VUY1eVZJSURPelp6THV2MlZlRGtnMGVKUkt5R3F5SGRMdlRRcWRsWUJwR25hSjFVejViQVA2WmE4UGRWa0lsbDlLYg?oc=5",
+      "published_date": "2025-02-16",
+      "source": "Sports Illustrated",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Scouting report: What to know about Texas A&M ahead of matchup with Auburn basketball - AL.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSXNmODVXVnBOLS1KWjVOemFweElqV2tvSjRFcGNEYm1IMExmTXFYMk5TdjVFRFc2ZV80Mm1YWGpjdXZ0U3Q5WTJWVDlOSnFNd3NvWFVxc0tacnZTV3dDcVhTaWRjZnhHQUtKeDlUZVNxWUlqbEZsTU1lTDcyZGpnVjFLaEM1ODNodnpYYk1WMHlzUnN5T3pGTVVkOWtaekxyMk5nellNc1RwRGp0dTAyR056V1U2VGpCVTdaT3dFOVVkMjNTaW4wSlBqYkE?oc=5",
+      "published_date": "2025-03-04",
+      "source": "AL.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Mock drafts point to Spurs selecting Dylan Harper with No. 2 overall pick - San Antonio Express-News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcjhJaHhVVVdfS0Z0WW00QjhVMWhwaTlNLUNRSXZPREg4QVZWWkZfQ1EzVXkwRmo4MzE4NGFhMWxEQll2al9WSTQ0OEcwVzBZRURNQ3hYWEJLc1I2VWM2ZGZVeHdsRzMtTHVTN2FtTmhGRGlUTW5kWjJ4RUUyVW80cHdLMHBNVkREdm8weTc4MThUaUNENjFqMHhJSmhtUQ?oc=5",
+      "published_date": "2025-06-21",
+      "source": "San Antonio Express-News",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "fc91b75e5bf52da28401dabb5827ff84eae5e76d58c65ec9bb822d45609fcc65",
+  "feature_eligible": false
+}

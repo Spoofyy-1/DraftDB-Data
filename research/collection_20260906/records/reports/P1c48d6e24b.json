@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:51:58.757956+00:00",
+  "lane": "reports",
+  "pid": "P1c48d6e24b",
+  "draft_year": 2024,
+  "name": "RayJ Dennis",
+  "draft_date": "2024-06-26",
+  "status": "ok",
+  "query": "\"RayJ Dennis\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2023-07-01 before:2024-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22RayJ+Dennis%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2023-07-01+before%3A2024-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2024 NBA Mock Draft: Hawks take Alex Sarr with top pick; Donovan Clingan to Rockets - FOX Sports",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYWNLc3VDVUNQRlZPZVVxVUYxNXVVcml5bTdvM19weXZ2SThaY2d4ajBFYmNocENBd3VzemJMVm9qQURNZ1FLYW1tejU5eHo0LVhoeElRWmlXbjFBSW5qdnlMNkhiVDltLTlwYkVtQXNsTXAtNVdPNFEzaW9GN0RmMERCV0VFNGJmeC1LLW9hR2ctcVQ5LXA3YU9mVkplcmFUakd3cHl3endsUzhfTkxYVHpoNUHSAbQBQVVfeXFMT3Y1M0tlSkpKWmw1TFd5RHY1UEh5T051Mm5aUEY2cDlwTjNwN0MyekdyaDhQQkJwLU5GeGNJS2lpdUNNUUNLT1RHVUR5VWZLOHRtREpGQmhKNVZ6dmNkWEgzWW1VN3BQUFpvWllRNFVZMXlDVkpVMTFSTVgyV2xpSlhTWUlnUWxVZUVPa0MwUWxvSG1jQ0FVSzVyS1ZVb1JfUS1YWm10OVhCSkNFRloweVJmT0NE?oc=5",
+      "published_date": "2024-05-16",
+      "source": "FOX Sports",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Scouting VJ Edgecombe and his fit at Baylor - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWV9xdTRfQ1Y0NlBwMGUxalpaVmhIVlFyUHJQb1JDWVMzdFNvNUhOQ0xLZ2VEVWtmbnJJWklkck5vVjBwamJkY2tSdTEtTkFjNHhGaUlGRmIyTXY1c1E5cUNkOHdSRlFpTWdMOWJDN3RPSC1Mamw5dEplS2dhYnFQX2l3NFRVLUVwOUpoT3RvRm53Uk5ZZUJZMlJieEx5cVNZY0FabjJVVXdEQQ?oc=5",
+      "published_date": "2024-01-14",
+      "source": "247Sports",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "54ac305e868249f7b6ab19dd6fb37e292d4d0095441e80f7aa32eb0b3b69e302",
+  "feature_eligible": false
+}

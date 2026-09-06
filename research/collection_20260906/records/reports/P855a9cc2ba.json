@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T12:01:28.238116+00:00",
+  "lane": "reports",
+  "pid": "P855a9cc2ba",
+  "draft_year": 2025,
+  "name": "Brooks Barnhizer",
+  "draft_date": "2025-06-25",
+  "status": "ok",
+  "query": "\"Brooks Barnhizer\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2024-07-01 before:2025-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Brooks+Barnhizer%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2024-07-01+before%3A2025-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Brooks Barnhizer Scouting Report - edemirnba.substack.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aYWJzMmJVblFQTUJmM2dLTDJlNTNUWmxXX1ZqY1AzMG95RmJPc2g4VHd6cC1sdmRKVGpQZldzbU1pNkE3YTZaQ01Tb0U5aFh1WnR6SHJuTGxheGxCUmhiN3pJd1QyYU5hOWJWYld0Z2NRLTA?oc=5",
+      "published_date": "2025-01-25",
+      "source": "edemirnba.substack.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2025 NBA draft big board rankings: Top 100 prospects - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVDhSZFJhOW9mVnVoOUxzMkRFRzRCMkpGY1hrQ20wQklzdDBIRTI2eGZMcVFNaWNrY2R3WDNyc09STVp1TDdCWGtGZ1hzZnl4bEdrVU5oUkFqekRWUk9JLTBxVnZaX2hKV0szNndlRnU5RF9iVkpnREVoTW1PYmhNZllIN05nWExRV0o1djV2WEFzT2hDbzVhUkRHTTZ1NmxlMXJmQzY3VQ?oc=5",
+      "published_date": "2025-06-21",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA 2025 Draft Prospects - nba.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IbWRYd3p0QjlZSUpyRHJFbGNuTG5BaUpMc3VSOW5aREV6Vl95TzdxTEV2TFhrNW05ckhRa29OdnRNekYyNDlLbVRxWTd3ek5uZG00ZjAyVnFMY1I0Nk1SenhuSHFQcVpXZklCcy1HYUtmX0RDb0RiY2l2dw?oc=5",
+      "published_date": "2025-05-28",
+      "source": "nba.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Shai Gilgeous-Alexander leads team in scoring Thursday - FantasyPros",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdnVkYlVGaktYNE5qSUxnWWh1R3dlOGdDMVBVNGJXRmYyc2NtbmlJeGMxYklHb2x6dEtENFBMbGc0dUtPSnR3bWhUZm1xZWlZZklwVjJtLU0xWmdRRlc5U3daUmE3Q21IMkRQMkJJOXduRjU5dW51OXgtcjRNMXgwQzU2ODIwRW1UeG1MclRZbEhJcXF1N21XTVhXMGwwQ1Np0gGmAUFVX3lxTE5jUzZlNXBIQ2xVVjh3TGZUWGFyWjJwZ2ZLUWVJVEpjMXVlVWctanNPakphX3lITHppX054WXVLeXNBaVVyTVREUmNReS1SSU9GdWR3cGJMYmxuUnNzeTl6M0s0T2k0MHptQmFtd09kRm84ZDU0M1hIOWR6LWpmN1pLSTNVUjRZVlRZQVo0TVg3M2ZCR29YNDlFQ3VrSWNrbUtRN191RkE?oc=5",
+      "published_date": "2024-10-25",
+      "source": "FantasyPros",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 3,
+  "response_sha256": "8c6397a12f66df8802b7a7c7e1e5ee79f7a424ec64a799323db37f2652d1973d",
+  "feature_eligible": false
+}

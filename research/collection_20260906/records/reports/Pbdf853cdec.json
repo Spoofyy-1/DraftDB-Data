@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:55:52.547155+00:00",
+  "lane": "reports",
+  "pid": "Pbdf853cdec",
+  "draft_year": 2024,
+  "name": "Quincy Olivari",
+  "draft_date": "2024-06-26",
+  "status": "ok",
+  "query": "\"Quincy Olivari\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2023-07-01 before:2024-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Quincy+Olivari%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2023-07-01+before%3A2024-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "'He is one of a kind.' Xavier's Quincy Olivari is St. Mary School student's special guest - Cincinnati Enquirer",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPckJrRWRIZFJtYlBWWkN3RzR0SVRxbm9sSUVQSWQ0UWpsNTA0SUhOaFhHODNRYm1zUi1WZjh0bzdzODRzX244Q3hZcDlVcmloQUZBVndaZXVoQ1YzTDRLTUlpalNPeUVVSkl6WVJWbU14NElrU1diWXFueTNTZko3czFpZk9MY3AxcElrSzBrS0RYbUpsMTR5VGpZTGptcDhxaUgtNFJQTEFHbFFlS3U1SXlzWF9KNE5sUUx6Qll2Qk9UekFVaW5ZazliZzVXUjR0d2RRV0pSdHhGenQ4bi1yNg?oc=5",
+      "published_date": "2024-01-30",
+      "source": "Cincinnati Enquirer",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "6b72e5068765633dde0fc54fd54d25e131b2f203d1b6239b605ede4bcffed4e5",
+  "feature_eligible": false
+}

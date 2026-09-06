@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:54:21.044774+00:00",
+  "lane": "reports",
+  "pid": "P7f11916058",
+  "draft_year": 2024,
+  "name": "Yuki Kawamura",
+  "draft_date": "2024-06-26",
+  "status": "ok",
+  "query": "\"Yuki Kawamura\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2023-07-01 before:2024-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Yuki+Kawamura%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2023-07-01+before%3A2024-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Who is Yuki Kawamura, the Japanese talent not picked in the 2023 NBA Draft? - sportskeeda.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMGVNeVlmRFVLUVdwb2syMWFOZ0t5cDVjSlRSVG9Ib2dXZWFxRjk1SzIwdDdlbVQyc1VpTVBpUnEzVmdrTE5OYmNIdkJQLWpwWjdvOG5oanhYS01pQUlUUjBXbEZ4bnhYY1VJblZiYlEwa0hDOWQwZkFWY3BxYmFJek1OVWpSdERuWU9GYnVPdkw3MnZCZGd1NTZ0dHViNk16YWxwd2c4azVnd3FkNXFCVg?oc=5",
+      "published_date": "2023-08-31",
+      "source": "sportskeeda.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "295b7e81a90877a945180823137d322195d4e0ab1d1c6855920ad2b333fb0f8b",
+  "feature_eligible": false
+}

@@ -10,15 +10,14 @@
     }
   },
   "reports": {
-    "status": "running",
-    "updated": 1788695406.652292,
-    "attempted": 744,
-    "existing": 2257,
+    "status": "completed_or_time_limit",
+    "updated": 1788696438.897918,
+    "attempted": 1047,
+    "existing": 2560,
     "total": 2560,
-    "current": "Pbcdd20a9f9",
     "counts": {
-      "empty": 276,
-      "ok": 468
+      "empty": 320,
+      "ok": 727
     }
   },
   "scouting": {
@@ -32,14 +31,13 @@
     }
   },
   "news": {
-    "status": "running",
-    "updated": 1788695404.4114308,
-    "attempted": 718,
-    "existing": 2541,
+    "status": "completed_or_time_limit",
+    "updated": 1788695477.8747761,
+    "attempted": 737,
+    "existing": 2560,
     "total": 2560,
-    "current": "Paae5adeebf",
     "counts": {
-      "ok": 708,
+      "ok": 727,
       "empty": 10
     }
   },

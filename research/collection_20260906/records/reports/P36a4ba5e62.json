@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T11:52:49.653803+00:00",
+  "lane": "reports",
+  "pid": "P36a4ba5e62",
+  "draft_year": 2024,
+  "name": "Mark Armstrong",
+  "draft_date": "2024-06-26",
+  "status": "empty",
+  "query": "\"Mark Armstrong\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2023-07-01 before:2024-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Mark+Armstrong%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2023-07-01+before%3A2024-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "bd72aa1897bbb1502b6b929b81176b1f9314a8e0d6444e58cebb6c3bca97908b",
+  "feature_eligible": false
+}

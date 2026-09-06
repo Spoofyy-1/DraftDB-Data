@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T12:01:41.474168+00:00",
+  "lane": "reports",
+  "pid": "P9436ca936e",
+  "draft_year": 2025,
+  "name": "Ethan Thompson",
+  "draft_date": "2025-06-25",
+  "status": "empty",
+  "query": "\"Ethan Thompson\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2024-07-01 before:2025-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Ethan+Thompson%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2024-07-01+before%3A2025-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "c9b4c597403ebf7a81b96e4ddd5d0ed0ecdd0842918db534927bd156db559894",
+  "feature_eligible": false
+}

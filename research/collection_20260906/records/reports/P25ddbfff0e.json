@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:59:12.655211+00:00",
+  "lane": "reports",
+  "pid": "P25ddbfff0e",
+  "draft_year": 2025,
+  "name": "Chris Youngblood",
+  "draft_date": "2025-06-25",
+  "status": "ok",
+  "query": "\"Chris Youngblood\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2024-07-01 before:2025-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Chris+Youngblood%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2024-07-01+before%3A2025-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Where Alabama Players Land in NBA Mock Drafts - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUGVTMzBBSUVVRS1ZUUN1amtjc2FncWJNQjJIUUV0enZoUWdHNmZNYk9GS2JzVU9SVlhOSnZRU1VQSHhDTllHZDdzV09RS0lXaG1fd3lQa1MwZmFqVmFDNW1aZ0VKYm44NzNCOU44MnlOa3dtV0JwYzlVMlU1RUlzQjd2dHdOU2s4aG1LakxYb2J5UQ?oc=5",
+      "published_date": "2025-06-24",
+      "source": "Sports Illustrated",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2025 NBA mock draft: Cooper Flagg leads strong group of prospects. But is it a \u2018superclass\u2019? - The Athletic - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMzRueWItUUhRb1BCRXZ4ZWVGaHdmTnlZZi1jOVFXNE1IVHNxdmhoTnZYMW8xeDNmb1RDYmlEV3lwWTdFRHlyS1JBaVp6QzF0d3Zqek5RMU1naWpORXZzNDFTS3ZqLUwxQ0ItZ0ZoekdIMFZ5c1Z0VUkySUFic3kxb0M3UzBjbG9rUTlxYzVRZm5oTTNnaEludWZua0VtTXFXQ1JQQmJxZw?oc=5",
+      "published_date": "2024-12-03",
+      "source": "The New York Times",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Alabama basketball's Labaron Philon talks decision to stay with Tide or declare for NBA Draft - The Tuscaloosa News",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcVBObmF1b3ZybWR1T21IT1RlV1E3MUp5bmxudkZOWlBBRkwxNk45US1NeFEwQ2VZOXNScjc0MklpOUZJcGhwWEZ0ZGV0TkNKSjRFR3NwWmQ4dHpJUi1Bcm5TQnViZlNnNTduTE8tOXhlSXRPbnNaMXNNdDVsUnhhci1SWFdCOE53WWhKMm5fV1NfcXdjOHlMN2dVYm5iVVVpLU5LYi1GU1JJZVE4aktTSGlZeFFjaDF5VEpfRkwyX2VXeDYtVWFtQjZsZm42T20yZng5WTN1aU5QekVVb3Bfc0RhNThoeUlzLWQ4WHRfRDctMlpFTzRrVEMwZWhNZw?oc=5",
+      "published_date": "2025-03-28",
+      "source": "The Tuscaloosa News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "f072a9997f3fe28e93777e1b05b1a42dacbc9a7efd5001dd09d229e44bfc2155",
+  "feature_eligible": false
+}

@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:50:16.507362+00:00",
+  "lane": "reports",
+  "pid": "Pc451072a63",
+  "draft_year": 2023,
+  "name": "D'Moi Hodge",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"D'Moi Hodge\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22D%27Moi+Hodge%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft Scouting Report: Missouri's D'Moi Hodge - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdmFQdWFpNUtzMVFnVGRrMVRZSGw3N2owOEVsM3lKNWhuVHUtbnJQamQydFlyZElzR19ibjV6cC1fYUl5Z3d5cm5vR1JqLWlfeGFIaWFtY0IybzAwRUQtb3hFYy02ZHE2VDNwWlFkT0ZsTlhSSXU1MGlidEdrWHlRTjRNanp3NXNoNFBud2ZqXy1XWnRvQUphQw?oc=5",
+      "published_date": "2023-06-03",
+      "source": "Sports Illustrated",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "D\u2019Moi Hodge - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE54Y1BhNUhTNEhSREcwMkJwRzFNSXpRTnRoM2ZoTHNQMmx5aWVqb0d2RTVTMTVCeHhiX2JlSjBtSGM4TGVPMTh3MmtwbGM?oc=5",
+      "published_date": "2023-03-17",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "4375dc7733e325abce1aad5780122d0cb02ba8b9858b1bde9b4f331ab77c074b",
+  "feature_eligible": false
+}

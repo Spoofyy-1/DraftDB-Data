@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:50:20.595746+00:00",
+  "lane": "reports",
+  "pid": "Pc4ba85a58f",
+  "draft_year": 2023,
+  "name": "Jalen Pickett",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"Jalen Pickett\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Jalen+Pickett%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA 2023 Draft Prospects | Jalen Pickett - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBuMXVGajhwbFRfYldhVlYzc0xIUHctUVhaRVR6MkhkY0ZHYmJzRzBLbzNtdGlvQWI3aTJEZjdsMU41QjFYUmNkSXQ5TTZTbEszOU1EejRwV3N1Rnc0NkRuQnBNUTg?oc=5",
+      "published_date": "2023-06-09",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA mock draft 2023: Penn State\u2019s Seth Lundy goes in second round in one projection - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSnNZQ0I4bWgwNzdfSUFacE00RjZBMVNwWE4tMWJFS1NaMEt5SmplVGNiZEVOUloyTUhPRjdHRm1OM25FaDJFWXVyQnJreVZzQlpvbWhGOVBCbDhmSEhKdkVrSi1DTTRFNGJfcWdCLWl6Uk0wNVFLLVpPejVMLU1uNXZPYVBVWFc0R2ZDUWpRaGp2SEszWnBiOHhOMFAyYXNjdzFpbHlzVW1sVl9INmNJUFFPZE03cVpWVUxZOXhka3FVZw?oc=5",
+      "published_date": "2023-05-31",
+      "source": "247Sports",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bleacher Report: Final 2023 NBA Mock Draft and full 2-round predictions - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2VSUkphelpkaGJhWVkzTm5pQ0VqUVRyZjFKNGppOEM4SldKM0QtdFFxcWVCM2xTOVZpRHJPOTBEeHM3S0pMY0NRdlhRcF9iTDdBdElqU1FlRGo0M05XbWtBcDBCMUJ5RExIMFhtaGE2U1JjNDRnaU00S1UxTXpZX3dveFA2WXhPa3BwekFJSnNpa01Renc3Y1JOYWFkUQ?oc=5",
+      "published_date": "2023-06-21",
+      "source": "NBA.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "B/R's Final 2023 NBA Mock Draft: Full 2-Round Predictions - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZUxsWmZVY3B1d3NyVDRYTENxdGhhTmVNYTdSWUs5R21iakRHS2JvSVRCVkxUbzNEU09DUDdyazlnYjJ6WlljZ1Y3WGhsQkd1NzVxZGdqRFo2YmI2S2Z2R0g3VUlWQnlJZHNkbVNxZUVXM0ZJajcyblNMMHV2YXVlc01yVVlNUnZ3dmFkbWt3UHlrTms2MVNQcWRsQTdaaE5G?oc=5",
+      "published_date": "2023-06-21",
+      "source": "Bleacher Report",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "e96d27133bd00e3ac1dfa928caabdc5fe4e0f536a849da10e00007a52a094467",
+  "feature_eligible": false
+}

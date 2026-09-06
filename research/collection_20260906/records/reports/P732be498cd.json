@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:54:00.626272+00:00",
+  "lane": "reports",
+  "pid": "P732be498cd",
+  "draft_year": 2024,
+  "name": "Daniss Jenkins",
+  "draft_date": "2024-06-26",
+  "status": "ok",
+  "query": "\"Daniss Jenkins\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2023-07-01 before:2024-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Daniss+Jenkins%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2023-07-01+before%3A2024-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Daniss Jenkins Scouting Report - edemirnba.substack.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPM0txSHpGbE5tU0JPRmtDRzRMbk8wcWY4Q1Y2WkhOUG9sMVE2a1lCNGtnNFZxeUVsdzFvRy1TaHNnNFpBcTRLVDZmZzUwNFVXOWZ3RGRJdUVaWWZtODBTYVNqZXY4TU1obWdxSTJ6U1k?oc=5",
+      "published_date": "2024-06-25",
+      "source": "edemirnba.substack.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Daniss Jenkins can taste NCAA bid, but he wants more than a ticket to the big dance - Rumble In The Garden",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMUsyV0hKOXJkazZMOFQyY0FHSU5pUXk3LVNCMWdPQ3BSekl3dkZRRmR3bWZFYks1SmM0anFHUG5IY1NkcDFkOE5QMG5yQ2VuWk54LUJzaVBwTk5TT1RMd3NMTEhnTUdzUE5fQ3dBMGpMOFhFTndKWkJrTWE0NDBEaDk1eVJ2QUVJcC1KX2hEQkttSGI2WXNfZk5QVzJUNW1TWmV1ZmNuRVVzY0xyYnl6d1UtYWw1a0ZlSUp2Nkk5NGM2OUlILWpmTkdKVXFvS1U?oc=5",
+      "published_date": "2024-03-08",
+      "source": "Rumble In The Garden",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "52c0a91a6d3814c7bdf2c1d0ff4c5cc9411cd6ebdf928dc4a800153a1763031e",
+  "feature_eligible": false
+}

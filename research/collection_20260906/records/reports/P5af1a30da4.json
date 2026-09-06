@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T12:00:33.424353+00:00",
+  "lane": "reports",
+  "pid": "P5af1a30da4",
+  "draft_year": 2025,
+  "name": "CJ Huntley",
+  "draft_date": "2025-06-25",
+  "status": "ok",
+  "query": "\"CJ Huntley\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2024-07-01 before:2025-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22CJ+Huntley%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2024-07-01+before%3A2025-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "The 2025 Portsmouth Invitational Tournament Preview - noceilingsnba.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtUXhVZzBrNThaWllVRHBfLXdQVXR2UlNZWjl2bEZqejhEaW0yZk5WSTVSNEJneEttelcwRUJqZDN4VDZRaWJHQkV5ZVhyUjM3OEd1eXFXUEVfRUwxMHVxRlo2ZldiM1RSRHBQT0hQTVo3dw?oc=5",
+      "published_date": "2025-04-16",
+      "source": "noceilingsnba.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "e3252ee5ebf9f6fe77a1139d3c4dc4ed34ef76a8e5c56ddab8cd8fd7f47f87cc",
+  "feature_eligible": false
+}

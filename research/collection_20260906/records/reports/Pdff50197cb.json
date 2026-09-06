@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:56:42.979407+00:00",
+  "lane": "reports",
+  "pid": "Pdff50197cb",
+  "draft_year": 2024,
+  "name": "Riley Minix",
+  "draft_date": "2024-06-26",
+  "status": "ok",
+  "query": "\"Riley Minix\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2023-07-01 before:2024-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Riley+Minix%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2023-07-01+before%3A2024-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft Scouting Report: Morehead State's Riley Minix - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZW1DWExEZXpnLXpOSGF6MURTeVdxVkNOUDRBT3luRFlWSVZ1RmktMk1GalYxTk90Y2xaNUtFZEVyOEduVE5PU0tKS09CVW1zUThFOTZuNjhrTFp5OVNDTVFGRTZFTWJzQzRFdTUwNFF0UjJxWXRkQUwzRkpLelVTZThVUzFia1VZeFJKcVdxOVU1Wk5XMmp6NWktX25iZUVTZjhhdHlBRzl0bldSLVRLVTVwQ0Q?oc=5",
+      "published_date": "2024-06-03",
+      "source": "Sports Illustrated",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "e6b091730dd72586f290758036e7d4bce4a3c4e88fecc57df245a05a1d04ad66",
+  "feature_eligible": false
+}

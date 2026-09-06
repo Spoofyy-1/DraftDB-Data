@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:51:14.899252+00:00",
+  "lane": "reports",
+  "pid": "Pf92c037d4b",
+  "draft_year": 2023,
+  "name": "Markquis Nowell",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"Markquis Nowell\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Markquis+Nowell%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Markquis Nowell out to again prove his height isn\u2019t issue as NBA draft nears - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdXNkRGlnMm5MVzQtNDZRYUJ0dW1MMXV5Z0k4cXJIbUZsQXZlZ0M5bncwN3ZDeU9BZTlrU213ZDlvUFE3TW81aDRuOVJRODdQeFBJRVNTVG11Y1hiR0JJdVFxOHM0djlQYktIOWxNb1VwMS1sRGYtUFNuZm5sUG9ORFlibHFFLVN6bF9NU0tvenlrdC1feFE?oc=5",
+      "published_date": "2023-06-20",
+      "source": "New York Post",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft Scouting Report: Houston's LJ Cryer - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM0RlamIyajBpNWVRdDZYcTE0NEJWOS14bnluVXpuNmxlWnBXcElfSnZmYXdvelpuNVZ0eU1RclNNeFJlRm9VTmlCWnhNOHF0T0dZRDdCRzhQeGlrWTZjZW1EUVNMeWNmdlNGRTRWX3d3dUszZW5ncVpqRGxiYndIaGpEUHV1MS1yQjlydU8yd0dWOFFu?oc=5",
+      "published_date": "2023-05-07",
+      "source": "Sports Illustrated",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Markquis Nowell 'not really focused' on Michigan State's success against star point guards - On3",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMHJ6MGVxdmlrQU9tN25UaFUtV21SNE8zbXZ1eVZlSGcySUEwNHVjandLOU04VDdZRjVuUWhkeUVrSjllMU5uVGpKLVIycWZYai0xZXZ1NTBheHhvdWxrQkF6REpJY3lZaWtabEM5RmtmOEF6aXRURmQzdWlqdklnVTQzc2FRNjZyanVTblNMYnNVLWtGS1JFRnc4ajJOVDZqUF92SHBzZFRpbWRyQ3RzSA?oc=5",
+      "published_date": "2023-03-23",
+      "source": "On3",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "ccaed90692cd429ba8e6dc1ce14bd761c048a079b7ba1f2f7b927a526c8cbed5",
+  "feature_eligible": false
+}

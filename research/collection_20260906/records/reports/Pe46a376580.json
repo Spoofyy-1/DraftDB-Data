@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:50:47.847159+00:00",
+  "lane": "reports",
+  "pid": "Pe46a376580",
+  "draft_year": 2023,
+  "name": "Hunter Tyson",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"Hunter Tyson\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Hunter+Tyson%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA 2023 Draft Prospects | Hunter Tyson - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVSVEzSUdKZGJZYVBQNWcwSnZ4UkRsR0NVVkp1bzg2bmNsSHJmX0ZQcjZvWmN1UFRuTjFHam9zMWNKejhMdGk3SEFBVkc4NnhmSHhyQ25Xc1pjZFQ4Z2k2NU16OA?oc=5",
+      "published_date": "2023-06-05",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft Scouting Report: Clemson's Hunter Tyson - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaWhfVWdyN0NMMUhYWmRnaVRyWWRmLXVJdWlSN2ExM2ZFdGU2bWZObTVaRDJyUWM2cmFPSXRqa2RYM2ZGVHpFOGtWWEtkdE9kSjczbW1UVWlOYklFOUxKbG9DenNSZVZtQmU5bVZFQnRyRkdSLXJvV2ZrUjJoQkNERHJRMmI4MV9weHNZSTY0UTJlV3NocktqTHJn?oc=5",
+      "published_date": "2023-06-04",
+      "source": "Sports Illustrated",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "UNC basketball vs. Miami: Scouting report, score prediction as Tar Heels face Hurricanes - The Fayetteville Observer",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOelRUMnRmVDhiYXZZSVZxdWphSVhGRmt0dmp1RlNCUGl4MEJ4SzlrZGxsd1BOYWI2cnhjMTNoWHVkbUM2VVBuc3BvMFkzODlxWm9sYzBlSy1oSkNTRDZ4dDhsb1ZjV2htdGs5M0hDV2tHV2NxUmdJeVlUQXlGSkNXdU1OR0R3azh6aUJEZHpsZVdaWl9vRlVHU3d0cUQwenBKdF82eW9ISTJmSVhxYmpOaWlUVTAwRGhCaTc1bFROWEU0NHBGLVB3X1RacEs0dw?oc=5",
+      "published_date": "2023-02-12",
+      "source": "The Fayetteville Observer",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Noah Clowney - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zbEZMNzVRdC1WUEphb1k2SEVkS09keDlwS1VDQ0pHZHdIY2FpNUtLczZXSkxRQzJVeE92ZTQxU0o4SzRMRjFLZjBSakQ5Qlk?oc=5",
+      "published_date": "2022-12-06",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "ee85da5470d4950a72568d8753513d6742c92ee97021ef0a8a5a301bd9b6a548",
+  "feature_eligible": false
+}

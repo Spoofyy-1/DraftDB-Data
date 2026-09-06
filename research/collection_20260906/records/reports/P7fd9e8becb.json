@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T12:01:17.823118+00:00",
+  "lane": "reports",
+  "pid": "P7fd9e8becb",
+  "draft_year": 2025,
+  "name": "Moussa Cisse",
+  "draft_date": "2025-06-25",
+  "status": "ok",
+  "query": "\"Moussa Cisse\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2024-07-01 before:2025-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Moussa+Cisse%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2024-07-01+before%3A2025-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "The Ultimate 2025 NCAA Tournament NBA Draft Prospect Guide - noceilingsnba.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRVURFeTZ1b0U1R2xlRVVCWkotWWdfdnZEbjNOclBweXN0OVNqRUlLQUs2SzJqelRxX1dIMXd0UGt5TklQNEctV3lNcnhGT2NKczVmMDhpUXJJQk0xMUNQVXpvWUx6SmxIWExBLTN2ZnZwTVU?oc=5",
+      "published_date": "2025-03-17",
+      "source": "noceilingsnba.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Penny Hardaway, Memphis basketball vs No. 3 Auburn: Score prediction, scouting report - The Commercial Appeal",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQT0ExUl83MTJITWc4RWZJWm1KRE01ODJKZXZiSEQ5aEJOcFFQSmViblR3a0tVNzhPaGVUNVZRa05NOW9MVXFGVHFjMkF4RzFHUml4MDNzRElOalVDeTVCV2V5T0RJUjZMaTNicTlyRU1nbTBrVFNLSERfMS1XM3ZoQTU1dlZqODBqQ0dBRzd6SUVVQUVSMW5DR0NSaWhLNWNYQmJjeFNOazZaM19EWl8xRjZNdUg2b1k1MUc3RWNBNmo2WENHUEg4aTRuMFhkTHdnS3N3M0NTdHVtcmZURmktejEybHI1VWk3R0h5bWdWRXRETldUbVRUWWRGVHlNZw?oc=5",
+      "published_date": "2024-11-27",
+      "source": "The Commercial Appeal",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Scouting Live\u2019s 2025 NBA Mock Draft - NBA Scouting Live",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaeTdhNVB0RUNEMkowYXVrQkxHdnFmbjZEV0p6bk1MQ1lya3NPWHJ0Y2lWc2NPV0lsU21hdzJZSTJ0QmxzRXFxMHN5VFNsdGlBLWRWbGhqdThNNmpXUzkxb3BwU3J6VzNRRm15NmxoTEZXcVlfVWVEUHcwRQ?oc=5",
+      "published_date": "2025-06-16",
+      "source": "NBA Scouting Live",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "7f9c3f430ae68dcf0b42fc229db8d7c8435feee7faa1c4f286bc9116dbff56b5",
+  "feature_eligible": false
+}

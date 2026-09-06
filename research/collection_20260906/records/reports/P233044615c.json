@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:52:12.557605+00:00",
+  "lane": "reports",
+  "pid": "P233044615c",
+  "draft_year": 2024,
+  "name": "Tolu Smith",
+  "draft_date": "2024-06-26",
+  "status": "ok",
+  "query": "\"Tolu Smith\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2023-07-01 before:2024-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Tolu+Smith%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2023-07-01+before%3A2024-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Missouri basketball vs. Mississippi State: Score prediction as Tigers try to break 10-game skid - Columbia Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNclg0Z09vbG8tdlM3MERvTjlSRGdQZ2haUVl2ckJMc3FUYXFQOWdCWGNmWnRIOTFhVmhvZkZUWF9zeXQ1MkJBaWZKWDJZOE1peHk1bzFhQk5qVkpaQ2J2U1RFbDRxank3TDRxVUhPVUhuOWlBbnY0bTVPSUtYdFNCbVNtVmVLS2d5TWpLWElGTTVWbnppWHNGMUVLU1c2Qk8zZzhEN3A5N1hoMWFraEdzR2o5SVN5Z3FVa1BSeVh1bEV1UzVmbDZvZjJ2Y2ZIRkFyNTRiMUFtdGlpX0M1YVMzamc0ZFhnYUFXbW1rM01rMlIyMHRL?oc=5",
+      "published_date": "2024-02-09",
+      "source": "Columbia Daily Tribune",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "1 on 1 with Mississippi State senior Tolu Smith - On3",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSGxFcnZDMFZWTmlpdUtkMDhDblc2T2lvMWhyMUhwa3M4WVRIN0tYb2NrUWx4cFlCS3RxSkJRcWRVS1VnZ2VEQ2dkRWVvdVViQ1pXMnhFNHFrRkN0Mk9FQlZZemRpeDQwYS1KeFB4Z25DbTRITFNkbGh3dmEyeEs4Y2FMUW5FQUhvU1FPSnM5aW1xV29XaDZWRzlGV3FiUlBFNzVxNTY4bEVHdw?oc=5",
+      "published_date": "2024-02-07",
+      "source": "On3",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Vanderbilt basketball vs. Mississippi State: Score prediction, scouting report - The Tennessean",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVlJ3czdvbXgzN1NqVm1SVHVlY1lIQjY5TXlDakVKVTFXd3AxbE9uUVdRVV84WVpoYVZNRTY4N0xZUlNpMV8ya3pSR3JfdHE0dklicnBoTjRvZ2Y1VVFGQzV4M0Q5Tmx0TF8tVVF3dGRaNTJ6bW9TUGpiM2VRdl9UVURFZWVnaDJTTjRrbV9TY1Rqby1rS2F2amFEc3V1cnlBdDRLS2p5NUJuWmNmQm51ajZMOGMxYVFieXg3TkZNUnVWZTBTWGlOc1JDYU5NSFRVOUJjblZMVXp5aFBCUmt2ZkZWN0J0UlFacFk2Mg?oc=5",
+      "published_date": "2024-01-18",
+      "source": "The Tennessean",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "d8c3028140de5020a6bc84d7cf2882b72c11f71a9dd1b6cfde51202db8ab2c47",
+  "feature_eligible": false
+}

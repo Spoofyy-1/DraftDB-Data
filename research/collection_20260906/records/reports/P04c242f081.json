@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:57:57.334999+00:00",
+  "lane": "reports",
+  "pid": "P04c242f081",
+  "draft_year": 2025,
+  "name": "David Jones Garcia",
+  "draft_date": "2025-06-25",
+  "status": "ok",
+  "query": "\"David Jones Garcia\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2024-07-01 before:2025-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22David+Jones+Garcia%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2024-07-01+before%3A2025-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "David Jones signs with Jazz on two-way contract - FantasyPros",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORXI3UVB1dTNsTjhxeHFPeFhMNkZUTzk1VnBFV1p4MHRJV3pZZndJUWt0SldoUTNnbXAySmdPaDhwWFo2bzFOMEpLYUZfWXJqMFNCTWp5eUlwWEJUWU1tZ2licDF1R1lhT2lHWXVrd2dpdWFLbXFqV3dOTmhqcDh3M0xCZmoxMTU0OHRKOFJaNjF0VDVHRndDdzdkNNIBoAFBVV95cUxQaUNyeGFOZlc1VXlkcEZ5cElCMG9Wc2lmOXN3ZEVLR29zeG43a2dwRXpmNjNTVV9FYm93U1BmWHh4TXprb0FqTUdiNG5QT281bDZzcW1IaDhnRkhVeFBiRXk0OVVNVlB4LWFZODBnaXpkb0NBN2Nxak15V2pCMFFVejd0VXp1akUzNFJ5NVRpdXh5dE5kZ2oyd2dQYnE5NHZp?oc=5",
+      "published_date": "2024-11-20",
+      "source": "FantasyPros",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "7d2373de8045d8b769fe31484a965421ef8cdbddba1bd1aebb4c957a5a671b8f",
+  "feature_eligible": false
+}

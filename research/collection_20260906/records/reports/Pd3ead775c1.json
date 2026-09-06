@@ -1,0 +1,64 @@
+{
+  "collected_at": "2026-09-06T11:56:25.888339+00:00",
+  "lane": "reports",
+  "pid": "Pd3ead775c1",
+  "draft_year": 2024,
+  "name": "Isaac Jones",
+  "draft_date": "2024-06-26",
+  "status": "ok",
+  "query": "\"Isaac Jones\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2023-07-01 before:2024-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Isaac+Jones%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2023-07-01+before%3A2024-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA 2024 Draft Prospects | Isaac Jones - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvZGVZVkZ5ZktpWjVQTGV2dUdPWFlCMWVyWkxVRlNSaHV4eEJHWHJVUjktdGhjQjJpaW1OR3FVWEhzZERQajdzaHBHNDdtb2tEQjlmMGtqb3pjZUxZOVMzVU9R?oc=5",
+      "published_date": "2024-05-29",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft Scouting Report: Washington State's Isaac Jones - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcHBScEhWZ016WkdFRXFMY3lINVdtb0xaMnlUbDlYLThsRDhWc284NTBiWWpwZXJia2FaT0d5QmswRGFCbkplVDFSZFJROVUtSUE4el85YUlsR2lVdG1VNTJqMk1qNW9yWEJHTndydHBQSG5NUnBkLWFKM0pGeVphdkZGVDROLVVYUFVtZFh3cE1hWExPUzRxWmJHSUQxQXROdFc0YkdrcnBGS3dIa1BwZElZLWNtR1E?oc=5",
+      "published_date": "2024-05-20",
+      "source": "Sports Illustrated",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Isaac Jones Scouting Report - edemirnba.substack.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQQVFpckFVTEpicWdYTmZxOHhMMGxMNm45XzJ3dFEycHBRX2NkTmtHMzhid1NiWkx1R0toUS1YRXlvWmxqaF9MbGlLM1pRaUlhSS1lSnhZTllkaVlNWXhFQm5BUF95VmI4ckJEaw?oc=5",
+      "published_date": "2024-05-14",
+      "source": "edemirnba.substack.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bleacher Report: Bronny James makes cut in 2-round Mock Draft - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX205OUQyUTA1QVBkMVpHOVhxa25LQXFSbTF1WnJpOU9weF93RTRqSUVKS3R0ZWRmbndqZnkySmVGSmdGQXlPY0VyNjdJY0Npc2lEcTB0LVZzamJReWpnLTltNS00bDFWYzAyMW1zallPS3BfUjRFMlNPTlRDRWxPaWMxM3hzX3ZqakdSalNEc2Y?oc=5",
+      "published_date": "2024-05-31",
+      "source": "NBA.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2024 NBA Draft Big Board: Top 50 Prospects Ahead of Combine - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcl9sbDdFclJtNWRGTFdMSlpSdERhTDYyV3VCWHAtbVZrcXVwSDBlMzJUc2toaDZxNHl1N2cyc2JBMnY5SndLd0hCMkxBekFWOVpRY2tkeXlfeHZZX3NaVy1zbVZybFo1VTRYMVJ5M0VMTEw4bksxT0kxdGRzREFmSnZuUlBsNnFCaG5uZEVrcG52b0Q2VXN1dzBRcExYMHNVbGw1SW1n?oc=5",
+      "published_date": "2024-05-09",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bleacher Report: Full 2-round Mock Draft as 2024 Draft nears - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNTVYN2huWHc0OVpkcFV3QzV0S284LXlQbktLTkdtSnZsejFqU3h2MGJlMDVVS0IyRnNyMjBDMExzeTloXzB2UWdOaWV3dzBjVW4ySVdPNzV2Mi1YRDEwZHVVZzlFWjVvNWZlaThSQm8xM2hTR2E3OFdhZEp3aFRFVExGQU1Rd29HX3c?oc=5",
+      "published_date": "2024-06-19",
+      "source": "NBA.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 2,
+  "response_sha256": "8bd5840f3dfca2f9087fee25b3b09955dd67e06b30f3f71499eba4af32005622",
+  "feature_eligible": false
+}

@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T12:01:58.063724+00:00",
+  "lane": "reports",
+  "pid": "P9caa5193d5",
+  "draft_year": 2025,
+  "name": "Kadary Richmond",
+  "draft_date": "2025-06-25",
+  "status": "ok",
+  "query": "\"Kadary Richmond\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2024-07-01 before:2025-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Kadary+Richmond%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2024-07-01+before%3A2025-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2025 NBA draft big board rankings: Top 100 prospects - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVDhSZFJhOW9mVnVoOUxzMkRFRzRCMkpGY1hrQ20wQklzdDBIRTI2eGZMcVFNaWNrY2R3WDNyc09STVp1TDdCWGtGZ1hzZnl4bEdrVU5oUkFqekRWUk9JLTBxVnZaX2hKV0szNndlRnU5RF9iVkpnREVoTW1PYmhNZllIN05nWExRV0o1djV2WEFzT2hDbzVhUkRHTTZ1NmxlMXJmQzY3VQ?oc=5",
+      "published_date": "2025-06-21",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Kadary Richmond lands on Jerry West Award Watch List - Rumble In The Garden",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWnE0Y01yb2hGVEJ0dDZ0dWdzaExJak15UkxWb1Q3MTdER1JXLV9FTnJNaTdtRHAzekkxelNwLTdyOVJjTFAwcmJ0ZGpvYUxUdXFTenRRNjF1RG4zUG9Veld3b0hTcjA3bjQxQ1kweWI3ckRpcG9CQmVmb1JOdV9EMkpxWXpQWHg5X3l5R0ZQYVlCZGVQc2dqaDdfZkNjbTNrU1BLNjRIYWg1dw?oc=5",
+      "published_date": "2024-10-29",
+      "source": "Rumble In The Garden",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "fae5faeffc504ebfb170d2ade78aa5d6d48b19635246a3010a761de2842c111b",
+  "feature_eligible": false
+}

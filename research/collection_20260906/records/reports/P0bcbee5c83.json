@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:51:31.835563+00:00",
+  "lane": "reports",
+  "pid": "P0bcbee5c83",
+  "draft_year": 2024,
+  "name": "Quinten Post",
+  "draft_date": "2024-06-26",
+  "status": "ok",
+  "query": "\"Quinten Post\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2023-07-01 before:2024-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Quinten+Post%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2023-07-01+before%3A2024-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA 2024 Draft Prospects | Quinten Post - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0UGxyTG5pQWtnMWlrejRnQzdVbkNWREhydHNZdnhwVm52TmFlTUNudUM3LV96U3p5ZFZNOERCRmJqaUpXZ0JPQVl3OGJGdWUxTXg1YlJzQnN0SUV1RVpjdGdaWQ?oc=5",
+      "published_date": "2024-05-29",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Quinten Post Scouting Report - edemirnba.substack.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XRVF5dlh0Y19QQTZNMXhKUG9qM3V4WjVPOW5GeFpSX0dCYW1DNlhwaDVfcWx0MGJfR2MxV0RieURXOUdyUk9ldmc2ZWFvNHdoQjZLYTBmaTB2aERmaGgyaVpCNHBNSVdzRmhpVHFn?oc=5",
+      "published_date": "2024-06-14",
+      "source": "edemirnba.substack.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft Scouting Report: Boston College's Quinten Post - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeHJ3alhxaHpMT0wzT2hsazRwTklGTUdmWDhhLUV6ZnBaclZaa2hxazVDY3lqX2VtUV9vRzVod1BPeVl1c1dKa2luVUljWG1FMUNybXA4T3poZTJyd25DQnVMWkF2eENnNTFVSEpselY5Z2d1czBUVmFSNXZTcVRLbDJqSVZpZHVMQzVxakx0TlY1RXFrTjNEN3NJeXpWNjRTNVhNOUlSS1Q1ajY5Nkg0MnJjTk1Rdw?oc=5",
+      "published_date": "2024-05-17",
+      "source": "Sports Illustrated",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Clemson basketball vs Boston College score prediction as Brad Brownell challenges PJ Hall - Greenville Online",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMlM3bDVheVZ4Y3phalY0eEk4U3J6cXdpaGNTUlN0MUpHclBvVnNqUDdBUEhRbDhvRHBWTUZwT0dIdWFPY3M2RjJkaWhvaWt1b05PN0pBcHVUaFpoUXcyMFU4Tm1aVVlQSkt5Q2FsNFpERV9qQkNvb2o5U1IwUE02MkYtRGNnR29MUENOeVVwTlRqVDNnMGktRXo0OEVrTngxUUU1VVVJY254UVdnZ3dhckIwUHVnNlZubXRISWNKTDBhOC01dzNqOVR6M1laVURJSnFldVctTQ?oc=5",
+      "published_date": "2024-01-12",
+      "source": "Greenville Online",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "e47073aaf38b1b4a56c2fe40f7dd1140404eab6cae64a142148c4d4b66297363",
+  "feature_eligible": false
+}

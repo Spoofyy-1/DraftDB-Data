@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:59:39.450669+00:00",
+  "lane": "reports",
+  "pid": "P3a6abfac78",
+  "draft_year": 2025,
+  "name": "Taelon Peter",
+  "draft_date": "2025-06-25",
+  "status": "ok",
+  "query": "\"Taelon Peter\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2024-07-01 before:2025-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Taelon+Peter%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2024-07-01+before%3A2025-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2025 NBA Draft Profile - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pYXlMWTlqb2lTRTc3c0pJUUlPUGZ6UGEwSFZnNzljZThIX1ZlU3JSYXJ4eFVZY1l4QmNHd3QyTFA3QjVRNHdZclF1bm5IU3p5elA4a2I4eE45ZnJ3SEZzektyMEdZT2pVRWlIV19sY0Z0dw?oc=5",
+      "published_date": "2025-05-28",
+      "source": "NBA.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "34758e6113892168a675465eab6b3bcb68716f0c49d58bad5dfafa7abb9ddf7b",
+  "feature_eligible": false
+}

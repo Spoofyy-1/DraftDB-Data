@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:54:34.624564+00:00",
+  "lane": "reports",
+  "pid": "P8b23f27bc8",
+  "draft_year": 2024,
+  "name": "Alex Reese",
+  "draft_date": "2024-06-26",
+  "status": "ok",
+  "query": "\"Alex Reese\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2023-07-01 before:2024-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Alex+Reese%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2023-07-01+before%3A2024-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Alex Reese, Martins Ferry , Tight End - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wSGZGVXlUSkUydUQ1dWFyWjRzU1A2MUtwVDdqNmRhd1JibHoxRUxOSVBSOUFObGdaUXRoSGtiM0lwUkQ1bFhMNUY1RkE5QnhNQ3hzMWl0S3VMVVE2OVE?oc=5",
+      "published_date": "2024-03-29",
+      "source": "247Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "512281ca660bef2384550d502de13c07565ed339976489245f9cb03460093d13",
+  "feature_eligible": false
+}

@@ -1,0 +1,64 @@
+{
+  "collected_at": "2026-09-06T11:50:37.804948+00:00",
+  "lane": "reports",
+  "pid": "Pdd1f325a63",
+  "draft_year": 2023,
+  "name": "Toumani Camara",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"Toumani Camara\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Toumani+Camara%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA 2023 Draft Prospects | Toumani Camara - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QWk92OFhZdHVqd0tYSmRlX1NUOFdwQkx0Q0hOelV3bklCY2NiSlJhc3pyREJGRzVMZ1BkYWtYRTEtZ3dnN1FRTVZDYzVqemZtYWdjQnJNZGRHQVExbk5wM21NRHl6Zw?oc=5",
+      "published_date": "2023-06-07",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "McCoy: Flyers Take Care Of Business In Chicago - Press Pros Magazine",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRi1adTU4blJUdVlsSGV2Qlo3aUY3M2xMNy1xc190eF9ka2hqX0lVZldLbGxNTGhjajJ4WkZfRXVxNFUwU001bVdPR1NVTFpEWVU2YUZ0MVp5R241d3RndXo3Y3dSQ0NMYlBSMjY1OVFhMXczSHpKODBhWDFRTi1TczlRUjhENlk3a2hZMzNnVEo?oc=5",
+      "published_date": "2023-02-18",
+      "source": "Press Pros Magazine",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2023 NBA Draft Big Board: Top 50 Prospects Ahead of the Combine - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLVVIVVB3MnpXdkZLZGc0bG5mMGZidU4wU2dqeWhrUzZJQlQyM0R2UFZUMUo2S1VPcVJTaWdBVXhiejFkVkl3Ri05MTRmVmh3OGtxdEVfbXJ0MXdNNWRWbmw0OGlSNVZTTTJsWTFkdFFvamlFRDlMYjNPRDd1N3BFT0xGREFwbkhsNFJYaHNUSFVOaDVPREdMeHgtekhQVXh0WmRydm1nMERLYkE?oc=5",
+      "published_date": "2023-05-15",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bleacher Report: Final 2023 NBA Mock Draft and full 2-round predictions - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2VSUkphelpkaGJhWVkzTm5pQ0VqUVRyZjFKNGppOEM4SldKM0QtdFFxcWVCM2xTOVZpRHJPOTBEeHM3S0pMY0NRdlhRcF9iTDdBdElqU1FlRGo0M05XbWtBcDBCMUJ5RExIMFhtaGE2U1JjNDRnaU00S1UxTXpZX3dveFA2WXhPa3BwekFJSnNpa01Renc3Y1JOYWFkUQ?oc=5",
+      "published_date": "2023-06-21",
+      "source": "NBA.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Noah Clowney - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zbEZMNzVRdC1WUEphb1k2SEVkS09keDlwS1VDQ0pHZHdIY2FpNUtLczZXSkxRQzJVeE92ZTQxU0o4SzRMRjFLZjBSakQ5Qlk?oc=5",
+      "published_date": "2022-12-06",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2023 NBA Draft Profile - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aYkNUZHhLUXZjWDVRVG9pdHJ1NmF4SzB0VW1kaHdDRHhKTWJ1SXRmVi1HOGJmQ29sM2dqUTlZWHJCZUVockFjZE5VeVMteFpQdlpRcnRNT1EwWUpQYV92bktndXBneVAzeDJWTU5ZRQ?oc=5",
+      "published_date": "2023-05-20",
+      "source": "NBA.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "301897cad304b55fc565a50dea9882fb7513bf2ff337aff7e87e9f2c7a071bad",
+  "feature_eligible": false
+}

@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:58:04.618948+00:00",
+  "lane": "reports",
+  "pid": "P07109e12fd",
+  "draft_year": 2025,
+  "name": "Adama Bal",
+  "draft_date": "2025-06-25",
+  "status": "ok",
+  "query": "\"Adama Bal\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2024-07-01 before:2025-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Adama+Bal%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2024-07-01+before%3A2025-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2025 NBA Mock Draft 1.0 - edemirnba.substack.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NTWM0OVVuNHNXQW9zcnM5V1Y5RXZCZDk5WkJ0VVItTDBPNjlHaXB1QTlQTEhhT29TX0psVk9RbTZ5RC1YQmdrMDB3bm5MZk5iamx2ZjE0WlZFWVdSRmQ3TWY1QUx0UQ?oc=5",
+      "published_date": "2024-12-28",
+      "source": "edemirnba.substack.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2025 NBA Draft: Carter Bryant a consensus lottery selection, Caleb Love unlikely to get picked - Arizona Desert Swarm",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQenZoaUw3anJtQm52U2lhYklRdFNoWlVPWk1CeEZ2LTZ3WWN2YXVYQUpCVFc2Z3VKaS1WYmlFQ04wVks1Ynh3eTRzMTRTWkRzTFRNdFVIMjFGVEtGc0NLNGRFSVJ5ZFB1bzJ2T2h4WS1QR0VyNmZRUXZUUklsb3M0QlJockJjWjFPRzFqTzQybDRvYlpZMUlpSURtSHNnWGtERmxyYjNISGl6Tk5YUkNxLUJLWUxnWTRKV2Q2alJUSHloc3NrTzBXRTdxazZ0S1lUZmdlY0tzYWVqUWRILUhNOGxxcw?oc=5",
+      "published_date": "2025-06-24",
+      "source": "Arizona Desert Swarm",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "As NBA draft approaches, Wasserman agency reveals large 2025 class - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcl9uSEZDMUtsQWlYdy1YcEhMR3hqWlA0NlNIZFlvN1JfNHQwYzhVOXVNaE8zOXNSMDhqTmgtREE3Sm5URmkzWXJJOVliZC1EQ3E4NzcyYzZqOFY4MkxpWkdyVXp1SEF1RWoyR2hSTHBjRUFDbmhGM19KUldOdGs2Z0pyTmNCVEpxeW9YamMtd0JrVlBrSzJ5LWxVVGp0NWVEZGRwMzJmbEV6dkNreHc?oc=5",
+      "published_date": "2025-06-02",
+      "source": "USA Today",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "a30870adc268edeebeec9349ce306aaf4dc8ca0dcc0868101c8edfb39657969a",
+  "feature_eligible": false
+}

@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:56:52.962931+00:00",
+  "lane": "reports",
+  "pid": "Pe64515ec9d",
+  "draft_year": 2024,
+  "name": "Jaylen Martin",
+  "draft_date": "2024-06-26",
+  "status": "ok",
+  "query": "\"Jaylen Martin\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2023-07-01 before:2024-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Jaylen+Martin%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2023-07-01+before%3A2024-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Meet Charlie Brown Jr., the unexpected Summer League standout - Posting and Toasting",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSVhWNmJuajdfX1NzMnN0Y2h0c3VGTVFjMmtmT19MZ1R5Nk02TC00Ty16VlBtQm9sLUp2STFrd19mU3ZURlBnMHE1NF9GbnFZYWMyZ2stRV9XcTRobHdraW1sRmJya0NyMHFkck53eHVEYjg0aVdYREhuQUxmM0xySkZtV3JlMVVNV09oSkM4bERCZGNJLTNqTDMzeTNlWkRkbXRWNW0taG5Gd0dQbWNpQkpwMA?oc=5",
+      "published_date": "2023-07-14",
+      "source": "Posting and Toasting",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "51b8bb0be95f9528f479e6e6a1bcd3d504c0a8f82c95c2fbfbbbf96293c34cab",
+  "feature_eligible": false
+}
