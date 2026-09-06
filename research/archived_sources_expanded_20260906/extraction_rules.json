@@ -1,0 +1,37 @@
+{
+  "lexicons": {
+    "finishing": "\\b(?:finish(?:er|ers|ing|es)?|rim|basket|dunk(?:s|ing)?|layups?|lobs?)\\b",
+    "creation": "\\b(?:creat(?:e|es|ing|ion|or)|isolations?|dribbl(?:e|es|ing)|penetrat\\w*)\\b",
+    "passing": "\\b(?:pass(?:es|er|ers|ing)?|playmak\\w*|assists?|distribut\\w*)\\b",
+    "shooting": "\\b(?:shoot(?:er|ers|ing)?|jump(?:er|ers|shot|shots)?|perimeter|threes?)\\b",
+    "defense": "\\b(?:defen\\w*|steals?|blocks?|rotat\\w*)\\b",
+    "rebounding": "\\b(?:rebounds?|rebounding|putbacks?|boards?)\\b",
+    "athleticism": "\\b(?:athlet\\w*|explos\\w*|quick\\w*|speed|leap\\w*)\\b",
+    "strength": "\\b(?:strength|strong|powerful|physic\\w*|frame|contact)\\b",
+    "length": "\\b(?:wingspan|length|long|tall|height|size)\\b",
+    "decisions": "\\b(?:decision\\w*|turnovers?|mistakes?|disciplin\\w*|selection)\\b",
+    "effort": "\\b(?:motor|effort|hustle|energy|work.ethic|competi\\w*)\\b",
+    "development": "\\b(?:improv\\w*|develop\\w*|raw|potential|upside|matur\\w*)\\b",
+    "injury": "\\b(?:injur\\w*|surgery|surgeries|injured|wrist|knee|ankle|back.pain)\\b",
+    "limitations": "\\b(?:struggl\\w*|weak\\w*|poor|limited|limitation\\w*|inconsisten\\w*)\\b",
+    "efficiency": "\\b(?:efficient|efficiency|effective|productive|productivity)\\b",
+    "pickroll": "\\bpick[ -]and[ -]roll\\b",
+    "catchshoot": "\\bcatch[ -]and[ -]shoot\\b",
+    "pullup": "\\bpull[ -]up\\b"
+  },
+  "play_patterns": {
+    "halfcourt": "half[ -]?court",
+    "transition": "transition|fast[ -]break",
+    "isolation": "isolation|one[ -]on[ -]one",
+    "spotup": "spot[ -]?up",
+    "post": "post[ -]?up|back[ -]to[ -]the[ -]basket|back to the basket|post scorer",
+    "offscreen": "off[ -]screen|off (?:of )?screens",
+    "catchshoot": "catch[ -]and[ -]shoot|off the catch",
+    "pullup": "pull[ -]?up|off[ -]the[ -]dribble",
+    "pickroll": "pick[ -]and[ -]roll",
+    "finish": "finish\\w*|at the rim|around the rim|around the basket",
+    "jump": "jump[ -]?shot|jumpers?|jump[ -]shoot"
+  },
+  "numeric_rule": "Explicit number+PPP/PPS/points-per-unit in one unambiguous named-player clause; review numeric candidates before promotion",
+  "text_rule": "literal predefined term frequency in dated archived subject section; no semantic score"
+}

@@ -1,0 +1,1234 @@
+{
+  "draft_year": 2021,
+  "query_url": "https://web.archive.org/cdx/search/cdx?url=www.nba.com%2Fdraft%2F2021%2Fprospects%2F&matchType=prefix&from=20200701&to=20210729040000&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=urlkey&limit=150",
+  "cutoff_utc": "20210729040000",
+  "feature_eligible": false,
+  "status": "discovery_only",
+  "retrieved_at": 1788692453.917113,
+  "snapshots": [
+    {
+      "urlkey": "com,nba)/draft/2021/prospects",
+      "timestamp": "20210708222750",
+      "original": "https://www.nba.com/draft/2021/prospects",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3DA6I5DKJK5GZ426YTF74RH7G3QLEXXU",
+      "length": "25731"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/a-j-lawson",
+      "timestamp": "20210716082358",
+      "original": "https://www.nba.com/draft/2021/prospects/a-j-lawson",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "VXEVHPDLOT57NQP4YLNFMHZ2EI5TFXVG",
+      "length": "20288"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/aaron-henry",
+      "timestamp": "20210708223817",
+      "original": "https://www.nba.com/draft/2021/prospects/aaron-henry",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "SJAOWJ23GVKBANFNJSPKMVYLCRNUYP7T",
+      "length": "23189"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/aaron-wiggins",
+      "timestamp": "20210716082350",
+      "original": "https://www.nba.com/draft/2021/prospects/aaron-wiggins",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "64W7QMPWOBNJOWD3UPX6Z6VS2S4NDKCT",
+      "length": "21009"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/alan-griffin",
+      "timestamp": "20210713033505",
+      "original": "https://www.nba.com/draft/2021/prospects/alan-griffin",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "YU2JFVGPZX7UPMHYUTAUI54ESNZCWDJY",
+      "length": "20681"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/aleksander-balcerowski",
+      "timestamp": "20210708224907",
+      "original": "https://www.nba.com/draft/2021/prospects/aleksander-balcerowski",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "5TNT7ZP4M3U3ULFWJOAYH5S3O53CRFFC",
+      "length": "20561"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/alexander-shashkov",
+      "timestamp": "20210708224926",
+      "original": "https://www.nba.com/draft/2021/prospects/alexander-shashkov",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2RQ76AEFAOMXBKNZRN2ZLWNBGY6QSFFX",
+      "length": "19890"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/alperen-sengun",
+      "timestamp": "20210708223728",
+      "original": "https://www.nba.com/draft/2021/prospects/alperen-sengun",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "SNOKDWO22MNX6D6Y56542BZXJIH4FVOR",
+      "length": "23152"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/amar-sylla",
+      "timestamp": "20210708223733",
+      "original": "https://www.nba.com/draft/2021/prospects/amar-sylla",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "SEKZV7MUOEAXTCVK3JSSYFI7LC7XVCWW",
+      "length": "20340"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/ariel-hukporti",
+      "timestamp": "20210708222842",
+      "original": "https://www.nba.com/draft/2021/prospects/ariel-hukporti",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "SXKCO6YTS7C7VNGWD6HTY4CHL3J6TVIG",
+      "length": "20683"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/aristide-mouaha",
+      "timestamp": "20210708223805",
+      "original": "https://www.nba.com/draft/2021/prospects/aristide-mouaha",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "FWHZVJ2TALK4R7UBVFSWLZM3GVB57IWL",
+      "length": "20111"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/austin-reaves",
+      "timestamp": "20210708223130",
+      "original": "https://www.nba.com/draft/2021/prospects/austin-reaves",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "EI4VVTNVZHVJR4ISAXZEKTBYBCJGQEPZ",
+      "length": "22665"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/ayo-dosunmu",
+      "timestamp": "20210708223822",
+      "original": "https://www.nba.com/draft/2021/prospects/ayo-dosunmu",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "OF4HKA5H46YGX5KWGWIYYEEZCG6VW4JR",
+      "length": "22884"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/biram-faye",
+      "timestamp": "20210708223102",
+      "original": "https://www.nba.com/draft/2021/prospects/biram-faye",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "6ILJCJYL22WGVRHH4DXBIZRCVZ6FBQUW",
+      "length": "20515"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/bj-boston",
+      "timestamp": "20210708223903",
+      "original": "https://www.nba.com/draft/2021/prospects/bj-boston",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "INFLF5IKGOQ2PLQTE73VOBDMXZFI3GRW",
+      "length": "22207"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/bojan-tomasevic",
+      "timestamp": "20210708224520",
+      "original": "https://www.nba.com/draft/2021/prospects/bojan-tomasevic",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2Q5YPZSWYB7SSQJXFIZPHKUCRGFEIYK6",
+      "length": "20314"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/bones-hyland",
+      "timestamp": "20210708224330",
+      "original": "https://www.nba.com/draft/2021/prospects/bones-hyland",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GBDPMFTIFZD6BKFHFS43AJGGZ46NDUUM",
+      "length": "22142"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/boris-tisma",
+      "timestamp": "20210708224922",
+      "original": "https://www.nba.com/draft/2021/prospects/boris-tisma",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "FUNV5WYXSTLNNNOPRWBIKBQSV72Z2RUT",
+      "length": "20135"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/cade-cunningham",
+      "timestamp": "20210708224353",
+      "original": "https://www.nba.com/draft/2021/prospects/cade-cunningham",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "MUVMLHZCSQXVDIANVPRLXFNW5EHNTHQX",
+      "length": "24153"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/cameron-thomas",
+      "timestamp": "20210708223202",
+      "original": "https://www.nba.com/draft/2021/prospects/cameron-thomas",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "XJDGN3CQGSKYR4YXJZKTG73RGQOCX4P3",
+      "length": "22603"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/carlik-jones",
+      "timestamp": "20210716081833",
+      "original": "https://www.nba.com/draft/2021/prospects/carlik-jones",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7IWBGWERJGKXTHBD4BI36GY4EYPL6DGZ",
+      "length": "20302"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/carlos-alocen",
+      "timestamp": "20210708225057",
+      "original": "https://www.nba.com/draft/2021/prospects/carlos-alocen",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GSM5KONUBKVG7SKELMPFUOFVCDI3UMJ6",
+      "length": "21099"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/charles-bassey",
+      "timestamp": "20210708224230",
+      "original": "https://www.nba.com/draft/2021/prospects/charles-bassey",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "K5ZWFNIMMJTZGDOGXVEJDXN5CZTJVK3Q",
+      "length": "22709"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/chaundee-brown",
+      "timestamp": "20210716081824",
+      "original": "https://www.nba.com/draft/2021/prospects/chaundee-brown",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ZKGSUFDMJPIZLFXVM5F7XNFKIWMRYX6H",
+      "length": "21126"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/chris-duarte",
+      "timestamp": "20210708224823",
+      "original": "https://www.nba.com/draft/2021/prospects/chris-duarte",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "OJ5QJGL3EKVWX3VF6B6JHWKIRETVL3IQ",
+      "length": "22579"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/corey-kispert",
+      "timestamp": "20210708222814",
+      "original": "https://www.nba.com/draft/2021/prospects/corey-kispert",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "MFWPNLYDP7ZX6AMQ3YWGJCP7FXUKG7VW",
+      "length": "23374"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/daishen-nix",
+      "timestamp": "20210708222826",
+      "original": "https://www.nba.com/draft/2021/prospects/daishen-nix",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "KYMJSB4E4G3EPA4WMQGWBVYKHRW7C26Q",
+      "length": "22272"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/dalibor-llic",
+      "timestamp": "20210708224524",
+      "original": "https://www.nba.com/draft/2021/prospects/dalibor-llic",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GFEWFNZ7XDYYZHHR6GVNVGYGE64Z2OAM",
+      "length": "20913"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/danko-brankovic",
+      "timestamp": "20210708224902",
+      "original": "https://www.nba.com/draft/2021/prospects/danko-brankovic",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WKFFAWMUOLVAL5GRYUB2IMTR6PPR6GMU",
+      "length": "20406"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/david-duke",
+      "timestamp": "20210708224225",
+      "original": "https://www.nba.com/draft/2021/prospects/david-duke",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "LVM6P2WE2OH5GVQIYJR5AZI2GPKPC4B2",
+      "length": "22665"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/david-johnson",
+      "timestamp": "20210708223842",
+      "original": "https://www.nba.com/draft/2021/prospects/david-johnson",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "UIAK3WO3QX7SGPWCIZG6SFU7Y2YHWZDJ",
+      "length": "22407"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/davion-mitchell",
+      "timestamp": "20210708224725",
+      "original": "https://www.nba.com/draft/2021/prospects/davion-mitchell",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NK6VBX33Q37NEZBDS4R3JWBKJXSZ5TYG",
+      "length": "23385"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/dayron-sharpe",
+      "timestamp": "20210708224403",
+      "original": "https://www.nba.com/draft/2021/prospects/dayron-sharpe",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "N6OTQS4PUWRH2SVJEBYMJTWFPK5BDTSG",
+      "length": "22463"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/derrick-alston-jr",
+      "timestamp": "20210709231539",
+      "original": "https://www.nba.com/draft/2021/prospects/derrick-alston-jr",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QKRBFWQHORVIWDJIS4XBJ3JEW6TTC7WD",
+      "length": "20879"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/dj-steward",
+      "timestamp": "20210716081820",
+      "original": "https://www.nba.com/draft/2021/prospects/dj-steward",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "KT2EMPJBQC44PBUWPR5MJ6DNY6JR4D2V",
+      "length": "21036"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/evan-mobley",
+      "timestamp": "20210708224203",
+      "original": "https://www.nba.com/draft/2021/prospects/evan-mobley",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "LNDLBYP33I63YZCUSDZE6YFFNOFJLFWT",
+      "length": "23425"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/filip-petrusev",
+      "timestamp": "20210708224452",
+      "original": "https://www.nba.com/draft/2021/prospects/filip-petrusev",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "4W7OZR3ANZ4W5ONB5TFSOM4BK7E6H7UT",
+      "length": "22317"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/franz-wagner",
+      "timestamp": "20210708222913",
+      "original": "https://www.nba.com/draft/2021/prospects/franz-wagner",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "A5LZIRGUBKXVQYVLZ356N5QWYI5EZOQ2",
+      "length": "23450"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/gabriele-procida",
+      "timestamp": "20210708224154",
+      "original": "https://www.nba.com/draft/2021/prospects/gabriele-procida",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "MKZ4HCCDTM6JYYEFUEII32VQAJA6WUSB",
+      "length": "20543"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/gora-camara",
+      "timestamp": "20210708224140",
+      "original": "https://www.nba.com/draft/2021/prospects/gora-camara",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "Q4XYYWYJQIUNC4FKDGHWGCKESJPSDUUD",
+      "length": "20566"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/greg-brown",
+      "timestamp": "20210708223150",
+      "original": "https://www.nba.com/draft/2021/prospects/greg-brown",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "EUVW456BVMFIJYOTWVNNUM3DMH5IBYXL",
+      "length": "22281"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/gregor-glas",
+      "timestamp": "20210708224832",
+      "original": "https://www.nba.com/draft/2021/prospects/gregor-glas",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "X3SSC5HUXCOCJK2RQEDISAIVH5AMZ6BW",
+      "length": "20469"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/gui-santos",
+      "timestamp": "20210708223800",
+      "original": "https://www.nba.com/draft/2021/prospects/gui-santos",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "G4NLQFMTUYSOBZRFGA2PMMJBOLKPDEQU",
+      "length": "20622"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/haowen-guo",
+      "timestamp": "20210708224539",
+      "original": "https://www.nba.com/draft/2021/prospects/haowen-guo",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "43TP2ULQ2DTAHXAWBWP4VM2SVGZNDOYM",
+      "length": "20430"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/herbert-jones",
+      "timestamp": "20210708222822",
+      "original": "https://www.nba.com/draft/2021/prospects/herbert-jones",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QEF65YID3OSHNRNVWKZNRMU6YNDHFULX",
+      "length": "23002"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/hugo-besson",
+      "timestamp": "20210708222918",
+      "original": "https://www.nba.com/draft/2021/prospects/hugo-besson",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "IKUCEIVSVB5NPIW7RJV3I7VDMM5WQSLJ",
+      "length": "20471"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/hugo-robineau",
+      "timestamp": "20210708223722",
+      "original": "https://www.nba.com/draft/2021/prospects/hugo-robineau",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "Q4IVMRNLYEFYTGIOHGGCXOKWXL7SITP6",
+      "length": "20709"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/ibou-badji",
+      "timestamp": "20210708224940",
+      "original": "https://www.nba.com/draft/2021/prospects/ibou-badji",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "LHLKSRNFK6MCG4AT7JSRRZWSMFUAS47P",
+      "length": "20546"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/isaiah-jackson",
+      "timestamp": "20210708224458",
+      "original": "https://www.nba.com/draft/2021/prospects/isaiah-jackson",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "PZAZL3FWYJFQMDH64NIICLS7UXXPKHUV",
+      "length": "23114"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/isaiah-livers",
+      "timestamp": "20210708224235",
+      "original": "https://www.nba.com/draft/2021/prospects/isaiah-livers",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "L4QKAKJ2PRPEQQNKJUB7MFXEROMOX2SA",
+      "length": "22434"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/isaiah-todd",
+      "timestamp": "20210708223853",
+      "original": "https://www.nba.com/draft/2021/prospects/isaiah-todd",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3U75U36CXQUOUV5SSAFM6TFDXS4F75QB",
+      "length": "22262"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/ivan-perasovic",
+      "timestamp": "20210708224123",
+      "original": "https://www.nba.com/draft/2021/prospects/ivan-perasovic",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "Z27IHS6RMGH7IEGWL35EXBFMC76KUNF6",
+      "length": "20534"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/jaden-springer",
+      "timestamp": "20210708224732",
+      "original": "https://www.nba.com/draft/2021/prospects/jaden-springer",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "6OCTOT52ZSEZVRCBA2F44PNKV2BETEZS",
+      "length": "22872"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/jaime-pradilla",
+      "timestamp": "20210708224529",
+      "original": "https://www.nba.com/draft/2021/prospects/jaime-pradilla",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "XYYMRKASNA7OCNJNOOUV3QAGH5EU5TBL",
+      "length": "20279"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/jalen-green",
+      "timestamp": "20210708224358",
+      "original": "https://www.nba.com/draft/2021/prospects/jalen-green",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "FBLYFEVP7U7OA4OKROUMOAHCCPKBHWZI",
+      "length": "23769"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/jalen-johnson",
+      "timestamp": "20210708223146",
+      "original": "https://www.nba.com/draft/2021/prospects/jalen-johnson",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "EEXYWPHKGC7MA4A66DD6VJUDDGNPP66U",
+      "length": "22748"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/jalen-suggs",
+      "timestamp": "20210708205505",
+      "original": "https://www.nba.com/draft/2021/prospects/jalen-suggs",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QR3ZFGKGYSX6FQ3WMEW6LWA3JMJ6JBBC",
+      "length": "24079"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/james-bouknight",
+      "timestamp": "20210708224209",
+      "original": "https://www.nba.com/draft/2021/prospects/james-bouknight",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "UVDEUILKRJR3ZCTKFHGRWR7C7ECR5XGL",
+      "length": "23026"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/jared-butler",
+      "timestamp": "20210708223138",
+      "original": "https://www.nba.com/draft/2021/prospects/jared-butler",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "RN44QCLUUTUMTJFR3WXEHJCJ3TJ6UUAB",
+      "length": "22991"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/jason-preston",
+      "timestamp": "20210716082057",
+      "original": "https://www.nba.com/draft/2021/prospects/jason-preston",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "UDCSHUNOWVQQ5POD6UM3GLLHJ4NEYEJC",
+      "length": "20595"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/jay-huff",
+      "timestamp": "20210716082354",
+      "original": "https://www.nba.com/draft/2021/prospects/jay-huff",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "V6DIQKUAGGP6XBDBNZR5U6XFND6WUYCT",
+      "length": "20900"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/jeremiah-robinson-earl",
+      "timestamp": "20210716082339",
+      "original": "https://www.nba.com/draft/2021/prospects/jeremiah-robinson-earl",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "AGWJWM2WE5WUWWSLWTJP7XPPCKDSSFXT",
+      "length": "21306"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/jericho-sims",
+      "timestamp": "20210709233613",
+      "original": "https://www.nba.com/draft/2021/prospects/jericho-sims",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NFQWSSKQNV4FPM3CVRNQN7M6SRWEKITE",
+      "length": "20844"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/joe-wieskamp",
+      "timestamp": "20210716081319",
+      "original": "https://www.nba.com/draft/2021/prospects/joe-wieskamp",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "4XUOFTIMIW3SSR7TNMQLJXLKSH47ABZC",
+      "length": "21024"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/joel-ayayi",
+      "timestamp": "20210708222850",
+      "original": "https://www.nba.com/draft/2021/prospects/joel-ayayi",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7E7LSJGZ34MCTBL2SAHNT7IRWDQZ5Q4D",
+      "length": "23215"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/joel-parra",
+      "timestamp": "20210708223155",
+      "original": "https://www.nba.com/draft/2021/prospects/joel-parra",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "VBMVWHD2JXA2TBUKLW3RHJ6H7VWZAQ6D",
+      "length": "20003"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/john-petty",
+      "timestamp": "20210708222831",
+      "original": "https://www.nba.com/draft/2021/prospects/john-petty",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "XU6DEKDZJ7PTCHX5KS4HHTA2VS5USC6E",
+      "length": "22114"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/jonathan-kuminga",
+      "timestamp": "20210708224836",
+      "original": "https://www.nba.com/draft/2021/prospects/jonathan-kuminga",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "EHB3TN2TFVWCSTUMLRSBJ2G3IAEHVM4Y",
+      "length": "23294"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/josh-christopher",
+      "timestamp": "20210708223838",
+      "original": "https://www.nba.com/draft/2021/prospects/josh-christopher",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "PRMHBA43QSQAV4S4R6YXOY5PURVAWR5S",
+      "length": "22768"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/josh-giddey",
+      "timestamp": "20210707185013",
+      "original": "https://www.nba.com/draft/2021/prospects/josh-giddey",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NXEMWE76SKYLEVIIYGXNMMGFCFITUNBT",
+      "length": "17286"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/joshua-primo",
+      "timestamp": "20210716082347",
+      "original": "https://www.nba.com/draft/2021/prospects/joshua-primo",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "MEHW7RX25OKYZELYYE44T3ZLNZ247L6U",
+      "length": "21154"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/jovan-kljajic",
+      "timestamp": "20210708224111",
+      "original": "https://www.nba.com/draft/2021/prospects/jovan-kljajic",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "XURERNS323FSZK3JWF3VUVENG46MITKY",
+      "length": "20112"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/jt-thor",
+      "timestamp": "20210716081331",
+      "original": "https://www.nba.com/draft/2021/prospects/jt-thor",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "CNROIO5B43HHD5UY4PALVAD3VKGN3TUX",
+      "length": "20841"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/juhann-begarin",
+      "timestamp": "20210708223810",
+      "original": "https://www.nba.com/draft/2021/prospects/juhann-begarin",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "T7QQSWOMZITQ3LAKEJZ3PDREZ3A7EBOI",
+      "length": "20842"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/justin-champagnie",
+      "timestamp": "20210716081638",
+      "original": "https://www.nba.com/draft/2021/prospects/justin-champagnie",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2UZIQQXNKFTV3V6RWC7356FERWJPQVEL",
+      "length": "21263"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/justus-hollatz",
+      "timestamp": "20210708223108",
+      "original": "https://www.nba.com/draft/2021/prospects/justus-hollatz",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "DM442VIALSGFMETKCV473OJZDWZLM3CX",
+      "length": "20842"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/kai-jones",
+      "timestamp": "20210708224241",
+      "original": "https://www.nba.com/draft/2021/prospects/kai-jones",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ESFJPPKYO6TMWIMI3P5TPP4M2QCYVEZX",
+      "length": "24117"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/karlo-matkovic",
+      "timestamp": "20210708224931",
+      "original": "https://www.nba.com/draft/2021/prospects/karlo-matkovic",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "YPCIRYAIB4IQPGVC5OBDJK4LNILP55YT",
+      "length": "20607"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/kenan-kamenjas",
+      "timestamp": "20210708225108",
+      "original": "https://www.nba.com/draft/2021/prospects/kenan-kamenjas",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "X5EMRLMCXH6Z4TY6RCO3R4V4Z72K33DG",
+      "length": "20965"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/kenny-baptiste",
+      "timestamp": "20210708223113",
+      "original": "https://www.nba.com/draft/2021/prospects/kenny-baptiste",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "DQOMPX456F6DNN7NV6YCREGOIBTPNRNK",
+      "length": "20786"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/keon-johnson",
+      "timestamp": "20210708224246",
+      "original": "https://www.nba.com/draft/2021/prospects/keon-johnson",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "6QPTHUHOPF5N2UCXYG6LPPZQ6QSN67JU",
+      "length": "23339"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/kessler-edwards",
+      "timestamp": "20210709231552",
+      "original": "https://www.nba.com/draft/2021/prospects/kessler-edwards",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "FP2M4RBBWCH7JZ4QPUR65MA6IOBPJEZQ",
+      "length": "20720"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/luc-van-slooten",
+      "timestamp": "20210708224945",
+      "original": "https://www.nba.com/draft/2021/prospects/luc-van-slooten",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "VL5FN7M37EF7YAWNRAGFI4G3JJTDI3LP",
+      "length": "20537"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/luka-garza",
+      "timestamp": "20210708224716",
+      "original": "https://www.nba.com/draft/2021/prospects/luka-garza",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7BTVO7ED7PZGHO656YGISO25BV3WBWXO",
+      "length": "23766"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/malcolm-cazalon",
+      "timestamp": "20210708224015",
+      "original": "https://www.nba.com/draft/2021/prospects/malcolm-cazalon",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "AF7VD4OU736VR5UNHDDPXELAS4JUQO2G",
+      "length": "20380"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/marcus-garrett",
+      "timestamp": "20210709232637",
+      "original": "https://www.nba.com/draft/2021/prospects/marcus-garrett",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "SYWTLEFL5HQJTR7RQJISRVYH4MZAOO72",
+      "length": "20766"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/marcus-zegarowski",
+      "timestamp": "20210713032818",
+      "original": "https://www.nba.com/draft/2021/prospects/marcus-zegarowski",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ZI3X2C7EKQC4W7S2AMMEAWNDHPJYZKEQ",
+      "length": "20460"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/mario-nakic",
+      "timestamp": "20210708223057",
+      "original": "https://www.nba.com/draft/2021/prospects/mario-nakic",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "52OSG4BU74G6ZIUFGTZEVAY4AASTEFUI",
+      "length": "20564"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/marko-pecarski",
+      "timestamp": "20210708224916",
+      "original": "https://www.nba.com/draft/2021/prospects/marko-pecarski",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "EOYRRF6HO75LU2WWSAOEJXUDWD4BVA5C",
+      "length": "20684"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/matt-coleman-iii",
+      "timestamp": "20210716081300",
+      "original": "https://www.nba.com/draft/2021/prospects/matt-coleman-iii",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2KRH5IZCFN7UAKHFY52VJXEJV3IX7ROG",
+      "length": "20982"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/matthew-hurt",
+      "timestamp": "20210708224819",
+      "original": "https://www.nba.com/draft/2021/prospects/matthew-hurt",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "IPSC4LMDWXQWOBOLDIDMX2TLZE6V5ZJ6",
+      "length": "22633"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/matthew-mitchell",
+      "timestamp": "20210716081340",
+      "original": "https://www.nba.com/draft/2021/prospects/matthew-mitchell",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3RKJ7YPW75MGBMKQ3VUFVB3G5KWHKCLW",
+      "length": "20277"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/matthieu-gauzin",
+      "timestamp": "20210708223932",
+      "original": "https://www.nba.com/draft/2021/prospects/matthieu-gauzin",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "KUHLNCJPYSUGSU77ZXKEGQE2VYV4Z5AI",
+      "length": "20419"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/mckinley-wright-iv",
+      "timestamp": "20210716081232",
+      "original": "https://www.nba.com/draft/2021/prospects/mckinley-wright-iv",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "PM2D3IGKH7RDUZG7CTDAAOF3TJPJL5DM",
+      "length": "21050"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/mert-akay",
+      "timestamp": "20210708224703",
+      "original": "https://www.nba.com/draft/2021/prospects/mert-akay",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "6E6ZFJZNNNGATOXDV4SRPUXRTOY7I6NR",
+      "length": "20210"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/miles-mcbride",
+      "timestamp": "20210716082053",
+      "original": "https://www.nba.com/draft/2021/prospects/miles-mcbride",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "VF7LUR3OWIVCGMQFP577Z2PVOSN26T5B",
+      "length": "20305"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/mj-walker",
+      "timestamp": "20210713033748",
+      "original": "https://www.nba.com/draft/2021/prospects/mj-walker",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "MOL7FAAXK7N36OTMK37POIME2OZDDJCG",
+      "length": "20519"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/moses-moody",
+      "timestamp": "20210708222846",
+      "original": "https://www.nba.com/draft/2021/prospects/moses-moody",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "A5FOFYAWYBU7JS7V4LFLVLOPC6V2DNIQ",
+      "length": "22820"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/moses-wright",
+      "timestamp": "20210709233553",
+      "original": "https://www.nba.com/draft/2021/prospects/moses-wright",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "6CK3RIUYZPY2GMQJ3LXWFNP6DSDEQSQU",
+      "length": "21082"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/mouhamet-diouf",
+      "timestamp": "20210708224119",
+      "original": "https://www.nba.com/draft/2021/prospects/mouhamet-diouf",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ZC47MYEZ2B4VAFGUU2MWNIDXVPZ7I3BB",
+      "length": "19890"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/nahshon-hyland",
+      "timestamp": "20210727232933",
+      "original": "https://www.nba.com/draft/2021/prospects/nahshon-hyland",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "KBUBNPGOFAJ5R4JHVLRZXY5J26JC5YTB",
+      "length": "22848"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/neemias-queta",
+      "timestamp": "20210709231604",
+      "original": "https://www.nba.com/draft/2021/prospects/neemias-queta",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "VRIHGEUASSVNCTJ3R7A34CQSBFTBLUBY",
+      "length": "20756"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/nemanja-popovic",
+      "timestamp": "20210708224505",
+      "original": "https://www.nba.com/draft/2021/prospects/nemanja-popovic",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "SJXY4ECXPBITPL5HPYGJKFB5LXV47J6T",
+      "length": "20524"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/nikita-mikhailovskii",
+      "timestamp": "20210708224515",
+      "original": "https://www.nba.com/draft/2021/prospects/nikita-mikhailovskii",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "XP3NAYHLLED6ZAJU2MSWH7VJ3FR36VK7",
+      "length": "20768"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/nikolaos-rogkavopoulos",
+      "timestamp": "20210708224144",
+      "original": "https://www.nba.com/draft/2021/prospects/nikolaos-rogkavopoulos",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "SFGZK7LIBMBQITDALLNQ2FSFTK6IKJFW",
+      "length": "20558"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/ousmane-diop",
+      "timestamp": "20210708223928",
+      "original": "https://www.nba.com/draft/2021/prospects/ousmane-diop",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "X6MD3FYN5EUCUAAQHFJABOEIW6TUUNQC",
+      "length": "20118"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/pavel-savkov",
+      "timestamp": "20210708224135",
+      "original": "https://www.nba.com/draft/2021/prospects/pavel-savkov",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NMFK64EEGWF7J375EZEXHA5DZ6Z4LQJF",
+      "length": "19787"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/quentin-grimes",
+      "timestamp": "20210709232620",
+      "original": "https://www.nba.com/draft/2021/prospects/quentin-grimes",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2HAUD3C4NI5H3YZGG4JW4HNC3TWTULCU",
+      "length": "21014"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/raiquan-gray",
+      "timestamp": "20210708224720",
+      "original": "https://www.nba.com/draft/2021/prospects/raiquan-gray",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GOZ2BEDBHY6RHONMPJMETR4SSPVDMPAD",
+      "length": "23181"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/rj-nembhard",
+      "timestamp": "20210713033513",
+      "original": "https://www.nba.com/draft/2021/prospects/rj-nembhard",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "W72HZ2SDGTYCQHW6QCTRFSQP7VVUKTVE",
+      "length": "20441"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/rokas-jokubaitis",
+      "timestamp": "20210716081830",
+      "original": "https://www.nba.com/draft/2021/prospects/rokas-jokubaitis",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "X7O5ZCKQFEVGGES373AZ4WLRBWPVEA2I",
+      "length": "20220"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/roko-prkacin",
+      "timestamp": "20210708222900",
+      "original": "https://www.nba.com/draft/2021/prospects/roko-prkacin",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "T7QWNUQRYNAZVM57EU6C2ZBQAK4BUOTU",
+      "length": "22732"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/romeo-weems",
+      "timestamp": "20210713032626",
+      "original": "https://www.nba.com/draft/2021/prospects/romeo-weems",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "YVMUCO733XHLSFFLW5GG5Z7WSOW24GHG",
+      "length": "20343"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/sam-hauser",
+      "timestamp": "20210716081645",
+      "original": "https://www.nba.com/draft/2021/prospects/sam-hauser",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WMKYAZNYLE4YL6VWIFIPRLOC6HSFV32M",
+      "length": "20583"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/sandro-mamukelashvili",
+      "timestamp": "20210708224738",
+      "original": "https://www.nba.com/draft/2021/prospects/sandro-mamukelashvili",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3SLSURQRFPAIJ2KQH2QMIDXOB2B36WVB",
+      "length": "22598"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/santi-aldama",
+      "timestamp": "20210716081247",
+      "original": "https://www.nba.com/draft/2021/prospects/santi-aldama",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "KRSGIM3QPZOYFC5GQ5FA3FH6RAJB4ATT",
+      "length": "21351"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/scottie-barnes",
+      "timestamp": "20210708224728",
+      "original": "https://www.nba.com/draft/2021/prospects/scottie-barnes",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "66RIOAZDLHL4FW7YP3VBTQD7HRK4KN6G",
+      "length": "23141"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/scottie-lewis",
+      "timestamp": "20210709230716",
+      "original": "https://www.nba.com/draft/2021/prospects/scottie-lewis",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "HBG5ZXHW3DA6KGJTTZNZXJNZ7GLJTVF4",
+      "length": "20640"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/sharife-cooper",
+      "timestamp": "20210708224251",
+      "original": "https://www.nba.com/draft/2021/prospects/sharife-cooper",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "RJSUZH3D5F63P4EBQHUXER37PLMY5OXY",
+      "length": "22359"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/sitraka-raharimanantoanina",
+      "timestamp": "20210708223034",
+      "original": "https://www.nba.com/draft/2021/prospects/sitraka-raharimanantoanina",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "D2HOT6F3OMCS6EVPGY4CROW7YQREX7HL",
+      "length": "20651"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/tarik-biberovic",
+      "timestamp": "20210708224535",
+      "original": "https://www.nba.com/draft/2021/prospects/tarik-biberovic",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "LP6JTYRENJ3LWAN6JPB5DKWOX3STCTJP",
+      "length": "20318"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/tom-digbeu",
+      "timestamp": "20210708224509",
+      "original": "https://www.nba.com/draft/2021/prospects/tom-digbeu",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "6O6EUP7ZNT7D2A2MJDRNXD52VEQPXZ24",
+      "length": "20446"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/tomas-pavelka",
+      "timestamp": "20210708223738",
+      "original": "https://www.nba.com/draft/2021/prospects/tomas-pavelka",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QITWSG5VP5XRXLNGBFFCTX54FIKVYZGT",
+      "length": "19535"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/tre-mann",
+      "timestamp": "20210708223858",
+      "original": "https://www.nba.com/draft/2021/prospects/tre-mann",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "RXOKBZBZOK7XEUJXU6MN35JQM6WKG4F7",
+      "length": "22385"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/trendon-watford",
+      "timestamp": "20210708223847",
+      "original": "https://www.nba.com/draft/2021/prospects/trendon-watford",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "HWA5FSW6UBCI76JETCVBNPQIPHAZRMIE",
+      "length": "22240"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/trey-murphy",
+      "timestamp": "20210713033517",
+      "original": "https://www.nba.com/draft/2021/prospects/trey-murphy",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "RGCIRB6L7RP4ZJ7QWTFKNVQEEJT5WBFK",
+      "length": "20146"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/uros-trifunovic",
+      "timestamp": "20210708223741",
+      "original": "https://www.nba.com/draft/2021/prospects/uros-trifunovic",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QXXLTZBWEUZY2DFY4Q56D6A6RTVKQJKF",
+      "length": "20286"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/usman-garuba",
+      "timestamp": "20210708223117",
+      "original": "https://www.nba.com/draft/2021/prospects/usman-garuba",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "KL6QL4JQAI6E4ILVCO4XURHIXU2RMKVD",
+      "length": "23035"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/vinicius-da-silva",
+      "timestamp": "20210708222755",
+      "original": "https://www.nba.com/draft/2021/prospects/vinicius-da-silva",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "UANN4MAM6LLFS4XZFEJCNIEBMDN7W4EW",
+      "length": "19973"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/vladislav-odinokov",
+      "timestamp": "20210708224158",
+      "original": "https://www.nba.com/draft/2021/prospects/vladislav-odinokov",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ZVED777T2JMIJNMZC2LQAZKYTYATGNNQ",
+      "length": "20072"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/vrenz-bleijenbergh",
+      "timestamp": "20210708224911",
+      "original": "https://www.nba.com/draft/2021/prospects/vrenz-bleijenbergh",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2ATGY7A7JQB2TKHT6KMYWBTTWZKYTL4X",
+      "length": "20819"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/yoan-makoundou",
+      "timestamp": "20210708222855",
+      "original": "https://www.nba.com/draft/2021/prospects/yoan-makoundou",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2URDAYKP7C4NYGX4GGMX7E3LPCDOSNWO",
+      "length": "19746"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/yves-pons",
+      "timestamp": "20210709233604",
+      "original": "https://www.nba.com/draft/2021/prospects/yves-pons",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "SGOZYA5P3RJ4665DBVAYWS3IQLC5K4HL",
+      "length": "21021"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/ziaire-williams",
+      "timestamp": "20210708224814",
+      "original": "https://www.nba.com/draft/2021/prospects/ziaire-williams",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "J3LSFSCREPWADEYVWGH7HJ3WRXIOSBWE",
+      "length": "22684"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/ziga-samar",
+      "timestamp": "20210708225132",
+      "original": "https://www.nba.com/draft/2021/prospects/ziga-samar",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "A2QIEDONB4C4UPF67HR6YSIUBLKOLO7O",
+      "length": "20159"
+    },
+    {
+      "urlkey": "com,nba)/draft/2021/prospects/zsombor-maronka",
+      "timestamp": "20210708224936",
+      "original": "https://www.nba.com/draft/2021/prospects/zsombor-maronka",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "EOHMW4JAJ6XFP2N3GAIL7JWMXNHME72F",
+      "length": "19805"
+    }
+  ]
+}

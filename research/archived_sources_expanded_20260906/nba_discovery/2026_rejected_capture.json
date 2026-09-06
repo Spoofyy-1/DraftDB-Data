@@ -1,0 +1,22 @@
+{
+  "draft_year": 2026,
+  "pid": "P8db9055dd7",
+  "source": {
+    "urlkey": "com,nba)/draft/2026/prospects/aj-dybantsa",
+    "timestamp": "20260624003534",
+    "original": "https://www.nba.com/draft/2026/prospects/aj-dybantsa",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "IN5QSBHYRZ5VZVVPFJFBHWJVMVUTAE5Z",
+    "length": "41438"
+  },
+  "archive_url": "https://web.archive.org/web/20260624003534id_/https://www.nba.com/draft/2026/prospects/aj-dybantsa",
+  "feature_eligible": false,
+  "status": "rejected_wrong_original_cutoff",
+  "cutoff_utc": "20260624040000",
+  "sha256": "81388f39ad06d90950b4adf50d50eb117bb9072caca8aef8c75b2d9e965b93cd",
+  "bytes": 39067,
+  "correct_draft_date": "2026-06-23",
+  "reason": "players.json hadJune24 but NBA announced Round1June23; embedded draftDetails contains assigned-draft fields",
+  "correct_date_source": "https://pr.nba.com/2026-nba-draft-early-entry-candidates/"
+}

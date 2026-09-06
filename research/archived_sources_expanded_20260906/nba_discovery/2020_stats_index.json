@@ -1,0 +1,90 @@
+{
+  "year": 2020,
+  "query_url": "https://web.archive.org/cdx/search/cdx?url=stats.nba.com%2Farticles%2F2020-nba-draft-profile-&matchType=prefix&to=20201118045959&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=urlkey&limit=150",
+  "cutoff_utc": "20201118045959",
+  "feature_eligible": false,
+  "status": "discovery_only",
+  "snapshots": [
+    {
+      "urlkey": "com,nba,stats)/articles/2020-nba-draft-profile-abdoulaye-ndoye",
+      "timestamp": "20201013054609",
+      "original": "https://stats.nba.com/articles/2020-nba-draft-profile-abdoulaye-ndoye/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "UAYRA72SRRB6Q6QYNZJB7M2DUOQEJMPY",
+      "length": "21135"
+    },
+    {
+      "urlkey": "com,nba,stats)/articles/2020-nba-draft-profile-aleksej-pokusevski",
+      "timestamp": "20200628143634",
+      "original": "https://stats.nba.com/articles/2020-nba-draft-profile-aleksej-pokusevski/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "LQ3NNUNMMSEZTL662ZQJRDRF3NGWZ4FJ",
+      "length": "20421"
+    },
+    {
+      "urlkey": "com,nba,stats)/articles/2020-nba-draft-profile-desmond-bane",
+      "timestamp": "20200928054941",
+      "original": "https://stats.nba.com/articles/2020-nba-draft-profile-desmond-bane/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "TMIYCFWXP7U5FJVQO3AG2HAYUL7DPHQV",
+      "length": "21588"
+    },
+    {
+      "urlkey": "com,nba,stats)/articles/2020-nba-draft-profile-devin-vassell",
+      "timestamp": "20201022185130",
+      "original": "https://stats.nba.com/articles/2020-nba-draft-profile-devin-vassell/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "BPW42P7WPHYMBAFDLD73ZEKWFDAB76FN",
+      "length": "20924"
+    },
+    {
+      "urlkey": "com,nba,stats)/articles/2020-nba-draft-profile-elijah-hughes",
+      "timestamp": "20201008050717",
+      "original": "https://stats.nba.com/articles/2020-nba-draft-profile-elijah-hughes/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NNMDBZ6A47VAKZAOMVZC2YVN3F5CLLGS",
+      "length": "21221"
+    },
+    {
+      "urlkey": "com,nba,stats)/articles/2020-nba-draft-profile-jordan-nwora",
+      "timestamp": "20201011053601",
+      "original": "https://stats.nba.com/articles/2020-nba-draft-profile-jordan-nwora/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "S3MSTR3RH3JJTWU3WW2FLESPFOMJLGRX",
+      "length": "20850"
+    },
+    {
+      "urlkey": "com,nba,stats)/articles/2020-nba-draft-profile-killian-hayes",
+      "timestamp": "20201022214606",
+      "original": "https://stats.nba.com/articles/2020-nba-draft-profile-killian-hayes/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "HPSFUG77J2DIMZ6OE3QORPBWDMTO2ZRP",
+      "length": "21325"
+    },
+    {
+      "urlkey": "com,nba,stats)/articles/2020-nba-draft-profile-paul-eboua",
+      "timestamp": "20201019222319",
+      "original": "https://stats.nba.com/articles/2020-nba-draft-profile-paul-eboua/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "RHZTDNE5QIQEDFJK5DYDD3YSOJU6GSYR",
+      "length": "20880"
+    },
+    {
+      "urlkey": "com,nba,stats)/articles/2020-nba-draft-profile-rj-hampton",
+      "timestamp": "20201005172332",
+      "original": "https://stats.nba.com/articles/2020-nba-draft-profile-rj-hampton/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "FDLORG3ISCYSLGKBCQOIQEZGMASMFF52",
+      "length": "21080"
+    }
+  ]
+}

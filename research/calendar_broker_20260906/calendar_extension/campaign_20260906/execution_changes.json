@@ -1,0 +1,9 @@
+{
+  "updated": 1788693454.272775,
+  "reason": "A missing individual statistics endpoint returned404. Preserve the record as unresolved and continue other candidates;403/429 still stop/backoff. No identity, season extraction or promotion rules changed.",
+  "old_code_sha256": "84daa0d33269cd5b6e6e9a19db5909c9a62c5c25bf33ceeaff4b30a104198098",
+  "new_code_sha256": "16003f838e7f89a594c78ab90fbd388c36c266d323ac492d09f28bca719303a1",
+  "original_deadline": 1788699909.169676,
+  "remaining_seconds": 6454,
+  "cumulative_request_ceiling": 900
+}

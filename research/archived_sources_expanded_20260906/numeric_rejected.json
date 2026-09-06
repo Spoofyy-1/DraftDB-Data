@@ -1,0 +1,38 @@
+[
+  {
+    "candidate_key": "f74b280f624716eccb69372571eba789bc668e58331e8f66e0d9048f2de8eb75",
+    "source_id": "dx3992",
+    "pid": "P163aa00374",
+    "value": 1.6,
+    "decision": "reject",
+    "metric": "report_finish_pps",
+    "reason": "approximate nearly1.6, omitted"
+  },
+  {
+    "candidate_key": "c8a3eced9a02b4f595c0e3a31603bf88c6430060ac70f639fd7bdeea2bf3aea5",
+    "source_id": "dx4278",
+    "pid": "Pf7f191defd",
+    "value": 1.393,
+    "decision": "reject",
+    "metric": "report_finish_pps",
+    "reason": "prior college season, not current-season field"
+  },
+  {
+    "candidate_key": "96739c549ea2973d015fdf5aaea39eb38f96a64724d175cca167b8d6ceefdc91",
+    "source_id": "dx4617",
+    "pid": "Pb8a773b356",
+    "value": 0.619,
+    "decision": "reject",
+    "metric": "report_jump_pps",
+    "reason": "wrong subject; value describes Elfrid Payton"
+  },
+  {
+    "candidate_key": "cd737669b64e071e74d3b8a9c19146fd8a37e3c9895f3801e77c7227f7126faf",
+    "source_id": "dx4627",
+    "pid": "Pa47459a77d",
+    "value": 1.031,
+    "decision": "reject",
+    "metric": "report_post_ppp",
+    "reason": "prior college season, not current-season field"
+  }
+]

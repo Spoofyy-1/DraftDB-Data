@@ -1,0 +1,102 @@
+{
+  "scope": "exact pid identity matches in verified sources; coverage relative to model input matrix must be rechecked at integration",
+  "synergy_total": {
+    "players": 111,
+    "observations": 369,
+    "metrics": 74
+  },
+  "text_total": {
+    "players": 114,
+    "observations": 2166,
+    "metrics": 19
+  },
+  "folds": [
+    {
+      "training_draft_year_at_most": 2010,
+      "validation_draft_year": 2012,
+      "numeric_training": {
+        "players": 29,
+        "observations": 182,
+        "metrics": 60
+      },
+      "numeric_validation": {
+        "players": 9,
+        "observations": 39,
+        "metrics": 24
+      },
+      "numeric_validation_with_training_observed_column": {
+        "players": 8,
+        "observations": 29,
+        "metrics": 15
+      },
+      "text_training": {
+        "players": 28,
+        "observations": 532,
+        "metrics": 19
+      },
+      "text_validation": {
+        "players": 10,
+        "observations": 190,
+        "metrics": 19
+      }
+    },
+    {
+      "training_draft_year_at_most": 2011,
+      "validation_draft_year": 2013,
+      "numeric_training": {
+        "players": 49,
+        "observations": 247,
+        "metrics": 66
+      },
+      "numeric_validation": {
+        "players": 20,
+        "observations": 31,
+        "metrics": 13
+      },
+      "numeric_validation_with_training_observed_column": {
+        "players": 20,
+        "observations": 31,
+        "metrics": 13
+      },
+      "text_training": {
+        "players": 39,
+        "observations": 741,
+        "metrics": 19
+      },
+      "text_validation": {
+        "players": 26,
+        "observations": 494,
+        "metrics": 19
+      }
+    },
+    {
+      "training_draft_year_at_most": 2012,
+      "validation_draft_year": 2014,
+      "numeric_training": {
+        "players": 58,
+        "observations": 286,
+        "metrics": 73
+      },
+      "numeric_validation": {
+        "players": 33,
+        "observations": 52,
+        "metrics": 15
+      },
+      "numeric_validation_with_training_observed_column": {
+        "players": 33,
+        "observations": 51,
+        "metrics": 14
+      },
+      "text_training": {
+        "players": 49,
+        "observations": 931,
+        "metrics": 19
+      },
+      "text_validation": {
+        "players": 39,
+        "observations": 741,
+        "metrics": 19
+      }
+    }
+  ]
+}

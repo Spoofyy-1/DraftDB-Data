@@ -1,0 +1,64 @@
+{
+  "source_id": "dx3992",
+  "publication_date": "2012-06-23",
+  "review": "Numerical statements manually checked in the complete historical article body. Percentage denominators are kept separate. PPP/PPS follow the article notation and local scoring-efficiency context; approximate values and rankings omitted.",
+  "players": {
+    "Anthony Davis": {
+      "poss_pg": 11.6,
+      "turnover_pct": 8.6,
+      "cut_fg_pct": 83,
+      "rim_fg_pct": 78,
+      "isolation_ppp": 0.903,
+      "isolation_poss_total": 31,
+      "post_poss_pct": 13.5,
+      "post_ppp": 0.85,
+      "post_poss_pg": 1.6,
+      "pickroll_finish_poss_pg": 1.5,
+      "jump_ppp": 0.731,
+      "jump_fg_pct": 34,
+      "jump_fgm_total": 23,
+      "jump_fga_total": 67,
+      "jump_poss_pct": 22
+    },
+    "Andre Drummond": {
+      "overall_ppp": 0.925,
+      "post_ppp": 0.578
+    },
+    "Thomas Robinson": {
+      "poss_pg": 18.3,
+      "overall_ppp": 0.959
+    },
+    "John Henson": {
+      "poss_pg": 14.1,
+      "overall_ppp": 0.923,
+      "post_ppp": 0.805,
+      "post_fg_pct": 42,
+      "jump_ppp": 0.691,
+      "jump_fg_pct": 35,
+      "transition_poss_pg": 1.9
+    },
+    "Tyler Zeller": {
+      "poss_pg": 14.4,
+      "overall_ppp": 1.086,
+      "transition_ppp": 1.673,
+      "jump_pps": 1.031
+    },
+    "Jared Sullinger": {
+      "post_poss_pg": 7.8,
+      "post_turnover_pct": 8.3,
+      "cut_ppp": 1.426
+    },
+    "Meyers Leonard": {
+      "post_ppp": 1.048,
+      "finish_ppp": 1.417
+    },
+    "Arnett Moultrie": {
+      "post_ppp": 0.851,
+      "jump_ppp": 0.826
+    },
+    "Miles Plumlee": {
+      "transition_poss_total": 10,
+      "jump_fga_total": 12
+    }
+  }
+}

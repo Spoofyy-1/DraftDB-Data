@@ -1,0 +1,54 @@
+{
+  "eligible_observations": 2787,
+  "eligible_players": 217,
+  "eligible_metrics": 100,
+  "numeric_players": 200,
+  "text_players": 114,
+  "per_year": {
+    "2007": {
+      "all": 34,
+      "numeric": 34,
+      "text": 0
+    },
+    "2008": {
+      "all": 55,
+      "numeric": 55,
+      "text": 0
+    },
+    "2009": {
+      "all": 13,
+      "numeric": 12,
+      "text": 11
+    },
+    "2010": {
+      "all": 20,
+      "numeric": 17,
+      "text": 17
+    },
+    "2011": {
+      "all": 20,
+      "numeric": 20,
+      "text": 11
+    },
+    "2012": {
+      "all": 10,
+      "numeric": 9,
+      "text": 10
+    },
+    "2013": {
+      "all": 26,
+      "numeric": 20,
+      "text": 26
+    },
+    "2014": {
+      "all": 39,
+      "numeric": 33,
+      "text": 39
+    }
+  },
+  "numeric_unreviewed": 43,
+  "conflicting_features_quarantined": 1,
+  "source_time_policy": "strictly before midnight America/New_York on each player draft date",
+  "training_or_test_scoring_performed": false,
+  "next_step": "Separate numeric Synergy and fixed-lexicon text family ablations; use original folds, seeds, outcome calendar cutoffs and complete class denominator"
+}

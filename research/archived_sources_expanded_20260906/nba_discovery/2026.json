@@ -1,0 +1,70 @@
+{
+  "draft_year": 2026,
+  "query_url": "https://web.archive.org/cdx/search/cdx?url=www.nba.com%2Fdraft%2F2026%2Fprospects%2F&matchType=prefix&from=20250701&to=20260624040000&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=urlkey&limit=150",
+  "cutoff_utc": "20260623040000",
+  "feature_eligible": false,
+  "status": "discovery_only",
+  "retrieved_at": 1788692457.9039218,
+  "snapshots": [
+    {
+      "urlkey": "com,nba)/draft/2026/prospects",
+      "timestamp": "20260527152254",
+      "original": "https://www.nba.com/draft/2026/prospects",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "XAQDBZD6O5LN7X6GOU47ZFGPTLF4DJ44",
+      "length": "44763"
+    },
+    {
+      "urlkey": "com,nba)/draft/2026/prospects/bennett-stirtz",
+      "timestamp": "20260527152301",
+      "original": "https://www.nba.com/draft/2026/prospects/bennett-stirtz",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "VMWDHKSE5KL737CJDSY3M2FAQANWJYGT",
+      "length": "40340"
+    },
+    {
+      "urlkey": "com,nba)/draft/2026/prospects/bryce-hopkins",
+      "timestamp": "20260622220731",
+      "original": "https://www.nba.com/draft/2026/prospects/bryce-hopkins",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WCMFGNLXAQF4LFA45N7Z6GONQ4T4YR2G",
+      "length": "38653"
+    },
+    {
+      "urlkey": "com,nba)/draft/2026/prospects/joshua-jefferson",
+      "timestamp": "20260602122316",
+      "original": "https://www.nba.com/draft/2026/prospects/joshua-jefferson",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "XG2JENHOWELYO6JTCL57QJLTCJJ3Y6KC",
+      "length": "38816"
+    },
+    {
+      "urlkey": "com,nba)/draft/2026/prospects/yaxel-lendeborg",
+      "timestamp": "20260602171933",
+      "original": "https://www.nba.com/draft/2026/prospects/yaxel-lendeborg",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "RKLIRJZ5A4U7CKEUYAY72XC3R3RSDBCU",
+      "length": "39357"
+    },
+    {
+      "urlkey": "com,nba)/draft/2026/prospects/zuby-ejiofor-2",
+      "timestamp": "20260527152243",
+      "original": "https://www.nba.com/draft/2026/prospects/zuby-ejiofor-2",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "D2UHBLRHNQK76P6WUCCKRJGDKM5W7UVQ",
+      "length": "39349"
+    }
+  ],
+  "previous_cutoff_utc": "20260624040000",
+  "cutoff_correction_source": {
+    "draft_date": "2026-06-23",
+    "source_url": "https://pr.nba.com/2026-nba-draft-early-entry-candidates/",
+    "reason": "Round1 determines universal pre-draft cutoff"
+  }
+}

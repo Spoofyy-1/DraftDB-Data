@@ -1,0 +1,24 @@
+{
+  "created": 1788692709.169676,
+  "authorization": "Parent explicitly authorized bounded collection at 300 athletes / 2 hours, no automatic broker promotion",
+  "catalog_count": 628,
+  "athlete_cap": 300,
+  "selection": "First 300 IDs in publisher catalog order, independent of NBA performance",
+  "catalog_warning": "2023, 2024, 2025 catalog identity sets were identical; historical completeness is unverified",
+  "max_seconds": 7200,
+  "max_requests": 900,
+  "requests_per_second_max": 1,
+  "network_concurrency": 1,
+  "identity_filter": "Unique exact normalized project name with existing NBA ID, draft cohort through 2024; no career-table requests for nonmatches",
+  "timeline_verified_rule": "Both explicit NBA regular-season and postseason tables plus exact unique historical RAPTOR identity and complete matching pre-2023 season sets",
+  "no_WAR_values_read": true,
+  "no_model_or_scoring": true,
+  "no_broker_promotion": true,
+  "raw_responses_private": true,
+  "inputs": {
+    "/Users/kennakao/Documents/Codex/2026-09-06/https-github-com-spoofyy-1-draftdb/work/calendar_broker/calendar_extension/private/espn_athlete_season_catalog_2023.json": "1b695b36c8e1b3f521df3629091c969c9fa048483288affd8e4394fbdd353296",
+    "/Users/kennakao/nba/datarebuild/identity/tabular_names.csv": "bc6636a31ce22748d68360771fa633a91879495f29160ce871da15392b55bb41",
+    "/Users/kennakao/Documents/Codex/2026-09-06/https-github-com-spoofyy-1-draftdb/work/audit/historical_RAPTOR_by_player.csv": "9c90010404c2b557524b6ab7172e2b41a08cf57e929f2753a6c7e9ac7c520ac8",
+    "/Users/kennakao/Documents/Codex/2026-09-06/https-github-com-spoofyy-1-draftdb/work/calendar_broker/calendar_extension/campaign_20260906/collector.py": "84daa0d33269cd5b6e6e9a19db5909c9a62c5c25bf33ceeaff4b30a104198098"
+  }
+}

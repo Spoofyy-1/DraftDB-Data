@@ -1,0 +1,730 @@
+{
+  "draft_year": 2024,
+  "query_url": "https://web.archive.org/cdx/search/cdx?url=www.nba.com%2Fdraft%2F2024%2Fprospects%2F&matchType=prefix&from=20230701&to=20240626040000&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=urlkey&limit=150",
+  "cutoff_utc": "20240626040000",
+  "feature_eligible": false,
+  "status": "discovery_only",
+  "retrieved_at": 1788692455.62287,
+  "snapshots": [
+    {
+      "urlkey": "com,nba)/draft/2024/prospects",
+      "timestamp": "20240529164418",
+      "original": "https://www.nba.com/draft/2024/prospects",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "MDGBM3RCXSMKBPQTWLDCESDNIU66MWO2",
+      "length": "34198"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/adem-bona",
+      "timestamp": "20240604170802",
+      "original": "https://www.nba.com/draft/2024/prospects/adem-bona",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "X4SDEGSLQZLEI4KDNWOCTGMXIPCGGHKO",
+      "length": "26495"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/aj-johnson",
+      "timestamp": "20240604170525",
+      "original": "https://www.nba.com/draft/2024/prospects/aj-johnson",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "UOBYIBUBBSMXRHICBPGCFI2KZPMX3PT7",
+      "length": "25469"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/ajay-mitchell",
+      "timestamp": "20240604170702",
+      "original": "https://www.nba.com/draft/2024/prospects/ajay-mitchell",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ICXBDVIHLKCVIRWMJWRTAU4XVA3DECS4",
+      "length": "26249"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/alexandre-sarr",
+      "timestamp": "20240604170552",
+      "original": "https://www.nba.com/draft/2024/prospects/alexandre-sarr",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "33ECXX2H3ZE6NE2TKWAW2NA45PNLZJGE",
+      "length": "26308"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/antonio-reeves",
+      "timestamp": "20240604170528",
+      "original": "https://www.nba.com/draft/2024/prospects/antonio-reeves",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7XLBTNG2YB4RDBTVV6TGGRLR3RCPNT4M",
+      "length": "26235"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/ariel-hukporti-2",
+      "timestamp": "20240604170758",
+      "original": "https://www.nba.com/draft/2024/prospects/ariel-hukporti-2",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "A7CZSSASIDQFKHPB6QC6UK47ADCQMPAI",
+      "length": "26510"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/baylor-scheierman-2",
+      "timestamp": "20240604170707",
+      "original": "https://www.nba.com/draft/2024/prospects/baylor-scheierman-2",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "BKRV7W5KOOS4IPENNCS4JNVP47YQDAV7",
+      "length": "26461"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/blake-hinson",
+      "timestamp": "20240604170859",
+      "original": "https://www.nba.com/draft/2024/prospects/blake-hinson",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "CAE2ZE7DPOGETI7TV5ZA6YEICQES5AYJ",
+      "length": "26128"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/bobi-klintman",
+      "timestamp": "20240604170513",
+      "original": "https://www.nba.com/draft/2024/prospects/bobi-klintman",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "BQCAXND277CTZKVQQESAKYGH46PN4ZKJ",
+      "length": "26626"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/bronny-james",
+      "timestamp": "20240604170611",
+      "original": "https://www.nba.com/draft/2024/prospects/bronny-james",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "UCVNSBQ3IFUIXK6AYT75VYRZFXE2YXOC",
+      "length": "26252"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/cam-christie",
+      "timestamp": "20240531050710",
+      "original": "https://www.nba.com/draft/2024/prospects/cam-christie",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ONGSELPHA42QFNYI3ZZXFQPGGFTZLV6Q",
+      "length": "25472"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/cam-spencer",
+      "timestamp": "20240604170545",
+      "original": "https://www.nba.com/draft/2024/prospects/cam-spencer",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ZDLXLME4EJARPVXOAN5DWJ5SAQKADUT7",
+      "length": "26009"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/carlton-carrington",
+      "timestamp": "20240604170606",
+      "original": "https://www.nba.com/draft/2024/prospects/carlton-carrington",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "LVR5YCOHUPFCRZYAWDTUPFA6SHXWKCIM",
+      "length": "26526"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/cody-williams",
+      "timestamp": "20240604170856",
+      "original": "https://www.nba.com/draft/2024/prospects/cody-williams",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "Q6EDQ7V6NV6LE7WFKULNUYOMZCO37B4P",
+      "length": "26890"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/dalton-knecht",
+      "timestamp": "20240604170923",
+      "original": "https://www.nba.com/draft/2024/prospects/dalton-knecht",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NZOBNHKBXK2UNLSPT7PA75MDD3OR5RSP",
+      "length": "27164"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/dante-nfaly",
+      "timestamp": "20240604170508",
+      "original": "https://www.nba.com/draft/2024/prospects/dante-nfaly",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "R6HJHICTFHI4H2GZ5XUK53SXJG2D67NJ",
+      "length": "26362"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/daron-holmes-ii",
+      "timestamp": "20240604170838",
+      "original": "https://www.nba.com/draft/2024/prospects/daron-holmes-ii",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "JA65LTDDS54G46CP6A5YYSJC3J5S7WI2",
+      "length": "26686"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/david-jones",
+      "timestamp": "20240604170537",
+      "original": "https://www.nba.com/draft/2024/prospects/david-jones",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "6UM2KZQIVQNQJVWDKOXWP4B4SBZFWTZV",
+      "length": "26502"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/devin-carter",
+      "timestamp": "20240604170713",
+      "original": "https://www.nba.com/draft/2024/prospects/devin-carter",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ZX5XPLZAFDVQC5KFIJNNHLV6WWJRGE6D",
+      "length": "26775"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/dillon-jones",
+      "timestamp": "20240604170755",
+      "original": "https://www.nba.com/draft/2024/prospects/dillon-jones",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "VA3QZSCPY6MJ7BWLTTBJG4TBOFAXHBHF",
+      "length": "26065"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/dj-wagner",
+      "timestamp": "20240604170721",
+      "original": "https://www.nba.com/draft/2024/prospects/dj-wagner",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "KOBWXIYGGKJJXNDFSQ374EZLYGD3FQGS",
+      "length": "26251"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/donovan-clingan",
+      "timestamp": "20240604170602",
+      "original": "https://www.nba.com/draft/2024/prospects/donovan-clingan",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "LGYOBAY2E7IRD66GLT2FU6FN7KYX4PUT",
+      "length": "26959"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/enrique-freeman",
+      "timestamp": "20240604170937",
+      "original": "https://www.nba.com/draft/2024/prospects/enrique-freeman",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "PU7PXNAHBOSIWWOOIDL2JNYCUQM5QBI5",
+      "length": "26356"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/grant-nelson",
+      "timestamp": "20240604170540",
+      "original": "https://www.nba.com/draft/2024/prospects/grant-nelson",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "HIKFKXM56RRLXPVG7NEF6W5VI23ZXWX3",
+      "length": "26641"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/harrison-ingram",
+      "timestamp": "20240531050629",
+      "original": "https://www.nba.com/draft/2024/prospects/harrison-ingram",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "VNUJM6Q4MN4WI2QTK7SF7XDDUOYBSG3X",
+      "length": "25005"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/isaac-jones",
+      "timestamp": "20240604170820",
+      "original": "https://www.nba.com/draft/2024/prospects/isaac-jones",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "67JEPBEUBHOAM3AKVBIAAVRYSC7IK3GA",
+      "length": "26425"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/isaiah-collier",
+      "timestamp": "20240604170914",
+      "original": "https://www.nba.com/draft/2024/prospects/isaiah-collier",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "VXE7HXVQV4IRISRUVXTCPBFRQZ3GG5NY",
+      "length": "26767"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/izan-almansa",
+      "timestamp": "20240604170531",
+      "original": "https://www.nba.com/draft/2024/prospects/izan-almansa",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "UZXHZVMKQACGUH43BGFP4UPSPFJAIJEE",
+      "length": "26798"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/jakobe-walter",
+      "timestamp": "20240604170932",
+      "original": "https://www.nba.com/draft/2024/prospects/jakobe-walter",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "V47VSTZLRR435K66CM4WBBP6QBKNK5WQ",
+      "length": "26246"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/jalen-bridges",
+      "timestamp": "20240604170908",
+      "original": "https://www.nba.com/draft/2024/prospects/jalen-bridges",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "TYV235KWOHB75OJJXZBTJ7HXXXZXWXPO",
+      "length": "26672"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/jamal-shead",
+      "timestamp": "20240604170929",
+      "original": "https://www.nba.com/draft/2024/prospects/jamal-shead",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "XZJ5BIA6OW5SSQ4X764FA4SA4LRCL6IW",
+      "length": "25944"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/jared-mccain",
+      "timestamp": "20240604170614",
+      "original": "https://www.nba.com/draft/2024/prospects/jared-mccain",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "KWRAOTVDA44FLYS3M5FC3TZAQWYLRGKN",
+      "length": "26382"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/jaylen-wells",
+      "timestamp": "20240604170935",
+      "original": "https://www.nba.com/draft/2024/prospects/jaylen-wells",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "LTVR5UDCQBC5HSDA62DHCQFFJLMVJT42",
+      "length": "26300"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/jaylon-tyson",
+      "timestamp": "20240604170846",
+      "original": "https://www.nba.com/draft/2024/prospects/jaylon-tyson",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ZZ3QVYAKTV3BEM5N27IN7P2Z37OIIZZV",
+      "length": "25902"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/jesse-edwards",
+      "timestamp": "20240604170631",
+      "original": "https://www.nba.com/draft/2024/prospects/jesse-edwards",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WTU73NIU532LGE46LML4HAF4AK4JA5TD",
+      "length": "26066"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/johnny-furphy",
+      "timestamp": "20240604111638",
+      "original": "https://www.nba.com/draft/2024/prospects/johnny-furphy",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "PGVJGE7LWCENMRBVA5UNPUE2FBWDWPQG",
+      "length": "26172"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/jonathan-mogbo",
+      "timestamp": "20240604170628",
+      "original": "https://www.nba.com/draft/2024/prospects/jonathan-mogbo",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "AZTTFY4YI7UPE76ELITEPGKPJJ6ILLK7",
+      "length": "26535"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/juan-nunez",
+      "timestamp": "20240604170517",
+      "original": "https://www.nba.com/draft/2024/prospects/juan-nunez",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "HGAP7T555XVGAQWOGL6IETDGW7YSUDS4",
+      "length": "26424"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/judah-mintz",
+      "timestamp": "20240604170823",
+      "original": "https://www.nba.com/draft/2024/prospects/judah-mintz",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ODIX55EC5MJDBHKDOOEIDJMKRZC65QLF",
+      "length": "25754"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/justin-edwards",
+      "timestamp": "20240604170700",
+      "original": "https://www.nba.com/draft/2024/prospects/justin-edwards",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "FQAPDQSIHOUAQM4C7IUDC7OR36Q7OYCK",
+      "length": "26056"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/kelel-ware",
+      "timestamp": "20240604170641",
+      "original": "https://www.nba.com/draft/2024/prospects/kelel-ware",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "G6Q6EF4NENEYBSOMJOH5DD4QRZPUK3JA",
+      "length": "26494"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/keshad-johnson",
+      "timestamp": "20240604170731",
+      "original": "https://www.nba.com/draft/2024/prospects/keshad-johnson",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "FFAQOVB57QZFB7Z2TYE32BECWAF5ZVNQ",
+      "length": "26415"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/kevin-mccullar-jr",
+      "timestamp": "20240604170747",
+      "original": "https://www.nba.com/draft/2024/prospects/kevin-mccullar-jr",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NVB4W7ABZ2BXGTHZPQNXE6M3LC55GSPI",
+      "length": "26478"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/kj-simpson",
+      "timestamp": "20240604170728",
+      "original": "https://www.nba.com/draft/2024/prospects/kj-simpson",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "R7Z4OUEB4Y3DJMI75CVYO7I4IEJGZ2LP",
+      "length": "26536"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/kwame-evans",
+      "timestamp": "20240604170521",
+      "original": "https://www.nba.com/draft/2024/prospects/kwame-evans",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "MCJPH6RYLJQ6RQZ7YP5GCM4DUCZJRJ4V",
+      "length": "25874"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/kyle-filipowski",
+      "timestamp": "20240604170534",
+      "original": "https://www.nba.com/draft/2024/prospects/kyle-filipowski",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "EYGDYMUGYTMIUY5WA5UGLRVILZR526Z5",
+      "length": "26651"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/kyshawn-george",
+      "timestamp": "20240604170548",
+      "original": "https://www.nba.com/draft/2024/prospects/kyshawn-george",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "JU2VSJYZQPU6676JWJOCVRPCIKDNGZEA",
+      "length": "26403"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/mantas-rubstavicius",
+      "timestamp": "20240604170842",
+      "original": "https://www.nba.com/draft/2024/prospects/mantas-rubstavicius",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "FS3TU3NGHT5EE4MTA4Q72DFDXZANA6DG",
+      "length": "27039"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/matas-buzelis",
+      "timestamp": "20240604170718",
+      "original": "https://www.nba.com/draft/2024/prospects/matas-buzelis",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "65ODB3IBMEG4M5GHSHZLNWX3DZNVNJD6",
+      "length": "26218"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/melvin-ajinca",
+      "timestamp": "20240604170911",
+      "original": "https://www.nba.com/draft/2024/prospects/melvin-ajinca",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7KHMBCM4NOP5LDXGQK6S5I435WPR44XK",
+      "length": "26473"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/naeqwan-tomlin",
+      "timestamp": "20240604170635",
+      "original": "https://www.nba.com/draft/2024/prospects/naeqwan-tomlin",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "B5ZPRQIMCBPRWTFLCFBXBPQODCXWDADP",
+      "length": "26595"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/nikola-djurisic",
+      "timestamp": "20240604170724",
+      "original": "https://www.nba.com/draft/2024/prospects/nikola-djurisic",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "IV6ICLSBGFZJIIHWIXMC6ZNQBEBZYESZ",
+      "length": "26500"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/nikola-topic",
+      "timestamp": "20240604170726",
+      "original": "https://www.nba.com/draft/2024/prospects/nikola-topic",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ZJAYCVDC6IPAW4PQFNH73PM5WVIXNOFU",
+      "length": "26196"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/oso-ighodaro",
+      "timestamp": "20240604170832",
+      "original": "https://www.nba.com/draft/2024/prospects/oso-ighodaro",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "6WCJFUN7BX2C6OPAJ2OLFT2F63XWGFWI",
+      "length": "26432"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/pacome-dadiet",
+      "timestamp": "20240604170917",
+      "original": "https://www.nba.com/draft/2024/prospects/pacome-dadiet",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "4JKXZ6BKYVGBSSYMBAXHNOCBLMWEAUXD",
+      "length": "26722"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/pelle-larsson",
+      "timestamp": "20240604170710",
+      "original": "https://www.nba.com/draft/2024/prospects/pelle-larsson",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "F5OYNXCVFRKJTGNRDIVNJN6LL3KCC3BY",
+      "length": "26586"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/pj-hall",
+      "timestamp": "20240604170836",
+      "original": "https://www.nba.com/draft/2024/prospects/pj-hall",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "JXBEPRNEJCFB7WFW7TVW7SZQMJINGA3H",
+      "length": "26490"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/quinten-post",
+      "timestamp": "20240604170645",
+      "original": "https://www.nba.com/draft/2024/prospects/quinten-post",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "HWBXVTW3JBDEKJNDJXYRMOJT3UZHMIQH",
+      "length": "26254"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/reece-beekman",
+      "timestamp": "20240604170812",
+      "original": "https://www.nba.com/draft/2024/prospects/reece-beekman",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "RZC5JPP5NSHPDA52ZIL7ABII6UYTP7C6",
+      "length": "26465"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/reed-sheppard",
+      "timestamp": "20240604170617",
+      "original": "https://www.nba.com/draft/2024/prospects/reed-sheppard",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "SV4G6PTRT4AURUEF4XFFTCZKHR3DGHM3",
+      "length": "26163"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/rob-dillingham",
+      "timestamp": "20240604170904",
+      "original": "https://www.nba.com/draft/2024/prospects/rob-dillingham",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "MY2QVYNVKHNSYF2LFHFXBE6Z27DLPO3T",
+      "length": "26095"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/ron-holland",
+      "timestamp": "20240604170849",
+      "original": "https://www.nba.com/draft/2024/prospects/ron-holland",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "PDIOA2RZHL237RQGVTG7FDG7WJM6IFV3",
+      "length": "25764"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/ryan-dunn",
+      "timestamp": "20240604170558",
+      "original": "https://www.nba.com/draft/2024/prospects/ryan-dunn",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QC2XTA2H5JAUVYQ6TZDJAVAW2VKCQUX5",
+      "length": "26075"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/stephon-castle",
+      "timestamp": "20240604170920",
+      "original": "https://www.nba.com/draft/2024/prospects/stephon-castle",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ERNX7ZAEVNGXYC4TZXW7C2I4B5HS367V",
+      "length": "26302"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/terrence-shannon-jr",
+      "timestamp": "20240604170926",
+      "original": "https://www.nba.com/draft/2024/prospects/terrence-shannon-jr",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3QPYPVPYRXB54SHVTV4RKHJXIQ2ACXDX",
+      "length": "26405"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/thierry-darlan",
+      "timestamp": "20240531050625",
+      "original": "https://www.nba.com/draft/2024/prospects/thierry-darlan",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "Q46BCCUAHUHOWWMXI5VXPNWQ6URH4WKN",
+      "length": "25538"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/tidjane-salaun",
+      "timestamp": "20240604170649",
+      "original": "https://www.nba.com/draft/2024/prospects/tidjane-salaun",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "DDPZBTFJKPPAP2UCJ2NXKR7NQYY43CF5",
+      "length": "26099"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/trentyn-flowers",
+      "timestamp": "20240604170736",
+      "original": "https://www.nba.com/draft/2024/prospects/trentyn-flowers",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "Z7TF6EPUSMGU6XV6YRWMPHJ3IOJNIDPL",
+      "length": "26138"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/trey-alexander",
+      "timestamp": "20240604170807",
+      "original": "https://www.nba.com/draft/2024/prospects/trey-alexander",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "VO6KHMTKKBMK62NZAGS7Y7B4KNL7MNU5",
+      "length": "26574"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/tristan-da-silva",
+      "timestamp": "20240604170505",
+      "original": "https://www.nba.com/draft/2024/prospects/tristan-da-silva",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "TWW4UBKIAGNBRIBA57HZECATR2YPHO5X",
+      "length": "26669"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/tristen-newton",
+      "timestamp": "20240604170638",
+      "original": "https://www.nba.com/draft/2024/prospects/tristen-newton",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2XIBBWRO7M3A5T7GXL4PJNEZPCC6U5PO",
+      "length": "26468"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/tyler-kolek",
+      "timestamp": "20240604170657",
+      "original": "https://www.nba.com/draft/2024/prospects/tyler-kolek",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "5ZL7ZY75FIYD3OVB7I7Y5ZPATC3HFW3U",
+      "length": "26127"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/tyler-smith",
+      "timestamp": "20240604170826",
+      "original": "https://www.nba.com/draft/2024/prospects/tyler-smith",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "27EMCXSJRTAU65EUWKKXT4KQBKR4K7YC",
+      "length": "27025"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/tyon-grant-foster",
+      "timestamp": "20240604170828",
+      "original": "https://www.nba.com/draft/2024/prospects/tyon-grant-foster",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "RDYZHQMVIHNBZAFVM6IYXGZRFESCBWQP",
+      "length": "26897"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/ulrich-chomche",
+      "timestamp": "20240604170815",
+      "original": "https://www.nba.com/draft/2024/prospects/ulrich-chomche",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QDK4TZT75EISXTUO6XJCYF62MDONUSWM",
+      "length": "26268"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/yves-missi",
+      "timestamp": "20240604170852",
+      "original": "https://www.nba.com/draft/2024/prospects/yves-missi",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WZ4MECADUQCKP4UVFS7SVJDZ67NOQOAR",
+      "length": "26343"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/zaccharie-risacher",
+      "timestamp": "20240604170555",
+      "original": "https://www.nba.com/draft/2024/prospects/zaccharie-risacher",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "T5M54B6GS73POGEUOYYYSSTMTASC3DQV",
+      "length": "26526"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/zach-edey",
+      "timestamp": "20240604170620",
+      "original": "https://www.nba.com/draft/2024/prospects/zach-edey",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "DFRGW42OEWCZQGGFFJEMCSIKLHZOHTJT",
+      "length": "27308"
+    },
+    {
+      "urlkey": "com,nba)/draft/2024/prospects/zyon-pullin",
+      "timestamp": "20240604170654",
+      "original": "https://www.nba.com/draft/2024/prospects/zyon-pullin",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "UFPR7GBQC2J2LHXAZTDG4IEJVEV24SAX",
+      "length": "26554"
+    }
+  ]
+}

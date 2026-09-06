@@ -1,0 +1,40 @@
+{
+  "root": "work/calendar_broker",
+  "copy_only_these_files": [
+    "broker.py",
+    "test_broker.py",
+    "run_audit.py",
+    "README.md",
+    "aggregate_coverage.json",
+    "calendar_extension/collect_calendar.py",
+    "calendar_extension/test_calendar.py",
+    "calendar_extension/README.md",
+    "calendar_extension/pilot_summary.json",
+    "calendar_extension/campaign_20260906/collector.py",
+    "calendar_extension/campaign_20260906/collector_v2.py",
+    "calendar_extension/campaign_20260906/execution_changes.json",
+    "calendar_extension/campaign_20260906/preregistered_plan.json",
+    "calendar_extension/campaign_20260906/pilot_summary.json",
+    "boundary_audit/audit_pools.py",
+    "boundary_audit/pool_contract.py",
+    "boundary_audit/pool_audit.json",
+    "boundary_audit/REVIEW.md",
+    "PUBLIC_ALLOWLIST.json"
+  ],
+  "never_recursive_copy": true,
+  "exclude_all_other_files": true,
+  "explicit_exclusions": [
+    "**/private/**",
+    "**/completed_athletes.json",
+    "**/participation_dates.csv",
+    "**/cache_index.json",
+    "**/process.json",
+    "**/collector_requests.jsonl",
+    "**/pilot_requests.jsonl",
+    "**/collection.log",
+    "**/bundles/**",
+    "**/training_labels.csv",
+    "**/__pycache__/**"
+  ],
+  "note": "Publish code, source-provenance registration and aggregate audits only. No raw source player statistics, per-player post-draft calendar records, or eligible newer-cohort training-label bundles."
+}

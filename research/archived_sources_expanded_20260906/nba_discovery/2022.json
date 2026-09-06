@@ -1,0 +1,775 @@
+{
+  "draft_year": 2022,
+  "query_url": "https://web.archive.org/cdx/search/cdx?url=www.nba.com%2Fdraft%2F2022%2Fprospects%2F&matchType=prefix&from=20210701&to=20220623040000&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=urlkey&limit=150",
+  "cutoff_utc": "20220623040000",
+  "feature_eligible": false,
+  "status": "discovery_only",
+  "retrieved_at": 1788692453.942942,
+  "snapshots": [
+    {
+      "urlkey": "com,nba)/draft/2022/prospects",
+      "timestamp": "20220601164535",
+      "original": "https://www.nba.com/draft/2022/prospects",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "23NSBYPC3BFVBHTYPX2JSO6JNIJLADXH",
+      "length": "25861"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/a-j-griffin",
+      "timestamp": "20220603014749",
+      "original": "https://www.nba.com/draft/2022/prospects/a-j-griffin",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GPKDY6OYJTVMQ25ZTEMFXLGMFQ3Z5KNY",
+      "length": "24736"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/alondes-williams",
+      "timestamp": "20220607062710",
+      "original": "https://www.nba.com/draft/2022/prospects/alondes-williams",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GDF4IUEU42VFD6B6C2BVIANLAEU2CJ4T",
+      "length": "20916"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/aminu-mohammed",
+      "timestamp": "20220617115427",
+      "original": "https://www.nba.com/draft/2022/prospects/aminu-mohammed",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7JUYMOY5ZH2MCHPSYAERJ4M4NR7N2SKG",
+      "length": "21393"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/andrew-nembhard",
+      "timestamp": "20220607062243",
+      "original": "https://www.nba.com/draft/2022/prospects/andrew-nembhard",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "5ZT6OBXT7ZI7D6IO7QRKM3OAB77XE2KQ",
+      "length": "25143"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/ariel-hukporti",
+      "timestamp": "20220617114510",
+      "original": "https://www.nba.com/draft/2022/prospects/ariel-hukporti",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "TCRJYY4KDYA7FB25XFXCDQTDOZGRBU6S",
+      "length": "21586"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/bennedict-mathurin",
+      "timestamp": "20220603014753",
+      "original": "https://www.nba.com/draft/2022/prospects/bennedict-mathurin",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "PRPYCACEMAU25S3TKQBCPREXXZJ66HJN",
+      "length": "25086"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/blake-wesley",
+      "timestamp": "20220607062549",
+      "original": "https://www.nba.com/draft/2022/prospects/blake-wesley",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "FAEGUVK7AVJ3LPCRBVP5HOYCIHUAV2YY",
+      "length": "26001"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/bryce-mcgowens",
+      "timestamp": "20220607062108",
+      "original": "https://www.nba.com/draft/2022/prospects/bryce-mcgowens",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ACMIV6COKVWIUEMQYMI6ZKTO5FNPBSXO",
+      "length": "25018"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/bryson-williams",
+      "timestamp": "20220607062732",
+      "original": "https://www.nba.com/draft/2022/prospects/bryson-williams",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "VDVTVRINTO7ZHGDXAN5CBGOR7MDLQD7P",
+      "length": "24892"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/caleb-houstan",
+      "timestamp": "20220607062922",
+      "original": "https://www.nba.com/draft/2022/prospects/caleb-houstan",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "27L7SLGMYNX7OSMHYOMMILN64AS2FGT7",
+      "length": "24880"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/chet-holmgren",
+      "timestamp": "20220603014752",
+      "original": "https://www.nba.com/draft/2022/prospects/chet-holmgren",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "R3E7H3ZI6GG2ZLJ2VCGFLOFUFWXRQWJS",
+      "length": "25888"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/christian-braun",
+      "timestamp": "20220607062249",
+      "original": "https://www.nba.com/draft/2022/prospects/christian-braun",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "E6HNHCWOYACGTUEGL6KUM3JVLVXFLAN6",
+      "length": "25158"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/christian-koloko",
+      "timestamp": "20220607062608",
+      "original": "https://www.nba.com/draft/2022/prospects/christian-koloko",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "6ZHRLPWHS33KBNQOD323PFPPCQCEGVLX",
+      "length": "25469"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/dalen-terry",
+      "timestamp": "20220607062237",
+      "original": "https://www.nba.com/draft/2022/prospects/dalen-terry",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "YZ3ZBZRAEMN4IDQLL3FSXBXR72JCYPSB",
+      "length": "25540"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/david-roddy",
+      "timestamp": "20220607062715",
+      "original": "https://www.nba.com/draft/2022/prospects/david-roddy",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "PA2EYDLX5DLQMLTX6ANU5VXA5NEDFMLY",
+      "length": "21049"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/dereon-seaborn",
+      "timestamp": "20220607062810",
+      "original": "https://www.nba.com/draft/2022/prospects/dereon-seaborn",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7MTK2CFKH23Y2ASKU7ZUJMB5C5EOC2CQ",
+      "length": "25156"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/dereon-seabron",
+      "timestamp": "20220614102207",
+      "original": "https://www.nba.com/draft/2022/prospects/dereon-seabron",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "UZUEAI7NKTZBU7EZRDH3WBZNRGXUU2EX",
+      "length": "25190"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/dominick-barlow",
+      "timestamp": "20220607062635",
+      "original": "https://www.nba.com/draft/2022/prospects/dominick-barlow",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "5UM3ACHMBCI7EXMLCU3ZX7RJBURNOMB6",
+      "length": "24676"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/dyson-daniels",
+      "timestamp": "20220607062541",
+      "original": "https://www.nba.com/draft/2022/prospects/dyson-daniels",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "4L3T4VAJA2ET36GQ7DXAEPIJRE6MWUXP",
+      "length": "26168"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/ej-liddell",
+      "timestamp": "20220607062615",
+      "original": "https://www.nba.com/draft/2022/prospects/ej-liddell",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "OWMJ3AL66OZJZNF2N5ZH5NMUCUT56RBV",
+      "length": "25367"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/gabe-brown",
+      "timestamp": "20220617114715",
+      "original": "https://www.nba.com/draft/2022/prospects/gabe-brown",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QDG4GCHSM7MYKUGUHECFHKF4RI6TKPQC",
+      "length": "21654"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/gabriele-procida",
+      "timestamp": "20220617114722",
+      "original": "https://www.nba.com/draft/2022/prospects/gabriele-procida",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "6P6OFJYEEJBJAZ36BAEVPRVEQ2WNQX56",
+      "length": "21945"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/harold-yu",
+      "timestamp": "20220617114522",
+      "original": "https://www.nba.com/draft/2022/prospects/harold-yu",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GX4RSGNOQOYSFVINGY6OT3MUEN7PTW4C",
+      "length": "21629"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/hugo-besson",
+      "timestamp": "20220607062213",
+      "original": "https://www.nba.com/draft/2022/prospects/hugo-besson",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "L2UVHTEFW73SJYZCFOJYJVTMG5OMGZVI",
+      "length": "24956"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/ibou-dianko-badji",
+      "timestamp": "20220617114957",
+      "original": "https://www.nba.com/draft/2022/prospects/ibou-dianko-badji",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GPQCOIFQQWUSWI5Y6UJLNDB3HNXCEVXJ",
+      "length": "21841"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/isaiah-mobley",
+      "timestamp": "20220617115153",
+      "original": "https://www.nba.com/draft/2022/prospects/isaiah-mobley",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "D3B5KRQM2A4SKVTAMLQCWX4QVIILSDJF",
+      "length": "21473"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/ismael-kamagate",
+      "timestamp": "20220607062222",
+      "original": "https://www.nba.com/draft/2022/prospects/ismael-kamagate",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "Y4VNOJITCKQQFF2L5K3ECLEM5ME5DE7Y",
+      "length": "24959"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/iverson-molinar",
+      "timestamp": "20220617115145",
+      "original": "https://www.nba.com/draft/2022/prospects/iverson-molinar",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WTJSCCXV6MROQ64Q36O6KPAUBBCFKG5L",
+      "length": "21755"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/jabari-smith",
+      "timestamp": "20220603014747",
+      "original": "https://www.nba.com/draft/2022/prospects/jabari-smith",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "JO6ZKN5USO2HIWABPPSYZLIGH523MWFI",
+      "length": "25519"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/jabari-walker",
+      "timestamp": "20220607062720",
+      "original": "https://www.nba.com/draft/2022/prospects/jabari-walker",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7EUXRXNWLFMM4BHZZYRM52A3ZH7OQYV5",
+      "length": "20862"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/jaden-hardy",
+      "timestamp": "20220604121005",
+      "original": "https://www.nba.com/draft/2022/prospects/jaden-hardy",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7CVM3VIL6YIJJLG7FVXN4C2NW5DDHNXA",
+      "length": "20426"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/jaden-ivey",
+      "timestamp": "20220603014744",
+      "original": "https://www.nba.com/draft/2022/prospects/jaden-ivey",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7QYHHAOM556U4PWCYS7EO6RNTQZCF2I7",
+      "length": "25771"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/jake-laravia",
+      "timestamp": "20220607062908",
+      "original": "https://www.nba.com/draft/2022/prospects/jake-laravia",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ZL2KOH7A2TAEDSWX3CUYJXTB5YBYAWU5",
+      "length": "25158"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/jalen-duren",
+      "timestamp": "20220603014739",
+      "original": "https://www.nba.com/draft/2022/prospects/jalen-duren",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "6VPL6KRNDMXDGJBG5BSR7SWQVYYBQRV7",
+      "length": "25078"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/jalen-williams",
+      "timestamp": "20220607062640",
+      "original": "https://www.nba.com/draft/2022/prospects/jalen-williams",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ZKE5LP3ETM2YFTQMJH2ZUHC4E5OLXKXB",
+      "length": "25135"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/jamaree-bouyea",
+      "timestamp": "20220617115424",
+      "original": "https://www.nba.com/draft/2022/prospects/jamaree-bouyea",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "LD6YWGLKLXF65KQMWFQRFU77WK6DJR7K",
+      "length": "21248"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/jaylin-williams",
+      "timestamp": "20220607062705",
+      "original": "https://www.nba.com/draft/2022/prospects/jaylin-williams",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7BQ3JF5M2F2E7UQPBVI6WACVOLGPP3OB",
+      "length": "25800"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/jd-davison",
+      "timestamp": "20220607062304",
+      "original": "https://www.nba.com/draft/2022/prospects/jd-davison",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "I276C4XSUEIAIPXCTVLODKGD6WFVONOP",
+      "length": "25108"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/jean-montero",
+      "timestamp": "20220607062128",
+      "original": "https://www.nba.com/draft/2022/prospects/jean-montero",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7WTEPOK3GKSIVHUKZDNOYU4JOCSIM2E6",
+      "length": "24917"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/jeremy-sochan",
+      "timestamp": "20220607061945",
+      "original": "https://www.nba.com/draft/2022/prospects/jeremy-sochan",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "CJLUTRP3TP2F2JBOL4MSCATFVE4O7ZEP",
+      "length": "25966"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/john-butler",
+      "timestamp": "20220607062645",
+      "original": "https://www.nba.com/draft/2022/prospects/john-butler",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7I34ACROSXAWRMK54DDVVDIX7EBUPRBC",
+      "length": "24236"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/johnny-davis",
+      "timestamp": "20220603014732",
+      "original": "https://www.nba.com/draft/2022/prospects/johnny-davis",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "K7FH4TVG3FRXVGT32PEKYA4IBDTF3IJS",
+      "length": "25254"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/johnny-juzang",
+      "timestamp": "20220617115202",
+      "original": "https://www.nba.com/draft/2022/prospects/johnny-juzang",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "W473KKFNCY6JMVZFUR6IU3CX4BOUHTRM",
+      "length": "22149"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/jordan-hall",
+      "timestamp": "20220617115420",
+      "original": "https://www.nba.com/draft/2022/prospects/jordan-hall",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WB4ZTDXEM6XYM5K3XBRAWFGA2CTV24YZ",
+      "length": "21712"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/josh-minott",
+      "timestamp": "20220607062738",
+      "original": "https://www.nba.com/draft/2022/prospects/josh-minott",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "5XYIPSIKKDLAXPVONADLQZXH5CMV6LRC",
+      "length": "24836"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/julian-champagnie",
+      "timestamp": "20220607063013",
+      "original": "https://www.nba.com/draft/2022/prospects/julian-champagnie",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "SAPJXWRSWUHRX4G6PHDAQJL5B7SQX6BS",
+      "length": "20807"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/justin-lewis",
+      "timestamp": "20220607062530",
+      "original": "https://www.nba.com/draft/2022/prospects/justin-lewis",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "EGITS55UBC7IX6E2POHOV3HMP6PCWAOD",
+      "length": "24926"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/kai-sotto",
+      "timestamp": "20220617115140",
+      "original": "https://www.nba.com/draft/2022/prospects/kai-sotto",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QSZ3TVZUBIBZ3VCNUJYGQ7JDFRSFGZFR",
+      "length": "22371"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/karlo-matkovic",
+      "timestamp": "20220617114929",
+      "original": "https://www.nba.com/draft/2022/prospects/karlo-matkovic",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "N642GOLGGFWR6PTQJBVH6TWITNLZF6OT",
+      "length": "21362"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/keegan-murray",
+      "timestamp": "20220603014741",
+      "original": "https://www.nba.com/draft/2022/prospects/keegan-murray",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "KY5M2UIM3NOM4HYOBXGISOQTYGNXSRM5",
+      "length": "25918"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/kendall-brown",
+      "timestamp": "20220607062114",
+      "original": "https://www.nba.com/draft/2022/prospects/kendall-brown",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "DVT7F3RDV3HZGOXNBZGDHAVMMJ6UFHLF",
+      "length": "24774"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/kennedy-chandler",
+      "timestamp": "20220607061953",
+      "original": "https://www.nba.com/draft/2022/prospects/kennedy-chandler",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "OLAFL62KITCBKIOKA2ZZCAEZ44Y4U2EI",
+      "length": "25725"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/keon-ellis",
+      "timestamp": "20220607062744",
+      "original": "https://www.nba.com/draft/2022/prospects/keon-ellis",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NEGCVSKNCZQGVO7NSDSYH2FPGGX5QVDY",
+      "length": "24293"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/khalifa-diop",
+      "timestamp": "20220607062600",
+      "original": "https://www.nba.com/draft/2022/prospects/khalifa-diop",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "SGF5BEFQ3AZ3RFKJPLI2LBBEDM3MEGWF",
+      "length": "20991"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/kofi-cockburn",
+      "timestamp": "20220607062003",
+      "original": "https://www.nba.com/draft/2022/prospects/kofi-cockburn",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "UBUMPLQOHXQJRGLECTR3BVWD7KUOFBU2",
+      "length": "25241"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/leonard-miller",
+      "timestamp": "20220607062028",
+      "original": "https://www.nba.com/draft/2022/prospects/leonard-miller",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "YX3JU322WN6OIXJ5PFAYH6CMU3JUDF4D",
+      "length": "24959"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/malaki-branham",
+      "timestamp": "20220607062927",
+      "original": "https://www.nba.com/draft/2022/prospects/malaki-branham",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "S7NND3MJBYFQLXZMAGWKMIEMCNDTLWOD",
+      "length": "25985"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/marjon-beauchamp",
+      "timestamp": "20220607062947",
+      "original": "https://www.nba.com/draft/2022/prospects/marjon-beauchamp",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "54GBEV35A36G4SG4SXBEU5Q7E5SWHXC7",
+      "length": "25301"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/mark-williams",
+      "timestamp": "20220607062844",
+      "original": "https://www.nba.com/draft/2022/prospects/mark-williams",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7EM5KLW3E6REICUC47U5YB647OIJ5ZSW",
+      "length": "25369"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/matteo-spagnolo",
+      "timestamp": "20220617114710",
+      "original": "https://www.nba.com/draft/2022/prospects/matteo-spagnolo",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "JPIPXL5YDGBL3OOM4TM4JMBZUYPWGCUA",
+      "length": "22164"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/max-christie",
+      "timestamp": "20220607062626",
+      "original": "https://www.nba.com/draft/2022/prospects/max-christie",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2O3PBYGNJ5NPFPPANMYBF3RUV2PL4H4Z",
+      "length": "25029"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/michael-foster",
+      "timestamp": "20220607063006",
+      "original": "https://www.nba.com/draft/2022/prospects/michael-foster",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "OGZCK3WROVIQTDRYNXOGFNPIRGPYOMAK",
+      "length": "25421"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/moussa-diabate",
+      "timestamp": "20220607062018",
+      "original": "https://www.nba.com/draft/2022/prospects/moussa-diabate",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "EX46EDLZJKI3IVSLEOLNOJUAZIMRZRVE",
+      "length": "24882"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/nikola-jovic",
+      "timestamp": "20220607062958",
+      "original": "https://www.nba.com/draft/2022/prospects/nikola-jovic",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "TVQUQTKBGPEMGVAMO6RS6SACIBTDUCJS",
+      "length": "25429"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/ochai-agbaji",
+      "timestamp": "20220604092728",
+      "original": "https://www.nba.com/draft/2022/prospects/ochai-agbaji",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "DBPRINF7U2BNYQ2HW32HMPS7CTXUHX27",
+      "length": "21226"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/orlando-robinson",
+      "timestamp": "20220617115131",
+      "original": "https://www.nba.com/draft/2022/prospects/orlando-robinson",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "LMYQ7DYJMFYHLLCJAGLH7KJPK4DLHG2N",
+      "length": "21450"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/ousmane-dieng",
+      "timestamp": "20220607062151",
+      "original": "https://www.nba.com/draft/2022/prospects/ousmane-dieng",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "DL4RVM6QCK3K5DA2DKJVZ3EHPNRORKVR",
+      "length": "25297"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/paolo-banchero",
+      "timestamp": "20220603014745",
+      "original": "https://www.nba.com/draft/2022/prospects/paolo-banchero",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ACHZMUQVYLNUA27FNL2KFPNDWNY2NBTZ",
+      "length": "25200"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/patrick-baldwin",
+      "timestamp": "20220607062050",
+      "original": "https://www.nba.com/draft/2022/prospects/patrick-baldwin",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "D4IH3S74HPIUZ3OGJMSPJB5XY5SDX5Z7",
+      "length": "24993"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/peyton-watson",
+      "timestamp": "20220607062012",
+      "original": "https://www.nba.com/draft/2022/prospects/peyton-watson",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "HH3I5MWEPLJPKJ66R2XIUQBOSFXVFPUH",
+      "length": "24569"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/ron-harper-jr",
+      "timestamp": "20220607062517",
+      "original": "https://www.nba.com/draft/2022/prospects/ron-harper-jr",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "KNVE2UCY4X2Q2RIQYOEQ5HQLEUTN7BOP",
+      "length": "25501"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/ryan-rollins",
+      "timestamp": "20220607062725",
+      "original": "https://www.nba.com/draft/2022/prospects/ryan-rollins",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "CN6AJ2JDBMOJ3B4OVYZXH3R5JDAHY6PX",
+      "length": "25504"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/scotty-pippen-jr",
+      "timestamp": "20220607062134",
+      "original": "https://www.nba.com/draft/2022/prospects/scotty-pippen-jr",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "LKJIH4YVWVM5HRURC4OBFUG2HQKUJ7YU",
+      "length": "25109"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/shaedon-sharpe",
+      "timestamp": "20220603014736",
+      "original": "https://www.nba.com/draft/2022/prospects/shaedon-sharpe",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "4L7HYGCXTA6UQJTM6IG72YJUHL7IPS4L",
+      "length": "25272"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/tari-eason",
+      "timestamp": "20220607062621",
+      "original": "https://www.nba.com/draft/2022/prospects/tari-eason",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "O3KZ6TBQ47F3KJXR5F5IKYVPRLVMDZW2",
+      "length": "25127"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/tevin-brown",
+      "timestamp": "20220617115127",
+      "original": "https://www.nba.com/draft/2022/prospects/tevin-brown",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ZZBEYKYPISKUME2RKP6RPSJH3K3XC2DP",
+      "length": "21986"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/trevion-williams",
+      "timestamp": "20220607062121",
+      "original": "https://www.nba.com/draft/2022/prospects/trevion-williams",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3MVOTFSVN5CCPY6VDK7FZLP5R3LPY3SN",
+      "length": "26081"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/trevor-keels",
+      "timestamp": "20220607062914",
+      "original": "https://www.nba.com/draft/2022/prospects/trevor-keels",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "J4CWZIY6OV44LSYWUPZUROKFQF6EY2LW",
+      "length": "24975"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/tyrese-martin",
+      "timestamp": "20220617115135",
+      "original": "https://www.nba.com/draft/2022/prospects/tyrese-martin",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "CM4VVFOICVUCFGF364GMJI6KEWOAXNMA",
+      "length": "21761"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/tyty-washington",
+      "timestamp": "20220607062041",
+      "original": "https://www.nba.com/draft/2022/prospects/tyty-washington",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ZU6K6HRUDJTKIGV22SXPN5TE4CR5GXCV",
+      "length": "25294"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/walker-kessler",
+      "timestamp": "20220607062233",
+      "original": "https://www.nba.com/draft/2022/prospects/walker-kessler",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "RDN7YCOPVEK5GGMNA2C3JK7WEINEPNBR",
+      "length": "25696"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/wendell-moore",
+      "timestamp": "20220604090635",
+      "original": "https://www.nba.com/draft/2022/prospects/wendell-moore",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "SROFZUGLE66IG2CCDE3J6EB3XTYI2FOO",
+      "length": "20150"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects/yannick-nzosa",
+      "timestamp": "20220617114705",
+      "original": "https://www.nba.com/draft/2022/prospects/yannick-nzosa",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "CNFSL4BH4WMV4CG4SEBBAHKEOZPOAP74",
+      "length": "21718"
+    },
+    {
+      "urlkey": "com,nba)/draft/2022/prospects?cid=nba:dynpage:own:email:daily:link:eg:nl:eng:t-crm:us:en:20220622:daily_newsletter:",
+      "timestamp": "20220622145456",
+      "original": "https://www.nba.com/draft/2022/prospects?cid=nba%3Adynpage%3Aown%3Aemail%3Adaily%3Alink%3Aeg%3Anl%3Aeng%3At-crm%3AUS%3Aen%3A20220622:DAILY_NEWSLETTER%3A",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "YBKJMG3NKVRCZ34SG5TUP2WUV6AHL4UP",
+      "length": "25671"
+    }
+  ]
+}

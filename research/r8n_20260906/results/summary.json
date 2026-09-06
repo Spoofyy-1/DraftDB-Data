@@ -1,0 +1,22 @@
+[
+  {
+    "variant": "quarantine_all_bio",
+    "score": 0.49366735817293406,
+    "seeds": 3
+  },
+  {
+    "variant": "diagnostic_baseline",
+    "score": 0.500067422374383,
+    "seeds": 3
+  },
+  {
+    "variant": "quarantine_bio_med_consensus_college_derived",
+    "score": 0.3891810999516723,
+    "seeds": 3
+  },
+  {
+    "variant": "dated_raw_college_source_control",
+    "score": 0.20055577735647254,
+    "seeds": 3
+  }
+]

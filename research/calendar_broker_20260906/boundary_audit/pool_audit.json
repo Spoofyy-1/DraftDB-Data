@@ -1,0 +1,105 @@
+{
+  "status": "passed",
+  "no_WAR_columns_read": true,
+  "no_prediction_scores_read": true,
+  "no_model_fits": true,
+  "years": [
+    {
+      "year": 2019,
+      "original_input_rows": 137,
+      "bundle_rows": 137,
+      "benchmark_rows": 58,
+      "extra_original_prospects": 79,
+      "full_original_pool_preserved": true,
+      "complete_benchmark_covered": true,
+      "original_pid_set_sha256": "94e35dee67914ac5ad08f2d0816ea6f0fd42b6473fbbccd9491d7b6a872c05c4",
+      "benchmark_pid_set_sha256": "6b4c4489c650f1d3e92d69371085f7c4459263d11157cc893b105969cc68f095",
+      "scoreboard_eligible": true
+    },
+    {
+      "year": 2020,
+      "original_input_rows": 112,
+      "bundle_rows": 112,
+      "benchmark_rows": 58,
+      "extra_original_prospects": 54,
+      "full_original_pool_preserved": true,
+      "complete_benchmark_covered": true,
+      "original_pid_set_sha256": "9c65f9587b60887c1de325defe684869f41433b21481a77dee9bb8a698dd24e1",
+      "benchmark_pid_set_sha256": "81fd58a862dafc1650d2ba9ef2f2f606336f66ea0497935de8cf64818b690f3a",
+      "scoreboard_eligible": true
+    },
+    {
+      "year": 2021,
+      "original_input_rows": 233,
+      "bundle_rows": 233,
+      "benchmark_rows": 56,
+      "extra_original_prospects": 177,
+      "full_original_pool_preserved": true,
+      "complete_benchmark_covered": true,
+      "original_pid_set_sha256": "a61b2d1dc05261ade2eb7c54f31a1849e923c470d3448282d9e82bb5b0a737d9",
+      "benchmark_pid_set_sha256": "edbc2bfb79f13ab1616fe042faa9b69e9c3b0846ac32b51548e352a824afb2df",
+      "scoreboard_eligible": true
+    },
+    {
+      "year": 2022,
+      "original_input_rows": 97,
+      "bundle_rows": 97,
+      "benchmark_rows": 52,
+      "extra_original_prospects": 45,
+      "full_original_pool_preserved": true,
+      "complete_benchmark_covered": true,
+      "original_pid_set_sha256": "6b678122bf67888e7570cc333a6cbafca83e6b045127d39498f030e1960942bf",
+      "benchmark_pid_set_sha256": "307b37e66895c15c2b00e48029ed8ec0079044714fa3b6df2602078f93ffa750",
+      "scoreboard_eligible": true
+    },
+    {
+      "year": 2023,
+      "original_input_rows": 101,
+      "bundle_rows": 101,
+      "benchmark_rows": 56,
+      "extra_original_prospects": 45,
+      "full_original_pool_preserved": true,
+      "complete_benchmark_covered": true,
+      "original_pid_set_sha256": "3d608fcd953c82a5660cb31a48a1a4e3f4242a29aa706620c248856346345d43",
+      "benchmark_pid_set_sha256": "0b08b460dae10efb763cede40e54cca4745cd6761e52880dc99add3dc6275659",
+      "scoreboard_eligible": true
+    },
+    {
+      "year": 2024,
+      "original_input_rows": 114,
+      "bundle_rows": 114,
+      "benchmark_rows": 55,
+      "extra_original_prospects": 59,
+      "full_original_pool_preserved": true,
+      "complete_benchmark_covered": true,
+      "original_pid_set_sha256": "2899b167bb8beaeea6b0fbb5bbd3c7279c9919bb86b1c9e9ddecb6f13d7147df",
+      "benchmark_pid_set_sha256": "74b55bf1edef9ace34066571bb088d220ec8479d1c7c42e9a1322291f2799623",
+      "scoreboard_eligible": true
+    },
+    {
+      "year": 2025,
+      "original_input_rows": 106,
+      "bundle_rows": 106,
+      "benchmark_rows": 57,
+      "extra_original_prospects": 49,
+      "full_original_pool_preserved": true,
+      "complete_benchmark_covered": true,
+      "original_pid_set_sha256": "0e3021026ce4e90a21ff686f0c43f281ff0a1aa6c7d7404a1448b7ab290a5f92",
+      "benchmark_pid_set_sha256": "2b3cc294a9f95aaf59eb71e1ce921e5b5935eee93ad8681da32d754d48307623",
+      "scoreboard_eligible": true
+    },
+    {
+      "year": 2026,
+      "original_input_rows": 61,
+      "bundle_rows": 61,
+      "benchmark_rows": 60,
+      "extra_original_prospects": 1,
+      "full_original_pool_preserved": true,
+      "complete_benchmark_covered": true,
+      "original_pid_set_sha256": "0008ef4a64e69e88115dcf2e20129fe2699d303084a1c31166463df7dcc6c9b9",
+      "benchmark_pid_set_sha256": "33bbf7d7415e4a23d07285b3c7b22c74d6c36d56e46f9e33a1d60afa0cf8b7b2",
+      "scoreboard_eligible": false
+    }
+  ],
+  "benchmark_rows_2019_2025": 392
+}

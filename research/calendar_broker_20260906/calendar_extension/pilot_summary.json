@@ -1,0 +1,23 @@
+{
+  "status": "pilot_complete",
+  "requested_athletes": 4,
+  "completed_athletes": 4,
+  "source": "ESPN explicit NBA played-season rows, regular season and postseason",
+  "model_safe": false,
+  "collected_athletes": 3,
+  "request_count_this_run": 0,
+  "crosswalk_historical_checks_passed": 2,
+  "crosswalks_needing_review": 2,
+  "participation_rows": 11,
+  "seasons": [
+    2023,
+    2024,
+    2025
+  ],
+  "counts_by_season_type": {
+    "2": 6,
+    "3": 5
+  },
+  "league_calendar_complete": false,
+  "updated_at": 1788692465.7869482
+}

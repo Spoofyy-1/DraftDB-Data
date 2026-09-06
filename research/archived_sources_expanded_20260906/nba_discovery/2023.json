@@ -1,0 +1,163 @@
+{
+  "draft_year": 2023,
+  "query_url": "https://web.archive.org/cdx/search/cdx?url=www.nba.com%2Fdraft%2F2023%2Fprospects%2F&matchType=prefix&from=20220701&to=20230622040000&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=urlkey&limit=150",
+  "cutoff_utc": "20230622040000",
+  "feature_eligible": false,
+  "status": "discovery_only",
+  "retrieved_at": 1788692455.126733,
+  "snapshots": [
+    {
+      "urlkey": "com,nba)/draft/2023/prospects",
+      "timestamp": "20230602072546",
+      "original": "https://www.nba.com/draft/2023/prospects",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "66P2UQRRJ3O4JI4JNZ6FGX5FTONIYJDC",
+      "length": "27164"
+    },
+    {
+      "urlkey": "com,nba)/draft/2023/prospects/amen-thompson",
+      "timestamp": "20230607125703",
+      "original": "https://www.nba.com/draft/2023/prospects/amen-thompson",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "F2QKEBYFIBVZSY64OZKBRJIEAQARBRXI",
+      "length": "22730"
+    },
+    {
+      "urlkey": "com,nba)/draft/2023/prospects/anthony-black",
+      "timestamp": "20230607125731",
+      "original": "https://www.nba.com/draft/2023/prospects/anthony-black",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QD2Z7F26ECXTYVXI6XH52X7Y7TUTDEDO",
+      "length": "22627"
+    },
+    {
+      "urlkey": "com,nba)/draft/2023/prospects/ausar-thompson",
+      "timestamp": "20230607125724",
+      "original": "https://www.nba.com/draft/2023/prospects/ausar-thompson",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QS2UJKAIUYECI2IM7IYNBDJ7F3ZQPJL4",
+      "length": "22616"
+    },
+    {
+      "urlkey": "com,nba)/draft/2023/prospects/bilal-coulibaly",
+      "timestamp": "20230618004020",
+      "original": "https://www.nba.com/draft/2023/prospects/bilal-coulibaly",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "B4JVMSEGAZOBNPWJB3743AQFTAUPT5N3",
+      "length": "22859"
+    },
+    {
+      "urlkey": "com,nba)/draft/2023/prospects/brandon-miller",
+      "timestamp": "20230607125657",
+      "original": "https://www.nba.com/draft/2023/prospects/brandon-miller",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "PACNJL3VA6NXVLPMMPS36JJQKE67M5SC",
+      "length": "23529"
+    },
+    {
+      "urlkey": "com,nba)/draft/2023/prospects/cam-whitmore",
+      "timestamp": "20230607125705",
+      "original": "https://www.nba.com/draft/2023/prospects/cam-whitmore",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NIOIIQT3S5BIE6CT4LXX6COVBLUSYDSR",
+      "length": "22700"
+    },
+    {
+      "urlkey": "com,nba)/draft/2023/prospects/cason-wallace",
+      "timestamp": "20230607125737",
+      "original": "https://www.nba.com/draft/2023/prospects/cason-wallace",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "PBZBFYFHR2SYYVAQIYXYQCAVUWIEPROR",
+      "length": "23122"
+    },
+    {
+      "urlkey": "com,nba)/draft/2023/prospects/gradey-dick",
+      "timestamp": "20230607125735",
+      "original": "https://www.nba.com/draft/2023/prospects/gradey-dick",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ZTYDGRB6ZEX2FBERLQFV432AALHERZVM",
+      "length": "23267"
+    },
+    {
+      "urlkey": "com,nba)/draft/2023/prospects/jalen-hood-schifino",
+      "timestamp": "20230607125751",
+      "original": "https://www.nba.com/draft/2023/prospects/jalen-hood-schifino",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "25JALNB4AN3S3G46JWRJZEYYPI2ZZ73U",
+      "length": "23057"
+    },
+    {
+      "urlkey": "com,nba)/draft/2023/prospects/jarace-walker",
+      "timestamp": "20230607125712",
+      "original": "https://www.nba.com/draft/2023/prospects/jarace-walker",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "6APCWODIQESLS2HNIJ3UTV4NZ2V5FEIY",
+      "length": "23170"
+    },
+    {
+      "urlkey": "com,nba)/draft/2023/prospects/keyonte-george",
+      "timestamp": "20230607125739",
+      "original": "https://www.nba.com/draft/2023/prospects/keyonte-george",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "R6LOSVTHJPSV4ZHCDG5J2CAJFODGVX6M",
+      "length": "22755"
+    },
+    {
+      "urlkey": "com,nba)/draft/2023/prospects/maxwell-lewis",
+      "timestamp": "20230611220141",
+      "original": "https://www.nba.com/draft/2023/prospects/maxwell-lewis",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "IHZ6DSHVAI5FLGB73PTWF2EWBNLVQHVG",
+      "length": "22773"
+    },
+    {
+      "urlkey": "com,nba)/draft/2023/prospects/nick-smith-jr",
+      "timestamp": "20230607125745",
+      "original": "https://www.nba.com/draft/2023/prospects/nick-smith-jr",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "JIYQWLCYUWGZMTLMT24LMLP576UHOHYU",
+      "length": "23257"
+    },
+    {
+      "urlkey": "com,nba)/draft/2023/prospects/scoot-henderson",
+      "timestamp": "20230607125659",
+      "original": "https://www.nba.com/draft/2023/prospects/scoot-henderson",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "XJPLWZTOQQZV4LPJQWUT6PBYDADXMZUQ",
+      "length": "22912"
+    },
+    {
+      "urlkey": "com,nba)/draft/2023/prospects/taylor-hendricks",
+      "timestamp": "20230607125734",
+      "original": "https://www.nba.com/draft/2023/prospects/taylor-hendricks",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "IIZZXIFRFOWTRXWY2CZW5LXCZJCODK2F",
+      "length": "22694"
+    },
+    {
+      "urlkey": "com,nba)/draft/2023/prospects/victor-wembanyama",
+      "timestamp": "20230602190917",
+      "original": "https://www.nba.com/draft/2023/prospects/victor-wembanyama",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7CAFO3EP7U2ASO2F5G2AV4RR5SA2SZKT",
+      "length": "23216"
+    }
+  ]
+}

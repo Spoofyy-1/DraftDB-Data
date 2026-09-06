@@ -1,0 +1,361 @@
+{
+  "draft_year": 2020,
+  "query_url": "https://web.archive.org/cdx/search/cdx?url=www.nba.com%2Fdraft%2F2020%2Fprospects%2F&matchType=prefix&from=20190701&to=20201118050000&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=urlkey&limit=150",
+  "cutoff_utc": "20201118050000",
+  "feature_eligible": false,
+  "status": "discovery_only",
+  "retrieved_at": 1788692452.897872,
+  "snapshots": [
+    {
+      "urlkey": "com,nba)/draft/2020/prospects",
+      "timestamp": "20200626050705",
+      "original": "https://www.nba.com/draft/2020/prospects",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3QCSUM7UXMHU5KDTNKQMAWDCT6LRT2MG",
+      "length": "15834"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/aaron-nesmith",
+      "timestamp": "20201111104936",
+      "original": "https://www.nba.com/draft/2020/prospects/aaron-nesmith",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "P5BMHY6QUVMGEYX4FQKDWAXZ42S7NI55",
+      "length": "17681"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/aleksej-pokusevski",
+      "timestamp": "20200627045856",
+      "original": "https://www.nba.com/draft/2020/prospects/aleksej-pokusevski",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2GVU2PT7R5WRDDSL4J6YM6VURDSOUI6M",
+      "length": "19023"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/aleksej-pokusevski?ls=nba",
+      "timestamp": "20200626050658",
+      "original": "https://www.nba.com/draft/2020/prospects/aleksej-pokusevski?ls=nba",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "HRVFYGWGTKVNBPRPUUFG64XRUVFE4CV5",
+      "length": "18929"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/anthony-edwards",
+      "timestamp": "20201114183015",
+      "original": "https://www.nba.com/draft/2020/prospects/anthony-edwards",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WF2KHDHMNMZ2PR7D2FR7ONTNMU3LK4V3",
+      "length": "18134"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/atnhony-edwards",
+      "timestamp": "20201101024712",
+      "original": "https://www.nba.com/draft/2020/prospects/atnhony-edwards",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "UAKOGAEMGFRX5UYYAWQ5EPS4KX2LWP4B",
+      "length": "17484"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/cole-anthony",
+      "timestamp": "20201111104953",
+      "original": "https://www.nba.com/draft/2020/prospects/cole-anthony",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ZQIG5VPCANOKVP4S5CLKJHJDGTTP2R44",
+      "length": "18015"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/deni-avdija",
+      "timestamp": "20201115205718",
+      "original": "https://www.nba.com/draft/2020/prospects/deni-avdija",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GZGVF26GKJVLH7BLHQVOO2B3T4OS25SJ",
+      "length": "18563"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/desmond-bane",
+      "timestamp": "20201113163034",
+      "original": "https://www.nba.com/draft/2020/prospects/desmond-bane",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3TIQXM3WTVAE5FHSVC2D4ZUSSK6TXMNK",
+      "length": "17859"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/devin-vassell",
+      "timestamp": "20201001232906",
+      "original": "https://www.nba.com/draft/2020/prospects/devin-vassell",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "TY5SPVQ4BFKEX2VCOQHONBLUILTTNRYD",
+      "length": "18857"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/elijah-hughes",
+      "timestamp": "20201031235651",
+      "original": "https://www.nba.com/draft/2020/prospects/elijah-hughes",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "26G6OOHI2SK3AULVSSSU6U4AEUOUFPM7",
+      "length": "17235"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/isaac-okoro",
+      "timestamp": "20201113163029",
+      "original": "https://www.nba.com/draft/2020/prospects/isaac-okoro",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "66GZVAGK5XPYNNLIYU6L4OMLGRQINUXN",
+      "length": "18061"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/jaden-mcdaniels",
+      "timestamp": "20201115205731",
+      "original": "https://www.nba.com/draft/2020/prospects/jaden-mcdaniels",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "Z3P6XMZS7IGRNYZPHJIICHBHL3OYXPJ6",
+      "length": "17969"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/jalen-smith",
+      "timestamp": "20201111104948",
+      "original": "https://www.nba.com/draft/2020/prospects/jalen-smith",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ZYUIZNADH7SDHSOMQ7KSV4JZ4W6QKTX3",
+      "length": "17867"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/james-wiseman",
+      "timestamp": "20201117221547",
+      "original": "https://www.nba.com/draft/2020/prospects/james-wiseman",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NFRDZOTI7UBO2WZSYOSMG33YS42WBCJY",
+      "length": "18377"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/josh-green",
+      "timestamp": "20201024114958",
+      "original": "https://www.nba.com/draft/2020/prospects/josh-green",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "BSON6TW4YQ3PLTXZJUWDTW72SA7MTRBZ",
+      "length": "19324"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/karim-mane",
+      "timestamp": "20201113164929",
+      "original": "https://www.nba.com/draft/2020/prospects/karim-mane",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "FRZUYTQHD3D47VQAOTEKVUJRBALXZGP6",
+      "length": "11553"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/kenyon-martin-jr",
+      "timestamp": "20201114224125",
+      "original": "https://www.nba.com/draft/2020/prospects/kenyon-martin-jr",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "MEYOFRCS5USG2QV756OPTKBS2UYCPAYU",
+      "length": "11165"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/killian-hayes",
+      "timestamp": "20201112173519",
+      "original": "https://www.nba.com/draft/2020/prospects/killian-hayes",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "HGGCUQGUIBAQOVTT7FM237OFWWBRPRCT",
+      "length": "18327"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/kira-lewis",
+      "timestamp": "20201111104942",
+      "original": "https://www.nba.com/draft/2020/prospects/kira-lewis",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "LJJODX7ORICNXPQDQGAIWFSTVPI3H5ST",
+      "length": "17932"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/lamelo-ball",
+      "timestamp": "20201112173514",
+      "original": "https://www.nba.com/draft/2020/prospects/lamelo-ball",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GWDCGT2FZYBJ6UBX5BXRTFUIYCZCWQ2G",
+      "length": "18697"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/malachi-flynn",
+      "timestamp": "20201112173522",
+      "original": "https://www.nba.com/draft/2020/prospects/malachi-flynn",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "TVWQWHXXONYGBRXRHEBQQKCWATZ5MLUQ",
+      "length": "17765"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/mamadi-diakite",
+      "timestamp": "20201110185653",
+      "original": "https://www.nba.com/draft/2020/prospects/mamadi-diakite",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "BN2F55XR7W3VBZ6DX3CFQHNIXMQWD623",
+      "length": "14518"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/mamadi-diakite?collection=video/best-of-2019-playoffs",
+      "timestamp": "20201110185604",
+      "original": "https://www.nba.com/draft/2020/prospects/mamadi-diakite?collection=video%2Fbest-of-2019-playoffs",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "VOSBJAWDZRXLPMECOTQDA6EV52BFBD7V",
+      "length": "14624"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/nico-mannion",
+      "timestamp": "20201024115419",
+      "original": "https://www.nba.com/draft/2020/prospects/nico-mannion",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "LT2FX5NJYNASQ4EAAXMHDQIVCD5VLRUF",
+      "length": "18751"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/nico-mannion?ls=nba",
+      "timestamp": "20201024115007",
+      "original": "https://www.nba.com/draft/2020/prospects/nico-mannion?ls=nba",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3KLHP7HH2M6AFWNCEL6Y6O5SIESNM4VO",
+      "length": "18767"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/obi-toppin",
+      "timestamp": "20201024114946",
+      "original": "https://www.nba.com/draft/2020/prospects/obi-toppin",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "OYXCP2252XKMBRBJFW546ISDQFC7K2V5",
+      "length": "18969"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/patrick-williams",
+      "timestamp": "20201111104927",
+      "original": "https://www.nba.com/draft/2020/prospects/patrick-williams",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "JIPKI2OF3GO366C5Y37MERKV7327RRWN",
+      "length": "17753"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/payton-pritchard",
+      "timestamp": "20201112173534",
+      "original": "https://www.nba.com/draft/2020/prospects/payton-pritchard",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "LDJIUF2EIHHCQHZXSP5AMWNULQEX3G57",
+      "length": "17907"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/precious-achiuwa",
+      "timestamp": "20201111104939",
+      "original": "https://www.nba.com/draft/2020/prospects/precious-achiuwa",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "Z7ZNHP24DADWTNH4LFHHFZBIQSUAJZR3",
+      "length": "18191"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/rj-hampton",
+      "timestamp": "20201113163031",
+      "original": "https://www.nba.com/draft/2020/prospects/rj-hampton",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "SH4D7P44S2U5XBAGRVLGW76RF2FFUWQT",
+      "length": "18170"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/saddiq-bey",
+      "timestamp": "20201111104931",
+      "original": "https://www.nba.com/draft/2020/prospects/saddiq-bey",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "Z52BQQAJQD7A2W66JJ7HH7KZEKBJTPEZ",
+      "length": "17984"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/theo-maledon",
+      "timestamp": "20201112173529",
+      "original": "https://www.nba.com/draft/2020/prospects/theo-maledon",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "RZP62O6DLMBHPN7J62J35WZ7BB5VEKPI",
+      "length": "18186"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/tre-jones",
+      "timestamp": "20201112173525",
+      "original": "https://www.nba.com/draft/2020/prospects/tre-jones",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "DQBPHE5GWLDS4T5BOOYZAJS6ZIXN22FA",
+      "length": "18040"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/tyrell-terry",
+      "timestamp": "20201112173536",
+      "original": "https://www.nba.com/draft/2020/prospects/tyrell-terry",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "EVSIE2ISL6YJF32SKZFGUSL6LQPP4MCT",
+      "length": "17534"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/tyrese-haliburton",
+      "timestamp": "20201024114943",
+      "original": "https://www.nba.com/draft/2020/prospects/tyrese-haliburton",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "EACI5C2L7QBGFJZR3DIVUL74LDGMYVCP",
+      "length": "18917"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/tyrese-maxey",
+      "timestamp": "20201111104933",
+      "original": "https://www.nba.com/draft/2020/prospects/tyrese-maxey",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "M4YYNPXMKNBRWO3ACFVYQ7GLXA56AIGV",
+      "length": "18229"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/tyrese-maxey?ls=nba",
+      "timestamp": "20201020182030",
+      "original": "https://www.nba.com/draft/2020/prospects/tyrese-maxey?ls=nba",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2NELWKBA7WAOSJF5CBVGVY6QLE4AQ562",
+      "length": "19019"
+    },
+    {
+      "urlkey": "com,nba)/draft/2020/prospects/zeke-nnaji",
+      "timestamp": "20201024115000",
+      "original": "https://www.nba.com/draft/2020/prospects/zeke-nnaji",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "MTG6QW5LCHBK7HEFNLYDVIUBXCJGQRCE",
+      "length": "18637"
+    }
+  ]
+}

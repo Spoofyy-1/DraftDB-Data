@@ -1,0 +1,28 @@
+{
+  "draft_year": 2019,
+  "query_url": "https://web.archive.org/cdx/search/cdx?url=www.nba.com%2Fdraft%2F2019%2Fprospects%2F&matchType=prefix&from=20180701&to=20190620040000&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=urlkey&limit=150",
+  "cutoff_utc": "20190620040000",
+  "feature_eligible": false,
+  "status": "discovery_only",
+  "retrieved_at": 1788692452.8980238,
+  "snapshots": [
+    {
+      "urlkey": "com,nba)/draft/2019/prospects",
+      "timestamp": "20190619213245",
+      "original": "https://www.nba.com/draft/2019/prospects",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ULJWAQSQZOS7FPROHZFPOTPR2DUTUIGG",
+      "length": "15744"
+    },
+    {
+      "urlkey": "com,nba)/draft/2019/prospects/mfiondu-kabengele",
+      "timestamp": "20190619213243",
+      "original": "https://www.nba.com/draft/2019/prospects/mfiondu-kabengele",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "M5CIHGAVLXTAW4QLA5SUPXPLGCXHE47N",
+      "length": "17863"
+    }
+  ]
+}

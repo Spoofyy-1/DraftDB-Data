@@ -1,0 +1,8 @@
+{
+  "year": 2019,
+  "query_url": "https://web.archive.org/cdx/search/cdx?url=stats.nba.com%2Farticles%2F2019-nba-draft-profile-&matchType=prefix&to=20190620035959&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=urlkey&limit=150",
+  "cutoff_utc": "20190620035959",
+  "feature_eligible": false,
+  "status": "discovery_only",
+  "snapshots": []
+}

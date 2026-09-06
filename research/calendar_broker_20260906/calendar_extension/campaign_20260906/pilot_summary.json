@@ -1,0 +1,13 @@
+{
+  "status": "running",
+  "requested_athletes": 300,
+  "completed_athletes": 148,
+  "source": "ESPN explicit NBA played-season rows, regular season and postseason",
+  "model_safe": false,
+  "request_count_this_run": 241,
+  "updated_at": 1788693950.624039,
+  "elapsed_seconds": 496.08831725,
+  "verified_timelines": 56,
+  "partial_timelines": 46,
+  "participation_rows": 362
+}

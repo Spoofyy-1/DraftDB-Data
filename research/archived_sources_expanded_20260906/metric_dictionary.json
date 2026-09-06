@@ -1,0 +1,702 @@
+{
+  "report_overall_ppp": {
+    "unit": "points per possession",
+    "denominator": "possessions of the named play type; all possessions for overall",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_poss_pg": {
+    "unit": "possessions per game",
+    "denominator": "games in the season or sample described by the article",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_turnover_pct": {
+    "unit": "percent (0..100); named event denominator",
+    "denominator": "possessions of the named play type; all possessions when unqualified",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_shots_fouled_pct": {
+    "unit": "percent (0..100); named event denominator",
+    "denominator": "source-defined shot opportunities in the named play context; not interchangeable with free_throw_poss_pct",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_post_ppp": {
+    "unit": "points per possession",
+    "denominator": "possessions of the named play type; all possessions for overall",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_post_poss_pg": {
+    "unit": "possessions per game",
+    "denominator": "games in the season or sample described by the article",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_cut_poss_pct": {
+    "unit": "percent (0..100); named event denominator",
+    "denominator": "all player possessions; numerator is the named play/event category",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_putback_ppp": {
+    "unit": "points per possession",
+    "denominator": "possessions of the named play type; all possessions for overall",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_jump_ppp": {
+    "unit": "points per possession",
+    "denominator": "possessions of the named play type; all possessions for overall",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_jump_fg_pct": {
+    "unit": "percent (0..100); named event denominator",
+    "denominator": "field-goal attempts of the named play type",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_finish_ppp": {
+    "unit": "points per possession",
+    "denominator": "possessions of the named play type; all possessions for overall",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_rim_fg_pct": {
+    "unit": "percent (0..100); named event denominator",
+    "denominator": "field-goal attempts of the named play type",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_halfcourt_shots_fouled_pct": {
+    "unit": "percent (0..100); named event denominator",
+    "denominator": "source-defined shot opportunities in the named play context; not interchangeable with free_throw_poss_pct",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_putback_poss_pg": {
+    "unit": "possessions per game",
+    "denominator": "games in the season or sample described by the article",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_isolation_turnover_pct": {
+    "unit": "percent (0..100); named event denominator",
+    "denominator": "possessions of the named play type; all possessions when unqualified",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_transition_turnover_pct": {
+    "unit": "percent (0..100); named event denominator",
+    "denominator": "possessions of the named play type; all possessions when unqualified",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_transition_poss_pg": {
+    "unit": "possessions per game",
+    "denominator": "games in the season or sample described by the article",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_transition_ppp": {
+    "unit": "points per possession",
+    "denominator": "possessions of the named play type; all possessions for overall",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_spotup_fga_pg": {
+    "unit": "field-goal attempts per game",
+    "denominator": "games in the season or sample described by the article",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_spotup_ppp": {
+    "unit": "points per possession",
+    "denominator": "possessions of the named play type; all possessions for overall",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_open_catchshoot_pps": {
+    "unit": "points per shot",
+    "denominator": "shot attempts of the named play type",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_guarded_catchshoot_pps": {
+    "unit": "points per shot",
+    "denominator": "shot attempts of the named play type",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_pullup_pps": {
+    "unit": "points per shot",
+    "denominator": "shot attempts of the named play type",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_finish_pps": {
+    "unit": "points per shot",
+    "denominator": "shot attempts of the named play type",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_isolation_shots_fouled_pct": {
+    "unit": "percent (0..100); named event denominator",
+    "denominator": "source-defined shot opportunities in the named play context; not interchangeable with free_throw_poss_pct",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_halfcourt_ppp": {
+    "unit": "points per possession",
+    "denominator": "possessions of the named play type; all possessions for overall",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_spotup_poss_pct": {
+    "unit": "percent (0..100); named event denominator",
+    "denominator": "all player possessions; numerator is the named play/event category",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_pullup_fg_pct": {
+    "unit": "percent (0..100); named event denominator",
+    "denominator": "field-goal attempts of the named play type",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_finish_fga_pg": {
+    "unit": "field-goal attempts per game",
+    "denominator": "games in the season or sample described by the article",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_isolation_ppp": {
+    "unit": "points per possession",
+    "denominator": "possessions of the named play type; all possessions for overall",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_halfcourt_poss_pg": {
+    "unit": "possessions per game",
+    "denominator": "games in the season or sample described by the article",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_isolation_poss_pg": {
+    "unit": "possessions per game",
+    "denominator": "games in the season or sample described by the article",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_isolation_fg_pct": {
+    "unit": "percent (0..100); named event denominator",
+    "denominator": "field-goal attempts of the named play type",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_pullup_fga_pg": {
+    "unit": "field-goal attempts per game",
+    "denominator": "games in the season or sample described by the article",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_open_catchshoot_fg_pct": {
+    "unit": "percent (0..100); named event denominator",
+    "denominator": "field-goal attempts of the named play type",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_cut_poss_pg": {
+    "unit": "possessions per game",
+    "denominator": "games in the season or sample described by the article",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_pickroll_poss_pg": {
+    "unit": "possessions per game",
+    "denominator": "games in the season or sample described by the article",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_post_turnover_pct": {
+    "unit": "percent (0..100); named event denominator",
+    "denominator": "possessions of the named play type; all possessions when unqualified",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_transition_poss_pct": {
+    "unit": "percent (0..100); named event denominator",
+    "denominator": "all player possessions; numerator is the named play/event category",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_putback_poss_pct": {
+    "unit": "percent (0..100); named event denominator",
+    "denominator": "all player possessions; numerator is the named play/event category",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_post_fg_pct": {
+    "unit": "percent (0..100); named event denominator",
+    "denominator": "field-goal attempts of the named play type",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_free_throw_poss_pct": {
+    "unit": "percent (0..100); named event denominator",
+    "denominator": "all player possessions; numerator is the named play/event category",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_jump_fga_pg": {
+    "unit": "field-goal attempts per game",
+    "denominator": "games in the season or sample described by the article",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_post_poss_pct": {
+    "unit": "percent (0..100); named event denominator",
+    "denominator": "all player possessions; numerator is the named play/event category",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_camp_invited": {
+    "unit": "binary source-reported status",
+    "denominator": "not a rate",
+    "family": "camp_invitations",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_physical_only_invited": {
+    "unit": "binary source-reported status",
+    "denominator": "not a rate",
+    "family": "camp_invitations",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_media_invited": {
+    "unit": "binary source-reported status",
+    "denominator": "not a rate",
+    "family": "camp_invitations",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_catchshoot_fg_pct": {
+    "unit": "percent (0..100); named event denominator",
+    "denominator": "field-goal attempts of the named play type",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_pickroll_ppp": {
+    "unit": "points per possession",
+    "denominator": "possessions of the named play type; all possessions for overall",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_halfcourt_turnover_pct": {
+    "unit": "percent (0..100); named event denominator",
+    "denominator": "possessions of the named play type; all possessions when unqualified",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_pullup_fgm_total": {
+    "unit": "count",
+    "denominator": "not a rate",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_pullup_fga_total": {
+    "unit": "count",
+    "denominator": "not a rate",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_catchshoot_poss_pg": {
+    "unit": "possessions per game",
+    "denominator": "games in the season or sample described by the article",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_pickroll_poss_pct": {
+    "unit": "percent (0..100); named event denominator",
+    "denominator": "all player possessions; numerator is the named play/event category",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_open_catchshoot_ppp": {
+    "unit": "points per possession",
+    "denominator": "possessions of the named play type; all possessions for overall",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_scoring_poss_pct": {
+    "unit": "percent (0..100); named event denominator",
+    "denominator": "all player possessions; numerator is the named play/event category",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_finish_poss_pg": {
+    "unit": "possessions per game",
+    "denominator": "games in the season or sample described by the article",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_pullup_ppp": {
+    "unit": "points per possession",
+    "denominator": "possessions of the named play type; all possessions for overall",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_catchshoot_fga_pg": {
+    "unit": "field-goal attempts per game",
+    "denominator": "games in the season or sample described by the article",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_guarded_catchshoot_ppp": {
+    "unit": "points per possession",
+    "denominator": "possessions of the named play type; all possessions for overall",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_transition_fg_pct": {
+    "unit": "percent (0..100); named event denominator",
+    "denominator": "field-goal attempts of the named play type",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_offscreen_poss_pg": {
+    "unit": "possessions per game",
+    "denominator": "games in the season or sample described by the article",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_offscreen_ppp": {
+    "unit": "points per possession",
+    "denominator": "possessions of the named play type; all possessions for overall",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_agent_named_in_listing": {
+    "unit": "binary source-reported status",
+    "denominator": "not a rate",
+    "family": "reported_representation",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_listed_testing_waters": {
+    "unit": "binary source-reported status",
+    "denominator": "not a rate",
+    "family": "reported_representation",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_listed_withdrawn": {
+    "unit": "binary source-reported status",
+    "denominator": "not a rate",
+    "family": "reported_representation",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_same_agent_listed_client_count": {
+    "unit": "count",
+    "denominator": "not a rate",
+    "family": "reported_representation",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_text_words": {
+    "unit": "count",
+    "denominator": "not a rate",
+    "family": "fixed_lexicon_text",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "literal term frequency is topic coverage, not sentiment or a scouting grade"
+  },
+  "report_text_finishing_per1k": {
+    "unit": "literal matched terms per 1000 words; not a player grade",
+    "denominator": "1000 words in the validated player section or report",
+    "family": "fixed_lexicon_text",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "literal term frequency is topic coverage, not sentiment or a scouting grade"
+  },
+  "report_text_creation_per1k": {
+    "unit": "literal matched terms per 1000 words; not a player grade",
+    "denominator": "1000 words in the validated player section or report",
+    "family": "fixed_lexicon_text",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "literal term frequency is topic coverage, not sentiment or a scouting grade"
+  },
+  "report_text_passing_per1k": {
+    "unit": "literal matched terms per 1000 words; not a player grade",
+    "denominator": "1000 words in the validated player section or report",
+    "family": "fixed_lexicon_text",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "literal term frequency is topic coverage, not sentiment or a scouting grade"
+  },
+  "report_text_shooting_per1k": {
+    "unit": "literal matched terms per 1000 words; not a player grade",
+    "denominator": "1000 words in the validated player section or report",
+    "family": "fixed_lexicon_text",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "literal term frequency is topic coverage, not sentiment or a scouting grade"
+  },
+  "report_text_defense_per1k": {
+    "unit": "literal matched terms per 1000 words; not a player grade",
+    "denominator": "1000 words in the validated player section or report",
+    "family": "fixed_lexicon_text",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "literal term frequency is topic coverage, not sentiment or a scouting grade"
+  },
+  "report_text_rebounding_per1k": {
+    "unit": "literal matched terms per 1000 words; not a player grade",
+    "denominator": "1000 words in the validated player section or report",
+    "family": "fixed_lexicon_text",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "literal term frequency is topic coverage, not sentiment or a scouting grade"
+  },
+  "report_text_athleticism_per1k": {
+    "unit": "literal matched terms per 1000 words; not a player grade",
+    "denominator": "1000 words in the validated player section or report",
+    "family": "fixed_lexicon_text",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "literal term frequency is topic coverage, not sentiment or a scouting grade"
+  },
+  "report_text_strength_per1k": {
+    "unit": "literal matched terms per 1000 words; not a player grade",
+    "denominator": "1000 words in the validated player section or report",
+    "family": "fixed_lexicon_text",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "literal term frequency is topic coverage, not sentiment or a scouting grade"
+  },
+  "report_text_length_per1k": {
+    "unit": "literal matched terms per 1000 words; not a player grade",
+    "denominator": "1000 words in the validated player section or report",
+    "family": "fixed_lexicon_text",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "literal term frequency is topic coverage, not sentiment or a scouting grade"
+  },
+  "report_text_decisions_per1k": {
+    "unit": "literal matched terms per 1000 words; not a player grade",
+    "denominator": "1000 words in the validated player section or report",
+    "family": "fixed_lexicon_text",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "literal term frequency is topic coverage, not sentiment or a scouting grade"
+  },
+  "report_text_effort_per1k": {
+    "unit": "literal matched terms per 1000 words; not a player grade",
+    "denominator": "1000 words in the validated player section or report",
+    "family": "fixed_lexicon_text",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "literal term frequency is topic coverage, not sentiment or a scouting grade"
+  },
+  "report_text_development_per1k": {
+    "unit": "literal matched terms per 1000 words; not a player grade",
+    "denominator": "1000 words in the validated player section or report",
+    "family": "fixed_lexicon_text",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "literal term frequency is topic coverage, not sentiment or a scouting grade"
+  },
+  "report_text_injury_per1k": {
+    "unit": "literal matched terms per 1000 words; not a player grade",
+    "denominator": "1000 words in the validated player section or report",
+    "family": "fixed_lexicon_text",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "literal term frequency is topic coverage, not sentiment or a scouting grade"
+  },
+  "report_text_limitations_per1k": {
+    "unit": "literal matched terms per 1000 words; not a player grade",
+    "denominator": "1000 words in the validated player section or report",
+    "family": "fixed_lexicon_text",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "literal term frequency is topic coverage, not sentiment or a scouting grade"
+  },
+  "report_text_efficiency_per1k": {
+    "unit": "literal matched terms per 1000 words; not a player grade",
+    "denominator": "1000 words in the validated player section or report",
+    "family": "fixed_lexicon_text",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "literal term frequency is topic coverage, not sentiment or a scouting grade"
+  },
+  "report_text_pickroll_per1k": {
+    "unit": "literal matched terms per 1000 words; not a player grade",
+    "denominator": "1000 words in the validated player section or report",
+    "family": "fixed_lexicon_text",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "literal term frequency is topic coverage, not sentiment or a scouting grade"
+  },
+  "report_text_catchshoot_per1k": {
+    "unit": "literal matched terms per 1000 words; not a player grade",
+    "denominator": "1000 words in the validated player section or report",
+    "family": "fixed_lexicon_text",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "literal term frequency is topic coverage, not sentiment or a scouting grade"
+  },
+  "report_text_pullup_per1k": {
+    "unit": "literal matched terms per 1000 words; not a player grade",
+    "denominator": "1000 words in the validated player section or report",
+    "family": "fixed_lexicon_text",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "literal term frequency is topic coverage, not sentiment or a scouting grade"
+  },
+  "report_jump_pps": {
+    "unit": "points per shot",
+    "denominator": "shot attempts of the named play type",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_cut_ppp": {
+    "unit": "points per possession",
+    "denominator": "possessions of the named play type; all possessions for overall",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_catchshoot_pps": {
+    "unit": "points per shot",
+    "denominator": "shot attempts of the named play type",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_catchshoot_ppp": {
+    "unit": "points per possession",
+    "denominator": "possessions of the named play type; all possessions for overall",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_pickroll_finish_ppp": {
+    "unit": "points per possession",
+    "denominator": "possessions of the named play type; all possessions for overall",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_jump_shot_pct": {
+    "unit": "percent (0..100); named event denominator",
+    "denominator": "all field-goal attempts; numerator is jump-shot attempts",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_isolation_poss_pct": {
+    "unit": "percent (0..100); named event denominator",
+    "denominator": "all player possessions; numerator is the named play/event category",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_cut_fg_pct": {
+    "unit": "percent (0..100); named event denominator",
+    "denominator": "field-goal attempts of the named play type",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_isolation_poss_total": {
+    "unit": "count",
+    "denominator": "not a rate",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_pickroll_finish_poss_pg": {
+    "unit": "possessions per game",
+    "denominator": "games in the season or sample described by the article",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_jump_fgm_total": {
+    "unit": "count",
+    "denominator": "not a rate",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_jump_fga_total": {
+    "unit": "count",
+    "denominator": "not a rate",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_jump_poss_pct": {
+    "unit": "percent (0..100); named event denominator",
+    "denominator": "all player possessions; numerator is the named play/event category",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  },
+  "report_transition_poss_total": {
+    "unit": "count",
+    "denominator": "not a rate",
+    "family": "synergy_situational",
+    "missing_policy": "missing, never inferred zero for an unobserved player",
+    "interpretation": "source-reported factual value; PPP and PPS remain distinct"
+  }
+}

@@ -1,0 +1,1073 @@
+[
+  {
+    "candidate_key": "32ecf03b5f181391d468c2d40322925872bd0605bf6c8ad2326521169108d453",
+    "source_id": "dx3759",
+    "pid": "P575f19a655",
+    "value": 1.199,
+    "decision": "approve",
+    "metric": "report_overall_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "501080f48f185dcd443cfb8f5a0589d5aa5fb68104db7db3f720943cab494ffb",
+    "source_id": "dx3759",
+    "pid": "P575f19a655",
+    "value": 14.2,
+    "decision": "approve",
+    "metric": "report_poss_pg",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "407b3350be7a4deaa9842cc109f7127b484f2ff93f4abc554ebd02246baa2a88",
+    "source_id": "dx3759",
+    "pid": "P575f19a655",
+    "value": 0.95,
+    "decision": "approve",
+    "metric": "report_isolation_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "4602186c4f1c6650c1cf6f22a2404ee76d5c0845804601476f8766c787897d20",
+    "source_id": "dx3759",
+    "pid": "P575f19a655",
+    "value": 1.438,
+    "decision": "approve",
+    "metric": "report_pickroll_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "a8a7529a62ecf0000cbca6159a9f52b8c6043c11c2fce8ed7a033da0d0f5896c",
+    "source_id": "dx3759",
+    "pid": "P575f19a655",
+    "value": 1.5,
+    "decision": "approve",
+    "metric": "report_finish_pps",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "4d251c1cf6262feaafced66870c04b4a987e0c57ecb64cc16b811601b10d537f",
+    "source_id": "dx3759",
+    "pid": "P2e890c30d2",
+    "value": 0.89,
+    "decision": "approve",
+    "metric": "report_jump_pps",
+    "reason": "Corrected play-type attribution after reading complete archived context"
+  },
+  {
+    "candidate_key": "1d7bd733a4c3679eeb8eb937797db284c1ccc03233bab9f40527078cb0025b06",
+    "source_id": "dx3759",
+    "pid": "P4a7a8900d7",
+    "value": 0.901,
+    "decision": "approve",
+    "metric": "report_overall_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "229bdd43b14dcbe15232c71b145e4acbad3201ad3ec88b20f5d094954d54fddd",
+    "source_id": "dx3759",
+    "pid": "P4a7a8900d7",
+    "value": 0.896,
+    "decision": "approve",
+    "metric": "report_halfcourt_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "d4fd04565c17ca93b961692092a342d1734d8017d6f9fc1bea1dc30896b05c59",
+    "source_id": "dx3759",
+    "pid": "P4a7a8900d7",
+    "value": 0.975,
+    "decision": "approve",
+    "metric": "report_isolation_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "fb22d8294cf9245e2e83fda749a619208354f3d32ccd00ad454bd2a9b495f1e2",
+    "source_id": "dx3759",
+    "pid": "P3ef4d7a55a",
+    "value": 1.03,
+    "decision": "approve",
+    "metric": "report_overall_ppp",
+    "reason": "Corrected play-type attribution after reading complete archived context"
+  },
+  {
+    "candidate_key": "98e365be974c5d23f2fef80a03f979f3df6eb7b0395288d7b6ca1cc200dcf778",
+    "source_id": "dx3759",
+    "pid": "P3ef4d7a55a",
+    "value": 0.952,
+    "decision": "approve",
+    "metric": "report_pullup_pps",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "9ed99c76012832d692884a292aefeebb85e1fbb8fa170bf3e6cda34c9900934f",
+    "source_id": "dx3759",
+    "pid": "P9cc36d2c64",
+    "value": 1.03,
+    "decision": "approve",
+    "metric": "report_halfcourt_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "72268bcf28b1e72702578afd4ad37e2a8981980dca5ab2a9a8fca3f050213480",
+    "source_id": "dx3759",
+    "pid": "P9cc36d2c64",
+    "value": 0.989,
+    "decision": "approve",
+    "metric": "report_pullup_pps",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "67011d81b755748de3b78e258489a51b0392252bc8538d849ed967c458825945",
+    "source_id": "dx3759",
+    "pid": "Pa98bcc077b",
+    "value": 1.443,
+    "decision": "approve",
+    "metric": "report_open_catchshoot_pps",
+    "reason": "Corrected play-type attribution after reading complete archived context"
+  },
+  {
+    "candidate_key": "6d2fa693b8727727a901dfd54f561bf7e79dd63b15f4a2a3cc26120aff0a0917",
+    "source_id": "dx3759",
+    "pid": "Pc4acbf93e3",
+    "value": 0.802,
+    "decision": "approve",
+    "metric": "report_overall_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "4140ecbb49374a83b6aa78230bd58136c3eb368419fb7bcd34ea57f98b4a6d64",
+    "source_id": "dx3759",
+    "pid": "Pde91f9542b",
+    "value": 0.857,
+    "decision": "approve",
+    "metric": "report_jump_pps",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "75dbbf816198f51f15735e2e54e64260b9697b3dde7d6304f9aab6e9d5dcadbf",
+    "source_id": "dx3759",
+    "pid": "P47e2698d94",
+    "value": 0.882,
+    "decision": "approve",
+    "metric": "report_overall_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "68a1960f171606cc00c4f03a264a527460736527dd7e1bd00fdc0bf898e6c57a",
+    "source_id": "dx3759",
+    "pid": "P47e2698d94",
+    "value": 1.14,
+    "decision": "approve",
+    "metric": "report_finish_pps",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "273e7b67c7a103a63b741e718d0a289f1560cca51b389117bb8c8be9e01824f1",
+    "source_id": "dx3759",
+    "pid": "P47e2698d94",
+    "value": 0.728,
+    "decision": "approve",
+    "metric": "report_jump_pps",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "c6a170b77bafbb1b3593e752905fc87ee64ae9b8ae65b417abc65477edbd4be9",
+    "source_id": "dx3759",
+    "pid": "Pd9bc466fd2",
+    "value": 0.924,
+    "decision": "approve",
+    "metric": "report_pickroll_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "bae6bfacb35c45bea006b9cf92b91fba485847551f744c5522d04d3556ac7267",
+    "source_id": "dx3759",
+    "pid": "Pd11fd10026",
+    "value": 0.995,
+    "decision": "approve",
+    "metric": "report_pullup_pps",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "f74b280f624716eccb69372571eba789bc668e58331e8f66e0d9048f2de8eb75",
+    "source_id": "dx3992",
+    "pid": "P163aa00374",
+    "value": 1.6,
+    "decision": "reject",
+    "metric": "report_finish_pps",
+    "reason": "approximate nearly1.6, omitted"
+  },
+  {
+    "candidate_key": "e7be1d3ad5ed43eb1c93372fac262b9dab61096f828a173e6e4583544df93f55",
+    "source_id": "dx3992",
+    "pid": "P4e4e438f6e",
+    "value": 0.578,
+    "decision": "approve",
+    "metric": "report_post_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "3d36d03b0328381cc01bf0e59b1a10168fe5228b1df11c42d11655f6100efb49",
+    "source_id": "dx3992",
+    "pid": "P400aecdd2c",
+    "value": 14.1,
+    "decision": "approve",
+    "metric": "report_poss_pg",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "e5cf6e0a611ef050b9587980a2c62911ec5783ec37ca18dc70be9fc2bdf989cb",
+    "source_id": "dx3992",
+    "pid": "P83b3d780d7",
+    "value": 1.426,
+    "decision": "approve",
+    "metric": "report_cut_ppp",
+    "reason": "Corrected play-type attribution after reading complete archived context"
+  },
+  {
+    "candidate_key": "b7a47cc8a6096af2bf42549a5a4c4970629423fe58f818a7517295ce965aaefa",
+    "source_id": "dx3992",
+    "pid": "P3f927eeca6",
+    "value": 1.417,
+    "decision": "approve",
+    "metric": "report_finish_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "de5fc222c31c5975eb8d8c5a89b948bec1baa860740a447c53f709f183fa1948",
+    "source_id": "dx3992",
+    "pid": "P163aa00374",
+    "value": 1.226,
+    "decision": "reject",
+    "metric": "report_finish_ppp",
+    "reason": "wrong subject; fact describes Ricardo Ratliffe"
+  },
+  {
+    "candidate_key": "6d797fb40ae1d1e1f3ac42a9f9dae807ace39a468b85fd09861bb9e7f74849ba",
+    "source_id": "dx4268",
+    "pid": "P6258e82584",
+    "value": 18.5,
+    "decision": "approve",
+    "metric": "report_poss_pg",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "5a557290f9665b5659155173b76afaf1c012579bf16db858bab3909c74b382c3",
+    "source_id": "dx4268",
+    "pid": "P398088f587",
+    "value": 0.683,
+    "decision": "approve",
+    "metric": "report_halfcourt_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "ba042a6b1a88ec657d27568703bb1401e1491431effe9b1b41ab59062afefcfe",
+    "source_id": "dx4268",
+    "pid": "P36f801ddc1",
+    "value": 1.137,
+    "decision": "approve",
+    "metric": "report_jump_pps",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "027fce485359491dda62979fa92ae7cfba836092038a645ffe7824f5d29a2143",
+    "source_id": "dx4268",
+    "pid": "P70fe638043",
+    "value": 22.8,
+    "decision": "approve",
+    "metric": "report_poss_pg",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "01619c548773ad1f7915dc174d226a0b6537f8089b16f119b0931ae5f5e73135",
+    "source_id": "dx4268",
+    "pid": "P70fe638043",
+    "value": 1.068,
+    "decision": "approve",
+    "metric": "report_overall_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "92f77f88ba940cb7615bac9c1991fb57cd8b0b8aee698dc516b7c89f0decc0ed",
+    "source_id": "dx4268",
+    "pid": "P622332ff90",
+    "value": 20.5,
+    "decision": "approve",
+    "metric": "report_poss_pg",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "8425732ad2d46b9bce9c6ad4fd7d92f574e04e9aba201289348c669a7e48ec54",
+    "source_id": "dx4268",
+    "pid": "P622332ff90",
+    "value": 1.074,
+    "decision": "approve",
+    "metric": "report_overall_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "5348ba120140fd7c53fd16f9b58b8890e98b99b291424ee47e1b3cae78ded663",
+    "source_id": "dx4268",
+    "pid": "P5d0988f1e1",
+    "value": 1.103,
+    "decision": "approve",
+    "metric": "report_jump_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "e88dda93ac5d8204a7eba87bc14ccf4b2090475439e8ff150cab90fe30e4312e",
+    "source_id": "dx4268",
+    "pid": "Pf209014384",
+    "value": 1.317,
+    "decision": "approve",
+    "metric": "report_transition_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "d7ebc8b82adc59053d1221b163462d86c5d89a08f0a301d84db667a601e0c6a9",
+    "source_id": "dx4268",
+    "pid": "Pf1615243ab",
+    "value": 1.25,
+    "decision": "approve",
+    "metric": "report_transition_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "3ba276bc3e2c4dad9028371d4c25cf986d886c3cca3c680c61494b754d3b5ae5",
+    "source_id": "dx4273",
+    "pid": "Pfb1f867cde",
+    "value": 0.882,
+    "decision": "approve",
+    "metric": "report_overall_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "f83a75cb15b670783c3f82de9920b2dcd0773f8f96658c423f376458e065c12c",
+    "source_id": "dx4273",
+    "pid": "Pcad0645e5a",
+    "value": 0.97,
+    "decision": "approve",
+    "metric": "report_overall_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "6945dcdcc0df7443564df03cfccddafaa95ab4b69e3a81c2ed7d1589e7c05091",
+    "source_id": "dx4273",
+    "pid": "Pcad0645e5a",
+    "value": 4.6,
+    "decision": "approve",
+    "metric": "report_offscreen_poss_pg",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "67bcd0af99efb0718f5291a2d6e1aeeb834e83a0cf724f2e984f60f01af6c44c",
+    "source_id": "dx4273",
+    "pid": "Pa33d5803eb",
+    "value": 0.835,
+    "decision": "approve",
+    "metric": "report_overall_ppp",
+    "reason": "Corrected play-type attribution after reading complete archived context"
+  },
+  {
+    "candidate_key": "215b35fdaed39cfaa51f452ca1489257899baa705eccf08f7af93ae38a5a00bc",
+    "source_id": "dx4273",
+    "pid": "P8d3cc27d9f",
+    "value": 1.142,
+    "decision": "approve",
+    "metric": "report_overall_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "0f1ee30aa01470137b579be3b58df481cd973b2cfb8b940b39f42258c7b9429b",
+    "source_id": "dx4278",
+    "pid": "Pf7f191defd",
+    "value": 1.06,
+    "decision": "approve",
+    "metric": "report_overall_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "b5b37894ccf79bc8e6e7e82d5f1ffee313dc1431e353d2ce00c5d3c92a0bf9e1",
+    "source_id": "dx4278",
+    "pid": "Pf7f191defd",
+    "value": 1.13,
+    "decision": "approve",
+    "metric": "report_finish_pps",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "c8a3eced9a02b4f595c0e3a31603bf88c6430060ac70f639fd7bdeea2bf3aea5",
+    "source_id": "dx4278",
+    "pid": "Pf7f191defd",
+    "value": 1.393,
+    "decision": "reject",
+    "metric": "report_finish_pps",
+    "reason": "prior college season, not current-season field"
+  },
+  {
+    "candidate_key": "4e1fa62096ee710543911a0a3c4e58c8b47c43f2bec70e32ef9d3b9d3b6391d6",
+    "source_id": "dx4278",
+    "pid": "P93a13b19c2",
+    "value": 18.5,
+    "decision": "approve",
+    "metric": "report_poss_pg",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "1768d0e053cb7065f1f2d2ceb2bbeb711448b653a2af8fabe48bdb1c57140c41",
+    "source_id": "dx4278",
+    "pid": "P93a13b19c2",
+    "value": 4.8,
+    "decision": "approve",
+    "metric": "report_transition_poss_pg",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "92571b56177a7ca1cc9c5fd3d4a9031e1111770296bbefaf6d16cc84f4498ebb",
+    "source_id": "dx4278",
+    "pid": "P93a13b19c2",
+    "value": 3.5,
+    "decision": "approve",
+    "metric": "report_offscreen_poss_pg",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "2a949ae10fccb4921b063b3f25e06ec2cc6129b7aa83c6eb9824882e6ef4b86c",
+    "source_id": "dx4278",
+    "pid": "P824176de50",
+    "value": 15.2,
+    "decision": "approve",
+    "metric": "report_poss_pg",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "694c4404643305ff5bc696d645e6f953b562b9b6c057a1298c77b0ed7e936016",
+    "source_id": "dx4278",
+    "pid": "P488064c36d",
+    "value": 12.2,
+    "decision": "approve",
+    "metric": "report_poss_pg",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "768698bdfd2e602b338cd862b9ae1a35037e00ef42d1ae779d46877e38426387",
+    "source_id": "dx4278",
+    "pid": "P488064c36d",
+    "value": 9.2,
+    "decision": "approve",
+    "metric": "report_halfcourt_poss_pg",
+    "reason": "Corrected play-type attribution after reading complete archived context"
+  },
+  {
+    "candidate_key": "aad92fcca75977c1c9b6b02c65bc6e11b659c055a2e6a74489a59d371dfa00c0",
+    "source_id": "dx4278",
+    "pid": "P488064c36d",
+    "value": 0.99,
+    "decision": "approve",
+    "metric": "report_jump_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "337ef87d0a7f3f1241e5e66b4ac795d7c1325ae20290304e383660cb0527f14c",
+    "source_id": "dx4278",
+    "pid": "Pccb83c9fcb",
+    "value": 1.29,
+    "decision": "approve",
+    "metric": "report_catchshoot_pps",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "5911ab72506bf18b4580c711b9aee47788286354324d0b0b8a2fd903c5185a35",
+    "source_id": "dx4278",
+    "pid": "Pccb83c9fcb",
+    "value": 1.11,
+    "decision": "approve",
+    "metric": "report_overall_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "94deab33cada3c25f7979b3a34b9c600ecbe5eb47c300a7a07e9986949ec2ca5",
+    "source_id": "dx4278",
+    "pid": "P607c704c53",
+    "value": 1.02,
+    "decision": "approve",
+    "metric": "report_overall_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "a69cc2496474f60860419fbe282294a66373b57f42a4d526b7c30066a079ee40",
+    "source_id": "dx4278",
+    "pid": "P607c704c53",
+    "value": 2.6,
+    "decision": "approve",
+    "metric": "report_post_poss_pg",
+    "reason": "Corrected play-type attribution after reading complete archived context"
+  },
+  {
+    "candidate_key": "5971eb94cc07d5e6a564e5ff91a33cecdca0e9276767af4b768936cdd24cdbb9",
+    "source_id": "dx4279",
+    "pid": "P00193b3ed9",
+    "value": 1.39,
+    "decision": "approve",
+    "metric": "report_finish_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "1d0eb326b88b4cb5403b9b1da691c4d975f3fbac6f99b168501befa99cc0919e",
+    "source_id": "dx4279",
+    "pid": "P1100d011d0",
+    "value": 15.0,
+    "decision": "approve",
+    "metric": "report_poss_pg",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "683d47e324d1e5a386af499dc4a349b9e10646678212ed61968ca8c8e76ec613",
+    "source_id": "dx4279",
+    "pid": "P1100d011d0",
+    "value": 1.1,
+    "decision": "approve",
+    "metric": "report_halfcourt_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "ca1efd9d6a8b5cd50270984a9b0d83e3f06d7d9c6a707d00a5a93ba53e21fbfc",
+    "source_id": "dx4279",
+    "pid": "Pa0a2c9503f",
+    "value": 7.9,
+    "decision": "approve",
+    "metric": "report_poss_pg",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "262fbe00f85c027e1553c2a98d28bb87d38e03edb342e2c472426bf7c10b1c2a",
+    "source_id": "dx4279",
+    "pid": "P2100fc35c8",
+    "value": 0.98,
+    "decision": "reject",
+    "metric": "report_overall_ppp",
+    "reason": "paired subjects; ambiguous aggregate"
+  },
+  {
+    "candidate_key": "0a6dd9cd7ba716e04d9591dae12c6e725380f0030ca1c4755d6d68a965bb4b74",
+    "source_id": "dx4279",
+    "pid": "P2100fc35c8",
+    "value": 1.39,
+    "decision": "reject",
+    "metric": "report_finish_pps",
+    "reason": "wrong subject; fact describes Jackie Carmichael"
+  },
+  {
+    "candidate_key": "41b13217a607badf0117ec81d83c07d665208a04fedef854412d6157461137cd",
+    "source_id": "dx4279",
+    "pid": "P2100fc35c8",
+    "value": 0.95,
+    "decision": "reject",
+    "metric": "report_post_ppp",
+    "reason": "paired section withheld"
+  },
+  {
+    "candidate_key": "87c9e5b6af72bf343026df05a6501916745b6b6fc7bb2033c7ec385d86fc3014",
+    "source_id": "dx4617",
+    "pid": "Pea7725adea",
+    "value": 0.889,
+    "decision": "approve",
+    "metric": "report_overall_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "e64775079eb427f25428e9228b3bafbd58d777d64da867db7e8c8c19c3b70a1e",
+    "source_id": "dx4617",
+    "pid": "Pea7725adea",
+    "value": 1.011,
+    "decision": "approve",
+    "metric": "report_finish_pps",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "4efaeb9fbd079884273defb9f425b5e030388a88ef1cf1bd51d757df12255238",
+    "source_id": "dx4617",
+    "pid": "P7f1d080745",
+    "value": 20.9,
+    "decision": "approve",
+    "metric": "report_poss_pg",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "0deda48025546c9c9102e1c1bea14f9ea18d673082351cf2f5bc44eec7474912",
+    "source_id": "dx4617",
+    "pid": "P6cee28a4f3",
+    "value": 0.933,
+    "decision": "approve",
+    "metric": "report_overall_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "ed641020cf7e329501797a23fb4cd75b16d6af57689e05c13287370a0094d979",
+    "source_id": "dx4617",
+    "pid": "P6cee28a4f3",
+    "value": 6.0,
+    "decision": "approve",
+    "metric": "report_pickroll_poss_pg",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "0564a98f0bfa857f1fe263d64d72d051e813b37fab94741e0fe879f050b59b9d",
+    "source_id": "dx4617",
+    "pid": "P6cee28a4f3",
+    "value": 0.92,
+    "decision": "approve",
+    "metric": "report_pickroll_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "ae80778cfa8d90363ab3ae7f1cc7638f4864002214e95bd40a87b5bdb234b43d",
+    "source_id": "dx4617",
+    "pid": "Pb8a773b356",
+    "value": 5.0,
+    "decision": "approve",
+    "metric": "report_transition_poss_pg",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "96739c549ea2973d015fdf5aaea39eb38f96a64724d175cca167b8d6ceefdc91",
+    "source_id": "dx4617",
+    "pid": "Pb8a773b356",
+    "value": 0.619,
+    "decision": "reject",
+    "metric": "report_jump_pps",
+    "reason": "wrong subject; value describes Elfrid Payton"
+  },
+  {
+    "candidate_key": "68ba93077ac064c0552debd5bbd65317f2d91a5a1ec8f42bdbd20e16d5f712fb",
+    "source_id": "dx4617",
+    "pid": "Pbed27928bf",
+    "value": 1.276,
+    "decision": "approve",
+    "metric": "report_finish_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "62b00764f9e18af617e5701eb7fdd674262e72bd2463eb9cd7a3f0dd7549610b",
+    "source_id": "dx4617",
+    "pid": "P1b1aa3dc82",
+    "value": 21.4,
+    "decision": "approve",
+    "metric": "report_poss_pg",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "bcae15cadae5f1501b3c9ffb6265031f575e5a659abfd3567b077f05013745b8",
+    "source_id": "dx4617",
+    "pid": "P1b1aa3dc82",
+    "value": 1.24,
+    "decision": "approve",
+    "metric": "report_catchshoot_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "f15bd4d4dff8a47d8a27fc2f89800e5bc50f344881b71db3f9208a5cba7c6e6e",
+    "source_id": "dx4618",
+    "pid": "P2171d2817b",
+    "value": 0.73,
+    "decision": "approve",
+    "metric": "report_pickroll_finish_ppp",
+    "reason": "Corrected play-type attribution after reading complete archived context"
+  },
+  {
+    "candidate_key": "07fedfdb4c633a0e54998b99ca68d76661ae7b3423c83f185ad07269f5d52a0e",
+    "source_id": "dx4618",
+    "pid": "Paf95fb158c",
+    "value": 0.979,
+    "decision": "approve",
+    "metric": "report_overall_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "a1f4ec3cc06191812a05344a00d75b6976c0df32f0c3ba25dcfc2662c697f5b6",
+    "source_id": "dx4618",
+    "pid": "Paf95fb158c",
+    "value": 0.93,
+    "decision": "approve",
+    "metric": "report_post_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "0dc7893ccc2b699ed17a94bf4a3dd80423fe5a8c901ca504f34f6dc57db697d0",
+    "source_id": "dx4618",
+    "pid": "Pbac4f67696",
+    "value": 5.8,
+    "decision": "approve",
+    "metric": "report_poss_pg",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "5ca300e72641d402a5dbda85ae3621ea09f536d27de5cac3f0bfe89c20293846",
+    "source_id": "dx4618",
+    "pid": "Pbac4f67696",
+    "value": 1.093,
+    "decision": "approve",
+    "metric": "report_overall_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "337c2c27c247498dd3cdbac178d07d017727eff8d3d4b63c004c3b82c8e4f163",
+    "source_id": "dx4618",
+    "pid": "Pccdaab2014",
+    "value": 0.949,
+    "decision": "approve",
+    "metric": "report_overall_ppp",
+    "reason": "Corrected play-type attribution after reading complete archived context"
+  },
+  {
+    "candidate_key": "e6c512673daa84bd16f15ca74291e05728b0328552e5ebc9706117b4e12117a0",
+    "source_id": "dx4618",
+    "pid": "Pccdaab2014",
+    "value": 0.89,
+    "decision": "approve",
+    "metric": "report_post_ppp",
+    "reason": "Corrected play-type attribution after reading complete archived context"
+  },
+  {
+    "candidate_key": "f945d1a7febf062163903337e35de19495d71b412491e9ebbf9a5c10f7128ca6",
+    "source_id": "dx4618",
+    "pid": "P31e153a014",
+    "value": 14.7,
+    "decision": "approve",
+    "metric": "report_poss_pg",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "c27ddefd086f942545d872ede53e1fba2fc4ce4dd8399086363b7ef0b267ae7b",
+    "source_id": "dx4618",
+    "pid": "P31e153a014",
+    "value": 1.021,
+    "decision": "approve",
+    "metric": "report_overall_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "2a18331cd3e16a212ad12cf77040587b4ebfed2433795eb9569688731aa0e836",
+    "source_id": "dx4618",
+    "pid": "P31e153a014",
+    "value": 1.38,
+    "decision": "approve",
+    "metric": "report_finish_ppp",
+    "reason": "Corrected play-type attribution after reading complete archived context"
+  },
+  {
+    "candidate_key": "afeea6fe899d7c185554bdf36bb4764c82a39ff16fddce647de379be653728ae",
+    "source_id": "dx4619",
+    "pid": "P12d1ca8d35",
+    "value": 1.154,
+    "decision": "approve",
+    "metric": "report_finish_pps",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "15eb5e971583aa818d89034274dda78578ea261f52a95393094b7852075dca94",
+    "source_id": "dx4619",
+    "pid": "P465ab55c02",
+    "value": 16.0,
+    "decision": "approve",
+    "metric": "report_poss_pg",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "31bb26bcacffc5948521034df17554a09b6d6c5cabf2821d1225ffe76608e85a",
+    "source_id": "dx4619",
+    "pid": "P465ab55c02",
+    "value": 1.02,
+    "decision": "approve",
+    "metric": "report_overall_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "4cbba107f70bfead812bf52a97449a45a0787921936ff62872636eb1f37afd86",
+    "source_id": "dx4619",
+    "pid": "P465ab55c02",
+    "value": 0.982,
+    "decision": "approve",
+    "metric": "report_finish_pps",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "7db71114dfdb0e824442854091cc4bbecf0a27e222e20c36c05ceb160503e9d4",
+    "source_id": "dx4619",
+    "pid": "Pd907989bcb",
+    "value": 1.376,
+    "decision": "approve",
+    "metric": "report_finish_pps",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "fcccb9f90fb9c7798fcf3711a8512556afba75882c46f284e64abf3cca083bbc",
+    "source_id": "dx4619",
+    "pid": "P96c6ba4e0f",
+    "value": 9.7,
+    "decision": "approve",
+    "metric": "report_poss_pg",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "478a90cc8d1cd63a177733bff028b37be39eb63e9ce4bcff49ac266d64fdb476",
+    "source_id": "dx4619",
+    "pid": "Pb59be03b24",
+    "value": 1.382,
+    "decision": "approve",
+    "metric": "report_finish_pps",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "dfdbf0b0cc9ee416a331b660a9cc1aeef77a82db14e68b29ac63e59d39166e20",
+    "source_id": "dx4619",
+    "pid": "P59ddf4705a",
+    "value": 19.9,
+    "decision": "approve",
+    "metric": "report_poss_pg",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "10904831f4d372d45d516033409e2dd4307afdf38060bd5092d553eeb2943571",
+    "source_id": "dx4619",
+    "pid": "P44154d877a",
+    "value": 0.865,
+    "decision": "approve",
+    "metric": "report_overall_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "b50d7d5997f67a578f2b0b4038642039b78f82f2c691735818ee35830a0160ab",
+    "source_id": "dx4619",
+    "pid": "P331cffbdbb",
+    "value": 1.089,
+    "decision": "approve",
+    "metric": "report_overall_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "231aaf3ece643feb53d1ae702b738d9ea8f6efe2597754900b61a0f1e00f0dc3",
+    "source_id": "dx4619",
+    "pid": "P331cffbdbb",
+    "value": 4.5,
+    "decision": "approve",
+    "metric": "report_transition_poss_pg",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "b2f506d49fe8fa8054004c8d1f56fa83b130704eefc902075a21323e9af368a0",
+    "source_id": "dx4620",
+    "pid": "P49827cf895",
+    "value": 23.5,
+    "decision": "approve",
+    "metric": "report_poss_pg",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "bc1c5746e483a96d5c67367f27547a310dfa9845e66cfa6ef6c434e2a2678c2b",
+    "source_id": "dx4620",
+    "pid": "Pd5729dac8f",
+    "value": 1.13,
+    "decision": "approve",
+    "metric": "report_post_ppp",
+    "reason": "Corrected play-type attribution after reading complete archived context"
+  },
+  {
+    "candidate_key": "409b63e0fd8ab9add31fe7012be89047109fcfd6b87876684a72de37f0be75e5",
+    "source_id": "dx4620",
+    "pid": "P4f181909b7",
+    "value": 0.87,
+    "decision": "approve",
+    "metric": "report_transition_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "72cf3dabeded13cb0eed5757e5b052ad1f446f472274891b4e4e11bcec645301",
+    "source_id": "dx4620",
+    "pid": "P4f181909b7",
+    "value": 1.18,
+    "decision": "approve",
+    "metric": "report_finish_pps",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "1302afa2f01a1055d7e359e50e6129421568a030f3e00e179fe7772449233d6a",
+    "source_id": "dx4620",
+    "pid": "P2f95e0c256",
+    "value": 1.26,
+    "decision": "approve",
+    "metric": "report_pickroll_ppp",
+    "reason": "Corrected play-type attribution after reading complete archived context"
+  },
+  {
+    "candidate_key": "3d95f25c1127d0dd62c57ef835a2dc22ec1c575ef547bbdbcee7a595d8e24e06",
+    "source_id": "dx4620",
+    "pid": "P2f95e0c256",
+    "value": 2.2,
+    "decision": "approve",
+    "metric": "report_pickroll_poss_pg",
+    "reason": "Corrected play-type attribution after reading complete archived context"
+  },
+  {
+    "candidate_key": "957866b5ab0cda8edd3b86adbeb1df3cb79a08016a0c6b5c0ba0a9808cc30983",
+    "source_id": "dx4620",
+    "pid": "Pd35ff11e6d",
+    "value": 0.99,
+    "decision": "approve",
+    "metric": "report_overall_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "83d51c496cfcb6350ec4e11bbdfa90f3484b6069db5c9a7f646fb45a328dc122",
+    "source_id": "dx4620",
+    "pid": "Pd35ff11e6d",
+    "value": 13.1,
+    "decision": "approve",
+    "metric": "report_poss_pg",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "0c15181eb89e2e45e06b5a5dd1fe572d8c3e2cd4ab05187da3d6bfaad0c25772",
+    "source_id": "dx4620",
+    "pid": "Pf7c7a85a9a",
+    "value": 0.93,
+    "decision": "approve",
+    "metric": "report_overall_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "ffcece37b0efcde65deca71d6a5a5831e8ba819e401dedfda4352581e543b4da",
+    "source_id": "dx4620",
+    "pid": "Pf7c7a85a9a",
+    "value": 1.13,
+    "decision": "approve",
+    "metric": "report_finish_pps",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "cc789fcf9e6549b0db6d062a36cde837e41265b8999b9f3c1bc9e47e610c99b3",
+    "source_id": "dx4627",
+    "pid": "P0a4bbd8b0a",
+    "value": 0.93,
+    "decision": "approve",
+    "metric": "report_post_ppp",
+    "reason": "Corrected play-type attribution after reading complete archived context"
+  },
+  {
+    "candidate_key": "4528c5f333ed6d974fb751e089737e44c5021e1cc0e193c74dae3b63ed666f08",
+    "source_id": "dx4627",
+    "pid": "P0a4bbd8b0a",
+    "value": 1.17,
+    "decision": "approve",
+    "metric": "report_finish_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "650c5f883a5fa396dce8f79102714b2ba94a9a122a3902778fd717c01e355c5d",
+    "source_id": "dx4627",
+    "pid": "P1dca1ecf2b",
+    "value": 0.79,
+    "decision": "approve",
+    "metric": "report_post_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "a8f7caa91672ebd6a420f62bf51276578afc260d39c3f449fb999c2806caf0fc",
+    "source_id": "dx4627",
+    "pid": "P1dca1ecf2b",
+    "value": 0.4,
+    "decision": "approve",
+    "metric": "report_jump_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "3f552f0e68f454955a1f792b2c6afbeded9fc54241a5c7863014897c09d960d9",
+    "source_id": "dx4627",
+    "pid": "P11fb43c4ea",
+    "value": 0.93,
+    "decision": "approve",
+    "metric": "report_transition_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "475715792484108b76e2bca46edc84e2646e3ec752fee6ab016dc0c4edd5e89e",
+    "source_id": "dx4627",
+    "pid": "P11fb43c4ea",
+    "value": 0.99,
+    "decision": "approve",
+    "metric": "report_halfcourt_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "4f1725bc67a16c147d4b8c809c42b53c7f24312194501872e5486085ebd1e453",
+    "source_id": "dx4627",
+    "pid": "P3997afa4f2",
+    "value": 2.3,
+    "decision": "approve",
+    "metric": "report_isolation_poss_pg",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "f852d834094b5c470cd8abbb519e4ad1c1450050e4e377da732cd0fe6154ad0f",
+    "source_id": "dx4627",
+    "pid": "P3997afa4f2",
+    "value": 0.87,
+    "decision": "approve",
+    "metric": "report_jump_pps",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "c18f4cb73c5e1efe0bb8c29a5ef6a1bf36b4f1670d88ec21baacc50bd94f2ca5",
+    "source_id": "dx4627",
+    "pid": "P360c31499c",
+    "value": 1.12,
+    "decision": "approve",
+    "metric": "report_overall_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "db9976c9b263adbcf17b72ba97b07b3483ccd11141bb82c7233fd3d0b857878e",
+    "source_id": "dx4627",
+    "pid": "Pa9426d162d",
+    "value": 0.92,
+    "decision": "approve",
+    "metric": "report_jump_pps",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "74e46697b00440ccc760ae78162bc66bdd5dbf6ef7f18cdf0672d0c7b00d7f83",
+    "source_id": "dx4627",
+    "pid": "P8c383a7533",
+    "value": 1.04,
+    "decision": "approve",
+    "metric": "report_jump_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "f19d4ecaea9dc4dfc81f2286c1fcbf7d886ca83dee39d7ed52e758c7b73786b3",
+    "source_id": "dx4627",
+    "pid": "Pa47459a77d",
+    "value": 0.841,
+    "decision": "approve",
+    "metric": "report_post_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  },
+  {
+    "candidate_key": "cd737669b64e071e74d3b8a9c19146fd8a37e3c9895f3801e77c7227f7126faf",
+    "source_id": "dx4627",
+    "pid": "Pa47459a77d",
+    "value": 1.031,
+    "decision": "reject",
+    "metric": "report_post_ppp",
+    "reason": "prior college season, not current-season field"
+  },
+  {
+    "candidate_key": "2fbecc5910ed673eba1cb9ae5b31d250d48f4c70dc7ceb8294a30fa886c740fa",
+    "source_id": "dx4627",
+    "pid": "P6e49424689",
+    "value": 0.74,
+    "decision": "approve",
+    "metric": "report_jump_ppp",
+    "reason": "Manual review of explicit numeric fact and denominator against archived player section"
+  }
+]

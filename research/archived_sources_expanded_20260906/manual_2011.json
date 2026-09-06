@@ -1,0 +1,80 @@
+{
+  "source_id": "dx3762",
+  "publication_date": "2011-06-19",
+  "review": "Manually verified numerical facts from first pilot; now backed by a June22 Eastern-time archive capture before June23 draft day. Missing and approximate values are excluded.",
+  "players": {
+    "Derrick Williams": {
+      "poss_pg": 16.4,
+      "overall_ppp": 1.16,
+      "jump_shot_pct": 25.0,
+      "jump_fg_pct": 56.0,
+      "jump_pps": 1.6,
+      "pullup_fga_total": 5.0,
+      "isolation_ppp": 1.3,
+      "post_ppp": 1.06,
+      "pickroll_finish_ppp": 1.37,
+      "cut_ppp": 1.26
+    },
+    "Jon Diebler": {
+      "overall_ppp": 1.3
+    },
+    "Kyrie Irving": {
+      "overall_ppp": 1.2
+    },
+    "Kyle Singler": {
+      "jump_shot_pct": 63.0,
+      "isolation_ppp": 0.99,
+      "catchshoot_fga_pg": 4.6,
+      "catchshoot_fg_pct": 34.0
+    },
+    "Robin Benzing": {
+      "jump_shot_pct": 63.0,
+      "spotup_poss_pct": 39.0
+    },
+    "Chris Singleton": {
+      "jump_shot_pct": 56.0,
+      "overall_ppp": 0.86,
+      "turnover_pct": 14.2,
+      "transition_poss_pg": 3.0,
+      "transition_ppp": 0.905,
+      "pullup_fga_pg": 1.5,
+      "pullup_fg_pct": 29.0,
+      "catchshoot_fg_pct": 43.0,
+      "catchshoot_pps": 1.28
+    },
+    "Marcus Morris": {
+      "poss_pg": 16.4,
+      "overall_ppp": 1.12,
+      "turnover_pct": 10.5,
+      "post_ppp": 1.18,
+      "jump_pps": 0.96,
+      "jump_fg_pct": 38.0,
+      "pullup_fga_pg": 0.8,
+      "pullup_fg_pct": 42.0
+    },
+    "Jan Vesely": {
+      "poss_pg": 10.0,
+      "isolation_poss_pct": 2.8,
+      "turnover_pct": 15.0,
+      "spotup_poss_pct": 25.0,
+      "jump_pps": 0.78,
+      "rim_fg_pct": 74.0,
+      "free_throw_poss_pct": 19.4
+    },
+    "Chandler Parsons": {
+      "spotup_poss_pct": 26.2
+    },
+    "Justin Harper": {
+      "spotup_poss_pct": 25.5
+    },
+    "Tobias Harris": {
+      "halfcourt_turnover_pct": 10.2,
+      "isolation_ppp": 0.486,
+      "jump_ppp": 0.725,
+      "jump_fg_pct": 27.5
+    },
+    "Jimmy Butler": {
+      "catchshoot_fg_pct": 36.0
+    }
+  }
+}
