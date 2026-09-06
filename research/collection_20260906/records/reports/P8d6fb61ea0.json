@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:48:41.487749+00:00",
+  "lane": "reports",
+  "pid": "P8d6fb61ea0",
+  "draft_year": 2012,
+  "name": "Arnett Moultrie",
+  "draft_date": "2012-06-28",
+  "status": "ok",
+  "query": "\"Arnett Moultrie\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2011-07-01 before:2012-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Arnett+Moultrie%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2011-07-01+before%3A2012-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Arnett Moultrie Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wYUF2ZUFobl95TlJkZlNxRnZYbWIxYTQtejNTWGdDR2JWVkstUGlXYnZ6NWRfUU1nd1AtSEhzUDJJdFRBVWRuQjJmZk4wd0doNW5WVjROV3FjS0NaZlFuYTl0Z0lxOVlF?oc=5",
+      "published_date": "2012-03-13",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA MOCK DRAFT 3.0: Here's What Each Team Is Thinking With Less Than A Week Until The Draft - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DMGZJZk9sM096c0JkR090RWxMY01aYUd2UGpKSXNiX0VLWWxMTGVHZDhKZHZpbmhBQmhDUFE5QTdYUjlTZjVnUTllamJpVWJpOWIxS2hqcWRBcUt1RVRQTDREYk5FNkFZdmlhNHJn?oc=5",
+      "published_date": "2012-06-23",
+      "source": "Business Insider",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Nerlens Noel Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82LTVDMThfRHhkeHFzMV8xOGNuRGpGUmNZRUdRMnhIVXBfdGNycGxuMklPSU9zbEROcmFjWmE2Qkl5Nl8yQklvellqSURoQVAzaTh4UFhjeTRnUGVFMGJZcFREbHM?oc=5",
+      "published_date": "2012-03-13",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "4a5c639014358b8480d4d89abae262852c6b938735e726b25211771ecf9ef3be",
+  "feature_eligible": false
+}

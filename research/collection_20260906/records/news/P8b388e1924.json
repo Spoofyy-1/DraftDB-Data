@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:49:06.150366+00:00",
+  "lane": "news",
+  "pid": "P8b388e1924",
+  "draft_year": 2005,
+  "name": "John Gilchrist",
+  "draft_date": "2005-06-28",
+  "status": "ok",
+  "query": "\"John Gilchrist\" (draft OR scouting OR prospect OR basketball) after:2004-07-01 before:2005-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22John+Gilchrist%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2004-07-01+before%3A2005-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "No. 25 Memphis Falls to No. 13 Maryland, 84-61 - University of Memphis Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWW9pWHhiUXNqQXpCVFpaU0pUM2N2VG9FVm9LTE1sQnpWM1Zrd3poU0daMEVmR0luVDJRWXBONjBvM1dmZzFPNkJ6SHJXWWdDaFF5UEo4Q2xEbXhlMHg3NHlGb21IbXEwRmZHZkpWOFVzU0wxZlp2QVFoV2poT0xwZWFqMFFEWGlVX3c?oc=5",
+      "published_date": "2004-11-26",
+      "source": "University of Memphis Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "No. 12 Maryland Falls to George Washington, 101-92 - University of Maryland Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pS05EeGtWb000N0pIdUExRFJJVkNmb2pLZUlETlQxUHJWcWwxamtEZEtaVkphRGp5Vkd1emdicFVQRjQxZVVqV2txVHZRUGtYSmQwM3ZGMA?oc=5",
+      "published_date": "2004-12-05",
+      "source": "University of Maryland Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "416b9bc185551aff5d8b3b4090ff19454269603a9c68c37fd77ef5cc56972934",
+  "feature_eligible": false
+}

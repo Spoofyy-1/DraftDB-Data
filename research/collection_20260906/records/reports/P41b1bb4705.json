@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:47:39.231592+00:00",
+  "lane": "reports",
+  "pid": "P41b1bb4705",
+  "draft_year": 2012,
+  "name": "Quincy Miller",
+  "draft_date": "2012-06-28",
+  "status": "ok",
+  "query": "\"Quincy Miller\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2011-07-01 before:2012-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Quincy+Miller%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2011-07-01+before%3A2012-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Moe Harkless\u2019 path to the 2012 NBA Draft: workouts, mock draft status - Rumble In The Garden",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRkExbHdyS0Rvdy16aHlVVEt5V1FvWGl2ZW1xZ2xTZ3pWTHZPUWlUVlI5NFZGT2loZlJSRjdUM2dEVWhXMmpQYlhKSnpoNVo2ckJ6ZFpwRjh0eTNoQS1IRm5PN1VRaTJFZGdvVHhLWWx0T1NyUk1YbVpYTFVSRTd2Wm9OVWlCeDRzaEZvMlNNVFF1OXRnY2x5Q1Z1cTR2Zml1akhtdFRBS3hLODVpSjk3UDR3?oc=5",
+      "published_date": "2012-05-31",
+      "source": "Rumble In The Garden",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jared Sullinger Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rT3VoQmY0M083a3VNM2Q5OXNITUVYbi03OXFUYnVpSlZSV2J5aFFtaGJhZ2xfYUV5ZEFjOHI0WmdtN2U5aTlEd21sdHY2TkplcjVsVWdlemtqaTUxLUhNeTBsLXVzdEpx?oc=5",
+      "published_date": "2011-07-01",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bradley Beal Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83V0p4N09DOWt1RC1sSTl6a3dMNG0yQktFcUFxajE2RFdtWFZmcnRYcTN0UVY1ZEM0b3hIUU1NdEJocEFmY2FZWnNDUng3MFNrRW9iVzBjc2Y0aWRwTEJrQ0piNXE?oc=5",
+      "published_date": "2011-07-01",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "1743292401f6410a110cbd662605fa2a8914f583a9923950ac482fdcdd941487",
+  "feature_eligible": false
+}

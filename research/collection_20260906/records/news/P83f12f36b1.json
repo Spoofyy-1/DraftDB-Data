@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:48:56.256396+00:00",
+  "lane": "news",
+  "pid": "P83f12f36b1",
+  "draft_year": 2005,
+  "name": "Robert Whaley",
+  "draft_date": "2005-06-28",
+  "status": "ok",
+  "query": "\"Robert Whaley\" (draft OR scouting OR prospect OR basketball) after:2004-07-01 before:2005-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Robert+Whaley%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2004-07-01+before%3A2005-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "OIT's Max Gotzler guards Walsh University's Robert Whaley (54) during the semifinals Monday night. - Herald and News",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOVkZCNThLTUtQeXJ0aGhlcTRRWjdzQ2JINkctZ21sZEp3N2ozLVphTEZmc1hwTEZVcDZHeWhFaHRLS0pOYjViczR2WjBqWUdUcFFraUZ3NjZxRkxEczM1RUlTZm1BcnRlWW5vLVlOelAxUENoOENkRmk4Q0s5eUstTUxMY09MWHI1OWVEVU1MdTgzeUdYSnpTd1BaVmNBekVLZzdSZmFaRGU1RHA1NjJNMTZ1UWQwTGU0dkVHM1dYSXo2NXRIcDZTUEhxTnVWSG9lcTlWSzNicUxkWjhGNEEtRkt5VUJsUTFqZFhiV3VULTBwMS1EYWhSMDdHRVFDSWlmaS0wMkVPVnZ2bzB2?oc=5",
+      "published_date": "2005-03-15",
+      "source": "Herald and News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "c840f82979a29aec4547ece599be3b5e47810e4577dbf89b0048551a830842f8",
+  "feature_eligible": false
+}

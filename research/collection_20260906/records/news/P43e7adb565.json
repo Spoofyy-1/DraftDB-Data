@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:47:46.839400+00:00",
+  "lane": "news",
+  "pid": "P43e7adb565",
+  "draft_year": 2005,
+  "name": "Bracey Wright",
+  "draft_date": "2005-06-28",
+  "status": "ok",
+  "query": "\"Bracey Wright\" (draft OR scouting OR prospect OR basketball) after:2004-07-01 before:2005-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Bracey+Wright%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2004-07-01+before%3A2005-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Bracey Wright Named BT POW - Indiana University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jN0FSdmtnY1hWOVMxTDYzSnBzRWVmaDVBMWhLLVR2UnRSOUZUZ0VaekRDa0xGdVJFTUJ6N3oxdkxKSm83TEpyTGZ4QkRkY3FzSUlPMFZzaWxDN2ZILTZlY29iOTB3Z1g0dWh1aGpWSmtOZw?oc=5",
+      "published_date": "2005-02-28",
+      "source": "Indiana University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Never quite Wright - The Herald-Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNDJrdmdaLUlwc1FkZG5KQkEzU1Q2WktxRkw1WTVVNE5vYWdGRXJfSGJYaDl6OXl6RDJtZHBXRFcyQXA4WVBfWjZjWlE1THhDd3ZpV2FaUE90elRMUFc4eVE4NTVtMFhzTVlrREJXcE4wQnRnRWV6cU9nMHFTdmQ2b2xCd1BXTXYyeWc?oc=5",
+      "published_date": "2005-06-01",
+      "source": "The Herald-Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Wright, USA Move to Semis - Indiana University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwdzZrSHMtcXNvbFZTUjlTc2hQbFZZT2lRd1pRZ09EQ0preG5sUk1nTGR6ODNNaTRrdk9xWi1YTGZfa1hjSVRMODlyby1KblhMV1ZDeDB3al9NQ1d5S28wdURWenBrQjExeVFsUXZaTFdVd0JPWFE?oc=5",
+      "published_date": "2004-07-31",
+      "source": "Indiana University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "a8c214355e31934cee3598c193ba32486cfed8fe00b535c492bfe81a1b74017a",
+  "feature_eligible": false
+}

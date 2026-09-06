@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:49:39.290078+00:00",
+  "lane": "news",
+  "pid": "Pb87f242f46",
+  "draft_year": 2005,
+  "name": "Rawle Marshall",
+  "draft_date": "2005-06-28",
+  "status": "ok",
+  "query": "\"Rawle Marshall\" (draft OR scouting OR prospect OR basketball) after:2004-07-01 before:2005-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Rawle+Marshall%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2004-07-01+before%3A2005-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Oakland wins its way in - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSDQ4a2swUWI0Njl5dUEzNms1aDdRNTdRcmgxSWlZUmw3UUxObzczZC0wM3ItR3BrdjFDVmdVZWhVYXNaYkg3LUNTUEZRSGs1MmxzWVM1YUZhbUlQSnlsdml5U2R2ekR3ZTlCYmpWX180bloxWERtZkk3Z1lxVldNSHR0NXB3eGNzVU5iV0F6cw?oc=5",
+      "published_date": "2005-03-16",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "5b7ce94e75d5a4dd9b29aae29357d69540967c12743ad17bb79fdadd2c31ac08",
+  "feature_eligible": false
+}

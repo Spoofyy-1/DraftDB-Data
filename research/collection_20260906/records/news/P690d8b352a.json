@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:48:29.791766+00:00",
+  "lane": "news",
+  "pid": "P690d8b352a",
+  "draft_year": 2005,
+  "name": "Brandon Bass",
+  "draft_date": "2005-06-28",
+  "status": "ok",
+  "query": "\"Brandon Bass\" (draft OR scouting OR prospect OR basketball) after:2004-07-01 before:2005-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Brandon+Bass%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2004-07-01+before%3A2005-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "LSU Forward Brandon Bass to Enter NBA Draft - LSUsports.net",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VWHJ6aUtkVUdtbDN5VlV0RFdaaDhLb0Izb3BWMWdtM2NuZnJWbGxkR1FrMEtxRTduMEdpUFpDYTJYUFB0WGNFUU1qRHZ0bkFubUpZSE1vQzViQQ?oc=5",
+      "published_date": "2005-05-12",
+      "source": "LSUsports.net",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "LSU's Brandon Bass Recovering - WAFB",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MRDV0Q1UwdXVrNjBfMDhnOC1HUjhFRjcyWUU5a1cwU3VhaUw2X2QyajA5QmFWMGMzZXZZampVSTdaMk5qQnBxRzZFSUNIVkp3aXFkejlCZHJuS3NhTDZhMFQ5YjVTQ2xMS3E2RENGbFhwUdIBhAFBVV95cUxOeTd6MVI3dE9oOXdiYTI4OVhpZFRtVjllTFZwWHdmS0h3Q0M1YVZLOEM3YTBGRmNmQW5aX1VZZU5tRXN5d1M3OTYxSmQ5c0ZnemtIMWhtQWMyb0xMbDF5N2ZuRUxfMmU3dTdlajRleGJMT01PLTRPbHNnOVIydDVJSGlXRWc?oc=5",
+      "published_date": "2004-10-13",
+      "source": "WAFB",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Auburn freshman chasing Jackson - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU1ZnN3Jsdl9UMXdoMWVFTzZ5STdYMEotd0xrSTBpeGlhY2ZIV1o3eUJtYlM5Z1pXSXVOcEtVNmlpMEtsMHl6V3ZjbGI5YWJncDhUcEdwc1g0UHFSbWNENnBNZDBiSUdSMGpfLVBsYzIyZ0tOZE1HZ1N5cG0yWjdSSjRnb3Y1X3gwU3cxN1RpVFdNRWNIQ3ZqMHl3?oc=5",
+      "published_date": "2005-02-19",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "c634cb985ec5f55af3e7bb939f87413757052815533d3ee9a40a83b66f169dea",
+  "feature_eligible": false
+}

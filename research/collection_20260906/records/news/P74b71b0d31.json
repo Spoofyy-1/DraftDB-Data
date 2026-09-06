@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:48:42.932969+00:00",
+  "lane": "news",
+  "pid": "P74b71b0d31",
+  "draft_year": 2005,
+  "name": "Ryan Gomes",
+  "draft_date": "2005-06-28",
+  "status": "ok",
+  "query": "\"Ryan Gomes\" (draft OR scouting OR prospect OR basketball) after:2004-07-01 before:2005-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Ryan+Gomes%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2004-07-01+before%3A2005-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Gomes has prepared for grand finale - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdkRoQnM4VFhtdE4zOEdpY2pYSi1FdThXd2tTNDFPdmxrTHBMVi11S3JQcGJGd3JyeUd0VlZfdWdQVVVMOS1FOUt4bHFFNXhWQTNCbUZVaWFGX2MwSXk2ZW5sWFpnZkZ6dXdudkQ5LUZLVUV6bVRjamRzUUx2WllCSmljd05tOEhPdmNZeDk5eFdWVTVIczBTdXpYXzh5NGs?oc=5",
+      "published_date": "2004-11-25",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Channing Frye Named to Collegiate Basketball Award of Excellence Watch List - University of Arizona Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41Z2ZDYllTdGRhd0ZUcHotcXJYQldDQjV0TnFORGhZcVpRNWVvNGF4OTFKN2x4d002MVdkTlRLZ3FGSy1nblRjemlKdkJGZXVjVTV0ODduNnVpNDZkUV85ek9MaXM?oc=5",
+      "published_date": "2005-02-18",
+      "source": "University of Arizona Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "This year should be the seniors' show - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NS1BtVk5CVnNhay1TcG9JYnhHaUdzQ0lyYlZpVE1DdEpETEhkdVNiQmIxc3JLYlNXaTlDd2FoazJTTVRFTXl6WU11SWItWlk?oc=5",
+      "published_date": "2004-11-10",
+      "source": "NBC News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "33398dc01199e3e39f52036aacc5a2f69eaaef9996d772360060b7b304901894",
+  "feature_eligible": false
+}

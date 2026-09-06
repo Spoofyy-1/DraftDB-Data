@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:48:03.371931+00:00",
+  "lane": "news",
+  "pid": "P55b27de869",
+  "draft_year": 2005,
+  "name": "John Lucas",
+  "draft_date": "2005-06-28",
+  "status": "ok",
+  "query": "\"John Lucas\" (draft OR scouting OR prospect OR basketball) after:2004-07-01 before:2005-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22John+Lucas%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2004-07-01+before%3A2005-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Hawks' Magican Ride Ends in Regional Finals; Oklahoma State Wins - sjuhawks.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SbFZla0RwLTlSRHE0WXRQUTUwV1JWWTlPX0VYd2ZtbkpkRmFhS3laR3c4cEtUSnE1bGhGUzJMOVJORFR2akk0dUpzTDRmRndVSUV0SDEzWQ?oc=5",
+      "published_date": "2004-09-01",
+      "source": "sjuhawks.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Ronald Ross Named to Basketball Times All-America Squad - Texas Tech Red Raiders",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdjk4RnhKNkh2T3R0WndueW5WV2FhdnBUckZTaXVZQjZOZEpzR1JUbGZDeDNlcktlU3JmWUVCd0JSTVgwdUg2aVliQV92QzNuYUFlUW03WnljNjRfLTZadzY2ckNfeWd3ZnZUcF9jOWcybFd3NzBQaV8wdU5DbmVjVk5pQVlDcHpVSDhKYzZHRlo4bGpCSWw0?oc=5",
+      "published_date": "2005-03-23",
+      "source": "Texas Tech Red Raiders",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Cowboys' Curry Makes Most of Second Chance - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbjJHUGFJTVJ5V21zWER0TXJtczNTakZCQTZuWlJBQjZFa1lvSlA5TFN0bUlVUlFCSlBGcDdDOTZUQ0o1TElhM1p5WWIwZXJJQkNfUVFoNUtVTXBqcEk4UXJwQTNQbHJlV3ZPQlEzTjlRczRvMmF3NHlpYVdIZ3ZPT0I0cUEwelc2bVBPYWVHc182dThxYzdMSWZ3LXZxajdJNXluWlZRdkd0V0YtMlNBRW5KRUhhNXY3MWhrMHBmVVBjUlFtYWwxQWJ6c1J6SW5LbWc?oc=5",
+      "published_date": "2005-03-14",
+      "source": "The Washington Post",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "5de60ae59fc17526d1466f18a083500a28d149f78e15babb400f80083ec70b9b",
+  "feature_eligible": false
+}

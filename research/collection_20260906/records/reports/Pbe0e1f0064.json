@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:49:30.434001+00:00",
+  "lane": "reports",
+  "pid": "Pbe0e1f0064",
+  "draft_year": 2012,
+  "name": "Maalik Wayns",
+  "draft_date": "2012-06-28",
+  "status": "ok",
+  "query": "\"Maalik Wayns\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2011-07-01 before:2012-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Maalik+Wayns%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2011-07-01+before%3A2012-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Dion Waiters Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55bDlNQWlMNk9CQm8yVHZ5VEpQU0Z1cGZoWUJXLWZoUUFveGhlVGdOZWNzMWhpbTZ5MHR0RTBBQ2FTMHhWV3JLaUxJenFuWGxVdlQ3NVdBVlVMaDkzcDFucDdxRUM?oc=5",
+      "published_date": "2012-03-26",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "e73308a30637a27f0372a438d49b679f40d3f3a415b71946100e14417f00cb30",
+  "feature_eligible": false
+}

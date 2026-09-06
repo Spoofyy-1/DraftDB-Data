@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:47:49.209028+00:00",
+  "lane": "reports",
+  "pid": "P47044d9385",
+  "draft_year": 2012,
+  "name": "Royce White",
+  "draft_date": "2012-06-28",
+  "status": "ok",
+  "query": "\"Royce White\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2011-07-01 before:2012-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Royce+White%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2011-07-01+before%3A2012-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA MOCK DRAFT 3.0: Here's What Each Team Is Thinking With Less Than A Week Until The Draft - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DMGZJZk9sM096c0JkR090RWxMY01aYUd2UGpKSXNiX0VLWWxMTGVHZDhKZHZpbmhBQmhDUFE5QTdYUjlTZjVnUTllamJpVWJpOWIxS2hqcWRBcUt1RVRQTDREYk5FNkFZdmlhNHJn?oc=5",
+      "published_date": "2012-06-23",
+      "source": "Business Insider",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Moe Harkless\u2019 path to the 2012 NBA Draft: workouts, mock draft status - Rumble In The Garden",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRkExbHdyS0Rvdy16aHlVVEt5V1FvWGl2ZW1xZ2xTZ3pWTHZPUWlUVlI5NFZGT2loZlJSRjdUM2dEVWhXMmpQYlhKSnpoNVo2ckJ6ZFpwRjh0eTNoQS1IRm5PN1VRaTJFZGdvVHhLWWx0T1NyUk1YbVpYTFVSRTd2Wm9OVWlCeDRzaEZvMlNNVFF1OXRnY2x5Q1Z1cTR2Zml1akhtdFRBS3hLODVpSjk3UDR3?oc=5",
+      "published_date": "2012-05-31",
+      "source": "Rumble In The Garden",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2012 NBA Mock Draft 6.0 By: Aran_Smith - NBADraft.net",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HbV9fcVBmVkN3RXFBbFRpSXE4VHQ1Rk9STmVVZmxIb1pvZVpXOTludEp3eEpGckszOFkzX2lrN2NqZWVlZmhTT2RVeUxpenNuZGhFQkZPV0dOTVN3TGc?oc=5",
+      "published_date": "2012-06-24",
+      "source": "NBADraft.net",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "fe37ab116e87106479547a68e38714a2499f2f78e7a5b2762ffbd6af6e1a7003",
+  "feature_eligible": false
+}

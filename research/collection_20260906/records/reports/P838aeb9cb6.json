@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T09:48:28.374404+00:00",
+  "lane": "reports",
+  "pid": "P838aeb9cb6",
+  "draft_year": 2012,
+  "name": "Marquis Teague",
+  "draft_date": "2012-06-28",
+  "status": "ok",
+  "query": "\"Marquis Teague\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2011-07-01 before:2012-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Marquis+Teague%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2011-07-01+before%3A2012-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Marquis Teague Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43UUp6bUlJTmVIZHk3ekdmWXZfbnB2azQ2VXhkZTFTbjcwbkZoMHFuRkpLSS1TZE1GN2NMbjdrdDg3S2oxSDZyOUZVWTZRNGlpWWR0N01PYU9sVkJtSFdINk1DeWZEZlE?oc=5",
+      "published_date": "2011-07-04",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Marquis Teague, Pike , Point Guard - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9wMFRsbV9iUVl4dWZCT1RmU1NHV0lyUUxVMEpJOXdzOVFqdm5kUFd3NjZNUU1UcnlzS2x5alhTVDNNM1hBZkJKaUZseW9nY2VYOUltdkt2bzNCRHdlX0IzeDZLR3lsV3U4NjRYb01DUUpmME5V?oc=5",
+      "published_date": "2011-07-11",
+      "source": "247Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA MOCK DRAFT 3.0: Here's What Each Team Is Thinking With Less Than A Week Until The Draft - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DMGZJZk9sM096c0JkR090RWxMY01aYUd2UGpKSXNiX0VLWWxMTGVHZDhKZHZpbmhBQmhDUFE5QTdYUjlTZjVnUTllamJpVWJpOWIxS2hqcWRBcUt1RVRQTDREYk5FNkFZdmlhNHJn?oc=5",
+      "published_date": "2012-06-23",
+      "source": "Business Insider",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "The Redemption Of Evan Turner - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLM0hJNWlvYkszTDdrdWRHdlFMck5rZFdiZTFER05TQkt0dk5IMTZmT2M5ei1nME5OdlVMNW9iS3BhWEptbXprcHFoajhNWmVDWEp4MFlmTzBPRENvUHlHS0pTN2xvdw?oc=5",
+      "published_date": "2011-07-04",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 2,
+  "response_sha256": "c08f1a7adfe6f0c2ca426d615d8db31ae127acfaa49566682ca9422d700b048e",
+  "feature_eligible": false
+}

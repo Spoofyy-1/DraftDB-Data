@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:47:58.913252+00:00",
+  "lane": "reports",
+  "pid": "P4bc4764e2a",
+  "draft_year": 2012,
+  "name": "Miles Plumlee",
+  "draft_date": "2012-06-28",
+  "status": "ok",
+  "query": "\"Miles Plumlee\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2011-07-01 before:2012-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Miles+Plumlee%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2011-07-01+before%3A2012-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA MOCK DRAFT 3.0: Here's What Each Team Is Thinking With Less Than A Week Until The Draft - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DMGZJZk9sM096c0JkR090RWxMY01aYUd2UGpKSXNiX0VLWWxMTGVHZDhKZHZpbmhBQmhDUFE5QTdYUjlTZjVnUTllamJpVWJpOWIxS2hqcWRBcUt1RVRQTDREYk5FNkFZdmlhNHJn?oc=5",
+      "published_date": "2012-06-23",
+      "source": "Business Insider",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "34116f43cd251bde07d8acebb1dbd04dd4a9b0a87e042d40e7a807f827bdabc4",
+  "feature_eligible": false
+}

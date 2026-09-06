@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:47:50.101641+00:00",
+  "lane": "news",
+  "pid": "P471bec0288",
+  "draft_year": 2005,
+  "name": "Danny Granger",
+  "draft_date": "2005-06-28",
+  "status": "ok",
+  "query": "\"Danny Granger\" (draft OR scouting OR prospect OR basketball) after:2004-07-01 before:2005-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Danny+Granger%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2004-07-01+before%3A2005-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Lobos Face Arkansas-Pine Bluff Sunday - New Mexico Lobos - Official Athletics Website - New Mexico Lobos",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIVkRiZzMwUG1fd2RHX2RMRFlnV3lUaFRRODlERTdYdFRpYnpaRVY4OWVURUJ0M2JzdDhEbDZvQ3pUX3JtUU5CdVhxRUdqSkxPd2xQREFmU00?oc=5",
+      "published_date": "2004-12-10",
+      "source": "New Mexico Lobos",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Channing Frye Named to Collegiate Basketball Award of Excellence Watch List - University of Arizona Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41Z2ZDYllTdGRhd0ZUcHotcXJYQldDQjV0TnFORGhZcVpRNWVvNGF4OTFKN2x4d002MVdkTlRLZ3FGSy1nblRjemlKdkJGZXVjVTV0ODduNnVpNDZkUV85ek9MaXM?oc=5",
+      "published_date": "2005-02-18",
+      "source": "University of Arizona Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Mark Walters Earns MWC Player of the Week Honors - New Mexico Lobos",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tajFZREE3ck9DRXlCbzdyS01paEs2RWQ3MlZmSlB3dk1ranM3TDh1aTUwYmNtcF9vZEoxRjhpQlFRUkRxYVBCTWNLLW1saXhjdnpzRHpLWlI?oc=5",
+      "published_date": "2005-02-28",
+      "source": "New Mexico Lobos",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "ccf0d0b20173a74361b40ce8f32eeccf7cb7904b8d73c287dadb9902903129e5",
+  "feature_eligible": false
+}

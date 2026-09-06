@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:50:06.708290+00:00",
+  "lane": "reports",
+  "pid": "Pd2430f6dfc",
+  "draft_year": 2012,
+  "name": "Perry Jones III",
+  "draft_date": "2012-06-28",
+  "status": "ok",
+  "query": "\"Perry Jones III\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2011-07-01 before:2012-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Perry+Jones+III%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2011-07-01+before%3A2012-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA MOCK DRAFT 3.0: Here's What Each Team Is Thinking With Less Than A Week Until The Draft - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DMGZJZk9sM096c0JkR090RWxMY01aYUd2UGpKSXNiX0VLWWxMTGVHZDhKZHZpbmhBQmhDUFE5QTdYUjlTZjVnUTllamJpVWJpOWIxS2hqcWRBcUt1RVRQTDREYk5FNkFZdmlhNHJn?oc=5",
+      "published_date": "2012-06-23",
+      "source": "Business Insider",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2012 NBA Draft: Prospects Align, Order Does Not In Mock Draft Breakdown - Brew Hoop",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTjZrTXdPTThZMnJEbEdJS1FjbjZtclVCR1o2LVpZQzdmLVBucWkxS01taUI5TDhra05tb2tSQnBvQnhKTVNGM1J5QTQ2NzNSZUpTejJheDBBTHJRaER2NUpXeGQxT1ZKaDdLWnZCTlVSV0V4TjNJaGxVV1lhYkRGdzV1em9KZll2QnBEaQ?oc=5",
+      "published_date": "2012-06-15",
+      "source": "Brew Hoop",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2012 NBA draft: Should the Trail Blazers draft Perry Jones? (poll) - OregonLive.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOUJNUzdydVJoVmFsdWVuSkV5RmZoZ19nRTJTSkU1cXFDWFE0MXNpWXlUTW9RTzJtcjhFVUVlRUdNZzd0RzlscFRxX1czX0NpQ0VwUVNEM2hKVE9ESC1kb0tVTmNuVkFMeFVjeDk1X3FpNmNmQlM5T09HTmVBZTd0YS1sY2t5T21oOXRlWFZMX1luS1JCQkFqcA?oc=5",
+      "published_date": "2012-06-07",
+      "source": "OregonLive.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "5dfc362b34f537ff21254fba2d44c8fc8af930b7d158de12841cf9923b779614",
+  "feature_eligible": false
+}

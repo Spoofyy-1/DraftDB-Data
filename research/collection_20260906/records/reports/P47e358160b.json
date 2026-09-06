@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T09:47:52.458514+00:00",
+  "lane": "reports",
+  "pid": "P47e358160b",
+  "draft_year": 2012,
+  "name": "Doron Lamb",
+  "draft_date": "2012-06-28",
+  "status": "ok",
+  "query": "\"Doron Lamb\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2011-07-01 before:2012-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Doron+Lamb%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2011-07-01+before%3A2012-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Doron Lamb: Highlights, Analysis and Pro Projections - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOXFVc0FiU3d1RnBnSndHMTNXS3JJY0VheVVJSVljeTlBMVpzTU41aXVRbms5Z3ZlX2tEalR4SndLM2VEajNkUkhZY2JXUjhtSWsyYlFpeFhBYVFwMXk4Tzg5cjdoandVdW4zOFA5Nlc2Q3ZoYlNETnVvOHZkWDVZSHRGalVndTlkZlJRNU1fVy1QODJwTjlQTkxB?oc=5",
+      "published_date": "2012-06-12",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Doron Lamb Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhUFo2QS1FcVJDckJ0dHBMYTRkemJ6clJKZ2dzT0I1WXo0N013QVF0Q1BlSUlLX1hxcHNXbjhrV1dyRnBBNkFUU2tHUVZDcGtELUZUTnFQcnBxX1FSMnNkRjRR?oc=5",
+      "published_date": "2011-12-12",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA MOCK DRAFT 3.0: Here's What Each Team Is Thinking With Less Than A Week Until The Draft - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DMGZJZk9sM096c0JkR090RWxMY01aYUd2UGpKSXNiX0VLWWxMTGVHZDhKZHZpbmhBQmhDUFE5QTdYUjlTZjVnUTllamJpVWJpOWIxS2hqcWRBcUt1RVRQTDREYk5FNkFZdmlhNHJn?oc=5",
+      "published_date": "2012-06-23",
+      "source": "Business Insider",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2012 NBA Mock Draft 6.0 By: Aran_Smith - NBADraft.net",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HbV9fcVBmVkN3RXFBbFRpSXE4VHQ1Rk9STmVVZmxIb1pvZVpXOTludEp3eEpGckszOFkzX2lrN2NqZWVlZmhTT2RVeUxpenNuZGhFQkZPV0dOTVN3TGc?oc=5",
+      "published_date": "2012-06-24",
+      "source": "NBADraft.net",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "50ac3e724123fe64a307cbf64b1c348f6b142d4766a2e5fc6b172a1a5a8b3240",
+  "feature_eligible": false
+}

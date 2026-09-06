@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:48:59.521118+00:00",
+  "lane": "news",
+  "pid": "P83f985b4bd",
+  "draft_year": 2005,
+  "name": "Von Wafer",
+  "draft_date": "2005-06-28",
+  "status": "ok",
+  "query": "\"Von Wafer\" (draft OR scouting OR prospect OR basketball) after:2004-07-01 before:2005-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Von+Wafer%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2004-07-01+before%3A2005-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Georgia Tech Edges Florida State, 76-75 - Georgia Tech Yellow Jackets",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb0tsNGNLN1UwMjktNWZkMXg2cVBlVldBN2hkT21iWG9JQmRRcVNwc0gxd200bHdvaVJJWVQzUFJ5TzRZNFctMWt0WC1kN0FsOGtkamdJYlF3cmVhYV9nUWNQOFlwSTRBWmFCV19EdjF4S2tZbGFhQUMxTmJhYU1Sa2hCRThLdw?oc=5",
+      "published_date": "2005-02-20",
+      "source": "Georgia Tech Yellow Jackets",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "2fe28f2df5c71b8492522c8faafdc1e5a8f1218b719c9d1f073973c0c6da9db3",
+  "feature_eligible": false
+}

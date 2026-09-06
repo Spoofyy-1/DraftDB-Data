@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T09:48:34.980181+00:00",
+  "lane": "reports",
+  "pid": "P84b7d3abc9",
+  "draft_year": 2012,
+  "name": "Renardo Sidney",
+  "draft_date": "2012-06-28",
+  "status": "ok",
+  "query": "\"Renardo Sidney\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2011-07-01 before:2012-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Renardo+Sidney%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2011-07-01+before%3A2012-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Giving Up On Renardo Sidney - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xUDVTT3VTd3VFajdfZk94TVNFbHF5RmpudXN0Tk5VbXRCa3dKX2J3MTZZOWp4UlpsYVN4QjVJWWE2N2hmQTA1VGhEME1vYzFiS1R1SVctTDBDQ09oN3lSRTVnTQ?oc=5",
+      "published_date": "2011-11-17",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Two Round 2013 NBA Mock Draft - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14dlJtSVprdUxxVWpuTHRYZzNpaXVLT3RSMUFYZlNLZUs1VTJETHdnQVNxN0NEX3JJMFZtRWlTakx6Wml4T3ZXZlp4dkR1N0lHVjA0NHNGU3lMcTliTWg0QTdhRndCZw?oc=5",
+      "published_date": "2011-07-08",
+      "source": "NBA Draft Room",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "John Jenkins Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jbU9Md3hSeFdCcmZzZnRadEt3dnNCS0FPMUFDVWVPSTFZOEJGNm1RanZJTW0ta3p4NG1NUnhYSlpZeUdyalN0MzNXS29MU2VWaE1kc3E0QTNmVGdlcG9NLThWVkc?oc=5",
+      "published_date": "2011-11-14",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Arnett Moultrie Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wYUF2ZUFobl95TlJkZlNxRnZYbWIxYTQtejNTWGdDR2JWVkstUGlXYnZ6NWRfUU1nd1AtSEhzUDJJdFRBVWRuQjJmZk4wd0doNW5WVjROV3FjS0NaZlFuYTl0Z0lxOVlF?oc=5",
+      "published_date": "2012-03-13",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "0a0c02e65fd8c5352cb479e3b19eacbe4431fb609963fe14e592c37f71d0746c",
+  "feature_eligible": false
+}

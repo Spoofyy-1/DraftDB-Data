@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:50:19.826079+00:00",
+  "lane": "reports",
+  "pid": "Pee7c22ed91",
+  "draft_year": 2012,
+  "name": "Chris Johnson",
+  "draft_date": "2012-06-28",
+  "status": "ok",
+  "query": "\"Chris Johnson\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2011-07-01 before:2012-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Chris+Johnson%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2011-07-01+before%3A2012-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "CBSMiami 2012 NFL Mock Draft - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LWjJfVVZyOHc5Zk5kV3ppTzdjSEdqOXRrTFpONG13UmtzZUlWWWtzZEtJemlzTE5BZWxBNDUwZkhPVmxZbHQ4RXBoS2ZMZ2xtdVBGSXpUa0dGelA2QVpHdWRqZDZKR2hwcEExVXQzVHc3QQ?oc=5",
+      "published_date": "2012-04-23",
+      "source": "CBS News",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Tennessee Titans respond to a new coach with a fast start: Tony Grossi's Scouting Report - Cleveland.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQWtzRjV5UTg4TktRUGRsRUZwV0xWSDYwWW5fRXkxOUJsRzN5dm5Db3pORnFYZlJvaW1oR2c3SlVJelZ2NHFQX2NCM0hTZ2pGdVJKa0VFczVyZHFJNG9pZkhaOTZ6RDlINDJvVGJXZDVIV2Y4amYwTEN4ZGEyU1ljcA?oc=5",
+      "published_date": "2011-09-27",
+      "source": "Cleveland.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "564114033a62bfc84feddff035384b4734ae125686766cbc71d0441794c36cc8",
+  "feature_eligible": false
+}

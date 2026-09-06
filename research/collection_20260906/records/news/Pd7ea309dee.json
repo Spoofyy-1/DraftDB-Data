@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:50:32.433916+00:00",
+  "lane": "news",
+  "pid": "Pd7ea309dee",
+  "draft_year": 2005,
+  "name": "Stephen Graham",
+  "draft_date": "2005-06-28",
+  "status": "ok",
+  "query": "\"Stephen Graham\" (draft OR scouting OR prospect OR basketball) after:2004-07-01 before:2005-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Stephen+Graham%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2004-07-01+before%3A2005-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Channing Frye Named to Collegiate Basketball Award of Excellence Watch List - University of Arizona Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41Z2ZDYllTdGRhd0ZUcHotcXJYQldDQjV0TnFORGhZcVpRNWVvNGF4OTFKN2x4d002MVdkTlRLZ3FGSy1nblRjemlKdkJGZXVjVTV0ODduNnVpNDZkUV85ek9MaXM?oc=5",
+      "published_date": "2005-02-18",
+      "source": "University of Arizona Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "506f359ea336e3443fd4668502d973216ed775c73ffd965ddf241d378a4a98cb",
+  "feature_eligible": false
+}

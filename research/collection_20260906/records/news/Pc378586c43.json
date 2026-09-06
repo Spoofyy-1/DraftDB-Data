@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:50:09.160327+00:00",
+  "lane": "news",
+  "pid": "Pc378586c43",
+  "draft_year": 2005,
+  "name": "Pierre Pierce",
+  "draft_date": "2005-06-28",
+  "status": "ok",
+  "query": "\"Pierre Pierce\" (draft OR scouting OR prospect OR basketball) after:2004-07-01 before:2005-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Pierre+Pierce%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2004-07-01+before%3A2005-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Pierre Pierce Dismissed from Team - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdEhlSGt3WnZSeUdoUnc4Xy00M1k4Y3NZRWJReDA5V3ZJS09GZ1BoYU81MlNpS0FsR2ZBWHJ4QUdtWUhPYlRyZE5Pcnc1Zlg5bjJfOHItUkFBZ3pXY2V4RVg4SmdYYnhBTUVhMExka1JFQmtpcDFmU1A0OGFzdmJ2Ykh2S3U1UUttMDZXSHJWanA?oc=5",
+      "published_date": "2005-02-02",
+      "source": "247Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Illinois Survives Overtime Battle Against Iowa - University of Illinois Athletics",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX096d3hpdDZuTjk2ZEF5WUNMa3ZIeUVvTDRxNld3UzRvYkRIcHQyS3o3YnREVVVzNzZzXzFROTFSTHEwYUtaeFdBdXFhQnlJOFRsZFNPSUhfYWNMU0xqaEFDOEFXSzZVQmhtQzBaWjBhYUR4cl9RajloZFZSN29YSFl5bGpJMGpuMVFXWVd4aDZ1UQ?oc=5",
+      "published_date": "2005-01-20",
+      "source": "University of Illinois Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Iowa to Meet Texas Tech at United Center - Iowa Hawkeyes Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNVB3aGJnTURBWDI5cXVDM3ZuSTdwTjdXbURLMGJyLTlrc0VxQWZOR0FTOUJXUTM3THRGSjZKS0NaY1lLMWxDeFRQeWMzMDVIN01lbWRnUHBKRmZJNzE2MzdLcW10TzN5RGZ4ZmZVb3ZOYTNGNFZrUWxCZ0RVYU9ob1VtOFoyeC1rWVE?oc=5",
+      "published_date": "2004-12-20",
+      "source": "Iowa Hawkeyes Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "165c06af069dcb188caeca62ca6723f1493dcbe1d5fb430a5add4f640cb50dce",
+  "feature_eligible": false
+}

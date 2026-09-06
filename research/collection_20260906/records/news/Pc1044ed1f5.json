@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:50:02.502767+00:00",
+  "lane": "news",
+  "pid": "Pc1044ed1f5",
+  "draft_year": 2005,
+  "name": "Sharrod Ford",
+  "draft_date": "2005-06-28",
+  "status": "ok",
+  "query": "\"Sharrod Ford\" (draft OR scouting OR prospect OR basketball) after:2004-07-01 before:2005-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Sharrod+Ford%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2004-07-01+before%3A2005-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Sweeping the turtles - GoUpstate",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUUx5TENhUHhLZldDdmJxZUJlX0xkMDZtZUNKRXVRMU1sbmJwOV8xZzk3d2ZsWmQtQ3hIbXA3NlpwS3Noc1NRNkFES3Boenp0d3l6M3FmX1ZZM1l1MFBNdWQxaGd6NXlHX2tJeE5uUER1U3ZiX3VEWHlHTzhnUl9jYWU3S2twMjBI?oc=5",
+      "published_date": "2005-03-10",
+      "source": "GoUpstate",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Ford\u2019s Buzzer Beating Dunk Lifts Tigers to 66-64 Victory Over Virginia Tech - Clemson University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2puaHc0dGtqNXo3Z2t2R1BRTHotNV9sc1pFMERFVjNqcnpMb21QTmR3al9SM1ZESmdUbVNERF9FcVBlcmVsbEt6N2RFUDNTcXhOWTRLWm9uaG1iZHZ4RkxRa3JpR0JYNHNhSjVZQ2dISzlpYlRYb0k4Wkc3czlWb1I2LTU5a1FtNXMzeWlsd2c1NnV3YW1lUTlKR3dqTVM5eDljZFZTMnFBV2l1ekdNNWlBNlRUekk?oc=5",
+      "published_date": "2005-03-01",
+      "source": "Clemson University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "0865050de9e9f3a28638e5d925f567167aef8dff06b1a8e8cb8360515d7a7838",
+  "feature_eligible": false
+}

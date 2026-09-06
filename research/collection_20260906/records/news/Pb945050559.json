@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:49:42.601145+00:00",
+  "lane": "news",
+  "pid": "Pb945050559",
+  "draft_year": 2005,
+  "name": "Dwayne Jones",
+  "draft_date": "2005-06-28",
+  "status": "ok",
+  "query": "\"Dwayne Jones\" (draft OR scouting OR prospect OR basketball) after:2004-07-01 before:2005-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Dwayne+Jones%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2004-07-01+before%3A2005-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Dwayne Jones to Remain In NBA Draft - sjuhawks.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFcnVQT2dIdjhGMjgxX0RoWmd1cEppZkoyWGtVMl9aMU8td2RXTWlLRmZzYjlBdEpWWElHRnBwMU83eGhFZTVDNURiU3pqeU4yT0MyTktzQU4?oc=5",
+      "published_date": "2005-06-21",
+      "source": "sjuhawks.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "FEATURE: Dwayne Jones - sjuhawks.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03ZEdvc2VWbHpvcF96WVk5VWRYTjRZcXNkSEtucS1ZdGNTbWNkRzNXQ05hdTBEWTQ2Sm9QU21YbGgyZ1JNTFdOYlZyUFZzSFI2RWtwNEpWSF8?oc=5",
+      "published_date": "2005-02-11",
+      "source": "sjuhawks.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "26454b93f0a8b811703858df7cef89c759ce9bc69841c5ba1fcbd08f350d3ec2",
+  "feature_eligible": false
+}

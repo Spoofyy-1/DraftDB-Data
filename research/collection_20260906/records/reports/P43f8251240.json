@@ -1,0 +1,64 @@
+{
+  "collected_at": "2026-09-06T09:47:42.483665+00:00",
+  "lane": "reports",
+  "pid": "P43f8251240",
+  "draft_year": 2012,
+  "name": "Dion Waiters",
+  "draft_date": "2012-06-28",
+  "status": "ok",
+  "query": "\"Dion Waiters\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2011-07-01 before:2012-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Dion+Waiters%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2011-07-01+before%3A2012-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Dion Waiters Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55bDlNQWlMNk9CQm8yVHZ5VEpQU0Z1cGZoWUJXLWZoUUFveGhlVGdOZWNzMWhpbTZ5MHR0RTBBQ2FTMHhWV3JLaUxJenFuWGxVdlQ3NVdBVlVMaDkzcDFucDdxRUM?oc=5",
+      "published_date": "2012-03-26",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2012 NBA Draft Rumors: Meyers Leonard, Jeremy Lamb Are Lottery Pick Mistakes? - Brew Hoop",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRklVaDhTTzhQYjhJWVU3blczNVFJOEIyc0dfQmRWclk2Zlppck1XZG1vQmM1ZloyWDVUN2d0VkZVc3lxamQzdHBUNFEwQ3BZUGkyZzlENjlmdlBPTzZHQ3RMb2EyUHNoc2gybWFMcUw0MDAwcDZxWXF1SWdZWmtmd3hDbVQ4bExmR09yQmNYQWY2aHQ5VFNYRkVMNjRCa0FBbWpHRjBaSQ?oc=5",
+      "published_date": "2012-06-26",
+      "source": "Brew Hoop",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2012 NBA Mock Draft 6.0 By: Aran_Smith - NBADraft.net",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HbV9fcVBmVkN3RXFBbFRpSXE4VHQ1Rk9STmVVZmxIb1pvZVpXOTludEp3eEpGckszOFkzX2lrN2NqZWVlZmhTT2RVeUxpenNuZGhFQkZPV0dOTVN3TGc?oc=5",
+      "published_date": "2012-06-24",
+      "source": "NBADraft.net",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA MOCK DRAFT 3.0: Here's What Each Team Is Thinking With Less Than A Week Until The Draft - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DMGZJZk9sM096c0JkR090RWxMY01aYUd2UGpKSXNiX0VLWWxMTGVHZDhKZHZpbmhBQmhDUFE5QTdYUjlTZjVnUTllamJpVWJpOWIxS2hqcWRBcUt1RVRQTDREYk5FNkFZdmlhNHJn?oc=5",
+      "published_date": "2012-06-23",
+      "source": "Business Insider",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Mock Draft 2012: Davis, Robinson Top Expected Lottery Picks - International Business Times",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN3NycmlUMjZMOVZ5R2lQenhMV3ZRMVltSkR4UzJEYjRjclI2ejJLcE9QYUpFZm5BUFpYOFVqcXdIdzNKY1BWdjhkdnFWaWEzemtBSjNQUTF2TEFEQlo3dE8xbm1Wc1dzSlh1c1hJV1RsWnNDZWJ1em9DQ0VrSmU3ekIwSVZUMkFrYmJzeTFRY05vWk45RTAw?oc=5",
+      "published_date": "2012-06-26",
+      "source": "International Business Times",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2012 NBA Draft: Prospects Align, Order Does Not In Mock Draft Breakdown - Brew Hoop",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTjZrTXdPTThZMnJEbEdJS1FjbjZtclVCR1o2LVpZQzdmLVBucWkxS01taUI5TDhra05tb2tSQnBvQnhKTVNGM1J5QTQ2NzNSZUpTejJheDBBTHJRaER2NUpXeGQxT1ZKaDdLWnZCTlVSV0V4TjNJaGxVV1lhYkRGdzV1em9KZll2QnBEaQ?oc=5",
+      "published_date": "2012-06-15",
+      "source": "Brew Hoop",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "44146b2847f3f3788036603c38912fb7b47722d7fcc8019fc3608effd3fe8dec",
+  "feature_eligible": false
+}

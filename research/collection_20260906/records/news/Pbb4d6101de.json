@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:49:45.909622+00:00",
+  "lane": "news",
+  "pid": "Pbb4d6101de",
+  "draft_year": 2005,
+  "name": "Lawrence Roberts",
+  "draft_date": "2005-06-28",
+  "status": "ok",
+  "query": "\"Lawrence Roberts\" (draft OR scouting OR prospect OR basketball) after:2004-07-01 before:2005-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Lawrence+Roberts%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2004-07-01+before%3A2005-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Gators have hands full against MSU's Roberts - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSzlxam42cHVZeG5lRFRTZk5NT09NeGN3QWV3WldjYUd5ZDRqbVkwVm5mcXJBdjNxenRTTnhLVkpxczFWUXdXbzJvdUtBeGR3QWJidVByaXczTEpKcUhHY0tyWWhVSkJReUtxZVVYb1huWmVmTFptM2UwN0daV20yQzVscnNSaVVWTm1JVXpPaG0xT0ZRbklvMzhfSlVtV1lDTEwtMFI0SlhEZw?oc=5",
+      "published_date": "2005-01-31",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Auburn upsets Mississippi State - Gadsden Times",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQy1nRkxPdUV5cEpVb2ZrM2hKWGtINnF4N0VzVlpEUzJuaEF6cEJwbWZKenRESlRNX3hZSHM5Ynh3RkNfNHYxSnl6dmt3dlo2SXgybF9fcVlOeXJpWVRoeW0zU0JlN00yNlk0X01nSlQ5UkhlQ2tyeDNOYk1GenJkWHl3QWROLVREQnI3a1N4NjRWSWUtajJfcm9UWQ?oc=5",
+      "published_date": "2005-02-05",
+      "source": "Gadsden Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "This year should be the seniors' show - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NS1BtVk5CVnNhay1TcG9JYnhHaUdzQ0lyYlZpVE1DdEpETEhkdVNiQmIxc3JLYlNXaTlDd2FoazJTTVRFTXl6WU11SWItWlk?oc=5",
+      "published_date": "2004-11-10",
+      "source": "NBC News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "d6a16299e1db06fdac60185b835d1441c8931c76ec183fa85a66caec292abbcc",
+  "feature_eligible": false
+}

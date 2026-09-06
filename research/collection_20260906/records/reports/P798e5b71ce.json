@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T09:48:25.113739+00:00",
+  "lane": "reports",
+  "pid": "P798e5b71ce",
+  "draft_year": 2012,
+  "name": "Will Barton",
+  "draft_date": "2012-06-28",
+  "status": "ok",
+  "query": "\"Will Barton\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2011-07-01 before:2012-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Will+Barton%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2011-07-01+before%3A2012-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Will Barton Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPdWdxay1qYUJ1UEp2Nl9lWjdZbVJERzg4TjUwOVNzeVBFSVNOU2pxY21RZzZOQmxtUUpPY3ZVUkRuN0NxYTAwNTF5Ym1RSV8tM3hXWWo1MHFWeDN3ZWpCdVFYUQ?oc=5",
+      "published_date": "2011-12-18",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft Profile: Memphis\u2019 Wesley Witherspoon - Mid-Major Madness",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObVpPOGg5NElLM1lid3pkV2I4dDQzRVdycW5GNVRZZHpoR0QtS180OFQ2eGJnanB5RE4zemExQTd0R3hoRXBTRVV0ZE9ha0FmbE1ZY19wbGktdS1MRWdQbEV5ZU1LdHNVOU54Ti1NRndTNk1UZ1hHc2Y2WVd4QUNIdXhQeG1KTnlCWTd3TWhkYW1pVW5yZXRKMg?oc=5",
+      "published_date": "2012-06-07",
+      "source": "Mid-Major Madness",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "WIll Barton Interview By: Clayton Crowe - NBADraft.net",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IdmlfTExnYzRlOUJTYzhtVGdJQlUzd2xvY3hCSFdkbXhjYndYc3V3a3VpMVNRc3R2MFVjNXZDY1VZZk8zbUpBdHJ4RmJmaklRc0gwdnZRbjBMVDQ?oc=5",
+      "published_date": "2012-05-14",
+      "source": "NBADraft.net",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2012 NBA Mock Draft 6.0 By: Aran_Smith - NBADraft.net",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HbV9fcVBmVkN3RXFBbFRpSXE4VHQ1Rk9STmVVZmxIb1pvZVpXOTludEp3eEpGckszOFkzX2lrN2NqZWVlZmhTT2RVeUxpenNuZGhFQkZPV0dOTVN3TGc?oc=5",
+      "published_date": "2012-06-24",
+      "source": "NBADraft.net",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "70e0b17020533b4b03558c0fb8b62634916485d2a15618521c4f24d3a3c11b4b",
+  "feature_eligible": false
+}

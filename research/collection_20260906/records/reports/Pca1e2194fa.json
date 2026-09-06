@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T09:49:59.983650+00:00",
+  "lane": "reports",
+  "pid": "Pca1e2194fa",
+  "draft_year": 2012,
+  "name": "Kendall Marshall",
+  "draft_date": "2012-06-28",
+  "status": "ok",
+  "query": "\"Kendall Marshall\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2011-07-01 before:2012-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Kendall+Marshall%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2011-07-01+before%3A2012-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Octagon Basketball Signs UNC Guard Kendall Marshall - Sports Agent Blog",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdG80eEItUnFXSjE3ajlWMkxUM3czY21FN2ZlbVJiLWwzUG45T2NyUFhyWWJoZzNaN09ERExFbElHdHFyVkZtNXIyaURZdFI2ZFB6Rkl0b2Z5UldVQTJMSFFmbDR4bXZLV0dKcnRZRnNQR0tFLXFTNEtCb0lrYi1wejMtNWJKVnJFeFJ6di1CLXdYdGd2VHc?oc=5",
+      "published_date": "2012-04-13",
+      "source": "Sports Agent Blog",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA MOCK DRAFT 3.0: Here's What Each Team Is Thinking With Less Than A Week Until The Draft - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DMGZJZk9sM096c0JkR090RWxMY01aYUd2UGpKSXNiX0VLWWxMTGVHZDhKZHZpbmhBQmhDUFE5QTdYUjlTZjVnUTllamJpVWJpOWIxS2hqcWRBcUt1RVRQTDREYk5FNkFZdmlhNHJn?oc=5",
+      "published_date": "2012-06-23",
+      "source": "Business Insider",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2012 NBA Draft: Prospects Align, Order Does Not In Mock Draft Breakdown - Brew Hoop",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTjZrTXdPTThZMnJEbEdJS1FjbjZtclVCR1o2LVpZQzdmLVBucWkxS01taUI5TDhra05tb2tSQnBvQnhKTVNGM1J5QTQ2NzNSZUpTejJheDBBTHJRaER2NUpXeGQxT1ZKaDdLWnZCTlVSV0V4TjNJaGxVV1lhYkRGdzV1em9KZll2QnBEaQ?oc=5",
+      "published_date": "2012-06-15",
+      "source": "Brew Hoop",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bradley Beal Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83V0p4N09DOWt1RC1sSTl6a3dMNG0yQktFcUFxajE2RFdtWFZmcnRYcTN0UVY1ZEM0b3hIUU1NdEJocEFmY2FZWnNDUng3MFNrRW9iVzBjc2Y0aWRwTEJrQ0piNXE?oc=5",
+      "published_date": "2011-07-01",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Better Know A 2012 NBA Draft Pick: Harrison Barnes - Bullets Forever",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQllLNUZIRkhjbER5cjlZN212MTR1TFVMVW1BaEE4anpiZXVMd1lmZ0xyMmZyNVhSaHh5VXliblZZd00zSV9DcUpJT0U3OHJfZ19jbW5tT0xoLU8zcU53N0hPVGZvUEZiM1FMSURZcHV5N3RPSVc1NVkzN3ZsRTZuNUVJdFhmbzBrWmRqMTJNNTVMVVI4eVc2enFncw?oc=5",
+      "published_date": "2012-05-14",
+      "source": "Bullets Forever",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "2f9104187083aacf09ec9c17bedafbfc6add9fddd10702a7e89a1b3442bfbd76",
+  "feature_eligible": false
+}
