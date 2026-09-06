@@ -1,0 +1,130 @@
+{
+  "source": "https://raw.githubusercontent.com/fivethirtyeight/data/master/nba-raptor/historical_RAPTOR_by_player.csv",
+  "matched_train_players": 1428,
+  "unresolved": [
+    {
+      "pid": "P379acc01ca",
+      "reason": "no_unique_source_identity"
+    },
+    {
+      "pid": "P55b27de869",
+      "reason": "no_unique_source_identity"
+    },
+    {
+      "pid": "Pa4877bedac",
+      "reason": "no_unique_source_identity"
+    },
+    {
+      "pid": "Pd13759b893",
+      "reason": "no_unique_source_identity"
+    },
+    {
+      "pid": "P98ab129fa2",
+      "reason": "source_label_mismatch"
+    },
+    {
+      "pid": "P924fa678bb",
+      "reason": "no_unique_source_identity"
+    },
+    {
+      "pid": "Pe4baee43bf",
+      "reason": "no_unique_source_identity"
+    },
+    {
+      "pid": "P156589bd1a",
+      "reason": "no_unique_source_identity"
+    },
+    {
+      "pid": "P0f2f594f0f",
+      "reason": "no_unique_source_identity"
+    },
+    {
+      "pid": "P40c501f5d6",
+      "reason": "no_unique_source_identity"
+    },
+    {
+      "pid": "Pc9371b494a",
+      "reason": "no_unique_source_identity"
+    },
+    {
+      "pid": "Pef77516e2b",
+      "reason": "no_unique_source_identity"
+    },
+    {
+      "pid": "P6d59a1d0fb",
+      "reason": "no_unique_source_identity"
+    },
+    {
+      "pid": "Pbd2eb786d3",
+      "reason": "no_unique_source_identity"
+    },
+    {
+      "pid": "P06e60a886f",
+      "reason": "no_unique_source_identity"
+    },
+    {
+      "pid": "P0736b54145",
+      "reason": "no_unique_source_identity"
+    },
+    {
+      "pid": "Pb172e7dcfc",
+      "reason": "no_unique_source_identity"
+    },
+    {
+      "pid": "P8d17fbd48e",
+      "reason": "no_unique_source_identity"
+    },
+    {
+      "pid": "Pee7c22ed91",
+      "reason": "no_unique_source_identity"
+    },
+    {
+      "pid": "Pf37ef86b30",
+      "reason": "no_unique_source_identity"
+    },
+    {
+      "pid": "P488064c36d",
+      "reason": "no_unique_source_identity"
+    },
+    {
+      "pid": "Pbed27928bf",
+      "reason": "no_unique_source_identity"
+    },
+    {
+      "pid": "P820aca19f1",
+      "reason": "no_unique_source_identity"
+    },
+    {
+      "pid": "Pe0f44d3916",
+      "reason": "no_unique_source_identity"
+    },
+    {
+      "pid": "P1199724869",
+      "reason": "no_unique_source_identity"
+    },
+    {
+      "pid": "P1a6f58deb5",
+      "reason": "no_unique_source_identity"
+    },
+    {
+      "pid": "Pcb5c1e8ac6",
+      "reason": "no_unique_source_identity"
+    },
+    {
+      "pid": "P597d181897",
+      "reason": "no_unique_source_identity"
+    },
+    {
+      "pid": "P24b8a1c556",
+      "reason": "no_unique_source_identity"
+    },
+    {
+      "pid": "P3daa0c9125",
+      "reason": "no_unique_source_identity"
+    }
+  ],
+  "label_vintage": "retrospective RAPTOR; not contemporaneously published ratings",
+  "no_test_outcomes_read": true,
+  "source_sha256": "9c90010404c2b557524b6ab7172e2b41a08cf57e929f2753a6c7e9ac7c520ac8",
+  "train_sha256": "992ec7855bff23300dbc53b17040178febe77e6dc1b007d4012773b600aed980"
+}
