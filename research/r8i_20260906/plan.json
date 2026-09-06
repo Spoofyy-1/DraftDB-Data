@@ -1,0 +1,435 @@
+{
+  "study": "R8i matched-feature transfer screen",
+  "purpose": "Retest eight exploratory features after R8h demonstrated a no-information added-column effect. Only matched real-versus-permuted improvements enter gates; the no-extra baseline is contextual.",
+  "variants": [
+    {
+      "id": "baseline",
+      "features": [],
+      "arms": [],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_rank_usage__real",
+      "features": [
+        "f50_peer_rank_usage"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_rank_usage__perm9317",
+      "features": [
+        "f50_peer_rank_usage"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_rank_usage__perm18739",
+      "features": [
+        "f50_peer_rank_usage"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_rank_usage__perm28657",
+      "features": [
+        "f50_peer_rank_usage"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_assist_usage_efficiency__real",
+      "features": [
+        "f50_assist_usage_efficiency"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_assist_usage_efficiency__perm9317",
+      "features": [
+        "f50_assist_usage_efficiency"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_assist_usage_efficiency__perm18739",
+      "features": [
+        "f50_assist_usage_efficiency"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_assist_usage_efficiency__perm28657",
+      "features": [
+        "f50_assist_usage_efficiency"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_career_slope_ast_tov__real",
+      "features": [
+        "f50_career_slope_ast_tov"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_career_slope_ast_tov__perm9317",
+      "features": [
+        "f50_career_slope_ast_tov"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_career_slope_ast_tov__perm18739",
+      "features": [
+        "f50_career_slope_ast_tov"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_career_slope_ast_tov__perm28657",
+      "features": [
+        "f50_career_slope_ast_tov"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_nondunk_rim_pct__real",
+      "features": [
+        "f50_nondunk_rim_pct"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_nondunk_rim_pct__perm9317",
+      "features": [
+        "f50_nondunk_rim_pct"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_nondunk_rim_pct__perm18739",
+      "features": [
+        "f50_nondunk_rim_pct"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_nondunk_rim_pct__perm28657",
+      "features": [
+        "f50_nondunk_rim_pct"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_career_slope_three_p__real",
+      "features": [
+        "f50_career_slope_three_p"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_career_slope_three_p__perm9317",
+      "features": [
+        "f50_career_slope_three_p"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_career_slope_three_p__perm18739",
+      "features": [
+        "f50_career_slope_three_p"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_career_slope_three_p__perm28657",
+      "features": [
+        "f50_career_slope_three_p"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_rank_ts__real",
+      "features": [
+        "f50_peer_rank_ts"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_rank_ts__perm9317",
+      "features": [
+        "f50_peer_rank_ts"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_rank_ts__perm18739",
+      "features": [
+        "f50_peer_rank_ts"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_rank_ts__perm28657",
+      "features": [
+        "f50_peer_rank_ts"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_career_slope_ts__real",
+      "features": [
+        "f50_career_slope_ts"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_career_slope_ts__perm9317",
+      "features": [
+        "f50_career_slope_ts"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_career_slope_ts__perm18739",
+      "features": [
+        "f50_career_slope_ts"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_career_slope_ts__perm28657",
+      "features": [
+        "f50_career_slope_ts"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_career_slope_orb__real",
+      "features": [
+        "f50_career_slope_orb"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_career_slope_orb__perm9317",
+      "features": [
+        "f50_career_slope_orb"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_career_slope_orb__perm18739",
+      "features": [
+        "f50_career_slope_orb"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_career_slope_orb__perm28657",
+      "features": [
+        "f50_career_slope_orb"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    }
+  ],
+  "folds": [
+    2012,
+    2013,
+    2014
+  ],
+  "seeds": [
+    0,
+    101,
+    202
+  ],
+  "permutation_seeds": [
+    9317,
+    18739,
+    28657
+  ],
+  "source_selection": {
+    "file": "R8f single_feature_summary.json",
+    "rule": "First eight previously raw-gated features, frozen before this study; hypotheses rather than confirmed winners."
+  },
+  "backbone": {
+    "icl_n": 32,
+    "topk": 60,
+    "M": 400,
+    "window": 2007,
+    "hw": "uniform",
+    "noscout": 1,
+    "drop": [
+      "scout_",
+      "col_bpm_pct_",
+      "col_usg_pct_",
+      "col_ts_pct_",
+      "col_ast_pct_",
+      "col_stl_pct_",
+      "col_blk_pct_",
+      "col_orb_pct_",
+      "col_shot_proj_"
+    ]
+  },
+  "model": "Standalone GPU TabICL; CPU selector trained on base features only, fixed once per fold and reused across feature arms.",
+  "selection": {
+    "selector_seed": 11,
+    "selector_input": "base columns only; no F50 or reserved slots",
+    "cache": "per fold/process; verify identical ordered column hashes across every arm",
+    "slot_names": [
+      "slot_0",
+      "slot_1"
+    ],
+    "coverage": "base features only, computed before slots are appended"
+  },
+  "controls": {
+    "shuffle": "Only observed values within each draft cohort; preserve per-player NaN mask exactly. Training and validation randomizations separate. Stable PID order.",
+    "seed_stream": "SHA256 of feature, permutation seed, role, cohort; no outcome values",
+    "shape": "Same reserved slot name/order for every real and shuffled arm. Verify identical masks, cardinalities and column sets."
+  },
+  "provisional_gate": {
+    "min_mean_gain": 0.005,
+    "min_improved_folds": 2,
+    "max_fold_regression": 0.01,
+    "maximum_single_candidates": 3,
+    "comparison": "Real seed-mean minus mean of all three matched permutations with the same model seeds; no baseline differences enter the gate.",
+    "interpretation": "Exploratory eligibility for later confirmation; not a significance test or test-goal achievement."
+  },
+  "pair_phase": {
+    "enabled": false,
+    "maximum_pairs": 3,
+    "selection_rule": "At most three pairs among at most three provisionally gated singles. Register exact pairs before execution.",
+    "arms": [
+      [
+        "real",
+        "real"
+      ],
+      [
+        "real",
+        "permuted"
+      ],
+      [
+        "permuted",
+        "real"
+      ],
+      [
+        "permuted",
+        "permuted"
+      ]
+    ],
+    "slot_count": 2,
+    "permutation_seeds": [
+      9317,
+      18739,
+      28657
+    ],
+    "independent_feature_streams": true,
+    "comparison": "Joint real must improve both one-real matched arms; report RR-RP, RR-PR and RR-RP-PR+PP. This is exploratory representation complementarity. No pair jobs are registered in this batch."
+  },
+  "no_confirmation_or_test_scoring": true,
+  "calendar_policy": "For predicted year Y, training only earlier cohorts and actual NBA season_end <=Y-1. Development scoring labels <=2018. No2019-2026 answers available.",
+  "confirmation_note": "Any later literal as-of outer-year confirmation must select inside its own season cutoff; selection using development truths through2018 cannot be called known at a2015-2017 decision date.",
+  "execution": {
+    "workers": 4,
+    "xgboost_selector": "cpu",
+    "predictor": "GPU TabICL only",
+    "batch_size": 32,
+    "task_count": 99
+  }
+}

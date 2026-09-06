@@ -1,0 +1,824 @@
+[
+  {
+    "predicted_draft_year": 2019,
+    "training_players": 1313,
+    "training_labels": 4137,
+    "inference_rows": 137,
+    "actual_label_max": 2018,
+    "partial_calendar": false,
+    "missing_calendar_seasons": [],
+    "eligible_answer_cohorts_opened": [],
+    "label_verification": {
+      "eligible_label_mismatch_players": 0,
+      "missing_project_label_players": 0
+    },
+    "label_coverage_by_cohort": {
+      "2000": {
+        "players": 69,
+        "labels": 251
+      },
+      "2001": {
+        "players": 62,
+        "labels": 235
+      },
+      "2002": {
+        "players": 64,
+        "labels": 224
+      },
+      "2003": {
+        "players": 65,
+        "labels": 248
+      },
+      "2004": {
+        "players": 65,
+        "labels": 223
+      },
+      "2005": {
+        "players": 88,
+        "labels": 310
+      },
+      "2006": {
+        "players": 75,
+        "labels": 255
+      },
+      "2007": {
+        "players": 61,
+        "labels": 223
+      },
+      "2008": {
+        "players": 63,
+        "labels": 245
+      },
+      "2009": {
+        "players": 60,
+        "labels": 243
+      },
+      "2010": {
+        "players": 67,
+        "labels": 235
+      },
+      "2011": {
+        "players": 78,
+        "labels": 266
+      },
+      "2012": {
+        "players": 74,
+        "labels": 258
+      },
+      "2013": {
+        "players": 80,
+        "labels": 266
+      },
+      "2014": {
+        "players": 82,
+        "labels": 229
+      },
+      "2015": {
+        "players": 65,
+        "labels": 167
+      },
+      "2016": {
+        "players": 88,
+        "labels": 152
+      },
+      "2017": {
+        "players": 107,
+        "labels": 107
+      }
+    }
+  },
+  {
+    "predicted_draft_year": 2020,
+    "training_players": 1418,
+    "training_labels": 4467,
+    "inference_rows": 112,
+    "actual_label_max": 2019,
+    "partial_calendar": false,
+    "missing_calendar_seasons": [],
+    "eligible_answer_cohorts_opened": [],
+    "label_verification": {
+      "eligible_label_mismatch_players": 0,
+      "missing_project_label_players": 0
+    },
+    "label_coverage_by_cohort": {
+      "2000": {
+        "players": 69,
+        "labels": 251
+      },
+      "2001": {
+        "players": 62,
+        "labels": 235
+      },
+      "2002": {
+        "players": 64,
+        "labels": 224
+      },
+      "2003": {
+        "players": 65,
+        "labels": 248
+      },
+      "2004": {
+        "players": 65,
+        "labels": 223
+      },
+      "2005": {
+        "players": 88,
+        "labels": 310
+      },
+      "2006": {
+        "players": 75,
+        "labels": 255
+      },
+      "2007": {
+        "players": 61,
+        "labels": 223
+      },
+      "2008": {
+        "players": 63,
+        "labels": 245
+      },
+      "2009": {
+        "players": 60,
+        "labels": 243
+      },
+      "2010": {
+        "players": 67,
+        "labels": 236
+      },
+      "2011": {
+        "players": 78,
+        "labels": 270
+      },
+      "2012": {
+        "players": 74,
+        "labels": 261
+      },
+      "2013": {
+        "players": 80,
+        "labels": 274
+      },
+      "2014": {
+        "players": 82,
+        "labels": 267
+      },
+      "2015": {
+        "players": 65,
+        "labels": 208
+      },
+      "2016": {
+        "players": 88,
+        "labels": 208
+      },
+      "2017": {
+        "players": 112,
+        "labels": 186
+      },
+      "2018": {
+        "players": 100,
+        "labels": 100
+      }
+    }
+  },
+  {
+    "predicted_draft_year": 2021,
+    "training_players": 1534,
+    "training_labels": 4808,
+    "inference_rows": 233,
+    "actual_label_max": 2020,
+    "partial_calendar": false,
+    "missing_calendar_seasons": [],
+    "eligible_answer_cohorts_opened": [
+      2019
+    ],
+    "label_verification": {
+      "eligible_label_mismatch_players": 1,
+      "missing_project_label_players": 0
+    },
+    "label_coverage_by_cohort": {
+      "2000": {
+        "players": 69,
+        "labels": 251
+      },
+      "2001": {
+        "players": 62,
+        "labels": 235
+      },
+      "2002": {
+        "players": 64,
+        "labels": 224
+      },
+      "2003": {
+        "players": 65,
+        "labels": 248
+      },
+      "2004": {
+        "players": 65,
+        "labels": 223
+      },
+      "2005": {
+        "players": 88,
+        "labels": 310
+      },
+      "2006": {
+        "players": 75,
+        "labels": 255
+      },
+      "2007": {
+        "players": 61,
+        "labels": 223
+      },
+      "2008": {
+        "players": 63,
+        "labels": 245
+      },
+      "2009": {
+        "players": 60,
+        "labels": 243
+      },
+      "2010": {
+        "players": 67,
+        "labels": 237
+      },
+      "2011": {
+        "players": 78,
+        "labels": 272
+      },
+      "2012": {
+        "players": 74,
+        "labels": 262
+      },
+      "2013": {
+        "players": 80,
+        "labels": 275
+      },
+      "2014": {
+        "players": 82,
+        "labels": 275
+      },
+      "2015": {
+        "players": 65,
+        "labels": 243
+      },
+      "2016": {
+        "players": 88,
+        "labels": 254
+      },
+      "2017": {
+        "players": 115,
+        "labels": 253
+      },
+      "2018": {
+        "players": 102,
+        "labels": 169
+      },
+      "2019": {
+        "players": 111,
+        "labels": 111
+      }
+    }
+  },
+  {
+    "predicted_draft_year": 2022,
+    "training_players": 1627,
+    "training_labels": 5151,
+    "inference_rows": 97,
+    "actual_label_max": 2021,
+    "partial_calendar": false,
+    "missing_calendar_seasons": [],
+    "eligible_answer_cohorts_opened": [
+      2019,
+      2020
+    ],
+    "label_verification": {
+      "eligible_label_mismatch_players": 1,
+      "missing_project_label_players": 0
+    },
+    "label_coverage_by_cohort": {
+      "2000": {
+        "players": 68,
+        "labels": 250
+      },
+      "2001": {
+        "players": 62,
+        "labels": 235
+      },
+      "2002": {
+        "players": 64,
+        "labels": 224
+      },
+      "2003": {
+        "players": 65,
+        "labels": 248
+      },
+      "2004": {
+        "players": 65,
+        "labels": 223
+      },
+      "2005": {
+        "players": 88,
+        "labels": 310
+      },
+      "2006": {
+        "players": 75,
+        "labels": 255
+      },
+      "2007": {
+        "players": 61,
+        "labels": 223
+      },
+      "2008": {
+        "players": 63,
+        "labels": 245
+      },
+      "2009": {
+        "players": 60,
+        "labels": 243
+      },
+      "2010": {
+        "players": 67,
+        "labels": 237
+      },
+      "2011": {
+        "players": 78,
+        "labels": 273
+      },
+      "2012": {
+        "players": 74,
+        "labels": 263
+      },
+      "2013": {
+        "players": 80,
+        "labels": 276
+      },
+      "2014": {
+        "players": 82,
+        "labels": 279
+      },
+      "2015": {
+        "players": 65,
+        "labels": 248
+      },
+      "2016": {
+        "players": 88,
+        "labels": 293
+      },
+      "2017": {
+        "players": 115,
+        "labels": 307
+      },
+      "2018": {
+        "players": 102,
+        "labels": 223
+      },
+      "2019": {
+        "players": 115,
+        "labels": 206
+      },
+      "2020": {
+        "players": 90,
+        "labels": 90
+      }
+    }
+  },
+  {
+    "predicted_draft_year": 2023,
+    "training_players": 1753,
+    "training_labels": 5547,
+    "inference_rows": 101,
+    "actual_label_max": 2022,
+    "partial_calendar": false,
+    "missing_calendar_seasons": [],
+    "eligible_answer_cohorts_opened": [
+      2019,
+      2020,
+      2021
+    ],
+    "label_verification": {
+      "eligible_label_mismatch_players": 1,
+      "missing_project_label_players": 0
+    },
+    "label_coverage_by_cohort": {
+      "2000": {
+        "players": 68,
+        "labels": 250
+      },
+      "2001": {
+        "players": 62,
+        "labels": 235
+      },
+      "2002": {
+        "players": 64,
+        "labels": 224
+      },
+      "2003": {
+        "players": 65,
+        "labels": 248
+      },
+      "2004": {
+        "players": 65,
+        "labels": 223
+      },
+      "2005": {
+        "players": 88,
+        "labels": 310
+      },
+      "2006": {
+        "players": 75,
+        "labels": 255
+      },
+      "2007": {
+        "players": 61,
+        "labels": 223
+      },
+      "2008": {
+        "players": 63,
+        "labels": 245
+      },
+      "2009": {
+        "players": 60,
+        "labels": 243
+      },
+      "2010": {
+        "players": 67,
+        "labels": 237
+      },
+      "2011": {
+        "players": 78,
+        "labels": 273
+      },
+      "2012": {
+        "players": 74,
+        "labels": 263
+      },
+      "2013": {
+        "players": 80,
+        "labels": 277
+      },
+      "2014": {
+        "players": 82,
+        "labels": 281
+      },
+      "2015": {
+        "players": 65,
+        "labels": 250
+      },
+      "2016": {
+        "players": 89,
+        "labels": 301
+      },
+      "2017": {
+        "players": 115,
+        "labels": 356
+      },
+      "2018": {
+        "players": 103,
+        "labels": 278
+      },
+      "2019": {
+        "players": 115,
+        "labels": 288
+      },
+      "2020": {
+        "players": 93,
+        "labels": 166
+      },
+      "2021": {
+        "players": 121,
+        "labels": 121
+      }
+    }
+  },
+  {
+    "predicted_draft_year": 2024,
+    "training_players": 1753,
+    "training_labels": 5547,
+    "inference_rows": 114,
+    "actual_label_max": 2022,
+    "partial_calendar": true,
+    "missing_calendar_seasons": [
+      2023
+    ],
+    "eligible_answer_cohorts_opened": [
+      2019,
+      2020,
+      2021
+    ],
+    "label_verification": {
+      "eligible_label_mismatch_players": 1,
+      "missing_project_label_players": 0
+    },
+    "label_coverage_by_cohort": {
+      "2000": {
+        "players": 68,
+        "labels": 250
+      },
+      "2001": {
+        "players": 62,
+        "labels": 235
+      },
+      "2002": {
+        "players": 64,
+        "labels": 224
+      },
+      "2003": {
+        "players": 65,
+        "labels": 248
+      },
+      "2004": {
+        "players": 65,
+        "labels": 223
+      },
+      "2005": {
+        "players": 88,
+        "labels": 310
+      },
+      "2006": {
+        "players": 75,
+        "labels": 255
+      },
+      "2007": {
+        "players": 61,
+        "labels": 223
+      },
+      "2008": {
+        "players": 63,
+        "labels": 245
+      },
+      "2009": {
+        "players": 60,
+        "labels": 243
+      },
+      "2010": {
+        "players": 67,
+        "labels": 237
+      },
+      "2011": {
+        "players": 78,
+        "labels": 273
+      },
+      "2012": {
+        "players": 74,
+        "labels": 263
+      },
+      "2013": {
+        "players": 80,
+        "labels": 277
+      },
+      "2014": {
+        "players": 82,
+        "labels": 281
+      },
+      "2015": {
+        "players": 65,
+        "labels": 250
+      },
+      "2016": {
+        "players": 89,
+        "labels": 301
+      },
+      "2017": {
+        "players": 115,
+        "labels": 356
+      },
+      "2018": {
+        "players": 103,
+        "labels": 278
+      },
+      "2019": {
+        "players": 115,
+        "labels": 288
+      },
+      "2020": {
+        "players": 93,
+        "labels": 166
+      },
+      "2021": {
+        "players": 121,
+        "labels": 121
+      }
+    }
+  },
+  {
+    "predicted_draft_year": 2025,
+    "training_players": 1753,
+    "training_labels": 5547,
+    "inference_rows": 106,
+    "actual_label_max": 2022,
+    "partial_calendar": true,
+    "missing_calendar_seasons": [
+      2023,
+      2024
+    ],
+    "eligible_answer_cohorts_opened": [
+      2019,
+      2020,
+      2021
+    ],
+    "label_verification": {
+      "eligible_label_mismatch_players": 1,
+      "missing_project_label_players": 0
+    },
+    "label_coverage_by_cohort": {
+      "2000": {
+        "players": 68,
+        "labels": 250
+      },
+      "2001": {
+        "players": 62,
+        "labels": 235
+      },
+      "2002": {
+        "players": 64,
+        "labels": 224
+      },
+      "2003": {
+        "players": 65,
+        "labels": 248
+      },
+      "2004": {
+        "players": 65,
+        "labels": 223
+      },
+      "2005": {
+        "players": 88,
+        "labels": 310
+      },
+      "2006": {
+        "players": 75,
+        "labels": 255
+      },
+      "2007": {
+        "players": 61,
+        "labels": 223
+      },
+      "2008": {
+        "players": 63,
+        "labels": 245
+      },
+      "2009": {
+        "players": 60,
+        "labels": 243
+      },
+      "2010": {
+        "players": 67,
+        "labels": 237
+      },
+      "2011": {
+        "players": 78,
+        "labels": 273
+      },
+      "2012": {
+        "players": 74,
+        "labels": 263
+      },
+      "2013": {
+        "players": 80,
+        "labels": 277
+      },
+      "2014": {
+        "players": 82,
+        "labels": 281
+      },
+      "2015": {
+        "players": 65,
+        "labels": 250
+      },
+      "2016": {
+        "players": 89,
+        "labels": 301
+      },
+      "2017": {
+        "players": 115,
+        "labels": 356
+      },
+      "2018": {
+        "players": 103,
+        "labels": 278
+      },
+      "2019": {
+        "players": 115,
+        "labels": 288
+      },
+      "2020": {
+        "players": 93,
+        "labels": 166
+      },
+      "2021": {
+        "players": 121,
+        "labels": 121
+      }
+    }
+  },
+  {
+    "predicted_draft_year": 2026,
+    "training_players": 1753,
+    "training_labels": 5547,
+    "inference_rows": 61,
+    "actual_label_max": 2022,
+    "partial_calendar": true,
+    "missing_calendar_seasons": [
+      2023,
+      2024,
+      2025
+    ],
+    "eligible_answer_cohorts_opened": [
+      2019,
+      2020,
+      2021
+    ],
+    "label_verification": {
+      "eligible_label_mismatch_players": 1,
+      "missing_project_label_players": 0
+    },
+    "label_coverage_by_cohort": {
+      "2000": {
+        "players": 68,
+        "labels": 250
+      },
+      "2001": {
+        "players": 62,
+        "labels": 235
+      },
+      "2002": {
+        "players": 64,
+        "labels": 224
+      },
+      "2003": {
+        "players": 65,
+        "labels": 248
+      },
+      "2004": {
+        "players": 65,
+        "labels": 223
+      },
+      "2005": {
+        "players": 88,
+        "labels": 310
+      },
+      "2006": {
+        "players": 75,
+        "labels": 255
+      },
+      "2007": {
+        "players": 61,
+        "labels": 223
+      },
+      "2008": {
+        "players": 63,
+        "labels": 245
+      },
+      "2009": {
+        "players": 60,
+        "labels": 243
+      },
+      "2010": {
+        "players": 67,
+        "labels": 237
+      },
+      "2011": {
+        "players": 78,
+        "labels": 273
+      },
+      "2012": {
+        "players": 74,
+        "labels": 263
+      },
+      "2013": {
+        "players": 80,
+        "labels": 277
+      },
+      "2014": {
+        "players": 82,
+        "labels": 281
+      },
+      "2015": {
+        "players": 65,
+        "labels": 250
+      },
+      "2016": {
+        "players": 89,
+        "labels": 301
+      },
+      "2017": {
+        "players": 115,
+        "labels": 356
+      },
+      "2018": {
+        "players": 103,
+        "labels": 278
+      },
+      "2019": {
+        "players": 115,
+        "labels": 288
+      },
+      "2020": {
+        "players": 93,
+        "labels": 166
+      },
+      "2021": {
+        "players": 121,
+        "labels": 121
+      }
+    }
+  }
+]
