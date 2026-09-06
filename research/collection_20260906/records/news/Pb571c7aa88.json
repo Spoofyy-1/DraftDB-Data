@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:47:21.410414+00:00",
+  "lane": "news",
+  "pid": "Pb571c7aa88",
+  "draft_year": 2017,
+  "name": "Alfonzo McKinnie",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Alfonzo McKinnie\" (draft OR scouting OR prospect OR basketball) after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Alfonzo+McKinnie%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Nearly a 3-on-3 world champ, McKinnie finds his stride with Windy City Bulls - Daily Herald",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVDBoZlVVRU9SZ2RQUlVMcHpiRVZocURRRkxVOFhqQ0VrWUFycEVwcEFFdHh2ZU9nc0dVWkRiMEdkRV9kNG1DVmctcjVYX0FCa1R3VlU5Tko2THZoOENfX2pKdXFrT0NodTYzU3lsRnh1eTl4d2tRcHpGYjJSei00SW5mcW1raUxZNFpMOXNyeVJGWFpTOVgwT0xzRWNURW9TSHE2T3hmem96eGw0VkkyNW9FOEc5bVNRblR6NUZ0V1lCQQ?oc=5",
+      "published_date": "2017-02-04",
+      "source": "Daily Herald",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "166c1bf5efd397328e8cfed951282f687976e0c313c4cc69529364b4c08bbee9",
+  "feature_eligible": false
+}

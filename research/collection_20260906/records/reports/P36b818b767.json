@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:32:50.474400+00:00",
+  "lane": "reports",
+  "pid": "P36b818b767",
+  "draft_year": 2011,
+  "name": "Travis Leslie",
+  "draft_date": "2011-06-23",
+  "status": "ok",
+  "query": "\"Travis Leslie\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Travis+Leslie%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2011 NBA Draft Combine: Winners and Losers - bleacherreport.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY3RtaTdCWEYyNEJIWTY4MTgzaGVMMjlSanhycTUwMUVoSDFZMkZ3UUVVci1uN0owanR3MjdnUzQtM3dYVEM5enF6aXBXM2ZsVFlyNEhKZHNBVlJsRXNMekRHVnA3b3FxT3ZVcWdRU2dNSTI2eDI5bWo0WTdKdGZTamZ4b1FYaWRvUmp4aw?oc=5",
+      "published_date": "2011-05-20",
+      "source": "bleacherreport.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "9de433cb52eedea119467bf5c2cf7c7585b451e55108afbad56d3feab1737b48",
+  "feature_eligible": false
+}

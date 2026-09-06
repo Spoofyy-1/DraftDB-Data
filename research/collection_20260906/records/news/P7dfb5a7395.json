@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:46:05.173407+00:00",
+  "lane": "news",
+  "pid": "P7dfb5a7395",
+  "draft_year": 2017,
+  "name": "Antonius Cleveland",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Antonius Cleveland\" (draft OR scouting OR prospect OR basketball) after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Antonius+Cleveland%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Redhawks senior Antonius Cleveland in semifinals for dunk contest - KFVS12",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVVJoWHplR0lVcGtHRkloNVM2LWVDN2pjVHBIcEdhbkNoUWU0bmFWZFF0M3p0UjRpeXpsZ3JVeWVKOFhFV2hpdWdRdUstajBqNHBuM0RGSkdfNEVmTnc1SkxtZldiVDRfNWMxbTg3bWR3QXFIeW5TSF93b0RNX2h3MXdhQVRIU1RhalNNOGZkd0dtSkNYbW9jY192SFgwa0NVMUtna2RfNNIBugFBVV95cUxPMTdCTWdHR3Y1cWdBZEpuUkdHcm1Idmh0V20zV3pMTXR1a3hTM20yZ2NQSWUxbDNEbmk4MG1MdGd0NUx2ZVR4bGJOUzg3ZUhyWFdNZG1vTnFFRlhibU9YQVZNZ0QxYVBnRjJNekFvaUpWRnBtOEJ0Q2JKRlhJNU9PS1pQSWVtWHlOU254dEV0Y2ZYZlpGYndMY2NlWmRUZzJweXF5RXl6VXU4VUFoazh3U3cydVJKcHNDNkE?oc=5",
+      "published_date": "2017-03-06",
+      "source": "KFVS12",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Pre-NBA Draft Workout: Utah Jazz invite 6 prospects - SLC Dunk",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX2tDSG5HN2pzXzg2aEp0bkVHX0F6cW9yWjNLX2NqNVhIQ2RRN0FHWkE3OGZnNmpKTlpjR3JhSERleHlfbEJOOXhXVDAwTFBHdnNJUUpiSWk5RlZfMkk4VjNVMDlpRDF3YVJyUHdHMjhnUWVUeGR0VnZxZ3ZSRU1FdmRpM1daTjBFTjR2UnN1SDFMTi1QaDBqUkZMQ2RVaUFZVWpzMmtMck5iTWxYdERLY3NsY2ljdFlteTZZaDg5QkVidw?oc=5",
+      "published_date": "2017-06-17",
+      "source": "SLC Dunk",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "d1c0f87c11451fd238b29fce5ebbe57f5c5db31eeab400d00c15f2f63c2e229a",
+  "feature_eligible": false
+}

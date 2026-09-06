@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:48:37.922179+00:00",
+  "lane": "news",
+  "pid": "Pe000f38dce",
+  "draft_year": 2017,
+  "name": "Elijah Macon",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Elijah Macon\" (draft OR scouting OR prospect OR basketball) after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Elijah+Macon%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Central Ohio watch | Elijah Macon of West Virginia - The Columbus Dispatch",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS3FQQ1c0MU5vYlhZdGJBM3c5d0NGUDhKU2kyUUhPaVZwMHU4eXFpWi1VMEJpc0FWNjJQSnlXYmVZVUZpV3kySHNMQnNWdHFxUi0xV1JiNUpUc0xnWTAxbXpIejVvVWtGai1EUGJXdUZNQzZwSkw5UlBKQUR0aVhMWGZUMUp3YUU2VngtMGZwYWNRRTJGS2FIa0xzLVUwWUs1WmwzTHMzeVpKQzVBaUtTTFNn?oc=5",
+      "published_date": "2017-02-27",
+      "source": "The Columbus Dispatch",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Elijah Macon - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeWtfWlkyWUwxWlVpRlpWZjJOLUZXLWZUeGx5Q2NOUmdiT191TnZ1c2hheHkzZDVYYlhKb3Q2TXNNWlBqT3YzYXR0QllQYTVJQlhXT2dSV2NUNkFvbm9tbmtLa0dlY1FXdlVTTFpuSFVqMUtrYkU1N3lrWEdRRFBvbQ?oc=5",
+      "published_date": "2017-01-29",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Gonzaga 61-58 West Virginia (Mar 23, 2017) Final Score - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRlB2dDJBMll5NndzcHVnNVZhQjNxSEk0NVJpRGZVN3NXNlRBOHdwbVdDd1VaOURIX0E5akJhX015VF9idExlSmZkZ3lTeWdLU0VrSURlRDdyMzJKQmw4aDNVdEk0a0huZC1NZmdFTDVNX1o5OFZDeDdkUlo0YXc1Vnlzb2hGUDlUOWJWY3d1dG9xM0Ry?oc=5",
+      "published_date": "2017-03-23",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "7dd616027676bebeed3824b100cb6090524afb3fbe6f9eccda4252ace384a096",
+  "feature_eligible": false
+}

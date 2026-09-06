@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:23:12.313773+00:00",
+  "lane": "reports",
+  "pid": "Pdfe2a49906",
+  "draft_year": 2008,
+  "name": "Kevin Love",
+  "draft_date": "2008-06-26",
+  "status": "ok",
+  "query": "\"Kevin Love\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2007-07-01 before:2008-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Kevin+Love%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2007-07-01+before%3A2008-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Rip City\u2019s 2008 NBA Ultimate Mock Draft - ripcityproject.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM1JSS2dtUll1UUlCaGpyY2JlaENSY2hqVkNqYWJJM3Z3bDlOVTExbkE2Z2F3LTZFNjV2czNrRGZTTnZXSGRadUJZaUp1S1l5OFppXzJacHdhaE5oTGZHVjgzZjFvNUFHZXF1dFJvZWNiT1JXY1pBZk9MMmlUOUo3UXdFMA?oc=5",
+      "published_date": "2008-06-22",
+      "source": "ripcityproject.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "UCLA mantra: Wooden it be nice to win one for John? - New York Daily News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc0hoRWtJeExtUVJIdTJSX2VSaC00MEljazE1TFp0TWtjbHBuWGNWVkNmbUJjbGZhbldJSU9FSmlDdG8tV01BVVpKQzlEOGI1UEZ6ZG8tQlRwUkh0eXVqV04xeGNITy1tRFBxbjN5SV95SUZrMDZjMjJ6NS1KLS1PS29JR3BOWWF6TGFubkpQQXltMGc?oc=5",
+      "published_date": "2008-03-17",
+      "source": "New York Daily News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "38669036e2fb6ba308469346c8ea596b09558f253bfc8e5cb36bb93a88b6aa38",
+  "feature_eligible": false
+}

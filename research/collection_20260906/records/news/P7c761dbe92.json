@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:38:43.117253+00:00",
+  "lane": "news",
+  "pid": "P7c761dbe92",
+  "draft_year": 2016,
+  "name": "Chris Obekpa",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Chris Obekpa\" (draft OR scouting OR prospect OR basketball) after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Chris+Obekpa%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA announces 162 early entrants to 2016 draft - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORy1PV29mdGVFcFZCNWRIR1RzUWFGVnhlcGpncmItQTE2aGRUOV93RlZMNk81bGlMbGxtV1ZXeHJIZlowTTFOd1N6Qk83LWsyelRQVk95ZTRvRng3Y1lGcFVYdDBOSmkyQWpYY1I3QzN5VjBnM1FFZXJJZ3BuT2xlejIzRQ?oc=5",
+      "published_date": "2016-04-27",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Former St. John's big man Chris Obekpa considering ASU - azcentral.com and The Arizona Republic",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOHRhOHMtNTB5YzhITkdEYWpvZGdSQXpPbWppdGp4LXhoNUYzUHNkZlRUc2RhaHFWR0tBMmF6bXVhc3hDd1JFVkN6TDNnYnJYR1NtcGkwX0hPTUNQeFprTFN6VkZGNkluUnp2R3RsNE1Tem5OOE9jVml4YkJENXd0S3hzVzBkTHNMVW1XX21ZM1VWUFEtQzE2ckNlQzgtYlJYeDRMZnIzMjZ1Tlc3bXJ3aEdn?oc=5",
+      "published_date": "2015-07-02",
+      "source": "azcentral.com and The Arizona Republic",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Chris Mullin Hires Mitch Richmond as St. John\u2019s Assistant (Published 2015) - nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZUFBZ2lTc3NKdmtLTVBFa1hHeDJac1RqQmFqeGtIRlZiYldkb3k5TlhidWtWbnlmcmNMMFBsamFOOGhaSGs5U2tFYnZzNXJlUmoyb2p4U0Y1cFJ5Y25ISjJNX0RIRDk3cHRDX05ZX1JibnY4d29PWDRNN3FqRVV6NG1ZMjNQakYtcUxiM2xySGVxalpvVG45YVZ4RDEwWE81Y1F6dzNyczBzUGgxay1QSWhmSmlWT3dE?oc=5",
+      "published_date": "2015-10-06",
+      "source": "nytimes.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Possible Greek import Georgios Papagiannis could be recruiting coup - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZE0teXVzQlVfcWlhc0V3VzQxYmxabzNGTVo2eXlfNmgwU3B2UDBiWEZfTlZQNzlUNTZoWG1OVEI5RUZhbncwbnNSTEFadXBlQjJLb095RjNaREpuUDZ5MlJKNElTQnF2UjVWNjl2Y2JZVjFjNUVqRlBSVnV6MmpxTFVOUFZEMS01Q0VsUTFjQWNyalRPZ0lIYXdGVkZjMDZ5cHZpenViWEJkcXVzR0ZxeW1QS0s?oc=5",
+      "published_date": "2015-07-01",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "38b4a521a4c8648ddbfa36c967110595f4c5ecb55d566759c61fcef4815bf816",
+  "feature_eligible": false
+}

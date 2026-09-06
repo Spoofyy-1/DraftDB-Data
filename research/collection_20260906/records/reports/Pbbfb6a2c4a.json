@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:35:38.428167+00:00",
+  "lane": "reports",
+  "pid": "Pbbfb6a2c4a",
+  "draft_year": 2011,
+  "name": "Nikola Vucevic",
+  "draft_date": "2011-06-23",
+  "status": "ok",
+  "query": "\"Nikola Vucevic\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Nikola+Vucevic%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Meet Knicks draft prospect Nikola Vucevic - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2g2UWxGaDR1MlViei1KSzVDRVJJUmxZM1pCQmdURXU2aTRVWmpzaWVCeHVYYndBSVRTM2hTYU9US0E5TENoTHRXLXgxbG82YlRQa0FJOFNEeXd2blo5aGFtWG5GVzNUazlEeUtFV0p3T1NfMmtjRmNEdmQxVHRRak5nQWY5MDByQUltWEotYlRKTzVvcTNMbmVBcWFtbEU?oc=5",
+      "published_date": "2011-06-07",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 2,
+  "response_sha256": "b166090503e6121e3b65961a28561d87311e7f28786c9e50111575310e07aad1",
+  "feature_eligible": false
+}

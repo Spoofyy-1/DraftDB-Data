@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:41:49.202733+00:00",
+  "lane": "reports",
+  "pid": "P42d0d6de9a",
+  "draft_year": 2005,
+  "name": "Channing Frye",
+  "draft_date": "2005-06-28",
+  "status": "ok",
+  "query": "\"Channing Frye\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2004-07-01 before:2005-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Channing+Frye%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2004-07-01+before%3A2005-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Channing Frye NBA Draft Scouting Report - draftexpress.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPekRoTGJJOXg4eVVzN29VMXJ2Z1hDMXhveGxWYk9GY3ZyMGh4eWhfQnlBbV9rSDFHUkMtRVhqTG9aNW9VSF9uaFRKRDBsVVBkR3hTVkRfdWdYVXJydHNUa2hJczVSMjhoZ002clZ2bGk4bG9CTWtyS3BfaTB3TFVEWjAxY0tLYWhM0gGOAUFVX3lxTE14RmRKNEQwcXpSYThZTmo1RlotMi1zcmI5VEluZTlyRzVqOURDOWJOdENkOXppQ1dlMWhENDkyVVQyY2JzRGVtdWRkZVluNHZjRWlLLWtpQU1ISlhxT3RsaGNtYU5JbzM1a0Zramw5S1BVN1d3UDZ0TnpJV3V0ZU9wY3U2QnY5VE1uSXhsb1E?oc=5",
+      "published_date": "2005-05-08",
+      "source": "draftexpress.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "e039f2c119ef2a1a14349663d967f5a5f8a67bf7163d2971f1190fe94b785d80",
+  "feature_eligible": false
+}

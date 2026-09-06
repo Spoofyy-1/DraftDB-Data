@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:38:39.808085+00:00",
+  "lane": "news",
+  "pid": "P7758d7472f",
+  "draft_year": 2016,
+  "name": "Jermaine Lawrence",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Jermaine Lawrence\" (draft OR scouting OR prospect OR basketball) after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Jermaine+Lawrence%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Exclusive: Where in the World is Jermaine Lawrence? - mcquad.org",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNellGeWpPNWcwVnNjNy1Pb2c2Q2M4U1pwSThoZVI0ckJxOHlISm5jX2xaNkxfZFdfYTBGQ3VSSUNaUnlYTktwWE91a3VWaTFkM0FsMmVFZzVvcTVSdG1CZ1RTUzdmSlJzZlJYVkJBWDgwWDRQd0lFTlBCbF8xVGNUTVBadjE?oc=5",
+      "published_date": "2016-02-02",
+      "source": "mcquad.org",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "144d90c84ac0adb6ab5f5554414f8f510450f3d943d59d0cdf171807770b5669",
+  "feature_eligible": false
+}

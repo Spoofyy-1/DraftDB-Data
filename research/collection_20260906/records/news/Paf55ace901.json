@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:25:23.298230+00:00",
+  "lane": "news",
+  "pid": "Paf55ace901",
+  "draft_year": 2013,
+  "name": "Miroslav Raduljica",
+  "draft_date": "2013-06-27",
+  "status": "ok",
+  "query": "\"Miroslav Raduljica\" (draft OR scouting OR prospect OR basketball) after:2012-07-01 before:2013-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Miroslav+Raduljica%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2012-07-01+before%3A2013-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Pullen, the new point guard of Partizan - en.vijesti.me",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2SXVUM3hBd3k2TkNZeHI3eXZ0SjNrendMV1h6QTN6Q2diVXFTcjBIOEFONFowMG9qRjhvaTN4ZW1hSTFSU3FzeTVTYlBMc29iOVdEcm9JNS1XUlkzZU1IaTBmNHNES1R3alNVaEwzdmVNb0JGakRKRXFRdHprN2c?oc=5",
+      "published_date": "2012-08-29",
+      "source": "en.vijesti.me",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "0519f7d318171979c1c2885001ce2f5eb20df67c5cc2afb29c62cf059ced309f",
+  "feature_eligible": false
+}

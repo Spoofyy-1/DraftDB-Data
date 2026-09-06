@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:44:54.760537+00:00",
+  "lane": "reports",
+  "pid": "Peb2d46202e",
+  "draft_year": 2005,
+  "name": "Travis Diener",
+  "draft_date": "2005-06-28",
+  "status": "ok",
+  "query": "\"Travis Diener\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2004-07-01 before:2005-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Travis+Diener%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2004-07-01+before%3A2005-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "The Dominator/ Top recruit PG Dominic James - 247sports.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbnN0U1JwRHEyOGJmSEc1QnBrd1hta0p4UWdFN1RXa1hvV0I5bjgwTzB5c2dWc0ZtRXlWbV9rR0h6NDRMY3djb0FndmhWWl9LN2l5RGc3YnZFcnkyY3JMQWJaRDRHS1ZJNkFpRGgwRjB1VUxrQTVLTUw2SWRiS3g5RHd4Wm56UW1oMWtwQlRNeUt2WVg4T2hRQnRNbk5yS0dOZGlj?oc=5",
+      "published_date": "2005-03-18",
+      "source": "247sports.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "6cffd49725e1b196d1b5e1c1ae28c6868b5055cf99d67d4cdf9933d9e0d6e5bf",
+  "feature_eligible": false
+}

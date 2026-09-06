@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:36:56.157202+00:00",
+  "lane": "news",
+  "pid": "P1a32cd4176",
+  "draft_year": 2016,
+  "name": "Ante Zizic",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Ante Zizic\" (draft OR scouting OR prospect OR basketball) after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Ante+Zizic%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Vince Ellis' final NBA mock draft - Detroit Free Press",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVnhIaE00aGRWRTFCbUktZlJwblFSeGZXREMyS21PVlMxS3A3V09WU2xmeXZSVmx2VjVpWHoySGZpYi1pbTN6X3Fua21MVEk1MFlzQkRwSFptcXBSSlY2N0REb1p1NHY3VFJWQ0R4bGpJSlZINW1OcXFiR0dXZ3pPRFpCR0tpNW9pbWNCS0xlU2xhQnJLVWZmTVVQUDUwZUVpSFBqdm1BRXJqbDQ2RWZN?oc=5",
+      "published_date": "2016-06-16",
+      "source": "Detroit Free Press",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Rod Beard's NBA Mock Draft 2.0 - The Detroit News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTEJ0aElKeVYzZU5iMGFuVHlQN1dQWEVDdkkzOVdTTmtEbDhITjhMaGhFMV9XVWpiMHUtdFJSUlM0bUl0M0dERDdTMFpoLXdfbERpdEJVVGRkZ3Z1QjBBaEdIemhRbTVzUFVSTXBjeVFuY25zZk9CMTdMU1I5QXhhZGdSMWVmaXMtMnV4SmJJYmdsRzcyZGlWVWdJQngxaFFBeVAtaFBkSQ?oc=5",
+      "published_date": "2016-06-21",
+      "source": "The Detroit News",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Dick Vitale's 2016 NBA mock draft - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVHVlRFBfLWE5WEVWQXNUUGl3VVNoSG1xWmtrZlZsZTJlREprYldrZHB0RDVudWp4c3NJMjd3dm92VU5UREtrLXRrWlF5eTRUSnRWd3lQRm01dVBTSThZOXZRdHVRMl9Na25vM1owckhqOHZPV3dwU3o1X092dHZnSEk4eEdtY2FjeWp4NlpzZnZqUQ?oc=5",
+      "published_date": "2016-06-22",
+      "source": "ESPN",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 6,
+  "response_sha256": "8e85ec2ea9a0eeb948f60e63a30c1c20796f456666e2abdd8b948dde6072e495",
+  "feature_eligible": false
+}

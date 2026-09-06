@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T10:41:03.779104+00:00",
+  "lane": "reports",
+  "pid": "P19de9513b3",
+  "draft_year": 2005,
+  "name": "CJ Miles",
+  "draft_date": "2005-06-28",
+  "status": "empty",
+  "query": "\"CJ Miles\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2004-07-01 before:2005-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22CJ+Miles%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2004-07-01+before%3A2005-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "ed660fbbacba746f81c33285de518bf4ca951d9c9428a42c95695d7285665103",
+  "feature_eligible": false
+}

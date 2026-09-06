@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:25:45.567749+00:00",
+  "lane": "reports",
+  "pid": "P7b8c6b66e0",
+  "draft_year": 2009,
+  "name": "Stephen Curry",
+  "draft_date": "2009-06-25",
+  "status": "ok",
+  "query": "\"Stephen Curry\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2008-07-01 before:2009-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Stephen+Curry%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2008-07-01+before%3A2009-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2009 NBA Mock Draft \u2013 UPDATED 6/23 - Clipperholics",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CR296NVJJdzFLMHg3VUpjMW1zXzRDQkpqcmdSRGt4OWJMTEJmU2FDN3NreE9qYjh0YjRBNTg4Vk1sTUFNb3h1cTNDRGltUkdMaWxGeFowdnFMaGtBRGdBVXFHaVdkWFNm?oc=5",
+      "published_date": "2009-06-18",
+      "source": "Clipperholics",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "e5eb7f83c7a19fd11f3fb18d179cc8ef7e0e1cdcd83a6e3beb33a05227bbf54a",
+  "feature_eligible": false
+}

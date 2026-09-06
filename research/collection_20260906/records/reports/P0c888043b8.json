@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:50:03.412717+00:00",
+  "lane": "reports",
+  "pid": "P0c888043b8",
+  "draft_year": 2015,
+  "name": "Michael Qualls",
+  "draft_date": "2015-06-25",
+  "status": "ok",
+  "query": "\"Michael Qualls\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2014-07-01 before:2015-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Michael+Qualls%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2014-07-01+before%3A2015-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2015 Draft Prospect | Michael Qualls - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzVDFCbmpickNEYm1pWXAteHZkSVZlbVJvdElsMmZXYmZMeW4tN1l3S1BYamJ6bk9ndHlNdmN2LTcyNFFObFFldnFhMEhLZWNJcFdhdzUtOFoxa2pZVzYxWkV4UjE5QkxZU0h0Q3RPWQ?oc=5",
+      "published_date": "2015-06-01",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "9a2d70e897ca2f0dda7ade5dd75d44381f11472bff590ad3ec9a5f79cd3bd45f",
+  "feature_eligible": false
+}

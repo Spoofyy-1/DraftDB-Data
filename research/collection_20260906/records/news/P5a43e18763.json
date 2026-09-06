@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:45:11.493865+00:00",
+  "lane": "news",
+  "pid": "P5a43e18763",
+  "draft_year": 2017,
+  "name": "Josh Magette",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Josh Magette\" (draft OR scouting OR prospect OR basketball) after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Josh+Magette%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "For Basketball Players Like Josh Magette On The NBA's Edge, Summer Is About Betting On Yourself - VICE",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUVh4cXdKODRkQUtvbzNjTVc0YzIwSUs5VXcydjRaR3NQRHhvMEVmZEZFbVlUbHdFaVk0OXQzQzFFbTBFWHFDZzg3V1NkNmYyLTBvTHZMOGVuY2lJSXByZ2c4dUpkaWxlOGRxU191UUcwNlFWUzJJeThnMzMyTU03NEw3b25Za3ljUzJpSEVlRGlVeUo0UHk1YU96dlNiTzZGVVRYSVZrMmNqc2FQRWpFWkhRXy0xek02WTBzWHIzUHpDUkg5?oc=5",
+      "published_date": "2016-08-22",
+      "source": "VICE",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Hawks release Bynum, roster at 16 players - ajc.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY1VPMFBBYklaRlRVZXdKRC1Ua2pkbDZrQWFaRXd4NkZ2eHhUSlptWHVWS3YyM3hnWTIyd2tVc0FTWlYxRVlsVUxoVnBsdlZqYVNVNThLOVRVNVQ4c0ZvSzdSeEtNc1F5cjJhWWlla2NUWlJaVnFndTdjSkRpYzhzUkUwZ2lrU1FBSk9SaXhkcU5Mc2ZNdEdIT0lzelA?oc=5",
+      "published_date": "2016-10-21",
+      "source": "ajc.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "c3a5ac07f05f0e7fc733350c569c660ff4ad6f5cfa0d20b260a99fe3336c7b5f",
+  "feature_eligible": false
+}

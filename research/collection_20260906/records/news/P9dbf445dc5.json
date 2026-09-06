@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T10:25:10.107762+00:00",
+  "lane": "news",
+  "pid": "P9dbf445dc5",
+  "draft_year": 2013,
+  "name": "Dennis Schroder",
+  "draft_date": "2013-06-27",
+  "status": "ok",
+  "query": "\"Dennis Schroder\" (draft OR scouting OR prospect OR basketball) after:2012-07-01 before:2013-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Dennis+Schroder%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2012-07-01+before%3A2013-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft 2013: Dennis Schroeder scouting report - SB Nation",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNWZwS3JseUFmNzFQUkFXaWJEMEd1aThaY0hGd1Jxd1F5ZTN0eXR5WTFvMzFNX0k3eGZUalEya2ctSENza0ZjSnI3VlItX3BUSmpaMFRhQlFGV1I0dVBlMndDeWVEX050eG80Tkc2c3MzXzZJYVBXN0hQLW1PaHF5SEJsWXlpaXRZZVkzN0k2Q1p6Vmc?oc=5",
+      "published_date": "2013-06-09",
+      "source": "SB Nation",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Anti-NBA Mock Draft 2013: Evolution of ESPN\u2019s Top-100 Big Board - Brew Hoop",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNWt0aTVaakREQWhoY3hIZlcyeGpBcXhaQzlFZERTODlBVTNjQ0tZM2JNMlE2UEhOd0JiX2hQVGZnOThSaVIxcE5Ubmc3YTdZY3ZZbUowUDJPbEZWY2NGdmlpeVJOSVpGNDF0RWY0aEgzbWpLM3o1eEhza2Fkdl9zQTNRaHdJT0k?oc=5",
+      "published_date": "2013-06-16",
+      "source": "Brew Hoop",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Atlanta Hawks 2013 Draft Prospects: Sergey Karasev - Soaring Down South",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcnAtdGZWQ2hodGJVRXJ2amhtdS1VV012dUl6Tk44U3Q0bkNlV0lTVGNCQ0R6NDVwWTBHbU05MEZPd3JHWWtqY0N6OGgxZFNZT25RTmo2el9NUUgwNW9ZdFR6YU1mamdUWjNWb1p6NHBwZVdjb0wxejBLUXQ1dkU4cEMwZUg4MHp6N2lha0lEUjREc0xx?oc=5",
+      "published_date": "2013-06-24",
+      "source": "Soaring Down South",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2013 Nike Hoop Summit Open Thread - A Sea Of Blue",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON2RtRGNUWi1UdVlhalBiazE1LWtwWVVHZHdjXzZnOVV4WVhFb0M2ZF9HWXNiQm5JWTEtM2pZNzNuRVJ0aE1uZTlqOHNjdzl3VlB5Q0NkRml6VFowNjIwY0pBSmVpWm9PSjNIU09fTllrQ0U3dmc1a3UteHlCdXdiTTRuR3g?oc=5",
+      "published_date": "2013-04-20",
+      "source": "A Sea Of Blue",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bojan Bogdanovic plays limited minutes in Fenerbahce loss - NetsDaily",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMnFHUmc0RGdNWWZsNzVXSTI5cE9SSmYtWTFNUjNZNWM1NXNPbGh6cjBxaG5PSTUyZF9aOVdKUk4weFNoUmpSbkZ0eTYyUm0zbkx6Z3NBVEZ2SWdWZFZqVFdpMldHcjQta0tqUjU1bG9KcTlrT0tSeTJ0Rk9TMlJqeFNjb1lheWItWEJyRml0MUJRdU1ETnVkQXhLWC1CQWRMTzdQbw?oc=5",
+      "published_date": "2012-11-13",
+      "source": "NetsDaily",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "548b508ecb9853bfc39faf0b5ec903a74ce8a921622e62251fac20c0d18c1863",
+  "feature_eligible": false
+}

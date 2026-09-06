@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:35:48.271047+00:00",
+  "lane": "reports",
+  "pid": "Pc5bce4fd0c",
+  "draft_year": 2011,
+  "name": "Jeremy Green",
+  "draft_date": "2011-06-23",
+  "status": "ok",
+  "query": "\"Jeremy Green\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Jeremy+Green%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "ESPN's Jeremy Green Arrest: ESPN Analyst Busted For Child Porn, Drugs - bleacherreport.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMnpEbFUtUllFQ04tb2hCOFhmb3hBVjkxNnQxSUp5ZWRoUDU0SXRMMm9Va0I4eG5UQ2xkeWVka3FwXzRPX285UHI2WkZFeWlIN1ptUEFaSGlLbGxpT0d4R0w4MlZ4Rm02T2J5QnltWXpHdVM3VlZVbk1lNE1kdVNscGdBTVlfZnlyU2M2WlZIQ3p1WEh2TVk4Y0lJamQzSkYwVVA3REkyd2hOQkpSamFHdWFiZw?oc=5",
+      "published_date": "2010-07-09",
+      "source": "bleacherreport.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "f43baaa6b7b03d0a9125a448d37493531790f675bc051ace4d14b2a4c199c4e2",
+  "feature_eligible": false
+}

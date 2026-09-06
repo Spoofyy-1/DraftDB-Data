@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T10:43:56.329267+00:00",
+  "lane": "reports",
+  "pid": "Pbe0a02c2fd",
+  "draft_year": 2005,
+  "name": "Matt Walsh",
+  "draft_date": "2005-06-28",
+  "status": "empty",
+  "query": "\"Matt Walsh\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2004-07-01 before:2005-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Matt+Walsh%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2004-07-01+before%3A2005-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "ce690d5e80896dba9af747071c123c172316e3ec9c2402a04b6cb2e8bea25a9e",
+  "feature_eligible": false
+}

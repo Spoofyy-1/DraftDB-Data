@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:21:41.291624+00:00",
+  "lane": "reports",
+  "pid": "P7e5e28e6b3",
+  "draft_year": 2008,
+  "name": "Robin Lopez",
+  "draft_date": "2008-06-26",
+  "status": "ok",
+  "query": "\"Robin Lopez\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2007-07-01 before:2008-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Robin+Lopez%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2007-07-01+before%3A2008-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Rip City\u2019s 2008 NBA Ultimate Mock Draft - ripcityproject.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM1JSS2dtUll1UUlCaGpyY2JlaENSY2hqVkNqYWJJM3Z3bDlOVTExbkE2Z2F3LTZFNjV2czNrRGZTTnZXSGRadUJZaUp1S1l5OFppXzJacHdhaE5oTGZHVjgzZjFvNUFHZXF1dFJvZWNiT1JXY1pBZk9MMmlUOUo3UXdFMA?oc=5",
+      "published_date": "2008-06-22",
+      "source": "ripcityproject.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Stanford\u2019s Brook Lopez academically ineligible, will miss nine games - The Mercury News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ3REYnk4TjJvQ3lTRmRmOU1oMnAteFd5SjVLd1I5XzJIVm5seEEzRHg4UHBhVDd1dG5iTlZvdWR4aVlXV0pGOE0teHZiRjJ3cUJjSDRVNy1sb25yc2JjUkM1R1ExS0xYXzF3Tng1SHZWMmU3czEzVWhfT2dQVG1wUEphN2JsS0toTUZDQjFXVW9xaXBTZ21TNWJWMTZFMVdITW50UU9LWDZPUdIBrwFBVV95cUxQOUp2ai05TUIyZ2FhS0RqX2ZWX3hDbVBRQXRUd0I4a3J3aXJiaXI1WkpRU05qYXo1NXE5NnhtRVlJaWFFang3U1BFOWhRNlotbWVzSGpaU3Ixc2NHSWVDOVJrbVlrWjE4a0kzUTJ2Yl8zRFNZeGNLQlF0YUVENkdldW1lXzNkYTBDanE1LW5wT09aTWZmX2NxRzNUVFI5cHJ5ZG4wVEdLamN0clQydWd3?oc=5",
+      "published_date": "2007-10-05",
+      "source": "The Mercury News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "602786cd084032b35c9264ebd06ea11afa37fb0ff62680e71d7037887f0ff688",
+  "feature_eligible": false
+}

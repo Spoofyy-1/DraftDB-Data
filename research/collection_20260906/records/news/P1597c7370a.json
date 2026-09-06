@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T10:49:51.332970+00:00",
+  "lane": "news",
+  "pid": "P1597c7370a",
+  "draft_year": 2018,
+  "name": "Devon Hall",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"Devon Hall\" (draft OR scouting OR prospect OR basketball) after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22Devon+Hall%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "With Draft Coming Thursday, Devon Hall Working to Raise NBA Stock - UVA Today",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeF9vUkpkbVJDcmNpMm5qcWxrRlNNeGJJMXl2UXBHNkp3V2tZSldQU3F3TWtkbmRlUW1xUDhPSkJNdUp2YXlKNmMxOTNXd2xLa3czSGJNZFhOQnlWM1ZPb2JWSWlHX19ZdVRQc0wtWU1YZU1nN0M2SkxYNWFQUUZFMERIbHJRaEtQS2xnTUpfcTVieUR0?oc=5",
+      "published_date": "2018-06-19",
+      "source": "UVA Today",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Devon Hall: 2018 Draft Prospect | Indiana Pacers - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Fd05EVGlBUU5pbEtnM1FRVUtEUUFpc0IwaTlGeFBfWGFmRXFzZU1SblpnUzRTQWstcGh2NHhPdlNZUWloZmlCMS0xeUdOcTJUM3JkZE5OVVZOeXlQdGZpUkZDZmVNLXcz?oc=5",
+      "published_date": "2018-06-10",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Devon Hall: The long, winding road to the NBA - Augusta Free Press",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTDJDN243NEs3SzRRZ3VoQnpuV2FRT2szakw5X3dIbmlEeFN4VlZOOHY5aXRvSnpMZElzUF9LQmJxMnJWdHQ5cDZha0p0TnJQX240TGw5aExKd3ZmR3ZPVHhGb2hnV0ZSdjBXTFhtNjZZVkxsVDZBUUJLVlFId0Z2dGk1SjM?oc=5",
+      "published_date": "2018-06-20",
+      "source": "Augusta Free Press",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Brooklyn Nets 2018 Draft Guide \u2013 3&D Candidates, Part 2 - NetsDaily",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ0s3akRLdWlSb0ZkNjMteVdUOEQxQkhmZTR5NVZoX2w1R3NGVTR4RHdpMlJWc2dzWDJDcExBQ0ZkNlNqMFFTcE9kTGdBaDhJZk94cXhEODBPRW9GREhnLVUwYW9QWTA5STZBcTZhbW1aV3JydkhHdDU0Z1pKQTJDdnppTXNmY0pWa1BndllZOXNMcVFMdHZOeWZCczNhQQ?oc=5",
+      "published_date": "2018-06-16",
+      "source": "NetsDaily",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Pacers workout Butler's Tyler Wideman and others - IndyStar",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcjhabDhOaUZxOUx4UE5hdHZNSGxTV3JkdVoxSkZVRXRxMWpvS1RCaUJfOGZfcngwRUdnZUd4dU5TeTVZUjUxWlRvNDV3bDNBNW9PS0g1b05xYUlFWDdRTnA3ekFkVUZWSG0yRkpBeWpLRnpaUXJZbHhDRzNEX0l1Z21BUjlBTDZ0S3pSeVNNLUtoYzNwT25tWHZNR2VwTHZGV0g2a1NRdE5mSUlBYU9scVN0cXA5eXRGQ2N5cFdBVXV5OWEyQlE?oc=5",
+      "published_date": "2018-06-11",
+      "source": "IndyStar",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 3,
+  "response_sha256": "e3b98738c862441cd8507758a899d88ba3c1f2097e3173f9ae9368a2c31b0cab",
+  "feature_eligible": false
+}

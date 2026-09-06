@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:33:55.890481+00:00",
+  "lane": "reports",
+  "pid": "P52af59d765",
+  "draft_year": 2011,
+  "name": "Malcolm Lee",
+  "draft_date": "2011-06-23",
+  "status": "ok",
+  "query": "\"Malcolm Lee\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Malcolm+Lee%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Former UCLA guard Malcolm Lee optimistic about NBA draft - Daily Bruin",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOEFYQXpaUnNJT1lpVWw2ZXl5S2ZZWUJwdF9yT21IbnZqbVpiVDlmQkRfNDYwWndOeTliR3cyVVZjTW1yRVFtdXVXUlYtQ013VXpvaVdTOF9fRWNpZW1sTlI3NFh6TFdVZ3lXSkkxb09yalVya0VGR095dnUxUGoyMjNUQ1o1bndpSGNQOWE3RDUwenh0?oc=5",
+      "published_date": "2011-06-15",
+      "source": "Daily Bruin",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "9c23eb63f763ab1c1b834f614f8db0268af79e3192ab068232b6e9ed3e0a4f5b",
+  "feature_eligible": false
+}

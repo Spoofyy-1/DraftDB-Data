@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:30:39.277973+00:00",
+  "lane": "reports",
+  "pid": "Pbd2eb786d3",
+  "draft_year": 2010,
+  "name": "Da'Sean Butler",
+  "draft_date": "2010-06-24",
+  "status": "ok",
+  "query": "\"Da'Sean Butler\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2009-07-01 before:2010-06-24",
+  "query_url": "https://news.google.com/rss/search?q=%22Da%27Sean+Butler%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2009-07-01+before%3A2010-06-24&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2010 NBA Mock Draft: A First Look at the Next Wave of NBA Stars - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3BybElYd2VKcWE0c3RDaEdnU2hSVWJkLV9rWFZvd3ZuR25mUFRIQTRfSkliVmZNSDYzSm94VlVqNnVXM1JzRkhGZVk4X09UTll5cnB0bDhlaVE1R01qQ1g2VFlsckxUNTR0eVgzRXFLazh1Rm5GeG9HUnB2bDMyMU9GNTdGOTJ0bkFxRUs1ZzZrZEQtNzlPaTdTT0NDcDJFYlNfX0lGRDVvN1lWR3c?oc=5",
+      "published_date": "2010-04-15",
+      "source": "Bleacher Report",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "7c13694e51fd2d669cda2caabebd1069aaf603ccc2d8f2f7fa2aa8e7466dc4d0",
+  "feature_eligible": false
+}

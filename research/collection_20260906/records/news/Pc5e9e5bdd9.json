@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:40:36.682439+00:00",
+  "lane": "news",
+  "pid": "Pc5e9e5bdd9",
+  "draft_year": 2016,
+  "name": "Treveon Graham",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Treveon Graham\" (draft OR scouting OR prospect OR basketball) after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Treveon+Graham%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Jazz Sign Free Agent Treveon Graham | Utah Jazz - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5USnozc29QeEJkSXpsWmdtcEI5S09iZTZEMmxKaFpHTHRjWkx4X2hCS3BiM2Rtblloa1hQcTJMdmh6aVphaGJiZHUzZ3ZPNE1neXhzUG5zZlBFUE1CQlFDMUJVcnRXVWtMVmc1N214SHVlZHc?oc=5",
+      "published_date": "2015-08-17",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Hammon makes history as Spurs win summer league | Basketball | Sports - Las Vegas Review-Journal",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVjhCUDZ0bmpmTExQdGJPUDJUVVhuS0hRNWNBTTlRUXRWd3lhRk1OWkREWUhlVFpwZjltNC1ES3hUZ2hkZjRwaHo5V190Ynd4aGlFN3luZmtRZE9oVFpHOGFoOHVSNUZZQkR0MUQ5OWVDRWkza1pfbjdQWUZFaUp1d3ZxQWpaLXFGajFKTmQ2ZWZUMk1NY3QyeTlZTWQ?oc=5",
+      "published_date": "2015-07-20",
+      "source": "Las Vegas Review-Journal",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Becky Hammon, Spurs claim Las Vegas Summer League title - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMjdWVjV2bDIzSXUxZDBsSXpTYkZadHhQZ2ZqX0wtNHRZdUtiTlAzbG5xb2I0MGFyNWhRSVM1WFlSak93UHk4SUxDYVhsbjFsNnExMnpXZEVza0ZaWHhLcUhLb0drVU9hMzkyZlhLU010a0lqeDNteHN5ZnYwVHhPdFd3dlhBWWtodjZGWWFtQ0lGb2M2RzRsUzkwWExxakExLWJUWHlhN1VsM2hlYkN1WDl2OE93SUk?oc=5",
+      "published_date": "2015-07-20",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "46db619beb2424b6c69000c3b9cd48d054b85df3b2484b5d4b4a0192cdf67a49",
+  "feature_eligible": false
+}

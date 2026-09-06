@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:35:02.762073+00:00",
+  "lane": "news",
+  "pid": "Pc2766e3f86",
+  "draft_year": 2015,
+  "name": "Charles Jackson",
+  "draft_date": "2015-06-25",
+  "status": "ok",
+  "query": "\"Charles Jackson\" (draft OR scouting OR prospect OR basketball) after:2014-07-01 before:2015-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Charles+Jackson%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2014-07-01+before%3A2015-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Nebraska DB Charles Jackson lost for season with knee injury - NFL.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRmRMSDh1TTBXYnVXSzBjZ1VST05BY0FCcGMxaUx0dzdqSGRuc3hsR05kMHpPV09IREVkXzBMQjFrOXYxamxXQjBOYUlfYlZnRHZsVDU5Sk8tMlFnX281Y0tGYTJYZE9VSFp1Z1lKR2Z0Ykp1eThyTTk3YzVSZVBNVlZNQWZJUHpwX2YyYmRUTTQ3bWhwQktGNlRiQ3VlaTc2RHozNw?oc=5",
+      "published_date": "2014-08-07",
+      "source": "NFL.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Kobe an observer as Lakers hold pre-draft workout for six players - Orange County Register",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaEVrVUNUUjVfeWxNM1dZb3NMaUtWNkxBUnpOekVXajdBN2htTmdvelVILVFzcERvR2cxQlh3NThrcElEXy14MDZxeUlTWno3dFg3bDBfZC1UUURyc080UXoxd1A1a1doM000bXI2eTJtc2M2S0ROTEY3eFM4VlFZRExhVDdDbW40Qkx1NVhuYXdfSTRXWThZWWNZcDVQRF84ODcxNnlSZw?oc=5",
+      "published_date": "2015-05-28",
+      "source": "Orange County Register",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft 2015: Complete List of Early Entry Candidates - Liberty Ballers",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbVdrYmRONWdveGJERWhTSHZTVW43RDk4aGxGUjZWTG5hN0tuUEU5VTNvTFVpQ19KT0cycmtTLTRQckVVR01YUDM0SDR3ay0wdVg0Y1FGZGR0WGNvRWhDdTZPNmg4VmFuSDRIRkNLNDZpMWRxM09BQm54UWZuWE1WN0ZzOGJzZVBzcmE1WU1TX0gyUFBvNFUteGlnNms3aUNvN2hjLUdOcDRteTdjSzdUYk9qM0M4aGRFMDllVE1HYkMwbGtRTzdreXR1Y3dtNXg3MzBBbnRPS29yeWVi?oc=5",
+      "published_date": "2015-04-30",
+      "source": "Liberty Ballers",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "063a16ea7296de5219cd21ece4bfabbb6e375557ae23c11c1b695ef59309c8fb",
+  "feature_eligible": false
+}

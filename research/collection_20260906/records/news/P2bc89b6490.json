@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:37:16.203569+00:00",
+  "lane": "news",
+  "pid": "P2bc89b6490",
+  "draft_year": 2016,
+  "name": "Nicolas Laprovittola",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Nicolas Laprovittola\" (draft OR scouting OR prospect OR basketball) after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Nicolas+Laprovittola%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "UK-bound Murray thriving at Pan Am Games - courier-journal.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVEFHOHV2SzZKc2JhbEZzRTZaQ0tGRmVnYWVnRjgwUzlDMFoza3FzdXQtRUg3bWhpY1ctVmU1MHNXWjlZeTVXTG9heDBpWmNCdjhyR1BoMlA0YVBlc2pVWkgtVkdDYl91aDVQSzliUHBIcHV5Qy1mVUNPeFg2YTRnVTdycTB2dUVxcWVseWhXY1R6RHV4N0p5OU53VGplbFBtQkoxZ0UwZVhsbjdtRTdSR3l6RmpLT29UM0cyZXh6ZGo0LVpWak90dWZ4S1U1UHVE?oc=5",
+      "published_date": "2015-07-24",
+      "source": "courier-journal.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Laprovittola in Rytas and more - Eurohoops",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVHRUX1JBa1g3RlpaMVpaUkRIMUEtS2hkTllGZV9PUV90NHRUQ0M3X3RHdmp4THRpQmJIbmRQdVJPX3poQ3F3TVU5dTNKeUN5T3B1T2VZdVIzZmVIQUE5aU1feXppOXNjYWxUUGQtd01OdFlaaFpPYmhXUmZYWTZWQlgtQQ?oc=5",
+      "published_date": "2015-08-02",
+      "source": "Eurohoops",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Abbad\u2019s Top 12 picks for Team Argentina at Rio 2016 (\u2018Los Condores\u2019) - thepapare.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcmRVNWJvbGlTQnFDLXBOMmxZeHhRQUdCc0d2eXlrcWlRa3k2OUdxOXdsZ190M1UyY0RuX1ZYX1h1QmdPY3ZzNFVYR2dESHRQQVdDaVFEaVpHdUZlTlJTVUdKa2JkYmJMY1NabWZST0VHOGRJbG11ckZRTXNuZG1jN19CVW53ZGNwRW1tal9DMGRiT0Y3?oc=5",
+      "published_date": "2016-04-25",
+      "source": "thepapare.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "f9df6b3af9835e227b811e54c034962214ba5a16a69942441125db2325ab9c8c",
+  "feature_eligible": false
+}

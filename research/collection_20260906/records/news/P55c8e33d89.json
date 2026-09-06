@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:23:27.153668+00:00",
+  "lane": "news",
+  "pid": "P55c8e33d89",
+  "draft_year": 2013,
+  "name": "Shane Edwards",
+  "draft_date": "2013-06-27",
+  "status": "ok",
+  "query": "\"Shane Edwards\" (draft OR scouting OR prospect OR basketball) after:2012-07-01 before:2013-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Shane+Edwards%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2012-07-01+before%3A2013-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Boys basketball: Perrysburg vs. Maumee - Toledo Blade",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WaXVnSDJTajdoSy0yR3llbEtGLUNiVDZJcl9YRDQyb3dvX3BMMmNFX3Y2Z2wzY0dGOFNZUWptNUI4QnY3dVRBNkxvVE52RVhvM1hONE42NHNGS1Fsd1FFa2FnUnlxVzk5T0I1aGNEbkluZ3pXSWZLQ3lUeVA?oc=5",
+      "published_date": "2012-12-21",
+      "source": "Toledo Blade",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Prep Basketball: Perrysburg vs. Anthony Wayne - Toledo Blade",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNm1Sak1Qdy1vaERhR1AzcVJ3WDdkbElUTDY2aGJLSF9fQUdCWFlYSGsxTk5YTEtZejRNYmpMbTV4aGc3U0d0WkY0YzBHUFpVZTlMOXB2N0ZkUzAtUDVBLUNSeGhScFpFWlp1blJvNXlHQlR1STdac2Fhb3JobTF2aUlRNElVUQ?oc=5",
+      "published_date": "2013-02-13",
+      "source": "Toledo Blade",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Prep Basketball: Perrysburg vs. Napoleon - Toledo Blade",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZndZRzBPeE0wUFA0U1dVSGtMbTJ2alFBZ0VGX2ZoRnMwUTAwRTRUT1N1bVZQM0VlUTFZZWFYOTJGS0t4cDhsNFROSW1DNmp5VWktSTFobng4Rml3TWFSRjJBRWJzU2JVU0ZyWURpVUUzV25QMFBKMS1QTVNIYlhiUw?oc=5",
+      "published_date": "2012-12-13",
+      "source": "Toledo Blade",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Edwards on the sidelines - The West Australian",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWlKcWZpdS1IVjBDWlhyNVFXMUM2UHhPM0ZfOVo2NWJ2aExTdGk2LUMxbGNNSkdtR2NiUkVFVGdYdXhYbWgwcmZtSjV4YVN4czktQkNocVprY1NMc3ZlQng4S3hHcHV4SzNFUnNPX3NycmZKQmZmUWwyUWlzR3lGR29rbUZDUdIBiwFBVV95cUxOVTEyakZRT2V3SWl3c1dXODJjX1YweDZzZVNPaWhkMkI5Vjl1Z0lYNUttU0wybDFzVG1ncUFJSFRJNk5pWm1CSHVqUTNnOGZfZlNCU0ZrSDJESThZTi14aHZZb1M5d0FaWk4zRnZ3Z2tVWlZZaXBsRWFCQ0FMaHhjdEVBbjB1LTZaTDhJ?oc=5",
+      "published_date": "2013-05-01",
+      "source": "The West Australian",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "a83838f76331096ff47af825e25ae680d135d5e7bd90f905870206f7bd19b271",
+  "feature_eligible": false
+}

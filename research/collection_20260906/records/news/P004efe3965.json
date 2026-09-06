@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:49:41.386777+00:00",
+  "lane": "news",
+  "pid": "P004efe3965",
+  "draft_year": 2018,
+  "name": "George King",
+  "draft_date": "2018-06-21",
+  "status": "ok",
+  "query": "\"George King\" (draft OR scouting OR prospect OR basketball) after:2017-07-01 before:2018-06-21",
+  "query_url": "https://news.google.com/rss/search?q=%22George+King%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2017-07-01+before%3A2018-06-21&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Former CU Buff George King\u2019s NBA interest grows with impressive offseason - denverpost.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSDJDLThxZFBMZEduY3ZlZktsaVp4ZjJwZ0oxSXFYUVd4MFQxOWlVYndab0FPNVdETnZNd3ctYVdOaFV2Tm54VFpmX0FXa0FZblRyODJZcUs0N1RKT2R1X2J6TWtiUDdqV2pRU0pQYXptSFQxdlFhcF9nNVdnRzBCNjBEMXdhVXk0ZjN0Zg?oc=5",
+      "published_date": "2018-06-04",
+      "source": "denverpost.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "How Colorado\u2019s George King went from NBA afterthought to one of the draft\u2019s fastest risers - DNVR",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQODBiXzR2MElwT1NwdUpnVGVPeUpMRVIxanFPSVB0c2RGMEktZ2FCNmJER2JtOENBVHZ5S3cwOU1ORFdBTzJjSHV3N1ljRXZieW9sN0I5UkR4S3hXVUNVUFREQUJDVTdCM0ZNOGoyVUQzOTl5NnV0eS1pNk9qNDlzRGhUSTFDSlV1djZiZXdTV05NVExSeHc1RVRHYUFzN2h1VVphRmViMmczY0tnb0xjQV9QVjItaWlt?oc=5",
+      "published_date": "2018-06-05",
+      "source": "DNVR",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "What made CU Buffs senior George King a dominating force? \u201cHe can take a butt-chewing.\u201d - denverpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOEhucEdJdEJaYUhKRHVjWVA2Q0dtZHUtLWc2UkJWbm9TRV9ScHBGaEZuYUxXZ1hVUzJ5endUbmF6T1gwQTlIRWVaZTY5OGRxamxMUjY1ZnVqYWh3VzUzM0pOamZnUXRrSGJRUFhWSzAzc0RxYWJsWDZxa1lwQXlCLXZha01fV05URnVV?oc=5",
+      "published_date": "2018-01-21",
+      "source": "denverpost.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Former Buff King Works Out For Nuggets As Pre-Draft 'Tour' Continues - University of Colorado Athletics",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSDdCNHBZYVI2X0o4R3ItdUdLNG04NVZlcDQwYm03UHAyQVQzTWxOT3k0dngtSVAyYXpBMnlnb0xYMGhHYXJOMkFvb0NOdk9sWWZacG44bDVYTDA4dVZhZlFHTXZqUmh2cXFBeGdzcnB3REk0TGZvTVhITXZqUFVXOTBqb2FMNVBtY0RBUkFWWU9SbUZhOGxoNlNhQ0lxWWhKcmp2OWZwWGdkRFllZWhYaFVqcDBCYVU?oc=5",
+      "published_date": "2018-06-04",
+      "source": "University of Colorado Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 5,
+  "response_sha256": "04a656fb8d40cf266fa000cf7243cfa8dfb9998096547ae8d96527f399a766ea",
+  "feature_eligible": false
+}

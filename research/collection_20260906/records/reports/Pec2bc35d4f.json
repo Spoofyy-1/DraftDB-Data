@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:31:41.397537+00:00",
+  "lane": "reports",
+  "pid": "Pec2bc35d4f",
+  "draft_year": 2010,
+  "name": "Willie Warren",
+  "draft_date": "2010-06-24",
+  "status": "ok",
+  "query": "\"Willie Warren\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2009-07-01 before:2010-06-24",
+  "query_url": "https://news.google.com/rss/search?q=%22Willie+Warren%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2009-07-01+before%3A2010-06-24&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2010 NBA Mock Draft: Kentucky Wildcats Gone Wild - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNW03eEdtdGwzdHAzVU1xSmNGUmhOM01MMTB5M3RIVWpIdlRZWC1HazZiQ0dTb0lScWlpNDBBN09Wb0NGNEdWUFlIN3VxYWI2UzZjdVo1SlA2T3RuRkQzbWxsaTNKSlRfc1RZYXVxV3JuYkxXeWtpRHVYYWhoTEVQQkhzbkxZVGkxRUNoOXB5NkFSMlFx?oc=5",
+      "published_date": "2010-05-07",
+      "source": "Bleacher Report",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Records connect ex-OU basketball assistant Oronde Taliaferro with financial adviser - The Oklahoman",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS1d2ZGp5cUhhcjhoQmY4ZTJabUhyUkU4T1J2cS1VSHJCLTlJVEh4LUY2V0dMYi0wMmVMU0FzdUVtR2N4U1YxS0czSDNtSng0Rmx5RFJsRVFiQ1J5UGh5NWpPMGpiQzlvX3QwNTh4SnA0QlRxVVVDUXBreDNpWVNZWmZNTnJrZGJNUmVCdnVHMC1kUS1uZjExdHQ3b0JLQUhiVnlIa1JXdWZQOFR2UUNFdlhENkVmUXZBc0FjVVRZLTNNdVFDNmJJU3JEX3NzV3I1V1hCZG1iN21PNzdxV2dV?oc=5",
+      "published_date": "2010-05-20",
+      "source": "The Oklahoman",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "e713f99c40696d4e15a6f254bda9fd78e6e0950157eec5b8d043a28a112c613a",
+  "feature_eligible": false
+}

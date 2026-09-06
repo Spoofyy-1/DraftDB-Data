@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T10:26:19.613681+00:00",
+  "lane": "news",
+  "pid": "Pe8dc26218f",
+  "draft_year": 2013,
+  "name": "Chris Babb",
+  "draft_date": "2013-06-27",
+  "status": "ok",
+  "query": "\"Chris Babb\" (draft OR scouting OR prospect OR basketball) after:2012-07-01 before:2013-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Chris+Babb%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2012-07-01+before%3A2013-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Chris Babb injury: Iowa State guard badly sprains ankle - SB Nation",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWFh0NXladWdSSzlZckJfOUVtNTBFUi1jSUNtakxyWnRvcTgycUJNczY5blBkMUxCY3hIYnRxWW84UG1vQ2Z0b3U2RFo2bDNjcXZ0SElNREdXeUdob2t4Rl9OOTd4WUZMMTVpX3VTdXNTaF9NSHktUWdJd0l4WlkwNHZqYWo5eWZqU2ZLQ1haY0tvUVloMHh6bHlwc0dyWFBnN1RBak9YTUYzS1JPZjBvdQ?oc=5",
+      "published_date": "2013-03-24",
+      "source": "SB Nation",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Ben McLemore impresses ex-KU assistant Matt Doherty - Lawrence Journal-World",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQzQxeDdacDBHTlJoc2VJR2xzTXdfQVFXWE84MjYyLXJRbExib0Roc1B4UUNRdHZIS0VEVmZSRnJla2lYdmJDLWt2bEQtcmRKaVNqSExvalRzNk9QRmdMSEc2YmJWVUpqclFtdl96T1ppaUk5SHotazhMd29QUTJhc01oMDhwRHh3Wlh3UHRNYnl5M0xET0JMQw?oc=5",
+      "published_date": "2013-01-11",
+      "source": "Lawrence Journal-World",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Ex-Marshall guard DeAndre Kane headed to Iowa State - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaF91QXRXOUlqRFR3WTNRMl92VHhhWmFwNnA0WG8yRWpNZldMUVJfT2hPOURXVUtDbEZSblBxY3dzQWRzQnVfcWVSemNWUG5ITmJBSHItNC1IVEdETFA3NXg0RDVtQlNhNk1LdTRKSkVuWW0zaTJud2IxS0Y0YldfYVZheFlFazl3TmJTSk45ZmlwVEQ4ZXFwYXB1SGxadjhRR2Vfeg?oc=5",
+      "published_date": "2013-05-30",
+      "source": "CBS Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Trail Blazers host six-player predraft workout, headlined by Gonzaga's Kelly Olynyk - OregonLive.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdHpNRkNDLV9aVC0tWnMyRjBXMVNpZjNXYk9FSmhqa2FHNWpWMVZTS1NtZXJXZ3RlVExfUHkxNUx4aXZXYzFlNHZ1Skx2UkxJNlJUaWFIZG5XaFZkTU5DdWV6NkdoSVFzeTNZeVJ0X09TanhtMmlpeUx5bkFhQUloNm1YXzJvMDhVRmt0WXo4NXV6YkNaN3RjNDVDeGEtT0E?oc=5",
+      "published_date": "2013-06-11",
+      "source": "OregonLive.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Hometown hero Fred Hoiberg, Iowa State's 'mayor' piloting Cyclones' storm - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ04tRVRKczB3MDNVeENRNDNXTkIwSUREVlk1RUFYNXVzQkMzTXdtWEhLOW5JZGdnZmZFamxnOU9oSVFpNFRKbEFSWXRrRVJEUlkxX0Mtbm9fbFllVG9hVURTQ0NVV3JxeE5qZGhiOTNONE40STBvbDNvOWU2SHA2eWlWVmhod2JYQXdZYWMwaS00LTJ4VDVWVzdZVlRqLXdMdG5YTU1Ba3lmXzdkZFU4QzU5UDY4bTZVckJSVHpLRHM?oc=5",
+      "published_date": "2013-03-23",
+      "source": "USA Today",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "d5ba6a84149459c3ee918d8f4038c0b84c18183a7263b708f5ee428796fee7d5",
+  "feature_eligible": false
+}

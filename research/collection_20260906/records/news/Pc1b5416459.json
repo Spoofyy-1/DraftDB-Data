@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:25:39.891347+00:00",
+  "lane": "news",
+  "pid": "Pc1b5416459",
+  "draft_year": 2013,
+  "name": "Adrien Coleman",
+  "draft_date": "2013-06-27",
+  "status": "ok",
+  "query": "\"Adrien Coleman\" (draft OR scouting OR prospect OR basketball) after:2012-07-01 before:2013-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Adrien+Coleman%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2012-07-01+before%3A2013-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "BCU vs. UMES - Daytona Beach News-Journal",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMDlvTzBPUFhkRzVRLXR3WFYxVDVOdERrZkhJSW9LSzdhVXVBQlVxX2hpTGhyejN4SFZ4YmNtQ3dCQ1pia05HNWU3RDRYMjhaOHRwaXJ5bDJYTjdOTmhuaFdySTBvWHdGWHRTd2VjbTZKR2NSWVotRHF4X1NjOVFzbFNNc3ZobzZ5MndiQ2hVc1BFTW1FSkh6WXdFNA?oc=5",
+      "published_date": "2013-01-29",
+      "source": "Daytona Beach News-Journal",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "adefcdb68c3bfdcee115edd74ec732c0dd0d6f1070ea24a1e751746dee0a1367",
+  "feature_eligible": false
+}

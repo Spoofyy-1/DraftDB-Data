@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:33:59.125624+00:00",
+  "lane": "reports",
+  "pid": "P53502448c1",
+  "draft_year": 2011,
+  "name": "JaJuan Johnson",
+  "draft_date": "2011-06-23",
+  "status": "ok",
+  "query": "\"JaJuan Johnson\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22JaJuan+Johnson%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2011 NBA Mock Draft: Full 1st-Round Mock, Who Will Be John Wall's Running Mate? - bleacherreport.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYlFLNDRYRXM2dUpuQllUa3NTUy1hM3RMaVVDelFMTmpfako5clFNTUdyVmFjZFg2LUtzcWNNR2ZYLWlGOVZvTzFDVFdVc25NZnRFMmsxSEU1dXU3VkpzNDBPSjFBUVpTcW93VnFMVjdXN0NEcWJsTWp6MGF4aXVaRnNTT0taclZGWm5WTnJIN2o4ZnF1ZllGVFJBV2NObG9tUWFOaC1wQkxJeXhRVWJWcEdCM3gxLWZoWGc?oc=5",
+      "published_date": "2011-05-17",
+      "source": "bleacherreport.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "0ae160631618d433b571f5ef52b701c0773d647c0e896b3996d9356bc5a9f56d",
+  "feature_eligible": false
+}

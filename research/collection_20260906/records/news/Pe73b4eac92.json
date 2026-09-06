@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:31:30.490480+00:00",
+  "lane": "news",
+  "pid": "Pe73b4eac92",
+  "draft_year": 2014,
+  "name": "Bruno Caboclo",
+  "draft_date": "2014-06-26",
+  "status": "ok",
+  "query": "\"Bruno Caboclo\" (draft OR scouting OR prospect OR basketball) after:2013-07-01 before:2014-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Bruno+Caboclo%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2013-07-01+before%3A2014-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2014 NBA draft tracker: All 60 picks - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqa19RYm5uRUhLSEdqdlp4QTdZTlpJaUFRZDJYZ19adC1GbDVZclpYZWVFQlZVVnp3b05DM0ZJNDlWODJRdzNLdk9jMU9qeV9lOUVXbFVtM2V1RHhVUFN3cFJBbmVYM1hmS1lkbTRWMDg0Rk9Ddnc?oc=5",
+      "published_date": "2014-06-20",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 8,
+  "response_sha256": "fa72412f1195129c300554276f9f21f54ecb8b62f93edd1d7c6bd6c567878829",
+  "feature_eligible": false
+}

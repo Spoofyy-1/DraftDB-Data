@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:35:09.383063+00:00",
+  "lane": "news",
+  "pid": "Pca83b848d1",
+  "draft_year": 2015,
+  "name": "Jonathon Simmons",
+  "draft_date": "2015-06-25",
+  "status": "ok",
+  "query": "\"Jonathon Simmons\" (draft OR scouting OR prospect OR basketball) after:2014-07-01 before:2015-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Jonathon+Simmons%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2014-07-01+before%3A2015-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Free agents: 2016 and 2017 - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xN2xQLXZXNm5vRVJ6cGVBNlc1T2tVYXY3Yl9ubkFhY1JkYURPY01aNmFJSzE1QnMwZDV4dVdnY0NQM1Jyejk0SXp2VGZaeTItZE5KOGdOX3dnM1NtVndSZ2ZfczVnMXEzR2o5MkFBeDRpS1FnUUZJQ3ZB?oc=5",
+      "published_date": "2015-02-10",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "ab2b5390c4d227aa4ef67a210504af4d32a1b518b9935026d23ccdad0e1def51",
+  "feature_eligible": false
+}

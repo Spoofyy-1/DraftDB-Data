@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:25:20.009157+00:00",
+  "lane": "news",
+  "pid": "Pa9d4084dfb",
+  "draft_year": 2013,
+  "name": "Raul Neto",
+  "draft_date": "2013-06-27",
+  "status": "ok",
+  "query": "\"Raul Neto\" (draft OR scouting OR prospect OR basketball) after:2012-07-01 before:2013-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Raul+Neto%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2012-07-01+before%3A2013-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Who is Giannis Antetokounmpo? - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MdHNjNEh3cGZkeUtFR29tc1UzdXNBWDluSkYxM1VoY3hmSEh4M01Rai01VjNzc2ZJU2pFR1RzY1VrQWJCZzl0SV9ncXB5Vnk0SXAwQld0MHV1X1RnQnlpWnVwRlpvak0?oc=5",
+      "published_date": "2013-06-12",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "40aa8a72823c059358cb1d256b2c99e5a1e1cff1b5683ea2487965df6e48e371",
+  "feature_eligible": false
+}

@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:25:22.884898+00:00",
+  "lane": "reports",
+  "pid": "P5e4e4a8cf1",
+  "draft_year": 2009,
+  "name": "DeJuan Blair",
+  "draft_date": "2009-06-25",
+  "status": "ok",
+  "query": "\"DeJuan Blair\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2008-07-01 before:2009-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22DeJuan+Blair%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2008-07-01+before%3A2009-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2009 NBA Mock Draft \u2013 UPDATED 6/23 - Clipperholics",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CR296NVJJdzFLMHg3VUpjMW1zXzRDQkpqcmdSRGt4OWJMTEJmU2FDN3NreE9qYjh0YjRBNTg4Vk1sTUFNb3h1cTNDRGltUkdMaWxGeFowdnFMaGtBRGdBVXFHaVdkWFNm?oc=5",
+      "published_date": "2009-06-18",
+      "source": "Clipperholics",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Ford: Nets May Give Hansbrough \u201cCloser Look\u201d - NetsDaily",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41alVjV3JuSk0zRU1KbGNEUHFMUUliRjYzeEJ2WFpsWnhIQllHaFZqMVV1cG8zRDlSM0F4UnByT0t1Y3JuRWphelc4c003NXJOTElyTm5qQ3VReDI1QXhPRlNGZTQ4d2FhdC1FZzh1N0NnRS1lT24wVS1TWTU?oc=5",
+      "published_date": "2009-06-04",
+      "source": "NetsDaily",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "bfa25c1c4f95641517a65c8d9af2155ccde407a31fefa6f4f567c63871335a04",
+  "feature_eligible": false
+}

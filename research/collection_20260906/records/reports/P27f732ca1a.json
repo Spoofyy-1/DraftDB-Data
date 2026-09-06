@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:46:16.265112+00:00",
+  "lane": "reports",
+  "pid": "P27f732ca1a",
+  "draft_year": 2006,
+  "name": "LaMarcus Aldridge",
+  "draft_date": "2006-06-28",
+  "status": "ok",
+  "query": "\"LaMarcus Aldridge\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22LaMarcus+Aldridge%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Glen Davis NBA Draft Scouting Report - draftexpress.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRkJ3SnIyVFJ0NTh3bnBLOU9zTWxrWi1LNFJkZjB1dDBTMW9rYS10WUN5Umd6UFNhWVI0QVZjLUZmWmYxQ2xMVjhhOVFqQ25YMGIwdkt0aVhtaTJRTFFLUkR3TEJSMHlxb2RINzVVNjhmNXBVSllEUVRyT2czY0RoMTlNOVTSAYoBQVVfeXFMTU9CS1IyMVFIWWJiaC10czhSZTJpbmNlT01WNXpsbDIzVXkyQnhDMVpEdnZQcV9VSWNZSVpqRTB2ZnVaRkVjbEx6RVhqQmxydE85bzRKUmxyOTVfUm1oUzRhOGVxQndpRjlsUWRidVd0dDdGa1hSVktCOUZIS2FMVTJKOW5mOFJyRk9n?oc=5",
+      "published_date": "2006-03-29",
+      "source": "draftexpress.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "e1b3b8a397308c0ad5cc4871e341e17fdf42a92241eebde5febdebbb03727c52",
+  "feature_eligible": false
+}

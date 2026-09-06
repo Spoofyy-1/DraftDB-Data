@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:23:10.577552+00:00",
+  "lane": "news",
+  "pid": "P45450124ed",
+  "draft_year": 2013,
+  "name": "Ian Clark",
+  "draft_date": "2013-06-27",
+  "status": "ok",
+  "query": "\"Ian Clark\" (draft OR scouting OR prospect OR basketball) after:2012-07-01 before:2013-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Ian+Clark%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2012-07-01+before%3A2013-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "The NBA draft's forgotten shooter: Belmont's Ian Clark - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IZ2JnT3lpc2lZc1B1M3JqZ1FVME1lMmlNb2xTekNoSk0yb3Yzb3hBX1J0VU1kYk1FRXpOYzlHMUdnVE5HWGJKZVFTNjloUzlLd0ZMZWwtX1lYWnVMaXQyTWhfMA?oc=5",
+      "published_date": "2013-06-26",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Known for 3-Point Prowess, Underdog Expands Its Attack (Published 2013) - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNTE1TUdPeDFlQmJzOW9Ma25ISkx0eEtTVFZRWjRsLUUyUU9RMFlEdm5QZkwteHNkRExTaWNJeTVPcVgybzV4c3dmZ0FzTFg4VjFCMHhDbzdxR3lNRU5yeXdOSndjQks1TmVUYzFGYU5OMG15bG0wWU1YNzd1MjNJaDlFQ2ZiaVdTU0dfTkdBVDQtU3VVeF9VSWVfTHRrRWxYSVo3NUJwTUdGbjZfMGFSRWZFUVdQZUVWV3c?oc=5",
+      "published_date": "2013-03-20",
+      "source": "The New York Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "OVC Preview: Murray State, Belmont poised to continue league\u2019s recent success - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNci00TGtQeExnRjhTZm5qMnk0MU1TWURrQ3B6RmNMOE9wclMtMW52bW0tZHJCeDJ1Z1lsS0MxUE02bWFDQnpPcDh6VmJPbllkYW93cmJMU1JhTC16X2hocVliTVJGYWhfTV9kLUlEOTB1dkRFUkFtd3l2THdwUHhmYlhTTy1fRjBFTHNFU1Azc2xhTTh5UXFOYUV1bWNTTk5LMGdIcEtfNGVjTndxTnRiLWhEY1ZYS0tMZjhYdnhCLWc0NUU?oc=5",
+      "published_date": "2012-10-10",
+      "source": "Yahoo Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Canadian Kelly Olynyk helps Gonzaga survive upset scare: NCAA tournament - cbc.ca",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS04zaEdxSk1fSDdyVzBJZ1lzVXAyb244eUZxYmZwSUl6ZWVZU2o4QlFYV09nYzREMHcwLXIxVVItTWljaHk2SWZsSHhzamIwWG1OTENyNDVONzF5M3BqU000cEpkTm94Z0l1TzN1dVN2eHNDaG8yVldrMGJBNVhrVFlEdVA3cU0xSEdZQW9XTllIT1Z1M0t1Z3gzbXJISTcxdlFCUjJDTWowQldDelNuVndIQjdzNjN0YllXSWZZZw?oc=5",
+      "published_date": "2013-03-22",
+      "source": "cbc.ca",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "3b2e7cedb9b9820370cc4062131214f5c59b90d03c074f00d8bf09a84dddfdde",
+  "feature_eligible": false
+}

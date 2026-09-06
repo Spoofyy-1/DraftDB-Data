@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:34:12.389725+00:00",
+  "lane": "reports",
+  "pid": "P629d2ef8de",
+  "draft_year": 2011,
+  "name": "Jordan Williams",
+  "draft_date": "2011-06-23",
+  "status": "ok",
+  "query": "\"Jordan Williams\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Jordan+Williams%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft 2011: Jordan Williams and 10 Best Prospects for the San Antonio Spurs - bleacherreport.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVGYzdEhYQ0IzTHF2a3pPbkxzV3J0cmh1ZVNCQVpHc3pmMEtkSDBHT2poZ2FvVndKRDhBbEZSUENPeHRUa0hGTUtFWE41QkRCNFE5VHc3LTNCYXVqNkJSOU1FTFhuNVIxWWhvTFI3N19CYTBMYVZMa2RaSUtMRlJXYjhtcnVvMElBbWNWVDBsNkdQbm52b0dQT1lBcTEwcDNoU01jcTdKdUlzT00zQWhlTzhwV3JyLU44bmtqOExB?oc=5",
+      "published_date": "2011-06-20",
+      "source": "bleacherreport.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2011 NBA Mock Draft: Predicting Entire 1st-Round, Where's Kemba Walker Headed? - bleacherreport.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWHZ6c0VEUHJIVEhHdjBMd3QtTW5fNFNNNk51S05VSVJTbXdOQ1I5UUlTbVpZeFBjanJpd2psVnlBZjcxTGxad2VheFFtN0Q2M29faVNVOHJ6YkhWTmo3dlQyZ2ppc3otUWdJVUlfS1VFREo5UHN3aU11ai1yRzlyNW9xYllhZGV5djc2LVVFZTlhSE5EdWxNcVl4S1N4TjhxbzhOX1FVay1XRFlMUWRVVERESnRlYnZt?oc=5",
+      "published_date": "2011-05-26",
+      "source": "bleacherreport.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft 2011: The Top 60 Prospects on the Big Board - bleacherreport.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUG9RYXE2NEpmUElER0I3NHo2ajhfTWpuUmxuV3RNUEVqamM0elZpZnd4V2JLam9DeDJsSTM1M08yakNqNzczdm1wMXllbkttQ1BxaEtfTjVUaE1TV21jcHZnOFliZnJydTMydzBGVUVPZTBtX01NMzFUQ3NNMFQ3WFBXNFhaWTVrVUkzWGtiYWJKeWEzVjIxRWZGUQ?oc=5",
+      "published_date": "2011-06-19",
+      "source": "bleacherreport.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "81470a9e8de4bb1aa08aea85a575133523a0eee2017faf6211f0e6ec4abc5e3f",
+  "feature_eligible": false
+}

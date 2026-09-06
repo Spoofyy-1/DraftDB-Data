@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:49:50.446244+00:00",
+  "lane": "reports",
+  "pid": "P0029c9d3a9",
+  "draft_year": 2015,
+  "name": "Duje Dukan",
+  "draft_date": "2015-06-25",
+  "status": "ok",
+  "query": "\"Duje Dukan\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2014-07-01 before:2015-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Duje+Dukan%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2014-07-01+before%3A2015-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Know your Badgers: Senior forward Duje Dukan - The Capital Times",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc0I4VnZlR2pmTW82NFZKdDF4cEpNSmpTbjc5a1JfT2YtVFZ0YVUwNmJPTjlhRTgzTTIwTXJLZjZ6OVo5OVBCZGstZWExODBUb2RsTEhpNUhnU0U4TDVncnRvejRkNUtKVFdteEJSMzU2Wl9HekFzLVZKeE9fTTFUMTd2ZVRZZzY5TElWR2tOM1F1YWxYNE96M1B6dlVleGloWUdDTnpTT2d5cmh0Qk9UUUNCRzI?oc=5",
+      "published_date": "2014-11-09",
+      "source": "The Capital Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "ad391af9f3813abc4267fc6806fc29ed2a75b6fc0c697697398629f38b11da76",
+  "feature_eligible": false
+}

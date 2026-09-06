@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:29:06.838604+00:00",
+  "lane": "news",
+  "pid": "P88b9812a96",
+  "draft_year": 2014,
+  "name": "Drew Gordon",
+  "draft_date": "2014-06-26",
+  "status": "ok",
+  "query": "\"Drew Gordon\" (draft OR scouting OR prospect OR basketball) after:2013-07-01 before:2014-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Drew+Gordon%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2013-07-01+before%3A2014-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Arizona's Aaron Gordon learns lessons from brother's NBA draft nightmare - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMi1BSXR2cGlqazRJWTQ3aW82R21JYV9zbkhtTFJQVUFwTDNYVDFOOEtWSWlGVFdqaG1FOUtVcGR3bXcybVBZMTFUUkl4V1BfUkt1UGg5bTZwR2ZsdThDeFRPclluYXNlUHpybTdHUjJLbWNiY2xNRk1aN1JMTHAwSmlWUmtIeWlqMjNrcm5SMUFNVzlXNFUxSWhwV0QtTmt4QUlwTDdOdEQ5N0Vsb0VZUmFfak80NzA?oc=5",
+      "published_date": "2014-06-22",
+      "source": "Yahoo Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "The Case For Tanking: Aaron Gordon - Liberty Ballers",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTUFGN0pHeEZyNEpuWC0tS2dZSG9Lajl2cW1Jc2lFY2JLeFJXbzNDdENaWWJaOGRETDNmbHBIdkRkLXk4azRxYkMtUzRZLUhPTjFYN3F3SFRwOGFDQm5zUjNuT2ZBdHVxQ0h1QnBqNDM0ay1uWnVERlA0YTY4ZlBzYkhaUVF0ZUdmRHRnT3dIYzhaalJqa3BhRWJiY0NiakMzZV9SVUVWM2xmN3hoZi0wOTc2MmJXOWFn?oc=5",
+      "published_date": "2013-08-06",
+      "source": "Liberty Ballers",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Josh Gordon faces suspension - ABC7 New York",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qWVpySjdEMllIa1FVX0Q1RUFCakgxWVF0UlBlcmdoVTVVdUVpSnRwdlR0WGJicEZsNk1yMTcxc0xyNnVjOHYxdEw5S3FDa2RVZTVMV29yLXREcm53anVvd2VKLUM0RWhMR3ZZ?oc=5",
+      "published_date": "2014-05-10",
+      "source": "ABC7 New York",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Aaron Gordon - NBADraft.net",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ReGcyN2NTODRDZk5HWmQ3VVp2RGI1aW9WTnRsRkZTREFnaXpjUHdEek5LYUtmc0xLUEhjYmF2MVJzenZSbXVlNE1aZW85by1qVHpxTk1GNjJodw?oc=5",
+      "published_date": "2014-05-12",
+      "source": "NBADraft.net",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "94ab6d96d5ab75e4e0022f8640429a600203f884990e2e6dbc8751dac36d3cde",
+  "feature_eligible": false
+}

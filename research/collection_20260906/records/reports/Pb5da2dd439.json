@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:35:28.154845+00:00",
+  "lane": "reports",
+  "pid": "Pb5da2dd439",
+  "draft_year": 2011,
+  "name": "Jonas Valanciunas",
+  "draft_date": "2011-06-23",
+  "status": "ok",
+  "query": "\"Jonas Valanciunas\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Jonas+Valanciunas%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2011 NBA Draft: Could Enes Kanter or Jonas Valanciunas Go No. 1 Overall? - bleacherreport.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZVp6N1dVbTVOd1NBeVJlbXo4UlZGYjRkQmNzcS13SGFpd1Q3el84dmw2X2dzcUhvYjhjR1RleXIwRERJZmZHdDJoNEVHMUtMbHlNM0hON2FyNjAwUkdESGQzTzgxa1ZzZTBXc1RVSHJMY1VnaFo2TVQ1ampZeVZOTTRodUVrdVdibVdXaW1JakwyRzBpaEpqdkI5dUZqdw?oc=5",
+      "published_date": "2011-05-29",
+      "source": "bleacherreport.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Is Jonas Valanciunas worth waiting for? - Yahoo Sports Canada",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeGc1T091OEFUWUZUeGNTekEzQVpzRGdXODg5V0x4dW0xa2E5eFdfdGdIaXhmenB3MEZpaEV4RjdNTmJyNmFnOTlINHRLX0F5V3FiZGp5YUNvLWkyb3RTWldoT3pPVTV4c1lrZDBXd2RraTVZckFDQ1dVckhXQ2dqTEFQU19uaU1jc1l2TGJvZWxfY1lERHBHWTBBeHoyWm8?oc=5",
+      "published_date": "2011-06-21",
+      "source": "Yahoo Sports Canada",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 2,
+  "response_sha256": "cf7e898092f9dcb736f55f497cb7abb7da66987da59b5ffc4bb2cd3106aaefa4",
+  "feature_eligible": false
+}

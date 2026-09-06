@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:34:51.945129+00:00",
+  "lane": "reports",
+  "pid": "P96af95e7fd",
+  "draft_year": 2011,
+  "name": "Jon Leuer",
+  "draft_date": "2011-06-23",
+  "status": "ok",
+  "query": "\"Jon Leuer\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Jon+Leuer%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "UW's Leuer about to live the dream - archive.jsonline.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sbUNWMjRwYldHNXoxY3Z0THdBeEgyd0hNNXo2X3dEMjN6QVlzSjZOVTRmdDd1LTJ5RmxOQjd5em01ajlDNE1XWmVsSmxzQm9CbzRFMEFqLVZGSnlPOHJ4dElUTjlGYnBWc2c?oc=5",
+      "published_date": "2011-06-11",
+      "source": "archive.jsonline.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "2a3ec53e4a7e1a73ffb9569473c24994112e82f794ac92201ebe7fb95d1877bb",
+  "feature_eligible": false
+}

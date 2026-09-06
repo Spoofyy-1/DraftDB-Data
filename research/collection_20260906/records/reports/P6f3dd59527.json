@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:47:27.652066+00:00",
+  "lane": "reports",
+  "pid": "P6f3dd59527",
+  "draft_year": 2006,
+  "name": "Jordan Farmar",
+  "draft_date": "2006-06-28",
+  "status": "ok",
+  "query": "\"Jordan Farmar\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Jordan+Farmar%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Farmar, Afflalo will test NBA draft status - Orange County Register",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRmxmQlVVNE1ub0ctOGFoN1BROVkzcEFiZmhISlh3MEtEVFB1NkFsaEVwUDVDU05XeGprS1lmWjVPb2RVQnVFZnZFRlprSElpc1FzSThrMXJHZEUtRy1KWUt3RzFnM3VXSVlTeEI4LVZBYk9MQkk0SkRLTDlnanl4QVZoaVgzLWc?oc=5",
+      "published_date": "2006-04-21",
+      "source": "Orange County Register",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "2f2f90a0225a696a87c2e21b222d84b0f8971b4b7d64a6bc64bc5caf1d8266eb",
+  "feature_eligible": false
+}

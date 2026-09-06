@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:26:27.850218+00:00",
+  "lane": "reports",
+  "pid": "Pab257f8a15",
+  "draft_year": 2009,
+  "name": "Jrue Holiday",
+  "draft_date": "2009-06-25",
+  "status": "ok",
+  "query": "\"Jrue Holiday\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2008-07-01 before:2009-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Jrue+Holiday%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2008-07-01+before%3A2009-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2009 NBA Mock Draft \u2013 UPDATED 6/23 - Clipperholics",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CR296NVJJdzFLMHg3VUpjMW1zXzRDQkpqcmdSRGt4OWJMTEJmU2FDN3NreE9qYjh0YjRBNTg4Vk1sTUFNb3h1cTNDRGltUkdMaWxGeFowdnFMaGtBRGdBVXFHaVdkWFNm?oc=5",
+      "published_date": "2009-06-18",
+      "source": "Clipperholics",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "26a12c3911ab4c041ac65a20d879f84adb111a3d66c76a0576c6b2c31a79d5eb",
+  "feature_eligible": false
+}

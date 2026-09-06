@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:47:01.527729+00:00",
+  "lane": "news",
+  "pid": "Pa4877bedac",
+  "draft_year": 2017,
+  "name": "Sasha Vezenkov",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Sasha Vezenkov\" (draft OR scouting OR prospect OR basketball) after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Sasha+Vezenkov%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "\u201cI know that Barcelona wants me and that there\u2019s a role for me\u201d - Eurohoops",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeWkwTmM1bzJla2V2NEY0NlFOY1k3SXRNb1VSRnFjXzBQVjhLdUFZMUZiSEUxSndjcEprbXg1TzNJbWsxMFVzajNOUzBkcEUxVmw0cVpFeEpBM0g1aV9zUTl4aXpGV2U0VUZvR2lkU1lBT05jcWpBRTRhQlp6Umh4T1plYlRINkE0M1BEWE9wb1laQkFPamQ3dWZxNDhub2o0cHhHV2NpaEd1UQ?oc=5",
+      "published_date": "2016-08-04",
+      "source": "Eurohoops",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "a0146bab2a144176bd781e61995aa4aaefae031dddc95a6a6ecb6d335070bd4b",
+  "feature_eligible": false
+}

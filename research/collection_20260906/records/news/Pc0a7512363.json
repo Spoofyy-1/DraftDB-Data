@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:47:51.279168+00:00",
+  "lane": "news",
+  "pid": "Pc0a7512363",
+  "draft_year": 2017,
+  "name": "Erik McCree",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Erik McCree\" (draft OR scouting OR prospect OR basketball) after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Erik+McCree%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "La. Tech men's basketball team lifts weights before season opens - The News-Star",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTEFBWUtsNHVXS2thRTNCZ2NqOVpOTXNRRlRJNTFsNEhMNFBSOW9uckI4T04tNWd5aGYyVjFHWkREVXVvUElXWVgyRnpfdkhZRU9nSE9fZHhYbkthbVVKX1NNX0JSVWZmTEN2WUJpcWN6UVgzX1BKR3MwNUtaczdoU0VvLXVpV3p3U181SDZRMENYSlVIRHBCV2tuUGFlNW4taURLbEZLX05DVi1JdXh3c0VpRm9qcUFsTXhWWkpYQXE2UVFYaFlPNzNQd0o?oc=5",
+      "published_date": "2016-11-09",
+      "source": "The News-Star",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "PHOTOS: MTSU's Reggie Upshaw through the years - The Daily News Journal",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMklsRm1Zc1hlSUwxUXpnM09fSTZLZ2xSbmJnVi1rRFZkT2ZHdlVSRlIwWVY2bWxpbFd6XzFkTE5MSDhyMGRiMHItakU2SENCbW85ZWZwVmRESk1IVl9vNGZPZ1l0NExIMWZEbmwzWVpiNzlqa2dKd3N2c09iUDgtZ3BodkFpMHJJQmRSOHd2aktmbDZQRFNjclU4SU9CblgyZS11ZzFyd3NUNnhSWF8tOXhlbk5UUjV2QTNXc3dB?oc=5",
+      "published_date": "2017-03-03",
+      "source": "The Daily News Journal",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "VIDEO: McCree at a loss for words after rare home loss - The News-Star",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdU9hY0lPSlpzSl9ndTBISmJiNUdPUWdrRTBhRzN6bGVBN0pxZ0xlVlY5a0ZjNjdnT2o5SmlianFBaFJDbTdiYmNpUlVLOTc1T2xobVRXMmowSDVsNTY0WlJiR250LUV2WlV2M2s2QkNKMVcwUVAwbnRNRzdwdzIwVXhVNUozbEQ3MTU4VUlORDY4SFl6TVFiV0xhaWVWdjkzRDlwTUxyUzFNalhIMXR2ZlMyb3BoVGlfZ0RsSlljTHQtNEZjTzlKdkVVTQ?oc=5",
+      "published_date": "2016-12-21",
+      "source": "The News-Star",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "d212e4281e88e5bb95b3188a451d187652fc8592ce01afb24f677b26d52892d3",
+  "feature_eligible": false
+}

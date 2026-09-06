@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:42:47.132620+00:00",
+  "lane": "news",
+  "pid": "P122cdb8b56",
+  "draft_year": 2017,
+  "name": "C.J. Williams",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"C.J. Williams\" (draft OR scouting OR prospect OR basketball) after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22C.J.+Williams%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Nash, Turner lead Royals to victory - The Progress Index",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRHUtV0lqZERhNnVmR19PbEhHS0piX0ZrRG1sLU42bU1oVlhDWDBWZWNFUklQaEppaGdzaUNUbjZJb0MtaHp5eFdIbGVxSVJRaDRlNjVUZ3RfeFNXdzBla2ZzTHpLR0J0NDRVTlE2bF9yR0ItR0FNb2VfQ2NPZk53dWlVc1BFSmhfMGxuMjhhM1dNSVdGalBiUTNoTndvMXI5T1NmWGlPNTFBUnFUbXRFWnJLMkR4S25J?oc=5",
+      "published_date": "2016-11-29",
+      "source": "The Progress Index",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Auburn Tigers Men's College Basketball Roster - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWVVSDdSTUdLTDM5TkpBY1hPNGMtZ21SRW4xeDZKNElRckF5azRtNTlsdXdLUWVhVVM1ckNyUEszSEM0UnN1dEZmQzhCS3BrYzlISmNkNUVKRUxKN1UxWjM2Z2djeUxMblpiR2FpSVRFMzdKeFVVcldyY0I0Qi1NNlRiNA?oc=5",
+      "published_date": "2016-12-18",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "DeMarcus Cousins\u2019 brother among five waived by Mavericks - Sportsnet.ca",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR2F6dzBqTUNTc1N5bzVqOTVHaE93MXp0Z1lzT3NuVUN4cXBONEpUazZLOGVvSFBfbjhNY3dDa3JzS2pjb0xHbXJCVkZwUFpJVU0xeXdNRmtHMUstd0FxaTJKR0tVdl82MFR4cDJJYzN3RV9BZmU1QUFSZDlsU21pUEJ5VkdnNlFxZlNJUTBWRngwRDdEWV95StIBogFBVV95cUxQcEtvUldaMmdOaFg0Sm5qMWp0dTVobGZ2ajVEbFFzWFhEaktWcFNxbHdaY0haRjFtQ01XUXhnMnhXRW1nendjMW1GUEh3TnJEcXcxVElJRlNkVmhvUHBpZ2ZHM2FmdldaMlRIbFRsX1JCYmFDeHRrTmRzSFJkVmM1WFM2SnkySzgxSXRZQ1VPcVBSM2JRVi1acUlJTG9kRndlZEE?oc=5",
+      "published_date": "2016-10-22",
+      "source": "Sportsnet.ca",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA transactions: All the moves of the 2016-17 season - HoopsHype",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeDhGUXpIOXlabWdVZXIzM1JIZ1FHWWFRWUVyWjEwZVp6Tkcwa2k2S0pGalVYcWZUSzY0WmFnMGZmZHN1aHdoSXYyU0NzUWFHZUIxRUc2N2Z1a1B4cGlpYzR5VFNYOHpwMDlqMDRjQ3NZOXY5c01xWGR6aVV6R3FiUXUtcE1rTW9uRll1Nk9zaVo4NDJDaVp2bjIzQ2ZUUy1iU183dHhDQnp4NWFjUHZmMWFRTnhkZHNRSXdF?oc=5",
+      "published_date": "2016-07-03",
+      "source": "HoopsHype",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "bd9524e0fd0e46ba56e14b6f62e7482e5cfae2b0bca302e948020c826543bb6e",
+  "feature_eligible": false
+}

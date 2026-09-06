@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:23:51.686975+00:00",
+  "lane": "reports",
+  "pid": "P146ec7320a",
+  "draft_year": 2009,
+  "name": "Blake Griffin",
+  "draft_date": "2009-06-25",
+  "status": "ok",
+  "query": "\"Blake Griffin\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2008-07-01 before:2009-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Blake+Griffin%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2008-07-01+before%3A2009-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Scouting Report: Blake Griffin - Burnt Orange Nation",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVjU4UGNUNzE0UHFOTVpiTGZWbVhkWkhweGZ4aHJmal9PSFJ3UmRlckZjVnZiNG9LQlpLQ2FEZWNSckNWUTAzWWFWLXNLNUVDdDFZcTZJRHpud3RfME1nNURwQjlDN3BVUmk4NVhENGJ0UjNNTkVpQWdRb2NaMEs0dG9IYw?oc=5",
+      "published_date": "2008-12-01",
+      "source": "Burnt Orange Nation",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2009 NBA Mock Draft \u2013 UPDATED 6/23 - Clipperholics",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CR296NVJJdzFLMHg3VUpjMW1zXzRDQkpqcmdSRGt4OWJMTEJmU2FDN3NreE9qYjh0YjRBNTg4Vk1sTUFNb3h1cTNDRGltUkdMaWxGeFowdnFMaGtBRGdBVXFHaVdkWFNm?oc=5",
+      "published_date": "2009-06-18",
+      "source": "Clipperholics",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "OU men's basketball: Blake Griffin made right decision - The Oklahoman",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeWVnQ1JNUXBHTlNRWDN0cENHa1lleVk1T1ZvdWxUY3FBcy1OSkxpNHdiUUNNT2VEdFl3WE5OSjgzZUZqNVN6RHlEVGpyeGdJV09HNmJXb0w3dVNwdVFXdXIxV2R0M19veHR4S0RXbW9lTzBTRW1MREdjek9LblpXMHFUMzBQT1FWTmd4OUZiWHZNaTA1VzVvUXFRNThoMGR2X21aX05vbnE5Ymd5c0txQmM4cm5udF9PMTNwR1lIenp3S29uNFRRN2RGVQ?oc=5",
+      "published_date": "2009-01-17",
+      "source": "The Oklahoman",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "dd423687d88a2c919124b2d99a196a3f6bba9701845bdf5b1ee3daafd3497cd9",
+  "feature_eligible": false
+}

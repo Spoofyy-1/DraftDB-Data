@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:44:11.242569+00:00",
+  "lane": "news",
+  "pid": "P3fe5b0aa24",
+  "draft_year": 2017,
+  "name": "Omari Johnson",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Omari Johnson\" (draft OR scouting OR prospect OR basketball) after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Omari+Johnson%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Abbott Tech basketball stars set to shine in college - News-Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcUFYaWxTd0hFMVoyZWZPcDQ0aURKbWlUMEpKV3lKLUhKWDN1Nms4emxiTTBJY3MyYzh1NF8yQVZKUk1VTHFmVUNXNXJHYVlFOGhEOG0zUjNkMjA2ZS1zQWRPSXRxalBqemFYcWNsTWxwVUpvYTY3czRFbXRteWI0MWRidUl2aUxZM1AtM3BaNDBpN3FoQk9xOTlOeXJsQQ?oc=5",
+      "published_date": "2016-10-07",
+      "source": "News-Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "861cc40d30aea1e363ff42f72e7e29d8286c7012b271929fa11fca1cb8b3db37",
+  "feature_eligible": false
+}

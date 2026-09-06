@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:43:54.715062+00:00",
+  "lane": "news",
+  "pid": "P334022cd7d",
+  "draft_year": 2017,
+  "name": "Ted Kapita",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Ted Kapita\" (draft OR scouting OR prospect OR basketball) after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Ted+Kapita%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NC State\u2019s Ted Kapita expected to sign with agent - Raleigh News & Observer",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNUpjWTNJeGliU0ZVNWhSQXU5ZEZBQzYyUEF2T2hwS204a05GSW41R0cxOVlOejdQN05qT1ZWZGtJNC1FdWFtM1dMR3dJSnNWVllLNHlUUkN0VDNad3A2clNNOGxWc2UyZi1PWWdqYzBWTVlUODNGY01pVVVoRk5wVTBtTGg0bFk3UDFzeDZpWlbSAZIBQVVfeXFMT25XRzlvN2hvVEg3ZlRISGd5VDJ6UWkwMHJuWWJNY1FtWE1qVkV1TW14M1JHOXVsVGJBeUdFN2lzN0ZTbHhKYnJ1TDZCU090VHctN2YxaG5MQTBUdzFKQjBrS2F4dHgzM25MSm96cHVJMFVkbUZZUGJTOHkwWVhqWm9OYVJnVWJfdzFDdVQxRUotMkE?oc=5",
+      "published_date": "2017-05-18",
+      "source": "Raleigh News & Observer",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Kapita Certified as Eligible by NCAA - gopack.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWkdUMzJSN3RmMXNCNWNhY2xnZExBUTBLMXY5ZVRGVmNwa3ZYZktNOFpVaE1VdDNzNDZjekN1dmlGSjNNR2NUVFc5NDdQSmtvbUZXekVJRG9qbnd4b0kxQkx0OWxPSTY3RUFDVTVmaENLbS0tZlZkbTdFRXozREdfRzR1Vl9nSjd2cXFFUTBUY0U?oc=5",
+      "published_date": "2016-11-11",
+      "source": "gopack.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Dennis Smith Jr. making unbelievable the norm for NC State - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ1F1TGlwVkttOTVOMUIySVVMRVl6REhIU2FwMFpKbzl2amZ6SmRnNUpFOXEwWExFaW1DUy1KaUdpZWpPUEJ5a2xUUW5ZaC03Q0hEV0RHamdpUEJwbGQtYnMweHFMOExkNDNZQ0xOdllvbFRfczliY1lLbDMydVpHdS0zbjV6QndPdi1TZVBwVm83NUZvR204dFBsTkV0REd3eVdTem5TUXFOeWhuTENyckhoV25Lclo2a1lCMkVlU0Vsekk?oc=5",
+      "published_date": "2017-01-23",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NCSU basketball - fayobserver.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbkhNa0xIM0k5VlNGZ3Z3S1pqWDJ6V2xXbFNKTXBvQUdtNmNubWxsM0JxRldwYW5UQmxGa3Ixem1NWk1WbnNlYjZuQ04yWEhva1BsTGE3amxFcHJSWE1zQ2xhYW92X3Bpc1Z6YXppYVY4VExEaXNJbTZGcHNXNi05bHdReVc?oc=5",
+      "published_date": "2016-11-11",
+      "source": "fayobserver.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "d918de6af9641771365a8da198ed7a8a17c96c9cf22176ebedeaba44440719b9",
+  "feature_eligible": false
+}

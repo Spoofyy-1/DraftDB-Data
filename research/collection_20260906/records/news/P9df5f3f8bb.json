@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:29:40.253829+00:00",
+  "lane": "news",
+  "pid": "P9df5f3f8bb",
+  "draft_year": 2014,
+  "name": "JaMychal Green",
+  "draft_date": "2014-06-26",
+  "status": "ok",
+  "query": "\"JaMychal Green\" (draft OR scouting OR prospect OR basketball) after:2013-07-01 before:2014-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22JaMychal+Green%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2013-07-01+before%3A2014-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "JaMychal Green (PF) Stats, News, Rumors, Bio, Video - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNZTFQR3NMRnRRYmYxZ0ZtcVJMSGZOYm9oTHF4Qy1POGFCQ1N1WlpfZllTSWVTRHVyVFgwT2NlNE5EamNfMURxV0FjQmxfaFRXSnc3MQ?oc=5",
+      "published_date": "2014-04-08",
+      "source": "Yahoo Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "ed4da5499851e5f2f9442310ec1a6b4e1575b32acfc85c19ee24950af183e341",
+  "feature_eligible": false
+}

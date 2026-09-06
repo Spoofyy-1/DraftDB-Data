@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:30:23.528236+00:00",
+  "lane": "news",
+  "pid": "Pbac4f67696",
+  "draft_year": 2014,
+  "name": "Walter Tavares",
+  "draft_date": "2014-06-26",
+  "status": "ok",
+  "query": "\"Walter Tavares\" (draft OR scouting OR prospect OR basketball) after:2013-07-01 before:2014-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Walter+Tavares%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2013-07-01+before%3A2014-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "7-Foot-2 Walter Tavares is the Latest International Man of Mystery in the NBA Draft - Zagsblog",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaFJrYU9RdkNxdUhwbGpraVc3VjFCbFBuTTdMdXVVaEw0S0FVYkJVb05ibXRVWlpsblJJNE1XMzB1aC1BalY2UFYzM3B0c1c3RVJ4U19jSWlRV0lFRG1ZUFpqVlVMTTVnX1Z2WFR5UXBQQ2ZBZUkteEY4eGE3aHZ3R2hwXzg0eU54WlMzdzFHa3Q3WXJLNTViRHVBUV8zYnlTWHE2VHpqa0R6R1hBMWZNR3NKTDY1QmQ5WC1uYQ?oc=5",
+      "published_date": "2014-06-24",
+      "source": "Zagsblog",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft Facts - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yeXEzaFdxYW9INk00N1ZUaE0wZDJjNGc4MEw1dGQ3OUs0Sy10QXU3OUEyS0MxdnJMaFNWUXhyay1SYmZNcUZVOHVlaXFNS1FBeHVnWHpVTnFrQUtEZ2JuWWpEM1pZOEtSQW5fejJCaw?oc=5",
+      "published_date": "2014-05-28",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "df226089c08640c67fa2917cafe377e5201a6bc23939f63f9fd447d72eaf6d91",
+  "feature_eligible": false
+}

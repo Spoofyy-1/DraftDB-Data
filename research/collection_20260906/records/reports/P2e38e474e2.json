@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:20:25.754223+00:00",
+  "lane": "reports",
+  "pid": "P2e38e474e2",
+  "draft_year": 2008,
+  "name": "Joe Alexander",
+  "draft_date": "2008-06-26",
+  "status": "ok",
+  "query": "\"Joe Alexander\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2007-07-01 before:2008-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Joe+Alexander%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2007-07-01+before%3A2008-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Rip City\u2019s 2008 NBA Ultimate Mock Draft - ripcityproject.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM1JSS2dtUll1UUlCaGpyY2JlaENSY2hqVkNqYWJJM3Z3bDlOVTExbkE2Z2F3LTZFNjV2czNrRGZTTnZXSGRadUJZaUp1S1l5OFppXzJacHdhaE5oTGZHVjgzZjFvNUFHZXF1dFJvZWNiT1JXY1pBZk9MMmlUOUo3UXdFMA?oc=5",
+      "published_date": "2008-06-22",
+      "source": "ripcityproject.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "a33f17c0d92fbe1b58f0f6999ea8ee9a8a3f8c02199a0f019898b9a397fac1f4",
+  "feature_eligible": false
+}

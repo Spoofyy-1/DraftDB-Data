@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:40:56.729325+00:00",
+  "lane": "news",
+  "pid": "Pcf60b82b9d",
+  "draft_year": 2016,
+  "name": "Paul Zipser",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Paul Zipser\" (draft OR scouting OR prospect OR basketball) after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Paul+Zipser%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "76ers Musings: Stop Overreacting To Ben Simmons Not Working Out - Philadelphia Magazine",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fQUNUY3pqVTAtc2U2d3VzeVNJZTNRX1k4d3AtWGs5YmI2Z2hPbkRNd0RKQWpCejdGLWJKcmtrQmNDbkRHaW5Wbnp3RUh1cUFtcjM4VDgzWVN2NEc3RG9MQnY5TDFaNTJRV3cyTnZ2Um00ZG9KZUlxWA?oc=5",
+      "published_date": "2016-06-16",
+      "source": "Philadelphia Magazine",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Nowitzki headlines Germany roster for EuroBasket 2015 - fiba.basketball",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTWFCcjdOenBtVDhoY2VVNFhPcWthZzJKX1J1d0NfVWtwNm1DZm1STjlWWUpKN0tTcEYyQnE4Ukh2OUJlMS0wTUU0ekVCeTN4ckpBTW96Q2lPZlByOTFzZDRpdjl0ZEViR1RVTlVMVU41a0FOdm5aTlJVNVBhS2o0VFJKaE9OMEtPN0dGdFhKQm4zenc?oc=5",
+      "published_date": "2015-08-31",
+      "source": "fiba.basketball",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 4,
+  "response_sha256": "28dd62d0379a563f34771623a9656fdbd55d87952bee6fe90403862038fb2d86",
+  "feature_eligible": false
+}

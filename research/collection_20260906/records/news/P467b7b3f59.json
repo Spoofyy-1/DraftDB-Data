@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T10:23:17.211803+00:00",
+  "lane": "news",
+  "pid": "P467b7b3f59",
+  "draft_year": 2013,
+  "name": "Carrick Felix",
+  "draft_date": "2013-06-27",
+  "status": "ok",
+  "query": "\"Carrick Felix\" (draft OR scouting OR prospect OR basketball) after:2012-07-01 before:2013-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Carrick+Felix%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2012-07-01+before%3A2013-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA legend Bill Walton visits basketball team - The State Press",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeXpwbVNGOF9wb3pkcDhCV0JELS1EYm11Rnp3Qko3SHV5TDFFWXdlVkJVQTVWYm04UE1sclBBNTZBMklIWWFoOUpDTWFHVmc1V0N0VjRqSTQ0ZFlnSENOQlZ3TE5wNXZZTWEwQUg0M0xuNlRnc29SUnZWa1VSdlYybHdRN0tjWjhNNWpMSFoyTS0zUQ?oc=5",
+      "published_date": "2013-02-05",
+      "source": "The State Press",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Baylor 89-86 Arizona State (Mar 22, 2013) Final Score - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNG1HTlZCX2FtOUVySkxTT2s3NjlzV0NuLU5MN29YRmwzYmZvU2NNNEVRcldkVlJzV2JTSUtOSzlZbFRBTXptbWhYTG1MTkJWeGlzYXItWnRqRE0yWlBtSHBrOU9fRkF1dkkzMUdBd1pXRkxUVmtYcVJnRTU5SkpYLWlvdUdOcC1EOFltOU5TYw?oc=5",
+      "published_date": "2013-03-22",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Journey nearing end for WSU\u2019s Motum - The Spokesman-Review",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWXhqQmxGMFFxWkJTb2tfdWlRVXVuLTc3cnpnOHZqajBHRGIyNFU3NDdkQ2IwQXhPQ1VHaDNQUkVVaU9fLVdmSllQYk40OW5RZkxlYzdIQkZ2LTZxeEg0SzlBV0liOTd1MkdsQjZuMnZmclRwWlhuOF95ckQ1Y1FjSjUxeHhNN1hq?oc=5",
+      "published_date": "2013-03-09",
+      "source": "The Spokesman-Review",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Men\u2019s basketball: CU Buffs Roberson, Dinwiddie named All-Pac-12, first team - Daily Camera",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTHVhNDkxRGlrQ2ZfNDgycFJMUG5uSm5pbkJOcmZPeUZjb3FBamtZWFRGQXFjVmx3VFA3MjB0WVNsYWZQdjNBdzA3UXZLZkxDV2p6U2RVUklCcjc3UVQ2SUNzd2RNcHYtMTZkRUxWTzQ1VVdPOGNrUmF4Z1RTRko4bEZlbEpWVjVFMDFPWHRB?oc=5",
+      "published_date": "2013-03-11",
+      "source": "Daily Camera",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft Combine: Which players had the worst Wingspan to Height Ratio -- The Alligator Arm Index - SLC Dunk",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRUh2czVzdURSVzBaVzYzUGpxNHo2c1hjYWR5Q2VBMnlPa0RyMnYxaFlFYUFsOVN6R3BRWEJSaEg4RkJvNE15NTZ3UlFDcXM0VHE1LW93d2tZRWFUeVpoOEgtdFpIMmhPYWRhNGsyOUctSUs5cFFkTmthb0xKbHBkUExSdnNrOVFpRkROOHpBRmNLVGRDT2lDc1BSSGlDWExaQVhTQURSbFBaUQ?oc=5",
+      "published_date": "2013-05-17",
+      "source": "SLC Dunk",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "ab63f3046fefc88ebb61295a8c83ed594056361937871a29116bdf0e135238ea",
+  "feature_eligible": false
+}

@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:30:23.007378+00:00",
+  "lane": "reports",
+  "pid": "Pb3be83363c",
+  "draft_year": 2010,
+  "name": "DeMarcus Cousins",
+  "draft_date": "2010-06-24",
+  "status": "ok",
+  "query": "\"DeMarcus Cousins\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2009-07-01 before:2010-06-24",
+  "query_url": "https://news.google.com/rss/search?q=%22DeMarcus+Cousins%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2009-07-01+before%3A2010-06-24&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Draft 2010 | DeMarcus Cousins - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iYTJINWliYlFGcm5TM1R2WXdqU1p2UE5sVWQ0bkNFdGJPclpHbUNMbUQxbUJKb0U0WEhnT2VFdW5UZW5rcDZQaU5wLUdtY0NOdW9Bc3RkX2EyRm5BRkpEdVhTVG93YUR0WTR6SnZCOTNwd1d4?oc=5",
+      "published_date": "2010-05-18",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2010 NBA Draft Guide: Mock Draft and Prospect Rankings - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSGJ3U1JtVWxpOGVaYnJDOVl5bmdhNkNDdkF1bmh3eklENGlLNDJCNGJjaEtCX0Nzb3RtZXFfRkQtVDBPRU16WGhrbTExbDFDMlNfeUsyR1BUVmlobFZ5ajZfaWUzREpRc3JkcHJuWnlxcmd4NFdpMXhPTmRweUZDQlZhNWlldmcxUWJwaE1xbHFLdVVKV1RaNUFMWHI?oc=5",
+      "published_date": "2010-06-21",
+      "source": "Bleacher Report",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2010 NBA Mock Draft: Kentucky Wildcats Gone Wild - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNW03eEdtdGwzdHAzVU1xSmNGUmhOM01MMTB5M3RIVWpIdlRZWC1HazZiQ0dTb0lScWlpNDBBN09Wb0NGNEdWUFlIN3VxYWI2UzZjdVo1SlA2T3RuRkQzbWxsaTNKSlRfc1RZYXVxV3JuYkxXeWtpRHVYYWhoTEVQQkhzbkxZVGkxRUNoOXB5NkFSMlFx?oc=5",
+      "published_date": "2010-05-07",
+      "source": "Bleacher Report",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "0f141b7097203013de162d9487707222564924d56c2e7acea5dcc3bed7220867",
+  "feature_eligible": false
+}

@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T10:23:53.544120+00:00",
+  "lane": "news",
+  "pid": "P622332ff90",
+  "draft_year": 2013,
+  "name": "Nate Wolters",
+  "draft_date": "2013-06-27",
+  "status": "ok",
+  "query": "\"Nate Wolters\" (draft OR scouting OR prospect OR basketball) after:2012-07-01 before:2013-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Nate+Wolters%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2012-07-01+before%3A2013-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Know the Prospect: Nate Wolters - Posting and Toasting",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd3dRRDNiN1RTNkZjbWJiZ0ZLV1RkS3lOdEhhaTA0RDZPVXY3Tjljcl83X3RSVHBsSk1MRV9FMlFkRXFRN1NsNTgzOVVFeHlwejZlaE5uZ0VwRkJUV0JfajRPZHdrRC16OVlZSkxWTmNMbnVDUG9QNmR5U3dlSEI3UmNlb1o2LWc1dFRBd3hLbTA1aDNo?oc=5",
+      "published_date": "2013-06-26",
+      "source": "Posting and Toasting",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Summit League Preview: In tiny Brookings, S.D., Nate Wolters is a reluctant superstar - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSy1RdmxkbXFhNlRUNVlnNlVTa1hWQjFscVh1LTRpTkY0U1lmQUd6Vmw2NGVyYXl5YTFkWGZUZmtuSmlXdzNVcjg0UFNNUFh2Q0owOXJaVWFYR3cxYVdUUE5FS1hmTW5jTklFdEtES2djNjJsY21hekFibjJYMXRwSWhZYmg1a1NSUmdLckh5dUhvVlhWNWh6QlQ5eWtla05mY2JzSkwxLWlOQ1gyaW02US16UkxuQ185MUI0?oc=5",
+      "published_date": "2012-10-03",
+      "source": "Yahoo Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2013 NBA Draft Combine Measurements By: Aran_Smith - NBADraft.net",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kcm8zS2RTMDVPeENYa3QxdW8yeTV6enRTRFpFRnRJWDJYcTlSSWkyNkdSUnNCRExjUUN6MzljQ093OVdmUTlCRURQMjVoVUJGMVZ2ZnJncDZMMWRxdkZxY2NqUzRmU3lTbmdnMnN3?oc=5",
+      "published_date": "2013-05-17",
+      "source": "NBADraft.net",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft Combine: Which players had the worst Wingspan to Height Ratio -- The Alligator Arm Index - SLC Dunk",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRUh2czVzdURSVzBaVzYzUGpxNHo2c1hjYWR5Q2VBMnlPa0RyMnYxaFlFYUFsOVN6R3BRWEJSaEg4RkJvNE15NTZ3UlFDcXM0VHE1LW93d2tZRWFUeVpoOEgtdFpIMmhPYWRhNGsyOUctSUs5cFFkTmthb0xKbHBkUExSdnNrOVFpRkROOHpBRmNLVGRDT2lDc1BSSGlDWExaQVhTQURSbFBaUQ?oc=5",
+      "published_date": "2013-05-17",
+      "source": "SLC Dunk",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft 2013: Golden State Warriors don\u2019t hold a pick, yet - SB Nation",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbzZvRnJCVnZBdVVCdFJCRzZtNC10bHBIRnhDZ01aWHVBdEQ2YWRRLTNCLURsMUlGdS0ybXBnWjZfdEhWaFhMV2dQalpfWDRDd0hQSTNfRmp3bFZ4dU1SMzlYRFhENG9oT0FZUWpfM0Z3V3F5VmlpOTNTWThEMXpqSGJnS1NWV0VkY2xkTFBxRFB4RXhScUE?oc=5",
+      "published_date": "2013-06-25",
+      "source": "SB Nation",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 5,
+  "response_sha256": "648cee26a7a448a6e03888229764f2c58c530b50bd02200d6988d76c6b1605fb",
+  "feature_eligible": false
+}

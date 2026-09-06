@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:37:36.006065+00:00",
+  "lane": "news",
+  "pid": "P4879fe4868",
+  "draft_year": 2016,
+  "name": "Malcolm Delaney",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Malcolm Delaney\" (draft OR scouting OR prospect OR basketball) after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Malcolm+Delaney%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Delaney beats the buzzer, saves Loko - Eurohoops",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMzFyZ0xXRmoxT2ZOaEREWDgtaVljWTZPWE53Mlg3bTR1LUtIWXB2REpkUXdJX1l6TjgxSjNjZnFDVkMzSFI3MkFBQ2pURV9KSnBWazVjNWs0ZHplaFhCMkRodzNhSTJUZG5aNXNSaXBjWlJIYzBybS13aURQWnE4THlR?oc=5",
+      "published_date": "2016-02-01",
+      "source": "Eurohoops",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "7da4123aad2ce617eee2d293e40b68e7b840069daa55873c7a419a49c023cd79",
+  "feature_eligible": false
+}

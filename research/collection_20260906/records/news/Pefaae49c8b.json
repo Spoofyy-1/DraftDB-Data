@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:21:23.423022+00:00",
+  "lane": "news",
+  "pid": "Pefaae49c8b",
+  "draft_year": 2012,
+  "name": "Evan Fournier",
+  "draft_date": "2012-06-28",
+  "status": "ok",
+  "query": "\"Evan Fournier\" (draft OR scouting OR prospect OR basketball) after:2011-07-01 before:2012-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Evan+Fournier%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2011-07-01+before%3A2012-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Video: Evan Fournier Impressing at Adidas EUROCAMP 2012! - Hoopsfix.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSTJrUUFBUXU3eDJobU90eGRFTl9BOExYY1R2bTgyOS1lUlZvWXMwckZJejJ0cWRQYUhqMDNvUldrTFlMOG93V0l1bkxQcktMYWxiQ3AyQWp0dmhndWhLanphaERGQ2NPcGNwOTd6Y1pNRV9rMFpSZm1sZklMeE85UXp5b0hmMlVsTGUxTGRGVTJZZw?oc=5",
+      "published_date": "2012-06-12",
+      "source": "Hoopsfix.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA MOCK DRAFT 3.0: Here's What Each Team Is Thinking With Less Than A Week Until The Draft - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DMGZJZk9sM096c0JkR090RWxMY01aYUd2UGpKSXNiX0VLWWxMTGVHZDhKZHZpbmhBQmhDUFE5QTdYUjlTZjVnUTllamJpVWJpOWIxS2hqcWRBcUt1RVRQTDREYk5FNkFZdmlhNHJn?oc=5",
+      "published_date": "2012-06-23",
+      "source": "Business Insider",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Nuggets could select North Carolina\u2019s Kendall Marshall with 20th pick - denverpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNVhKMXVyS1l4UkNIMzRvV2ZMa2E3NjdtZFhvQmVqVXktSmVOaWhJLXpwZTh0dHY5WW85RDZ6OG9ZNzdDRGJaNERQQnJ0QlA0TDdmZFh5SFB2bW03RDRNSUZLUHJzdE9JLVFKcENrWFFlanlUX3pOUWZuUWY3V0FYT1huLURraVZ5QXpHeE81eGZ1WkdJTXZ0dzg5NDFzZkc5LTZIY3ZuMFd2eGM?oc=5",
+      "published_date": "2012-06-27",
+      "source": "denverpost.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "adidas adiZero Crazy Light 2 EUROCAMP Edition - Hypebeast",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wQ0ZjNnMtblJkallpZ0FWQzE1YllPSDN0ckNGUjFiZmpOVHMwTDdJWHV0UVlZQkVKZ3g0WWIzZy1zUUQ2WDd5VW9WcEdseFhrM0I0WUxSc21BS3dmWTFnS3lWZXQwZDFFaVd3QmZPTnFybmJ1WG9KV1VsVS1TcDA?oc=5",
+      "published_date": "2012-06-11",
+      "source": "Hypebeast",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 6,
+  "response_sha256": "72f1871ac18f426e25482066846d3ba6f1158aeb8bb3064d759642c96fce579b",
+  "feature_eligible": false
+}

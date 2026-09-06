@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:25:59.974258+00:00",
+  "lane": "news",
+  "pid": "Pd44ef7a78e",
+  "draft_year": 2013,
+  "name": "Arinze Onuaku",
+  "draft_date": "2013-06-27",
+  "status": "ok",
+  "query": "\"Arinze Onuaku\" (draft OR scouting OR prospect OR basketball) after:2012-07-01 before:2013-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Arinze+Onuaku%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2012-07-01+before%3A2013-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Notre Dame's Kyle McAlarney enjoys record-setting game vs. Syracuse (This Date in Syracuse/Big East History) - Syracuse.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVHRRNDdzVE15bmZOR0RvcjFOckVlb2FYcktfSS1tb2phUmktbnNnWFliZXRrZ0VfZWlvSXJYa3RhcXc2ZF9leU9JaEVxbG5Gb3k3UWVMQ3cxZllFU3dGbWZJNzI3R05UTkY0a0E1a2ZnYVN4SUhGbzZBUFJ4b3dVT0ZYQkdqSnhBS2pwQWpB?oc=5",
+      "published_date": "2013-02-24",
+      "source": "Syracuse.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Kevin Durant Played Pickup Hoops at DeMatha High School - slamonline.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdV9tV0JtaW91bUNyQWFPWWFKaW50dk55amthaGZpSmVfLTl4OU5HbDJ6UVBYN1lQQW5vR2tQaVBoMGNPYk8zdlFPeUYyMnd5WkExLVAxdGFOTmUtY3JvNGpPZFdRSWotcXRJbXhMUEprSGxfRHpSdVBUSmtJRzB5Tmw2bzZPX2NzaHB1X0I4RW5Xdw?oc=5",
+      "published_date": "2013-05-29",
+      "source": "slamonline.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Syracuse guard Brandon Triche finally makes Final Four after two near-misses - Syracuse.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVHl2VnBwYzdsbUZ0YTVuVXdiYkVvQTFEbUtNSC01eEo5SlpmVVpyeGRMTVpLNG14OUxlRENYM3kwV25PX0pkWU83ODc2TnpOSUI1Z0Y3Ykt4U3hxTzN3QkZ4QTlRVHVxMWNWTXh1VWhxYnJqWXpwYTVYWTN6eVluMmROSnRKSzlJMUpuZHh5dw?oc=5",
+      "published_date": "2013-04-05",
+      "source": "Syracuse.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "6315fb9c295b4d81df951cc3ca7e11b53dc5f225e0ef20500b546691a9cd56b3",
+  "feature_eligible": false
+}

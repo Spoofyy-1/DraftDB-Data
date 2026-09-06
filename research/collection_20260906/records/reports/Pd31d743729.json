@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:49:08.289688+00:00",
+  "lane": "reports",
+  "pid": "Pd31d743729",
+  "draft_year": 2006,
+  "name": "Tyrus Thomas",
+  "draft_date": "2006-06-28",
+  "status": "ok",
+  "query": "\"Tyrus Thomas\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Tyrus+Thomas%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Tyrus Thomas NBA Draft Scouting Report - draftexpress.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQmZMbkx6a0VDZE1tZmhFdUgwYnpneUtJQ0g1eUVxLUtCR0swbURWV0VlYmZkak1YZ1g1dHdOcFUxb2ZpX1N6TUxpRjlPYU9GUFhuNHM4N0dUWFRJMzVrTzNTdXpqbzNxUC00WTNiLUxFVzFqX2x1bEY1Z2x4MnJrcm9EdXBVbTDSAYwBQVVfeXFMTmZpSmRvNFVRTGZWS1U3MmE0c0p2RU9KcTZfeHJnRTk3VldrNkRXTVVQSllDQWJYajhhN0dsRUxxcy1zUTNKNk9iVnNyZXZDX1MxZktJMTdjUklkbklTZjNOQUtaM0haS1ROVHdxaFlWcFQzSml0TS1mNExUMkw0SkZKd0ltd3llS01MWU8?oc=5",
+      "published_date": "2006-03-26",
+      "source": "draftexpress.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "0c4d6ed70f608f39050ce15c890a37820e1f6744942e1dbbf78ab7202e680f20",
+  "feature_eligible": false
+}

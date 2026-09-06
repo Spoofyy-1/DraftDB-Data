@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T10:42:08.715589+00:00",
+  "lane": "reports",
+  "pid": "P55b27de869",
+  "draft_year": 2005,
+  "name": "John Lucas",
+  "draft_date": "2005-06-28",
+  "status": "empty",
+  "query": "\"John Lucas\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2004-07-01 before:2005-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22John+Lucas%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2004-07-01+before%3A2005-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "365c905a50885219ce23029f91527fd63924fe64170e7b4838a881b90e75a08f",
+  "feature_eligible": false
+}

@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:38:33.254918+00:00",
+  "lane": "news",
+  "pid": "P7222e0f90b",
+  "draft_year": 2016,
+  "name": "Juancho Hernangomez",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Juancho Hernangomez\" (draft OR scouting OR prospect OR basketball) after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Juancho+Hernangomez%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Prospect Q&A: Juancho Hernangomez - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpdU9abDY1QlhVNDZKQ1lZOW02MUdUUVBJVUc1UWpqanpOM1FqWU9fcjV1bnhfaFhaeURPLVpEaDVuM3drcXluZGVzV0szSUltajRxQkl4Z293WXNQN0pPQXF2aDJrWWpodUliN3JvcUN2YmN2cF9naUpPRQ?oc=5",
+      "published_date": "2016-06-08",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "The Hernangomez brothers - watch this space! - fiba.basketball",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUFR3LTQwQVQ0Tk1yYk9QQVFlVTFGa2RGSW44LWk1Z28xZHRiSHhWa1Q2NVFreGgwam1sZGlIeDMtNEY2Z2dYR3F1N0xXWmFDMG82aTgyQjFjYXNZd21UcGJjU25KNGhUV2NHLTV2RmdNRkozTzhscERyWEVZZ2VsZ044Mmt1X1d5bjM1YTVEQQ?oc=5",
+      "published_date": "2015-07-24",
+      "source": "fiba.basketball",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Juancho Hernangomez named best young player in Liga Endesa - Eurohoops",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYkU4NHYzYnlUdldZVjhvZTZ4U1NQZmIyZ0M4NVJGMElWZ0xJbnhWdy1fWkxHT1QzZnRpU2h3WnRieFlGejR6eVBEMGpIUGVlWWdUQWZIVlVqSXBqTlpvREhhRmM4cWVZRzFXSXVWNzdJeVdPYS1ZSWZ0Yl9tNktWVDljNEJTaWZjeFhmdGVIZFVsNEJLTF94QmQxelF3T2dN?oc=5",
+      "published_date": "2016-05-17",
+      "source": "Eurohoops",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "eca896568055fbc53af2a553b68c40d060cd0b50653aeb54158c06976d3f7a4a",
+  "feature_eligible": false
+}

@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:40:59.993890+00:00",
+  "lane": "news",
+  "pid": "Pd1cda3e821",
+  "draft_year": 2016,
+  "name": "Tony Anderson",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Tony Anderson\" (draft OR scouting OR prospect OR basketball) after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Tony+Anderson%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA announces 162 early entrants to 2016 draft - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORy1PV29mdGVFcFZCNWRIR1RzUWFGVnhlcGpncmItQTE2aGRUOV93RlZMNk81bGlMbGxtV1ZXeHJIZlowTTFOd1N6Qk83LWsyelRQVk95ZTRvRng3Y1lGcFVYdDBOSmkyQWpYY1I3QzN5VjBnM1FFZXJJZ3BuT2xlejIzRQ?oc=5",
+      "published_date": "2016-04-27",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "f357cbdb43dc259bae2246f1b48c422e78f4458c385424e8730a5cf7e2fcfdaf",
+  "feature_eligible": false
+}

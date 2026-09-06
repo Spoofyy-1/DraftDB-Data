@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:40:02.976414+00:00",
+  "lane": "news",
+  "pid": "Paca468f5b5",
+  "draft_year": 2016,
+  "name": "Georgios Papagiannis",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Georgios Papagiannis\" (draft OR scouting OR prospect OR basketball) after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Georgios+Papagiannis%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Georgios Papagiannis Making a Decision Soon - Nation of Blue",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5nTlhrWG40QWk3cXlVUURiQ3VoWm45VlMyUGQtRkdCcEZWal9tZV9sb21JYjNsZXEtZ3NNVzJUM1FTUzVjWk1lUFN3d1ozeFN1NFh0N0szZm0ycTBILUJ6YTN4emY0b1J6aUIzQnY1akw0S1cyLWQxRDUyRHFuZw?oc=5",
+      "published_date": "2015-07-07",
+      "source": "Nation of Blue",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Possible Greek import Georgios Papagiannis could be recruiting coup - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZE0teXVzQlVfcWlhc0V3VzQxYmxabzNGTVo2eXlfNmgwU3B2UDBiWEZfTlZQNzlUNTZoWG1OVEI5RUZhbncwbnNSTEFadXBlQjJLb095RjNaREpuUDZ5MlJKNElTQnF2UjVWNjl2Y2JZVjFjNUVqRlBSVnV6MmpxTFVOUFZEMS01Q0VsUTFjQWNyalRPZ0lIYXdGVkZjMDZ5cHZpenViWEJkcXVzR0ZxeW1QS0s?oc=5",
+      "published_date": "2015-07-01",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA draft 2016: Complete coverage - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObm84YWtGbFFHeC01YTBPOXlDR3JXYzN3Tkc3VVVmWFU0MmJKSFlldXd4dEVHWWJTTFZkajBrR2puaHc3SnNTazVNelhKUDRHSV9mOV96N0J4RDZPUThHNE1nbjdkXzdVZFdqWmc3d2lTaTE1UkxDWERDemFPaktRYUFVdTRBRGV3a2UtTzBB?oc=5",
+      "published_date": "2016-04-05",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Basketball: Turkey under-18s lose to Greece in final - Anadolu Ajans\u0131",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcEJSU21vVW5QenJ2LUNHVXYzLTRiaXlyaDljbkQ5Q3l6TXNvanczdzRZUVo0VEcxMFk0WGdhNmlDbzFEOWxZakJyM19zQ01iaEdOMFBuSHg3UjZSTmlzQ2hrWlA2a2dmNmJraFV2cjdDVEhpVjZzTnl6YkNSRkx5OXZuSkwwRHJYc21NMW9oMkV5bWs?oc=5",
+      "published_date": "2015-08-03",
+      "source": "Anadolu Ajans\u0131",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 6,
+  "response_sha256": "c1218dea3d9af38ddc18123525a7dde8a6171142bf08e5d218405ffa0203aeaa",
+  "feature_eligible": false
+}

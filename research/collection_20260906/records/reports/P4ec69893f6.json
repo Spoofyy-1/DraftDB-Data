@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:33:39.356431+00:00",
+  "lane": "reports",
+  "pid": "P4ec69893f6",
+  "draft_year": 2011,
+  "name": "Jan Vesely",
+  "draft_date": "2011-06-23",
+  "status": "ok",
+  "query": "\"Jan Vesely\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Jan+Vesely%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft 2011: Jan Vesely and 5 Best Prospects for the Washington Wizards - bleacherreport.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSEJNUGd2NjVJdG1saFlvUXpRbzVfcXJGNmVGZ0hoS3JMa3F3dFIydW5kb1dCR2hBVlFJNGtVc1RESFVaM2w4Y2I2TktRaGFidjZCN252MnJhQTl2THViOTF1cGhXdWQ1UFNJeG90aC0xUUZPb2w4VXlNdm1vand2S1RDMnpoeTN0QmExX0gzTld6MnV0bVlBUGY2ZFRPVjRPRjZOSFFvWXN6R3VqM2hnTlA5NUJQUXc?oc=5",
+      "published_date": "2011-06-22",
+      "source": "bleacherreport.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2011 NBA Mock Draft: Predicting Every First-Round Pick, Is Kawhi Leonard Top 5? - bleacherreport.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNngzNXFEQWdjSTEwZXhNMVV1VnR2bU85WjNZTTJ4YktSZlp6c3hBOGxvMGo2ZENlWXB1cUYzN256U1RFMTdfS214eU1qTktudUl5T0pCb2lPM0VIZ3FPVnZydy0yelJaRVk3MlhZdGFLNTVhLWxPQU4yNVV0YXE3cTV5TExxTThuWm1jcEFvR0dYSVJBc0tYWGN1YWpZQzh0VW9yWlprVTRGQ0RYeTYweWVIWHA4ZEJPWWI1WA?oc=5",
+      "published_date": "2011-06-06",
+      "source": "bleacherreport.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 2,
+  "response_sha256": "953b19e1e363cfa4d5b973f475bcbb72dda670407b4573c5f6b6a2f7908b2fd8",
+  "feature_eligible": false
+}

@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:31:43.891905+00:00",
+  "lane": "news",
+  "pid": "Pf0c15e8037",
+  "draft_year": 2014,
+  "name": "Patrick Christopher",
+  "draft_date": "2014-06-26",
+  "status": "ok",
+  "query": "\"Patrick Christopher\" (draft OR scouting OR prospect OR basketball) after:2013-07-01 before:2014-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Patrick+Christopher%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2013-07-01+before%3A2014-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Iowa Energy eliminated from NBA D-League playoffs - The Des Moines Register",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZHpyNlU3TndFYVNxMnlhQWdrWFo4NUJQalRMLXhWcHlzaEwxV3lsYlEzN01PSFJFcTM0cW1qSWxBQXdYOHZhV191M084Rl9yTVVYb0F6a2pSUndZTEs0elUxLVB2RThWM0dXWFU2VDZVQU9UYkVobjN4WVRnUGRJQTlwRzJCblF0Tmt5MWhrMTFDMVdfM2ZDbDgyTjgyQVdfWFQ4MHlHVEUxR1poX2U5Qi1PazJyUmthVnlLT1RFT210YWVCRU1tMnJwa0g?oc=5",
+      "published_date": "2014-04-14",
+      "source": "The Des Moines Register",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Skyforce vs. Iowa Energy - argusleader.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ3dDbmVjSG9INXQzNGhvc09fMkhmSkphT00xeVl3MnNWU05wV3JHTzZiN0xIeC1EUWozVnYySlJaLUk3c2NQS1hvOVpyZHB3OGlnWFJXS0h1cWNOTlAxdDVfR2pWMkUwNGlPSnpTLVJnMlJPaFRYX3hMdC1QSGVKRDhSZlFJcEZUb2ZxREpENkg3ZDdpcnRfNUx3?oc=5",
+      "published_date": "2014-03-12",
+      "source": "argusleader.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "22 Photos Iowa Energy Battle Canton Charge - The Des Moines Register",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUWIyNUticGVTWmVndV9aRHlfMUNpUWZ0cmZfbEVCWEs5UXJQZUw2TGt0a0xGNENIOFFkdURDbmRrMWdZWFl3TkZwRWhhM0luV0ZjbzloMkhkMjhFVVJNdTJqT3BaOGs5MHlkaUt1ZlBUZHpnY3BpbDNVRVY2WFd4NGd1M0JCR2xGSkJIZTJaSlVPbV9YWEZsdXJTREZkWndTQzNIMGdxaG9kOWxfMmJ4b21KdTBtTVZ5N3pj?oc=5",
+      "published_date": "2014-03-29",
+      "source": "The Des Moines Register",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "3d81641816e88dcaa37baa7a60425b97bc4bf29f9a1255d490fb4ec0e2100034",
+  "feature_eligible": false
+}

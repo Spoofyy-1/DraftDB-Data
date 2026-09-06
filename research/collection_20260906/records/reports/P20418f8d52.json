@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:24:04.768392+00:00",
+  "lane": "reports",
+  "pid": "P20418f8d52",
+  "draft_year": 2009,
+  "name": "Ty Lawson",
+  "draft_date": "2009-06-25",
+  "status": "ok",
+  "query": "\"Ty Lawson\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2008-07-01 before:2009-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Ty+Lawson%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2008-07-01+before%3A2009-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2009 NBA Mock Draft \u2013 UPDATED 6/23 - Clipperholics",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CR296NVJJdzFLMHg3VUpjMW1zXzRDQkpqcmdSRGt4OWJMTEJmU2FDN3NreE9qYjh0YjRBNTg4Vk1sTUFNb3h1cTNDRGltUkdMaWxGeFowdnFMaGtBRGdBVXFHaVdkWFNm?oc=5",
+      "published_date": "2009-06-18",
+      "source": "Clipperholics",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "baa213c03edc828ad3a967909a7536f44c515ccab97ae6663da8fe6876f59339",
+  "feature_eligible": false
+}

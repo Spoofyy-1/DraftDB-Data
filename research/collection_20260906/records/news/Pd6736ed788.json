@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:26:03.230452+00:00",
+  "lane": "news",
+  "pid": "Pd6736ed788",
+  "draft_year": 2013,
+  "name": "James Nunnally",
+  "draft_date": "2013-06-27",
+  "status": "ok",
+  "query": "\"James Nunnally\" (draft OR scouting OR prospect OR basketball) after:2012-07-01 before:2013-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22James+Nunnally%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2012-07-01+before%3A2013-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "S.B.\u2019s Summer Sports Camps - The Santa Barbara Independent",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1uWlNiOEJHblVhX1VDSm51Nzc5UWc1bTF2RDZvNHhTam5VUEc5Z1FoamhxM1pVbmV2MXdxekJnT3J4SlVIZWhFR0twVWRONHAtU1BMdnhkWUtnbWRXakFMTzRGTlhUdUZBVVZDU2FWNDFTTHc?oc=5",
+      "published_date": "2013-05-30",
+      "source": "The Santa Barbara Independent",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "9ee57c3c5701d89a72c2b06f19f41faf07c60fdd263d420f56e5d768e4f9e68f",
+  "feature_eligible": false
+}

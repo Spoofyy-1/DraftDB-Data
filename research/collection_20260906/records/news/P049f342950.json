@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:36:32.344732+00:00",
+  "lane": "news",
+  "pid": "P049f342950",
+  "draft_year": 2016,
+  "name": "Mindaugas Kuzminskas",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Mindaugas Kuzminskas\" (draft OR scouting OR prospect OR basketball) after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Mindaugas+Kuzminskas%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "After extra time, Lithuania defeated the Czech Republic for the 1st place in group D - vijesti.me",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPS2dUWkpHYjJOVEtHa21DTUd5TDFkWExlSVU0ejFFSmlqR3NZQWdPanJoV3Y5bkw1WUplSmZTb2Iya1k4NkFMWEFaVERhN091LXB0ckZLbGJ0dThWLWRaWFRKdGFUdFc1LVFDTHZXMFJEQlRXTjhLcERoU3RrYjQ1TEh4Ym5NeFpsY21FR3ZlQjFCRDgtbFgyTTNQeGQ2T1Uya1RSc1RPMEw2aEhudFMtd19MME95NWE5aWU0ZG53RGZ2U0t6TlZqVG5iTdIBtgFBVV95cUxQblVyM3V0SFZkTUUwd1dSakVtNlZMTEVYdHZOWUVUN2JMLXRib0JlOGsyWnBTMFJNMXRhejhkYUhBbkxlWkowWlpFWlB1dGctV2txX0FxMXo0N200Y3dMQXc4akhIV2RxMFJmV1Q5Y0tJbnZ0WnFQOHJ2NHZoVk1rVFQ5LVd3ZGY0NkllbHZzY3FfZjUtMzZGY1lGZFp3UFJGN0hEUXd2RHlpTmVnYml6cXB0bEhvdw?oc=5",
+      "published_date": "2015-09-10",
+      "source": "vijesti.me",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "121b7b501439a520a899f3cf119857334f59a4bbb59e472e8f49f92950ec02e0",
+  "feature_eligible": false
+}

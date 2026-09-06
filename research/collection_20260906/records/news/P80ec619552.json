@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:46:11.735623+00:00",
+  "lane": "news",
+  "pid": "P80ec619552",
+  "draft_year": 2017,
+  "name": "James Webb III",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"James Webb III\" (draft OR scouting OR prospect OR basketball) after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22James+Webb+III%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "James Webb III Career Stats - NBA - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjNVV3UWJVNzNCT2Y3NzNmdFVHZkdoUVRwYlJBZkxtNVk5MWVSbHZhdkVVdENtVklGNFZ0QmVPUVd5Q3JLTmhqaUpGRVZqVVVpTXVwWkJ2ZVlpVmRXT2ZvU1RaLTZzNXRXSjJlODBPSUlWeU0?oc=5",
+      "published_date": "2017-03-29",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "76ers Assign Rookie Timothe Luwawu-Cabarrot to D-League - Philadelphia Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPel96MWNQbTctcmpKTkVoRk5ibVVSSTZldWNQNEIyZ24xNjY2TEZGMWFpdkpEX1RTMDJBREU3MV9UTy0zWnUxRGxzN2dzeFI0NUwyWmdfbF9MVjRZNUoyZC1SX1JuSWlhRXhvOW56SVNzRk1fQkdtSk5Jc2hZR3E4aXpuWWhTb0VfLTM4?oc=5",
+      "published_date": "2016-11-15",
+      "source": "Philadelphia Magazine",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Great expectations for the Sixers' Joel Embiid - Burlington County Times",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZGZIdk9iRHhldFpFY05BTnNHMTIzQ2M4ZzJoOHZWalB4T0pLUG9YcGFNeXhjcTlxVVRNM2pxLVIyLUFIUk1fYkxZRjZFSzRRcTdNdURRN3BPSUc0TnRwUEROUUZxNjlfRGVCZVFPZ3FGdzFZS29FeGJqMm5pdE9LOHl6Sm1RaFh5YzV4ODRTb1VnTU01WkNaZE80WkdfSVphdVl5QWVlWGpsZUZGYXphb1c4TQ?oc=5",
+      "published_date": "2016-10-25",
+      "source": "Burlington County Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Offseason In Review: Philadelphia 76ers - Hoops Rumors",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUGVLblBLQjNCdkVKWkNwdkpxb1JQLU9oZGR4MmFTUzZnZUVRUlhyY0JaMTgxRFRvbGNUM0ZCRUl0RXM5ekNoSUFyU0YtcFoyUWN1Q21NSlRiOThYcGMyYkZwOXRSRFQ4clZPUExraXRIdmFJc0Q4SGp0Y296TzJ4Qm55RzVkOVMz?oc=5",
+      "published_date": "2016-10-03",
+      "source": "Hoops Rumors",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "6e2d02ebc94968b8341cbfdd57451139b492560869825bfa988d734b27cc4558",
+  "feature_eligible": false
+}

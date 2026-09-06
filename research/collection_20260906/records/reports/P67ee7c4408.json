@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:21:18.246691+00:00",
+  "lane": "reports",
+  "pid": "P67ee7c4408",
+  "draft_year": 2008,
+  "name": "Russell Westbrook",
+  "draft_date": "2008-06-26",
+  "status": "ok",
+  "query": "\"Russell Westbrook\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2007-07-01 before:2008-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Russell+Westbrook%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2007-07-01+before%3A2008-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Know the Prospect: Russell Westbrook - Posting and Toasting",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUTFfTk9YTGVlcnFBcmtacFM5eGdOcHA0S3pOUkZkcVZDSVpqOS14RTB5RXNiOTRrZWFhM3NsZDloNnJqTkxTQmdOM0gzUzd6Z3BVTGFKRmg2NW01Rnl3SkUyQ0c0cllCaUEyMkN0M0tQUTJPM0Y3aDROcmlyelJOSXhGWQ?oc=5",
+      "published_date": "2008-06-16",
+      "source": "Posting and Toasting",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Rip City\u2019s 2008 NBA Ultimate Mock Draft - ripcityproject.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM1JSS2dtUll1UUlCaGpyY2JlaENSY2hqVkNqYWJJM3Z3bDlOVTExbkE2Z2F3LTZFNjV2czNrRGZTTnZXSGRadUJZaUp1S1l5OFppXzJacHdhaE5oTGZHVjgzZjFvNUFHZXF1dFJvZWNiT1JXY1pBZk9MMmlUOUo3UXdFMA?oc=5",
+      "published_date": "2008-06-22",
+      "source": "ripcityproject.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "003515de99cebdc9811644e4ab0be09720d4e8d6cb84a41cae8acbfcb5daa61f",
+  "feature_eligible": false
+}

@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:44:47.870634+00:00",
+  "lane": "news",
+  "pid": "P4d32b8b12e",
+  "draft_year": 2017,
+  "name": "Maxi Kleber",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Maxi Kleber\" (draft OR scouting OR prospect OR basketball) after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Maxi+Kleber%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Meet the German Coach Who Helped Turn Dirk Nowitzki Into an Average Student - VICE",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcGV3d04tV29ZaG5FenRtdXAzYVV3RGtyeHN1Yzh6RzhRYUxFejFOVmlwcTBmQU5kRC1BLVIxX2FzZWQ3VHJHZko2V180YnEwN2d3X1dsSmxVSEJIWExfSDFGS0c3akw3Mm5mamlRVE1xakxCTnB1eXptTDQ1YzJuVVhMdGhxSE54dzh2cjJEUEdjQmRvODdYd3IzNHJVRFBsQVVCb0VqOXlGUC1a?oc=5",
+      "published_date": "2017-01-18",
+      "source": "VICE",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "d0bd746e7992b5af45855b8e2b2a80a45e719e10b0a46c7eebde11a98f678970",
+  "feature_eligible": false
+}

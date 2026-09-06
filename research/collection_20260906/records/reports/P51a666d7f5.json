@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:46:55.244315+00:00",
+  "lane": "reports",
+  "pid": "P51a666d7f5",
+  "draft_year": 2006,
+  "name": "James White",
+  "draft_date": "2006-06-28",
+  "status": "ok",
+  "query": "\"James White\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22James+White%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "James White NBA Draft Scouting Report - draftexpress.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaXowRV9nQURnOC1mLURhc3dsZXZzSXpTOXJBZFl4R0RzMHQyRk1kdVowM1NqVXo1S05adzlITHBGdE01d0MwcDEySVQ1aGJmSDEwc0xreUtVcFFsdm9FdTRVejRpUEUyRDl3YndKTzBpU2FFaWxidjVHN1l5dW83TjJNU2Y2MXPSAYwBQVVfeXFMT3E5X0tGN3NWZ1BNUUNhNzNWRjNvWjMzWlJhVjlNY3FXb1B4bkdyUFhGcmJ2ckZrLXg4R0pmcjl1MWM3cE1PV0lnMzAyNHVJNGpqOWVOd1hRczVnMGxCZElIa1p5NTVOZ1VLczMwVUp1aUxxVThOandmVm55d29LekRBY1drNl9fNWluLS0?oc=5",
+      "published_date": "2006-06-17",
+      "source": "draftexpress.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "478259160eb8be11da38c8da4fddbddd1af2ab777ea988bc8d3718b83255f42e",
+  "feature_eligible": false
+}

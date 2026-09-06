@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:32:34.175385+00:00",
+  "lane": "news",
+  "pid": "P1ef5f1c321",
+  "draft_year": 2015,
+  "name": "Axel Toupane",
+  "draft_date": "2015-06-25",
+  "status": "ok",
+  "query": "\"Axel Toupane\" (draft OR scouting OR prospect OR basketball) after:2014-07-01 before:2015-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Axel+Toupane%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2014-07-01+before%3A2015-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2015/16 Roster Counts: Denver Nuggets - Hoops Rumors",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9OVVBQdXZNc2h0T2w4VTVpUVg4RjU3bFBpeDlBTHZ4REdCNU9xbnpDclJlYlR0RnE4ajJUcHc4ckZMTHhRVVN6MVJ3dVZwZVBYQUVpazNnOE9Ib0lKcWFxbHhPUi16RHhpWXAxdm40WQ?oc=5",
+      "published_date": "2015-06-10",
+      "source": "Hoops Rumors",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "f20e5129f858eca1742fc92aba841d98624f496e1e3fdafc404a33e50ffc8615",
+  "feature_eligible": false
+}

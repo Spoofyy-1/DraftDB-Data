@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:20:40.310684+00:00",
+  "lane": "news",
+  "pid": "Pc0b16a51f2",
+  "draft_year": 2012,
+  "name": "Tomas Satoransky",
+  "draft_date": "2012-06-28",
+  "status": "ok",
+  "query": "\"Tomas Satoransky\" (draft OR scouting OR prospect OR basketball) after:2011-07-01 before:2012-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Tomas+Satoransky%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2011-07-01+before%3A2012-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2012 NBA Combine: Measurements By: Aran_Smith - NBADraft.net",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IU3A2bzJ4TUxvYUxOSzZhWHhZSUl1OEhoZXkwZ3lRTUgzV0E0VDFqTGRQNXdtdjB1Q1VuVFIwci1WMUI0RjllZUdjSGNaNV94STdjUHowVG9FVF95V3VJUWRuVW9Pdw?oc=5",
+      "published_date": "2012-06-08",
+      "source": "NBADraft.net",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "adidas adiZero Crazy Light 2 EUROCAMP Edition - Hypebeast",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wQ0ZjNnMtblJkallpZ0FWQzE1YllPSDN0ckNGUjFiZmpOVHMwTDdJWHV0UVlZQkVKZ3g0WWIzZy1zUUQ2WDd5VW9WcEdseFhrM0I0WUxSc21BS3dmWTFnS3lWZXQwZDFFaVd3QmZPTnFybmJ1WG9KV1VsVS1TcDA?oc=5",
+      "published_date": "2012-06-11",
+      "source": "Hypebeast",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 2,
+  "response_sha256": "c9b8b54ed8f767ef182837b1ae569bc8548c769450ce152be642af33a7a9bea2",
+  "feature_eligible": false
+}

@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T10:40:21.439967+00:00",
+  "lane": "reports",
+  "pid": "P01bc9a886e",
+  "draft_year": 2005,
+  "name": "Chris Taft",
+  "draft_date": "2005-06-28",
+  "status": "empty",
+  "query": "\"Chris Taft\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2004-07-01 before:2005-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Chris+Taft%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2004-07-01+before%3A2005-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "948730ef07bec46c484060a8d1f5adc3dec1a414d661b93ae2dab71e7f6a908f",
+  "feature_eligible": false
+}

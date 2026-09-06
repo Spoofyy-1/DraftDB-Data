@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:26:16.339343+00:00",
+  "lane": "news",
+  "pid": "Pe364fefd34",
+  "draft_year": 2013,
+  "name": "Pero Antic",
+  "draft_date": "2013-06-27",
+  "status": "ok",
+  "query": "\"Pero Antic\" (draft OR scouting OR prospect OR basketball) after:2012-07-01 before:2013-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Pero+Antic%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2012-07-01+before%3A2013-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Ilijevski is playing at the European Championship in Slovenia - en.vijesti.me",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU1hPUURJdFNsNldEVy1Makw3US1uRzRpd1hOUFVFeXFMNWpHM1g5RlBRYXpkQWQxUDQ1NmtMWHk3Q0hhSXJnTThLcU9EVU8tNnBqTkxCZ2hIQlBXRnctaG9mMlA1V0R4SmlDLUZyQ3hZX2VqVGVwZ09wTkRJS01ia3JBZnVWNHMza0FhRtIBd0FVX3lxTE9NS0UwSUJRZWxkMnlDYjdCYjNaRDY3Q3IxUFJNajg5MnpfRWNvc1pGLW93Y1JfOVZCSjBZcVNVVnVOMW03emdxdHFZU3A0dzVfMElJdlgxOEhja05XWV9QNXdWelFla0p0WlZyNEdRTFU5bjNGbTJZ?oc=5",
+      "published_date": "2013-05-26",
+      "source": "en.vijesti.me",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "3bacb2fb624f290742b670da79ca4083a61f2b43e5360e938e833354f0d5acaa",
+  "feature_eligible": false
+}

@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:21:33.427109+00:00",
+  "lane": "news",
+  "pid": "Pf37ef86b30",
+  "draft_year": 2012,
+  "name": "Chris Wright",
+  "draft_date": "2012-06-28",
+  "status": "ok",
+  "query": "\"Chris Wright\" (draft OR scouting OR prospect OR basketball) after:2011-07-01 before:2012-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Chris+Wright%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2011-07-01+before%3A2012-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Hornets Look For Another Road Win at Jackson State - Alabama State University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OREVLRzBEM05oTl84UDZic2RvN0tQRFBVSTRIUGczc0J0Slc4V3BoaXF2MkpjMFkxS1BQV1N6dVRBNmk4V0hnbHRwelAwT0VaUWZIVk54X1lRbWZOSGxPS2IyZ2xWVzVqa0xvTjN3?oc=5",
+      "published_date": "2012-01-04",
+      "source": "Alabama State University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Sims Is Hoyas\u2019 Playmaker in the Post (Published 2012) - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQnRtbEc4TlJZT0hrZFdXQXduc3NwX3plUV9FYks5YnEtUVkyV2hQUmhjRk9nQ0ZWQnBOSWpNcFdBODRocURsN1FIM2d2OExhbTNBZzBhU25UZWZ1VVhwZWtIZEVTUlQyMmdwMWJ4bTdDY0p0M2NNT3hnaFNsRGdOaUZBY0wweS1hZ29RcG9Lclg4dEgybTRqaW0wQi1SNkV1eDBUUXVB?oc=5",
+      "published_date": "2012-03-17",
+      "source": "The New York Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Nigel Munson finds home with UDC basketball after a long journey - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQUdYSElKcVIwckVKTHNIaGtOdUhQWHlNV181VGFnQXJJOFVPSTFiOFhTWGhhNDBDTkRKOEo3ZW1YQ0dzaDFwaGJwenpQcTVOMkl0cG1UMHUwZzh5M1J0Wkw2aXhfWTFESzJoNzZmUHZUbjNDS3F2QmRDaXMzWEpXSGJKYTJ1YkhsRjVtaC12ekFCNXlUQmJlN3pod2QwR3pLZV9rbnhzLTZMLTBsM3U3emZ6Yk51MXkxSy1LdUJRdw?oc=5",
+      "published_date": "2012-01-19",
+      "source": "The Washington Post",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Timberwolves to wear Minnesota Muskies throwback uniforms - Pioneer Press",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZkJ6UkI5Y3A1c2FMRkdYVnRyTnBybTZrb1EzRXp2cElhOVp2OUN3Z0hlNXZrTXNEd2hpTHRPZjN3ckNsZWpEdjB2Y3VBS1dQby14UmNsQld4OTdXMHNTRjZpLXFEQTVQRW5KQ0FYWVN3NzlyYTlZMG9OM3kwUFNjMVVjN2M4SVdGZ0NwRDM3Yi10c2w0d3NCaV9DRlk?oc=5",
+      "published_date": "2012-01-15",
+      "source": "Pioneer Press",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "8f48c40cddd210c37b383ad8dc8c78d6d72d656fef31fb1ab443c04fdee18657",
+  "feature_eligible": false
+}

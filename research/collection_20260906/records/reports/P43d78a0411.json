@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:33:13.240996+00:00",
+  "lane": "reports",
+  "pid": "P43d78a0411",
+  "draft_year": 2011,
+  "name": "Shelvin Mack",
+  "draft_date": "2011-06-23",
+  "status": "ok",
+  "query": "\"Shelvin Mack\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Shelvin+Mack%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2011 NBA Mock Draft: Full 1st-Round Mock, Who Will Be John Wall's Running Mate? - bleacherreport.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYlFLNDRYRXM2dUpuQllUa3NTUy1hM3RMaVVDelFMTmpfako5clFNTUdyVmFjZFg2LUtzcWNNR2ZYLWlGOVZvTzFDVFdVc25NZnRFMmsxSEU1dXU3VkpzNDBPSjFBUVpTcW93VnFMVjdXN0NEcWJsTWp6MGF4aXVaRnNTT0taclZGWm5WTnJIN2o4ZnF1ZllGVFJBV2NObG9tUWFOaC1wQkxJeXhRVWJWcEdCM3gxLWZoWGc?oc=5",
+      "published_date": "2011-05-17",
+      "source": "bleacherreport.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "763b729b0d87dac70c820d0f33d02b500d4d1124b0f89a93fa7c1c12e1576cc2",
+  "feature_eligible": false
+}

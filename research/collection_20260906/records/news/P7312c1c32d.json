@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T10:45:51.997226+00:00",
+  "lane": "news",
+  "pid": "P7312c1c32d",
+  "draft_year": 2017,
+  "name": "Malcolm Miller",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Malcolm Miller\" (draft OR scouting OR prospect OR basketball) after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Malcolm+Miller%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Malcolm Miller Career Stats - NBA - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrY3E0b3ZXQnMyVm5hdklaVGlIUzBVU2NlZ0xubHcxMHUyNGNSc0FtUUxBcU5OVm52SEJxWDdvakNxMFlCbEhkS3RhTUNwTVhtbmpDanZhNTNUOFJwbGtvTFJLZ1IwbHJTbDAxTGN5SGlsU3c?oc=5",
+      "published_date": "2017-05-05",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Malcolm Miller - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44UEd2UUVWM1V3Z0gwVVJ6Ylp1QUJjX3dxcHczblVSWFFUZTd3TnZtT0tYMHEtVHFDSUoyWjNKcEV6XzQ4Q1k1Ul83aFFGWVJkcktKeHNUaTF5WUZrM19CWnRFR0szazQzUWsw?oc=5",
+      "published_date": "2016-12-16",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Malcolm Miller Stats - NBA - FOX Sports",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wNGpfQ08wVi1pdFoyTElHeTFhdWVaUHpRbHNOX0pNMk05WV9XY2NpdFVtY2g4QU1wUXZHeE1Sc3E4TE43cTZtLUkwWnZ4bUdSMUU5WUh0VUZnbGpQU1hCaFBlODU1Vl9H?oc=5",
+      "published_date": "2016-09-03",
+      "source": "FOX Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Celtics Announce 2016 Summer League Roster - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbERsY2NrOVVkNlY4U3pGVGNlYXZjWkVTQnZBc2JJbjlYMFB6dkppcE1sOEhBODJYMDFIc1dkR0hjeEpxNlhLNlM2bmxQQnpFcHFMaGs2VWdaV0IzSjQxZ0xxVHlmWTBlLUdPQVhTSkRkYnpQeEhaMXBSZ29wa1BlZkFIenZQbURHMFI4eG96OFdpQQ?oc=5",
+      "published_date": "2016-07-01",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2010 Michigan Men's Soccer Roster - mgoblue.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU2ZyNWVhYlZNRVY2Sk9LYlZpaVRkS0l1MWRJYWEzZW9SY2YxQjB0UTVPUllCWGZrbDkxa1pHNDNyc01aRXlvU1JGTWxUM1J5aXBSMzQ1em9NQmFYWWhKRkQ5TDIyNmkzaDNCNWlEdXNxYlBsVm9qaEZxUlhrdEM3Nw?oc=5",
+      "published_date": "2017-06-16",
+      "source": "mgoblue.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "2d6172a833bba1a2efc5e57b8b51ad52898e89a57256a7b7065428ac7daa2c3e",
+  "feature_eligible": false
+}

@@ -1,0 +1,64 @@
+{
+  "collected_at": "2026-09-06T10:31:13.493942+00:00",
+  "lane": "news",
+  "pid": "Pd907989bcb",
+  "draft_year": 2014,
+  "name": "Jordan Adams",
+  "draft_date": "2014-06-26",
+  "status": "ok",
+  "query": "\"Jordan Adams\" (draft OR scouting OR prospect OR basketball) after:2013-07-01 before:2014-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Jordan+Adams%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2013-07-01+before%3A2014-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Jordan Adams will return to the UCLA Bruins - latimes.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZmJsbWh0T3pYalhSVmtGaEt4V3kxdFFkZzNLeEdjTG8tSXZraldWMHd6VjRWQ1o1VFpvSzVVRFhna2VkMm1TM2hJQ19xUXRybHl3M1g4M2NIY0tVNlFDU3h2Z2xUaC15TWdOWHlvbEZjYlk5TkRLbmIzODNLZUxRSVN1dDVFbmNpX2JyalBnWExnQWlBNzZjSG9uUV96Z28?oc=5",
+      "published_date": "2014-04-17",
+      "source": "latimes.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "The art of the steal: college basketball's top defenders explain their methods - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSDFHV2ZNTGYwSFNFTW9IbFJxSjFDN21UVVNna3AwbXhWYmg5dVNpMmRTdW1SSlI3RFRXbGxBalN0bHZqNzdvM2Nid1hSWGR4ZW5HWGhMYk9DYjctam0wb3NyYndickl0NnlJOGk3dVpmWFllcVRmRk1GYnJKN1ZCcV9FRmp6ZTA?oc=5",
+      "published_date": "2014-01-24",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jordan Adams returning to UCLA for junior season - Daily Bruin",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdl9ZNk5vQWsyRlRnVWFaTkIxNnJESndPdDNWX0M3ckJGc1R4d3lCZXoyNE5pUXRRNnhIbGFVWTF0bDhJbGZaTEh0QWdkOHlpeGNMSVg0OXhzcVlObTVoVUZQV3pLSzR0ZW5uT2R2UWdsQVNRaEh3eWFrWEQxZXVJS1RteGxRZy1jblE?oc=5",
+      "published_date": "2014-04-17",
+      "source": "Daily Bruin",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "UCLA\u2019s Kyle Anderson, Jordan Adams, Zach LaVine face decisions on NBA - latimes.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYWdiSlU5R09oUU5SckpXVWFkM3JuMVVOcHZJc3k5NEVKN0NaNFJMLTRISEJoOW82ZUlHNlpnU0FTa2t3SHNoci1oMUs2TXFPbGZlUnZ4cmRZZ2tWWTRmSmlTbjlwVkN1TzZWRDJYY2FKM0NOWGVadkoydmdjRjRGclVUMA?oc=5",
+      "published_date": "2014-03-17",
+      "source": "latimes.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jordan Adams\u2019 exit alters outlook for next year\u2019s team - Daily Bruin",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcWJjQU5NTjg4UUxPWkhpdXBlOFFfd2ZPLThkUjkzTThGLTFScHNqemZaTXhkbllGZGJnd1BaRWNodE04MWdpRkNPUTNUWDJPR1JWeFJ5UmduclE1ZEdQVUFoWHA5VFZYX1N3QlpCRVlVNUtkRU1Fd0hZVUZIbk9ZYWxrc3RoOHBOaC11cjhQUQ?oc=5",
+      "published_date": "2014-04-28",
+      "source": "Daily Bruin",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jordan Adams proves vital to UCLA men\u2019s basketball - Daily Bruin",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSVhEMTBoV0NQNGY5dVdSTlV3bHFwSFlKRlJRMjZLS3JWUzVTMXB6TXlwd0RpTi01QXVCMHRBelBjR2w5QXFwbVBuT29SNUFGWXpzeUJBUURoR3N1MkNEQmR0bHU2WWdCcHNGcThBLUZ6UTNuWDMtc0cwZXNrZ0hISllLSXc5TVJtRmxn?oc=5",
+      "published_date": "2014-03-13",
+      "source": "Daily Bruin",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 3,
+  "response_sha256": "4276f07ea7892c4a01731a0836e67853e0c15ba703a7b84719d109f6c34bd5ce",
+  "feature_eligible": false
+}

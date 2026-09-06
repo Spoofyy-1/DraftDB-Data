@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T10:26:13.033485+00:00",
+  "lane": "news",
+  "pid": "Pde25a111c0",
+  "draft_year": 2013,
+  "name": "Alex Len",
+  "draft_date": "2013-06-27",
+  "status": "ok",
+  "query": "\"Alex Len\" (draft OR scouting OR prospect OR basketball) after:2012-07-01 before:2013-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Alex+Len%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2012-07-01+before%3A2013-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft 2013: Alex Len DraftExpress scouting report - Fear The Sword",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPenlQWUtRak5BWmtMZHpHZGYtdnQ5UlJzSmZUX1BDbmd0Zk9QSlB3d3BteXVNVGE5ME1KN3FlOHFUSllRNmlDMGVsNkFNUHVON2VQeUR6N2Q2dk4ydnJ1M0FULURjMGtIdzQxekczQkhxLUw3VkI2RVp4Y0VqekoxdmRVcVNrTWdTNUozd1kxZXpiU1VPVktaNzJwM0x2dzdOY2c?oc=5",
+      "published_date": "2013-06-21",
+      "source": "Fear The Sword",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Reports: Maryland center Alex Len to enter NBA draft - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU2xYeFBNTi1wNWktakZEMmRKcmk4elJGR0xxUkszaGFGLThTakZJaXZoOTVEcXNqcXdvQjBXZENQa3VlRDBGWDVUWWZSVlZiWHNTYnNoZWNtQTdCNGF6TFV5eDlLWHd2anZOd3l0TW42Q204UkhnMzZsYjJFVXdEQktkNFlQNU16R181TTBfbE92RDkxQ3c?oc=5",
+      "published_date": "2013-04-14",
+      "source": "USA Today",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Maryland center Alex Len establishes himself as possible No. 1 overall pick - Baltimore Sun",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY0pDYmpKUThKM2Vlakk1ZmNJTnJqSllvdG5McUxURW5yRGh1ZWN2NWUzNXlwOVhxbVk2X0FWazl4LWVIeE4yb2g2TGNKM3lMUDNOeEZ4M1NFc2lqUlpQUk82LS1SUFFVcjZBWXlwUnpERnhsdURfWXBLODJzc2pRb2Y5bS1vOF9qX093N0pRRm01UkpmOEg5b1ZqNUIwbHNRZ2xRWlQyZW5NNXIxWDRBeTliaWhidw?oc=5",
+      "published_date": "2012-12-15",
+      "source": "Baltimore Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Anti-NBA Mock Draft 2013: Evolution of Draft Express\u2019 Top-100 Big Board - Brew Hoop",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd1lLRjZsSFhDSG1FVGFxdWNoNmN4aDNsV1BQNVEwYU13Sk5KYktyQ2lOTkpIRS1Rb0hVSDdZMEdLVk0wNFRpeERoa0xiY0Vya2ROVzZ1c1Baazd6UzRHd1NHbm5qR1Y3bTl1Y1NwaDNtanYtUzA5MEFWbnNMZFVySUgzSDJTSjNIVm9KLQ?oc=5",
+      "published_date": "2013-06-22",
+      "source": "Brew Hoop",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Alex Len's girlfriend is taller than Michael Jordan - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeXlsbVBsM092SGxxS0tOdkpUMGNFMTNjaVUyQVJ1Qlh2TFhVak5uN1NjZTZpOTB4UnlJc0RwRmNVaVFHNTRGV1R3d09VWGJqSHN0cEJFTGFoTWl0ZEpnRzZDU0dzWlM4c0hvZ1BPWWpscXFvMTVKZ1dYMmpLZllheUhRel9nTTZjcG83ZHBWaGkxd0ZvT0FQdUtFTmtkQ1FOdWoteE5jVktac2d1NWhJWkNuenIxSmc?oc=5",
+      "published_date": "2013-06-26",
+      "source": "USA Today",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 4,
+  "response_sha256": "1d9ee64d7b2384373eb66e8b0c4a5fb9e513bb5e15a0d1a223a033d52f31843a",
+  "feature_eligible": false
+}

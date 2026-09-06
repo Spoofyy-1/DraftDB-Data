@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T10:20:30.224110+00:00",
+  "lane": "news",
+  "pid": "Pbe0e1f0064",
+  "draft_year": 2012,
+  "name": "Maalik Wayns",
+  "draft_date": "2012-06-28",
+  "status": "ok",
+  "query": "\"Maalik Wayns\" (draft OR scouting OR prospect OR basketball) after:2011-07-01 before:2012-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Maalik+Wayns%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2011-07-01+before%3A2012-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Wayns: 'No reason to wait any longer' - Inquirer.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRjh4dk1VVkF5aGFRRmNIaTlpV0RfSjE0S2RTei1wX092aFJZdUlOaVJHazc0dVRtaU9Da3FsbWExUEJ1ZWFuSTFOWVAzMXViVGlmR3RJQ1YyN09lQVNBaHhlcHl1dEhkLWhCdVlYRG5zcHlaWU5GYlgzTmNCNHdLRzluN3FsQUZXQ1I4VzJvclY5WDRHNUNwU1ZObmRDaXoyWFBlU3NicklEQXZUUlE?oc=5",
+      "published_date": "2012-03-23",
+      "source": "Inquirer.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Dion Waiters Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55bDlNQWlMNk9CQm8yVHZ5VEpQU0Z1cGZoWUJXLWZoUUFveGhlVGdOZWNzMWhpbTZ5MHR0RTBBQ2FTMHhWV3JLaUxJenFuWGxVdlQ3NVdBVlVMaDkzcDFucDdxRUM?oc=5",
+      "published_date": "2012-03-26",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "It\u2019s The James Breeding Show Starring James Breeding As James Breeding! - anonymouseagle.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMzVJaXlSa1ZQdUdPWUpibld3cWdaQTNDSzhiOHJfNzVEcUcxMkVhWTNWRGJ5dFZERjhPWGpYSU1wV0NNYTRmaThQTk1yQlRGd09oNGM5X0lNNnJKOVRVRnRabTN2bTdDNVBvWVNfVmFPU2pybkJhVTVTQjhLbGRBSXBBSDliaGZJRjZlZk5kalVrOHBxZXo5XzI4UE1UX1BqSUp1c3B0QWxpQVptRi1iR3pCM2xtZjE0bUxoaG41a2hQd05WWGp1U285MXlRZWd6b0pjajVB?oc=5",
+      "published_date": "2012-01-28",
+      "source": "anonymouseagle.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Villanova's Cheek enters NBA Draft - Inquirer.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdTMzdnBuMFZjMzE3SWYwZzZiSXN4SkxXMldzNWMwNUFWR0s0QXU1bjhQVjVPcjBkXzdXM1ZoR19uektnanoyN041ek13THFsOGJCMWxobWl1Umt2MDhmNC0tZWNQdEV1eHI1V0MwMnc2WG9XOTNoN1Z5Q0lEaGhLdlVSSndlcndwTFNLVE00bkRka1F0RW13V05xd2lxQks4VWNjZkp4Z1lIQQ?oc=5",
+      "published_date": "2012-04-13",
+      "source": "Inquirer.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Villanova's Cheek entering NBA draft - Inquirer.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYVVHVmkxazlxbmRZWVB1Zk9jeW5keDBWQXlZS1V4b2ItRzlzWFRMaW92T18wY01aVXhYVl9xVlZSWmRJOVR1eUkzT3lmbXMzMkp5ZWhJdng1Ul9DVEZDeXctQW5BeGV0U2JBSHVUYllWWldLTnl2SlVnZHpMZmJVSlJEajRiaFZvN0JXUEVRWlNHOHpjbHBHbnZVRmd6YVk?oc=5",
+      "published_date": "2012-04-12",
+      "source": "Inquirer.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "7824ca45f9ffb80a8a1637d90852cdb8cc56e99a1977ba6c5ca61fd81704e221",
+  "feature_eligible": false
+}

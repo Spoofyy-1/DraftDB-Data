@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:34:42.375300+00:00",
+  "lane": "news",
+  "pid": "Paae768e6c1",
+  "draft_year": 2015,
+  "name": "Ashton Pankey",
+  "draft_date": "2015-06-25",
+  "status": "ok",
+  "query": "\"Ashton Pankey\" (draft OR scouting OR prospect OR basketball) after:2014-07-01 before:2015-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Ashton+Pankey%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2014-07-01+before%3A2015-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Ashton Pankey is Going Pro - mcquad.org",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lN2tycnhSZVk0b3JfVld6SXkzSzY1Q1dzWHpFUE5UNEtqTndpajIwbjVFVjZjaGo4ME5hVjJsSjlIY1d2bXFBLWlPUUFqdklxMmNIOEx4MExQUlRRRFdCMzcxVVZNMHYx?oc=5",
+      "published_date": "2015-04-11",
+      "source": "mcquad.org",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jaspers overcome travails to win championship - The Riverdale Press",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdzlIVFhkSUJ0Vm1GX2VuRGVDUWkxQnFzdld3Rkw0VV9SXzZhMmVFOGN6MHZBT0p4N3J0cTZMNVBzOUdLenVZQWJzSzhHdjhOVWJ3LVRGWWQ4c0pOS0h1SGktcHFMM3RpYU9MZWthcHczT203Sk5HeFB1UU1DWWZpRDllQjdpc3pqdHJxd2JtdkVPbFR6?oc=5",
+      "published_date": "2015-03-12",
+      "source": "The Riverdale Press",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft 2015: Complete List of Early Entry Candidates - Liberty Ballers",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbVdrYmRONWdveGJERWhTSHZTVW43RDk4aGxGUjZWTG5hN0tuUEU5VTNvTFVpQ19KT0cycmtTLTRQckVVR01YUDM0SDR3ay0wdVg0Y1FGZGR0WGNvRWhDdTZPNmg4VmFuSDRIRkNLNDZpMWRxM09BQm54UWZuWE1WN0ZzOGJzZVBzcmE1WU1TX0gyUFBvNFUteGlnNms3aUNvN2hjLUdOcDRteTdjSzdUYk9qM0M4aGRFMDllVE1HYkMwbGtRTzdreXR1Y3dtNXg3MzBBbnRPS29yeWVi?oc=5",
+      "published_date": "2015-04-30",
+      "source": "Liberty Ballers",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "One Year After Scandal, Masiello, Manhattan Headed Back to NCAAs (UPDATED) - Zagsblog",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVEFuSXRtUXFJNm4yb2dTNi0wSWgwdkNzZDFReDc4OXdhM3VVMnBuUy1KTXZNeldGM3hSUEtMdGxNUks0OUNrLW92WldTVnlNWE1QV1NrMnZ3cXdGeEw0ZTRRZWtVRVAzRTJlZXRQOGdFQ3loVk13RzY2bVpmd3FLNEM1VVVKOGZoakdjWnN6WndiQmFibmlrTGZPV1cwQmxX?oc=5",
+      "published_date": "2015-03-09",
+      "source": "Zagsblog",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "30802c04d78ed69c9ed1eaa685f4bd795088d8c0e38907e64735389ef21571bc",
+  "feature_eligible": false
+}

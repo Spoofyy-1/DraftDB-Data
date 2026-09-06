@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:20:20.171790+00:00",
+  "lane": "news",
+  "pid": "Pb172e7dcfc",
+  "draft_year": 2012,
+  "name": "Jeff Taylor",
+  "draft_date": "2012-06-28",
+  "status": "ok",
+  "query": "\"Jeff Taylor\" (draft OR scouting OR prospect OR basketball) after:2011-07-01 before:2012-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Jeff+Taylor%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2011-07-01+before%3A2012-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2012 NBA Draft: Top five players at each position - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUFZLOXFIX0RZSlFIYko3NWNmUHpqTUhTRndaZVFqRWNwb2JMLVpIRnU0QktYNkp1a3RCYnV1V1NrNG9EN3dpaG1sNWdiTmRncXEtVXJmQzFNdUtOM0p3alhPbEFMejJaTklYRWFJLU5aR3RDX2pQZ1RNSWgwSzNzYzgxM3ZKbTlC?oc=5",
+      "published_date": "2012-06-26",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Draft is Danny Ferry's first test as Hawks GM - The Augusta Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU3FORU1sN2FkWV80OWRDUVVaZ0tUQzNEb1dHMWZPR2tlek9jM0llbEE5YzNfNkdSa1E3cFJaNjdXakVzWS02ekxPdndnT05ibUhST1hCUEQ0YUZUN2stOEppNllERzRxNllmcUplRklZODJXU2xDM3d5Tnk0UFduWXh0T094TDdjV1QyRmI5R2FQcjlFS0dwV3R2QjZDNTVNQnMtTUN4QlBhYVNwdWxMRVVn?oc=5",
+      "published_date": "2012-06-27",
+      "source": "The Augusta Chronicle",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA MOCK DRAFT 3.0: Here's What Each Team Is Thinking With Less Than A Week Until The Draft - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DMGZJZk9sM096c0JkR090RWxMY01aYUd2UGpKSXNiX0VLWWxMTGVHZDhKZHZpbmhBQmhDUFE5QTdYUjlTZjVnUTllamJpVWJpOWIxS2hqcWRBcUt1RVRQTDREYk5FNkFZdmlhNHJn?oc=5",
+      "published_date": "2012-06-23",
+      "source": "Business Insider",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Joe Taylor - The Arkansas Democrat-Gazette",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc2RpSnRmN3FDc1RmYUp4TlFBajh0cDk5cjA2cThDWXBFZ09NTjR4eU1jNmhmZkJySnJkVDM2cW8tVmNHU005RkdabjdqbUFDUzNaTnQ3YUw1Sy1CMkxaaU1GSUFjaG52ZXJKeHNvNlVwTjAxdGl6djF1MzdCN2J6N1JB?oc=5",
+      "published_date": "2011-08-30",
+      "source": "The Arkansas Democrat-Gazette",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "95ad0921e6b982b5621521c1afbe427f91997d5498d89d8a9de123ecdd24e3b4",
+  "feature_eligible": false
+}

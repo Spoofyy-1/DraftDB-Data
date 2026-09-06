@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:33:07.738445+00:00",
+  "lane": "news",
+  "pid": "P4ba2b4830d",
+  "draft_year": 2015,
+  "name": "Luis Montero",
+  "draft_date": "2015-06-25",
+  "status": "ok",
+  "query": "\"Luis Montero\" (draft OR scouting OR prospect OR basketball) after:2014-07-01 before:2015-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Luis+Montero%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2014-07-01+before%3A2015-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Displaced by Hurricane Katrina, Kelly Oubre has Made the Most of His Chances - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObjFialBKMUxSYmU3QzVVNVQxZlVBQ1VIZTdlWUhORUdaM2EtUFYydFhZZTVISkhURTE4ZHFYbXd5dUZzU0o0Q05xcGt1N0hjRU0tSDZzZGM2Q0o3X1Q2b3hSSGJfbXZFOUgxX3pwNmFJQjRFUE1EN296V0JEOUNkeHFJem1JekhnVUtMRHRxX2Q3OWVGVldJ?oc=5",
+      "published_date": "2015-06-02",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Will Keith Thomas, a crucial piece to the Red Storm frontcourt, be eligible for St. John\u2019s this season? - Rumble In The Garden",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbHdzOHgwMVNUbkFRWlQ5bml6RzVmN2tIaGl0cUQ0Y2RnTUhBQ05ERFBXQzBwZGU1ZXhTTVpzTU9uaHlYOEhMZS1kODVoYjZpd0RzdGxBNTBWSTVzZ2VUdWxNRUI0cENPN1d2dXZzZUVuUEp2T01JcklrOHp1YjhLWkl6dW1JdEx4aWtoSGZmT1Uzc3lKYTBNZXpab3pFSlp0RnNsd0FORWtEdUJOUjNuYV9pcTJOTGpjNXlxNGVreV9BLTVXSWd3clRn?oc=5",
+      "published_date": "2014-10-28",
+      "source": "Rumble In The Garden",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Man in prison for 1990 subway murder of tourist was not near the attack: witness - New York Daily News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM1d4NkhJWDR3cnpzc2kyUTVrYmFVamFhV1VPQWNCQmRDSXhhLS1Vd1lrZnNJRV9pSzNsZnJMcWZDb0VNNUxzZzVSNGVVMFRJSnJUMW9vdUFNNmZlVUNOOV9idGpWVUI3ZDhKZm9zcUVuWlU2Sm4xbWRSOXNKUzJLeDFmdDduaE12VlZMMGlyV0lja2pxUTd6M3oyYVNEaVd1dDhjMVVEdGJORjF3SzhUT2N4ZnhxQWF4YXEw?oc=5",
+      "published_date": "2015-02-19",
+      "source": "New York Daily News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Pacers take a look at potential lottery pick Kelly Oubre - IndyStar",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOHExX2dWR044OGlCOGZDTXdxUXE1LTBTRTAyVVBkR3hvXy1MM2YxVXlHbGV6c2FPZFgyOHVfNGpleHBwYzRVYktQUE81akk2NEQ0WGlGZkZuUC1xcDV1LV80MjdYcUd4NVdmTEtVSHp3Q1BZMU9zbXg1N1plTDR4TlJCUUkzRUVWU1VvUUFNd1FVa3RJNmJ1MzNSYWlCSjF6VkFkNGwxS25icVlfT1lzcjJIcw?oc=5",
+      "published_date": "2015-06-03",
+      "source": "IndyStar",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "fdd09796dc11cef46bc4cd6e405a70ac00588663f2ec69a2fece945f9dd6effd",
+  "feature_eligible": false
+}

@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:35:31.419481+00:00",
+  "lane": "reports",
+  "pid": "Pbb710ba6e6",
+  "draft_year": 2011,
+  "name": "Terrence Jennings",
+  "draft_date": "2011-06-23",
+  "status": "ok",
+  "query": "\"Terrence Jennings\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Terrence+Jennings%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft 2011: Enes Kanter and the Top 25 Best Big Men Prospects - bleacherreport.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd1loZW84cUVOUXk5ak5GRDhNM1F1aERsdDNibTBaQWowSzdBYnpnTU9hcnVXS1pBbmZxbDA5YTc4bTBwVS1UcU9JZHlTN0wyU3NQeEJ3ZHJ0SElZcGNZVWE4RUZfZEVtZW5vM3dXcUh2SEQ0c29yVnJCQnR0LVMzd2VybGZEeXFXdmxPeS0yTnM4eVlQOWhHSEhJeGY0Y1hHd19ad3BqbWhJa3M?oc=5",
+      "published_date": "2011-05-16",
+      "source": "bleacherreport.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "fbbe3ccf99d636b7748926a1f3cb70f4e21ff6a9d43aabb47a7d5115bca8d2e9",
+  "feature_eligible": false
+}

@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:34:42.108003+00:00",
+  "lane": "reports",
+  "pid": "P85135a294f",
+  "draft_year": 2011,
+  "name": "Jimmy Butler",
+  "draft_date": "2011-06-23",
+  "status": "ok",
+  "query": "\"Jimmy Butler\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Jimmy+Butler%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Jimmy Butler finds a new home, hope - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVURxVkRRa1NzNWUyNk9FZEl3R1FCV05wcGFTZURSd2xPQXhkYlZLSnNFMmhaUXJ4N3dJM3FZeExjOE1uYXJEOUZaMFZRZGhfNXpiZUxDTUItcmZvNTNpTnM4bDRZNzdlNXUxZHlkR1VYVktuVzBvamdadFNyZWNwV2I3RFN4M1FCakhUelI0LXAtUUU?oc=5",
+      "published_date": "2011-06-18",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft 2011: The Top 60 Prospects on the Big Board - bleacherreport.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUG9RYXE2NEpmUElER0I3NHo2ajhfTWpuUmxuV3RNUEVqamM0elZpZnd4V2JLam9DeDJsSTM1M08yakNqNzczdm1wMXllbkttQ1BxaEtfTjVUaE1TV21jcHZnOFliZnJydTMydzBGVUVPZTBtX01NMzFUQ3NNMFQ3WFBXNFhaWTVrVUkzWGtiYWJKeWEzVjIxRWZGUQ?oc=5",
+      "published_date": "2011-06-19",
+      "source": "bleacherreport.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "1a4618382cea9019d23750d4596e3fe38d7b3292b106e263fa55152ca43d8c1b",
+  "feature_eligible": false
+}

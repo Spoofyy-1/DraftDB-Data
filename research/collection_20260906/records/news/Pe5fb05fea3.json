@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:49:01.249930+00:00",
+  "lane": "news",
+  "pid": "Pe5fb05fea3",
+  "draft_year": 2017,
+  "name": "Anzejs Pasecniks",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Anzejs Pasecniks\" (draft OR scouting OR prospect OR basketball) after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Anzejs+Pasecniks%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2017 NBA Draft: Final Top 60 Prospect Rankings - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSUVHVEFiV09BZmlrakZTMnltOUxXbnZucnl4THAxZmtKcEpIcW9NYnVYd1Z2bFp5NEM0MjRYR29acm1pYmtTNnU3RVo1T21JYXFEYldCNjlaR251ZXJ4eGpGbTlIME1XcWhTY2J3a2dHQ1FtQXJmOHdOdTVoVW5MSVZfVkdySzlHVlJueXFXWHFlaEhacE1LLWhubnNibl9RejV0RU90cENfNnZvaEN2bGRB?oc=5",
+      "published_date": "2017-06-21",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "For 20 years and counting, draft night an exercise in patience for Spurs - San Antonio Express-News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdnV2aXdaSy1JU1Rkc05LLXl1RWRJU0RTRWpWTWd1VV9La0sxYzVpMVRESDNaQmhtcElTaDk1Wks2RkdJMFN1YnRGRktDcHhNQkVfRFhTQmJSejVrbnhmWDEtdE01ZVUtQ29xWTZpaXg3eUNRNXRFSjFVZktZdS1DZ1hhaHFlWG13VjdFYTlhOXdkaWRMVUdRVlZBN3RWWGlnTFZETg?oc=5",
+      "published_date": "2017-06-21",
+      "source": "San Antonio Express-News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA transactions: All the moves of the 2016-17 season - HoopsHype",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeDhGUXpIOXlabWdVZXIzM1JIZ1FHWWFRWUVyWjEwZVp6Tkcwa2k2S0pGalVYcWZUSzY0WmFnMGZmZHN1aHdoSXYyU0NzUWFHZUIxRUc2N2Z1a1B4cGlpYzR5VFNYOHpwMDlqMDRjQ3NZOXY5c01xWGR6aVV6R3FiUXUtcE1rTW9uRll1Nk9zaVo4NDJDaVp2bjIzQ2ZUUy1iU183dHhDQnp4NWFjUHZmMWFRTnhkZHNRSXdF?oc=5",
+      "published_date": "2016-07-03",
+      "source": "HoopsHype",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 6,
+  "response_sha256": "733db759ca8c228d02f07d150493ad4a6aa0391059914e58e381647b81899c5e",
+  "feature_eligible": false
+}

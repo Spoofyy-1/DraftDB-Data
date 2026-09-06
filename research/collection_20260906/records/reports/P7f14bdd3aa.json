@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:34:38.847641+00:00",
+  "lane": "reports",
+  "pid": "P7f14bdd3aa",
+  "draft_year": 2011,
+  "name": "DeAndre Liggins",
+  "draft_date": "2011-06-23",
+  "status": "ok",
+  "query": "\"DeAndre Liggins\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22DeAndre+Liggins%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2011 NBA Mock Draft: Full 1st-Round Mock, Who Will Be John Wall's Running Mate? - bleacherreport.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYlFLNDRYRXM2dUpuQllUa3NTUy1hM3RMaVVDelFMTmpfako5clFNTUdyVmFjZFg2LUtzcWNNR2ZYLWlGOVZvTzFDVFdVc25NZnRFMmsxSEU1dXU3VkpzNDBPSjFBUVpTcW93VnFMVjdXN0NEcWJsTWp6MGF4aXVaRnNTT0taclZGWm5WTnJIN2o4ZnF1ZllGVFJBV2NObG9tUWFOaC1wQkxJeXhRVWJWcEdCM3gxLWZoWGc?oc=5",
+      "published_date": "2011-05-17",
+      "source": "bleacherreport.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft 2011: Kyrie Irving and the Draft's Top 15 Perimeter Defenders - bleacherreport.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT2x5ekh0VnVWZzRiQk92UW9MRUVFSEt6VWNwU3pWZHpjX0tIWlk4UWp2MTVIci1fVENWNGhGbDdXc3EyQ2F2VWl2UEdWaS1qT0dZMUhyMWZVWEx1aHhaN196MlA4N1pZNUVxZExGLWdrYVFHQzVyMkc5VUtqbWhwRjF4aUdmbFBxdmpmTkpHZUU2RllwNFlwTU5nbDlOdUp5ZnZFVUVuaGtaRFhPTjMycEFn?oc=5",
+      "published_date": "2011-06-21",
+      "source": "bleacherreport.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "402c5901a9c4e2bb64009056483fbb12b0bf476936afdc08b8fb0bd85b7f281b",
+  "feature_eligible": false
+}

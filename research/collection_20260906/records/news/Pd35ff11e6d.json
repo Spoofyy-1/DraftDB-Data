@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T10:30:57.098613+00:00",
+  "lane": "news",
+  "pid": "Pd35ff11e6d",
+  "draft_year": 2014,
+  "name": "Deandre Daniels",
+  "draft_date": "2014-06-26",
+  "status": "ok",
+  "query": "\"Deandre Daniels\" (draft OR scouting OR prospect OR basketball) after:2013-07-01 before:2014-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Deandre+Daniels%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2013-07-01+before%3A2014-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "DeAndre Daniels leaving for draft - ABC7 Bay Area",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NemlfekZCTXBNWDJMekVsV3MzMFI2UXNkeFBKLWw2dTNINTdvUVRqRnVLdm9MZTF5QkNKWWR1VjhmenhPdFZLMTN0c1F2MEVYdjFkUHVzeW5tVkhiRk9OaXhzcUxHUmF5UHFLSG9zeERkZFRw?oc=5",
+      "published_date": "2014-04-25",
+      "source": "ABC7 Bay Area",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "DeAndre Daniels NBA Draft Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QSDFubHI3bndENTJzQkhxUlgxRmVMVUljRzViZUVMbmVyOVZBZ09KUHhkN2pGSUdnVU94dGZhUy1hUmNKX2x2OTdhLUtVbjZMd013eDlidlVHQlBXSnk4Q1NRbnJYc0hFRzg1WUhuZUZ4NTF3bFE?oc=5",
+      "published_date": "2013-08-08",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "DeAndre Daniels leaving UConn for NBA, Ryan Boatright will return to Storrs - New Haven Register",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQWFybUhIV1l6ZjNzRUNCNTBsUmV1UmFJUzBCeWVuNTluQ2JMNzI3b21UWHdkc25HT0o4UWY0SHBTU0t4UlZ2OWpsdzQ5Uk5MbGVlWXVJWnU1azc0ZlNxbk9aUVotOU1yRTJ5UjlpSjFocHBQWEF3RGt6dm1tdnVieG95WEw0N2FTeU1wd0oyMEFwaWhrcUFsejV0VVE?oc=5",
+      "published_date": "2014-04-25",
+      "source": "New Haven Register",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "DeAndre Daniels to enter NBA draft; Harrison twins staying at Kentucky - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM1h6TEZtNEZDcnN0WGJnSXotLV8wQWM4Qmx1cnpna3JjcEk4cTZEYTVDWDJUOGNYYzVSaGxaLTBXdzZUcHBqT3JLVXlKRV9GVzAtTUNmcUdJZzc2c2pUV1Z0YW5meFZVLUtDSXhrTVh5N3hUcDhBVTZDQzZydEVlaW9pUFNkcFE5R3RYUlBuOHZXS2RIXzZpTWY5OEJZeXk4REV3SkxtNnNwbnVCaFJn?oc=5",
+      "published_date": "2014-04-25",
+      "source": "Los Angeles Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Daniels Declares For NBA Draft, Boatright To Return To UConn - University of Connecticut Athletics",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOGNxRTZQejRCSDhJb3kxR1lGNUNtMk5Ha25iMVJvcGdvaUhZbzFSRFVBck1VSGk0RllFcUFIZkVoSDVfb3ZpQmdDZmRLMWE0bXM4TzFJZmV5cWxCXzNDNnNWbHZXYzBVb2pnZVhsRHM3MUpyR0N0a3lBUlRmWG9tc1VhRldKZE4tT08wS2xSdXFQemY3OVF3MGpIU1VCTzNW?oc=5",
+      "published_date": "2014-04-25",
+      "source": "University of Connecticut Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "9fd922ab431df706983b0c5440fd9a0970b5877819d8fdd7d365bff358c801ff",
+  "feature_eligible": false
+}

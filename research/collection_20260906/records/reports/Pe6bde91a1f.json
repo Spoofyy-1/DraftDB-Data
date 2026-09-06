@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:36:27.376585+00:00",
+  "lane": "reports",
+  "pid": "Pe6bde91a1f",
+  "draft_year": 2011,
+  "name": "Keith Benson",
+  "draft_date": "2011-06-23",
+  "status": "ok",
+  "query": "\"Keith Benson\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Keith+Benson%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2011 NBA Mock Draft: Will Jimmer Fredette Fall out of the Lottery? - bleacherreport.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRnRBbjQ3YjRxeEpZSWpWSzJxZVRrQm1Nb3ptNDRmS0Fhb3JJUnVIaW1Lc0FOTG1hSXM1bGlOajloNjJ5cjUtZXgwbGNxNEQ0N2NmZDdRRnhaT3lFZTduX3BvT3hEZlJOa3BxamllTUF4dWZkSm5ENFBkR2lkVjRjeWNHbElXNExFVFpnNEJrTU10VG5UcE5Ub0tZX05jdXpiMW04eHpvNktRUnc?oc=5",
+      "published_date": "2011-04-17",
+      "source": "bleacherreport.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "e38db661131287983d6206149a5c68364b0b94ceb4dec15e5eeae2c89af456aa",
+  "feature_eligible": false
+}

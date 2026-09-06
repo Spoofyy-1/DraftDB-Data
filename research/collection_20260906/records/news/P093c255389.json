@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:32:07.157295+00:00",
+  "lane": "news",
+  "pid": "P093c255389",
+  "draft_year": 2015,
+  "name": "Jherrod Stiggers",
+  "draft_date": "2015-06-25",
+  "status": "ok",
+  "query": "\"Jherrod Stiggers\" (draft OR scouting OR prospect OR basketball) after:2014-07-01 before:2015-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Jherrod+Stiggers%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2014-07-01+before%3A2015-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Jherrod Stiggers says decision to leave UH was with family in mind - Chron",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPakFnWU1GNHQwSk50SXJkdEVGSHo2blNEVDhwZUdLSW9qRWdjclZLTjVTWDdSdExhall4ODFIYTVjZncxUUlYclJaQmdibEhiQ2gzYUJoRWkwSW9yYkswVXZWbkgtbE9EcFFGYkVIR0M0eVlzekdDY2ZjaXQxZE1iSzBlNzRJTHRDT0FQRFZFYlhMYmtXTzNrQlF6MTVURDg?oc=5",
+      "published_date": "2015-04-02",
+      "source": "Chron",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Houston's Jherrod Stiggers to turn pro, has hired agent - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeFZlWlZoUkE4VnNsVDJlWFFJQXlPVW9BV1JOLU1yaFJEc3IyZWNGYi0yQk9veE1fMGZaOTBrVlNwTjlPZ2Z5Y1A4WUJZUmN2VDNkc0VjaEZITmplOF93OHNTXzJTMklNX09YQmRrdmJscXdEZzkyUkYzWC1QREczb0I5ak5hMXAyYlJGblZPWm1UMmtONjNxaXJZMkJOQXdLd2lCZGVNOA?oc=5",
+      "published_date": "2015-04-01",
+      "source": "CBS Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "8cd43ed94c759e4f71a33bfe9753c8d5de769dc04208a6fc7bbbd090cb6a2abe",
+  "feature_eligible": false
+}

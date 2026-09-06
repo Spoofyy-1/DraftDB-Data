@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:30:16.920107+00:00",
+  "lane": "news",
+  "pid": "Pb59dd639f9",
+  "draft_year": 2014,
+  "name": "Damjan Rudez",
+  "draft_date": "2014-06-26",
+  "status": "ok",
+  "query": "\"Damjan Rudez\" (draft OR scouting OR prospect OR basketball) after:2013-07-01 before:2014-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Damjan+Rudez%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2013-07-01+before%3A2014-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Sources: European sharpshooter Damjan Rudez gaining interest as free agent - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaUVkWmtwWXV2azhtWXVWQjNBeVdLMVlrQUVDVWttdGlOUzJpNFNHOTBBcjEweVVlV3dJa1RvYjdBRktTaGY1ZmpfRXI4N2dkN1RKOGZab1BseTZ3SjExRDFuWkQtTjlzZFRMblpTNUNhWjBZUU1wOGZJcmlZajh6bmtfWVFibEpUVVJOc3h1QXBxOWppMWFZZkw5OTk2N25VdlhWaXpYWmw3ZjM4Q0lzMERwY3ZoTElYS2hv?oc=5",
+      "published_date": "2014-06-11",
+      "source": "Yahoo Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "10aa52186946dbefdd35317a4120c655ddd931691a3e05b678cc7db9b8c69405",
+  "feature_eligible": false
+}

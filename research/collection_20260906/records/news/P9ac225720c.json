@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:46:45.014738+00:00",
+  "lane": "news",
+  "pid": "P9ac225720c",
+  "draft_year": 2017,
+  "name": "Josh Gray",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Josh Gray\" (draft OR scouting OR prospect OR basketball) after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Josh+Gray%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Wallsend brute strangled partner and warned 'the more you struggle, the tighter it will get' - Chronicle Live",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdXdSVklKbEdQa3lQRTFQQWt6WnRoT2NJSkhfNFR1dnVYcWc0dkFrNzhtZjh5bFd6QS1aQnhhQm5RYjhaQzRORklXOVZCczlyUjBtNFBnSGM5N203Z3VzMEtoclV3V3RfOWxhXzhGTDZqZl9qbGJ0b0pUOWNwbWFpT3daemktNWgyT1NQdW5qLU9mZkdfUGFrRUVSQ2xRb0RHVXFn0gGoAUFVX3lxTE5lUmNpUWpaTThJOVJ0bXk5c3F5RDdjMkxnR2xTcHJjWmFkTXBIQThITUh5eThycGxwUXRidHk0ZmUzNnpkTE90NFFqeXlUNlU1Z3VXTFR6bEhMQ2dHdUswZFlSX01SbjR1Z2pNUGdvQjVBYXlvS0YzLXpsYjE1LTJWU19uaV9BOVByeXJraHpFUUg4ZGUxUERJQ2xVT3I5NGVVNGxXdmloeQ?oc=5",
+      "published_date": "2016-09-09",
+      "source": "Chronicle Live",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "979443c57587c18512611a60148c69a3560d747bce7c56e62c19ca9495b48313",
+  "feature_eligible": false
+}

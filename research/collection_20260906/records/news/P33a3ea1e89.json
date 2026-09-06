@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:22:46.881012+00:00",
+  "lane": "news",
+  "pid": "P33a3ea1e89",
+  "draft_year": 2013,
+  "name": "Troy Daniels",
+  "draft_date": "2013-06-27",
+  "status": "ok",
+  "query": "\"Troy Daniels\" (draft OR scouting OR prospect OR basketball) after:2012-07-01 before:2013-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Troy+Daniels%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2012-07-01+before%3A2013-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "College basketball's opening night - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdzJVMnVpZWkwSTk1X19LeUtENXR2VjZYTE1nMDQ0ZXpmRXNvdU50bk1ZRnJYczZSdHNDc0JWcGV4VTdhT0ZjdW5Ld2Y1enpyYUtKVzZDM2lFel9ZZjJldXFLVUtaU2pIN3Z6QVRva1BFOUl3c2dXQk1MUnB3TFZCWUY0RWotV3RfcU5lTll4eEtBc0N0UklkdXJzUERNZ0kxbmJEZVJCMlFHRVE?oc=5",
+      "published_date": "2012-11-09",
+      "source": "USA Today",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Xavier Drops Close Contest To VCU, 75-71 - Xavier University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTjVJS0RuMWxKRlVVT2hicnVlc3VvZXp3R0Z6YmdIZFEtMmNTaUN6ajlBV1N0bGgySHFwZi1xUEw1aUlnd1pqS1pKZXk0UF8zOWM2Qjc0MV9VaEx3eGdTNWM5WENZUlZuWXRlR0gwVkZWdmRvQnBrbENZWUhSNmxwNQ?oc=5",
+      "published_date": "2013-02-23",
+      "source": "Xavier University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "VCU ruins Grant\u2019s return to school - Commercial Dispatch",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Lb2h3UDNWS2tvMGNFMjBfTkdfblZyaERXakNIaUdsQllZRWNsdGdBc05GSkg2UUliMmlCSUxTUGIzNWsxMGRULVhLR2k2VE5JN2R4T1NtZnhseURGdjMzelhYTHpLTXlialdDSS0tOWI?oc=5",
+      "published_date": "2012-12-15",
+      "source": "Commercial Dispatch",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "af7659600129d3679c85c8a73c88fa07d1686a443b1536dd9199a0a5a00d4508",
+  "feature_eligible": false
+}

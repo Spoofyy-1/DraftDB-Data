@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:32:56.981119+00:00",
+  "lane": "reports",
+  "pid": "P3ce7981258",
+  "draft_year": 2011,
+  "name": "Isaiah Thomas",
+  "draft_date": "2011-06-23",
+  "status": "ok",
+  "query": "\"Isaiah Thomas\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Isaiah+Thomas%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Washington point guard Isaiah Thomas named after Pistons legend because his father lost a bet - MLive.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96ajZIQTRSRkZfQmEyQlRpVlhDSUhtQVV1SjlWQVdaVUxnVVlHNDhjYnFkcUsxeGpZemszeVAwLXNPNmtweEdrS1VYWmdfSTViNFo2S0o5czR3eFdHbElvR3hmT29reE5SbVVfVUlmVFR5NE1vQmJYUUhzaW8?oc=5",
+      "published_date": "2011-05-24",
+      "source": "MLive.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "d8d4f66bf847b4c5b76922a913fc4fbac81b58c8dbe8d216d4b222f97b815482",
+  "feature_eligible": false
+}

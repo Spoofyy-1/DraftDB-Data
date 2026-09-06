@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T10:36:30.634106+00:00",
+  "lane": "reports",
+  "pid": "Pf755f2c0c0",
+  "draft_year": 2011,
+  "name": "Jerry Smith",
+  "draft_date": "2011-06-23",
+  "status": "empty",
+  "query": "\"Jerry Smith\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Jerry+Smith%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "4db4fa37a06b0c0dcf6ca37e4204ce8baafd3d35e25417991c438e2a57bc14cf",
+  "feature_eligible": false
+}

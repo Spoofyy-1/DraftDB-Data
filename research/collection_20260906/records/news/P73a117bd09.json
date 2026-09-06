@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:24:13.432542+00:00",
+  "lane": "news",
+  "pid": "P73a117bd09",
+  "draft_year": 2013,
+  "name": "Robert Covington",
+  "draft_date": "2013-06-27",
+  "status": "ok",
+  "query": "\"Robert Covington\" (draft OR scouting OR prospect OR basketball) after:2012-07-01 before:2013-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Robert+Covington%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2012-07-01+before%3A2013-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Men's Basketball Runs Over Fisk, 92-53 - Tennessee State University - tsutigers.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zQ1JhVG4xNU9KS1dMSlhpRk9Mczlvd0U5MHdRTkNlbzVJMXNsOGFGMHdPQXA0UnpDbGwxdTdNZkNZU0NBOEV1Y2ExV3lJOWNDREZDcmQtd2k2eGhJR0tmS1Vhc0NDMWZCYUl0MlhIbw?oc=5",
+      "published_date": "2012-11-27",
+      "source": "tsutigers.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2013 NBA Draft Combine Measurements By: Aran_Smith - NBADraft.net",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kcm8zS2RTMDVPeENYa3QxdW8yeTV6enRTRFpFRnRJWDJYcTlSSWkyNkdSUnNCRExjUUN6MzljQ093OVdmUTlCRURQMjVoVUJGMVZ2ZnJncDZMMWRxdkZxY2NqUzRmU3lTbmdnMnN3?oc=5",
+      "published_date": "2013-05-17",
+      "source": "NBADraft.net",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "vjl110\u2019s Draft Data: Comparisons, Expected Peak Values, Star-Starter-Bust Likelihoods - Canis Hoopus",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbVRQT19aZFhqa1ZkR1RHNnh1RWJYYVdLeU5EamVyZTZZYVJoSGNuMTJicWpUT1A5MzVuOVpHQTM1aWVFdjBwWTJKOFNId3hJdTNSSDZPWXVFYmFUX2Y3aEFNT0lGYmtsVEVKTkFfZ0Y1NFEzZXRUWFdVNU9rRzJneEJTN0xUR3VCVXg3dFF1eGplRGhqZUZQU0xRTjVlbEJCdnBwRGZBLWFPUWxIem5ZaEVfRnk?oc=5",
+      "published_date": "2013-06-03",
+      "source": "Canis Hoopus",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft Combine: Which players had the worst Wingspan to Height Ratio -- The Alligator Arm Index - SLC Dunk",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRUh2czVzdURSVzBaVzYzUGpxNHo2c1hjYWR5Q2VBMnlPa0RyMnYxaFlFYUFsOVN6R3BRWEJSaEg4RkJvNE15NTZ3UlFDcXM0VHE1LW93d2tZRWFUeVpoOEgtdFpIMmhPYWRhNGsyOUctSUs5cFFkTmthb0xKbHBkUExSdnNrOVFpRkROOHpBRmNLVGRDT2lDc1BSSGlDWExaQVhTQURSbFBaUQ?oc=5",
+      "published_date": "2013-05-17",
+      "source": "SLC Dunk",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "3674939d38536f2afd16b46cc61894ce9ffd8b763a5abc5f37aa11b04ff4d8f5",
+  "feature_eligible": false
+}

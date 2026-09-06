@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:22:03.506013+00:00",
+  "lane": "news",
+  "pid": "P05c9e8e43e",
+  "draft_year": 2013,
+  "name": "Gal Mekel",
+  "draft_date": "2013-06-27",
+  "status": "ok",
+  "query": "\"Gal Mekel\" (draft OR scouting OR prospect OR basketball) after:2012-07-01 before:2013-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Gal+Mekel%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2012-07-01+before%3A2013-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Q&A With Marc Stein: Born to Cover the NBA, but Has Plenty of Time for Israel - Haaretz",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbjB5UXJhMmZkYkpUeERtR1JiR0ZXOVpJZWEzUFpFVGNBejh3c0c3VUt1MzE4ZXlPd05jbnJBbEd2SlFubkpJUEtoV0U5NHZnVnczenlSNmtjT3hkSUhWV0NZcHROWkFoYWRpQ3c5cGlmVGh0SktRWE50bC03Ui1aZkhyLW5DazRGZWlCUkN4VzM4bXMxU19NQkliRU80LXV4ZmJ4N2xQcnV0cE5lQ19OZlctdDFkVUV0RXZjUmI4Y3VRTTBXeG8yajF3Q3RZUQ?oc=5",
+      "published_date": "2013-03-28",
+      "source": "Haaretz",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "f49c84a09bbdd9145c439c3f40442650a1375f5bd41008cb977d0da2672904d8",
+  "feature_eligible": false
+}

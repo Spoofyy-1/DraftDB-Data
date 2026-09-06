@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:29:33.719001+00:00",
+  "lane": "news",
+  "pid": "P9c40b5aa37",
+  "draft_year": 2014,
+  "name": "Will Cherry",
+  "draft_date": "2014-06-26",
+  "status": "ok",
+  "query": "\"Will Cherry\" (draft OR scouting OR prospect OR basketball) after:2013-07-01 before:2014-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Will+Cherry%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2013-07-01+before%3A2014-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "22 Photos Iowa Energy Battle Canton Charge - The Des Moines Register",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUWIyNUticGVTWmVndV9aRHlfMUNpUWZ0cmZfbEVCWEs5UXJQZUw2TGt0a0xGNENIOFFkdURDbmRrMWdZWFl3TkZwRWhhM0luV0ZjbzloMkhkMjhFVVJNdTJqT3BaOGs5MHlkaUt1ZlBUZHpnY3BpbDNVRVY2WFd4NGd1M0JCR2xGSkJIZTJaSlVPbV9YWEZsdXJTREZkWndTQzNIMGdxaG9kOWxfMmJ4b21KdTBtTVZ5N3pj?oc=5",
+      "published_date": "2014-03-29",
+      "source": "The Des Moines Register",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Pelicans.com Frequently Asked Questions: Summer League - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOalBsMjhFb0RWVU4yVWc3ZjVYa2lETDZLUU5hTDl5UWRCLS1wTzMwZFNGNnZvQkhTSnJ4R0xmRjh3WDJNQWFJeXhZU2hkNmRkRUFKdVpFQkN5bklvYnFUNFhFZzFvZ2NvaE9ZZHd2QmlCa2lYUzkxcFB3Tk9sVHFsZm9jdk5Dc1dpNWx3ekJUVQ?oc=5",
+      "published_date": "2013-07-08",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Kareem Jamar finally gets a shot at being the star as Montana shoots for a three-peat in the Big Sky - NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWS1jQ0FLUlpMRTY0aHUtcjZ3TXg3T2VkWnFzSUdRX25JUlN4c3RISG1GLW1RMGxPajY3OEtFejlqNGotUUMwMWdtUm9pclBMM0M4Y3dnVnZ5SGJrRVNJOUh2NnZKdkFxa0hMbWo2enhNRGg4LTJZaG9qRGpkQkVPYkZUajEwcXpla1Y0aDdlQkJFSjFncVAxcmNVQzdsMWNhZmR2Ynk2ajFUTXIxRF9iVDhzY1pQa1FBYlcxVVJwODg2OUJudm5GNGdDSVd5VWwzNkw0dzVQbmNIWDVOYTVUbE5wXzU?oc=5",
+      "published_date": "2013-10-14",
+      "source": "NBC Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "ae3a42fc161b28e417de0f3ec9645791afb7aa0fb8e1b6c9c7dd22b2a2c3f0a5",
+  "feature_eligible": false
+}

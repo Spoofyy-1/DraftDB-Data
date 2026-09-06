@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:25:36.607233+00:00",
+  "lane": "news",
+  "pid": "Pbe299942e3",
+  "draft_year": 2013,
+  "name": "Casper Ware",
+  "draft_date": "2013-06-27",
+  "status": "ok",
+  "query": "\"Casper Ware\" (draft OR scouting OR prospect OR basketball) after:2012-07-01 before:2013-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Casper+Ware%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2012-07-01+before%3A2013-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Long Beach State unveils new palm tree-themed floor - NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMmppYWRieVZrNHJZTFRzWjB1NnlNTkhYOVpHSWF6Zm8wd29qX21JOW5DV1J5a2kxNzFVV2FyRXZBc2RySDg1MFFtNHZBMzMxUUduZjljeUd3bEFpWTNKZDhyUmxZMnN1STM4M3h1bE0zbnJwNGlqcW1HUWxaNjM5OElMR3RTSEp4bWlWN1hseE8zWDBKZTUzY29fUms5T1ZIT2s0?oc=5",
+      "published_date": "2012-08-25",
+      "source": "NBC Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "7b92943280f4e4a22c5f15f3400549c2110241b382bf639eace01a91111880c2",
+  "feature_eligible": false
+}

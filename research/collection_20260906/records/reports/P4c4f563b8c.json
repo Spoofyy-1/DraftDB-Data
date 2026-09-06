@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:24:56.936934+00:00",
+  "lane": "reports",
+  "pid": "P4c4f563b8c",
+  "draft_year": 2009,
+  "name": "Tyler Hansbrough",
+  "draft_date": "2009-06-25",
+  "status": "ok",
+  "query": "\"Tyler Hansbrough\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2008-07-01 before:2009-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Tyler+Hansbrough%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2008-07-01+before%3A2009-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "For \u201cPsycho T\u201d, Is #11 \u201ca Little Higher\u201d than #12? - NetsDaily",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYTBXX242alNTNmY5Y1p5U2xsSlZJSHozVUhmcFdtN1lqcGpVOS0zOFRQbVhKaGxmQlRnOUlzV1ZHNHZPaWt4ODFOcEVLcFdiN3otTGQ4cm1LZjV4TDg3U0hYa3ZIbWVUYk9ZdXRqT1hyMS1FdFNvQWJ6TzNFRlVpa2lobGw?oc=5",
+      "published_date": "2009-06-12",
+      "source": "NetsDaily",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Ford: Nets May Give Hansbrough \u201cCloser Look\u201d - NetsDaily",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41alVjV3JuSk0zRU1KbGNEUHFMUUliRjYzeEJ2WFpsWnhIQllHaFZqMVV1cG8zRDlSM0F4UnByT0t1Y3JuRWphelc4c003NXJOTElyTm5qQ3VReDI1QXhPRlNGZTQ4d2FhdC1FZzh1N0NnRS1lT24wVS1TWTU?oc=5",
+      "published_date": "2009-06-04",
+      "source": "NetsDaily",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "23a42204aeff4ebfd1a15ce530378b4e0bda406bc42894c6e4cedfe4abcbfb16",
+  "feature_eligible": false
+}

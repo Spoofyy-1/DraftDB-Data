@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:35:51.510622+00:00",
+  "lane": "reports",
+  "pid": "Pc5e44c9142",
+  "draft_year": 2011,
+  "name": "MarShon Brooks",
+  "draft_date": "2011-06-23",
+  "status": "ok",
+  "query": "\"MarShon Brooks\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22MarShon+Brooks%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2011 NBA Mock Draft: Predicting Entire 1st-Round, Where's Kemba Walker Headed? - bleacherreport.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWHZ6c0VEUHJIVEhHdjBMd3QtTW5fNFNNNk51S05VSVJTbXdOQ1I5UUlTbVpZeFBjanJpd2psVnlBZjcxTGxad2VheFFtN0Q2M29faVNVOHJ6YkhWTmo3dlQyZ2ppc3otUWdJVUlfS1VFREo5UHN3aU11ai1yRzlyNW9xYllhZGV5djc2LVVFZTlhSE5EdWxNcVl4S1N4TjhxbzhOX1FVay1XRFlMUWRVVERESnRlYnZt?oc=5",
+      "published_date": "2011-05-26",
+      "source": "bleacherreport.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2011 NBA Mock Draft: Predicting Every First-Round Pick, Is Kawhi Leonard Top 5? - bleacherreport.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNngzNXFEQWdjSTEwZXhNMVV1VnR2bU85WjNZTTJ4YktSZlp6c3hBOGxvMGo2ZENlWXB1cUYzN256U1RFMTdfS214eU1qTktudUl5T0pCb2lPM0VIZ3FPVnZydy0yelJaRVk3MlhZdGFLNTVhLWxPQU4yNVV0YXE3cTV5TExxTThuWm1jcEFvR0dYSVJBc0tYWGN1YWpZQzh0VW9yWlprVTRGQ0RYeTYweWVIWHA4ZEJPWWI1WA?oc=5",
+      "published_date": "2011-06-06",
+      "source": "bleacherreport.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Providence\u2019s Marshon Brooks Soaring Up NBA Draft Boards - The Sports Bank",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcTdGbllMQVoxS2tlS1pQRTdDeUVydE5lR2J6MUtLZDFRTjNNLTlkc1F3dW9KMEs2VEdySVF2b09lU1lrOUZ6QmF2SGVJYjgxTEgtSFEwOVhaSl9Pd01yb1hrcC1BQ0lJUFRBamF6N0V2V3h5X3FtMGRLLXJkcWFQMTV1QVRwRm9oeFV1dkF2VkVYRXVGN1ltZkItVmdncHktdTJuOW9ZTTlpQ2ticGpJOGNB?oc=5",
+      "published_date": "2011-05-26",
+      "source": "The Sports Bank",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 2,
+  "response_sha256": "58a3ba21de47b1ca7d0d0826bfce04d07ece399d3cbf0e89d0826d4a55faf4e4",
+  "feature_eligible": false
+}

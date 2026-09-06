@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:35:01.838894+00:00",
+  "lane": "reports",
+  "pid": "P9e7b32dc92",
+  "draft_year": 2011,
+  "name": "Alec Burks",
+  "draft_date": "2011-06-23",
+  "status": "ok",
+  "query": "\"Alec Burks\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Alec+Burks%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2011 NBA Mock Draft: Predicting Every First-Round Pick, Is Kawhi Leonard Top 5? - bleacherreport.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNngzNXFEQWdjSTEwZXhNMVV1VnR2bU85WjNZTTJ4YktSZlp6c3hBOGxvMGo2ZENlWXB1cUYzN256U1RFMTdfS214eU1qTktudUl5T0pCb2lPM0VIZ3FPVnZydy0yelJaRVk3MlhZdGFLNTVhLWxPQU4yNVV0YXE3cTV5TExxTThuWm1jcEFvR0dYSVJBc0tYWGN1YWpZQzh0VW9yWlprVTRGQ0RYeTYweWVIWHA4ZEJPWWI1WA?oc=5",
+      "published_date": "2011-06-06",
+      "source": "bleacherreport.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2011 NBA Mock Draft: Will Jimmer Fredette Fall out of the Lottery? - bleacherreport.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRnRBbjQ3YjRxeEpZSWpWSzJxZVRrQm1Nb3ptNDRmS0Fhb3JJUnVIaW1Lc0FOTG1hSXM1bGlOajloNjJ5cjUtZXgwbGNxNEQ0N2NmZDdRRnhaT3lFZTduX3BvT3hEZlJOa3BxamllTUF4dWZkSm5ENFBkR2lkVjRjeWNHbElXNExFVFpnNEJrTU10VG5UcE5Ub0tZX05jdXpiMW04eHpvNktRUnc?oc=5",
+      "published_date": "2011-04-17",
+      "source": "bleacherreport.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 2,
+  "response_sha256": "3d2edebab5772f6dde362beb92e325a7fb47997cd6ca948d848ddca077770147",
+  "feature_eligible": false
+}

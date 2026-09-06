@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:25:03.396034+00:00",
+  "lane": "reports",
+  "pid": "P52f9046b71",
+  "draft_year": 2009,
+  "name": "Brandon Jennings",
+  "draft_date": "2009-06-25",
+  "status": "ok",
+  "query": "\"Brandon Jennings\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2008-07-01 before:2009-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Brandon+Jennings%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2008-07-01+before%3A2009-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Draft Prospect - James Harden - Bullets Forever",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVU1jMGRKdEV1Z2lfS3dVWTg5NHpWREJPdTMwaFVWSU00VVd5M3dDVGpIOVBxQkk1VWhNTE85UGdfTk5faGxVc0lOYTktdjIwYkxETzV3SWN2bHJ4Z0hXWFdoVGsxalJLQjh5WHliTWxvZWVPb3Azbkg4SnZNdFd4Yw?oc=5",
+      "published_date": "2009-05-21",
+      "source": "Bullets Forever",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "725b68648efc966cbf4e2d478ed5cb8f31a35686c340af0588d425bd1a617be4",
+  "feature_eligible": false
+}

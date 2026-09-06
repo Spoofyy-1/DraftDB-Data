@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:27:42.765231+00:00",
+  "lane": "reports",
+  "pid": "P10d0b75bed",
+  "draft_year": 2010,
+  "name": "Xavier Henry",
+  "draft_date": "2010-06-24",
+  "status": "ok",
+  "query": "\"Xavier Henry\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2009-07-01 before:2010-06-24",
+  "query_url": "https://news.google.com/rss/search?q=%22Xavier+Henry%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2009-07-01+before%3A2010-06-24&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2010 NBA Draft Guide: Mock Draft and Prospect Rankings - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSGJ3U1JtVWxpOGVaYnJDOVl5bmdhNkNDdkF1bmh3eklENGlLNDJCNGJjaEtCX0Nzb3RtZXFfRkQtVDBPRU16WGhrbTExbDFDMlNfeUsyR1BUVmlobFZ5ajZfaWUzREpRc3JkcHJuWnlxcmd4NFdpMXhPTmRweUZDQlZhNWlldmcxUWJwaE1xbHFLdVVKV1RaNUFMWHI?oc=5",
+      "published_date": "2010-06-21",
+      "source": "Bleacher Report",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2010 NBA Mock Draft: Kentucky Wildcats Gone Wild - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNW03eEdtdGwzdHAzVU1xSmNGUmhOM01MMTB5M3RIVWpIdlRZWC1HazZiQ0dTb0lScWlpNDBBN09Wb0NGNEdWUFlIN3VxYWI2UzZjdVo1SlA2T3RuRkQzbWxsaTNKSlRfc1RZYXVxV3JuYkxXeWtpRHVYYWhoTEVQQkhzbkxZVGkxRUNoOXB5NkFSMlFx?oc=5",
+      "published_date": "2010-05-07",
+      "source": "Bleacher Report",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "9ad83e4756200b35f727b4c62de1b012be025902f8d0a153acb6281a2fe1aa48",
+  "feature_eligible": false
+}

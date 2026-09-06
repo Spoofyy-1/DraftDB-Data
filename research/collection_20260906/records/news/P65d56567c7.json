@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:33:21.395466+00:00",
+  "lane": "news",
+  "pid": "P65d56567c7",
+  "draft_year": 2015,
+  "name": "Willie Reed",
+  "draft_date": "2015-06-25",
+  "status": "ok",
+  "query": "\"Willie Reed\" (draft OR scouting OR prospect OR basketball) after:2014-07-01 before:2015-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Willie+Reed%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2014-07-01+before%3A2015-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Nets trade Marquis Teague - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeC1wQjFKQktwXzZZWGh5VkR3a1E5a1V1NGxzMnphZF9oaTZQbHdTM1ZpOGZqaE55MzZTV3dQd3pfTG9oaF9mQkszV3VpS2xqMEN3UWQ3cmJ5RXNBWkY4Mmc4NmZiZ3ZTTU9UNWhqRVRFTTd6azlvRGI1RFBjMEI4MDhsQ3dhX2dqUDJrRmIwcVhVQWV4MWFzaUFuRXl2TkpNamFkNk0yNA?oc=5",
+      "published_date": "2014-10-23",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Hassan Whiteside's triple-double with Miami Heat an encouraging sign to Grand Rapids Drive big men - MLive.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9lTjRyYVNlblZPWkxraTdoNHo2YjVIcFVYclRTYVJvd0huVnVQTE1OdWY1TmJrRFJ2V3hwR3dmMDNmQzFsNFVfUGY1TEJjbUdvd1kwOGtwNDNsM0EtRjZSX0k1RWtObkVEOG1mM3FZb1c2T3JmN0RydUIxNA?oc=5",
+      "published_date": "2015-01-27",
+      "source": "MLive.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Nets talking Marquis Teague trade - New York Daily News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83MXNGNWE0ZUFZanRWVERNNUlEdTVkRWlXNUpHQ21RSFpsc3U0dWktdk1oMVZqR1VKZ3locjg0Y2pHVUpoUTBOOGZKTGF0QWJ0NURhemVFY3RRNVJyTHJTTjNKNnJBV0d0SXB0cnFXb1pYeFRkb0Yzci03M0Q4Zw?oc=5",
+      "published_date": "2014-10-24",
+      "source": "New York Daily News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "436604fcbcfb14358b8253db7525da8f414d201a7cb69e40c174e71f8931c0b5",
+  "feature_eligible": false
+}

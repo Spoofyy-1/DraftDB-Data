@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:47:04.788150+00:00",
+  "lane": "news",
+  "pid": "Pa67da64cf8",
+  "draft_year": 2017,
+  "name": "Shaquille Harrison",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Shaquille Harrison\" (draft OR scouting OR prospect OR basketball) after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Shaquille+Harrison%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Shaquille Harrison - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wRHMtTnVNZVlURVhuRFBxLVRCWjdRU0s3MzJwZ3licVJpd1dGeE1BY3FwcE1YZWxoaXVTa3F4V2UtMFh2QUd6Q0xBX1FEaXlYX1BPN01McXNabG83S1JxbGZVQ2ljQjRiWXJXd0p5Z08?oc=5",
+      "published_date": "2017-02-13",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Shaquille Harrison Career Stats - NBA - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DdWpYZXlHa1lrX3V2czlqbGpMdG5Bd0lGNEZKSkdXczVYWkV6NWZxaldFZFMwUmZleHhpU3Y5YVVybFRqd2diWmJIR0llejAyX0hIb2liNHZRdEx5ZzNLMFpiNTZBSUJybVBQRThKNVpQN1BlcDZhdA?oc=5",
+      "published_date": "2017-05-05",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "8732aeeac4eeeb4909cc8e12dff196fe2ee534cd3ef4189f46d84e93217236db",
+  "feature_eligible": false
+}

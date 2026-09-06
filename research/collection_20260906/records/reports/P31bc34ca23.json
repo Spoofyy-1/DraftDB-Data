@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:32:43.998676+00:00",
+  "lane": "reports",
+  "pid": "P31bc34ca23",
+  "draft_year": 2011,
+  "name": "Nikola Mirotic",
+  "draft_date": "2011-06-23",
+  "status": "ok",
+  "query": "\"Nikola Mirotic\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Nikola+Mirotic%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Nikola Mirotic - NBADraft.net",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ob0JUc0wzRUE2Um9fUk10NFRkTkZrQ2RwcHA0bnlnUmNIcXZwZnBacjd1QVdvMzYzdTg5ZjRmQlc3UVlJYUVDd3B2S0Y3LVRvWUxFNm5pVlVGYU5W?oc=5",
+      "published_date": "2011-05-28",
+      "source": "NBADraft.net",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "e6fcc3d3d50a18f842dff927b66fa8421b7dec55dbf4f9ac0c9250d6714dcce4",
+  "feature_eligible": false
+}

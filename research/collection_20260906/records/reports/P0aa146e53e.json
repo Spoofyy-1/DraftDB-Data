@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:27:32.975345+00:00",
+  "lane": "reports",
+  "pid": "P0aa146e53e",
+  "draft_year": 2010,
+  "name": "Lance Stephenson",
+  "draft_date": "2010-06-24",
+  "status": "ok",
+  "query": "\"Lance Stephenson\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2009-07-01 before:2010-06-24",
+  "query_url": "https://news.google.com/rss/search?q=%22Lance+Stephenson%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2009-07-01+before%3A2010-06-24&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Brooklyn\u2019s Stephenson sweating out NBA Draft slide - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaW5tZFBLN1hBTk14cmxLbGJkR2tzUHBwVm9wYXlxLW5YQm1hRTc5Y3g5dzhlN2RoOUVaeVloOHczNDJ1eVI3Z1BJdEVRT0p6SmZDN0MyZm9BbFNSdk4tc1NBR2MtSFRWdDBmOVNQM2hzTmZuUDZvTHNjaFM3LWFyQ3V2eUlvaG8?oc=5",
+      "published_date": "2010-06-21",
+      "source": "New York Post",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "5612e1eefb1c4ed62a70d4aa66c30c33fdd1ca985bd69d2c480d9cfb3a552b24",
+  "feature_eligible": false
+}

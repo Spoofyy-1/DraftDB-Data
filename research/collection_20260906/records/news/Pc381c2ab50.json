@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T10:40:30.064471+00:00",
+  "lane": "news",
+  "pid": "Pc381c2ab50",
+  "draft_year": 2016,
+  "name": "Chasson Randle",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Chasson Randle\" (draft OR scouting OR prospect OR basketball) after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Chasson+Randle%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Former Cardinal basketball players take on the NBA Summer League - The Stanford Daily",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV0hfd2tBT0FRYmt5WjZGUUl1N3NoQV9oOFFQWDRWcFBFVldZYmJHNVkwX19QaUFFOFo1WVJVbm9YS3dxSnlEcm9jcEN2SEY5Z293WEJ0akJ6LTZuZjNtM0J2YnFQbjJrSUNySFpBSGhQMUo2eGpoTWxLMHVoVTVwUldWYzFvT19zVE9USjd1YnN5ZW9GR0FWcGZ4ZGZCRW1nX1U4ZQ?oc=5",
+      "published_date": "2015-07-16",
+      "source": "The Stanford Daily",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "UCF Names New Head Men's Basketball Coach, Johnny Dawkins - University of Central Florida",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NVG9mVHNMdWNmdk1QWGQ4TW9sbGdNOUlfTTB4aURPYkhEMFpoc25td3VFOE52V0g1TEFJelUyYjBieFhkZFAwdVVESmxBRXlrNmhUbUE1VDlnVkllX3JVbFo3UjBoQkV5NzdkbW1qb2lsUlVk?oc=5",
+      "published_date": "2016-03-24",
+      "source": "University of Central Florida",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "The life of the non-guaranteed NBA player - HoopsHype",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbnRlNmlJdXJSSFBLNXdrelRtQXljc1U4TFJqajlFNEVnQ20wR2tCdjZpYmtpUFZiS2xsMnJQVjBRSWU5d09hb2d2OFNpa3lJazdqdDN4YXE3ZFQyMS0yLVFTQ2JKSV9weFVvVE5kTUxkb3JKeWJIWk5LREljNk5EVHRHYkR5RThYMFFSTkNuZlJsYmg1VVQtVWFURENOaWtQVHJPVVRhSQ?oc=5",
+      "published_date": "2015-08-02",
+      "source": "HoopsHype",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Illinois Mr. Basketball 2016: Charlie Moore shows patience, poise on way to stardom - Chicago Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbnR5TUpOZ2UyVXM2eUc0VW9UOFF0Tk0xM09zQW43T0NJVTBzcjJ2YldvQ0VyTGxJTzlTRFRhRmpMRVdmZ21oV1lGMmV4dGVqdk1feU5mNk4xbnJYMTVtVHV3R3IzektXOTcwMlYyc0EtdjIyeVJ5SlFmUmEycXBPTk0wbTBWVEc5WmQxUGZaRnUwNlVQZXJ6T193Uy1mejVxRlBkTUNzV0ZWU3BzOEtnLU45UlNaaE1YN25Bd1c1dDA?oc=5",
+      "published_date": "2016-03-26",
+      "source": "Chicago Tribune",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Point guard Robert Cartwright out for 2015-16 season with broken arm - The Stanford Daily",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY1g2dGt1aEJ6V0dKVW1iLWowNnA2amMwaWYtbmhGLUhiMWNkanZ6bEhEQU5UWkdsU21GVzdPcE5JOVVzV1NTeTUyb0xfdG9hSWh2RExuUjR1OFdMbGhoVVM2RmxtZS1RWWxBajVqZTkwV09MdWE2N19CVXY1aDdia3pLTTBWZC0wdDdSY0JDWEJtWGZSR2xMRFdfUnRIOVUyRGc?oc=5",
+      "published_date": "2015-11-04",
+      "source": "The Stanford Daily",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "9fb09d95c80f7ac3c2485ed232937d8d5f4cd31362ec7c228c66cfd74b0f4dbe",
+  "feature_eligible": false
+}

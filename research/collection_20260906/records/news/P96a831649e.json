@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:46:38.450067+00:00",
+  "lane": "news",
+  "pid": "P96a831649e",
+  "draft_year": 2017,
+  "name": "Jacob Pullen",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Jacob Pullen\" (draft OR scouting OR prospect OR basketball) after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Jacob+Pullen%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "SE: Q&A with K-State Great Jacob Pullen - Kansas State University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ1VqUkFlS1M2cmZvQzNuOU5ydVo4WHg1UHotLUM3YmVwOTZocGhQcDRVTkpkLUowWG5IbVR1WGtEQ1U0Y1Y3Tjh4X0tqV0JwSGtxbm1FRG0zb01XcjVVRHhSVUI1RFlGS3UwMEhxckxUN3FBTnBoT3hzUHRmMWJSd2l1SVFUakpxUktPclpTVkU?oc=5",
+      "published_date": "2016-10-03",
+      "source": "Kansas State University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Top 25 recruits since 2000 for current Big 12 schools: Kevin Durant not No. 1 - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQ3ZJMHdzN0c3aEgwNHFnX3U5N2I4NkdrVEJ5TkYzeEtTa2lXY3FNSWhmV3BoS0NVRlZTMFRZcWpCSExvUk5mRU1wQVo5TTM1MjVwcGp4ckwtRTRXb2dvSXdQNjFlOEJzSkMzMTNKSlA1SmFLX0lldnV1ck93OTY1R1oyZzEtZHV2aVlaM3FGZ0FOMDR2SUNLQTQ5VW02Y1ZFMDhucVNRaExKRkhnajdZUlVvOHlWLTNkTkFPdHpkUGItdVU5?oc=5",
+      "published_date": "2016-10-14",
+      "source": "CBS Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Todorovi\u0107: I am looking forward to working with Ivanovic - vijesti.me",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZnNRR3kwR0JxN1RWLWt3X2pqcWx6cS0zbTJJRDc5cEpMZF9KU0VpZmVLdTBvNlFmRm9kXzZMVzN3c2NnbjFIUkFCNGJYQWZSeWpsU05FM0VtdmhJX0daRE9saW9nX19PTEsxcTlrVGNhREwweGVWRG9QekNRejhsbUN4V1llV0VSd0YyUHcwNkZQNUVjVC0tTnBxSzhDSjZzNHFR0gGOAUFVX3lxTE1nazBJN3k2N1AtYWtadGFiVDZDVTk1eUdMTWs1OGVfOGNPMGYtVDNTWXRJdThzVm8tUE82dVZ5SmJ2UTZBWDZRU0ZTTVJUSF9sdEJiU0VySlh0M3pGc3pIM3hjX2JFNHprZVhGa2pMT2Fwb29LbW1RY1B2S2ZlV1FiZTh3Y0hERVJwWWIydnc?oc=5",
+      "published_date": "2016-10-06",
+      "source": "vijesti.me",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "8dd54b3f92441e6a55cb56b03a86a35d441c675d901130a65a616b6c3c609972",
+  "feature_eligible": false
+}

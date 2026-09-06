@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:49:07.939355+00:00",
+  "lane": "news",
+  "pid": "Pe75e4da903",
+  "draft_year": 2017,
+  "name": "Myke Henry",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Myke Henry\" (draft OR scouting OR prospect OR basketball) after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Myke+Henry%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "DePaul preview: Billy Garrett Jr. has one more go-round to turn losing tide - Chicago Tribune",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRExoUE0yYzJSU1MxYUJick1SeXZCdkZNZDNQZE5ocHMtclZybUtBOFh6OEtSQ0NDRHY4dFlqcV9qQTNLbi1zdEJMNko2elE3YS02MDlRUkZ0TkprajRGV09BX281YWRsTGhDdHF1eXlST01qNGlOVkhKWGJzeS1RbERLSFB1X3ZKY3p3YUZPbEZGV1pleVMtaWJ1OFJxa3djTE8yU09kMWExVE51dVljQ2MyY0ZHOWc?oc=5",
+      "published_date": "2016-11-10",
+      "source": "Chicago Tribune",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Nearly a 3-on-3 world champ, McKinnie finds his stride with Windy City Bulls - Daily Herald",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVDBoZlVVRU9SZ2RQUlVMcHpiRVZocURRRkxVOFhqQ0VrWUFycEVwcEFFdHh2ZU9nc0dVWkRiMEdkRV9kNG1DVmctcjVYX0FCa1R3VlU5Tko2THZoOENfX2pKdXFrT0NodTYzU3lsRnh1eTl4d2tRcHpGYjJSei00SW5mcW1raUxZNFpMOXNyeVJGWFpTOVgwT0xzRWNURW9TSHE2T3hmem96eGw0VkkyNW9FOEc5bVNRblR6NUZ0V1lCQQ?oc=5",
+      "published_date": "2017-02-04",
+      "source": "Daily Herald",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "6c7728b9b57da6f2a7a930bb27edd5a6da377459bc9f7be875a4d9220d5f23a6",
+  "feature_eligible": false
+}

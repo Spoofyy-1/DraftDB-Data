@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:24:03.536717+00:00",
+  "lane": "news",
+  "pid": "P6a5ab4372a",
+  "draft_year": 2013,
+  "name": "Tahj Tate",
+  "draft_date": "2013-06-27",
+  "status": "ok",
+  "query": "\"Tahj Tate\" (draft OR scouting OR prospect OR basketball) after:2012-07-01 before:2013-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Tahj+Tate%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2012-07-01+before%3A2013-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Muhammad Abdul-Aleem Named MEAC Player of the Week - famuathletics.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VSU1CSXRaRUk4QTROVGQ0V2ZRdHhOeUQ0UmpqZ2NlNmF5aGFJZGduUjU1cUdxNGlZOWRNYlRwS3JKR1pZVmVsVDlUNVZpOFQyNUJWMVU3N2pxMHE5aDJZX2JwSkw?oc=5",
+      "published_date": "2013-01-03",
+      "source": "famuathletics.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2013 NBA draft early entry players - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMHJKdE1LWl9CN3AzTzZHSk5OM3hsclJfbWhORUNqQmdoYjg2SENkTmhkdVdYQXRTTjkwd1ZtRnQ3WDhuQ3dSX3MwZDQ1dGFGSDBiWEZ5UjNjdE5DTHFMUE5IY0ZpTnBWTjJfeUsyNGJzNXlGdkJ2SXBzZHI1enFVb0NxNEhCTDR4ak9VNlJlTzRqNmpsMlpIX0FrZTRHZFR2RVRycHhKTTdhckdh?oc=5",
+      "published_date": "2013-04-28",
+      "source": "USA Today",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Ivorie Manning, Shot Doctor, Drops In for a Visit (Published 2013) - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcVJjQWF1NGdBZzJlaUxkaldsdUNFd3Y0dEs4ZGIzb2NVcC1xV3g2bEtoZ3ZQXy1iSVhqYUhQbVk5eWplc2ZTVDRLQUl0OTFEYjk5MERiY1cwS0czNl8tNUpCMnNBaXZVZTFMS2E2VG9WaW1TZUlPbzI3X0JQYlFRNEM2NGhfNEswZHREanowUnRLeDJfNl9nZko1Q2JwWm1GNE9z?oc=5",
+      "published_date": "2013-05-18",
+      "source": "The New York Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "e99d6e0ac7149c374b347b01264a585648673a86f9e658ca7983170ffbc41f43",
+  "feature_eligible": false
+}

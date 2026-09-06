@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:24:17.769771+00:00",
+  "lane": "reports",
+  "pid": "P2acc089d0e",
+  "draft_year": 2009,
+  "name": "James Harden",
+  "draft_date": "2009-06-25",
+  "status": "ok",
+  "query": "\"James Harden\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2008-07-01 before:2009-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22James+Harden%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2008-07-01+before%3A2009-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Draft Prospect - James Harden - Bullets Forever",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVU1jMGRKdEV1Z2lfS3dVWTg5NHpWREJPdTMwaFVWSU00VVd5M3dDVGpIOVBxQkk1VWhNTE85UGdfTk5faGxVc0lOYTktdjIwYkxETzV3SWN2bHJ4Z0hXWFdoVGsxalJLQjh5WHliTWxvZWVPb3Azbkg4SnZNdFd4Yw?oc=5",
+      "published_date": "2009-05-21",
+      "source": "Bullets Forever",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2009 NBA Mock Draft \u2013 UPDATED 6/23 - Clipperholics",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CR296NVJJdzFLMHg3VUpjMW1zXzRDQkpqcmdSRGt4OWJMTEJmU2FDN3NreE9qYjh0YjRBNTg4Vk1sTUFNb3h1cTNDRGltUkdMaWxGeFowdnFMaGtBRGdBVXFHaVdkWFNm?oc=5",
+      "published_date": "2009-06-18",
+      "source": "Clipperholics",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "6d6fad4b532257135074d642b7af1aeb540562149cf790539ee7168834445c3b",
+  "feature_eligible": false
+}

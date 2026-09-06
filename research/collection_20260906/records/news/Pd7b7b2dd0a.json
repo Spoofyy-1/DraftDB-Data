@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:21:10.222091+00:00",
+  "lane": "news",
+  "pid": "Pd7b7b2dd0a",
+  "draft_year": 2012,
+  "name": "Dominique Ferguson",
+  "draft_date": "2012-06-28",
+  "status": "ok",
+  "query": "\"Dominique Ferguson\" (draft OR scouting OR prospect OR basketball) after:2011-07-01 before:2012-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Dominique+Ferguson%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2011-07-01+before%3A2012-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "FIU wouldn\u2019t release Dominique Ferguson, so he\u2019s entering the NBA draft too early - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONmlSLUJ1UkJiQUltamNiSEQ1UFY0bnJyNHlfLXZCcU5acjdJekhTcWd2R0JyQ292SjhXWWxtZmRQb2owdkpMeXB4ZmF0cUZTRzFzaG5JMGxiUDBfTW1GLWMwbXRhU2FTNEVyTGpLcFg3b1NaeFNEOE56ZEgwVU1nSkJCQmVpXzlZczByNzV1VXdFb1ZvV09QbDdIckRBOC1DSUQ3R1pKMndJNHQwQlNSVHJBc3NyVldhOE92aFlmdXBWUQ?oc=5",
+      "published_date": "2012-04-24",
+      "source": "Yahoo Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Dominique Ferguson grows on and off the court - PantherNOW",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUGJYRVl3bHNyWFdNVS04R2tGZTFuUGpjQjJHZUhaeHRmcU1MTHdrWkpFQnRmTG54UXZSMk5hVmFaa194NTRZaGUzNkZScXRKNEZ6YWdTU2NmdlYxc1duVFRmUFk4MjQtTkN1TVM0MGZvbzRvdnVjLV95TGpCb3puZGRYWi1yQzQ?oc=5",
+      "published_date": "2012-02-20",
+      "source": "PantherNOW",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Ferguson declares for the NBA Draft - PantherNOW",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IMFlHaEdoVUtwOExZRldRWF8zVjhwZVZrREJXc3BZSXhnRjlmUG8zaFdDNVpOWlJSaEVvaUxpQUdPb0JONmlFdkI5dGhQczdZU3ZMRGt0QXdLZzd4UkRRVndod2sxV2loVXdFbGVrekx4QlVNekxYamx3?oc=5",
+      "published_date": "2012-04-24",
+      "source": "PantherNOW",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "0e4680392d400ed6b70636f49cb889b15e97889c7736192a8878aa7af46b348d",
+  "feature_eligible": false
+}

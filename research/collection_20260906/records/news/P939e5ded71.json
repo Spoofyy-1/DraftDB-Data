@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:39:26.357543+00:00",
+  "lane": "news",
+  "pid": "P939e5ded71",
+  "draft_year": 2016,
+  "name": "Aaron Valdes",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Aaron Valdes\" (draft OR scouting OR prospect OR basketball) after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Aaron+Valdes%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "UH\u2019s Aaron Valdes remains highly motivated - Honolulu Star-Advertiser",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRElrN2ZzYlI0S3hBV0VWWFBaRXgwcXBiUUpuMi00ejZvUFVUQ3ptb1VVb0dBT01Yb0lJZTVBenNka1AtSVJ5RzRsMzVjVU1MWWNuTGdNdVc4d3pHbzFzOEVqYUd3dHFYWFBFXzIwbjhDR0tiTldVSEhfbHRnbUNNM21oQnU3YlRMNkpaZTlYMFBLZlpKTUE?oc=5",
+      "published_date": "2016-03-09",
+      "source": "Honolulu Star-Advertiser",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "H-TV: Rainbow Warriors Showcased At Annual Basketball Media Day - Hawaii Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wTTBpOHlrRkIyZFFtU1czWlc0WEozMTl3M3NGRFVwSkJydGFpLTJpQlFGcXhvSEFWRTRVMGZjMXcwNXJBQXFXTHFVbzVudlVsMzRkUzBDYi02eVBFVFc0MWxYVnlpdFdSR0E?oc=5",
+      "published_date": "2015-10-19",
+      "source": "Hawaii Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Warrior profile: Aaron Valdes - Honolulu Star-Advertiser",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOalBFZXVuVXFmc1N6T0o3dUNySWpmYVotREdiMlRuQjJjeTVjZm9ETFJvU3Jmb0FSM2dyeFJGRThvMkhhUV9ZcThwd0w4VUV5dG91RUMxejFSc1dYWE9ZcU9mTHh5Z2tIbjVRSV9FSE9lZzRiLUt5bTBxZUY0VW1SOHNRNEw?oc=5",
+      "published_date": "2015-12-10",
+      "source": "Honolulu Star-Advertiser",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "UH basketball takes top Big West honors - Honolulu Star-Advertiser",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX1VKdndUTUo2c0pPZFdrUENoakRaODlzRENRRVdocUl4UlgwbHZlaDBlcWJyUHlmWUgwS2cxV0pUVUtVdmZ4bXlwb3VEU3lRMG1zYzU2dms4MnhqeVdmWVJ2WFpTWmkxRnhOZ1hoT0R2Wi1EX0o5d0JjLUVxazJiNENLVmItaVRFa2p2YXVNci1tN3d4QVZYNlRZY3BSbVotWU5XMm9md2Q?oc=5",
+      "published_date": "2016-03-07",
+      "source": "Honolulu Star-Advertiser",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "974c335074fc0aab490fd64143e16205be64afeb46f3099d97a51f69fb176f35",
+  "feature_eligible": false
+}

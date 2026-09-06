@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:34:25.693698+00:00",
+  "lane": "news",
+  "pid": "Pa1aae2a35c",
+  "draft_year": 2015,
+  "name": "Coty Clarke",
+  "draft_date": "2015-06-25",
+  "status": "ok",
+  "query": "\"Coty Clarke\" (draft OR scouting OR prospect OR basketball) after:2014-07-01 before:2015-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Coty+Clarke%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2014-07-01+before%3A2015-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Kedren Johnson's Vanderbilt career - tennessean.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeEZGWE96a3h3LVVMVDRtVlZaTmF0MHdGQkxDSklUVEJtX3owTENZWXMwVjdlcy05eElVb0lMRU5jOVRWcmVDXzM0SjVDRkMyTjMzVmh0OG84bUFLMUpLTHFNRjl6QS1oTFVzN0dTQXk5X216Qzd6eTNDRDE4SHJQRzVGOGxOV0swYjBQM3RIQW9ZbkRzZF9lMU1qZ1ljSUZCY1lEX2xkT3RPYTZINEFWWDNaMDBTWFJXbkowcXQ1UG8?oc=5",
+      "published_date": "2014-08-15",
+      "source": "tennessean.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "bf6a65882dfcef94d87f96fdae68ea081a117766d7e3c8a0dd09c2f081e66ae5",
+  "feature_eligible": false
+}

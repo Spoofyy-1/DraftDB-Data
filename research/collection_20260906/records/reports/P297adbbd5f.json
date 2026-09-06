@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:28:12.033532+00:00",
+  "lane": "reports",
+  "pid": "P297adbbd5f",
+  "draft_year": 2010,
+  "name": "Al-Farouq Aminu",
+  "draft_date": "2010-06-24",
+  "status": "ok",
+  "query": "\"Al-Farouq Aminu\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2009-07-01 before:2010-06-24",
+  "query_url": "https://news.google.com/rss/search?q=%22Al-Farouq+Aminu%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2009-07-01+before%3A2010-06-24&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "UK\u2019s John Wall on the Cover of ESPN The Magazine\u2019s 2010 NBA Draft Preview - ESPN Press Room",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMktidWRqa01XVmFpMzhFQ0dYWEZYRmw1azZ2aEtHRHUwTUpNdlZpemZhZl9FeFZLMnlUMndidXZ4X0lfLUtKaFk5c3NWNkpxVzBCOFBRVG1VUFVwNkJUZTlCaHpvWnBZSTJVN2NzeWFTSWZGM0FtUU0xWGYyNlRaVFZTM0JTd3pXMm5BLTRmWmJMbWNvUzltMWRuUWN2UFVnejdZNnIxRG1SblpXdEVLSjZn?oc=5",
+      "published_date": "2010-06-18",
+      "source": "ESPN Press Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2010 NBA Draft Guide: Mock Draft and Prospect Rankings - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSGJ3U1JtVWxpOGVaYnJDOVl5bmdhNkNDdkF1bmh3eklENGlLNDJCNGJjaEtCX0Nzb3RtZXFfRkQtVDBPRU16WGhrbTExbDFDMlNfeUsyR1BUVmlobFZ5ajZfaWUzREpRc3JkcHJuWnlxcmd4NFdpMXhPTmRweUZDQlZhNWlldmcxUWJwaE1xbHFLdVVKV1RaNUFMWHI?oc=5",
+      "published_date": "2010-06-21",
+      "source": "Bleacher Report",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2010 NBA Mock Draft: Kentucky Wildcats Gone Wild - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNW03eEdtdGwzdHAzVU1xSmNGUmhOM01MMTB5M3RIVWpIdlRZWC1HazZiQ0dTb0lScWlpNDBBN09Wb0NGNEdWUFlIN3VxYWI2UzZjdVo1SlA2T3RuRkQzbWxsaTNKSlRfc1RZYXVxV3JuYkxXeWtpRHVYYWhoTEVQQkhzbkxZVGkxRUNoOXB5NkFSMlFx?oc=5",
+      "published_date": "2010-05-07",
+      "source": "Bleacher Report",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "c16ee8c5cf65e38e1669578d0fe7c527b32df0cf3026800fd73b3baca303351e",
+  "feature_eligible": false
+}

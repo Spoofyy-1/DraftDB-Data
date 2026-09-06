@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:21:08.517489+00:00",
+  "lane": "reports",
+  "pid": "P552ea773e2",
+  "draft_year": 2008,
+  "name": "O.J. Mayo",
+  "draft_date": "2008-06-26",
+  "status": "ok",
+  "query": "\"O.J. Mayo\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2007-07-01 before:2008-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22O.J.+Mayo%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2007-07-01+before%3A2008-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Know the Prospect: O.J. Mayo - Posting and Toasting",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUDNONzhKRzZxVFpyQ2NtVWNHOUwzV1VFVkptcjh5Zkh0cjdQbjBOUkw5alVMQTQ0UlRyd3ZnODByeTY3bGdVdFlaVzljRlp1ZjdhajhLZ3g0cGRTOHpsMFJNSFdaY1N6UzFmWkYzRzRTR2NXTGR3OUN6NEdKZFYyRFdWZy0?oc=5",
+      "published_date": "2008-05-22",
+      "source": "Posting and Toasting",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Rip City\u2019s 2008 NBA Ultimate Mock Draft - ripcityproject.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM1JSS2dtUll1UUlCaGpyY2JlaENSY2hqVkNqYWJJM3Z3bDlOVTExbkE2Z2F3LTZFNjV2czNrRGZTTnZXSGRadUJZaUp1S1l5OFppXzJacHdhaE5oTGZHVjgzZjFvNUFHZXF1dFJvZWNiT1JXY1pBZk9MMmlUOUo3UXdFMA?oc=5",
+      "published_date": "2008-06-22",
+      "source": "ripcityproject.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "255f5c5e4de2f63c759f967c3e7a739e3383d9142a3a069df1ecd9b34144a5d7",
+  "feature_eligible": false
+}

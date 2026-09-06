@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:40:49.795899+00:00",
+  "lane": "news",
+  "pid": "Pcb1e0b77ca",
+  "draft_year": 2016,
+  "name": "Jonathan Gibson",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Jonathan Gibson\" (draft OR scouting OR prospect OR basketball) after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Jonathan+Gibson%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Ridge Spring-Monetta Basketball - The Edgefield Advertiser",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNDRPZ0xFeXpPTUNkdjJVR1ZZTkNFZVM0d1E5OXdlQk8xWEhSa0lyUUs4VGlESnhLUF9BZGFBMHNXWDVVUTAwZVZueVQ4RW55YVI1WHhRYzExMl83U2pLTUZud2hoZzdMSlQ1RW5RMUllRzVZUThPOUhmZ0Rnc3RoaThR?oc=5",
+      "published_date": "2016-01-18",
+      "source": "The Edgefield Advertiser",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "243d042b74202b1eae8f5c5c9be925639b3afc1f1068c917f7886ab6e6348be1",
+  "feature_eligible": false
+}

@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T10:35:58.012999+00:00",
+  "lane": "reports",
+  "pid": "Pc8dae45369",
+  "draft_year": 2011,
+  "name": "Tristan Thompson",
+  "draft_date": "2011-06-23",
+  "status": "ok",
+  "query": "\"Tristan Thompson\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2010-07-01 before:2011-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Tristan+Thompson%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2010-07-01+before%3A2011-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft 2011: Tristan Thompson and the 10 Best Shot Blockers in the Draft - bleacherreport.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdG93UTQ0ZFVKeE9QVnpZYjdDbnhkeEJDNjZxWWJhLVU1YnRaWWQ3d29TY1daWHVsY1B5VWZUNGFxdENXanhCNVYyN19lUDB2Q0JkMnhVWFlsOFF4enNCSHMzMF9RMGE0YkhFWk5JLVl1STI3THZHbllrcVZySE1IWjlVNUVRN3BmVmlvajUzbmdicGR4ZFNOSVhvMUhEd0F0TFhTUnRRWFpWUW4zazNyVFFKR3VVYWp4?oc=5",
+      "published_date": "2011-06-06",
+      "source": "bleacherreport.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Tristan Thompson \u2013 NBA Draft Stock Rising - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QbFpub2QzaE02T25INWRIS3BVLUd1X3lLdkNKSTlyY19VTDlPMzBNRUsyZmVlbWx2ZEZIYzlUaUJHLS1XVHA0bW95RVFaMGN3WHdxVXhIdFhyVWZtVHVZemRBMVJ2d09fYTY4ZUVTa1hxSk0?oc=5",
+      "published_date": "2011-03-08",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2011 NBA Mock Draft: Full 1st-Round Mock, Who Will Be John Wall's Running Mate? - bleacherreport.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYlFLNDRYRXM2dUpuQllUa3NTUy1hM3RMaVVDelFMTmpfako5clFNTUdyVmFjZFg2LUtzcWNNR2ZYLWlGOVZvTzFDVFdVc25NZnRFMmsxSEU1dXU3VkpzNDBPSjFBUVpTcW93VnFMVjdXN0NEcWJsTWp6MGF4aXVaRnNTT0taclZGWm5WTnJIN2o4ZnF1ZllGVFJBV2NObG9tUWFOaC1wQkxJeXhRVWJWcEdCM3gxLWZoWGc?oc=5",
+      "published_date": "2011-05-17",
+      "source": "bleacherreport.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2011 NBA Mock Draft: Predicting Every First-Round Pick, Is Kawhi Leonard Top 5? - bleacherreport.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNngzNXFEQWdjSTEwZXhNMVV1VnR2bU85WjNZTTJ4YktSZlp6c3hBOGxvMGo2ZENlWXB1cUYzN256U1RFMTdfS214eU1qTktudUl5T0pCb2lPM0VIZ3FPVnZydy0yelJaRVk3MlhZdGFLNTVhLWxPQU4yNVV0YXE3cTV5TExxTThuWm1jcEFvR0dYSVJBc0tYWGN1YWpZQzh0VW9yWlprVTRGQ0RYeTYweWVIWHA4ZEJPWWI1WA?oc=5",
+      "published_date": "2011-06-06",
+      "source": "bleacherreport.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2011 NBA Mock Draft: Predicting Entire 1st-Round, Where's Kemba Walker Headed? - bleacherreport.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWHZ6c0VEUHJIVEhHdjBMd3QtTW5fNFNNNk51S05VSVJTbXdOQ1I5UUlTbVpZeFBjanJpd2psVnlBZjcxTGxad2VheFFtN0Q2M29faVNVOHJ6YkhWTmo3dlQyZ2ppc3otUWdJVUlfS1VFREo5UHN3aU11ai1yRzlyNW9xYllhZGV5djc2LVVFZTlhSE5EdWxNcVl4S1N4TjhxbzhOX1FVay1XRFlMUWRVVERESnRlYnZt?oc=5",
+      "published_date": "2011-05-26",
+      "source": "bleacherreport.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 3,
+  "response_sha256": "dd8314204cf94cf8f7faad7aa2c84417ac9d3ba21ee9411be78e80c473bfe594",
+  "feature_eligible": false
+}

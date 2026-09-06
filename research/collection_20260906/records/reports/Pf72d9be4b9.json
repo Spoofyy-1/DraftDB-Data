@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:45:14.400227+00:00",
+  "lane": "reports",
+  "pid": "Pf72d9be4b9",
+  "draft_year": 2005,
+  "name": "Lou Williams",
+  "draft_date": "2005-06-28",
+  "status": "ok",
+  "query": "\"Lou Williams\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2004-07-01 before:2005-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Lou+Williams%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2004-07-01+before%3A2005-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Lou Williams, South Gwinnett , Shooting Guard - 247sports.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JNmp6VTBRQjl0WS1TaXJHRXpobjRqSERUMS1kS29TVERsZHdobHJUdGpIdVlMVk1ybjJtNmNUbmdLcmFoZ1VyTHVfMlRGTHVhQm9DcW9BX2dTeldobW1ickNlcVRZVWhqUXdieEZWcEZLS203a1E?oc=5",
+      "published_date": "2005-02-02",
+      "source": "247sports.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "f30d8dd18318cba309043e8f4d6db51d4c611dfc90ff31c3ede30761565524d5",
+  "feature_eligible": false
+}

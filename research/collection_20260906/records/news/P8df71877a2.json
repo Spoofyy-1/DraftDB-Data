@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:46:25.104130+00:00",
+  "lane": "news",
+  "pid": "P8df71877a2",
+  "draft_year": 2017,
+  "name": "Jamil Wilson",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Jamil Wilson\" (draft OR scouting OR prospect OR basketball) after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Jamil+Wilson%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Jamil Wilson - Los Angeles Lakers Small Forward - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YTFdQNDlKSFB0V2tqN25vNXBZTHVkekdlOFNjMVBoRjYxQ1l0WW1PR0ZnNjV1STJHc0UwOURpbXZKS1hsU2JFWGpKcFlsYUdCclJoQkNLUDlncFU5ck9WS2dSUGRHM3Mw?oc=5",
+      "published_date": "2016-12-28",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jamil Wilson Career Stats - NBA - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkNUNjV1gxNGJnMmVheVhSMVhzMzA0R25hRi1SeUhfQWdLaGJKV0d3UzZOdVkzc2FIVDdXRWpBT0pweURKdk0wdEVXbGREOVU4LWpxMmgyWFNaX0hNMGdhV0NvMzl0R1M1QzdsY2VDSW0?oc=5",
+      "published_date": "2017-03-31",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Golden Eagles Alumni will play Hoopville Warriors in TBT - Marquette Wire",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWkNlaGJ5UnlsY0JsX1REcGpwR2sxZWxtenc1bzA2NkJvV1c5NmpROHBWb3JyNE9zejBrbXhuVGp4blRQNnhueEFUMG1PYXUwdlE1c2VET2ZFZEh3dnk1dGluWjRidEExVGdVanpjQlV6dzVMWGYxaXV3YmNPcWF1SUt0YmZ1V1FWdFRWZ1NKcVBwWlZXYlA1SDdMRmVPblk?oc=5",
+      "published_date": "2016-09-30",
+      "source": "Marquette Wire",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Ballard upsets Trinity in Seventh Region semifinals - courier-journal.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVEYzVTFacVk0Uzg4ZkdlWFlCdVNPTjM5VzVfR2gtWnJmNTZ0ZERTeER6LXBTbEpqSC1KVVprMHNtN3Y4aUwzdU80QUxmZGNXTDNSS0FQZ2hDcHdKN0JhMDZSa19XTDI0V21uYUhKcHh4VTA4WTZzZzVSZmFweHMweUlFdkxnWnBRdXE3cUpOS0k5dm91aElnMTlKTXhnRmtOYTlPX3dwX2JtRXhRZVpUR2h6bWljcmJwVnJ1djR5dmtMSHRucUlWVHZDbUJMQmRHZElsSExGejM5dw?oc=5",
+      "published_date": "2017-03-02",
+      "source": "courier-journal.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "ad49e0ce4c8d588f088cb973b5d0f1f6f7bfa5923822d061028eecd976d38e3b",
+  "feature_eligible": false
+}

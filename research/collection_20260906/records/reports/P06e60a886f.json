@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:27:29.638461+00:00",
+  "lane": "reports",
+  "pid": "P06e60a886f",
+  "draft_year": 2010,
+  "name": "Chris Johnson",
+  "draft_date": "2010-06-24",
+  "status": "ok",
+  "query": "\"Chris Johnson\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2009-07-01 before:2010-06-24",
+  "query_url": "https://news.google.com/rss/search?q=%22Chris+Johnson%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2009-07-01+before%3A2010-06-24&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Scouting report: Oakland Raiders - Houston Texans",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KTHJqb25xZ0hTUU51YUU3MVJrazNxSDhkcXBKeVFvTzc0X1BhMWUtdi1tTFBBUGRzaXo4d0tNbnVvVUdBWEVHUnQtRGNjOEFqQmwteUM4NWk3aTFpRVZfRTIzLVRqM2taM09KbHZDNHlETmJobFk5QWEyZHpfUkU?oc=5",
+      "published_date": "2009-09-29",
+      "source": "Houston Texans",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Top 10 fantasy performances since 2000 - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16R3NXMVBFVm10NWlHMnBvbkNhbjVPcWxSNkNxWktVTmJ6N0NUUkZueU9IeTlVd1d0ODFYQmhnSjJsaVRTR0ZRQm5HOGlyclhUelozU0pOcm96dEZoeTlja3dTekZ0R1JGR2c?oc=5",
+      "published_date": "2009-09-22",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "f544634eb3839fbd43db0944d730fa3c61562898033d1ad35ebc0337e36e8ea9",
+  "feature_eligible": false
+}

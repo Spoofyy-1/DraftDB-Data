@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:22:42.869487+00:00",
+  "lane": "reports",
+  "pid": "Pc3a5f10000",
+  "draft_year": 2008,
+  "name": "Kosta Koufos",
+  "draft_date": "2008-06-26",
+  "status": "ok",
+  "query": "\"Kosta Koufos\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2007-07-01 before:2008-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Kosta+Koufos%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2007-07-01+before%3A2008-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Koufos, Guards Among Latest to Set Net Workouts - NetsDaily",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaGdybUVuc01iN2RkcFlwZ0ZEZEdLVmZfaFRYQnJxM1ZfOGxqbWFUWG41ZkFhTG12ZVVzejIyeFoxTkhpblI0WXpmQVRRUEZlQm1sZWRFa0hpMExfZHN4VGJqRnNPbzdnekZSekJLdGk2aFZQLVptVWxZMHdmZndmbmJKZw?oc=5",
+      "published_date": "2008-05-26",
+      "source": "NetsDaily",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Rip City\u2019s 2008 NBA Ultimate Mock Draft - ripcityproject.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM1JSS2dtUll1UUlCaGpyY2JlaENSY2hqVkNqYWJJM3Z3bDlOVTExbkE2Z2F3LTZFNjV2czNrRGZTTnZXSGRadUJZaUp1S1l5OFppXzJacHdhaE5oTGZHVjgzZjFvNUFHZXF1dFJvZWNiT1JXY1pBZk9MMmlUOUo3UXdFMA?oc=5",
+      "published_date": "2008-06-22",
+      "source": "ripcityproject.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "fc304f9435416a9e35a9ccd55361c1fe2c4aa90ec73d9e470b84874f09e23dc2",
+  "feature_eligible": false
+}

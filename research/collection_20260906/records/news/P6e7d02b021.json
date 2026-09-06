@@ -1,0 +1,728 @@
+{
+  "collected_at": "2026-09-06T10:45:34.945939+00:00",
+  "lane": "news",
+  "pid": "P6e7d02b021",
+  "draft_year": 2017,
+  "name": "Lonzo Ball",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Lonzo Ball\" (draft OR scouting OR prospect OR basketball) after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Lonzo+Ball%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Draft Profile: Lonzo Ball - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4QVRYaDM3RENib1UwUURrZXBmN2pDS3NUeDBaYk9QMHNKbmRHd0s4QlFMQlRDTWdFWWs3YkJQbmZRS3JXR28xb0hwSFR4UW1ZcnNMeG9UbUtWTDlfNS1BVDF3?oc=5",
+      "published_date": "2017-06-16",
+      "source": "NBA.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Five Questions About Lonzo Ball's NBA Future - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdzJYNWp3emNyVDNpUjVqUHpDRWJIVlU3LU9XeHItWGdhSS1tMDQxdlZqcVU3ODk4VzJnZzcyVXdrNnNJaUc4NDlLRUItRVlyN0FkeVdVaEJBRnFYZjVmbEh2eUpGakdFVDlaNW1ENnBKN09IODhxLU9yUDI3N0J4blc3MUZQMTA?oc=5",
+      "published_date": "2017-03-28",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Lonzo Ball says 'I'm better than' fellow draft prospect Markelle Fultz - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdTVhVnl1Z0tFaFI0d0J6YnJ4RjFxdG1POWdBcXVtZWtRUmEwQkFGeUhyTm5Pcm1DbkhlYVplbkQ4NW1Sd0ktZEJLSUdheld0OFV4amsydW00a01sdVhWb09saFQ2V0hHSktPTGJ0ZllUX2VLNlFpTkdiMm1hcUhLX1BCSFBQWHpPX1RKRE0tZDBldVBtcXVYRGw3SjVIR0FvTDhucXlUVXk3M0Vv?oc=5",
+      "published_date": "2017-03-28",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "The Casual Fan\u2019s Guide to Learning About the 2017 NBA Draft Class, Part I - The Ringer",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaXlSUHZvSzJaWnhhN05kQ1BTeUtfcDluRjRja1VzMXM2QXA2N1oyTVVtcWdqUlRxOTdDSWRnc0hUandTUmt0eDhTeGFVaFFmZENmSTNqZ3ZLZENBTmRhT2hyRVI5dXJEZmNjZnJoamVrT2s4amNvQ1ZpcXdaRnZXcUdtd2FIVW5GZmdqVkNKR1ZfNUhGU2hRWE1kQmt0UDRUTWRWTi1EckpDQ1lDcmtv?oc=5",
+      "published_date": "2017-05-25",
+      "source": "The Ringer",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Why Lonzo Ball isn't the surefire NBA superstar people seem to think he is - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcDNwbmRDemFWUTRxajFfS0xlN29NdmlFOTBNZ2xmQ1J1WGhIQ0prRW5ReUx5VW43N3FNMkxMYmNOZl9VVW9nOTEydXhkWUZVOGdvYUl6bDVLZmJZSjFwamVldXNQYWdCdTl5U2FiMkZ0RHM1bGo0aldOVU1sRDlxYWlHdVlJX1FRdWc4djdtUEVfZ2ZPQUtRdGxnTlpkcVlJQXNTQk5SS2JlUTlpWG01UDkyaFd0ZURpdmtUM2V4TFZHdw?oc=5",
+      "published_date": "2017-02-01",
+      "source": "CBS Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "LaVar Ball \u2018is the worst thing to happen to basketball in the last hundred years,\u2019 says Nike executive - sbnation.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaXlRMWxtT2hjYmNzWF9iRjQ4ZW5Qby1wcXJyeEFkMWlJbmYxMlFpVFc0TXNWRlo1NkRKTzlYUjhMM1NWV291dDBoVEdqdk02aF9wN0UzNlFRby00dlA5TUdHbXZXMnhLVlZTNTlkQUFFdENNbmVYMGpjODVxZHFMSkkxaUZibmhGeDRyUmxVNnV3WXV5WWQyOWgzaWl0UkxjV243c1Y3LVhBaVlERHM1bno2OEU?oc=5",
+      "published_date": "2017-04-20",
+      "source": "sbnation.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "UCLA's Lonzo Ball heads deep class of point guard prospects in Draft - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwcjZsTzdKZ0JyeUVzQmgwSXh0RU93VWR0SjVNUlNYMnpHZGVGMVhIWUI1UU83M0hWaVdWaGdIYU1IVlBwZFMwcFFVdE5MRU9zOHBHNmEyZVgyNENXSTBYQTVUOEFJQk0?oc=5",
+      "published_date": "2017-03-20",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "The Case For: Lonzo Ball, The Draft's Best Guard - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcjBZdzd4bGZQMnVCSGJneE5sRXUyTmVETDByUmUwNWNJUkVOQjF4NFFIWmVZRVAzbU9oQXlBSGh5Ym55MkFDV0JEMHJVNXEzVFJxM0pSSHlvUTk2QXJkRWdfREdad1NERlRUU0tZN093a3Z1dEJWUjZfMTR2dXZhRko5U0pHUzBOd1dGMlFTdnY?oc=5",
+      "published_date": "2017-05-18",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "The Lakers Should Draft De'Aaron Fox, Not Lonzo Ball - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ3BiWUhOLVNWbUpmNTVWZ2ROeFBRdTI4VVVOVVVfN19wcTRTcmpneUNHUld2ZW9jQmtVRVZuS2lJRkJjOXNjZWZ2YU1UYldqaFBwZDNWMHFfaDhVelB4RUJ4T0VNaWI2TE1HWWRDb0tWcFYwWE1LTHNRQk9JVmppWlVCbFNsOVdOejVhZm5GSWE?oc=5",
+      "published_date": "2017-05-19",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "LaVar Ball: Lonzo Ball doesn't need to work out for anyone but Lakers - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSHNMSGZLd2NZQ29pajFEWXhSdGZEdXBrb2JDRWR0U0xjV0pVZDlEX2pWRFdoUmswbW5sUEZmeWhpTW40NjNiVW1INy1GbzU2THhqcEFZWllnVVBRWWZxcjhSNWtJbDhoeENxempwTFFOOXhseTRmYjQtVS1oMFZvX3pIRV9wX0hCNGVBZlNVZjBseGg1dVk3VDJPYnZVOFpqbFE?oc=5",
+      "published_date": "2017-05-17",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2017 Draft Profile: Lonzo Ball - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1McGZNU0lsUi1fT1o2WFd3VXNMekN6LWdENGlHdGd3RmtVQ0FkaFpCak9OMHFrMDNQQWVId0dYVDJDX25BN3I5N2ppX2prZEtOY1NYUTVfcWZfcWd2RkFEN2U1OVNLUzBoU0xuS2RwR08?oc=5",
+      "published_date": "2017-05-30",
+      "source": "NBA.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Lonzo Ball works out again for Lakers, showcases training regimen - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWllxZHNTYjBLNnRDNGFVaGRRMF91U3BickFoUENJOFNGdXZjblBUaWcyNGN1UEZhbVBsdW9JZEQyc3JfZkphSzNmZmZRZVJhcDljN2RMMTZtdzhaMzVkVmtkWF9FeFp1SUhCY3JGRy1kZkpOZEJobDkxY2tDeDlPVGlBcUlZVlJ1NnQ0QU1hN282UGlYall6RGFlaVRNV1FhR0xGNk5xRzNTR0gtUjhqUWstcnpTM1U?oc=5",
+      "published_date": "2017-06-16",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Nike, Under Armour, Adidas not interested in deal with Lonzo Ball - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOekhxalpKWEpmbDdObzlIeklCcUNLRjdNZjdtQlhnZVZYNlkySE42UzQ4Zlh1bjFDVGhTRmtRN3RDQldyQ25nbjNMbzVGVUdkOWxfY3MwbTkwM243MmN3RmYtOEZZcjA2YThFZkoxM05JT253WW8wUmp2ZFhqd3NmcVJZYXBvdXNIMlRWMV81eTI2U2E3UVNXdHZvX01pUFB1bF9CZWZ6bGJCQzBSNmtsX1hZSjU?oc=5",
+      "published_date": "2017-04-30",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Lonzo Ball says UCLA's Sweet 16 loss was his last game for Bruins - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOHczR21rYW5mRGRnRlpYQTJESHRrQTY1R3hUN2ZpR3o3NHRJTHNwQmM2cWRKWm1NVmVCNWhZYlJULWl2Rkh5OVIzdmZFRnJGZEtzWVk1Q0RUU2hkNXcxTFZLLVVSaW1Cdll3OWJmNmZHTEpLbVM1Y0ZKWVcwYTMxVEJtVkZvWVdZMjhJT2k0N3Z5Z2ZfVXlNczNZVl9DdUxTNkU3LWVUWVlHcFk?oc=5",
+      "published_date": "2017-03-25",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Big Baller on Campus - The Ringer",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObUVJd2JjRzRvSTNqTDc1ak5HZXNpMTNEU1BJMDRuUFBvTklNVDVScmNpX2xwdTZ5WV9Wa045VHBLMGZoeFgzVmx4N0J0cmZ3LVJSV29HYWZwR0txbjl4bGs5MFowbXQ2Y1E5dThxd2QtZzZiOTlMWjVKd044d2NBMVRDY2lPV3JMcVI4NFdWcw?oc=5",
+      "published_date": "2017-06-15",
+      "source": "The Ringer",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "How Lonzo and LaVar Ball figured out how to get -- and keep -- our attention - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQV9feVVtQWNwY2JzTWktYklESzlTNldvSWcwVlVwM0prdVFwS0xnaE1MeWlyLWNUNndTcnF5NGlpVF8xSGd6Snp5eC05SXJaakxMTVphb2dpaF84a0NHNlpQRGt0NGE0YndpTFg0cTVUOXlST1VqelpTQ2MwbXJ3MW91MElrVUZpcEtWY3o3dHRvWWhoQjhKeTJTUzJWNS10dmtMQU43VUQ2aFF2TW1NbkJOVWVWajBCS2xJ?oc=5",
+      "published_date": "2017-05-15",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Destiny\u2019s child: Lonzo Ball, Lakers can complete fairy tale in NBA Draft - Orange County Register",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVFVKYUxtc0Q5NWoyWEFfbEpIWG9tR2xONmxMMG5OLVFtZGVHWWNkUzVtb051bHZuaF9MX1EtVE5kajJtWDFrT3VPd3ZwMEhRUDl6T3E2bXk1Q01fSng0M09JTEhESlpxdEI2dnFWWmUwc2lja3pBd0RjQ3I2X0MwZWlLWDBHckpOQU93WjZuNkdEcGx6dS1fSnBMdjVrOElmS1FaRGoybU1NSkNE?oc=5",
+      "published_date": "2017-06-21",
+      "source": "Orange County Register",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Drafting Lonzo Ball Ahead of De\u2019Aaron Fox Would Be Dumb - A Sea Of Blue",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbUxyd0pOYmJUV1JaakFOMlItY1k0eWo1Ry1mQkNPYXZtdGV6RkFyNnpsMGpRQmUxWEJaOW5qcno1Z3pMVXpFeThmb3hsNllSVTYzYlBvNGphdjJTb2syMXhpSlRUdWw2NUVpZTJBS0Y2a3VsLWk0YWI3M0FVWXVUYUl3Zk1wOXVxRkY1WE81cFg2T0tjZlNF?oc=5",
+      "published_date": "2017-05-18",
+      "source": "A Sea Of Blue",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "3 reasons why Lonzo Ball, and not Markelle Fultz, should be the No. 1 pick in the 2017 NBA draft - sbnation.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQXdSRkVCZEtYVklBODlEc3NzQjFZcl96WkVHdkM5aUpJUnRTTnBYSXYzZThqYUIwQm9XT0ptMHJnWmxMdWpsU2hmdU53Mkt3RzlCTWZVMEJQQ1h5c0lKb0RsbXVoZmppUFBJcHFBVURObEVTTThPeWZoc1haa1lVRjVJeWEtUTBBQXJWWHViZ2E1S25LV1ZRY2RCc2FvWjBPWWtWZ3hpNDZJbk5fTTBjVkw4Zw?oc=5",
+      "published_date": "2017-06-15",
+      "source": "sbnation.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Photo Gallery: Lonzo Ball Draft Workout (6/7/17) - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LT1NDcFgwRmFRSUdZa2NVZnZWRHh0OGIxYVJCd094Y003VlVBS01HUFhtTDZtZHNjUFlrU1hjUWlNV1N3aEc1eUtjRVp2TjNQNm9lX2x1VUxOYTNQaDZZ?oc=5",
+      "published_date": "2017-06-07",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Lonzo Ball and TJ Leaf on lists for Oscar Robertson, Wayman Tisdale awards - latimes.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNDR1TkVXcFVKanpWVWpmOGxiR2dvUDlXVkptZ1VjY2VuN1J1MlpZampiZXAxVWZycFNxWDBYMXBTUDJac0t6UDNsNmZ6eWNBemFEc3dBQzdySlhKOElOWm41NU10S01NZ29pNzN1MVVDdXJJNFRzbEYyTHI3UUVCMTZNZjBoZDV1VVIxNkFmSWc?oc=5",
+      "published_date": "2017-01-23",
+      "source": "latimes.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "On verge of lifelong NBA dream, Lonzo Ball ready for his moment - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeXEwVzVpb1RPYk9DVTNJQUhGY3N5bHhhX1ptcHp1QjdUaVVsVEFfNEplQXkxZDJ2T2RrUXJmaFllR2J3TnF1TmdBTFgtV1RTRHgzc0tIWmdkRTJnZWM1eFNkVjhoOEMyZ3hLUnVDVGY0cW1ua0Q4TnhCYy1ra2h1YWI2MG5oMWhRSHV3eHhiVFZYa3E5ZTFlTjQ2T09rdnVoc0w0dFpPdlAySE0?oc=5",
+      "published_date": "2017-06-21",
+      "source": "USA Today",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Sources: Lonzo Ball won't attend draft combine, may be joined by lottery prospects - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSWZ2S2daaThXcUNIMWt0OVhoV19UblE3YWtvSVhRaFBGSG9YN29DeVl1eDdsTUZxUHJSTlJKWDMybE1pV3ZOdlJzejBxR2x3WHB5U1JaYXZGWWljdFlJaXJFa013NzNDazlaT05iWDh2S2NDOVdCN1hPSTg5T0FVZklXSDNEVnh0NnJxcVZRQTJDR0thMlhVM051MjRCSXJr0gGmAUFVX3lxTE1FQzA4azJBUzBoekU4QjdIb0RNMHFRdHU1d3huak9GVXUzRXhYQ1JyVXVtVFhfSVVqTUdsdlRKSkpmLTBjazZfY0tVWjBEX0wxeFJxeGpfWk03a3cxQ2pESXZITVd6eUVUVVkyY1pyQ0l0N001U0x5NHczS2p2bFpHSk1uV1BMSGZTUW9OYUViQ0E1QWd0cW5NbHFRTUJ6RUpoeTV6Smc?oc=5",
+      "published_date": "2017-04-29",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Lonzo Ball Is Life: UCLA's Superstar Freshman Is Ready to Win It All - bleacherreport.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTXZOX0hWSlpndEdTSWV1Q00ybTNHbVUzcTdrd3QtYUtZUDNDSEI3WmFaQ1pveU5xYkdoekxaSHRFWmVPQU1kQ291aHRhY1hVV0ZEQlhlbDhYQlc1NzdIbnZzMXhLOFh3TnhZQVpWeG9XRWRJb3hsdTM4YThDOEtNaTYySHF0ZHlFMndsRnBqb0VfS2luakxuNUV6bThZUXU2OHQycHZzOS04aHpSaEY0?oc=5",
+      "published_date": "2017-03-09",
+      "source": "bleacherreport.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Ball Family Helped Lakers Decide on Lonzo Ball - NBC Los Angeles",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUU5IT3JBWGZNWVhPTUljeWg3SWNVa3ZaYkp0QzJNdnRFMl9SWjdCdWd5eDNWOEdKd216eUxlaVZOTFZwc0pHLUttcEdFRGEtWXQwUUVMWVJkdGxWSWVQWWI1RTNHYTdMQTA4X2FpN1BOLUFsNkxPbVc1alRwTzlSeDNZLXl0VmRuN2JlRU9XcWgxMDJa0gGcAUFVX3lxTE1jdER0TnRyLW12bEIwWGM0ZkVnd1FEODBpa3Vfb2lCekR2Z1hldWl6b2JfMzdUdzNSYWJPMXVZNHRwUzc1NHFLOGVWUkI1WnJsVGRkTkFRS0NZaVZrSHlQUkNFT1JhbTNSdi1jOU40OUtMcDZXVWNjOHJrQUtsRlV6WGhYSC1VVnRyVXFJamtKampXWkFCRnU4aE5GTg?oc=5",
+      "published_date": "2017-06-21",
+      "source": "NBC Los Angeles",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Column: Lakers need to trust their instincts and draft Lonzo Ball - latimes.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQWxfNnM1OXR6QXBKbHZRNnZybWpfZWZrMFo1MzJkRFZ1WE5Yb0plbXE4Znp6LXR0YlFVXzNYVmJCd0dTcjNwNmxJYkhPd2JOQXZDallJTlEtb2paV1F2a3pld3V2ek8xbURvajdmU29LUjNLRmxORkhsNldjanR0R21xMA?oc=5",
+      "published_date": "2017-06-14",
+      "source": "latimes.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Lonzo Ball's career at UCLA ends with a thud in Memphis - The Commercial Appeal",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM3RtdkdiUlNxSW55Qm9YajJLYTZiUDRWN2lqVDVFT1lvYWlKdFNvYzU0UlpZT3g3RVVMY003cVBfbFl1SmVERWtNRk5HYWR0R3FWZ0wyNDU4elNmMUpvSE40S0NTRkZWYnpjWkZuWXRTdnpHbEpOcmhhRFdfOEUyWTVENUlQOWNBbXBkNFR3aU5jemdWS0xmNEtEajI3U3k2SjVLQzc4NXJVOVhzcEN4M2dreXRTQQ?oc=5",
+      "published_date": "2017-03-25",
+      "source": "The Commercial Appeal",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "There is increasing buzz that the Lakers could pass on Lonzo Ball in the NBA Draft - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xb3lORklURGlIWjd6bzZVdkpzakQ3b19Tb0xzaXF5Y19NQkJUNFRDenZkQmpaRFVWRWlCcllCd1dmcmJ6RXltNC1lTnQ3ZGNhSWdHSzFZQnFRbGpfMjdKRGlMX0IwRDVHRUF5aVoxeEdhWjNpMHc?oc=5",
+      "published_date": "2017-06-14",
+      "source": "Business Insider",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "De'Aaron Fox's dad calls out Lonzo Ball, escalating the rivalry between the point guards - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc2JJN1VsQlRPRFlZN0s4bTNCX01TUk1laHI1LXRzeTF5TUhoajVYNEo2WjlqQXlzWnBaa2tVWHp4dkx0bUlmaUNubTBnYkdTUjBLekVtTVp0cE83d0R6WXBkSU1DSWp4eVBqb0lVb1ZvRl93QXdHSW4wbU01cmxkTGtKTzZtMjZoTUNYVzJOOUxzMW95anExbWx1ZHNqTDVGS3MyYXF2bWU?oc=5",
+      "published_date": "2017-06-21",
+      "source": "Yahoo Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Should the Lakers draft Lonzo Ball? A difficult decision for the Lakers with the 2nd pick - desertsun.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTHFzbDFNN1pKeEtRVV9mNDBfcDNvbU5uU2RkNjI5cFZCcy1jbmJDNUpXOXAxT0lsY1lGYURTa05tVE9nRnFncFZ2SFpnamhVdkl5bl9JV2NMTHdRbEN6VEpULWZ3Ni1BQzg0czc5VDVhMHdLWDBqNk9tQWR6MzJ4cA?oc=5",
+      "published_date": "2017-06-16",
+      "source": "desertsun.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "How De'Aaron Fox ended Lonzo Ball's college career and lifted Kentucky to the brink of another Final Four - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVzNCekUtb0w3Y09PN0Nxd3htaDdOZ3p5ZUJjSWJINEhfakZTbEtsaG56SHo3WURmRXdrSHl6SDVQQVRENFg5V3RtZ1lnSF9WSzNmaEIxYzV2dk5tWnJFc2tzd0Z6N0pyWlIxU3FfSlBzUWV3MW0wMW5hREZWcVc5WW9zMno0eDhaQ2NkM3I0UGdxVkRfY25EVWJKZUpNdEFlR1p3RkQ3ci02bjM3RkE0Qmpmc0ZLRWxzVWhiQTdIb2FFYlNreDd0STVB?oc=5",
+      "published_date": "2017-03-25",
+      "source": "Yahoo Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA mock draft: What if the Lakers don\u2019t pick Lonzo Ball? - sbnation.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY1FaVGlsYzF6SzM0cTJKWUN6Zzg2bTlZVU9lYXRzcDdDYVROUnNDZURrRWxwZnF2UERXNk5FajdQSEJTUUJtOXhTOUpPVTJUVG9fdWttdGtPQTVpZXNIQkNQM1pKMDJ3b1ZYVmN5aW1EQWh3WFh1OUszN192WUFqc1VnMUdONGNteHhfeVowcVF0bEluV2YtNUxERmVuNjVkdjdfUjln?oc=5",
+      "published_date": "2017-05-30",
+      "source": "sbnation.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Scouts Mull UCLA's Lonzo Ball as Potential Top 2017 NBA Draft Pick - bleacherreport.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUzUzcTRKMjJ1clBHWWZRalNDSmllRDFQeVlqYklkNENDaXJlODViak84N0FJS0Vnb2RjQThpbzJPUm9ZMkEtcjlMVkxYcTJoUDRLWklNTjlfczFhTzRvSU9oME42bzN5TUxZMnowWjltMDc1bUhTRXlsNXNQcl9HOFV3X3NMZlp6TzlXSlRRN2l2bXVmUi1ydmtGSzRTMWhtQ2h1TlY2Nmh0dVpGNVBxUExrVQ?oc=5",
+      "published_date": "2016-11-30",
+      "source": "bleacherreport.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Lakers visit Lonzo Ball in Chino Hills, other draft hopefuls scrape to earn a shot - Los Angeles Daily News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOWVTbU1tWmp4czJGOVJOa1E2Q1Q2a25NVjZBNG1JUEp2VmQ5X1BQS3c1TVE4eU53S1ViUHQ5Q1U5dmRVbFAtMUI0a0xqVDVtOThNU1F4X0h2NEdjN2d3T3ZHTWFSejViNjdCRFoxUi1WdDhubjZKb3pjaUplbVN2dWtEVXNUa0QyY3ZRVTItZHZjZ1lqTnBtN2d1LUVONWNNZW84UXNtTTBzQ2Jqel9iYVdjdVdNM0Q1TmRhME9FM3gwQQ?oc=5",
+      "published_date": "2017-06-16",
+      "source": "Los Angeles Daily News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Ball to consider working out with other teams, but not the Celtics - sbnation.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa0dYUVo2R04zT1dPVHMzZllHbF9tWWhiazZsU1UzT01xcVhrQTlmaDlWNVRtNC03VnFRcGFCUFlOdThNUDBKX19YN09fSEo5OWhQbWtpSmVjVC1QLVdqMzRPN0RSYXZVSW9FcDFwRDVQdFBySDZoSTUyWGtXUWlMOXpEeDduX2Q2TGRncE43RmRNQ1Q2QUZSdVkwQlA1VklMbFQzd1ptQQ?oc=5",
+      "published_date": "2017-06-16",
+      "source": "sbnation.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA draft: Lonzo Ball downplays concerns about LaVar, highlights leadership qualities - Orange County Register",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNjRRMDdCblMyeE9kRzFVczdrYS1lRHZOYmxyY1ZMc1RWX0pmWGFJRlhISmdCaWNmNGJoUmdEYzBBYUstQ214RHZsVlpkSjBLcVZjRTRsbnI1bThncktEaFZfQU5CR1o0aklNUVplSXJKNXE0VThkT3BSenlfTFQ5bTBfM0NHZU84VmZodzVPN0FXOGJEWkQweUdHZXFPSXY5YXQ5Nmg1UTFENlNSTWhiVjVFYU4xNU4zLXc?oc=5",
+      "published_date": "2017-06-07",
+      "source": "Orange County Register",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Suns GM McDonough: LaVar Ball would not prevent team from drafting Lonzo - Arizona Sports",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMlBDcXdzMDdtX0ZJMF9ySXVyMVlUQ1pNN0t0b0xsc3RwRkJhRGdybGExMVFSWmVvVm1FN2NVaTI4OFJRbjYyM00tMWRTcTFBRnNNdmFONDdlTExTdi0zSlhvQlNYUkg4TmZQSW1yaFVaem9vbjRwNDdyc1lxcVZTQk5BWi1HRmNocXotSWhtVzFZMWRfYS1DXzRjOGRWcTdoVmhxdE1vUWdFN3g0MDdjWFQzcEJucUYyVkVmcG9tTQ?oc=5",
+      "published_date": "2017-05-12",
+      "source": "Arizona Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Source: Lakers to bring in Lonzo Ball for second workout Friday - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTRYMUprSndCeUpiMHRNbW9hUjczaGpDWmE3S1UwQjM1bkpob19WTWg1UUpvcWl5SmE3X2s2V1dEd3NRd2QxZTItdllhREk5QlIwakdjYndvUUFSdVowLWdrY2x3N2RCSURJRmFlOXA0SHFmbHd5WGxRMEp4dVJZX0JraEVXLUFNell3VjkyQl9qSjlvNWY4eXRJRUZrbU1icHpOVA?oc=5",
+      "published_date": "2017-06-14",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "LaVar Ball: Lonzo Ball will only work out for Lakers - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU2hVaDNib3pJOFZWT29WRTRaTV8zV2FQOFZnV0tka2hadm1uZ0p4MXR4U091Z3pVdTBIMkQ4a1gxNHNJaUpOX01OLW9tdndQNUZMUENjM29YRnBxV2htM3U3WXpjVGZGcVFjX3lwZUJnTDZNbDM5QlhQWnBnQXBqNXMtdjdCSnZnbW55dGVlclVqOVdNMFI2WF9UWHJUYV9mbHZ2SzZVOS1CeVhrYUVEZml3?oc=5",
+      "published_date": "2017-05-17",
+      "source": "USA Today",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2017 N.B.A. Draft: Markelle Fultz, Lonzo Ball, Then Who? (Published 2017) - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMlhRV0dlT2RTejdMYzJncTdJcElhTkJSNk00RTBoVWJIcjdZUUM5WDRNbkw5TjI1eG9VV1NFMUJpcHdfeEl4anJ1cEhsYXAwS041b2hGd0p5T0o1VlJOX0U3SE9OMWtzTWlzVjZUSFZubTdIWjBCLUhyWUFSVnItUDJn?oc=5",
+      "published_date": "2017-06-21",
+      "source": "The New York Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2017 NBA Draft: Ranking Best Guards Available - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNXzc5TXdHbVA2a1E2b3k1RjAyU2ZNSldMYUtVMW1UNTFqNGFWdVNPZE1uWXpKTG82dDI3TXBXdXdlZmUybko5YnJVcThNMWpaVXNKa2JWSzAxZEk2Y3JidGJ1SVJiWlQzZzNRbk5EQWpOanhpV3BWRGYteHA5b1N3bkQyRXpJaUhfZy1SM3FCb3N2TEkzVHJfUlNKYXlTWkxYLVd3?oc=5",
+      "published_date": "2017-06-20",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "LaVar Ball says 'white guys' comment was misunderstood: 'I love those guys' - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORWxRcDJpYVNYamVJWWVzbWxuMS1fZTNTOFFadFNZWHRjUkJoYURPU1JSZGN1UDlvSmxVclBaS0hVbWNZcG9GVWU3RG4tX21acXdCU1Z5ZnlweGZSNm1pNmd6MG5ETlo4TE5UYTRPUFh0SWpvMzNTTi1Udi1DMmZHdHo5QjJ2QTRfazJRRTFNWE9XeEFYLTBKdWhnM2RHMkJBV1M2aXR5Z05YcEpHY3M4dFlhWGJ5WDdwWmJDaVZFRUdmSHhRM3ZpdF9BcWp2Q1FNZWpCajZWWGc3WG5POFdXVnRvZmRzYnc?oc=5",
+      "published_date": "2017-04-07",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "UCLA could leave its mark on this year's NBA draft class with Lonzo Ball and several of his teammates - latimes.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8xTFpuNHFmdE4xWmNpMjVBRFZQOUZBZ2lqOUNVclBlazFOZTVuNzgtbE5pSFliVTltWmFNRTdTTzRieElidDdBcERCenROb2ZHXzV2V3FrYWpRNWVROE50UVhCTF9hc3RMVVRmSl9DcndIaU9DbF9MVjJtSQ?oc=5",
+      "published_date": "2017-02-27",
+      "source": "latimes.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "UCLA Basketball Scouts Itself | By Lonzo Ball, T.J. Leaf and Ike Anigbogu - The Players' Tribune",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSmVoa0JPM1d2OVFoaHJ1OHh0THZsZlZjdUk0ckFyZzJLZXo3M1RVd3N4OENFSHB4OEFTejdtc3R2RWM1MnVNRWtfdzQtdy1VZnhkUFg1RXJVdW1qMGdrQ0swUFBfdjc2SkhBckN6SGpJVUxJbGZDdjlRSjZFV1F0T1FhNHZLbnRsdXloY2pKYlY3M2o5?oc=5",
+      "published_date": "2016-11-11",
+      "source": "The Players' Tribune",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "How Lonzo Ball\u2019s brothers have emerged from the UCLA star\u2019s shadow - FOX Sports",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaGVZMnZfUWNTRGNEX1lOanFoTV9PcWJpZmR2dHd2SmpBT0Vmb25yMldPb1FmRHhDYnNZY2hlUUZOYVJuM0NQbWd0ZkNFTnVnY1NNN09iX0dleVVTNXBQeHJfWXl4NWVCNi1NNDVlcVJjblNjVDl3MVJCUlVvT3gtd3prWEsya2dFM2RkSldvV2xVdXR1UVZpU2JXZEw4Y3dtSmtJc2V1a3dRTTlNb0ZBWk0zcFg5bGxJ0gG4AUFVX3lxTE5GN1lZWndFbEM1QVo1Tzc0VTc1NFlGVTJWM3ZmX1FPUTJWeHdwMkV4YjZOLVZCS0kzOWhDVmVYVGtYcGM2UmZyR2pQenVSZWJJYkMxVjNPTXFQQ1VxeF9iTGxBSHNhUWJyVXR4RGhRRW9Zanl1X2MxTVplcVdQcnM2S3dZY2I3MVZfWXhYMWhXUGhvejBQcnM3MVdqR3MzVWo1M3BkeWdaWXRCWEZvSE1EZTlJbExKYUk?oc=5",
+      "published_date": "2017-02-08",
+      "source": "FOX Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "All LaVar Ball is doing is building the family business - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSTZ6SWlFemVkdldMY0VZQWNVTEQxQnl4UVNiOHlfTXBkUEVZS3czTng1aE1HRXRVVDM1Qzd6TkFKQnlzSjE2dnM3QzRqUFU3TTBib1ExOVNhV21uVlRMLUw3R2dXRTNVcThzRHJNWUI0emplWEpLYXFLaURlaGZzSThpdlhNVDlMX0RJOEw0emFpQXJlNG1RQlloODJoLUE3bm41SkxhV1FkdUdiTWZkdHZlWFB0SWtCdmR1TWpkVFRSZ1J4MVVlRGpOQVlUbVpxb0pKbw?oc=5",
+      "published_date": "2017-03-22",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "How One Family Is Beating the NCAA at Its Own Game - Time Magazine",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pUXNRc0t0SHRrSXc5bXk0WFVYZHNZdnRSRDlDczdEYXdmQlVtSmVvckppN0VmMmJkSFpCclNhd0RkWjhwMXdpU0llZEUyTEpGMnFIT0p0U0tnejh4b05mTkstbHdHTGVDYUtPNmtaSHJobXVyVWFj?oc=5",
+      "published_date": "2017-03-15",
+      "source": "Time Magazine",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2016-17 Pac-12 Men's Basketball All-Conference Honors - Pac-12 Conference",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa3RmdENvX004TFdNT1hsZXVYYl9yVk1XOWJMZjFKakoxc3NZU3E2a2w3djFFbWNERVFpRTRGUkhYTDBnR19IZ1NRS2NZVEdXVlB0dXNSWm1GTmVrM0pPN3k1R1ZhZXpnWWppVl8zTE1Tc2tsbmhJdnJ6eHRjRExsWHhZY1NNUWRyTGFTbmRJLVl1aDlr?oc=5",
+      "published_date": "2017-03-06",
+      "source": "Pac-12 Conference",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "LaVar Ball is about to get even louder now - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV0ZxUlNTb3pCWkw5M1N0VHdyZ1ZyWl9TNDE4NGhxUzRGaTI5UnJTeFRybDJlM0ZmamR0bFN2U0lDUEZIVDVOZVlVM3A5WUQ0eDNYQlNUaVY2enBsQnNucVZ4U2NBdERGUVBWYWpfRXhmdWs3eGdLUFNmbmxpRjFGUTE1STB4ODIzdmo4bmVfbHdMRFFKM1ZGdFlnMGZUenJuNDhjOHNWSjVyYVV4Z0JVM1I4SW9UOVNRTlB5ZXU3QQ?oc=5",
+      "published_date": "2017-05-17",
+      "source": "USA Today",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "A Brief History of Pre-draft Workout Refusals - The Ringer",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPekt3TG9va21EakJHekRadjU3WVBWRlcyZVg3dFVkV1NFYlM3LXRQMUxmQ2hJN0ppR2Nfb0FlNGQ0dG1yUmtfenFjbEVZUEJGZlFRTEJpdlZ3QU9NaHo3M1BJV2xlUGQ2akxoUTdqSk5TNTktNGpCSXhUekY5dmdEaWpWNkpXN0IyZmVwcXMzaUswNGZiVFE2aEswcw?oc=5",
+      "published_date": "2017-05-25",
+      "source": "The Ringer",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Meeting Markelle Fultz: A Day With The NBA's (Likely) No. 1 Pick - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZnk1OGhfS1NRSk9WNzFjNjhHQi1FUkJoeEZ5UU9GVUZWWVNVWUg3UkxydS1ZajNIZW9ySjJNNGoxekxTQXhrWnMtTVNXRm5VWC0weWdqZjd6N0taM1ZDRWZLRTJkekxET3ZYRlA3WmRvc3ZtSDc4YUoxQjR1Mi14dkk5VHZ5bE8ycXNEUWxSWklrRmgzSEE?oc=5",
+      "published_date": "2017-04-18",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Lonzo Ball, potential Sixers draft pick, is selling signature shoes for a cool $495 - PhillyVoice",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQjR1MTlwRXlBUGxjVWVUWWNtdEJkU2VOOVBJeWh6S2FtV053aXNNVHpJZ092NTdsSTc4MnYtbThEdklwVngxRm5kMmpCZmlId1MwQ29Gel9HOGFTeVpTMS1pRWxlOWhINHRETnVwZnkxU2ZlYlpRd3JOUDE2OG5rM2VRd3FfNDQ0YzZOTUdfWVFDLS1XbmxkTHk0TDZ4TlFjeGw5WHJveHNxakxCbTZYZmprd0ZNM2VNUzJoby0tU1gzWW5i?oc=5",
+      "published_date": "2017-05-05",
+      "source": "PhillyVoice",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Lonzo Ball stays chill while playing basketball: 'I don't get nervous' - theScore",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR3hhcHEzcHFITDVzc1o4Ykc1SWNhLWZGcmVUOHlDLXdleHYyMEM1Q2x2RXlrOElCSlZYNmxKdDc0SmtHTm1sYkVDNmloMjJOdXdBQ3dLdUphYWtDTmR6emxPYjFEb2RSU2ZmTkUwdEo5SUZnZV8wUVhKZVpqYkt4akRjZW0zemdtNDFua3JLeXVaOHpXT2Z0cVAzTVRWUUF3YjNPbkhCek1hanpl?oc=5",
+      "published_date": "2017-06-07",
+      "source": "theScore",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Family, dedication at the heart of freshman guard Lonzo Ball\u2019s game - Daily Bruin",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaW5kV3lrTmtZNEkzVURsZENtNTZwNnN0YTN1OVQ5M1NCbm1WdXROVGVNNHJKd2Faa0tSVVBhU2ZwS3drdzdjSVJUd1lEZXN6WnlXeU9WUEVBZnJBUE9jUUVibHBFMEpGdHBaZ292eEZQRGUtOXlvbFZyaHpHZ3pZTjFlX25XMnhzeXJyb3pTc0k3MEVBX2VJQ0hRWWQwQzBJ?oc=5",
+      "published_date": "2016-11-10",
+      "source": "Daily Bruin",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Lonzo Ball says he will enter NBA draft after UCLA's Sweet 16 loss - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EdHB6MWp6bzVubEVMQzVzTThpbUh4bV9yY0pWeUlkSVAwMmFvV3I4MjhMUXFWa1pIdnE1QlgxOEk4d3ZVZ3FJNTJ1NTBvd0VyVWFaUE1qTUtxMUgzQ0FTR0ZldTFscHNIanZRbEVOLW5QYVFEa0NodE1Hdmk?oc=5",
+      "published_date": "2017-03-25",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "How involved would LaVar Ball actually be if the Lakers drafted Lonzo? - latimes.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSjQ5bTlGejR4Y05ESkZxR1VrbTJmOTJjQXc0QnpJVEx1ekJZMjRzQ094QUt4alVnbWNTa3YzYjNKcnFfdTZINkxkVnUtRHZ3SnYwU2VBY1FpUzBxMkNLc2drR1N1dGItRlZxMTlsdGNJclRkU2ZXaVkxYmRIZHQ5STRENlZSUzdSc3FtcHp4Wk8?oc=5",
+      "published_date": "2017-05-27",
+      "source": "latimes.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "LaVar Ball says Lonzo will play for Lakers: 'I'm going to speak it into existence' - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRV9sSVFicXY4dWJmQWtqcFhtMGRDLTM3dkI3YXNvb2h0a3hqdWt2NzdmUjJXM1FneU5sMlFSaXpJNW93M0J6YXZXU1ZDbGdDbEU5ajh4ZjRVb290RzhUc0hFNm5zTHVHV0ZBMkhrZ2F6QUc5TTBIU2NGaTNQb3pCMFM1aGVsT1o2ZTRTcmZ4S3QwcFQxcVR1MUF3VXoxSHhPeWZEN004YWFUbktkZkxXZ2kyZWRyYjZlLVJ4NGxlTDd4UGx5a1R1bA?oc=5",
+      "published_date": "2017-02-26",
+      "source": "CBS Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Exclusive: Lonzo Ball Debuts the ZO2, His Independently Made Signature Shoe - slamonline.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JUzFLOU5yRVQ4UXhuY3Z4a1VnQjZpcjdJeHJaNE8xdjQyclN4aGlHZmgtUEgtcHdxclBDbmIwcjNrSzJaWTVCRkNhWkxZcm5IcVhpLUVQSEhaZlluSlA2UmJVeVlNUm1oR0dmNGFrcjgzOHZKTGc?oc=5",
+      "published_date": "2017-05-04",
+      "source": "slamonline.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "What are those? Lonzo Ball rocks Harden Vol. 1s at Lakers workout - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYnR1QzFjVDE0dmFGZFQwUDAwWUJIU29MU01scm9QaDRMd2xvaWhRQWtLZ0ZCZVM1bWc4bmN0TXVsVFZjRDJaRVJOMDdXZ0ZtVVI1ZzNwcmcwQ1M4TGUzUTNZYnFkdExKMm1YVTJmbWV2YlRPSFBmWm5CZDRsZmRBNndfT1U5dUFpNzBtbUZyOFdRY0UzcGN4M3RwNk9idWdGazMwWjFiSndUUUZHSHRkR2kyTkR2dw?oc=5",
+      "published_date": "2017-06-07",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Markelle Fultz: I want to beat Lonzo Ball in 'everything I do' - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMXdmX3NJaUlCOG9oaHhxNmYtekhJc3FmWS12eGZNSFY4U3A3eVkyNzRlLXE0bHlnMVE4Q3o2SWl1ZXJINy1HNzRQODU2blZJbDNidmh5c2EyVUQ2ZEQ4a0FPRVRBMkRrdkZDZVNUaG1MWVd2TWdHeDg4X01fUnNhQ05lakc1OHRxcW9SQzRZWTJad3JBZ29hNHlEeU5TbmhOOGZBZ3R5d2Y?oc=5",
+      "published_date": "2017-06-16",
+      "source": "USA Today",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Lakers select Lonzo Ball with No. 2 pick in the NBA Draft: Live updates - pressenterprise.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZmNMeFBsTlAxVFZTQnJnWmNiX3I0TFlraC1rN09JOVdGN0NrV1c2VzN6YUM0WUJ5el9SR0FEZi1kdFZoc1BMNzROdlNPTDEtSkdzQUpBajhBbkZZRkNvV0ZnNnpQa2pGOC16WU5NTzNYUFFraHpUbWduR3Y0dE1ncEVXcjQ2d3lTb3RZeUdON2ZMa1RQVHRzTFB4SWU4MmN5dHg3VWVn?oc=5",
+      "published_date": "2017-06-20",
+      "source": "pressenterprise.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "How LaVar Ball cost Lonzo a shoe deal with Nike, Adidas and others - FOX Sports",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWTJjSjlfa3Atdko4UFN6dXdOZU1NVUdWa2RJMzRxOGVmVThoSTJlc0FTVHRsMnZtRTJnT2k1RnJXa3gtSm1RLUV3U1NhSl9lQlMyVXpxRmZKYjlKdmd2aFp0OE1CaHhBY0kzRDNDeTFjNXF0dm1uSUowMzdJd0ltMXhra1h2U1hNRHJydVA2SmFDQ21haDFyOHdBckIwM2k0Mmx5c2VRVm1CenRkMWppNTcyM3kxdkpCMGfSAboBQVVfeXFMTTRxZmZJMENqdmNLcVFsT2FLZXA4OHJMTlZXRWN0em1rMnlXZHllMlhJeVNfd1pKX3hPWkVpSFA4MjhaeGd4Tl8ta2ZmZW9iVno1UjJDS1ZVbUhxUUtCeWoyWHJEUHBWemNxbmRhZzZHN2l0dlJ4bWo0OHlUbm5sWjJnTThlV2VGSEo1Yks1OWRjMHV0OTJvQTRHaHk0QkZkMzZOU3NFWWxaNkY1WUFRT1lwTS03V0RvM2pn?oc=5",
+      "published_date": "2017-04-30",
+      "source": "FOX Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "College basketball: UCLA\u2019s Lonzo Ball earns honors - latimes.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcUJhUDhGb3d6MWZMcTBCYTFSYV9tNE53QzVkNmdDSXp6ZjN1eDZ2bE1nVEVOVFhCdTNkMDdSMkpjYXVxTkVweEtWd3FycHVzelNfQzZGVloyaGk1X2RKTVEtX1BJQUFXMndvQ1RSWGUtMWI2a01FQmdXX2s3dmZGZzZnYzZiLW5QQ0N3NWFUQQ?oc=5",
+      "published_date": "2017-03-13",
+      "source": "latimes.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "LaVar Ball: UCLA's Lonzo Ball deserves No. 1 pick in NBA draft, not Fultz - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQnVISHB3S3ZTRE5TSjdncnV0ZEVBaE8yOHNGT3o4X09oaXhuMEVRV1pOSzBXLU1TWmhEV19Ia2VGUWZnQVRvY1UtSS1RdnpjLWpNZnpuRUhSRDhzQjc0cGo0ZGJnTUhLbHVZNzNna2wtaGJkNTNzRjA0TEZUbmV5cHphalllLUVNaENhM3FUU1N0RDVjUl8wTUt1TW5HR2lGMzN1SWtwbGhKNktYWTZLaWx1ay1jVTZWbllNRkprUW5LNEJwOUM0?oc=5",
+      "published_date": "2017-03-18",
+      "source": "USA Today",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "LaVar Ball: UCLA-bound sons LiAngelo, LaMelo will be one-and-done - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR2RZOHl3Q19XQkJZN2MwRzdUVGw0enZVcFB4OHJybEhJaGZ6TXJzRWtPMUJsZlNDWndlYnNiUkw1Mk9vRzE5LUFFTnNvZVpDTjN2SWpVbS14UXJSTWtlaDZwSjM0ZHAxeWtlRXRhMzZkREY2LWJNYWY0blV3b0phdFdPQk0yLU9Wbm1GNDNvcTZ4UlZLbUpKbzJVbzd4LUdZYW9XT1ByQXlwakZkT2d6c1dxX2g?oc=5",
+      "published_date": "2017-06-10",
+      "source": "CBS Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Lonzo Ball's polarizing year at UCLA ends in Sweet 16, will he be No. 1 in the NBA draft? - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV1M3d3B3SFVZbUlmYkJMeDlDTC0yNndlMWVNUFFTZV9RMGlDcEFHU04zanRGZ2xudmN3S09qWFVwS0ZJaS1pbVd4ZV9Fdno4WnRiTTZLSmNVbkh5QmFzZnZuM1pBVFI3RHRJZFptRFBvaThOcFJ1VGNScEg5dHhuVkUzdEhxWUtzemUwalJTUlc1aFZzVEhISnNDYUlKX0ZqdEFXWkNTand1eTVReEMtYXI1aU5sWDVhSUp0dFpUblZZNHpuREVVdHVKNklBdw?oc=5",
+      "published_date": "2017-03-25",
+      "source": "USA Today",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "The \u2018big shots\u2019 just keep coming for UCLA\u2019s Lonzo Ball - latimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUzJxY3pmZjNmSnJOOE91MWszelFmcE1TTUZIS3NqVEVzb2FvUXd1dE9tbDBQU0dFOFVNcVNPTXBVYWtJT0UtRlAxSXp6dHVlRGsyeGlDU3NpZ2lDRXpqXzdtWW1mMExTY01VYUNwbGxabVJWRGNZV1REV2ttUHZtLW9B?oc=5",
+      "published_date": "2016-11-27",
+      "source": "latimes.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "How the Ball brothers came to rule in basketball - Lonzo, LiAngelo and LaMelo Ball - CBS This Morning - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSHpkN1BfU2RXb2ZjazNFNDB0aXhKSjFRbzNiZlU1NHhVUDNTVnBJTnNsMzA5dTZoUnliMlpGeHgxSWpxZFlTMG5aM09tbDBxNVhUaFBPMW5hN2tFM1BuRFdwMi0xLVZSTDdfcVFNUzJWenY0SXVFU2I1RVVsMEx4T0hwQVpiNXkydW01ZWw0THBpbUNW0gGaAUFVX3lxTE1BeU5OUG01aWNNc2JFN3NsS2s5SGN5MHNHWm9oT2l2dEV6Nk8zbzBvTXVfNEE0VnBWM09sLWZBZ09GOFFoQTAwdU5NTEM0YmU3dTJldUQ1Z3paaEJZekE5XzdEelNNQlBsQ29rYlNEckdEUlVIRmx5MVhGYmI2SlZ5TXpPUWJDNVpjcy1NVnRIcXFCMUdjd0RXUkE?oc=5",
+      "published_date": "2017-03-17",
+      "source": "CBS News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Kentucky's De'Aaron Fox: 'I feel like I'm the best' point guard in draft - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRE1ROVg3VE9iQlNST0s1aGw0em9uSm1TRDNCSmY0LW4xVkxtYzdISVl2WHMyYkhyN19RYWN6bG5tSXhlNC1Jb0NXWllSOW01cUtTY3M3VGsxcE52YTJ5TkRsUWMxR1A4aVpmN2VaZXZKazZoVVNMU0Q1Y1NWRjNOWTdHNy1ITVdJdUpfcEVvX1RMUDlRTWo5bFo3TkpOTXJoc1JTVmkwX1FuSWFVUlhQNXhTTWVDYVVMdjhEZVFRQVA?oc=5",
+      "published_date": "2017-06-15",
+      "source": "USA Today",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Steve Kerr: Don't think LaVar Ball's remarks are 'helping' his kids - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ3NlbWFaV0tuTWh2NjlUcVN0aDhlY1NudEszT09FOHdhS19LVDdTaFZybDZEMGx2b29TcVVwX3JncW5Vd3diNmwwUkV6WERCdkVJWTBaMHJRWHpzQkdycFMxb2ZFdGJhMlhaX1hDcXZNRUNRTnpkT3Q1UTdNZG9uU241dGN2QV9XSXBsQzJvQUVTNzJQbG1r?oc=5",
+      "published_date": "2017-03-17",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Lonzo Ball Named Student-Athlete of Week - uclabruins.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc25iWmluRm5zcWVqekRHcll3TlJpTlFYbWlQTW16UHpYSF9HSGZNSnlaU3kxMFI2UGpGVVlfcXp3b3JONGZXTlFialZVX1JIZE80eGtoQ0g3Q1A0eGNmVm9zX1hnSTMzN1JQUGhBTXJ3aWdmalZObmlDVFFSRnpyNHFPaExTUQ?oc=5",
+      "published_date": "2016-11-15",
+      "source": "uclabruins.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Lakers keeping open mind on Lonzo Ball, Markelle Fultz - Los Angeles Daily News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMG5qcnkySVZWNDV3eUlfdjV6WXl3N2NyeEtWWnZQa2FvUnpFVUVELThDUG93Y3lVeWMwMlpoM0FfSFlVbkI2a0xwVU9BbEJvZmVOTGxJWXhUeHFOcnhKN2JERjFVZ09pSlBuakhMcmgzcUJLNFlCSWV5Q0xmazkwem1LZ1paNU1rLXpPSlQ5UThFZ1IxOERaT1hfNnU?oc=5",
+      "published_date": "2017-05-17",
+      "source": "Los Angeles Daily News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Lonzo Ball's $495 Sneakers Aren't as Insane as You Think - Time Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTjVmUDUzLXdyQkZqVW9HenlpSDNvMGFNbThzd0thbW0wVkpiQ1BvNkFCUS1FSXhKZFhUOGVPNmFJbGd5aXI4MFJSS1A5N2tIb2tRd09TQmdtbTZPN2Y1MmxnTGhobndrTVRmNWh1MEVEUnFHbnRiSUpVaXp6Yk1qbHZVZWdhdmtXdnlR?oc=5",
+      "published_date": "2017-05-04",
+      "source": "Time Magazine",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Lonzo Ball, Frank Mason III named to the Wooden Award All-American Team - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcnYwdWlzUUNSRlYwQ3FaV0FHQTVJQXVGbXBqLU9jV1EyWkVXamJBV1Y2b0htdVZLRlYweEhKQ3Bfd014Mnloc0RPaUFmZGlYVzVTbXV1OEhXQkxBcW5GMWRGVHR5WFh5dFhFbUFnMUFLZDU5TGw2R1pCOXlaNzJreXBuVm8xYm9sWE9GVVBGbGdoYWpEVlo2cHlnNF9LTTFyR1pmcC1QelcwR1hNSEF5dm5RUHdBRExybjh4QWF4U19vbGJxZEpRamdFeWhLQQ?oc=5",
+      "published_date": "2017-03-28",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Adidas, Nike, Under Armour not interested in Lonzo Ball endorsement deal - latimes.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZEEzdFVscU9EVlhJY1dEZHBfX0c0blk4NmVWNXZLNmY0R1FlcnJkdXNZNDV4eGlUZVlwTk1TM0ZMaEt4d0JJQml0WEwwTlNWR0hyanEwZXd0OTB5Y0VSbEdqX0hPWkdiWnl1UGZqR2Y2dXpINjgyaVN3Zzl6c1dLd1hUVi1KVk5lbFlXcXpGaVFBR2ppQmJ1ZVdyaHlndVdCUTBKSmpn?oc=5",
+      "published_date": "2017-04-28",
+      "source": "latimes.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Lonzo Ball won\u2019t work out for the Celtics, who have the No. 1 pick in the NBA draft - sbnation.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR0MzZ0l2T1I4RnM4ZlF0MDI0UzZ6VlkwV0YzREt3REdPUVNMa0poSURLdXhOWWpSNktsellRelpPaG1WZEVrck9NdnNzVWZ3U2RHTVZsb0U3ME5XNkpPUGRUS2VzZlB5eDBoSVRURnRyMkkybVRyOWZsN291X0xpS0swMzRINVctRC1XeU55OUhObDBKUVAxXzQxYXFzS1o1NXM0blFGX1BKOEdtSHJDQm41eWRncE1LWHY3MA?oc=5",
+      "published_date": "2017-05-25",
+      "source": "sbnation.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2017 NBA Draft: Is Lonzo Ball off Sixers' board because of LaVar Ball? - NJ.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRExXZkc0ZU9mQ1kza1BQaFphN1RBX0ZyejdqcnAtNnFTRFN2elllaW5nbEc3RnJwaFB4UHVWWXp0aXBVSTVRMHNJakpFalAtMDZWelJkejhlRkIxMnhMNmpTZHV6OXVnZnozNFBKYXV5VXVJR0o2TWx4dGRsSEFiNE8ta1kzV2NDQU90QkRVSkdQV1U?oc=5",
+      "published_date": "2017-06-05",
+      "source": "NJ.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "LaVar Ball Is Hardly A Trend-Setter When It Comes To The NBA Draft - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQWV4and0VVh5b0hsQ3YxM28td0NWVWJ5M2o2SjdEMWVMQmgwYkNFbTRBZjhQdjc1YWZIcWtVTTlqTHBYN211REtjT2FZNEtjZHJEZ05mcEtZcE5pUEwyME9PY2ZNZVpaYVEzdG1Hb2tZVW5odllLZk1QUThoZ1ZXX09waWcxallQTXZmQTBkclhoUzBTX0o3OHVQU3hHQnBVUTdr?oc=5",
+      "published_date": "2017-06-19",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Ex-UCLA teammate T.J. Leaf close with Lonzo Ball but not buying his shoes - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaDlEcWhTZVFZUENUVFdyT3NTSnBHai1fa21Ua1BwNUd1OFJaYk52Yjl5c2U0bTU2Z29MVE5MaVAtejh4RUJydmc0NWdqU25QZ3BSZ2hlbEtJdFdxSHBrZ1Y0R0hzUWRFS1Awa0V0aFB6dXk1UEF0ZDB4cVVDcTZzT2dlZU0wMG1Ua3lscEFZWWl2V3B4bGRyZk5uMFpsbDBmS3RfTy0tMVhkdk9qaVQwVGlHUlBWY2R0SUJxMg?oc=5",
+      "published_date": "2017-05-11",
+      "source": "USA Today",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "USC basketball hopes to stop Lonzo Ball, UCLA - Los Angeles Daily News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRDdkUVVjcXgwT0VOcFNYeXFMMkJoLU5HOTY0MnhlR2RwRW1ObkdsSElzejVYOXgteVNvVHhuVzdWekZXSU1GeFFfNnRkVmVHaWlRWlpjYlFrUVItQjMyUjVPemJ3T3dzNFo3bHlpMTB6RHM3eTlILWwzVUJjZ0l4WTBkUzhaWGxFdmxXaDZTOEM?oc=5",
+      "published_date": "2017-01-25",
+      "source": "Los Angeles Daily News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Big Baller Brand releases pricey Lonzo Ball signature shoe - Orange County Register",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd0dxYmlVNW9tMDNuVC1jZmlYaXNBZFh1U1BHa2xsWWJGVEh0U0NrRUZIRzdPS1hOY21HU2NkcmFFdkZHektoajhENDVxejZOd295UWtYckI3RkNib0x1cVVpT3dtS2xjeTl0eDFRaXJjQ2hIUFN5cXpLYVphVFpqckRhc0xCSFRkQjRPV0hKaWQwLTFjT3JHUnd1bFIzb2QzTkFySjRzNHBheFFi?oc=5",
+      "published_date": "2017-05-04",
+      "source": "Orange County Register",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "There's a wild theory that UCLA star Lonzo Ball's quirky shot may be affected by the type of basketball he uses - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNERpZEtiZEc4cXVqTFo3cDZySmlUYTVnd1JQOTJvaUJXSXMyOWFsTEROclVPeTZMM1hxTFd6dENLQ3JFeGo0RUpkSGZUTEFhSk5CZ0VpdnczazJRT1pEa0lNUFJGcmZuWlYzRC1rNW1ZWkhXeHFMMmlIdzh1VDBrM3oyWGY?oc=5",
+      "published_date": "2017-03-17",
+      "source": "Business Insider",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Is LaVar Ball hurting Lonzo Ball's NBA draft stock? - azcentral.com and The Arizona Republic",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX1hZMkZYZkhkTWpjRXVBQTNSR2h0djNCbG9mbXVaVUdBczlESVUtMm4yaE5pYWhTYVlBNDVPT0Z1WnEySXUxUGY2elo1VWt6enY3MC1la2tZVGdJclFpNXlFWVg5aENGVl80ZGZsektzbFRxSDg5RkNOc0pyTUhIcWxoRnBJM3d6Q24xc0RsTTQ5dnp1RzJRQXEzV3VPYjBRV21ONkpnV0wwaDlnTzVhZVhB?oc=5",
+      "published_date": "2017-05-05",
+      "source": "azcentral.com and The Arizona Republic",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "LaVar Ball won't affect whether Suns draft Lonzo Ball, Ryan McDonough says - azcentral.com and The Arizona Republic",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcjhLRGt2YnJKb2tYUEVqX1JBWDNvazBTNXEwX2FSTXNLZkJxdEZUNFJoRDg2WkFFWlJQenUtMDQ1ekRDcUVrUFAxRWVZZTFQMGRYS2ZkM2pRSVNpcV8yRmZKVlhxY0hzUXBWZllFbzF2RmN4djBFeTJNZ0NZdllwY3IxS3M0bWpzblFWbGZVdnh5M2gzTXF3SkFpZlN1OVVTUVl3d2RiWTQ0bklOSDJN?oc=5",
+      "published_date": "2017-05-12",
+      "source": "azcentral.com and The Arizona Republic",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "LaVar Ball claims he 'would kill Michael Jordan one-on-one' back in his heyday - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPb0JBRFczSDFUYl9YeEJ4VFJDYXpnOVRpYXRtU1BsdnhHbEM3UlVVYmFEVUhTTkpoMWRxaENIZ2dNbHNibUQxTlJiZklKNTZkRzVONlpJdVV2YWwzOFUwd2l6ZUFfZ1RHR3hMdnFuclF1MG5jal9MSzcwQzNwelkzRVV6bnZURk1KZmt4OFluMzhkYmR4cHo1TmJUZFVTRzE3by1HUHJEVjNHQlFYdmd5bS1jZ1RRWEZOV0NHZkJZNUhHWUJuTUhGci1RSGluVm9YQXQ2My1LRHdFUUdPeWZZNGQ1dkI1d2t1dHMtckZXNEVnS2E2NUhnYg?oc=5",
+      "published_date": "2017-03-13",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Freshman Lonzo Ball will lead UCLA basketball team\u2019s new up-tempo attack - Orange County Register",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOS03RUJhM3hHdmwyYm02eUwxZXhjTWg5aTg4bk5HbEJLc2tWM0kxeVd5bk9xMU5qNkVPZmM2YzF2ekFpc2lPU3d4VGZUeHczdHNjSzlfTHN0bFQwUmpkVEtnR2NQbTFnaVFBaktlclFGVzN0bGw4TFd2V2ZsaTZtYS1WMmx6SHA1QmF4YTdtaDIwZE1ObHZsLVlmcnEyZVJaLXlPd3dCcVNUcERGeXhz?oc=5",
+      "published_date": "2016-10-12",
+      "source": "Orange County Register",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Lonzo Ball Named to John Wooden Award Watch List - uclabruins.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSVVFdE4tV3ZETnh3TXo4X195Rm16djFxWk04Sk1IZkFnVFQ0M2pPQjlvUTBqTndhRVdST3V1UlB1STdvV3NXLTJTcDRjTFczNkZmUktmNFJGb0pNeGJLcHBVMGpOMHlDdmlhWWhvSWx0U21WNnJWVHBFRl9yR0RRSjQ2ZTFsS2RrejJGdmJtWm0?oc=5",
+      "published_date": "2016-11-15",
+      "source": "uclabruins.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Knicks need help of UCLA\u2019s Lonzo Ball or other top college basketball point guards - New York Daily News",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS1h6dGQ1XzBzbTRsSHZaMzQ1MkdCbFBHNFlRdHpmalg5YmF2NERYdEpOamc1VHMzLVVyemNMcUxMY1l4Slg1b0hHSk93WmdNS21DUk94Unh4SmJfQkRtOE1kT25KbEtnaTJucEJWRXlmdjBlenY3NzZjdmtBRDliRVhYd1F3bi1VR3VPQXBYM0dmV29mT0dPLTVPZEROLTlCTEkxTE1UYkx5dXZZUVVKcUpkLUM4ZDBDY0VmcjZn?oc=5",
+      "published_date": "2017-02-26",
+      "source": "New York Daily News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "UCLA\u2019s Lonzo Ball, Washington\u2019s Markelle Fultz different but equally good - Los Angeles Daily News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd2xlaTJ2eWtLcHY0VlhGSURzUV81OWxGd2ZFZElPTTdRX1JzX1ZRRnlpVUJUY1hiVzlCZDl1NTF0S2pIdTViTktETmZSajhjbW1JM1U3Sm5SS2F0WkJxanhnSHNqcWFCa2lyS2g5Q1habUMycElmcEx3bEJnRDdkNll1TFc1Mm12NE5mMl92TGZ2d3lMOUJ4VlVVb29wMTM2bXRLV3dkYWVDZlg4NW5FRmwxRQ?oc=5",
+      "published_date": "2017-02-28",
+      "source": "Los Angeles Daily News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 11,
+  "response_sha256": "22ad4a5050d4c30fb07e3071c84ea535f8165af84212cc37ee9f0da41b8bf8cd",
+  "feature_eligible": false
+}

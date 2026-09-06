@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:30:33.549674+00:00",
+  "lane": "news",
+  "pid": "Pbed27928bf",
+  "draft_year": 2014,
+  "name": "Vasilije Micic",
+  "draft_date": "2014-06-26",
+  "status": "ok",
+  "query": "\"Vasilije Micic\" (draft OR scouting OR prospect OR basketball) after:2013-07-01 before:2014-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Vasilije+Micic%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2013-07-01+before%3A2014-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Vasilije Micic NBA Draft Scouting Report - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55bnpsOU1DX2FyVW9raTA2ZERtWWo5T1pDVXR0bEhORlpmUVk5T2hNOG9ZVURtM29ISWlNYjZlOUdvdGgxMGlra2VJZjZoelZ5R0UtcFA4UzZnOHNyYWZJT05vUTY5a2tmVml6b3ZfYjhrOXVx?oc=5",
+      "published_date": "2014-05-28",
+      "source": "NBA Draft Room",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Vasilije Micic NBA Draft 2014: Highlights, Scouting Report for 76ers Guard - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMmNERHdDTFNZQklDRzNnaTNGY1dfbVRWb2pSZGYtQ3hDcUk2SDhSTFlMelh1M1ZrWHJ6OU5fSGp3dXdFakJpc1NtNjR4eXZkS29VOGxnMDJYTC1iQXR3dFF3eU1NMnplaXprVlZDdWtCejhXbURwaEN5TURJR3RoLUlTV3JHdi1qWkxGYjUwaVFIYzBvM3c0cXhFQnRueFBIWUx5dmNxWENYNTlZa3c?oc=5",
+      "published_date": "2014-06-18",
+      "source": "Bleacher Report",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft Facts - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yeXEzaFdxYW9INk00N1ZUaE0wZDJjNGc4MEw1dGQ3OUs0Sy10QXU3OUEyS0MxdnJMaFNWUXhyay1SYmZNcUZVOHVlaXFNS1FBeHVnWHpVTnFrQUtEZ2JuWWpEM1pZOEtSQW5fejJCaw?oc=5",
+      "published_date": "2014-05-28",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Highlights: Partizan-Budivelnik - Euroleague Basketball",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZEVTX0hZLUlSa2pNZVU4Y0dkT2t5blhtQnNuTmRydUViVm9WQ21pRW14OWIwcW5jVEcwSDYyTmJTQjBLYW5La3NidWNZMmEyaEQyYzZCYkNOSTY2M21kUWdQZ2JMNEQ3ck1fTmVtdVVGUHV4T1piWFJkQWdiOFF3RUgtcTFWTi1VVk5PWA?oc=5",
+      "published_date": "2013-12-05",
+      "source": "Euroleague Basketball",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "485df75a6462c2c702008e15a8a48fba6b4ffdc0757b2150ccf231e48e16b28a",
+  "feature_eligible": false
+}

@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T10:28:50.147023+00:00",
+  "lane": "news",
+  "pid": "P6e49424689",
+  "draft_year": 2014,
+  "name": "Dwight Powell",
+  "draft_date": "2014-06-26",
+  "status": "ok",
+  "query": "\"Dwight Powell\" (draft OR scouting OR prospect OR basketball) after:2013-07-01 before:2014-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Dwight+Powell%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2013-07-01+before%3A2014-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Dwight Powell NBA Draft 2014: Highlights, Scouting Report for Hornets Rookie - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNREltNG9FZlpvTmttUlBrdkNCNkZ0V2pvcU9YQUJuNzlLU2VFMTJ5M01qa2o0dmdmTzBwY2d4dURTQkFRY2NhUl96STJhVWZmejNOeXR6Q0FZOGg0ZlFnbFYxSFZhMGQzdllOZVU5Q3lnWXpqVENTWFJjaVkxWjJLVFliXzB6VFlKUVdMSmdub3YtaENPR2hhbjY0WVl0dGlTc3R2a3VuSFZnUVNB?oc=5",
+      "published_date": "2014-06-23",
+      "source": "Bleacher Report",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "From Stanford to draft night with Dwight Powell - Sportsnet.ca",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTmphbGhtd25HbXg1V0d1RWlCbURYSGVFMUg2VVpQYi1sNTNnV3h5ZGtIeHNMUnZoTVk5aTc2ejdhb0l3LWNDWmFiY1lXOFVOekVsbU1qbzVEUnhpWXowa0w2NXRESS0wUlBSYnlwREVXS002NVVQVHA0YXNTTFp3cEVSdlZNMF9DZElERFcxeHJHdw?oc=5",
+      "published_date": "2014-06-25",
+      "source": "Sportsnet.ca",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Dwight Powell leads Stanford past Cal - SFGATE",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcDdRX0t3Sm5rczluakNxRW9LV3VaUFAyemhxRVFEWElLU3hxbk9rS0EtREtRdG8tUmdxVXF5STlKYWVrUjZucEs4MnEteXBTWDd4bWJHYnpsRmpUTDh6U2dKR29YQXJrQmp1dHhPdllzdGR5R080VE1NdlNfaVpSVWhnS0dDVmVsUVRWUEVnNFlmVm5kMEZMQXdR?oc=5",
+      "published_date": "2014-02-05",
+      "source": "SFGATE",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Dayton 82-72 Stanford (Mar 27, 2014) Final Score - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaW9hSktMUFhKX3ZjQzAtams0STF4SGNENGxNVWR1OFh5R0pXMlYyN2ZOWGxWdUxUY1pmMnBrdHVUQ3EtMWJrdVI4OVJNX1pjcUU3eFlGUjg0STM5T2FTdGNBSzVZTm9Qc2JuZGFneGtVQlcyeXo5d195TklVSDlqdUhaclRSOFRrcU8xQQ?oc=5",
+      "published_date": "2014-03-27",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Stanford, Dwight Powell excited for NCAA Tournament - SFGATE",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORlBNd0Zkc1dHcVJlM2R4ZmdnRHBkRnNxbTlWSERWa25DT1VEZFYtcGc1UFd2YkxnSXRyQlBfVHNBeG5ucjFRa3BHWXNSY2pYX0cyOEFoZTR5VlZxRV9FNzJTM0IyZG43OHFveUdBTHBaYzVYVzVaSTlKVmlST2VNODhaeFFFMEIyV05fdF91Vlc3b3h6RUlOV2Z5LTg?oc=5",
+      "published_date": "2014-03-20",
+      "source": "SFGATE",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 4,
+  "response_sha256": "541a786d7f4a3a5be0b6f9ef1b06088a6ff994cd9b93ee133442b2303b4bc2dc",
+  "feature_eligible": false
+}

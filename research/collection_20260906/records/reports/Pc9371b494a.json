@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T10:22:49.392525+00:00",
+  "lane": "reports",
+  "pid": "Pc9371b494a",
+  "draft_year": 2008,
+  "name": "Patrick Ewing",
+  "draft_date": "2008-06-26",
+  "status": "empty",
+  "query": "\"Patrick Ewing\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2007-07-01 before:2008-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Patrick+Ewing%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2007-07-01+before%3A2008-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 1,
+  "response_sha256": "c92df0e734baea5a73c8725c42729c9911e666ccdfdf3053c0ecb179e7dbec8c",
+  "feature_eligible": false
+}

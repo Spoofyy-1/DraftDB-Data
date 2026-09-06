@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:47:24.659743+00:00",
+  "lane": "news",
+  "pid": "Pb57f8a063b",
+  "draft_year": 2017,
+  "name": "Darin Johnson",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Darin Johnson\" (draft OR scouting OR prospect OR basketball) after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Darin+Johnson%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Aug. 27, 2016: Dwyane Wade\u2019s cousin shot dead while pushing her baby in stroller on South Side - Chicago Tribune",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWV9RUmNRLWFmV001aXQzZXdtN3dSZVdneDVNeFJCYlBXSHR3UlhDcnhLV1lic21EN0NoVThaMTYyXzlwU2hiZ2dwcUNfOWZRZmV1akhHOWJsRTE4Z1B3MDJxU21ubzQ4aHVLS2FEWWdrZndnRUVKWEZrWkNaNkJwZ2xLOTZVa0xLazc1Qy0tTWwwc1BfekgwUEdsbERDSld1T2R1WnVjdEdyaXBPZzZXWWk2YzBTLVA2M1oxOEQyOTk1OUNKemVDTDVsRzRWUQ?oc=5",
+      "published_date": "2016-08-27",
+      "source": "Chicago Tribune",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "ff43aa06de86596337fdf48c0c25ed1c72d76e1a3bf213613f01951262bfabfa",
+  "feature_eligible": false
+}

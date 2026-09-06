@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:47:18.136156+00:00",
+  "lane": "news",
+  "pid": "Paec8fae19e",
+  "draft_year": 2017,
+  "name": "Reggie Hearn",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Reggie Hearn\" (draft OR scouting OR prospect OR basketball) after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Reggie+Hearn%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "D-League Basketball: Santa Cruz\u2019s Scott Wood wins 3-point contest - Santa Cruz Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNGVDVEd6RzZfendnVTJBcTkwQWxPTnd6LWJlOG9oTmhfeVFaVW9aNnJxcExhQV9oMU1ra0NwLV83U0dDME5hX0p2c1pBMHJBRXJ2bEZZRTdJWWZKdXpYSkJTNllzdkhkSUlWVk44ejlDcm9UcTBVRjBQUmxmOUtSWXkwOUdmNl9sdXJLcUFQeG5OQVhXQzQ3TXVMQnBZRFJhRmVDNElEZFVhRlNja0QwcTBRU1M?oc=5",
+      "published_date": "2017-02-19",
+      "source": "Santa Cruz Sentinel",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Glowing gold in Golden State - Philstar.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPam9teTc0YzJKSExNdU8xUVJHQ0ptT2tkc1kxMDdfOHZBVVZSbG5zRVk0WGU2TVBieXliRXRzZlBGdXpSd0g2REtWMDVZMEIwdkNpRi1RTk1PLWpHbnNrQ3VzQk56V0c3a3NibnB2WHZ4azBVT053R0p1TEdhSzdZNkV4endsV2hTaHNEWW9NcnI2dEw3QzlRNA?oc=5",
+      "published_date": "2016-12-20",
+      "source": "Philstar.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "14ff370d0603fc05045189b7e878320e87a631f54558db273b7d4dd6a675d579",
+  "feature_eligible": false
+}

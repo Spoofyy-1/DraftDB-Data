@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:43:48.040126+00:00",
+  "lane": "news",
+  "pid": "P2cac6d11e4",
+  "draft_year": 2017,
+  "name": "Milton Doyle",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Milton Doyle\" (draft OR scouting OR prospect OR basketball) after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Milton+Doyle%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "1 Hall of a Player: HoopsHD interviews draft prospect Jimmy Hall - Hoops HD",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMmlLc1h3OGJ0NmthcmttNXN6YlNqbFVMNVJtRnp1M2lqUHNqQXczaXJLdVE2QlpHMXZwVnhEbEl2eFJkWjBTN3ZkbVRicWdaSHc1US1mWXd0dEVIUGJPR2Nuc0tGb3k2d0JYNUhjYjhxREo2a2hpOTZzU2R3UDFZSVB0NFFTaHo4eUk0QWNHQWNJYzB1M05Fa2JNbw?oc=5",
+      "published_date": "2017-04-30",
+      "source": "Hoops HD",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft: Dennis Smith Jr. enjoyed working out in group setting - San Bernardino Sun",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZkkxcGhWRUsxZDR6U0F4cU84WVhZT2QwNl9BQlNGcHRqTk4tYmJSNElScGtrYWJGSzg2QUFlXzk0QVZ4OEFod28tZ3ZtSV9wdjRWcXNiM3lVelZHZ1U0TXZhcmRFY21pdm1ucXVWUThiMlBqLUxrN1VHVWM2R0tzNTlTN2FTX1BPaXdGN0RjdDZUWXV5ZzhDOEdhSVB4RkhqenJJ?oc=5",
+      "published_date": "2017-06-11",
+      "source": "San Bernardino Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bears edge Ramblers in overtime thriller - the-standard.org",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQelFrNnNBVXh5X2hmc3FlWGRxbGdTX3Z4SHk0NUhjN3hlZUdzeVktUHZSNlJibzZYekgtai1YZmZNbFkzWDVzRElyVHMzcEpZNFV2b05xV084bVN0azExWFB2VGh1aG1MZEFDcTBQT0dmSXBBT2ZCWC14ZDNPa0wtbi1LZEhoMlRXcWVmMEE0NDNRY19uekhrQUtzVjhuY1hKbmFVWGRrcDc2bFY5YnRqbDQ1eWZVb0tBMTNHRTk1ZFc0WnNm?oc=5",
+      "published_date": "2017-01-31",
+      "source": "the-standard.org",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Gonzaga\u2019s Karnowski part of Hawks\u2019 pre-draft workout Wednesday - ajc.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNekpPOWhHR3BmMG0ycTlPak9rTGZ1VmtCcm9MM1dQNk0xQVpVZGVtdGNWTllrRmFOd3RUdWVmaGl4anltWFBrcWk0ODlPUGV0dnRvSks5QmdkQ24wc05fRmtHblhVT092Z1VpU01lR2dHOVZMbi1FZGFYbHJGZnZnaDBCdUhFbWR2cmJpOFRlMzBQLVhhUW9md3ZTTjRlckxkNmhlSWxleFk2RTlpQWY5ZzFoRzBlWjVTbGc?oc=5",
+      "published_date": "2017-06-14",
+      "source": "ajc.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "9da451e7bed29bc796a4b67931525ada173c39edf076687afb39f29697929b7f",
+  "feature_eligible": false
+}

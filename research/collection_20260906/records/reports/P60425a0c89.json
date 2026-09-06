@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:25:26.151460+00:00",
+  "lane": "reports",
+  "pid": "P60425a0c89",
+  "draft_year": 2009,
+  "name": "James Johnson",
+  "draft_date": "2009-06-25",
+  "status": "ok",
+  "query": "\"James Johnson\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2008-07-01 before:2009-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22James+Johnson%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2008-07-01+before%3A2009-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft Profile: James Johnson- F, Wake Forest - Blogger So Dear",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOE9TYzNYXy15RDNUMWg1d0U1aXdpUVVSVGhic0d0eWdiZVJaeHFzYjZoR2hRb1BCcG9lTkNiTkZpbUV0bmU2eDZaeGZ5Y3J6UF9fUnpOZGlocDBjN3NNaXBQZEJmcnp4MTJ4d2FhNjA2NFlsdGQySW84Ri1tSldxLTRfUWJmaGc?oc=5",
+      "published_date": "2009-04-12",
+      "source": "Blogger So Dear",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2009 NBA Mock Draft \u2013 UPDATED 6/23 - Clipperholics",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CR296NVJJdzFLMHg3VUpjMW1zXzRDQkpqcmdSRGt4OWJMTEJmU2FDN3NreE9qYjh0YjRBNTg4Vk1sTUFNb3h1cTNDRGltUkdMaWxGeFowdnFMaGtBRGdBVXFHaVdkWFNm?oc=5",
+      "published_date": "2009-06-18",
+      "source": "Clipperholics",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "RUMOR: Warriors like Wake Forrest\u2019s James Johnson if Jordan Hill is gone - Golden State Of Mind",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT2J4bVo3Ym56dE9iZm5QMWlrdkNveE5GQ0pxbmdyWE9VX2RMNlhEMXhRak55c2h4eHZoV3BETWVEdThuWUhGYnpEbW9nNzNSOFB2aUczbXFMSUUzZGQ1R3JRajFOT2RxOFlZNVNCbnVKbUdBMlRXVlRNOWdqZ24yc2F2cXptY3NLNXA4eg?oc=5",
+      "published_date": "2009-06-24",
+      "source": "Golden State Of Mind",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "2094b545c16eab6b01f508b6ce4a0cab9f2d3688aefa7cdce6bc4fa4400cbcf3",
+  "feature_eligible": false
+}

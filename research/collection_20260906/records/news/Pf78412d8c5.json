@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:31:47.174344+00:00",
+  "lane": "news",
+  "pid": "Pf78412d8c5",
+  "draft_year": 2014,
+  "name": "Damien Inglis",
+  "draft_date": "2014-06-26",
+  "status": "ok",
+  "query": "\"Damien Inglis\" (draft OR scouting OR prospect OR basketball) after:2013-07-01 before:2014-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Damien+Inglis%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2013-07-01+before%3A2014-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Mitch McGary Updated Scouting Report - draftexpress.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORTFUdmNSQlN4NDdqOEYxVUZtZmNkMjVZd0YtX3VkYU1IUXcydGpudWdNbWZHekZVZjIzTUVSd094X3Q5UVQyU1UzMV9IUl9lWVJPc3kzZktKeGpkUFpnOHlJTzNXWEZJZ21wR1VOb09BdDJscEE2MjRWTW8tV1FIaVl1U04?oc=5",
+      "published_date": "2014-05-07",
+      "source": "draftexpress.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft Facts - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yeXEzaFdxYW9INk00N1ZUaE0wZDJjNGc4MEw1dGQ3OUs0Sy10QXU3OUEyS0MxdnJMaFNWUXhyay1SYmZNcUZVOHVlaXFNS1FBeHVnWHpVTnFrQUtEZ2JuWWpEM1pZOEtSQW5fejJCaw?oc=5",
+      "published_date": "2014-05-28",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 4,
+  "response_sha256": "6ff64fbaff6d7cb078598e1d5d8f5fd118b083eb2a19122f3da8938b4c519985",
+  "feature_eligible": false
+}

@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:50:00.163690+00:00",
+  "lane": "reports",
+  "pid": "P0ba0d4e186",
+  "draft_year": 2015,
+  "name": "Andrew Harrison",
+  "draft_date": "2015-06-25",
+  "status": "ok",
+  "query": "\"Andrew Harrison\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2014-07-01 before:2015-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Andrew+Harrison%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2014-07-01+before%3A2015-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2015 Draft Prospect | Andrew Harrison - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQTXB4ak5aZ2NoNkVxYVM2S3lxa2pxdlVWV2VWSndrM0QzS2VSNS1ES3VQUTVwcHBUdXNKZWMxX0FmUDk1YUEtcjR0eW9oT3Q4V3BKSUZOY3RudG9ZT3FvaDJBWFhUMk1TWFhoUVo5OEo?oc=5",
+      "published_date": "2015-06-01",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Kentucky's Harrison twins enter NBA draft as major questions abound - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVE5sRU4yaEpILWdTNDB1ZDZpZHFqSF9CVFVwRWFYcVdNSGFtWjFNQ2RGSlBJOFQzOXc2bWMyVWRUY2hCNWg0Z2NLR3l6R2xnOExmWGtpN09pb2NTNjhCV0k0LXB1Qmk2LVBqZjVyNjJfcVBBYXJZYnl3OHJNQ0M3U1Y5aTRiOUdyMFNMT1dEODExSnlRNnFnX0xyckVhdXVXUjB6Ym84S0VLUmYzYTJXYmhpb2t6cHNlS0dwOWI1b183N09EeGthRk5n?oc=5",
+      "published_date": "2015-06-22",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2015 NBA Mock Draft: Kristaps Porzingis' stock rises to 76ers at No. 3 - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZjZiSkllellMRGVOQXV1SmFnd29hb0h2RVhmVVlER2tITG9hTUNSVTJjUkg3Z3NqXy1Xdjk5QlI5dnljSEpfUkVEcWhzazNlX29UcUJudFoyVmN1Z3E0N2wxcWhOb1lyRjdBd0ZSekNRbFFCdU9YSXJjZjhOUng5OWlRNklzMXliWkQxdW12Zm1heFhJR1d5bGRBRUFuYlRSNmg2cUEyQ0FiTmpqdUp6LV9paUdMdnRfbHc?oc=5",
+      "published_date": "2015-06-17",
+      "source": "CBS Sports",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Devin Booker Cracks Top Ten in Latest Mock Draft - Nation of Blue",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQU5fTTh0YS1fY2dFVDcwbDVIWloydlROSDhFbnpnUmFuX2pWOEJaX0JBc292bkNyWERrQ3EwX2RVb0JJZ1c0YnBQSzZLaDJkSmFTbWtORUhhSklKM19GUUhNVDVMRGhlV0RqNDNidGs2Mml6TEkxUkczSmh2Tmo2bUVlSDc?oc=5",
+      "published_date": "2015-06-10",
+      "source": "Nation of Blue",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "3b6a64f6c58d79965ebe9a4d6a529a77bebca59e3f7b323d86f86f843901e5b7",
+  "feature_eligible": false
+}

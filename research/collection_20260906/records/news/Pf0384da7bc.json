@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:21:26.713331+00:00",
+  "lane": "news",
+  "pid": "Pf0384da7bc",
+  "draft_year": 2012,
+  "name": "Tim Ohlbrecht",
+  "draft_date": "2012-06-28",
+  "status": "ok",
+  "query": "\"Tim Ohlbrecht\" (draft OR scouting OR prospect OR basketball) after:2011-07-01 before:2012-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Tim+Ohlbrecht%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2011-07-01+before%3A2012-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "GER - Pesic back in charge of NT - fiba.basketball",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsQlFMUDBKMjJzQ21GR1N1aUo4LUlUSnotUTlXZHlLdDVzMnhTdlNXUnBqOWE0VFVXaUV2WW4yeF9qNVVjZngxaUV1aFRXN2kxWFczQVQycmV4dHlVWVJWVmZYa2ppRUZJenJYeXp6Y2dWNG0w?oc=5",
+      "published_date": "2012-02-22",
+      "source": "fiba.basketball",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "357c97c2be7d4a424af4e3f2add653be5bcebd6b6b278e8ee09d3de5e0798ac6",
+  "feature_eligible": false
+}

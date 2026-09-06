@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:46:38.979252+00:00",
+  "lane": "reports",
+  "pid": "P49164b4255",
+  "draft_year": 2006,
+  "name": "Adam Morrison",
+  "draft_date": "2006-06-28",
+  "status": "ok",
+  "query": "\"Adam Morrison\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2005-07-01 before:2006-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Adam+Morrison%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2005-07-01+before%3A2006-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Larry Bird, white basketball archetype. - Slate",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSV9Xd3NLZUYyRGdqYTctdEpkcDBPV2w0NmRSc3VDTEJWOFBxZHgwOEpMaExXQzdZWDZoYmpaZDRPaTJoWC02Z2hrdEtaSmZkWUg5SW1tVXFTWU5CR1NyYW9Vd2RNamJCQk5wSGt4N2s3NVo2ZnF1Y3hYenNkOXdTN09n?oc=5",
+      "published_date": "2005-12-12",
+      "source": "Slate",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "cba376f5d637bc54a5d27fcdae1c1c8f1ad063214f51be8e09c8b260bca087a0",
+  "feature_eligible": false
+}

@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T10:41:47.030675+00:00",
+  "lane": "news",
+  "pid": "Pe666c9e1f4",
+  "draft_year": 2016,
+  "name": "Rodney McGruder",
+  "draft_date": "2016-06-23",
+  "status": "ok",
+  "query": "\"Rodney McGruder\" (draft OR scouting OR prospect OR basketball) after:2015-07-01 before:2016-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Rodney+McGruder%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2015-07-01+before%3A2016-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Skyforce set wins record - argusleader.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZE9ZbWZQS2dkNGh1OUNSY3RIYlA1R3U5bnc5dl9CUWFkclctUXVVNjZOR1FyTlczTDBxQWJBOGY4Wk9kdVhJV29scUw3SnVjdVNTV3lwc2VLVUZJRUkxWUhmNHItbGZvbm5rbmFSS0hRSTFJX1hjTXFJSWgwQmY1OGo2aVl5QUNwUEJTNFVja0tHRWhHLXl3?oc=5",
+      "published_date": "2016-03-30",
+      "source": "argusleader.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2015 Orlando Summer League rosters - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR2w1R3NUc043ZWV2Z3FNUW5lTmNDN2VQZWVtcjMtSTNqMUZtWmJuVzVnclZFY0pibjZvTXpSWFJaLTRzb1ZGenZIWFhPRXB5UkEyQ2hMQUhiWWRIVUEyUzNLNzdWY1Fnb0VjcHM0Y1RHeExPZ1d4bnFyRmh4VWZzc1FQcC1FaThiR3Fv?oc=5",
+      "published_date": "2015-07-04",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "459a46dc2467a4ca7823db118c8145c55c42037d0b958da2defae7e6ab4adee2",
+  "feature_eligible": false
+}

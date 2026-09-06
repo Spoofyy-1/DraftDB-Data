@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T10:24:43.835745+00:00",
+  "lane": "reports",
+  "pid": "P4417860ddd",
+  "draft_year": 2009,
+  "name": "Terrence Williams",
+  "draft_date": "2009-06-25",
+  "status": "ok",
+  "query": "\"Terrence Williams\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2008-07-01 before:2009-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Terrence+Williams%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2008-07-01+before%3A2009-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "For \u201cPsycho T\u201d, Is #11 \u201ca Little Higher\u201d than #12? - NetsDaily",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYTBXX242alNTNmY5Y1p5U2xsSlZJSHozVUhmcFdtN1lqcGpVOS0zOFRQbVhKaGxmQlRnOUlzV1ZHNHZPaWt4ODFOcEVLcFdiN3otTGQ4cm1LZjV4TDg3U0hYa3ZIbWVUYk9ZdXRqT1hyMS1FdFNvQWJ6TzNFRlVpa2lobGw?oc=5",
+      "published_date": "2009-06-12",
+      "source": "NetsDaily",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "849b66feddc70edd85da6656ed5ac0d7b7294bf9162c7b5d14cd42a021e47801",
+  "feature_eligible": false
+}

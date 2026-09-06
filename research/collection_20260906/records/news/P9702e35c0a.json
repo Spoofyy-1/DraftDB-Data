@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T10:25:06.851733+00:00",
+  "lane": "news",
+  "pid": "P9702e35c0a",
+  "draft_year": 2013,
+  "name": "Lucas Nogueira",
+  "draft_date": "2013-06-27",
+  "status": "ok",
+  "query": "\"Lucas Nogueira\" (draft OR scouting OR prospect OR basketball) after:2012-07-01 before:2013-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Lucas+Nogueira%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2012-07-01+before%3A2013-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Brazil's Lucas Nogueira declares for NBA draft - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU2V5bzRQQ3VHVjNRUDZYRHl6Vkw3amVOSUxiRmlHbkpsNXR3Q1dvaVRlY29UVzRrdk1FalBwRlpzRnZ1TndBMkZfZGFIa2p1RjFNSFJEbnR6dEwtRFBRaXluaHlieC0wRXphaElTOEMzSWtwbVAzUDV4UXYyNWR0RjdBYWFFLW0zeXhNTUpDaE95RUZsZVl2d2xvWXE1RzM2?oc=5",
+      "published_date": "2013-04-17",
+      "source": "Yahoo Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft 2013: The final Bullets Forever community draft board - Bullets Forever",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYnB1OEFkUmZ5TXVKX016TTk0dVdJVHUzMkpHM0NDRHFCRl93d0NaYlc2czRrRmZGaUQ0WUZodjVZNE9oV3lSZGcyODNkMi1PcHlXcVJyUGp3VWJVaXozaEdrSF9NRDRSQnBMX3UyWV9pWkExaUwwZHFLYTZIT1BUbm9yOFRDR3prN1ZleU9nWURnZzNSOHlpeFdn?oc=5",
+      "published_date": "2013-06-24",
+      "source": "Bullets Forever",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Mock Draft 2013 roundup: Nerlens Noel likely to go No. 1 overall to Cleveland - SB Nation",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQWhxNE50WVQzdXFhSEhQTFNBYWRVejVvOUNXLVhiYUY3Y0pCcWxsamJLU0wydWF0UXJYZDhJTHBua2llbF9kNUJCMWdfMEVReFE4N1ZEc3JIRExUQkhGWTY3UkNJYU9aRVV6bmNsUmhvcmJoYU54cHMyS0lteW5BQ0tSalFtMVRhYmYxMzNGSDJ5Wms?oc=5",
+      "published_date": "2013-05-22",
+      "source": "SB Nation",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 7,
+  "response_sha256": "182c462c0fbe0856a47f17dc9c8b9ff52c5259d186dba6935081a1c1cff98094",
+  "feature_eligible": false
+}

@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T10:48:17.927366+00:00",
+  "lane": "news",
+  "pid": "Pd3b81c81b9",
+  "draft_year": 2017,
+  "name": "Khem Birch",
+  "draft_date": "2017-06-22",
+  "status": "ok",
+  "query": "\"Khem Birch\" (draft OR scouting OR prospect OR basketball) after:2016-07-01 before:2017-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Khem+Birch%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2016-07-01+before%3A2017-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Khem Birch Career Stats - NBA - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNWlRHRjJXeVVHazdGY3JkSGs0bUxMLTdscDBaaWNmeDBkNUNJamd4NWw3aGt2VVVYa3ZOYTh1dFRhT0JCcnBGQXpvN2std282V0kzUWk5MExzMUVPalMwVlZMNEc0ZHRlYUp2b1Nn?oc=5",
+      "published_date": "2017-03-29",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Khem Birch - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qbVE1eUU2ZTdyNERQamlEektLZG5yT0NRU3ZzYTloOW5vWXFvX09vUTdHYS0yc1E5QmJzZndtdWJRWU8xeE4wbm1ucWJWRWctSF9ZczJfQVF2bnM4c1dQc1YwRW04Zw?oc=5",
+      "published_date": "2016-12-17",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Inspired Bennett lifts Rebels | UNLV Basketball | Sports - Las Vegas Review-Journal",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQzloWWpQVHhYSXpzVnVSRXlzM1l2NXB6Wjc4Y1BmbTRLaG5kZVZ0dkptMk5McE01UnJZaTdXcDNwWG5Jb3lkTVZ5a1FXaTE4SnlhSEhhcnVQTHJGczRfWE1QOVlJbFFxZ2NPNUs4S0pVdFBTOU02LU80Y2hYWDl6bEtWRmdUV3JuZWVQdHpEcmlhZw?oc=5",
+      "published_date": "2017-04-08",
+      "source": "Las Vegas Review-Journal",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Fenerbah\u00e7e crowned Euroleague champions, beating Olympiacos 80-64 - Daily Sabah",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONnVoWk85elpMc3UtdTdCejBQeVEybEk0emNkeC1kV0d2RUZnbHVUby1yM3hXWXZMNUp3RVJCU3AtOHhDcUE5Mk5mWkNrcFBDVmJwSkZWRDdoOUlFaG9QMTFBY1FsenRUQ0VSUjEwNl9DT0tteFloRXRDQ0VSV3BrSUt2TExhdVlLZnBleS1ldmVqa0d5TGV2T1oxQWVDWjhUdlIwTXZYdHB1VEFuZDYyNWgzNA?oc=5",
+      "published_date": "2017-05-21",
+      "source": "Daily Sabah",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "3445079301732e54cf72e57fbad8fef9dc5c9315a33e8a96ceb3e0056285230a",
+  "feature_eligible": false
+}
