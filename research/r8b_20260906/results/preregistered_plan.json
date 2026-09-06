@@ -1,0 +1,60 @@
+{
+  "variants": [
+    {
+      "id": "incumbent_calendar_repaired",
+      "noscout": 0,
+      "drafted_only": false,
+      "context": null
+    },
+    {
+      "id": "incumbent_without_scout",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null
+    },
+    {
+      "id": "incumbent_without_scout_drafted",
+      "noscout": 1,
+      "drafted_only": true,
+      "context": null
+    },
+    {
+      "id": "incumbent_without_scout_team",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": "ctx_team_"
+    },
+    {
+      "id": "incumbent_without_scout_skill",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": "ctx_skill_"
+    },
+    {
+      "id": "incumbent_without_scout_all_context",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": "ctx_"
+    }
+  ],
+  "folds": [
+    2012,
+    2013,
+    2014
+  ],
+  "weights": {
+    "rich": [
+      0.0,
+      0.75,
+      0.25
+    ],
+    "thin": [
+      0.5,
+      0.0,
+      0.5
+    ]
+  },
+  "purpose": "Incumbent model-only reproduction and feature diagnostics; not a certified replacement",
+  "no_confirmation_or_test_scoring": true,
+  "created": 1788682482.3436966
+}

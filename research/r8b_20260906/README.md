@@ -7,3 +7,7 @@ Six variants compare the current incumbent, removal of scouting grades, drafted-
 Labels are actual-calendar-filtered to season ending ≤ fold Y−1. The scoring folds are 2012–2014 and use only pre-2019 labels. Source sample includes matched undrafted NBA entrants for incumbent reproduction, with a separate drafted-only variant. Scores are not directly comparable to the old dashboard.
 
 The network-disabled worker receives only this folder, the existing Python runtime, GPU devices, and the cached TabICL checkpoint. Its first step checks that original test and vault paths are inaccessible.
+
+## Completed diagnostic
+
+All six variants completed. Development mean: incumbent calendar-repaired 43.679%; no-scout 43.657%; no-scout drafted-only 42.476%; no-scout teammate context 41.628%; no-scout skill combinations 44.271%; no-scout all context 38.757%. No confirmation or test evaluation occurred. Removing scout values still leaves their missingness in the legacy coverage calculation; the next registered removal run explicitly removes them from that calculation too.

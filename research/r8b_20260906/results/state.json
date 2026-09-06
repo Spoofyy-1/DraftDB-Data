@@ -1,0 +1,413 @@
+{
+  "status": "completed",
+  "phase": "incumbent reproduction complete",
+  "started": 1788682482.344589,
+  "completed": 6,
+  "total": 6,
+  "candidates": [
+    {
+      "config": {
+        "id": "incumbent_calendar_repaired",
+        "noscout": 0,
+        "drafted_only": false,
+        "context": null
+      },
+      "score": 0.4367905318673185,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.49766393275399834,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.4613997113997115,
+            "tabicl": 0.49632034632034644,
+            "ridge": 0.40396825396825403
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.3192797118847539,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.270204081632653,
+            "tabicl": 0.3327250900360144,
+            "ridge": 0.19644657863145257
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.4934279509632033,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.46766650540235444,
+            "tabicl": 0.5420899854862119,
+            "ridge": 0.42404450895016926
+          }
+        }
+      ],
+      "seconds": 33.9
+    },
+    {
+      "config": {
+        "id": "incumbent_without_scout",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": null
+      },
+      "score": 0.43656605118228864,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.5091092755576825,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.49213564213564226,
+            "tabicl": 0.5134920634920636,
+            "ridge": 0.3883838383838385
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.3136435686560402,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.29920768307322926,
+            "tabicl": 0.36749099639855937,
+            "ridge": 0.1710924369747899
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.4869453093331433,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.4647637477826157,
+            "tabicl": 0.5203999354942751,
+            "ridge": 0.43178519593613934
+          }
+        }
+      ],
+      "seconds": 16.3
+    },
+    {
+      "config": {
+        "id": "incumbent_without_scout_drafted",
+        "noscout": 1,
+        "drafted_only": true,
+        "context": null
+      },
+      "score": 0.42475850223957917,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 197,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.47465454692292286,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.48607503607503616,
+            "tabicl": 0.48239538239538254,
+            "ridge": 0.3644300144300145
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 251,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.3032296816188314,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.29546218487394954,
+            "tabicl": 0.3354141656662665,
+            "ridge": 0.19318127250900358
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 306,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.49639127817698336,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.49451701338493786,
+            "tabicl": 0.49346879535558774,
+            "ridge": 0.46169972585066926
+          }
+        }
+      ],
+      "seconds": 24.2
+    },
+    {
+      "config": {
+        "id": "incumbent_without_scout_team",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": "ctx_team_"
+      },
+      "score": 0.41627519109454986,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.49832233217538846,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.514935064935065,
+            "tabicl": 0.5064213564213565,
+            "ridge": 0.3816738816738818
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.2514406456990626,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.2372629051620648,
+            "tabicl": 0.30468187274909964,
+            "ridge": 0.14247298919567825
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.49906259540919845,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.46274794388001933,
+            "tabicl": 0.5339461377197225,
+            "ridge": 0.4546040961135301
+          }
+        }
+      ],
+      "seconds": 16.6
+    },
+    {
+      "config": {
+        "id": "incumbent_without_scout_skill",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": "ctx_skill_"
+      },
+      "score": 0.44271011283824685,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.5234049469214869,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.5213564213564215,
+            "tabicl": 0.5253968253968255,
+            "ridge": 0.3826839826839828
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.2961557862991315,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.28345738295318124,
+            "tabicl": 0.34146458583433376,
+            "ridge": 0.17224489795918366
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.5085696052941221,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.48314787937429443,
+            "tabicl": 0.5357200451540074,
+            "ridge": 0.43033381712626995
+          }
+        }
+      ],
+      "seconds": 16.5
+    },
+    {
+      "config": {
+        "id": "incumbent_without_scout_all_context",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": "ctx_"
+      },
+      "score": 0.3875727471400161,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.461704968012133,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.4434343434343435,
+            "tabicl": 0.4777056277056278,
+            "ridge": 0.35036075036075043
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.2560088368348743,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.260984393757503,
+            "tabicl": 0.33368547418967587,
+            "ridge": 0.12825930372148858
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.4450044365730409,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.3814707305273343,
+            "tabicl": 0.46081277213352684,
+            "ridge": 0.42089985486211895
+          }
+        }
+      ],
+      "seconds": 17.2
+    }
+  ],
+  "best": {
+    "config": {
+      "id": "incumbent_without_scout_skill",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": "ctx_skill_"
+    },
+    "score": 0.44271011283824685,
+    "rows": [
+      {
+        "season": 2012,
+        "k": 5,
+        "n": 55,
+        "ntrain": 251,
+        "cutoff": 2011,
+        "max_label_season": 2011,
+        "stack": 0.5234049469214869,
+        "draft": 0.35115440115440116,
+        "members": {
+          "xgb": 0.5213564213564215,
+          "tabicl": 0.5253968253968255,
+          "ridge": 0.3826839826839828
+        }
+      },
+      {
+        "season": 2013,
+        "k": 5,
+        "n": 50,
+        "ntrain": 329,
+        "cutoff": 2012,
+        "max_label_season": 2012,
+        "stack": 0.2961557862991315,
+        "draft": 0.48753901560624247,
+        "members": {
+          "xgb": 0.28345738295318124,
+          "tabicl": 0.34146458583433376,
+          "ridge": 0.17224489795918366
+        }
+      },
+      {
+        "season": 2014,
+        "k": 4,
+        "n": 53,
+        "ntrain": 403,
+        "cutoff": 2013,
+        "max_label_season": 2013,
+        "stack": 0.5085696052941221,
+        "draft": 0.22117400419287211,
+        "members": {
+          "xgb": 0.48314787937429443,
+          "tabicl": 0.5357200451540074,
+          "ridge": 0.43033381712626995
+        }
+      }
+    ],
+    "seconds": 16.5
+  },
+  "confirmation": null,
+  "test_result": null,
+  "message": "Development diagnostics only. Legacy feature provenance unresolved; no test result or new champion declared.",
+  "updated": 1788682606.9207957,
+  "current": "incumbent_without_scout_all_context"
+}
