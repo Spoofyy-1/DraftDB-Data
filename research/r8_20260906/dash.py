@@ -97,6 +97,13 @@ def research_state():
             if os.path.exists(ep):
                 try: s[key]=json.load(open(ep))
                 except Exception: pass
+        groups={}
+        for record in s.get('candidates',[]):
+            if 'score' not in record or 'task_id' not in record: continue
+            ident=record['task_id'].rsplit('_seed',1)[0]
+            groups.setdefault(ident,[]).append(record)
+        complete=[dict(id=k,score=sum(v['score'] for v in rows)/len(rows),seeds=len(rows)) for k,rows in groups.items() if len(rows)==3]
+        if complete: s['best_configuration']=max(complete,key=lambda r:r['score'])
         if not os.path.exists(f"{HERE}/r8e/results/state.json"):
             s['queued']={'name':'50 individual statistics, three seeds, then gated combinations','runs':153}
         return JSONResponse(s)

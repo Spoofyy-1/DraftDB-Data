@@ -1,0 +1,6 @@
+{
+  "check": "Delete every source table after 2018 and rebuild training features",
+  "passed": true,
+  "byte_identical": true,
+  "sha256": "b7061b6086fbc439907c6d98b1c08846cfed76633432e10bc1807697bee4c7ff"
+}
