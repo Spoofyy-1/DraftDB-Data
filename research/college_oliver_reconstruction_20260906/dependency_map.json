@@ -1,0 +1,64 @@
+{
+  "player_for_ortg": [
+    "FGM",
+    "FGA",
+    "3PM",
+    "FTM",
+    "FTA",
+    "AST",
+    "ORB",
+    "TOV",
+    "PTS",
+    "MP"
+  ],
+  "team_for_ortg": [
+    "FGM",
+    "FGA",
+    "3PM",
+    "FTM",
+    "FTA",
+    "AST",
+    "ORB",
+    "TOV",
+    "PTS",
+    "MP"
+  ],
+  "opponent_for_ortg": [
+    "ORB",
+    "TRB"
+  ],
+  "player_for_stops_drtg": [
+    "STL",
+    "BLK",
+    "DRB",
+    "PF",
+    "MP"
+  ],
+  "team_for_stops_drtg": [
+    "DRB",
+    "BLK",
+    "STL",
+    "PF",
+    "MP",
+    "Possessions"
+  ],
+  "opponent_for_stops_drtg": [
+    "ORB",
+    "FGM",
+    "FGA",
+    "TOV",
+    "FTA",
+    "FTM",
+    "PTS",
+    "MP"
+  ],
+  "unresolved_direct_player_totals": [
+    "TOV",
+    "PF",
+    "MP"
+  ],
+  "additional_dependency": "Every field must describe the same dated game universe. Player per-game inversion is not accepted while GP consistency fails. Team Possessions definition and its fixed coefficients must be pinned independently.",
+  "methods_url": "https://www.basketball-reference.com/about/ratings.html",
+  "method_origin_year": 2004,
+  "current_features_created": 0
+}

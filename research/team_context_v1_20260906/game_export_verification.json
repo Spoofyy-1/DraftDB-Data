@@ -1,0 +1,15 @@
+{
+  "team_game_rows": 124960,
+  "unique_games": 62480,
+  "team_seasons": 5741,
+  "all_aggregate_numeric_cells_reproduced_exactly": true,
+  "source_years": [
+    2008,
+    2018
+  ],
+  "team_names_or_player_identities_exported": false,
+  "NBA_data_read": false,
+  "sha256": "281e57674cc388fdb87de1540cbcdf35655039f60a8697664bbd26986c16d9d6",
+  "bytes": 4952624,
+  "status": "Validated historical numeric facts; source vintage/completeness limitations preserved"
+}

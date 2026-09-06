@@ -1,0 +1,43 @@
+{
+  "operations": [
+    {
+      "kind": "open",
+      "url": "https://www.basketball-reference.com/about/ratings.html",
+      "result": "403"
+    },
+    {
+      "kind": "primary_search",
+      "target": "Oliver formula qAST Team_ORB_Weight",
+      "result": "methods returned"
+    },
+    {
+      "kind": "primary_search",
+      "target": "UK Athletics2012 final stats",
+      "result": "dated report and archives discovery"
+    },
+    {
+      "kind": "open",
+      "url": "https://ukathletics.com/news/2012/04/03/55aecf41e4b05936b8469e3b-131467965260307999/",
+      "result": "dated report"
+    },
+    {
+      "kind": "invalid_click",
+      "target": "UK report/225 using URL instead ofref",
+      "result": "invalid call; conservatively counted"
+    },
+    {
+      "kind": "click",
+      "url": "https://ukathletics.com/mens-basketball-more-archives/",
+      "result": "no2012 cumulative table"
+    },
+    {
+      "kind": "click",
+      "url": "https://ukathletics.com/sports/m-baskbl/stats/2011-2012/uk0402.html",
+      "result": "404"
+    }
+  ],
+  "total_data_and_discovery_operations": 20,
+  "data_attempts": 13,
+  "data_successes": 12,
+  "remaining_budget": 0
+}

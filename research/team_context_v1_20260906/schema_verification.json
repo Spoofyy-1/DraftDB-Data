@@ -1,0 +1,32 @@
+{
+  "status": "Two official game totals match the parsed raw schema",
+  "checks": [
+    {
+      "source_season": 2009,
+      "game_date": "2009-04-06",
+      "official_url": "https://goheels.com/sports/2009/4/6/Stats_13350",
+      "source_sha256": "67f82d2eebe7e08bf0188e2a442b6e2379e70735cf39896237ea229d29b063f3",
+      "source_row_zero_based": 5365,
+      "row_width": 40,
+      "basic_count_cells_exact": 30,
+      "team_player_minutes_exact": true,
+      "source_teams_exact_after_explicit_Michigan_State_abbreviation": true
+    },
+    {
+      "source_season": 2018,
+      "game_date": "2018-04-02",
+      "official_url": "https://villanova.com/sports/mens-basketball/stats/2017-18/michigan-ncaa-championship-/boxscore/2696",
+      "source_sha256": "d1442df152a7400ef0395a9063575a279e236587ebfbd2af49575018c23c5e70",
+      "source_row_zero_based": 6000,
+      "row_width": 39,
+      "basic_count_cells_exact": 30,
+      "team_player_minutes_exact": true,
+      "source_teams_exact_after_explicit_Michigan_State_abbreviation": true
+    }
+  ],
+  "count_cells_compared": 60,
+  "official_projection_sha256": "c9ae4cbceb7c70703a2b7a104fa0cdc27dfe1cfa2fc13fb9f80b0ec9382bce5a",
+  "scope": "Independent schema spot checks only; not global schedule completeness, every-game validation or original-vintage certification",
+  "official_full_HTML_snapshots_obtained": false,
+  "direct_HTTP_status": 403
+}

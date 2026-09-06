@@ -1,0 +1,69 @@
+{
+  "files": {
+    "build.py": {
+      "sha256": "19f4e1f48033e54863986d422b8893fc06a6634fbda2f239e357da08e43ca3db",
+      "bytes": 7978
+    },
+    "test_build.py": {
+      "sha256": "9612c8e4cbda32878c7046d36e612cb9954afa019b95432ed8b98c581d136119",
+      "bytes": 3662
+    },
+    "verify_schema.py": {
+      "sha256": "26746995d458b63def5efe95f448fc73ff6b5202fc65170924632e5419ca972f",
+      "bytes": 2623
+    },
+    "README.md": {
+      "sha256": "1a739fb00607fb667f5ac4e357c2d336b088dc524fc48fb66f2dc97f27aa8873",
+      "bytes": 3647
+    },
+    "feature_dictionary.json": {
+      "sha256": "4893ce60dcf29fc78ee402c0b0978250dbb9c8b3423a6bd955285a0fb3efca4f",
+      "bytes": 6404
+    },
+    "team_context_train_candidates.csv": {
+      "sha256": "f2e47de72c418a9d71db6eb9d8ee49a9e2d9408ed901c8b5e907b02aef94d757",
+      "bytes": 289471
+    },
+    "provenance.csv": {
+      "sha256": "d79f9c795969f388149bffe578dac4b095134556bf5b632aae70b0d7945c7357",
+      "bytes": 217742
+    },
+    "quarantine.csv": {
+      "sha256": "2a91d32cda740d6384fa3d73cfcdd01aec141f0f00000be8f46855b4483e8158",
+      "bytes": 4510
+    },
+    "summary.json": {
+      "sha256": "97bd5821a603d210b5a16d77b35e224d8d33b436b52375272bea326a7197a60c",
+      "bytes": 1455
+    },
+    "official_boxscore_projection.json": {
+      "sha256": "c9ae4cbceb7c70703a2b7a104fa0cdc27dfe1cfa2fc13fb9f80b0ec9382bce5a",
+      "bytes": 2426
+    },
+    "schema_verification.json": {
+      "sha256": "114599846e3c8e2f13179d72bf5e3a6416f490bf877b12f0ab7606e3f85ea1e3",
+      "bytes": 1398
+    },
+    "network_ledger.json": {
+      "sha256": "946459adb9d3178f4825402d3f7147799004515bf0493fca635cecf717ed9c62",
+      "bytes": 754
+    },
+    "validation.json": {
+      "sha256": "bbf627659872b145ef814c6b64f2e636d993011a4d7796c83bcd51a51c74f1f6",
+      "bytes": 363
+    },
+    "export_games.py": {
+      "sha256": "dc58e2c066aca479f511ee1999627e11d62547a5a8f573b3d9bd0e8c644eb880",
+      "bytes": 3791
+    },
+    "validated_team_game_facts.csv.gz": {
+      "sha256": "281e57674cc388fdb87de1540cbcdf35655039f60a8697664bbd26986c16d9d6",
+      "bytes": 4952624
+    },
+    "game_export_verification.json": {
+      "sha256": "1eeb909f21700781a16af344863daf92bbc9d3e0beb1c402b640490b8cfabecd",
+      "bytes": 462
+    }
+  },
+  "policy": "Only enumerated files and this allowlist may be published. No private raw responses or identities. Candidate data only, not approved model inputs."
+}

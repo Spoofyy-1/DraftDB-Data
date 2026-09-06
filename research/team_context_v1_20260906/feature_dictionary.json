@@ -1,0 +1,162 @@
+{
+  "tctx_assists_per_made_fg": {
+    "label": "assists per made fg",
+    "formula": "divide(t['team_ast'], t['team_fgm'])",
+    "unit": "fraction or fraction difference",
+    "source_scope": "same final eligible college team-season only",
+    "fitted_parameters": false,
+    "missing": "blank; never zero-filled"
+  },
+  "tctx_blocks_per_opponent_fga": {
+    "label": "blocks per opponent fga",
+    "formula": "divide(t['team_blk'], t['opponent_fga'])",
+    "unit": "fraction or fraction difference",
+    "source_scope": "same final eligible college team-season only",
+    "fitted_parameters": false,
+    "missing": "blank; never zero-filled"
+  },
+  "tctx_defensive_rebound_share": {
+    "label": "defensive rebound share",
+    "formula": "divide(t['team_drb'], t['team_drb'] + t['opponent_orb'])",
+    "unit": "fraction or fraction difference",
+    "source_scope": "same final eligible college team-season only",
+    "fitted_parameters": false,
+    "missing": "blank; never zero-filled"
+  },
+  "tctx_efg": {
+    "label": "efg",
+    "formula": "divide(t['team_fgm'] + .5 * t['team_fg3m'], t['team_fga'])",
+    "unit": "fraction or fraction difference",
+    "source_scope": "same final eligible college team-season only",
+    "fitted_parameters": false,
+    "missing": "blank; never zero-filled"
+  },
+  "tctx_efg_margin": {
+    "label": "efg margin",
+    "formula": "tctx_efg - tctx_opponent_efg",
+    "unit": "fraction or fraction difference",
+    "source_scope": "same final eligible college team-season only",
+    "fitted_parameters": false,
+    "missing": "blank; never zero-filled"
+  },
+  "tctx_ft_attempts_per_fga": {
+    "label": "ft attempts per fga",
+    "formula": "divide(t['team_fta'], t['team_fga'])",
+    "unit": "fraction or fraction difference",
+    "source_scope": "same final eligible college team-season only",
+    "fitted_parameters": false,
+    "missing": "blank; never zero-filled"
+  },
+  "tctx_margin_pg": {
+    "label": "margin pg",
+    "formula": "(t['team_pts'] - t['opponent_pts']) / g",
+    "unit": "per game (including overtime)",
+    "source_scope": "same final eligible college team-season only",
+    "fitted_parameters": false,
+    "missing": "blank; never zero-filled"
+  },
+  "tctx_offensive_rebound_share": {
+    "label": "offensive rebound share",
+    "formula": "divide(t['team_orb'], t['team_orb'] + t['opponent_drb'])",
+    "unit": "fraction or fraction difference",
+    "source_scope": "same final eligible college team-season only",
+    "fitted_parameters": false,
+    "missing": "blank; never zero-filled"
+  },
+  "tctx_opponent_assists_per_made_fg": {
+    "label": "opponent assists per made fg",
+    "formula": "divide(t['opponent_ast'], t['opponent_fgm'])",
+    "unit": "fraction or fraction difference",
+    "source_scope": "same final eligible college team-season only",
+    "fitted_parameters": false,
+    "missing": "blank; never zero-filled"
+  },
+  "tctx_opponent_efg": {
+    "label": "opponent efg",
+    "formula": "divide(t['opponent_fgm'] + .5 * t['opponent_fg3m'], t['opponent_fga'])",
+    "unit": "fraction or fraction difference",
+    "source_scope": "same final eligible college team-season only",
+    "fitted_parameters": false,
+    "missing": "blank; never zero-filled"
+  },
+  "tctx_opponent_ft_attempts_per_fga": {
+    "label": "opponent ft attempts per fga",
+    "formula": "divide(t['opponent_fta'], t['opponent_fga'])",
+    "unit": "fraction or fraction difference",
+    "source_scope": "same final eligible college team-season only",
+    "fitted_parameters": false,
+    "missing": "blank; never zero-filled"
+  },
+  "tctx_opponent_points_pg": {
+    "label": "opponent points pg",
+    "formula": "t['opponent_pts'] / g",
+    "unit": "per game (including overtime)",
+    "source_scope": "same final eligible college team-season only",
+    "fitted_parameters": false,
+    "missing": "blank; never zero-filled"
+  },
+  "tctx_opponent_shot_attempts_pg": {
+    "label": "opponent shot attempts pg",
+    "formula": "t['opponent_fga'] / g",
+    "unit": "per game (including overtime)",
+    "source_scope": "same final eligible college team-season only",
+    "fitted_parameters": false,
+    "missing": "blank; never zero-filled"
+  },
+  "tctx_opponent_three_attempt_share": {
+    "label": "opponent three attempt share",
+    "formula": "divide(t['opponent_fg3a'], t['opponent_fga'])",
+    "unit": "fraction or fraction difference",
+    "source_scope": "same final eligible college team-season only",
+    "fitted_parameters": false,
+    "missing": "blank; never zero-filled"
+  },
+  "tctx_opponent_turnovers_per_fga": {
+    "label": "opponent turnovers per fga",
+    "formula": "divide(t['opponent_tov'], t['opponent_fga'])",
+    "unit": "fraction or fraction difference",
+    "source_scope": "same final eligible college team-season only",
+    "fitted_parameters": false,
+    "missing": "blank; never zero-filled"
+  },
+  "tctx_points_pg": {
+    "label": "points pg",
+    "formula": "t['team_pts'] / g",
+    "unit": "per game (including overtime)",
+    "source_scope": "same final eligible college team-season only",
+    "fitted_parameters": false,
+    "missing": "blank; never zero-filled"
+  },
+  "tctx_shot_attempts_pg": {
+    "label": "shot attempts pg",
+    "formula": "t['team_fga'] / g",
+    "unit": "per game (including overtime)",
+    "source_scope": "same final eligible college team-season only",
+    "fitted_parameters": false,
+    "missing": "blank; never zero-filled"
+  },
+  "tctx_steals_per_opponent_turnover": {
+    "label": "steals per opponent turnover",
+    "formula": "divide(t['team_stl'], t['opponent_tov'])",
+    "unit": "fraction or fraction difference",
+    "source_scope": "same final eligible college team-season only",
+    "fitted_parameters": false,
+    "missing": "blank; never zero-filled"
+  },
+  "tctx_three_attempt_share": {
+    "label": "three attempt share",
+    "formula": "divide(t['team_fg3a'], t['team_fga'])",
+    "unit": "fraction or fraction difference",
+    "source_scope": "same final eligible college team-season only",
+    "fitted_parameters": false,
+    "missing": "blank; never zero-filled"
+  },
+  "tctx_turnovers_per_fga": {
+    "label": "turnovers per fga",
+    "formula": "divide(t['team_tov'], t['team_fga'])",
+    "unit": "fraction or fraction difference",
+    "source_scope": "same final eligible college team-season only",
+    "fitted_parameters": false,
+    "missing": "blank; never zero-filled"
+  }
+}

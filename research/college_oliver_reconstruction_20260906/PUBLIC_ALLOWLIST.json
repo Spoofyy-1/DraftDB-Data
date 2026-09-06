@@ -1,0 +1,77 @@
+{
+  "policy": "Only enumerated files may be published; all private/ raw responses and identity metadata excluded. Candidate tables are not approved model inputs.",
+  "files": {
+    "README.md": {
+      "sha256": "b8bffc7569d8055348d474175e8f5b01869aaab7ef747577b952c937f5b01515",
+      "bytes": 5312
+    },
+    "collect.py": {
+      "sha256": "21e9c98122e6a3317d250aff249e52c2c8c554445a29e677722deb1027f67bb7",
+      "bytes": 2098
+    },
+    "audit.py": {
+      "sha256": "77fe50614eb163e38d8a5fa5091b7a7ad61fcd72cf4d903a7bd517ec07755446",
+      "bytes": 8671
+    },
+    "tests.py": {
+      "sha256": "bcdb7476d646cdc20134186ffe9a69c81ada9914f74a216b5bee4bf9e9f983db",
+      "bytes": 2953
+    },
+    "summary.json": {
+      "sha256": "c3b7171eb327d9453b0f87da7c711acad6874bf361860f7cfc3933426d4a80e3",
+      "bytes": 506
+    },
+    "coverage.json": {
+      "sha256": "918f69b8d9b01273802560162d83fe987ef5f0619e9153228a1f932f0c1f6e80",
+      "bytes": 6705
+    },
+    "quarantine.json": {
+      "sha256": "e5819b8a02d0852f053f9f18be8457689dc5b355e52b32edb26fbd57880abb38",
+      "bytes": 125109
+    },
+    "schema_manifest.json": {
+      "sha256": "0941a72588300c3bf9baaa0cc16d58fbfd5d5ecc981783d02eaaf7950f7ce49e",
+      "bytes": 2042
+    },
+    "schema_crosscheck.json": {
+      "sha256": "b356bc7f5fda374fac8c1f430dd179e9c75a0eefbce6cf37a55b10e8171662d8",
+      "bytes": 199
+    },
+    "dependency_map.json": {
+      "sha256": "42e7c7eca8c111fffa528ca2dc6279743a3c5ea2086bda94443891db6a8b1809",
+      "bytes": 1088
+    },
+    "player_dependency_inventory.json": {
+      "sha256": "c989384c686a60b5f3d3aa04e44b21d9cdde0ba34b87a19ab31d74b1cd7f85b3",
+      "bytes": 5040
+    },
+    "local_source_lineage.json": {
+      "sha256": "643c61ab9c6b50ac5080e18fd5b6c733c613cdf4ab5d46377f61c7cf6c6e8c62",
+      "bytes": 3830
+    },
+    "network_ledger.json": {
+      "sha256": "f3fcf969fc950a1a5b0c5120515ab40df2d3eca07f30744b7b7fd525d5260e2a",
+      "bytes": 6631
+    },
+    "discovery_ledger.json": {
+      "sha256": "182b3f7a5cc3b2563c851259c049ff129f3cfb5604c6072415f147340c34dd62",
+      "bytes": 1166
+    },
+    "team_season_totals_candidate.csv": {
+      "sha256": "2950f0696cf59fcb1f4416403dbbea4500f7c6481e86da5ff5de4b8897a5873d",
+      "bytes": 1085086
+    },
+    "team_game_lineage.csv.gz": {
+      "sha256": "66df771e246ae42487f26cfd0bc3f430a743892d4b8c41928a622977f2aff502",
+      "bytes": 2401572
+    },
+    "team_game_numeric_pilot.csv": {
+      "sha256": "6219c00231062a229698217ca6c60a4e6c4aaf04b953fdef8fc9ae9ad65eae6d",
+      "bytes": 12812
+    },
+    "verification.json": {
+      "sha256": "849a94dc7329e0615595e818a25c88549477eaa74e13878f7ea1a1065127d3a7",
+      "bytes": 156
+    }
+  }
+}

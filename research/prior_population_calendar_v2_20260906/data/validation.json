@@ -1,0 +1,22 @@
+{
+  "tests_passed": 9,
+  "tests_failed": 0,
+  "test_command": "PYTHONDONTWRITEBYTECODE=1 python3 work/prior_population_calendar_v2/test_build.py",
+  "complete_pilot_members": 8,
+  "approved_identity_metadata_rows": 2,
+  "approved_calendar_metadata_rows": 5,
+  "unresolved_members_preserved": 6,
+  "new_college_values": 41,
+  "all_other_feature_cells_unchanged": true,
+  "future_value_perturbation_invariance": true,
+  "future_added_season_invariance": true,
+  "no_missing_to_zero": true,
+  "partial_sums_not_promoted_to_complete_targets": true,
+  "current_or_future_cohort_exclusion": true,
+  "original_input_hashes_unchanged": true,
+  "models_run": 0,
+  "benchmark_scores": 0,
+  "network_requests": 0,
+  "build_code_sha256": "f4937fa872446c22bc76830f076de1b610890b63203432b71b3d8a8b3ddf6624",
+  "test_code_sha256": "16cc5d6741315e662884e4fd11bf70712ec872ffbaa86865d3aecaadaf352fb3"
+}

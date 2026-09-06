@@ -1,0 +1,15 @@
+{
+  "schema_version": 2,
+  "created_at_utc": "2026-09-06T13:50:08.729334+00:00",
+  "scope": "Private historical population calendar candidate v2",
+  "identity_metadata_approved": 2,
+  "calendar_metadata_approved": 5,
+  "old_source_files_verified_unchanged": 8,
+  "private_source_pins_sha256": "7734fa62c1db9ea730467659673871c154aeb02c3ca81c18378b1f12079b38c6",
+  "private_features_sha256": "1bb68ff3b622377c6cf082ce5c989954ff8886d8bd95e2c5efed3f9d2a00a590",
+  "private_eligible_labels_sha256": "44c255d2fdc433b38d6649b6897be5826cf507a5a7a75f483795fed21957a5d5",
+  "public_scope": "aggregate verification only",
+  "public_identity_or_label_exports": 0,
+  "model_sandbox_allowlist": [],
+  "automatic_production_promotion": false
+}

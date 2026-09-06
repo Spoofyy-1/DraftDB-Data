@@ -1,0 +1,39 @@
+{
+  "source_seasons": [
+    2008,
+    2018
+  ],
+  "features": 20,
+  "historical_lineage_rows_preserved": 790,
+  "rows_with_features": 731,
+  "rows_all_missing": 59,
+  "coverage_by_draft_year": {
+    "2008": 46,
+    "2009": 56,
+    "2010": 62,
+    "2011": 63,
+    "2012": 61,
+    "2013": 61,
+    "2014": 61,
+    "2015": 50,
+    "2016": 77,
+    "2017": 96,
+    "2018": 98
+  },
+  "NBA_outcomes_or_picks_read": false,
+  "models_run": 0,
+  "original_inputs_modified": false,
+  "model_eligible": false,
+  "status": "Candidate features pending independent review and schedule/vintage checks",
+  "minimum_cached_games": 20,
+  "whole_team_season_rejected_if_any_cached_game_fails": true,
+  "all_missing_rows_preserved": true,
+  "source_files_sha256": {
+    "team_season_totals_candidate.csv": "2950f0696cf59fcb1f4416403dbbea4500f7c6481e86da5ff5de4b8897a5873d",
+    "coverage.json": "918f69b8d9b01273802560162d83fe987ef5f0619e9153228a1f932f0c1f6e80",
+    "schema_manifest.json": "0941a72588300c3bf9baaa0cc16d58fbfd5d5ecc981783d02eaaf7950f7ce49e",
+    "team_game_lineage.csv.gz": "66df771e246ae42487f26cfd0bc3f430a743892d4b8c41928a622977f2aff502"
+  },
+  "focal_lineage_sha256": "2e790af9efbdbf54e4ed1b1fe9c5c308e760544ed7bede64d83a2e1eac2b388c",
+  "limitation": "Reconstructed historical game facts, not verified original publication snapshots; complete schedule not established. Per-game values include overtime. Raw context is unadjusted for opponent strength."
+}

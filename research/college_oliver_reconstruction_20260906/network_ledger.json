@@ -1,0 +1,219 @@
+[
+  {
+    "key": "season2012",
+    "url": "https://barttorvik.com/2012_season.json",
+    "retrieved_at_utc": "2026-09-06T13:39:10.768193+00:00",
+    "status": 200,
+    "bytes": 1598824,
+    "sha256": "eded4262f2e39594c35d8a1c49ea4249a54e78044e26462b7709f15641005ec6",
+    "json_kind": "list",
+    "shape": 5566,
+    "schema_preview": [
+      "list",
+      "list",
+      "list"
+    ],
+    "eligible": false,
+    "reason": "Requires numeric schema, historical dates and source dependencies verification"
+  },
+  {
+    "key": "kentucky2012",
+    "url": "https://barttorvik.com/getgamestats.php?year=2012&tvalue=Kentucky",
+    "retrieved_at_utc": "2026-09-06T13:39:12.269308+00:00",
+    "status": 200,
+    "bytes": 22067,
+    "sha256": "a46fc7719f2c89800086e1addad79e13f0e21d9f5e2aa711f69700219bd05874",
+    "json_kind": "list",
+    "shape": 40,
+    "schema_preview": [
+      "list",
+      "list",
+      "list"
+    ],
+    "eligible": false,
+    "reason": "Requires numeric schema, historical dates and source dependencies verification"
+  },
+  {
+    "key": "season2008",
+    "url": "https://barttorvik.com/2008_season.json",
+    "retrieved_at_utc": "2026-09-06T13:40:20.418894+00:00",
+    "status": 200,
+    "bytes": 1206884,
+    "sha256": "316b9b167af5c1b5063cd6bb37f858af5e622271af0b8df5941dc8f8cb99272c",
+    "json_kind": "list",
+    "shape": 5559,
+    "schema_preview": [
+      "list",
+      "list",
+      "list"
+    ],
+    "eligible": false,
+    "reason": "Requires numeric schema, historical dates and source dependencies verification"
+  },
+  {
+    "key": "season2009",
+    "url": "https://barttorvik.com/2009_season.json",
+    "retrieved_at_utc": "2026-09-06T13:40:21.854577+00:00",
+    "status": 200,
+    "bytes": 1571506,
+    "sha256": "67f82d2eebe7e08bf0188e2a442b6e2379e70735cf39896237ea229d29b063f3",
+    "json_kind": "list",
+    "shape": 5479,
+    "schema_preview": [
+      "list",
+      "list",
+      "list"
+    ],
+    "eligible": false,
+    "reason": "Requires numeric schema, historical dates and source dependencies verification"
+  },
+  {
+    "key": "season2010",
+    "url": "https://barttorvik.com/2010_season.json",
+    "retrieved_at_utc": "2026-09-06T13:40:23.702115+00:00",
+    "status": 200,
+    "bytes": 1591729,
+    "sha256": "638a80b5d031a9246eed89a398fbd326f6ef18bc6185a92e61c7a472ef639390",
+    "json_kind": "list",
+    "shape": 5527,
+    "schema_preview": [
+      "list",
+      "list",
+      "list"
+    ],
+    "eligible": false,
+    "reason": "Requires numeric schema, historical dates and source dependencies verification"
+  },
+  {
+    "key": "season2011",
+    "url": "https://barttorvik.com/2011_season.json",
+    "retrieved_at_utc": "2026-09-06T13:40:25.181916+00:00",
+    "status": 200,
+    "bytes": 1589046,
+    "sha256": "3e953b260baff40ec2654ec0e917a4f2ee71e9240b2a28d689479f34c88bc782",
+    "json_kind": "list",
+    "shape": 5525,
+    "schema_preview": [
+      "list",
+      "list",
+      "list"
+    ],
+    "eligible": false,
+    "reason": "Requires numeric schema, historical dates and source dependencies verification"
+  },
+  {
+    "key": "season2013",
+    "url": "https://barttorvik.com/2013_season.json",
+    "retrieved_at_utc": "2026-09-06T13:40:26.653164+00:00",
+    "status": 200,
+    "bytes": 1635638,
+    "sha256": "290f29911be8e4907cebe826766701194a84e1966c6e2e05cd1cfdabbd2689fd",
+    "json_kind": "list",
+    "shape": 5680,
+    "schema_preview": [
+      "list",
+      "list",
+      "list"
+    ],
+    "eligible": false,
+    "reason": "Requires numeric schema, historical dates and source dependencies verification"
+  },
+  {
+    "key": "season2014",
+    "url": "https://barttorvik.com/2014_season.json",
+    "retrieved_at_utc": "2026-09-06T13:40:28.153313+00:00",
+    "status": 200,
+    "bytes": 1679185,
+    "sha256": "421cdfdb398e9d13357bcc4aadc0e8596d827ec74bcfba14ad9594363695cf73",
+    "json_kind": "list",
+    "shape": 5854,
+    "schema_preview": [
+      "list",
+      "list",
+      "list"
+    ],
+    "eligible": false,
+    "reason": "Requires numeric schema, historical dates and source dependencies verification"
+  },
+  {
+    "key": "season2015",
+    "url": "https://barttorvik.com/2015_season.json",
+    "retrieved_at_utc": "2026-09-06T13:40:29.718122+00:00",
+    "status": 200,
+    "bytes": 1757276,
+    "sha256": "cb644c65ede8b146e39cf64c714d261cfa83c589a91f2d7c4ab341f1ef92b124",
+    "json_kind": "list",
+    "shape": 5917,
+    "schema_preview": [
+      "list",
+      "list",
+      "list"
+    ],
+    "eligible": false,
+    "reason": "Requires numeric schema, historical dates and source dependencies verification"
+  },
+  {
+    "key": "season2016",
+    "url": "https://barttorvik.com/2016_season.json",
+    "retrieved_at_utc": "2026-09-06T13:40:31.596890+00:00",
+    "status": 200,
+    "bytes": 1784517,
+    "sha256": "ac05a65a0618b23b94e7ff8d07dfccbe26823403408f37e407a4a9e0604cbf51",
+    "json_kind": "list",
+    "shape": 5945,
+    "schema_preview": [
+      "list",
+      "list",
+      "list"
+    ],
+    "eligible": false,
+    "reason": "Requires numeric schema, historical dates and source dependencies verification"
+  },
+  {
+    "key": "season2017",
+    "url": "https://barttorvik.com/2017_season.json",
+    "retrieved_at_utc": "2026-09-06T13:40:33.072553+00:00",
+    "status": 200,
+    "bytes": 1642191,
+    "sha256": "ddd28c03d2587a5ab346ed057a1d675354b6a1f4bb68772b9a5142e59b70e7b9",
+    "json_kind": "list",
+    "shape": 5982,
+    "schema_preview": [
+      "list",
+      "list",
+      "list"
+    ],
+    "eligible": false,
+    "reason": "Requires numeric schema, historical dates and source dependencies verification"
+  },
+  {
+    "key": "season2018",
+    "url": "https://barttorvik.com/2018_season.json",
+    "retrieved_at_utc": "2026-09-06T13:40:34.578479+00:00",
+    "status": 200,
+    "bytes": 1456783,
+    "sha256": "d1442df152a7400ef0395a9063575a279e236587ebfbd2af49575018c23c5e70",
+    "json_kind": "list",
+    "shape": 6004,
+    "schema_preview": [
+      "list",
+      "list",
+      "list"
+    ],
+    "eligible": false,
+    "reason": "Requires numeric schema, historical dates and source dependencies verification"
+  },
+  {
+    "key": "espn_kentucky_marist_20111111",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/summary?event=313150096",
+    "retrieved_at_utc": "2026-09-06T13:41:55.425835+00:00",
+    "status": 403,
+    "bytes": 472,
+    "sha256": "181a7660aa5236e30048d277e7c997791de9a0e31443becf9311c7f29b3e0bd1",
+    "json_kind": "not_json",
+    "shape": null,
+    "schema_preview": null,
+    "eligible": false,
+    "reason": "Requires numeric schema, historical dates and source dependencies verification"
+  }
+]

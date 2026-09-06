@@ -1,0 +1,102 @@
+[
+  {
+    "season": 2009,
+    "game_date": "2009-04-06",
+    "source_url": "https://goheels.com/sports/2009/4/6/Stats_13350",
+    "team_names": [
+      "Michigan St.",
+      "North Carolina"
+    ],
+    "team_player_minutes": 200,
+    "teams": [
+      {
+        "fgm": 22,
+        "fga": 55,
+        "fg3m": 7,
+        "fg3a": 23,
+        "ftm": 21,
+        "fta": 29,
+        "orb": 13,
+        "drb": 29,
+        "trb": 42,
+        "ast": 13,
+        "stl": 1,
+        "blk": 5,
+        "tov": 21,
+        "pf": 28,
+        "pts": 72
+      },
+      {
+        "fgm": 28,
+        "fga": 61,
+        "fg3m": 5,
+        "fg3a": 12,
+        "ftm": 28,
+        "fta": 40,
+        "orb": 11,
+        "drb": 24,
+        "trb": 35,
+        "ast": 13,
+        "stl": 9,
+        "blk": 0,
+        "tov": 7,
+        "pf": 22,
+        "pts": 89
+      }
+    ],
+    "extraction": "Numeric team totals transcribed from official university box-score tables retrieved by the web tool on2026-09-06; headers mapped by name. No direct HTML snapshot was obtained; direct requests returned403.",
+    "original_box_score_date": "2009-04-06",
+    "retrieved_date_utc": "2026-09-06",
+    "raw_html_sha256": null
+  },
+  {
+    "season": 2018,
+    "game_date": "2018-04-02",
+    "source_url": "https://villanova.com/sports/mens-basketball/stats/2017-18/michigan-ncaa-championship-/boxscore/2696",
+    "team_names": [
+      "Michigan",
+      "Villanova"
+    ],
+    "team_player_minutes": 200,
+    "teams": [
+      {
+        "fgm": 24,
+        "fga": 55,
+        "fg3m": 3,
+        "fg3a": 23,
+        "ftm": 11,
+        "fta": 18,
+        "orb": 6,
+        "drb": 21,
+        "trb": 27,
+        "ast": 6,
+        "stl": 6,
+        "blk": 1,
+        "tov": 10,
+        "pf": 20,
+        "pts": 62
+      },
+      {
+        "fgm": 27,
+        "fga": 57,
+        "fg3m": 10,
+        "fg3a": 27,
+        "ftm": 15,
+        "fta": 20,
+        "orb": 12,
+        "drb": 26,
+        "trb": 38,
+        "ast": 7,
+        "stl": 5,
+        "blk": 3,
+        "tov": 12,
+        "pf": 18,
+        "pts": 79
+      }
+    ],
+    "extraction": "Numeric team totals transcribed from official university box-score tables retrieved by the web tool on2026-09-06; headers mapped by name. No direct HTML snapshot was obtained; direct requests returned403.",
+    "original_box_score_date": "2018-04-02",
+    "retrieved_date_utc": "2026-09-06",
+    "raw_html_sha256": null
+  }
+]

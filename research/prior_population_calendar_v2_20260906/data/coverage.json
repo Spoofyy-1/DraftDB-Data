@@ -1,0 +1,166 @@
+{
+  "pilot_members_preserved": 8,
+  "candidate_features": 185,
+  "observed_feature_cells": 693,
+  "repaired_feature_aliases": 1,
+  "newly_observed_college_feature_cells": 41,
+  "other_members_and_feature_cells_unchanged": true,
+  "identity_bridges_revalidated": 2,
+  "official_combine_identity_checks": 2,
+  "father_homonyms_rejected": 2,
+  "approved_candidate_calendar_season_rows": 5,
+  "verified_historical_WAR_cells": 5,
+  "WAR_identity_selection_used": false,
+  "max_WAR_season_inspected": 2018,
+  "unresolved_missing_label_members": 6,
+  "membership_preserved_independent_of_availability": true,
+  "missing_outcomes_replaced_by_zero": 0,
+  "per_prediction_year": [
+    {
+      "prediction_year": 2013,
+      "allowed_season_end": 2012,
+      "membership_rows": 2,
+      "eligible_season_label_rows": 0,
+      "members_with_eligible_labels": 0,
+      "members_without_eligible_labels": 2,
+      "complete_first_h_targets": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "latest_eligible_label_season": null,
+      "all_included_draft_years_before_prediction": true,
+      "zero_labels_inferred": 0,
+      "model_ready": false
+    },
+    {
+      "prediction_year": 2014,
+      "allowed_season_end": 2013,
+      "membership_rows": 5,
+      "eligible_season_label_rows": 1,
+      "members_with_eligible_labels": 1,
+      "members_without_eligible_labels": 4,
+      "complete_first_h_targets": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "latest_eligible_label_season": 2013,
+      "all_included_draft_years_before_prediction": true,
+      "zero_labels_inferred": 0,
+      "model_ready": false
+    },
+    {
+      "prediction_year": 2015,
+      "allowed_season_end": 2014,
+      "membership_rows": 8,
+      "eligible_season_label_rows": 3,
+      "members_with_eligible_labels": 2,
+      "members_without_eligible_labels": 6,
+      "complete_first_h_targets": {
+        "1": 2,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "latest_eligible_label_season": 2014,
+      "all_included_draft_years_before_prediction": true,
+      "zero_labels_inferred": 0,
+      "model_ready": false
+    },
+    {
+      "prediction_year": 2016,
+      "allowed_season_end": 2015,
+      "membership_rows": 8,
+      "eligible_season_label_rows": 5,
+      "members_with_eligible_labels": 2,
+      "members_without_eligible_labels": 6,
+      "complete_first_h_targets": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 0,
+        "5": 0
+      },
+      "latest_eligible_label_season": 2015,
+      "all_included_draft_years_before_prediction": true,
+      "zero_labels_inferred": 0,
+      "model_ready": false
+    },
+    {
+      "prediction_year": 2017,
+      "allowed_season_end": 2016,
+      "membership_rows": 8,
+      "eligible_season_label_rows": 5,
+      "members_with_eligible_labels": 2,
+      "members_without_eligible_labels": 6,
+      "complete_first_h_targets": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 0,
+        "5": 0
+      },
+      "latest_eligible_label_season": 2015,
+      "all_included_draft_years_before_prediction": true,
+      "zero_labels_inferred": 0,
+      "model_ready": false
+    },
+    {
+      "prediction_year": 2018,
+      "allowed_season_end": 2017,
+      "membership_rows": 8,
+      "eligible_season_label_rows": 5,
+      "members_with_eligible_labels": 2,
+      "members_without_eligible_labels": 6,
+      "complete_first_h_targets": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 0,
+        "5": 0
+      },
+      "latest_eligible_label_season": 2015,
+      "all_included_draft_years_before_prediction": true,
+      "zero_labels_inferred": 0,
+      "model_ready": false
+    },
+    {
+      "prediction_year": 2019,
+      "allowed_season_end": 2018,
+      "membership_rows": 8,
+      "eligible_season_label_rows": 5,
+      "members_with_eligible_labels": 2,
+      "members_without_eligible_labels": 6,
+      "complete_first_h_targets": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 0,
+        "5": 0
+      },
+      "latest_eligible_label_season": 2015,
+      "all_included_draft_years_before_prediction": true,
+      "zero_labels_inferred": 0,
+      "model_ready": false
+    }
+  ],
+  "network_requests": 0,
+  "model_runs": 0,
+  "benchmark_scores": 0,
+  "production_promotion": false,
+  "existing_sources_and_bundles_modified": false,
+  "limitations": [
+    "Exact published Wikidata NBA-ID statements are unreferenced, with separate official historical combine ID corroboration and distinct father identities.",
+    "Six source members still lack verified historical NBA participation/WAR evidence; this is a partial population repair.",
+    "Calendar time elapsed does not certify a first-h-played-seasons outcome; incomplete horizons remain missing.",
+    "Observed partial WAR sums are censored observations, not automatic complete-horizon targets.",
+    "Historical college release vintage remains unverified; no current DOB or measurements are imported as features.",
+    "Only this eight-member pilot is reconstructed. No model, full-population, benchmark or production certification is claimed."
+  ]
+}

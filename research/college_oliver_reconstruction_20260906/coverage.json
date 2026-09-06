@@ -1,0 +1,199 @@
+[
+  {
+    "source_season": 2008,
+    "source_game_rows": 5559,
+    "validated_game_rows": 5538,
+    "rejected_game_rows": 21,
+    "source_team_names": 524,
+    "teams_all_cached_games_pass": 483,
+    "min_valid_date": "2007-11-05",
+    "max_valid_date": "2008-04-07",
+    "reasons": {
+      "cross_team_count_bounds": 1,
+      "could not convert string to float: ''": 20
+    },
+    "source_sha256": "316b9b167af5c1b5063cd6bb37f858af5e622271af0b8df5941dc8f8cb99272c",
+    "source_url": "https://barttorvik.com/2008_season.json",
+    "retrieved_at_utc": "2026-09-06T13:40:20.418894+00:00",
+    "original_publication_date": null
+  },
+  {
+    "source_season": 2009,
+    "source_game_rows": 5479,
+    "validated_game_rows": 5471,
+    "rejected_game_rows": 8,
+    "source_team_names": 445,
+    "teams_all_cached_games_pass": 429,
+    "min_valid_date": "2008-11-10",
+    "max_valid_date": "2009-04-06",
+    "reasons": {
+      "points_identity": 1,
+      "outside_source_season": 1,
+      "could not convert string to float: ''": 6
+    },
+    "source_sha256": "67f82d2eebe7e08bf0188e2a442b6e2379e70735cf39896237ea229d29b063f3",
+    "source_url": "https://barttorvik.com/2009_season.json",
+    "retrieved_at_utc": "2026-09-06T13:40:21.854577+00:00",
+    "original_publication_date": null
+  },
+  {
+    "source_season": 2010,
+    "source_game_rows": 5527,
+    "validated_game_rows": 5525,
+    "rejected_game_rows": 2,
+    "source_team_names": 461,
+    "teams_all_cached_games_pass": 457,
+    "min_valid_date": "2009-11-09",
+    "max_valid_date": "2010-04-05",
+    "reasons": {
+      "cross_team_count_bounds": 1,
+      "rebound_identity": 1
+    },
+    "source_sha256": "638a80b5d031a9246eed89a398fbd326f6ef18bc6185a92e61c7a472ef639390",
+    "source_url": "https://barttorvik.com/2010_season.json",
+    "retrieved_at_utc": "2026-09-06T13:40:23.702115+00:00",
+    "original_publication_date": null
+  },
+  {
+    "source_season": 2011,
+    "source_game_rows": 5525,
+    "validated_game_rows": 5525,
+    "rejected_game_rows": 0,
+    "source_team_names": 465,
+    "teams_all_cached_games_pass": 465,
+    "min_valid_date": "2010-11-08",
+    "max_valid_date": "2011-04-04",
+    "reasons": {},
+    "source_sha256": "3e953b260baff40ec2654ec0e917a4f2ee71e9240b2a28d689479f34c88bc782",
+    "source_url": "https://barttorvik.com/2011_season.json",
+    "retrieved_at_utc": "2026-09-06T13:40:25.181916+00:00",
+    "original_publication_date": null
+  },
+  {
+    "source_season": 2012,
+    "source_game_rows": 5566,
+    "validated_game_rows": 5562,
+    "rejected_game_rows": 4,
+    "source_team_names": 471,
+    "teams_all_cached_games_pass": 463,
+    "min_valid_date": "2011-11-07",
+    "max_valid_date": "2012-04-02",
+    "reasons": {
+      "points_identity": 4
+    },
+    "source_sha256": "eded4262f2e39594c35d8a1c49ea4249a54e78044e26462b7709f15641005ec6",
+    "source_url": "https://barttorvik.com/2012_season.json",
+    "retrieved_at_utc": "2026-09-06T13:39:10.768193+00:00",
+    "original_publication_date": null
+  },
+  {
+    "source_season": 2013,
+    "source_game_rows": 5680,
+    "validated_game_rows": 5675,
+    "rejected_game_rows": 5,
+    "source_team_names": 502,
+    "teams_all_cached_games_pass": 492,
+    "min_valid_date": "2012-11-09",
+    "max_valid_date": "2013-04-08",
+    "reasons": {
+      "points_identity": 5
+    },
+    "source_sha256": "290f29911be8e4907cebe826766701194a84e1966c6e2e05cd1cfdabbd2689fd",
+    "source_url": "https://barttorvik.com/2013_season.json",
+    "retrieved_at_utc": "2026-09-06T13:40:26.653164+00:00",
+    "original_publication_date": null
+  },
+  {
+    "source_season": 2014,
+    "source_game_rows": 5854,
+    "validated_game_rows": 5799,
+    "rejected_game_rows": 55,
+    "source_team_names": 567,
+    "teams_all_cached_games_pass": 509,
+    "min_valid_date": "2013-11-08",
+    "max_valid_date": "2014-04-07",
+    "reasons": {
+      "points_identity": 4,
+      "cross_team_count_bounds": 2,
+      "assists_exceed_makes": 1,
+      "rebound_identity": 48
+    },
+    "source_sha256": "421cdfdb398e9d13357bcc4aadc0e8596d827ec74bcfba14ad9594363695cf73",
+    "source_url": "https://barttorvik.com/2014_season.json",
+    "retrieved_at_utc": "2026-09-06T13:40:28.153313+00:00",
+    "original_publication_date": null
+  },
+  {
+    "source_season": 2015,
+    "source_game_rows": 5917,
+    "validated_game_rows": 5487,
+    "rejected_game_rows": 430,
+    "source_team_names": 624,
+    "teams_all_cached_games_pass": 117,
+    "min_valid_date": "2014-11-14",
+    "max_valid_date": "2015-04-06",
+    "reasons": {
+      "time data '1/0/00' does not match format '%m/%d/%y'": 418,
+      "points_identity": 10,
+      "unverified_minutes": 2
+    },
+    "source_sha256": "cb644c65ede8b146e39cf64c714d261cfa83c589a91f2d7c4ab341f1ef92b124",
+    "source_url": "https://barttorvik.com/2015_season.json",
+    "retrieved_at_utc": "2026-09-06T13:40:29.718122+00:00",
+    "original_publication_date": null
+  },
+  {
+    "source_season": 2016,
+    "source_game_rows": 5945,
+    "validated_game_rows": 5933,
+    "rejected_game_rows": 12,
+    "source_team_names": 643,
+    "teams_all_cached_games_pass": 620,
+    "min_valid_date": "2015-11-13",
+    "max_valid_date": "2016-04-04",
+    "reasons": {
+      "rebound_identity": 1,
+      "points_identity": 10,
+      "cross_team_count_bounds": 1
+    },
+    "source_sha256": "ac05a65a0618b23b94e7ff8d07dfccbe26823403408f37e407a4a9e0604cbf51",
+    "source_url": "https://barttorvik.com/2016_season.json",
+    "retrieved_at_utc": "2026-09-06T13:40:31.596890+00:00",
+    "original_publication_date": null
+  },
+  {
+    "source_season": 2017,
+    "source_game_rows": 5982,
+    "validated_game_rows": 5967,
+    "rejected_game_rows": 15,
+    "source_team_names": 652,
+    "teams_all_cached_games_pass": 626,
+    "min_valid_date": "2016-11-11",
+    "max_valid_date": "2017-04-03",
+    "reasons": {
+      "points_identity": 13,
+      "team_identity": 2
+    },
+    "source_sha256": "ddd28c03d2587a5ab346ed057a1d675354b6a1f4bb68772b9a5142e59b70e7b9",
+    "source_url": "https://barttorvik.com/2017_season.json",
+    "retrieved_at_utc": "2026-09-06T13:40:33.072553+00:00",
+    "original_publication_date": null
+  },
+  {
+    "source_season": 2018,
+    "source_game_rows": 6004,
+    "validated_game_rows": 5998,
+    "rejected_game_rows": 6,
+    "source_team_names": 663,
+    "teams_all_cached_games_pass": 652,
+    "min_valid_date": "2017-11-10",
+    "max_valid_date": "2018-04-02",
+    "reasons": {
+      "points_identity": 6
+    },
+    "source_sha256": "d1442df152a7400ef0395a9063575a279e236587ebfbd2af49575018c23c5e70",
+    "source_url": "https://barttorvik.com/2018_season.json",
+    "retrieved_at_utc": "2026-09-06T13:40:34.578479+00:00",
+    "original_publication_date": null
+  }
+]

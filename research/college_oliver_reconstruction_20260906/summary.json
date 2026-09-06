@@ -1,0 +1,13 @@
+{
+  "years": 11,
+  "raw_game_rows": 63038,
+  "validated_game_rows": 62480,
+  "rejected_game_rows": 558,
+  "team_season_candidate_rows": 5741,
+  "exact_schema_game_crosschecks": 40,
+  "current_player_impact_features_created": 0,
+  "original_vintage_verified": false,
+  "no_current_impact_numbers_used": true,
+  "no_NBA_outcomes_or_models": true,
+  "candidate_status": "Team/opponent dependency candidates only; original schema/vintage, schedule completeness and exact player TOV/PF/MP still require proof"
+}

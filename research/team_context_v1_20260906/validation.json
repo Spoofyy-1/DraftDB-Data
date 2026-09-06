@@ -1,0 +1,11 @@
+{
+  "tests_passed": 6,
+  "independent_review": "No arithmetic/date/team-join blocker after source-manifest hash lookup correction",
+  "rows": 790,
+  "fully_observed_rows": 731,
+  "entirely_missing_rows": 59,
+  "partially_observed_rows": 0,
+  "prior2015_feature_rows_unchanged_without_later_source_seasons": true,
+  "NBA_outcomes_read": false,
+  "models_run": 0
+}

@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "exhaustive": true,
+  "files": [
+    "README.md",
+    "data/coverage.json",
+    "data/manifest.json",
+    "data/validation.json",
+    "PUBLIC_ALLOWLIST.json"
+  ],
+  "sha256": {
+    "README.md": "690a4999990530ab3e82edb2fa56d853f15b0efdeb199b7e9c0403439d23683e",
+    "data/coverage.json": "da0de8f8c1cfd2397403b9bcc4a3d9d50c000e9e2521932424dda8866133ddaf",
+    "data/manifest.json": "324d8b26704c3e1e84a6528d6b6f2be0337cd36a89e98a26678af3421d2c2ff0",
+    "data/validation.json": "cf19849ff86d5635d9edfb613b61b44dce94fe13472d0d9c40af9234ecf96034"
+  },
+  "public_scope": "aggregate report and verification only",
+  "excluded": [
+    "private/**",
+    "all identities, source/global/legacy ID crosswalks and birth dates",
+    "all per-player feature, calendar, seasonal label, horizon target and joined pilot rows",
+    "build.py and test_build.py (private-source implementation, outside aggregate-only publication scope)",
+    "all unspecified files"
+  ],
+  "model_sandbox_allowlist": [],
+  "publication_performed": false
+}
