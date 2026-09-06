@@ -1,0 +1,108 @@
+{
+  "plan": {
+    "variants": [
+      {
+        "id": "baseline",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": null,
+        "drop": [
+          "scout_"
+        ],
+        "hw": "uniform"
+      },
+      {
+        "id": "f50_peer_rank_usage",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": null,
+        "extras": [
+          "f50_peer_rank_usage"
+        ],
+        "drop": [
+          "scout_"
+        ],
+        "hw": "uniform"
+      },
+      {
+        "id": "f50_control_zero",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": null,
+        "extras": [
+          "f50_control_zero"
+        ],
+        "drop": [
+          "scout_"
+        ],
+        "hw": "uniform"
+      },
+      {
+        "id": "f50_control_nan",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": null,
+        "extras": [
+          "f50_control_nan"
+        ],
+        "drop": [
+          "scout_"
+        ],
+        "hw": "uniform"
+      },
+      {
+        "id": "f50_control_availability",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": null,
+        "extras": [
+          "f50_control_availability"
+        ],
+        "drop": [
+          "scout_"
+        ],
+        "hw": "uniform"
+      },
+      {
+        "id": "f50_control_duplicate_ts",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": null,
+        "extras": [
+          "f50_control_duplicate_ts"
+        ],
+        "drop": [
+          "scout_"
+        ],
+        "hw": "uniform"
+      },
+      {
+        "id": "f50_control_permuted_usage",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": null,
+        "extras": [
+          "f50_control_permuted_usage"
+        ],
+        "drop": [
+          "scout_"
+        ],
+        "hw": "uniform"
+      }
+    ],
+    "folds": [
+      2012,
+      2013,
+      2014
+    ],
+    "seeds": [
+      0,
+      101,
+      202
+    ],
+    "purpose": "Negative controls for added-column/feature-sampling effects. Constant/empty/permuted controls must never be promoted as discovered real statistics. Compare genuine usage rank to availability, duplicate existing signal, and no-information controls.",
+    "no_confirmation_or_test_scoring": true
+  },
+  "sha256": "f317a020276790fb0c063d273ae29cfff485154648e5bfb81f91f8ffc7440b19",
+  "created": 1788690548.1034882
+}
