@@ -42,11 +42,11 @@
     }
   },
   "college_games": {
-    "status": "validating",
-    "updated": 1788704393.754304,
+    "status": "completed",
+    "updated": 1788705201.853419,
     "existing": 11,
     "total": 11,
-    "note": "10 historical files downloaded plus frozen2018 reference; 11/11 years built and crosschecked against annual GP/shooting totals. Candidate data only; discrepancies quarantined, no training admission."
+    "note": "2008\u20132018 built and verified:1,203,590 parsed games;50,940 source-consistent player/team/seasons,387 quarantined.15 candidate statistics;11 tests pass. Source review pending; no training admission."
   },
   "mocks": {
     "status": "completed_or_time_limit",
