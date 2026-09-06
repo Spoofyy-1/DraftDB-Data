@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "models_fitted": 0,
+  "requested_configurations": 432,
+  "distinct_configurations": 384,
+  "tasks": 1152,
+  "all_dedupes_identical_across9fold_seed_designs": true,
+  "18_exact_D_reference_contracts": true,
+  "training_only_target_invariants_and_no_mutation": true,
+  "fixed_all_three_seed_mean_fixture": true,
+  "tamper_rejections": [
+    "raw_reference_prediction",
+    "future_label",
+    "training_target_hash",
+    "effective_width",
+    "missing_reference",
+    "nonfinite_target",
+    "unregistered_transform",
+    "missing_seed",
+    "misaligned_prediction_pids"
+  ]
+}

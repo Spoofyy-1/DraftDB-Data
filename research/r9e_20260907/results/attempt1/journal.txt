@@ -1,0 +1,34 @@
+Sep 06 21:00:07 209-20-157-130 sudo[1032274]:   ubuntu : PWD=/ ; USER=root ; COMMAND=/usr/bin/bwrap --unshare-net --unshare-pid --unshare-ipc --unshare-uts --die-with-parent --dir /opt --chmod 0755 /opt --dir /etc --chmod 0755 /etc --dir /models --chmod 0755 /models --dir /models/hub --chmod 0755 /models/hub --ro-bind /usr /usr --symlink usr/lib /lib --symlink usr/lib64 /lib64 --symlink usr/bin /bin --symlink usr/sbin /sbin --ro-bind /etc/alternatives /etc/alternatives --ro-bind /etc/ld.so.cache /etc/ld.so.cache --proc /proc --dev /dev --tmpfs /dev/shm --chmod 1777 /dev/shm --ro-bind /sys /sys --tmpfs /tmp --chmod 1777 /tmp --ro-bind /home/ubuntu/nba/.venv /opt/venv --ro-bind /home/ubuntu/nba/handoff/r9e /workspace --bind /home/ubuntu/nba/handoff/r9e/results /workspace/results --ro-bind /home/ubuntu/.cache/huggingface/hub/models--jingang--TabICL /models/hub/models--jingang--TabICL --setenv HF_HOME /models --setenv HF_HUB_OFFLINE 1 --setenv XDG_CACHE_HOME /tmp/cache --setenv R8_WORKERS 4
+Sep 06 21:00:07 209-20-157-130 sudo[1032274]:   ubuntu : (command continued) --setenv R8_SANDBOX 1 --setenv OMP_NUM_THREADS 3 --setenv OPENBLAS_NUM_THREADS 3 --chdir /workspace --dev-bind /dev/nvidia0 /dev/nvidia0 --dev-bind /dev/nvidiactl /dev/nvidiactl --dev-bind /dev/nvidia-uvm /dev/nvidia-uvm --dev-bind /dev/nvidia-uvm-tools /dev/nvidia-uvm-tools /usr/bin/setpriv --reuid=1000 --regid=1000 --clear-groups --no-new-privs --bounding-set=-all /opt/venv/bin/python -u /workspace/research.py
+Sep 06 21:00:07 209-20-157-130 sudo[1032274]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Sep 06 21:00:19 209-20-157-130 run_sandbox.sh[1032280]: {"completed_task": "none_o2_n16_seed0"}
+Sep 06 21:00:20 209-20-157-130 run_sandbox.sh[1032280]: {"completed_task": "drop5_001_seed0"}
+Sep 06 21:00:20 209-20-157-130 run_sandbox.sh[1032280]: {"completed_task": "drop5_001_seed202"}
+Sep 06 21:00:21 209-20-157-130 run_sandbox.sh[1032280]: {"completed_task": "drop5_001_seed101"}
+Sep 06 21:00:22 209-20-157-130 run_sandbox.sh[1032280]: {"completed_task": "none_o2_n16_seed101"}
+Sep 06 21:00:22 209-20-157-130 run_sandbox.sh[1032280]: {"completed_task": "none_o2_n16_seed202"}
+Sep 06 21:00:23 209-20-157-130 run_sandbox.sh[1032280]: {"completed_task": "none_o2_n64_seed0"}
+Sep 06 21:00:23 209-20-157-130 run_sandbox.sh[1032280]: {"completed_task": "none_o2_n64_seed101"}
+Sep 06 21:00:25 209-20-157-130 run_sandbox.sh[1032280]: {"completed_task": "none_o2_n64_seed202"}
+Sep 06 21:00:25 209-20-157-130 run_sandbox.sh[1032280]: {"completed_task": "power_o2_n16_seed0"}
+Sep 06 21:00:26 209-20-157-130 run_sandbox.sh[1032280]: {"completed_task": "power_o2_n16_seed101"}
+Sep 06 21:00:26 209-20-157-130 run_sandbox.sh[1032280]: {"completed_task": "power_o2_n16_seed202"}
+Sep 06 21:00:28 209-20-157-130 run_sandbox.sh[1032280]: {"completed_task": "power_o2_n32_seed0"}
+Sep 06 21:00:29 209-20-157-130 run_sandbox.sh[1032280]: {"completed_task": "power_o2_n32_seed101"}
+Sep 06 21:00:30 209-20-157-130 run_sandbox.sh[1032280]: {"completed_task": "power_o2_n32_seed202"}
+Sep 06 21:00:30 209-20-157-130 run_sandbox.sh[1032280]: {"completed_task": "power_o2_n64_seed0"}
+Sep 06 21:00:35 209-20-157-130 run_sandbox.sh[1032280]: Traceback (most recent call last):
+Sep 06 21:00:35 209-20-157-130 run_sandbox.sh[1032280]:   File "/workspace/research.py", line 76, in <module>
+Sep 06 21:00:35 209-20-157-130 run_sandbox.sh[1032280]:     else:main()
+Sep 06 21:00:35 209-20-157-130 run_sandbox.sh[1032280]:          ^^^^^^
+Sep 06 21:00:35 209-20-157-130 run_sandbox.sh[1032280]:   File "/workspace/research.py", line 65, in main
+Sep 06 21:00:35 209-20-157-130 run_sandbox.sh[1032280]:     result=Q.run_queue(tasks,X.run_variant,[],OUT,validate,X.summarize_matched,pool_factory,workers=4,snapshot_seconds=3.,summary_seconds=20.,registration_hash=hashlib.sha256((ROOT/'frozen.json').read_bytes()).hexdigest(),event=event)
+Sep 06 21:00:35 209-20-157-130 run_sandbox.sh[1032280]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Sep 06 21:00:35 209-20-157-130 run_sandbox.sh[1032280]:   File "/workspace/queue_runtime.py", line 112, in run_queue
+Sep 06 21:00:35 209-20-157-130 run_sandbox.sh[1032280]:     observe('persist_start',task=tid);path,sha=save_immutable(directory,record);append_record(out/'completed.jsonl',tid,path,sha)
+Sep 06 21:00:35 209-20-157-130 run_sandbox.sh[1032280]:                                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Sep 06 21:00:35 209-20-157-130 run_sandbox.sh[1032280]:   File "/workspace/queue_runtime.py", line 26, in save_immutable
+Sep 06 21:00:35 209-20-157-130 run_sandbox.sh[1032280]:     tid=record['task_id'];assert re.fullmatch(r'[A-Za-z0-9_]+',tid)
+Sep 06 21:00:35 209-20-157-130 run_sandbox.sh[1032280]:                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Sep 06 21:00:35 209-20-157-130 run_sandbox.sh[1032280]: AssertionError
+Sep 06 21:00:35 209-20-157-130 sudo[1032274]: pam_unix(sudo:session): session closed for user root

@@ -1,0 +1,62 @@
+{
+  "diagnostic_only": true,
+  "models_fitted": 0,
+  "source_verification_sha256": "86fd88417d9993f8bd82e1f0db4d3bc563587420eb4dc0f903db25a694aacb5d",
+  "source_code_sha256": "49943ae2b3f73074df63c100ab3b5104c6903b1342c9075078ad855a508b3db2",
+  "anchors": [
+    "drop5_001",
+    "none_o0p5_n16"
+  ],
+  "endpoint_records": {
+    "results/tasks/drop5_001_seed0.json": {
+      "sha256": "1af34f6b84bbed9a4b39144b3a92a86c23d2770f3ad4db59bb435b0694cad799",
+      "bytes": 139381
+    },
+    "results/tasks/drop5_001_seed101.json": {
+      "sha256": "df8e46699de35e34823cd155da9ced5d01c1899e3a527da26a7ef743c7d15347",
+      "bytes": 139381
+    },
+    "results/tasks/drop5_001_seed202.json": {
+      "sha256": "a3411867f8f885face0327774b6deec2909d30db32e8e17d0e125dbb8bd382c4",
+      "bytes": 139417
+    },
+    "results/tasks/none_o0p5_n16_seed0.json": {
+      "sha256": "b8e13b1ae33c0ba63b0d8b88497d04bc850761d65cc427bda2d015eae2d0a2c1",
+      "bytes": 139455
+    },
+    "results/tasks/none_o0p5_n16_seed101.json": {
+      "sha256": "1ce1df5821a1c005ed2c432f516c1777d573b4ac566e0a1b44a63a88effb5605",
+      "bytes": 139444
+    },
+    "results/tasks/none_o0p5_n16_seed202.json": {
+      "sha256": "5c64d8dc41537e4a1bd54a693e971f12c835b803dc94f8b28a5917be98f00c08",
+      "bytes": 139437
+    }
+  },
+  "seed_ensemble_source": {
+    "sha256": "3f6d6848bc8925ff49bbe2fac1c0108bdab3b14bddab61ff50cda40cec6eb9b8",
+    "bytes": 7183762
+  },
+  "seeds": [
+    0,
+    101,
+    202
+  ],
+  "alpha_steps": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "alpha": "step/10;0 baseline,1 challenger",
+  "method": "Within each query cohort, average-tied rank/n percentiles; exact doubled-integer ranks combined before division preserve algebraic ties. Same-seed endpoints and fixed equal-three-seed mean endpoints are separate diagnostics.",
+  "endpoint_selection": "Fixed parent-requested completed-development endpoints; no test/confirmation or favorable seed selection.",
+  "no_promotion": true
+}

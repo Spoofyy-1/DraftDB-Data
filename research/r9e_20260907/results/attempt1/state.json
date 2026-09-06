@@ -1,0 +1,416 @@
+{
+  "status": "failed",
+  "completed": 13,
+  "total": 1152,
+  "new_completed": 13,
+  "new_total": 1152,
+  "workers": 4,
+  "elapsed_seconds": 19.814766069990583,
+  "current": "power_o2_n32_seed101 | power_o2_n32_seed202 | power_o2_n64_seed0 | power_o2_n64_seed101",
+  "candidates": [
+    {
+      "task_id": "none_o2_n16_seed0",
+      "seed": 0,
+      "config": {
+        "id": "none_o2_n16",
+        "kind": "target_settings",
+        "norm_methods": "none",
+        "outlier_threshold": 2,
+        "n_estimators": 16,
+        "target_transform": "identity"
+      },
+      "score": 0.3903460411881466,
+      "seconds": 9.25,
+      "rows": [
+        {
+          "season": 2012,
+          "stack": 0.36984794104034396
+        },
+        {
+          "season": 2013,
+          "stack": 0.3493275797180969
+        },
+        {
+          "season": 2014,
+          "stack": 0.451862602805999
+        }
+      ]
+    },
+    {
+      "task_id": "drop5_001_seed0",
+      "seed": 0,
+      "config": {
+        "id": "drop5_001",
+        "kind": "target_settings",
+        "norm_methods": "none",
+        "outlier_threshold": 2,
+        "n_estimators": 32,
+        "target_transform": "identity"
+      },
+      "score": 0.39020239787357297,
+      "seconds": 9.74,
+      "rows": [
+        {
+          "season": 2012,
+          "stack": 0.3601075056052198
+        },
+        {
+          "season": 2013,
+          "stack": 0.3575888671801501
+        },
+        {
+          "season": 2014,
+          "stack": 0.45291082083534906
+        }
+      ]
+    },
+    {
+      "task_id": "drop5_001_seed202",
+      "seed": 202,
+      "config": {
+        "id": "drop5_001",
+        "kind": "target_settings",
+        "norm_methods": "none",
+        "outlier_threshold": 2,
+        "n_estimators": 32,
+        "target_transform": "identity"
+      },
+      "score": 0.38844612901053227,
+      "seconds": 10.15,
+      "rows": [
+        {
+          "season": 2012,
+          "stack": 0.35585057456320257
+        },
+        {
+          "season": 2013,
+          "stack": 0.3548030841987601
+        },
+        {
+          "season": 2014,
+          "stack": 0.4546847282696339
+        }
+      ]
+    },
+    {
+      "task_id": "drop5_001_seed101",
+      "seed": 101,
+      "config": {
+        "id": "drop5_001",
+        "kind": "target_settings",
+        "norm_methods": "none",
+        "outlier_threshold": 2,
+        "n_estimators": 32,
+        "target_transform": "identity"
+      },
+      "score": 0.3924961837336253,
+      "seconds": 10.56,
+      "rows": [
+        {
+          "season": 2012,
+          "stack": 0.3572214506614793
+        },
+        {
+          "season": 2013,
+          "stack": 0.36719501539183985
+        },
+        {
+          "season": 2014,
+          "stack": 0.4530720851475568
+        }
+      ]
+    },
+    {
+      "task_id": "none_o2_n16_seed101",
+      "seed": 101,
+      "config": {
+        "id": "none_o2_n16",
+        "kind": "target_settings",
+        "norm_methods": "none",
+        "outlier_threshold": 2,
+        "n_estimators": 16,
+        "target_transform": "identity"
+      },
+      "score": 0.3970918210229187,
+      "seconds": 2.33,
+      "rows": [
+        {
+          "season": 2012,
+          "stack": 0.36905427593081536
+        },
+        {
+          "season": 2013,
+          "stack": 0.3668107694633722
+        },
+        {
+          "season": 2014,
+          "stack": 0.45541041767456863
+        }
+      ]
+    },
+    {
+      "task_id": "none_o2_n16_seed202",
+      "seed": 202,
+      "config": {
+        "id": "none_o2_n16",
+        "kind": "target_settings",
+        "norm_methods": "none",
+        "outlier_threshold": 2,
+        "n_estimators": 16,
+        "target_transform": "identity"
+      },
+      "score": 0.38449360715161984,
+      "seconds": 2.36,
+      "rows": [
+        {
+          "season": 2012,
+          "stack": 0.3640036797792695
+        },
+        {
+          "season": 2013,
+          "stack": 0.3411623537381607
+        },
+        {
+          "season": 2014,
+          "stack": 0.4483147879374294
+        }
+      ]
+    },
+    {
+      "task_id": "none_o2_n64_seed0",
+      "seed": 0,
+      "config": {
+        "id": "none_o2_n64",
+        "kind": "target_settings",
+        "norm_methods": "none",
+        "outlier_threshold": 2,
+        "n_estimators": 64,
+        "target_transform": "identity"
+      },
+      "score": 0.38973633237242816,
+      "seconds": 2.78,
+      "rows": [
+        {
+          "season": 2012,
+          "stack": 0.36422013390005004
+        },
+        {
+          "season": 2013,
+          "stack": 0.34586936636188864
+        },
+        {
+          "season": 2014,
+          "stack": 0.45911949685534587
+        }
+      ]
+    },
+    {
+      "task_id": "none_o2_n64_seed101",
+      "seed": 101,
+      "config": {
+        "id": "none_o2_n64",
+        "kind": "target_settings",
+        "norm_methods": "none",
+        "outlier_threshold": 2,
+        "n_estimators": 64,
+        "target_transform": "identity"
+      },
+      "score": 0.38615965952308384,
+      "seconds": 2.85,
+      "rows": [
+        {
+          "season": 2012,
+          "stack": 0.35289236824586856
+        },
+        {
+          "season": 2013,
+          "stack": 0.3546109612345263
+        },
+        {
+          "season": 2014,
+          "stack": 0.45097564908885657
+        }
+      ]
+    },
+    {
+      "task_id": "none_o2_n64_seed202",
+      "seed": 202,
+      "config": {
+        "id": "none_o2_n64",
+        "kind": "target_settings",
+        "norm_methods": "none",
+        "outlier_threshold": 2,
+        "n_estimators": 64,
+        "target_transform": "identity"
+      },
+      "score": 0.3874007529144019,
+      "seconds": 2.99,
+      "rows": [
+        {
+          "season": 2012,
+          "stack": 0.35563412044242204
+        },
+        {
+          "season": 2013,
+          "stack": 0.3526897315921883
+        },
+        {
+          "season": 2014,
+          "stack": 0.4538784067085953
+        }
+      ]
+    },
+    {
+      "task_id": "power_o2_n16_seed0",
+      "seed": 0,
+      "config": {
+        "id": "power_o2_n16",
+        "kind": "target_settings",
+        "norm_methods": "power",
+        "outlier_threshold": 2,
+        "n_estimators": 16,
+        "target_transform": "identity"
+      },
+      "score": 0.37357749042816285,
+      "seconds": 3.03,
+      "rows": [
+        {
+          "season": 2012,
+          "stack": 0.34654304736963953
+        },
+        {
+          "season": 2013,
+          "stack": 0.327809807723912
+        },
+        {
+          "season": 2014,
+          "stack": 0.4463796161909369
+        }
+      ]
+    },
+    {
+      "task_id": "power_o2_n16_seed101",
+      "seed": 101,
+      "config": {
+        "id": "power_o2_n16",
+        "kind": "target_settings",
+        "norm_methods": "power",
+        "outlier_threshold": 2,
+        "n_estimators": 16,
+        "target_transform": "identity"
+      },
+      "score": 0.38046992997238865,
+      "seconds": 2.88,
+      "rows": [
+        {
+          "season": 2012,
+          "stack": 0.3589530836277236
+        },
+        {
+          "season": 2013,
+          "stack": 0.32857829958084717
+        },
+        {
+          "season": 2014,
+          "stack": 0.4538784067085953
+        }
+      ]
+    },
+    {
+      "task_id": "power_o2_n16_seed202",
+      "seed": 202,
+      "config": {
+        "id": "power_o2_n16",
+        "kind": "target_settings",
+        "norm_methods": "power",
+        "outlier_threshold": 2,
+        "n_estimators": 16,
+        "target_transform": "identity"
+      },
+      "score": 0.37208100048798354,
+      "seconds": 2.49,
+      "rows": [
+        {
+          "season": 2012,
+          "stack": 0.3463987446224525
+        },
+        {
+          "season": 2013,
+          "stack": 0.32435159436770367
+        },
+        {
+          "season": 2014,
+          "stack": 0.44549266247379454
+        }
+      ]
+    },
+    {
+      "task_id": "power_o2_n32_seed0",
+      "seed": 0,
+      "config": {
+        "id": "power_o2_n32",
+        "kind": "target_settings",
+        "norm_methods": "power",
+        "outlier_threshold": 2,
+        "n_estimators": 32,
+        "target_transform": "identity"
+      },
+      "score": 0.375958784863119,
+      "seconds": 3.76,
+      "rows": [
+        {
+          "season": 2012,
+          "stack": 0.35036707017009566
+        },
+        {
+          "season": 2013,
+          "stack": 0.325888578081574
+        },
+        {
+          "season": 2014,
+          "stack": 0.4516207063376874
+        }
+      ]
+    }
+  ],
+  "matched_summary": {
+    "completed_tasks": 0,
+    "expected_tasks": 1152,
+    "reference_replays_passed": 0,
+    "reference_replays_pending": [
+      "drop5_001_seed0",
+      "drop5_001_seed101",
+      "drop5_001_seed202",
+      "none_o2_n16_seed0",
+      "none_o2_n16_seed101",
+      "none_o2_n16_seed202",
+      "none_o2_n64_seed0",
+      "none_o2_n64_seed101",
+      "none_o2_n64_seed202",
+      "power_o2_n16_seed0",
+      "power_o2_n16_seed101",
+      "power_o2_n16_seed202",
+      "power_o2_n32_seed0",
+      "power_o2_n32_seed101",
+      "power_o2_n32_seed202",
+      "power_o2_n64_seed0",
+      "power_o2_n64_seed101",
+      "power_o2_n64_seed202"
+    ],
+    "interpretation_allowed": false,
+    "diagnostic_only": true,
+    "automatic_promotion": false,
+    "metric": "Pre2019 mean fold Spearman, not classification accuracy",
+    "configurations": []
+  },
+  "raw_output_location": "tasks/*.json; initial records remain in the frozen reference artifact",
+  "registration_hash": "7787cb6fccdc8998087777a5dfd9f13019104e936874df1a9fd87dfe53b6fa0c",
+  "phase": "R9e registered training-target and model settings",
+  "started": 1788728409.080737,
+  "updated": 1788728435.1695487,
+  "confirmation": null,
+  "test_result": null,
+  "best": null,
+  "active_workers": 0,
+  "error": "AssertionError()"
+}

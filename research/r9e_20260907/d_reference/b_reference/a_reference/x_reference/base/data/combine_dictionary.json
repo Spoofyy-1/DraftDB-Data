@@ -1,0 +1,420 @@
+{
+  "vcmb_height_without_shoes_in": {
+    "kind": "official combine measurement",
+    "source_fields": [
+      "HEIGHT_WO_SHOES"
+    ],
+    "unit": "inches",
+    "transform": "numeric parse only; no imputation",
+    "positive_required": true,
+    "experiment_family": "anthropometry"
+  },
+  "vcmb_height_with_shoes_in": {
+    "kind": "official combine measurement",
+    "source_fields": [
+      "HEIGHT_W_SHOES"
+    ],
+    "unit": "inches",
+    "transform": "numeric parse only; no imputation",
+    "positive_required": true,
+    "experiment_family": "anthropometry"
+  },
+  "vcmb_weight_lb": {
+    "kind": "official combine measurement",
+    "source_fields": [
+      "WEIGHT"
+    ],
+    "unit": "pounds",
+    "transform": "numeric parse only; no imputation",
+    "positive_required": true,
+    "experiment_family": "anthropometry"
+  },
+  "vcmb_wingspan_in": {
+    "kind": "official combine measurement",
+    "source_fields": [
+      "WINGSPAN"
+    ],
+    "unit": "inches",
+    "transform": "numeric parse only; no imputation",
+    "positive_required": true,
+    "experiment_family": "anthropometry"
+  },
+  "vcmb_standing_reach_in": {
+    "kind": "official combine measurement",
+    "source_fields": [
+      "STANDING_REACH"
+    ],
+    "unit": "inches",
+    "transform": "numeric parse only; no imputation",
+    "positive_required": true,
+    "experiment_family": "anthropometry"
+  },
+  "vcmb_body_fat_pct": {
+    "kind": "official combine measurement",
+    "source_fields": [
+      "BODY_FAT_PCT"
+    ],
+    "unit": "percentage points",
+    "transform": "numeric parse only; no imputation",
+    "positive_required": false,
+    "experiment_family": "anthropometry"
+  },
+  "vcmb_hand_length_in": {
+    "kind": "official combine measurement",
+    "source_fields": [
+      "HAND_LENGTH"
+    ],
+    "unit": "inches",
+    "transform": "numeric parse only; no imputation",
+    "positive_required": true,
+    "experiment_family": "anthropometry"
+  },
+  "vcmb_hand_width_in": {
+    "kind": "official combine measurement",
+    "source_fields": [
+      "HAND_WIDTH"
+    ],
+    "unit": "inches",
+    "transform": "numeric parse only; no imputation",
+    "positive_required": true,
+    "experiment_family": "anthropometry"
+  },
+  "vcmb_standing_vertical_in": {
+    "kind": "official combine measurement",
+    "source_fields": [
+      "STANDING_VERTICAL_LEAP"
+    ],
+    "unit": "inches",
+    "transform": "numeric parse only; no imputation",
+    "positive_required": false,
+    "experiment_family": "athletics"
+  },
+  "vcmb_max_vertical_in": {
+    "kind": "official combine measurement",
+    "source_fields": [
+      "MAX_VERTICAL_LEAP"
+    ],
+    "unit": "inches",
+    "transform": "numeric parse only; no imputation",
+    "positive_required": false,
+    "experiment_family": "athletics"
+  },
+  "vcmb_lane_agility_s": {
+    "kind": "official combine measurement",
+    "source_fields": [
+      "LANE_AGILITY_TIME"
+    ],
+    "unit": "seconds",
+    "transform": "numeric parse only; no imputation",
+    "positive_required": true,
+    "experiment_family": "athletics"
+  },
+  "vcmb_modified_lane_agility_s": {
+    "kind": "official combine measurement",
+    "source_fields": [
+      "MODIFIED_LANE_AGILITY_TIME"
+    ],
+    "unit": "seconds",
+    "transform": "numeric parse only; no imputation",
+    "positive_required": true,
+    "experiment_family": "athletics"
+  },
+  "vcmb_three_quarter_sprint_s": {
+    "kind": "official combine measurement",
+    "source_fields": [
+      "THREE_QUARTER_SPRINT"
+    ],
+    "unit": "seconds",
+    "transform": "numeric parse only; no imputation",
+    "positive_required": true,
+    "experiment_family": "athletics"
+  },
+  "vcmb_bench_press_reps": {
+    "kind": "official combine measurement",
+    "source_fields": [
+      "BENCH_PRESS"
+    ],
+    "unit": "repetitions",
+    "transform": "numeric parse only; no imputation",
+    "positive_required": false,
+    "experiment_family": "athletics"
+  },
+  "vcmb_bmi_kg_m2": {
+    "kind": "within-row derived measurement",
+    "source_fields": [
+      "WEIGHT",
+      "HEIGHT_WO_SHOES"
+    ],
+    "unit": "kg/m^2",
+    "transform": "(weight_lb * 0.45359237) / (height_without_shoes_in * 0.0254)^2; both required",
+    "experiment_family": "anthropometry"
+  },
+  "vcmb_wingspan_minus_height_in": {
+    "kind": "within-row derived measurement",
+    "source_fields": [
+      "WINGSPAN",
+      "HEIGHT_WO_SHOES"
+    ],
+    "unit": "inches",
+    "transform": "wingspan minus height without shoes; both required",
+    "experiment_family": "anthropometry"
+  },
+  "vcmb_spot_15ft_made": {
+    "kind": "official combine shooting drill",
+    "source_fields": [
+      "SPOT_FIFTEEN_CORNER_LEFT",
+      "SPOT_FIFTEEN_BREAK_LEFT",
+      "SPOT_FIFTEEN_TOP_KEY",
+      "SPOT_FIFTEEN_BREAK_RIGHT",
+      "SPOT_FIFTEEN_CORNER_RIGHT"
+    ],
+    "unit": "shots made",
+    "transform": "All 5 named source stations must parse as made-attempted; sum made or total made / total attempted",
+    "missing_rule": "Any missing/malformed station makes the aggregate NaN; zero attempts yield NaN percentage",
+    "experiment_family": "shooting"
+  },
+  "vcmb_spot_15ft_attempted": {
+    "kind": "official combine shooting drill",
+    "source_fields": [
+      "SPOT_FIFTEEN_CORNER_LEFT",
+      "SPOT_FIFTEEN_BREAK_LEFT",
+      "SPOT_FIFTEEN_TOP_KEY",
+      "SPOT_FIFTEEN_BREAK_RIGHT",
+      "SPOT_FIFTEEN_CORNER_RIGHT"
+    ],
+    "unit": "shots attempted",
+    "transform": "All 5 named source stations must parse as made-attempted; sum attempted or total made / total attempted",
+    "missing_rule": "Any missing/malformed station makes the aggregate NaN; zero attempts yield NaN percentage",
+    "experiment_family": "shooting"
+  },
+  "vcmb_spot_15ft_pct": {
+    "kind": "official combine shooting drill",
+    "source_fields": [
+      "SPOT_FIFTEEN_CORNER_LEFT",
+      "SPOT_FIFTEEN_BREAK_LEFT",
+      "SPOT_FIFTEEN_TOP_KEY",
+      "SPOT_FIFTEEN_BREAK_RIGHT",
+      "SPOT_FIFTEEN_CORNER_RIGHT"
+    ],
+    "unit": "fraction 0 to 1",
+    "transform": "All 5 named source stations must parse as made-attempted; sum pct or total made / total attempted",
+    "missing_rule": "Any missing/malformed station makes the aggregate NaN; zero attempts yield NaN percentage",
+    "experiment_family": "shooting"
+  },
+  "vcmb_spot_college3_made": {
+    "kind": "official combine shooting drill",
+    "source_fields": [
+      "SPOT_COLLEGE_CORNER_LEFT",
+      "SPOT_COLLEGE_BREAK_LEFT",
+      "SPOT_COLLEGE_TOP_KEY",
+      "SPOT_COLLEGE_BREAK_RIGHT",
+      "SPOT_COLLEGE_CORNER_RIGHT"
+    ],
+    "unit": "shots made",
+    "transform": "All 5 named source stations must parse as made-attempted; sum made or total made / total attempted",
+    "missing_rule": "Any missing/malformed station makes the aggregate NaN; zero attempts yield NaN percentage",
+    "experiment_family": "shooting"
+  },
+  "vcmb_spot_college3_attempted": {
+    "kind": "official combine shooting drill",
+    "source_fields": [
+      "SPOT_COLLEGE_CORNER_LEFT",
+      "SPOT_COLLEGE_BREAK_LEFT",
+      "SPOT_COLLEGE_TOP_KEY",
+      "SPOT_COLLEGE_BREAK_RIGHT",
+      "SPOT_COLLEGE_CORNER_RIGHT"
+    ],
+    "unit": "shots attempted",
+    "transform": "All 5 named source stations must parse as made-attempted; sum attempted or total made / total attempted",
+    "missing_rule": "Any missing/malformed station makes the aggregate NaN; zero attempts yield NaN percentage",
+    "experiment_family": "shooting"
+  },
+  "vcmb_spot_college3_pct": {
+    "kind": "official combine shooting drill",
+    "source_fields": [
+      "SPOT_COLLEGE_CORNER_LEFT",
+      "SPOT_COLLEGE_BREAK_LEFT",
+      "SPOT_COLLEGE_TOP_KEY",
+      "SPOT_COLLEGE_BREAK_RIGHT",
+      "SPOT_COLLEGE_CORNER_RIGHT"
+    ],
+    "unit": "fraction 0 to 1",
+    "transform": "All 5 named source stations must parse as made-attempted; sum pct or total made / total attempted",
+    "missing_rule": "Any missing/malformed station makes the aggregate NaN; zero attempts yield NaN percentage",
+    "experiment_family": "shooting"
+  },
+  "vcmb_spot_nba3_made": {
+    "kind": "official combine shooting drill",
+    "source_fields": [
+      "SPOT_NBA_CORNER_LEFT",
+      "SPOT_NBA_BREAK_LEFT",
+      "SPOT_NBA_TOP_KEY",
+      "SPOT_NBA_BREAK_RIGHT",
+      "SPOT_NBA_CORNER_RIGHT"
+    ],
+    "unit": "shots made",
+    "transform": "All 5 named source stations must parse as made-attempted; sum made or total made / total attempted",
+    "missing_rule": "Any missing/malformed station makes the aggregate NaN; zero attempts yield NaN percentage",
+    "experiment_family": "shooting"
+  },
+  "vcmb_spot_nba3_attempted": {
+    "kind": "official combine shooting drill",
+    "source_fields": [
+      "SPOT_NBA_CORNER_LEFT",
+      "SPOT_NBA_BREAK_LEFT",
+      "SPOT_NBA_TOP_KEY",
+      "SPOT_NBA_BREAK_RIGHT",
+      "SPOT_NBA_CORNER_RIGHT"
+    ],
+    "unit": "shots attempted",
+    "transform": "All 5 named source stations must parse as made-attempted; sum attempted or total made / total attempted",
+    "missing_rule": "Any missing/malformed station makes the aggregate NaN; zero attempts yield NaN percentage",
+    "experiment_family": "shooting"
+  },
+  "vcmb_spot_nba3_pct": {
+    "kind": "official combine shooting drill",
+    "source_fields": [
+      "SPOT_NBA_CORNER_LEFT",
+      "SPOT_NBA_BREAK_LEFT",
+      "SPOT_NBA_TOP_KEY",
+      "SPOT_NBA_BREAK_RIGHT",
+      "SPOT_NBA_CORNER_RIGHT"
+    ],
+    "unit": "fraction 0 to 1",
+    "transform": "All 5 named source stations must parse as made-attempted; sum pct or total made / total attempted",
+    "missing_rule": "Any missing/malformed station makes the aggregate NaN; zero attempts yield NaN percentage",
+    "experiment_family": "shooting"
+  },
+  "vcmb_off_dribble_15ft_made": {
+    "kind": "official combine shooting drill",
+    "source_fields": [
+      "OFF_DRIB_FIFTEEN_BREAK_LEFT",
+      "OFF_DRIB_FIFTEEN_TOP_KEY",
+      "OFF_DRIB_FIFTEEN_BREAK_RIGHT"
+    ],
+    "unit": "shots made",
+    "transform": "All 3 named source stations must parse as made-attempted; sum made or total made / total attempted",
+    "missing_rule": "Any missing/malformed station makes the aggregate NaN; zero attempts yield NaN percentage",
+    "experiment_family": "shooting"
+  },
+  "vcmb_off_dribble_15ft_attempted": {
+    "kind": "official combine shooting drill",
+    "source_fields": [
+      "OFF_DRIB_FIFTEEN_BREAK_LEFT",
+      "OFF_DRIB_FIFTEEN_TOP_KEY",
+      "OFF_DRIB_FIFTEEN_BREAK_RIGHT"
+    ],
+    "unit": "shots attempted",
+    "transform": "All 3 named source stations must parse as made-attempted; sum attempted or total made / total attempted",
+    "missing_rule": "Any missing/malformed station makes the aggregate NaN; zero attempts yield NaN percentage",
+    "experiment_family": "shooting"
+  },
+  "vcmb_off_dribble_15ft_pct": {
+    "kind": "official combine shooting drill",
+    "source_fields": [
+      "OFF_DRIB_FIFTEEN_BREAK_LEFT",
+      "OFF_DRIB_FIFTEEN_TOP_KEY",
+      "OFF_DRIB_FIFTEEN_BREAK_RIGHT"
+    ],
+    "unit": "fraction 0 to 1",
+    "transform": "All 3 named source stations must parse as made-attempted; sum pct or total made / total attempted",
+    "missing_rule": "Any missing/malformed station makes the aggregate NaN; zero attempts yield NaN percentage",
+    "experiment_family": "shooting"
+  },
+  "vcmb_off_dribble_college3_made": {
+    "kind": "official combine shooting drill",
+    "source_fields": [
+      "OFF_DRIB_COLLEGE_BREAK_LEFT",
+      "OFF_DRIB_COLLEGE_TOP_KEY",
+      "OFF_DRIB_COLLEGE_BREAK_RIGHT"
+    ],
+    "unit": "shots made",
+    "transform": "All 3 named source stations must parse as made-attempted; sum made or total made / total attempted",
+    "missing_rule": "Any missing/malformed station makes the aggregate NaN; zero attempts yield NaN percentage",
+    "experiment_family": "shooting"
+  },
+  "vcmb_off_dribble_college3_attempted": {
+    "kind": "official combine shooting drill",
+    "source_fields": [
+      "OFF_DRIB_COLLEGE_BREAK_LEFT",
+      "OFF_DRIB_COLLEGE_TOP_KEY",
+      "OFF_DRIB_COLLEGE_BREAK_RIGHT"
+    ],
+    "unit": "shots attempted",
+    "transform": "All 3 named source stations must parse as made-attempted; sum attempted or total made / total attempted",
+    "missing_rule": "Any missing/malformed station makes the aggregate NaN; zero attempts yield NaN percentage",
+    "experiment_family": "shooting"
+  },
+  "vcmb_off_dribble_college3_pct": {
+    "kind": "official combine shooting drill",
+    "source_fields": [
+      "OFF_DRIB_COLLEGE_BREAK_LEFT",
+      "OFF_DRIB_COLLEGE_TOP_KEY",
+      "OFF_DRIB_COLLEGE_BREAK_RIGHT"
+    ],
+    "unit": "fraction 0 to 1",
+    "transform": "All 3 named source stations must parse as made-attempted; sum pct or total made / total attempted",
+    "missing_rule": "Any missing/malformed station makes the aggregate NaN; zero attempts yield NaN percentage",
+    "experiment_family": "shooting"
+  },
+  "vcmb_on_move_15ft_made": {
+    "kind": "official combine shooting drill",
+    "source_fields": [
+      "ON_MOVE_FIFTEEN"
+    ],
+    "unit": "shots made",
+    "transform": "All 1 named source stations must parse as made-attempted; sum made or total made / total attempted",
+    "missing_rule": "Any missing/malformed station makes the aggregate NaN; zero attempts yield NaN percentage",
+    "experiment_family": "shooting"
+  },
+  "vcmb_on_move_15ft_attempted": {
+    "kind": "official combine shooting drill",
+    "source_fields": [
+      "ON_MOVE_FIFTEEN"
+    ],
+    "unit": "shots attempted",
+    "transform": "All 1 named source stations must parse as made-attempted; sum attempted or total made / total attempted",
+    "missing_rule": "Any missing/malformed station makes the aggregate NaN; zero attempts yield NaN percentage",
+    "experiment_family": "shooting"
+  },
+  "vcmb_on_move_15ft_pct": {
+    "kind": "official combine shooting drill",
+    "source_fields": [
+      "ON_MOVE_FIFTEEN"
+    ],
+    "unit": "fraction 0 to 1",
+    "transform": "All 1 named source stations must parse as made-attempted; sum pct or total made / total attempted",
+    "missing_rule": "Any missing/malformed station makes the aggregate NaN; zero attempts yield NaN percentage",
+    "experiment_family": "shooting"
+  },
+  "vcmb_on_move_college3_made": {
+    "kind": "official combine shooting drill",
+    "source_fields": [
+      "ON_MOVE_COLLEGE"
+    ],
+    "unit": "shots made",
+    "transform": "All 1 named source stations must parse as made-attempted; sum made or total made / total attempted",
+    "missing_rule": "Any missing/malformed station makes the aggregate NaN; zero attempts yield NaN percentage",
+    "experiment_family": "shooting"
+  },
+  "vcmb_on_move_college3_attempted": {
+    "kind": "official combine shooting drill",
+    "source_fields": [
+      "ON_MOVE_COLLEGE"
+    ],
+    "unit": "shots attempted",
+    "transform": "All 1 named source stations must parse as made-attempted; sum attempted or total made / total attempted",
+    "missing_rule": "Any missing/malformed station makes the aggregate NaN; zero attempts yield NaN percentage",
+    "experiment_family": "shooting"
+  },
+  "vcmb_on_move_college3_pct": {
+    "kind": "official combine shooting drill",
+    "source_fields": [
+      "ON_MOVE_COLLEGE"
+    ],
+    "unit": "fraction 0 to 1",
+    "transform": "All 1 named source stations must parse as made-attempted; sum pct or total made / total attempted",
+    "missing_rule": "Any missing/malformed station makes the aggregate NaN; zero attempts yield NaN percentage",
+    "experiment_family": "shooting"
+  }
+}

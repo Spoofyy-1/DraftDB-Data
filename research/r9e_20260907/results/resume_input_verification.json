@@ -1,0 +1,72 @@
+{
+  "immutable_records_retained": {
+    "none_o2_n16_seed101": {
+      "sha256": "c87fd4938bd5bde950511b01f44da9c889d3a927b32df85d5aca5c3f01279842",
+      "bytes": 139389
+    },
+    "none_o2_n64_seed101": {
+      "sha256": "467c9cde9a76e16a2a770e7fb88c6a96415a2b2b1a2483835af470ea790e7464",
+      "bytes": 139410
+    },
+    "none_o2_n16_seed0": {
+      "sha256": "55421d881d589542d4e5e218ee1f238f208a4706fd7fe7d481b294d4a40cf057",
+      "bytes": 139401
+    },
+    "power_o2_n16_seed101": {
+      "sha256": "603669742ecd0d095ce2face04fda5cb6e53d9b84b5515471626f115f6721ea2",
+      "bytes": 139420
+    },
+    "power_o2_n16_seed0": {
+      "sha256": "368fc2dafdc36c13c7cf7e28fbed9d67aa867982f00b7bad20c855b304a89501",
+      "bytes": 139404
+    },
+    "power_o2_n64_seed0": {
+      "sha256": "420626856517df53767f90aad5d0058d19d2a712c79d077821af7d73ed5c3732",
+      "bytes": 139396
+    },
+    "drop5_001_seed202": {
+      "sha256": "a3411867f8f885face0327774b6deec2909d30db32e8e17d0e125dbb8bd382c4",
+      "bytes": 139417
+    },
+    "power_o2_n32_seed101": {
+      "sha256": "cf2c5bcdfaea96297b57b945debe412137a2d4b1893e033e5d6cf33d66663a1d",
+      "bytes": 139417
+    },
+    "drop5_001_seed0": {
+      "sha256": "1af34f6b84bbed9a4b39144b3a92a86c23d2770f3ad4db59bb435b0694cad799",
+      "bytes": 139381
+    },
+    "power_o2_n32_seed202": {
+      "sha256": "2dc7ff97747daa47fae8d3d3a3e1c5015b688c7b9fe33209e003f7ed903a234c",
+      "bytes": 139393
+    },
+    "power_o2_n16_seed202": {
+      "sha256": "67aecf7841e5255b5ee2d04c8123966d4fd9036aa8dfe827783495b4a4d1886b",
+      "bytes": 139420
+    },
+    "none_o2_n64_seed0": {
+      "sha256": "176d22193a89d5f1c68718f4018f1361b253a7687c39d9b97f4b4b5f9856b4f5",
+      "bytes": 139398
+    },
+    "power_o2_n32_seed0": {
+      "sha256": "eff78c030e8f033a25e9dda5c01ef3fc2fc3feec99ba0000bc4b21d43fe27225",
+      "bytes": 139400
+    },
+    "none_o2_n64_seed202": {
+      "sha256": "7a96f54b680ffdd23e5d932ed4108ac4d9e1ca08b3ca5402c8dfcb11325d9cc2",
+      "bytes": 139401
+    },
+    "none_o2_n16_seed202": {
+      "sha256": "aea6b7118eb1001c8fea27df85c659be904ed9d538c16aafe9e55c0f000bb299",
+      "bytes": 139416
+    },
+    "drop5_001_seed101": {
+      "sha256": "df8e46699de35e34823cd155da9ced5d01c1899e3a527da26a7ef743c7d15347",
+      "bytes": 139381
+    }
+  },
+  "count": 16,
+  "append_log_all_hashes_match": true,
+  "no_record_or_prediction_changed": true,
+  "original_frozen_sha256": "7787cb6fccdc8998087777a5dfd9f13019104e936874df1a9fd87dfe53b6fa0c"
+}

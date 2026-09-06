@@ -1,0 +1,19 @@
+{
+  "unit": "draftdb-r9e-20260907",
+  "invocation": "8170aaed4cd2432cb5d5bed58139cc86",
+  "observed_utc": "2026-09-06T21:01:24.279596+00:00",
+  "systemd": "RuntimeMaxUSec=2h\nCPUQuotaPerSecUSec=22s\nMemoryMax=150323855360\nActiveState=failed\nSubState=failed\nInvocationID=8170aaed4cd2432cb5d5bed58139cc86\n",
+  "status": "failed",
+  "completed": 13,
+  "total": 1152,
+  "error": "AssertionError()",
+  "active_workers": 0,
+  "reference_replays_passed": 0,
+  "interpretation_allowed": false,
+  "gpu": "0 %, 0 MiB\n",
+  "frozen_files": 61,
+  "frozen_sha256": "7787cb6fccdc8998087777a5dfd9f13019104e936874df1a9fd87dfe53b6fa0c",
+  "requested_configurations": 432,
+  "invalid_configurations_excluded_before_fitting": 48,
+  "valid_configurations": 384
+}

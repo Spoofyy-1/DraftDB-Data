@@ -1,0 +1,22 @@
+{
+  "unit": "draftdb-r9e-20260907b",
+  "invocation": "f58802170bce4694bd12b9d1bb050b20",
+  "observed_utc": "2026-09-06T21:14:09.706692+00:00",
+  "systemd": "RuntimeMaxUSec=2h\nCPUQuotaPerSecUSec=22s\nMemoryMax=150323855360\nActiveState=active\nSubState=running\nInvocationID=f58802170bce4694bd12b9d1bb050b20\n",
+  "status": "running",
+  "completed": 107,
+  "total": 1152,
+  "error": null,
+  "active_workers": 4,
+  "reference_replays_passed": 18,
+  "interpretation_allowed": true,
+  "gpu": "70 %, 10230 MiB\n",
+  "frozen_files": 71,
+  "frozen_sha256": "7b9a43ec3148f5cfb5fa3b018b5c4f77b841a85cc7475261e1c48b58f301c34c",
+  "requested_configurations": 432,
+  "invalid_configurations_excluded_before_fitting": 48,
+  "valid_configurations": 384,
+  "immutable_reference_records_reused": 16,
+  "failed_attempt_preserved": "results/attempt1 and attempt1_registration",
+  "scientific_settings_and_CPU_payloads_unchanged_by_ID_amendment": true
+}

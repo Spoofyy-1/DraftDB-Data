@@ -1,0 +1,137 @@
+{
+  "status": "verified historical source facts; not model or benchmark certification",
+  "features": [
+    "vmb_age_reported_years",
+    "vmb_listed_height_in",
+    "vmb_listed_weight_lb",
+    "vmb_listed_bmi",
+    "vmb_college_class_year",
+    "vmb_position_pg",
+    "vmb_position_sg",
+    "vmb_position_sf",
+    "vmb_position_pf",
+    "vmb_position_c"
+  ],
+  "players": 374,
+  "sources": [
+    {
+      "publisher": "dx",
+      "draft_year": 2007,
+      "archive_url": "https://web.archive.org/web/20070626205451id_/http://www.draftexpress.com:80/mymock.php?page=official&year=2007",
+      "source_available_by_utc": "2007-06-26T20:54:51+00:00",
+      "draft_date": "2007-06-28",
+      "table_sha256": "48a87a8ae9ce0dcaa00c869ac63976fd4c4a3d0261235746fdab8b0124355e62",
+      "html_sha256": "1d22efbbfb02688d93898565e312343a3c01a3d47a05210fe34ab269244ffd60",
+      "source_last_updated_date": "2007-06-22"
+    },
+    {
+      "publisher": "dx",
+      "draft_year": 2008,
+      "archive_url": "https://web.archive.org/web/20080509165425id_/http://www.draftexpress.com/nba-mock-draft/2008/",
+      "source_available_by_utc": "2008-05-09T16:54:25+00:00",
+      "draft_date": "2008-06-26",
+      "table_sha256": "1332912153990de8960f536d2fb11bcb150fb83a3cf3f4ea0438c7f9be730104",
+      "html_sha256": "8cf72944963bfcdc444984fd04d9cc44871da3f1ba422925f1f2d38b369c299f",
+      "source_last_updated_date": "2008-05-06"
+    },
+    {
+      "publisher": "dx",
+      "draft_year": 2009,
+      "archive_url": "https://web.archive.org/web/20090228193434id_/http://www.draftexpress.com:80/nba-mock-draft/2009",
+      "source_available_by_utc": "2009-02-28T19:34:34+00:00",
+      "draft_date": "2009-06-25",
+      "table_sha256": "9819df711d1760e6d7f94b2cc3bdb529d71fa63551de59976cc514ab04bae11c",
+      "html_sha256": "162908eb1d70c12090849d51ff7df351d4b5857b70f540f5412453daf996dd3c",
+      "source_last_updated_date": "2009-02-26"
+    },
+    {
+      "publisher": "dx",
+      "draft_year": 2010,
+      "archive_url": "https://web.archive.org/web/20100622100523id_/http://www.draftexpress.com/nba-mock-draft/2010/",
+      "source_available_by_utc": "2010-06-22T10:05:23+00:00",
+      "draft_date": "2010-06-24",
+      "table_sha256": "c1fded57ca45626605cb862b42626b4e26de7a72f646544bda454a54c04e761c",
+      "html_sha256": "800b71119705395aa3ad89b178b736c4c787eba3b8f57be35396f2803d819513",
+      "source_last_updated_date": "2010-06-21"
+    },
+    {
+      "publisher": "dx",
+      "draft_year": 2011,
+      "archive_url": "https://web.archive.org/web/20110622223842id_/http://www.draftexpress.com/nba-mock-draft/2011/",
+      "source_available_by_utc": "2011-06-22T22:38:42+00:00",
+      "draft_date": "2011-06-23",
+      "table_sha256": "c6c2a4ddf3cdc7bd0ddf8aa667058128684ab3a83932b6332270da2d180039c5",
+      "html_sha256": "06c5566ba6dcb122895c756d02a61115a8de12d729169e150a434ef95ceaca5a",
+      "source_last_updated_date": "2011-06-22"
+    },
+    {
+      "publisher": "dx",
+      "draft_year": 2012,
+      "archive_url": "https://web.archive.org/web/20120628012346id_/http://www.draftexpress.com/nba-mock-draft/2012/",
+      "source_available_by_utc": "2012-06-28T01:23:46+00:00",
+      "draft_date": "2012-06-28",
+      "table_sha256": "e8c9135b4751cea3c7c9c04bb74e2f0335a55c1d913df9088458ef6bf087bc91",
+      "html_sha256": "4f15c0a0498342682c502fa35e8e16ced10ac421b0fe3ae67502a1cb9f50258f",
+      "source_last_updated_date": "2012-06-27"
+    },
+    {
+      "publisher": "dx",
+      "draft_year": 2013,
+      "archive_url": "https://web.archive.org/web/20130621015703id_/http://www.draftexpress.com/nba-mock-draft/2013/",
+      "source_available_by_utc": "2013-06-21T01:57:03+00:00",
+      "draft_date": "2013-06-27",
+      "table_sha256": "c55916f2e19e1c4f096a548f740d69a663529192c1aa97c896add65c2bd3cfcd",
+      "html_sha256": "27167e116526a07c0673fa7a01de37cc70669704d85817a1b234c93867187f9e",
+      "source_last_updated_date": "2013-06-19"
+    },
+    {
+      "publisher": "dx",
+      "draft_year": 2014,
+      "archive_url": "https://web.archive.org/web/20140625213744id_/http://www.draftexpress.com/nba-mock-draft/2014/",
+      "source_available_by_utc": "2014-06-25T21:37:44+00:00",
+      "draft_date": "2014-06-26",
+      "table_sha256": "bf07dffb32650ad376b235e84cd2367ad840b2243a77b98da6b801db9ffbe863",
+      "html_sha256": "1c03e143f124de7e80d25f98a71692c333d63d28cd049ed77ccb1c8c73e18d6f",
+      "source_last_updated_date": "2014-06-25"
+    }
+  ],
+  "source_rank_observations_sha256": "a0fc0351986cc8e053bb7fea03a8a1552b471f77c1212a9c429fa219afe6b7ee",
+  "source_verification_sha256": "36d87abf1ad04af783ea9591f772c09d326b3444a476441c6062802f2ec99645",
+  "source_public_manifest_sha256": "34dcf8a9ae489ddbf9a89079d51cf50a39d9e85e4fd892ad7c15ceb291ee064b",
+  "builder_sha256": "e344e59665b298c47902faf19fe88b1d906a52991d477f5818490851c3bb9b82",
+  "coverage": {
+    "2007": 46,
+    "2008": 43,
+    "2009": 32,
+    "2010": 50,
+    "2011": 53,
+    "2012": 53,
+    "2013": 47,
+    "2014": 50
+  },
+  "nonmissing": {
+    "vmb_age_reported_years": 373,
+    "vmb_listed_height_in": 374,
+    "vmb_listed_weight_lb": 374,
+    "vmb_listed_bmi": 374,
+    "vmb_college_class_year": 322,
+    "vmb_position_pg": 374,
+    "vmb_position_sg": 374,
+    "vmb_position_sf": 374,
+    "vmb_position_pf": 374,
+    "vmb_position_c": 374
+  },
+  "source_identity_policy": "Reuse and independently recheck exact same-cohort unique matches from verified_consensus. No new aliases/fuzzy joins, actual picks or NBA outcomes.",
+  "limitations": [
+    "Listing is contemporaneous but not an official combine measurement.",
+    "Archive availability and listed mock prospect population are selective.",
+    "Reported age is not exact draft-night age and precision changes in2014.",
+    "No2015+inference coverage yet; no current biography or imputation fills.",
+    "Original model eligibility/universe and held-out benchmark remain separately audited."
+  ],
+  "files": {
+    "features_eligible.csv": "5f06d269cab48df89f66d8d3def6fcd4be207971826a73adc70a6ca978b45b6b",
+    "row_provenance.csv": "03f10447f07b35c6807d40218c58a7a1d8562d3299bd48d012a03e09dfaba261",
+    "metric_dictionary.json": "f31b5bb45013363986ae31932713cef4d8b2ae1c263d0697aa6a884bcba7cb30"
+  }
+}

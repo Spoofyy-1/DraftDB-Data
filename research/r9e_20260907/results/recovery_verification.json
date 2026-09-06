@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "original_frozen_files_reconstructed_exact": 61,
+  "original_registration_exact": true,
+  "original_queue_registration_exact": true,
+  "identifier_mapping_bijective": true,
+  "all_432_scientific_settings_unchanged": true,
+  "all_CPU_payloads_and_exclusions_unchanged": true,
+  "saved_original_references_retained_byte_exact": 16,
+  "final_append_log_preserves_original_prefix": true,
+  "original_failed_state_reported_completed": 13,
+  "original_durable_records": 16,
+  "cause": "Decimal task identifiers failed the unchanged filename regex; no score-based changes.",
+  "unsaved_in_flight_work_retried": true,
+  "original_frozen_sha256": "7787cb6fccdc8998087777a5dfd9f13019104e936874df1a9fd87dfe53b6fa0c",
+  "amendment_sha256": "f5fc26bdc6e966b44fe715eecee5d426996b0def8761e8cc55a83f8efb4f8496"
+}

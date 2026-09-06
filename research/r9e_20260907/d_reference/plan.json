@@ -1,0 +1,1274 @@
+{
+  "diagnostic_only": true,
+  "no_confirmation_or_test_scoring": true,
+  "folds": [
+    2012,
+    2013,
+    2014
+  ],
+  "seeds": [
+    0,
+    101,
+    202
+  ],
+  "model_constructor": {
+    "device": "cuda",
+    "n_estimators": 32,
+    "random_state": "task_seed",
+    "batch_size": 32,
+    "norm_methods": "none",
+    "outlier_threshold": 2.0
+  },
+  "ordering_policy": {
+    "version": "sha256_pid_exact_vector_mean_v1",
+    "row_order": "Sort train and query rows by SHA256(UTF8(pid)), with pid as deterministic collision tiebreaker, before selection and prediction. Identity/order keys never become predictors.",
+    "input_equivalence": "All selected predictor values must be numerically identical. NaNs compare equal; positive/negative zero compare equal. Distinct vectors are never quantized or merged.",
+    "prediction_ties": "Within each query group of exactly identical full predictor vectors, assign every row the arithmetic mean of its raw predictions using math.fsum over sorted float64 values.",
+    "raw_preservation": "Save raw and canonical prediction for every pid, exact duplicate groups and policy hash. All scoring uses canonical predictions with Spearman average ranks.",
+    "registration_basis": "R8order numerical audit found8 all-missing duplicate inputs with floating-point score splitting; no outcome score was used to choose this policy.",
+    "new_baseline": "Every background baseline reruns under this policy. Do not pool these scores with raw-prediction R8s or earlier studies."
+  },
+  "study": "R9d TabICL settings diagnostic",
+  "reference_id": "drop5_001",
+  "baseline_config": {
+    "arm": "RR",
+    "columns": [
+      "ctx_base_fta",
+      "ctx_base_ftm",
+      "ctx_base_mid_made"
+    ],
+    "id": "drop5_001",
+    "kind": "delete"
+  },
+  "normalizations": [
+    "none",
+    "power",
+    "quantile",
+    "quantile_rtdl",
+    "robust"
+  ],
+  "outlier_thresholds": [
+    2,
+    3,
+    5,
+    "disabled"
+  ],
+  "requested_estimator_counts": [
+    16,
+    32,
+    64
+  ],
+  "requested_grid": [
+    {
+      "id": "drop5_001",
+      "norm_methods": "none",
+      "outlier_threshold": 2,
+      "n_estimators": 32
+    },
+    {
+      "id": "none_o2_n16",
+      "norm_methods": "none",
+      "outlier_threshold": 2,
+      "n_estimators": 16
+    },
+    {
+      "id": "none_o2_n64",
+      "norm_methods": "none",
+      "outlier_threshold": 2,
+      "n_estimators": 64
+    },
+    {
+      "id": "none_o3_n16",
+      "norm_methods": "none",
+      "outlier_threshold": 3,
+      "n_estimators": 16
+    },
+    {
+      "id": "none_o3_n32",
+      "norm_methods": "none",
+      "outlier_threshold": 3,
+      "n_estimators": 32
+    },
+    {
+      "id": "none_o3_n64",
+      "norm_methods": "none",
+      "outlier_threshold": 3,
+      "n_estimators": 64
+    },
+    {
+      "id": "none_o5_n16",
+      "norm_methods": "none",
+      "outlier_threshold": 5,
+      "n_estimators": 16
+    },
+    {
+      "id": "none_o5_n32",
+      "norm_methods": "none",
+      "outlier_threshold": 5,
+      "n_estimators": 32
+    },
+    {
+      "id": "none_o5_n64",
+      "norm_methods": "none",
+      "outlier_threshold": 5,
+      "n_estimators": 64
+    },
+    {
+      "id": "none_odisabled_n16",
+      "norm_methods": "none",
+      "outlier_threshold": "disabled",
+      "n_estimators": 16
+    },
+    {
+      "id": "none_odisabled_n32",
+      "norm_methods": "none",
+      "outlier_threshold": "disabled",
+      "n_estimators": 32
+    },
+    {
+      "id": "none_odisabled_n64",
+      "norm_methods": "none",
+      "outlier_threshold": "disabled",
+      "n_estimators": 64
+    },
+    {
+      "id": "power_o2_n16",
+      "norm_methods": "power",
+      "outlier_threshold": 2,
+      "n_estimators": 16
+    },
+    {
+      "id": "power_o2_n32",
+      "norm_methods": "power",
+      "outlier_threshold": 2,
+      "n_estimators": 32
+    },
+    {
+      "id": "power_o2_n64",
+      "norm_methods": "power",
+      "outlier_threshold": 2,
+      "n_estimators": 64
+    },
+    {
+      "id": "power_o3_n16",
+      "norm_methods": "power",
+      "outlier_threshold": 3,
+      "n_estimators": 16
+    },
+    {
+      "id": "power_o3_n32",
+      "norm_methods": "power",
+      "outlier_threshold": 3,
+      "n_estimators": 32
+    },
+    {
+      "id": "power_o3_n64",
+      "norm_methods": "power",
+      "outlier_threshold": 3,
+      "n_estimators": 64
+    },
+    {
+      "id": "power_o5_n16",
+      "norm_methods": "power",
+      "outlier_threshold": 5,
+      "n_estimators": 16
+    },
+    {
+      "id": "power_o5_n32",
+      "norm_methods": "power",
+      "outlier_threshold": 5,
+      "n_estimators": 32
+    },
+    {
+      "id": "power_o5_n64",
+      "norm_methods": "power",
+      "outlier_threshold": 5,
+      "n_estimators": 64
+    },
+    {
+      "id": "power_odisabled_n16",
+      "norm_methods": "power",
+      "outlier_threshold": "disabled",
+      "n_estimators": 16
+    },
+    {
+      "id": "power_odisabled_n32",
+      "norm_methods": "power",
+      "outlier_threshold": "disabled",
+      "n_estimators": 32
+    },
+    {
+      "id": "power_odisabled_n64",
+      "norm_methods": "power",
+      "outlier_threshold": "disabled",
+      "n_estimators": 64
+    },
+    {
+      "id": "quantile_o2_n16",
+      "norm_methods": "quantile",
+      "outlier_threshold": 2,
+      "n_estimators": 16
+    },
+    {
+      "id": "quantile_o2_n32",
+      "norm_methods": "quantile",
+      "outlier_threshold": 2,
+      "n_estimators": 32
+    },
+    {
+      "id": "quantile_o2_n64",
+      "norm_methods": "quantile",
+      "outlier_threshold": 2,
+      "n_estimators": 64
+    },
+    {
+      "id": "quantile_o3_n16",
+      "norm_methods": "quantile",
+      "outlier_threshold": 3,
+      "n_estimators": 16
+    },
+    {
+      "id": "quantile_o3_n32",
+      "norm_methods": "quantile",
+      "outlier_threshold": 3,
+      "n_estimators": 32
+    },
+    {
+      "id": "quantile_o3_n64",
+      "norm_methods": "quantile",
+      "outlier_threshold": 3,
+      "n_estimators": 64
+    },
+    {
+      "id": "quantile_o5_n16",
+      "norm_methods": "quantile",
+      "outlier_threshold": 5,
+      "n_estimators": 16
+    },
+    {
+      "id": "quantile_o5_n32",
+      "norm_methods": "quantile",
+      "outlier_threshold": 5,
+      "n_estimators": 32
+    },
+    {
+      "id": "quantile_o5_n64",
+      "norm_methods": "quantile",
+      "outlier_threshold": 5,
+      "n_estimators": 64
+    },
+    {
+      "id": "quantile_odisabled_n16",
+      "norm_methods": "quantile",
+      "outlier_threshold": "disabled",
+      "n_estimators": 16
+    },
+    {
+      "id": "quantile_odisabled_n32",
+      "norm_methods": "quantile",
+      "outlier_threshold": "disabled",
+      "n_estimators": 32
+    },
+    {
+      "id": "quantile_odisabled_n64",
+      "norm_methods": "quantile",
+      "outlier_threshold": "disabled",
+      "n_estimators": 64
+    },
+    {
+      "id": "quantile_rtdl_o2_n16",
+      "norm_methods": "quantile_rtdl",
+      "outlier_threshold": 2,
+      "n_estimators": 16
+    },
+    {
+      "id": "quantile_rtdl_o2_n32",
+      "norm_methods": "quantile_rtdl",
+      "outlier_threshold": 2,
+      "n_estimators": 32
+    },
+    {
+      "id": "quantile_rtdl_o2_n64",
+      "norm_methods": "quantile_rtdl",
+      "outlier_threshold": 2,
+      "n_estimators": 64
+    },
+    {
+      "id": "quantile_rtdl_o3_n16",
+      "norm_methods": "quantile_rtdl",
+      "outlier_threshold": 3,
+      "n_estimators": 16
+    },
+    {
+      "id": "quantile_rtdl_o3_n32",
+      "norm_methods": "quantile_rtdl",
+      "outlier_threshold": 3,
+      "n_estimators": 32
+    },
+    {
+      "id": "quantile_rtdl_o3_n64",
+      "norm_methods": "quantile_rtdl",
+      "outlier_threshold": 3,
+      "n_estimators": 64
+    },
+    {
+      "id": "quantile_rtdl_o5_n16",
+      "norm_methods": "quantile_rtdl",
+      "outlier_threshold": 5,
+      "n_estimators": 16
+    },
+    {
+      "id": "quantile_rtdl_o5_n32",
+      "norm_methods": "quantile_rtdl",
+      "outlier_threshold": 5,
+      "n_estimators": 32
+    },
+    {
+      "id": "quantile_rtdl_o5_n64",
+      "norm_methods": "quantile_rtdl",
+      "outlier_threshold": 5,
+      "n_estimators": 64
+    },
+    {
+      "id": "quantile_rtdl_odisabled_n16",
+      "norm_methods": "quantile_rtdl",
+      "outlier_threshold": "disabled",
+      "n_estimators": 16
+    },
+    {
+      "id": "quantile_rtdl_odisabled_n32",
+      "norm_methods": "quantile_rtdl",
+      "outlier_threshold": "disabled",
+      "n_estimators": 32
+    },
+    {
+      "id": "quantile_rtdl_odisabled_n64",
+      "norm_methods": "quantile_rtdl",
+      "outlier_threshold": "disabled",
+      "n_estimators": 64
+    },
+    {
+      "id": "robust_o2_n16",
+      "norm_methods": "robust",
+      "outlier_threshold": 2,
+      "n_estimators": 16
+    },
+    {
+      "id": "robust_o2_n32",
+      "norm_methods": "robust",
+      "outlier_threshold": 2,
+      "n_estimators": 32
+    },
+    {
+      "id": "robust_o2_n64",
+      "norm_methods": "robust",
+      "outlier_threshold": 2,
+      "n_estimators": 64
+    },
+    {
+      "id": "robust_o3_n16",
+      "norm_methods": "robust",
+      "outlier_threshold": 3,
+      "n_estimators": 16
+    },
+    {
+      "id": "robust_o3_n32",
+      "norm_methods": "robust",
+      "outlier_threshold": 3,
+      "n_estimators": 32
+    },
+    {
+      "id": "robust_o3_n64",
+      "norm_methods": "robust",
+      "outlier_threshold": 3,
+      "n_estimators": 64
+    },
+    {
+      "id": "robust_o5_n16",
+      "norm_methods": "robust",
+      "outlier_threshold": 5,
+      "n_estimators": 16
+    },
+    {
+      "id": "robust_o5_n32",
+      "norm_methods": "robust",
+      "outlier_threshold": 5,
+      "n_estimators": 32
+    },
+    {
+      "id": "robust_o5_n64",
+      "norm_methods": "robust",
+      "outlier_threshold": 5,
+      "n_estimators": 64
+    },
+    {
+      "id": "robust_odisabled_n16",
+      "norm_methods": "robust",
+      "outlier_threshold": "disabled",
+      "n_estimators": 16
+    },
+    {
+      "id": "robust_odisabled_n32",
+      "norm_methods": "robust",
+      "outlier_threshold": "disabled",
+      "n_estimators": 32
+    },
+    {
+      "id": "robust_odisabled_n64",
+      "norm_methods": "robust",
+      "outlier_threshold": "disabled",
+      "n_estimators": 64
+    }
+  ],
+  "settings_by_id": {
+    "drop5_001": {
+      "id": "drop5_001",
+      "norm_methods": "none",
+      "outlier_threshold": 2,
+      "n_estimators": 32
+    },
+    "none_o2_n16": {
+      "id": "none_o2_n16",
+      "norm_methods": "none",
+      "outlier_threshold": 2,
+      "n_estimators": 16
+    },
+    "none_o2_n64": {
+      "id": "none_o2_n64",
+      "norm_methods": "none",
+      "outlier_threshold": 2,
+      "n_estimators": 64
+    },
+    "none_o3_n16": {
+      "id": "none_o3_n16",
+      "norm_methods": "none",
+      "outlier_threshold": 3,
+      "n_estimators": 16
+    },
+    "none_o3_n32": {
+      "id": "none_o3_n32",
+      "norm_methods": "none",
+      "outlier_threshold": 3,
+      "n_estimators": 32
+    },
+    "none_o3_n64": {
+      "id": "none_o3_n64",
+      "norm_methods": "none",
+      "outlier_threshold": 3,
+      "n_estimators": 64
+    },
+    "none_o5_n16": {
+      "id": "none_o5_n16",
+      "norm_methods": "none",
+      "outlier_threshold": 5,
+      "n_estimators": 16
+    },
+    "none_o5_n32": {
+      "id": "none_o5_n32",
+      "norm_methods": "none",
+      "outlier_threshold": 5,
+      "n_estimators": 32
+    },
+    "none_o5_n64": {
+      "id": "none_o5_n64",
+      "norm_methods": "none",
+      "outlier_threshold": 5,
+      "n_estimators": 64
+    },
+    "none_odisabled_n16": {
+      "id": "none_odisabled_n16",
+      "norm_methods": "none",
+      "outlier_threshold": "disabled",
+      "n_estimators": 16
+    },
+    "none_odisabled_n32": {
+      "id": "none_odisabled_n32",
+      "norm_methods": "none",
+      "outlier_threshold": "disabled",
+      "n_estimators": 32
+    },
+    "none_odisabled_n64": {
+      "id": "none_odisabled_n64",
+      "norm_methods": "none",
+      "outlier_threshold": "disabled",
+      "n_estimators": 64
+    },
+    "power_o2_n16": {
+      "id": "power_o2_n16",
+      "norm_methods": "power",
+      "outlier_threshold": 2,
+      "n_estimators": 16
+    },
+    "power_o2_n32": {
+      "id": "power_o2_n32",
+      "norm_methods": "power",
+      "outlier_threshold": 2,
+      "n_estimators": 32
+    },
+    "power_o2_n64": {
+      "id": "power_o2_n64",
+      "norm_methods": "power",
+      "outlier_threshold": 2,
+      "n_estimators": 64
+    },
+    "power_o3_n16": {
+      "id": "power_o3_n16",
+      "norm_methods": "power",
+      "outlier_threshold": 3,
+      "n_estimators": 16
+    },
+    "power_o3_n32": {
+      "id": "power_o3_n32",
+      "norm_methods": "power",
+      "outlier_threshold": 3,
+      "n_estimators": 32
+    },
+    "power_o3_n64": {
+      "id": "power_o3_n64",
+      "norm_methods": "power",
+      "outlier_threshold": 3,
+      "n_estimators": 64
+    },
+    "power_o5_n16": {
+      "id": "power_o5_n16",
+      "norm_methods": "power",
+      "outlier_threshold": 5,
+      "n_estimators": 16
+    },
+    "power_o5_n32": {
+      "id": "power_o5_n32",
+      "norm_methods": "power",
+      "outlier_threshold": 5,
+      "n_estimators": 32
+    },
+    "power_o5_n64": {
+      "id": "power_o5_n64",
+      "norm_methods": "power",
+      "outlier_threshold": 5,
+      "n_estimators": 64
+    },
+    "power_odisabled_n16": {
+      "id": "power_odisabled_n16",
+      "norm_methods": "power",
+      "outlier_threshold": "disabled",
+      "n_estimators": 16
+    },
+    "power_odisabled_n32": {
+      "id": "power_odisabled_n32",
+      "norm_methods": "power",
+      "outlier_threshold": "disabled",
+      "n_estimators": 32
+    },
+    "power_odisabled_n64": {
+      "id": "power_odisabled_n64",
+      "norm_methods": "power",
+      "outlier_threshold": "disabled",
+      "n_estimators": 64
+    },
+    "quantile_o2_n16": {
+      "id": "quantile_o2_n16",
+      "norm_methods": "quantile",
+      "outlier_threshold": 2,
+      "n_estimators": 16
+    },
+    "quantile_o2_n32": {
+      "id": "quantile_o2_n32",
+      "norm_methods": "quantile",
+      "outlier_threshold": 2,
+      "n_estimators": 32
+    },
+    "quantile_o2_n64": {
+      "id": "quantile_o2_n64",
+      "norm_methods": "quantile",
+      "outlier_threshold": 2,
+      "n_estimators": 64
+    },
+    "quantile_o3_n16": {
+      "id": "quantile_o3_n16",
+      "norm_methods": "quantile",
+      "outlier_threshold": 3,
+      "n_estimators": 16
+    },
+    "quantile_o3_n32": {
+      "id": "quantile_o3_n32",
+      "norm_methods": "quantile",
+      "outlier_threshold": 3,
+      "n_estimators": 32
+    },
+    "quantile_o3_n64": {
+      "id": "quantile_o3_n64",
+      "norm_methods": "quantile",
+      "outlier_threshold": 3,
+      "n_estimators": 64
+    },
+    "quantile_o5_n16": {
+      "id": "quantile_o5_n16",
+      "norm_methods": "quantile",
+      "outlier_threshold": 5,
+      "n_estimators": 16
+    },
+    "quantile_o5_n32": {
+      "id": "quantile_o5_n32",
+      "norm_methods": "quantile",
+      "outlier_threshold": 5,
+      "n_estimators": 32
+    },
+    "quantile_o5_n64": {
+      "id": "quantile_o5_n64",
+      "norm_methods": "quantile",
+      "outlier_threshold": 5,
+      "n_estimators": 64
+    },
+    "quantile_odisabled_n16": {
+      "id": "quantile_odisabled_n16",
+      "norm_methods": "quantile",
+      "outlier_threshold": "disabled",
+      "n_estimators": 16
+    },
+    "quantile_odisabled_n32": {
+      "id": "quantile_odisabled_n32",
+      "norm_methods": "quantile",
+      "outlier_threshold": "disabled",
+      "n_estimators": 32
+    },
+    "quantile_odisabled_n64": {
+      "id": "quantile_odisabled_n64",
+      "norm_methods": "quantile",
+      "outlier_threshold": "disabled",
+      "n_estimators": 64
+    },
+    "quantile_rtdl_o2_n16": {
+      "id": "quantile_rtdl_o2_n16",
+      "norm_methods": "quantile_rtdl",
+      "outlier_threshold": 2,
+      "n_estimators": 16
+    },
+    "quantile_rtdl_o2_n32": {
+      "id": "quantile_rtdl_o2_n32",
+      "norm_methods": "quantile_rtdl",
+      "outlier_threshold": 2,
+      "n_estimators": 32
+    },
+    "quantile_rtdl_o2_n64": {
+      "id": "quantile_rtdl_o2_n64",
+      "norm_methods": "quantile_rtdl",
+      "outlier_threshold": 2,
+      "n_estimators": 64
+    },
+    "quantile_rtdl_o3_n16": {
+      "id": "quantile_rtdl_o3_n16",
+      "norm_methods": "quantile_rtdl",
+      "outlier_threshold": 3,
+      "n_estimators": 16
+    },
+    "quantile_rtdl_o3_n32": {
+      "id": "quantile_rtdl_o3_n32",
+      "norm_methods": "quantile_rtdl",
+      "outlier_threshold": 3,
+      "n_estimators": 32
+    },
+    "quantile_rtdl_o3_n64": {
+      "id": "quantile_rtdl_o3_n64",
+      "norm_methods": "quantile_rtdl",
+      "outlier_threshold": 3,
+      "n_estimators": 64
+    },
+    "quantile_rtdl_o5_n16": {
+      "id": "quantile_rtdl_o5_n16",
+      "norm_methods": "quantile_rtdl",
+      "outlier_threshold": 5,
+      "n_estimators": 16
+    },
+    "quantile_rtdl_o5_n32": {
+      "id": "quantile_rtdl_o5_n32",
+      "norm_methods": "quantile_rtdl",
+      "outlier_threshold": 5,
+      "n_estimators": 32
+    },
+    "quantile_rtdl_o5_n64": {
+      "id": "quantile_rtdl_o5_n64",
+      "norm_methods": "quantile_rtdl",
+      "outlier_threshold": 5,
+      "n_estimators": 64
+    },
+    "quantile_rtdl_odisabled_n16": {
+      "id": "quantile_rtdl_odisabled_n16",
+      "norm_methods": "quantile_rtdl",
+      "outlier_threshold": "disabled",
+      "n_estimators": 16
+    },
+    "quantile_rtdl_odisabled_n32": {
+      "id": "quantile_rtdl_odisabled_n32",
+      "norm_methods": "quantile_rtdl",
+      "outlier_threshold": "disabled",
+      "n_estimators": 32
+    },
+    "quantile_rtdl_odisabled_n64": {
+      "id": "quantile_rtdl_odisabled_n64",
+      "norm_methods": "quantile_rtdl",
+      "outlier_threshold": "disabled",
+      "n_estimators": 64
+    },
+    "robust_o2_n16": {
+      "id": "robust_o2_n16",
+      "norm_methods": "robust",
+      "outlier_threshold": 2,
+      "n_estimators": 16
+    },
+    "robust_o2_n32": {
+      "id": "robust_o2_n32",
+      "norm_methods": "robust",
+      "outlier_threshold": 2,
+      "n_estimators": 32
+    },
+    "robust_o2_n64": {
+      "id": "robust_o2_n64",
+      "norm_methods": "robust",
+      "outlier_threshold": 2,
+      "n_estimators": 64
+    },
+    "robust_o3_n16": {
+      "id": "robust_o3_n16",
+      "norm_methods": "robust",
+      "outlier_threshold": 3,
+      "n_estimators": 16
+    },
+    "robust_o3_n32": {
+      "id": "robust_o3_n32",
+      "norm_methods": "robust",
+      "outlier_threshold": 3,
+      "n_estimators": 32
+    },
+    "robust_o3_n64": {
+      "id": "robust_o3_n64",
+      "norm_methods": "robust",
+      "outlier_threshold": 3,
+      "n_estimators": 64
+    },
+    "robust_o5_n16": {
+      "id": "robust_o5_n16",
+      "norm_methods": "robust",
+      "outlier_threshold": 5,
+      "n_estimators": 16
+    },
+    "robust_o5_n32": {
+      "id": "robust_o5_n32",
+      "norm_methods": "robust",
+      "outlier_threshold": 5,
+      "n_estimators": 32
+    },
+    "robust_o5_n64": {
+      "id": "robust_o5_n64",
+      "norm_methods": "robust",
+      "outlier_threshold": 5,
+      "n_estimators": 64
+    },
+    "robust_odisabled_n16": {
+      "id": "robust_odisabled_n16",
+      "norm_methods": "robust",
+      "outlier_threshold": "disabled",
+      "n_estimators": 16
+    },
+    "robust_odisabled_n32": {
+      "id": "robust_odisabled_n32",
+      "norm_methods": "robust",
+      "outlier_threshold": "disabled",
+      "n_estimators": 32
+    },
+    "robust_odisabled_n64": {
+      "id": "robust_odisabled_n64",
+      "norm_methods": "robust",
+      "outlier_threshold": "disabled",
+      "n_estimators": 64
+    }
+  },
+  "variants": [
+    {
+      "arm": "RR",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_mid_made"
+      ],
+      "id": "drop5_001",
+      "kind": "delete"
+    },
+    {
+      "id": "none_o2_n16",
+      "kind": "model_settings",
+      "norm_methods": "none",
+      "outlier_threshold": 2,
+      "n_estimators": 16
+    },
+    {
+      "id": "none_o2_n64",
+      "kind": "model_settings",
+      "norm_methods": "none",
+      "outlier_threshold": 2,
+      "n_estimators": 64
+    },
+    {
+      "id": "none_o3_n16",
+      "kind": "model_settings",
+      "norm_methods": "none",
+      "outlier_threshold": 3,
+      "n_estimators": 16
+    },
+    {
+      "id": "none_o3_n32",
+      "kind": "model_settings",
+      "norm_methods": "none",
+      "outlier_threshold": 3,
+      "n_estimators": 32
+    },
+    {
+      "id": "none_o3_n64",
+      "kind": "model_settings",
+      "norm_methods": "none",
+      "outlier_threshold": 3,
+      "n_estimators": 64
+    },
+    {
+      "id": "none_o5_n16",
+      "kind": "model_settings",
+      "norm_methods": "none",
+      "outlier_threshold": 5,
+      "n_estimators": 16
+    },
+    {
+      "id": "none_o5_n32",
+      "kind": "model_settings",
+      "norm_methods": "none",
+      "outlier_threshold": 5,
+      "n_estimators": 32
+    },
+    {
+      "id": "none_o5_n64",
+      "kind": "model_settings",
+      "norm_methods": "none",
+      "outlier_threshold": 5,
+      "n_estimators": 64
+    },
+    {
+      "id": "none_odisabled_n16",
+      "kind": "model_settings",
+      "norm_methods": "none",
+      "outlier_threshold": "disabled",
+      "n_estimators": 16
+    },
+    {
+      "id": "none_odisabled_n32",
+      "kind": "model_settings",
+      "norm_methods": "none",
+      "outlier_threshold": "disabled",
+      "n_estimators": 32
+    },
+    {
+      "id": "none_odisabled_n64",
+      "kind": "model_settings",
+      "norm_methods": "none",
+      "outlier_threshold": "disabled",
+      "n_estimators": 64
+    },
+    {
+      "id": "power_o2_n16",
+      "kind": "model_settings",
+      "norm_methods": "power",
+      "outlier_threshold": 2,
+      "n_estimators": 16
+    },
+    {
+      "id": "power_o2_n32",
+      "kind": "model_settings",
+      "norm_methods": "power",
+      "outlier_threshold": 2,
+      "n_estimators": 32
+    },
+    {
+      "id": "power_o2_n64",
+      "kind": "model_settings",
+      "norm_methods": "power",
+      "outlier_threshold": 2,
+      "n_estimators": 64
+    },
+    {
+      "id": "power_o3_n16",
+      "kind": "model_settings",
+      "norm_methods": "power",
+      "outlier_threshold": 3,
+      "n_estimators": 16
+    },
+    {
+      "id": "power_o3_n32",
+      "kind": "model_settings",
+      "norm_methods": "power",
+      "outlier_threshold": 3,
+      "n_estimators": 32
+    },
+    {
+      "id": "power_o3_n64",
+      "kind": "model_settings",
+      "norm_methods": "power",
+      "outlier_threshold": 3,
+      "n_estimators": 64
+    },
+    {
+      "id": "power_o5_n16",
+      "kind": "model_settings",
+      "norm_methods": "power",
+      "outlier_threshold": 5,
+      "n_estimators": 16
+    },
+    {
+      "id": "power_o5_n32",
+      "kind": "model_settings",
+      "norm_methods": "power",
+      "outlier_threshold": 5,
+      "n_estimators": 32
+    },
+    {
+      "id": "power_o5_n64",
+      "kind": "model_settings",
+      "norm_methods": "power",
+      "outlier_threshold": 5,
+      "n_estimators": 64
+    },
+    {
+      "id": "power_odisabled_n16",
+      "kind": "model_settings",
+      "norm_methods": "power",
+      "outlier_threshold": "disabled",
+      "n_estimators": 16
+    },
+    {
+      "id": "power_odisabled_n32",
+      "kind": "model_settings",
+      "norm_methods": "power",
+      "outlier_threshold": "disabled",
+      "n_estimators": 32
+    },
+    {
+      "id": "power_odisabled_n64",
+      "kind": "model_settings",
+      "norm_methods": "power",
+      "outlier_threshold": "disabled",
+      "n_estimators": 64
+    },
+    {
+      "id": "quantile_o2_n16",
+      "kind": "model_settings",
+      "norm_methods": "quantile",
+      "outlier_threshold": 2,
+      "n_estimators": 16
+    },
+    {
+      "id": "quantile_o2_n32",
+      "kind": "model_settings",
+      "norm_methods": "quantile",
+      "outlier_threshold": 2,
+      "n_estimators": 32
+    },
+    {
+      "id": "quantile_o2_n64",
+      "kind": "model_settings",
+      "norm_methods": "quantile",
+      "outlier_threshold": 2,
+      "n_estimators": 64
+    },
+    {
+      "id": "quantile_o3_n16",
+      "kind": "model_settings",
+      "norm_methods": "quantile",
+      "outlier_threshold": 3,
+      "n_estimators": 16
+    },
+    {
+      "id": "quantile_o3_n32",
+      "kind": "model_settings",
+      "norm_methods": "quantile",
+      "outlier_threshold": 3,
+      "n_estimators": 32
+    },
+    {
+      "id": "quantile_o3_n64",
+      "kind": "model_settings",
+      "norm_methods": "quantile",
+      "outlier_threshold": 3,
+      "n_estimators": 64
+    },
+    {
+      "id": "quantile_o5_n16",
+      "kind": "model_settings",
+      "norm_methods": "quantile",
+      "outlier_threshold": 5,
+      "n_estimators": 16
+    },
+    {
+      "id": "quantile_o5_n32",
+      "kind": "model_settings",
+      "norm_methods": "quantile",
+      "outlier_threshold": 5,
+      "n_estimators": 32
+    },
+    {
+      "id": "quantile_o5_n64",
+      "kind": "model_settings",
+      "norm_methods": "quantile",
+      "outlier_threshold": 5,
+      "n_estimators": 64
+    },
+    {
+      "id": "quantile_rtdl_o2_n16",
+      "kind": "model_settings",
+      "norm_methods": "quantile_rtdl",
+      "outlier_threshold": 2,
+      "n_estimators": 16
+    },
+    {
+      "id": "quantile_rtdl_o2_n32",
+      "kind": "model_settings",
+      "norm_methods": "quantile_rtdl",
+      "outlier_threshold": 2,
+      "n_estimators": 32
+    },
+    {
+      "id": "quantile_rtdl_o2_n64",
+      "kind": "model_settings",
+      "norm_methods": "quantile_rtdl",
+      "outlier_threshold": 2,
+      "n_estimators": 64
+    },
+    {
+      "id": "quantile_rtdl_o3_n16",
+      "kind": "model_settings",
+      "norm_methods": "quantile_rtdl",
+      "outlier_threshold": 3,
+      "n_estimators": 16
+    },
+    {
+      "id": "quantile_rtdl_o3_n32",
+      "kind": "model_settings",
+      "norm_methods": "quantile_rtdl",
+      "outlier_threshold": 3,
+      "n_estimators": 32
+    },
+    {
+      "id": "quantile_rtdl_o3_n64",
+      "kind": "model_settings",
+      "norm_methods": "quantile_rtdl",
+      "outlier_threshold": 3,
+      "n_estimators": 64
+    },
+    {
+      "id": "quantile_rtdl_o5_n16",
+      "kind": "model_settings",
+      "norm_methods": "quantile_rtdl",
+      "outlier_threshold": 5,
+      "n_estimators": 16
+    },
+    {
+      "id": "quantile_rtdl_o5_n32",
+      "kind": "model_settings",
+      "norm_methods": "quantile_rtdl",
+      "outlier_threshold": 5,
+      "n_estimators": 32
+    },
+    {
+      "id": "quantile_rtdl_o5_n64",
+      "kind": "model_settings",
+      "norm_methods": "quantile_rtdl",
+      "outlier_threshold": 5,
+      "n_estimators": 64
+    },
+    {
+      "id": "quantile_rtdl_odisabled_n16",
+      "kind": "model_settings",
+      "norm_methods": "quantile_rtdl",
+      "outlier_threshold": "disabled",
+      "n_estimators": 16
+    },
+    {
+      "id": "quantile_rtdl_odisabled_n32",
+      "kind": "model_settings",
+      "norm_methods": "quantile_rtdl",
+      "outlier_threshold": "disabled",
+      "n_estimators": 32
+    },
+    {
+      "id": "quantile_rtdl_odisabled_n64",
+      "kind": "model_settings",
+      "norm_methods": "quantile_rtdl",
+      "outlier_threshold": "disabled",
+      "n_estimators": 64
+    },
+    {
+      "id": "robust_o2_n16",
+      "kind": "model_settings",
+      "norm_methods": "robust",
+      "outlier_threshold": 2,
+      "n_estimators": 16
+    },
+    {
+      "id": "robust_o2_n32",
+      "kind": "model_settings",
+      "norm_methods": "robust",
+      "outlier_threshold": 2,
+      "n_estimators": 32
+    },
+    {
+      "id": "robust_o2_n64",
+      "kind": "model_settings",
+      "norm_methods": "robust",
+      "outlier_threshold": 2,
+      "n_estimators": 64
+    },
+    {
+      "id": "robust_o3_n16",
+      "kind": "model_settings",
+      "norm_methods": "robust",
+      "outlier_threshold": 3,
+      "n_estimators": 16
+    },
+    {
+      "id": "robust_o3_n32",
+      "kind": "model_settings",
+      "norm_methods": "robust",
+      "outlier_threshold": 3,
+      "n_estimators": 32
+    },
+    {
+      "id": "robust_o3_n64",
+      "kind": "model_settings",
+      "norm_methods": "robust",
+      "outlier_threshold": 3,
+      "n_estimators": 64
+    },
+    {
+      "id": "robust_o5_n16",
+      "kind": "model_settings",
+      "norm_methods": "robust",
+      "outlier_threshold": 5,
+      "n_estimators": 16
+    },
+    {
+      "id": "robust_o5_n32",
+      "kind": "model_settings",
+      "norm_methods": "robust",
+      "outlier_threshold": 5,
+      "n_estimators": 32
+    },
+    {
+      "id": "robust_o5_n64",
+      "kind": "model_settings",
+      "norm_methods": "robust",
+      "outlier_threshold": 5,
+      "n_estimators": 64
+    },
+    {
+      "id": "robust_odisabled_n16",
+      "kind": "model_settings",
+      "norm_methods": "robust",
+      "outlier_threshold": "disabled",
+      "n_estimators": 16
+    },
+    {
+      "id": "robust_odisabled_n32",
+      "kind": "model_settings",
+      "norm_methods": "robust",
+      "outlier_threshold": "disabled",
+      "n_estimators": 32
+    },
+    {
+      "id": "robust_odisabled_n64",
+      "kind": "model_settings",
+      "norm_methods": "robust",
+      "outlier_threshold": "disabled",
+      "n_estimators": 64
+    }
+  ],
+  "execution": {
+    "task_count": 171,
+    "workers": 4,
+    "runtime_seconds": 7200,
+    "memory": "140G",
+    "cpu_quota": "2200%"
+  },
+  "protocol": "Only named normalization, outlier threshold and estimator count vary on unchanged B drop5_00144-column inputs. CPU-only constructor/ensemble/permutation/view equality across all folds and seeds may deduplicate configurations before fits; no scores used. No test/confirmation or new sources.",
+  "reference_gate": "Three none/outlier2/n32 baseline runs must exactly reproduce original B raw/canonical predictions, scores and complete audits before interpretation.",
+  "seed_ensemble": {
+    "seeds": [
+      0,
+      101,
+      202
+    ],
+    "weights": [
+      0.3333333333333333,
+      0.3333333333333333,
+      0.3333333333333333
+    ],
+    "method": "For each configuration/fold/PID, arithmetic mean of all three saved canonical predictions using math.fsum divided by3, then development Spearman. Never choose or reweight seeds. Retain individual model runs and separate averaged predictions/score artifact.",
+    "selection": "Diagnostic only; no automatic promotion or significance claim."
+  },
+  "requested_to_evaluated": {
+    "drop5_001": "drop5_001",
+    "none_o2_n16": "none_o2_n16",
+    "none_o2_n64": "none_o2_n64",
+    "none_o3_n16": "none_o3_n16",
+    "none_o3_n32": "none_o3_n32",
+    "none_o3_n64": "none_o3_n64",
+    "none_o5_n16": "none_o5_n16",
+    "none_o5_n32": "none_o5_n32",
+    "none_o5_n64": "none_o5_n64",
+    "none_odisabled_n16": "none_odisabled_n16",
+    "none_odisabled_n32": "none_odisabled_n32",
+    "none_odisabled_n64": "none_odisabled_n64",
+    "power_o2_n16": "power_o2_n16",
+    "power_o2_n32": "power_o2_n32",
+    "power_o2_n64": "power_o2_n64",
+    "power_o3_n16": "power_o3_n16",
+    "power_o3_n32": "power_o3_n32",
+    "power_o3_n64": "power_o3_n64",
+    "power_o5_n16": "power_o5_n16",
+    "power_o5_n32": "power_o5_n32",
+    "power_o5_n64": "power_o5_n64",
+    "power_odisabled_n16": "power_odisabled_n16",
+    "power_odisabled_n32": "power_odisabled_n32",
+    "power_odisabled_n64": "power_odisabled_n64",
+    "quantile_o2_n16": "quantile_o2_n16",
+    "quantile_o2_n32": "quantile_o2_n32",
+    "quantile_o2_n64": "quantile_o2_n64",
+    "quantile_o3_n16": "quantile_o3_n16",
+    "quantile_o3_n32": "quantile_o3_n32",
+    "quantile_o3_n64": "quantile_o3_n64",
+    "quantile_o5_n16": "quantile_o5_n16",
+    "quantile_o5_n32": "quantile_o5_n32",
+    "quantile_o5_n64": "quantile_o5_n64",
+    "quantile_odisabled_n16": "quantile_o5_n16",
+    "quantile_odisabled_n32": "quantile_o5_n32",
+    "quantile_odisabled_n64": "quantile_o5_n64",
+    "quantile_rtdl_o2_n16": "quantile_rtdl_o2_n16",
+    "quantile_rtdl_o2_n32": "quantile_rtdl_o2_n32",
+    "quantile_rtdl_o2_n64": "quantile_rtdl_o2_n64",
+    "quantile_rtdl_o3_n16": "quantile_rtdl_o3_n16",
+    "quantile_rtdl_o3_n32": "quantile_rtdl_o3_n32",
+    "quantile_rtdl_o3_n64": "quantile_rtdl_o3_n64",
+    "quantile_rtdl_o5_n16": "quantile_rtdl_o5_n16",
+    "quantile_rtdl_o5_n32": "quantile_rtdl_o5_n32",
+    "quantile_rtdl_o5_n64": "quantile_rtdl_o5_n64",
+    "quantile_rtdl_odisabled_n16": "quantile_rtdl_odisabled_n16",
+    "quantile_rtdl_odisabled_n32": "quantile_rtdl_odisabled_n32",
+    "quantile_rtdl_odisabled_n64": "quantile_rtdl_odisabled_n64",
+    "robust_o2_n16": "robust_o2_n16",
+    "robust_o2_n32": "robust_o2_n32",
+    "robust_o2_n64": "robust_o2_n64",
+    "robust_o3_n16": "robust_o3_n16",
+    "robust_o3_n32": "robust_o3_n32",
+    "robust_o3_n64": "robust_o3_n64",
+    "robust_o5_n16": "robust_o5_n16",
+    "robust_o5_n32": "robust_o5_n32",
+    "robust_o5_n64": "robust_o5_n64",
+    "robust_odisabled_n16": "robust_odisabled_n16",
+    "robust_odisabled_n32": "robust_odisabled_n32",
+    "robust_odisabled_n64": "robust_odisabled_n64"
+  }
+}
