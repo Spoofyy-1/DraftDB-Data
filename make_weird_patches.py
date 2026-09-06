@@ -49,7 +49,7 @@ def merge(fp,prefix_ok):
                 if k!="pid" and v not in("","None") and k.startswith(prefix_ok): F[r["pid"]][k]=v
             n+=1
     return n
-print("text:",merge("txt_features.csv","txt_"),"traj:",merge("traj_features.csv","traj_"),"torvik:",merge("tv_features.csv","tv_"),"torvik2:",merge("tv2_features.csv","tv_"),"teamseason:",merge("ts_features.csv","ts_"),"mock:",merge("mock_features.csv","mock_"),"rsci:",merge("rsci_features.csv","rsci_"),"trends:",merge("gt_features.csv","gt_"))
+print("text:",merge("txt_features.csv","txt_"),"traj:",merge("traj_features.csv","traj_"),"torvik:",merge("tv_features.csv","tv_"),"torvik2:",merge("tv2_features.csv","tv_"),"teamseason:",merge("ts_features.csv","ts_"),"mock:",merge("mock_features.csv","mock_"),"rsci:",merge("rsci_features.csv","rsci_"),"trends:",merge("gt_features.csv","gt_"),"combine:",merge("cmb_features.csv","cmb_"))
 # ---- misc: birth quarter from age (fallback when no Torvik birthdate), hometown state code
 STATES={s:i+1 for i,s in enumerate("AL AK AZ AR CA CO CT DE FL GA HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO MT NE NV NH NJ NM NY NC ND OH OK OR PA RI SC SD TN TX UT VT VA WA WV WI WY DC".split())}
 for pid in list(F)+[p for p in split if p not in F]:
