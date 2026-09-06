@@ -1,0 +1,777 @@
+{
+  "passed": true,
+  "models_fitted": 0,
+  "folds": [
+    {
+      "year": 2012,
+      "three_selected_baseline_reference_inputs_exact": true,
+      "baseline_train_matrix_hash": "d6d9b5707baab3a3be97c4208791bd4d8266322c863f0c0c44717b62da9fecee",
+      "baseline_query_matrix_hash": "7d20056ebdcf9903be98ce74601bc8692eccd449de008a1b2f436bbaaa0dfd8d",
+      "baseline_columns": [
+        "ctx_base_stl_pg",
+        "ctx_base_dunk_attempts",
+        "ctx_base_fg2_pct",
+        "ctx_skill_defense_discipline",
+        "ctx_skill_creation_control",
+        "ctx_base_rim_made",
+        "ctx_skill_usage_efficiency",
+        "ctx_base_ftr",
+        "ctx_base_mid_attempts",
+        "ctx_base_fg2m",
+        "ctx_base_ast_tov",
+        "ctx_base_fg3a",
+        "ctx_base_ast_pg",
+        "ctx_base_dunk_made",
+        "ctx_skill_ft_volume",
+        "ctx_base_pts_pg",
+        "ctx_base_fg3m",
+        "ctx_base_ast_pct",
+        "ctx_base_fouls40",
+        "ctx_base_drb",
+        "ctx_base_stl_pct",
+        "ctx_base_blk_pct",
+        "ctx_base_oreb_pg",
+        "ctx_base_three_share",
+        "ctx_base_orb",
+        "ctx_base_usage",
+        "ctx_base_dreb_pg",
+        "ctx_base_fg3_pct",
+        "ctx_base_blk_pg",
+        "ctx_base_gp",
+        "ctx_base_efg",
+        "ctx_base_rim_attempts",
+        "ctx_base_minutes_share",
+        "ctx_base_ft_pct",
+        "ctx_base_tov_pct",
+        "ctx_base_ts",
+        "ctx_base_fg2a",
+        "ctx_base_mpg",
+        "slot_037",
+        "slot_038",
+        "slot_039",
+        "slot_040",
+        "slot_041",
+        "slot_042"
+      ],
+      "training_pid_hash": "942b832ebefe65ae1744f4b3f97b657400217df5af0b2df6e2579fdcaa17b07e",
+      "query_pid_hash": "a45cd8b1dd63e13a3893134a181c328319d3e1eadeb55f4749529e2f545f0373",
+      "labels_hash": "aa36072210d1d3b80c0bcc1e328b5c28768f1a31f3ecd29cfd79a1435eead527",
+      "candidate_training_counts": {
+        "cgd_observed_gp": {
+          "observed": 143,
+          "unique": 18
+        },
+        "cgd_two_m_pg": {
+          "observed": 143,
+          "unique": 134
+        },
+        "cgd_two_a_pg": {
+          "observed": 143,
+          "unique": 139
+        },
+        "cgd_three_m_pg": {
+          "observed": 143,
+          "unique": 107
+        },
+        "cgd_three_a_pg": {
+          "observed": 143,
+          "unique": 119
+        },
+        "cgd_ft_m_pg": {
+          "observed": 143,
+          "unique": 131
+        },
+        "cgd_ft_a_pg": {
+          "observed": 143,
+          "unique": 140
+        },
+        "cgd_points_pg": {
+          "observed": 143,
+          "unique": 143
+        },
+        "cgd_orb_pg": {
+          "observed": 143,
+          "unique": 136
+        },
+        "cgd_drb_pg": {
+          "observed": 143,
+          "unique": 136
+        },
+        "cgd_ast_pg": {
+          "observed": 143,
+          "unique": 136
+        },
+        "cgd_tov_pg": {
+          "observed": 143,
+          "unique": 132
+        },
+        "cgd_stl_pg": {
+          "observed": 143,
+          "unique": 128
+        },
+        "cgd_blk_pg": {
+          "observed": 143,
+          "unique": 128
+        },
+        "cgd_pf_pg": {
+          "observed": 143,
+          "unique": 123
+        },
+        "tctx_assists_per_made_fg": {
+          "observed": 137,
+          "unique": 98
+        },
+        "tctx_blocks_per_opponent_fga": {
+          "observed": 137,
+          "unique": 98
+        },
+        "tctx_defensive_rebound_share": {
+          "observed": 137,
+          "unique": 98
+        },
+        "tctx_efg": {
+          "observed": 137,
+          "unique": 98
+        },
+        "tctx_efg_margin": {
+          "observed": 137,
+          "unique": 98
+        },
+        "tctx_ft_attempts_per_fga": {
+          "observed": 137,
+          "unique": 98
+        },
+        "tctx_margin_pg": {
+          "observed": 137,
+          "unique": 94
+        },
+        "tctx_offensive_rebound_share": {
+          "observed": 137,
+          "unique": 98
+        },
+        "tctx_opponent_assists_per_made_fg": {
+          "observed": 137,
+          "unique": 98
+        },
+        "tctx_opponent_efg": {
+          "observed": 137,
+          "unique": 98
+        },
+        "tctx_opponent_ft_attempts_per_fga": {
+          "observed": 137,
+          "unique": 98
+        },
+        "tctx_opponent_points_pg": {
+          "observed": 137,
+          "unique": 97
+        },
+        "tctx_opponent_shot_attempts_pg": {
+          "observed": 137,
+          "unique": 95
+        },
+        "tctx_opponent_three_attempt_share": {
+          "observed": 137,
+          "unique": 98
+        },
+        "tctx_opponent_turnovers_per_fga": {
+          "observed": 137,
+          "unique": 98
+        },
+        "tctx_points_pg": {
+          "observed": 137,
+          "unique": 98
+        },
+        "tctx_shot_attempts_pg": {
+          "observed": 137,
+          "unique": 96
+        },
+        "tctx_steals_per_opponent_turnover": {
+          "observed": 137,
+          "unique": 98
+        },
+        "tctx_three_attempt_share": {
+          "observed": 137,
+          "unique": 98
+        },
+        "tctx_turnovers_per_fga": {
+          "observed": 137,
+          "unique": 98
+        }
+      },
+      "all35_features_training_eligible": true,
+      "new_design_checks": 152,
+      "training_rows": 251,
+      "query_rows": 55
+    },
+    {
+      "year": 2013,
+      "three_selected_baseline_reference_inputs_exact": true,
+      "baseline_train_matrix_hash": "5d6a06dd6f0fa87e7f92259da0525555b6ed75da1d30e01d3fa06998a8b60658",
+      "baseline_query_matrix_hash": "2fe979f4708d7b59517588eb321fbc31deccbf8a04365ce063956460a923272d",
+      "baseline_columns": [
+        "ctx_base_stl_pct",
+        "ctx_base_dunk_made",
+        "ctx_skill_creation_control",
+        "ctx_base_dunk_attempts",
+        "ctx_base_fg2_pct",
+        "ctx_base_ast_tov",
+        "ctx_base_stl_pg",
+        "ctx_base_ast_pct",
+        "ctx_base_fouls40",
+        "ctx_base_blk_pg",
+        "ctx_base_rim_made",
+        "ctx_base_ftr",
+        "ctx_base_mid_attempts",
+        "ctx_base_tov_pct",
+        "ctx_base_dreb_pg",
+        "ctx_base_fg2m",
+        "ctx_skill_defense_discipline",
+        "ctx_base_fg2a",
+        "ctx_base_three_share",
+        "ctx_base_ast_pg",
+        "ctx_base_mpg",
+        "ctx_skill_usage_efficiency",
+        "ctx_base_rim_attempts",
+        "ctx_base_efg",
+        "ctx_base_pts_pg",
+        "ctx_base_blk_pct",
+        "ctx_base_oreb_pg",
+        "ctx_skill_ft_volume",
+        "ctx_base_fg3_pct",
+        "ctx_base_orb",
+        "ctx_base_drb",
+        "ctx_base_fg3a",
+        "ctx_base_fg3m",
+        "ctx_base_usage",
+        "ctx_base_ts",
+        "ctx_base_ft_pct",
+        "ctx_base_minutes_share",
+        "ctx_base_gp",
+        "slot_037",
+        "slot_038",
+        "slot_039",
+        "slot_040",
+        "slot_041",
+        "slot_042"
+      ],
+      "training_pid_hash": "3e1ea99ada4f867213ffffce4002475f0d36a9923cd3b73ce84dd91b32e46d27",
+      "query_pid_hash": "d8b6a5bec5cd9dad1f9be541908b7c97fd63471d927b07eb8107eb598f3e2dce",
+      "labels_hash": "e9f96c922633d6340a3c817cec1f254393fc9e8750b8c5337b5cd2731892ecd4",
+      "candidate_training_counts": {
+        "cgd_observed_gp": {
+          "observed": 199,
+          "unique": 23
+        },
+        "cgd_two_m_pg": {
+          "observed": 199,
+          "unique": 182
+        },
+        "cgd_two_a_pg": {
+          "observed": 199,
+          "unique": 193
+        },
+        "cgd_three_m_pg": {
+          "observed": 199,
+          "unique": 151
+        },
+        "cgd_three_a_pg": {
+          "observed": 199,
+          "unique": 165
+        },
+        "cgd_ft_m_pg": {
+          "observed": 199,
+          "unique": 182
+        },
+        "cgd_ft_a_pg": {
+          "observed": 199,
+          "unique": 189
+        },
+        "cgd_points_pg": {
+          "observed": 199,
+          "unique": 197
+        },
+        "cgd_orb_pg": {
+          "observed": 199,
+          "unique": 184
+        },
+        "cgd_drb_pg": {
+          "observed": 199,
+          "unique": 188
+        },
+        "cgd_ast_pg": {
+          "observed": 199,
+          "unique": 189
+        },
+        "cgd_tov_pg": {
+          "observed": 199,
+          "unique": 178
+        },
+        "cgd_stl_pg": {
+          "observed": 199,
+          "unique": 165
+        },
+        "cgd_blk_pg": {
+          "observed": 199,
+          "unique": 173
+        },
+        "cgd_pf_pg": {
+          "observed": 199,
+          "unique": 164
+        },
+        "tctx_assists_per_made_fg": {
+          "observed": 192,
+          "unique": 141
+        },
+        "tctx_blocks_per_opponent_fga": {
+          "observed": 192,
+          "unique": 141
+        },
+        "tctx_defensive_rebound_share": {
+          "observed": 192,
+          "unique": 141
+        },
+        "tctx_efg": {
+          "observed": 192,
+          "unique": 141
+        },
+        "tctx_efg_margin": {
+          "observed": 192,
+          "unique": 141
+        },
+        "tctx_ft_attempts_per_fga": {
+          "observed": 192,
+          "unique": 141
+        },
+        "tctx_margin_pg": {
+          "observed": 192,
+          "unique": 137
+        },
+        "tctx_offensive_rebound_share": {
+          "observed": 192,
+          "unique": 141
+        },
+        "tctx_opponent_assists_per_made_fg": {
+          "observed": 192,
+          "unique": 141
+        },
+        "tctx_opponent_efg": {
+          "observed": 192,
+          "unique": 141
+        },
+        "tctx_opponent_ft_attempts_per_fga": {
+          "observed": 192,
+          "unique": 141
+        },
+        "tctx_opponent_points_pg": {
+          "observed": 192,
+          "unique": 140
+        },
+        "tctx_opponent_shot_attempts_pg": {
+          "observed": 192,
+          "unique": 136
+        },
+        "tctx_opponent_three_attempt_share": {
+          "observed": 192,
+          "unique": 141
+        },
+        "tctx_opponent_turnovers_per_fga": {
+          "observed": 192,
+          "unique": 141
+        },
+        "tctx_points_pg": {
+          "observed": 192,
+          "unique": 139
+        },
+        "tctx_shot_attempts_pg": {
+          "observed": 192,
+          "unique": 138
+        },
+        "tctx_steals_per_opponent_turnover": {
+          "observed": 192,
+          "unique": 141
+        },
+        "tctx_three_attempt_share": {
+          "observed": 192,
+          "unique": 141
+        },
+        "tctx_turnovers_per_fga": {
+          "observed": 192,
+          "unique": 141
+        }
+      },
+      "all35_features_training_eligible": true,
+      "new_design_checks": 152,
+      "training_rows": 329,
+      "query_rows": 50
+    },
+    {
+      "year": 2014,
+      "three_selected_baseline_reference_inputs_exact": true,
+      "baseline_train_matrix_hash": "c9109c72d995e6ec94ab41522a9c6468700a320a149967346430530d1e98a540",
+      "baseline_query_matrix_hash": "a340fce3ab56ba16d8467e6ac355975915ba4229875c75ace727b705408911c5",
+      "baseline_columns": [
+        "ctx_base_stl_pct",
+        "ctx_base_fg3a",
+        "ctx_base_mid_attempts",
+        "ctx_skill_defense_discipline",
+        "ctx_base_ast_pg",
+        "ctx_base_stl_pg",
+        "ctx_base_ast_tov",
+        "ctx_base_dunk_attempts",
+        "ctx_base_oreb_pg",
+        "ctx_base_fg2_pct",
+        "ctx_skill_usage_efficiency",
+        "ctx_base_dunk_made",
+        "ctx_base_fg2m",
+        "ctx_skill_creation_control",
+        "ctx_base_fg3m",
+        "ctx_base_tov_pct",
+        "ctx_base_fg2a",
+        "ctx_base_dreb_pg",
+        "ctx_base_rim_attempts",
+        "ctx_base_rim_made",
+        "ctx_base_ts",
+        "ctx_base_three_share",
+        "ctx_base_ftr",
+        "ctx_base_fg3_pct",
+        "ctx_base_mpg",
+        "ctx_base_ft_pct",
+        "ctx_skill_ft_volume",
+        "ctx_base_ast_pct",
+        "ctx_base_blk_pg",
+        "ctx_base_fouls40",
+        "ctx_base_drb",
+        "ctx_base_minutes_share",
+        "ctx_base_blk_pct",
+        "ctx_base_pts_pg",
+        "ctx_base_gp",
+        "ctx_base_usage",
+        "ctx_base_efg",
+        "ctx_base_orb",
+        "slot_037",
+        "slot_038",
+        "slot_039",
+        "slot_040",
+        "slot_041",
+        "slot_042"
+      ],
+      "training_pid_hash": "87590a0c81687ff9c79ad38253a55de7e1c6fe9825534ec6fabf8eea346fb211",
+      "query_pid_hash": "03eb0bc5d5dd11e2f295c90ba42f9ed183e52f26f7b7f48855b98245ede7061b",
+      "labels_hash": "5e054894fe84343ac87ce1c48c9abbd5759eee8a0c57f0c9736d10c593b10168",
+      "candidate_training_counts": {
+        "cgd_observed_gp": {
+          "observed": 255,
+          "unique": 24
+        },
+        "cgd_two_m_pg": {
+          "observed": 255,
+          "unique": 229
+        },
+        "cgd_two_a_pg": {
+          "observed": 255,
+          "unique": 241
+        },
+        "cgd_three_m_pg": {
+          "observed": 255,
+          "unique": 192
+        },
+        "cgd_three_a_pg": {
+          "observed": 255,
+          "unique": 209
+        },
+        "cgd_ft_m_pg": {
+          "observed": 255,
+          "unique": 226
+        },
+        "cgd_ft_a_pg": {
+          "observed": 255,
+          "unique": 238
+        },
+        "cgd_points_pg": {
+          "observed": 255,
+          "unique": 251
+        },
+        "cgd_orb_pg": {
+          "observed": 255,
+          "unique": 225
+        },
+        "cgd_drb_pg": {
+          "observed": 255,
+          "unique": 236
+        },
+        "cgd_ast_pg": {
+          "observed": 255,
+          "unique": 232
+        },
+        "cgd_tov_pg": {
+          "observed": 255,
+          "unique": 217
+        },
+        "cgd_stl_pg": {
+          "observed": 255,
+          "unique": 200
+        },
+        "cgd_blk_pg": {
+          "observed": 255,
+          "unique": 207
+        },
+        "cgd_pf_pg": {
+          "observed": 255,
+          "unique": 208
+        },
+        "tctx_assists_per_made_fg": {
+          "observed": 244,
+          "unique": 177
+        },
+        "tctx_blocks_per_opponent_fga": {
+          "observed": 244,
+          "unique": 176
+        },
+        "tctx_defensive_rebound_share": {
+          "observed": 244,
+          "unique": 177
+        },
+        "tctx_efg": {
+          "observed": 244,
+          "unique": 177
+        },
+        "tctx_efg_margin": {
+          "observed": 244,
+          "unique": 177
+        },
+        "tctx_ft_attempts_per_fga": {
+          "observed": 244,
+          "unique": 177
+        },
+        "tctx_margin_pg": {
+          "observed": 244,
+          "unique": 171
+        },
+        "tctx_offensive_rebound_share": {
+          "observed": 244,
+          "unique": 177
+        },
+        "tctx_opponent_assists_per_made_fg": {
+          "observed": 244,
+          "unique": 177
+        },
+        "tctx_opponent_efg": {
+          "observed": 244,
+          "unique": 177
+        },
+        "tctx_opponent_ft_attempts_per_fga": {
+          "observed": 244,
+          "unique": 177
+        },
+        "tctx_opponent_points_pg": {
+          "observed": 244,
+          "unique": 174
+        },
+        "tctx_opponent_shot_attempts_pg": {
+          "observed": 244,
+          "unique": 171
+        },
+        "tctx_opponent_three_attempt_share": {
+          "observed": 244,
+          "unique": 176
+        },
+        "tctx_opponent_turnovers_per_fga": {
+          "observed": 244,
+          "unique": 175
+        },
+        "tctx_points_pg": {
+          "observed": 244,
+          "unique": 175
+        },
+        "tctx_shot_attempts_pg": {
+          "observed": 244,
+          "unique": 171
+        },
+        "tctx_steals_per_opponent_turnover": {
+          "observed": 244,
+          "unique": 176
+        },
+        "tctx_three_attempt_share": {
+          "observed": 244,
+          "unique": 177
+        },
+        "tctx_turnovers_per_fga": {
+          "observed": 244,
+          "unique": 177
+        }
+      },
+      "all35_features_training_eligible": true,
+      "new_design_checks": 152,
+      "training_rows": 403,
+      "query_rows": 53
+    }
+  ],
+  "constructors": [
+    {
+      "width": 44,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 0,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "width": 45,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 0,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "width": 59,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 0,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "width": 64,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 0,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "width": 79,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 0,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "width": 44,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 101,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "width": 45,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 101,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "width": 59,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 101,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "width": 64,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 101,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "width": 79,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 101,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "width": 44,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 202,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "width": 45,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 202,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "width": 59,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 202,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "width": 64,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 202,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "width": 79,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 202,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    }
+  ],
+  "frozen_manifest_sha256": "39f3655d64e98fd0596f0420d0113d8bac12ecce353bc5e79b6075a637279fbf"
+}

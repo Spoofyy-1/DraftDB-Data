@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "models_fitted": 0,
+  "new_deletion_subsets": 16,
+  "joint_permutation_subsets": 26,
+  "joint_permutation_variants": 78,
+  "tasks": 330,
+  "exact_A_reference_contracts": 48,
+  "missing_reference_blocks_interpretation": true,
+  "independent_joint_vector_cohort_and_mask_counter_check": true,
+  "unchanged_columns_order_and_original_immutability": true,
+  "tamper_rejections": [
+    "raw_prediction",
+    "canonical_prediction",
+    "future_label",
+    "constructor",
+    "joint_covariance_without_marginal_change",
+    "unregistered_predictor",
+    "unregistered_permutation_seed"
+  ]
+}

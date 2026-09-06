@@ -1,0 +1,390 @@
+{
+  "passed": true,
+  "models_fitted": 0,
+  "folds": [
+    {
+      "year": 2012,
+      "reference_designs_exact": 48,
+      "full_train_matrix_hash": "3a8ed99b88502f86c97b5ed8f65c3e9a9327964fb9db5cec2e1d3be83aa1fa31",
+      "full_query_matrix_hash": "28c72670b47b600ac3863af87fbc25833bdb1ed4f0024c120921463e2b4fd7a3",
+      "training_pid_hash": "942b832ebefe65ae1744f4b3f97b657400217df5af0b2df6e2579fdcaa17b07e",
+      "query_pid_hash": "a45cd8b1dd63e13a3893134a181c328319d3e1eadeb55f4749529e2f545f0373",
+      "labels_hash": "aa36072210d1d3b80c0bcc1e328b5c28768f1a31f3ecd29cfd79a1435eead527",
+      "full_columns": [
+        "ctx_base_stl_pg",
+        "ctx_base_fta",
+        "ctx_base_dunk_attempts",
+        "ctx_base_fg2_pct",
+        "ctx_skill_defense_discipline",
+        "ctx_skill_creation_control",
+        "ctx_base_rim_made",
+        "ctx_skill_usage_efficiency",
+        "ctx_base_ftr",
+        "ctx_base_mid_attempts",
+        "ctx_base_fg2m",
+        "ctx_base_ast_tov",
+        "ctx_base_fg3a",
+        "ctx_base_ast_pg",
+        "ctx_base_dunk_made",
+        "ctx_skill_ft_volume",
+        "ctx_base_pts_pg",
+        "ctx_base_fg3m",
+        "ctx_base_ast_pct",
+        "ctx_base_fouls40",
+        "ctx_base_drb",
+        "ctx_base_mid_made",
+        "ctx_base_ftm",
+        "ctx_base_stl_pct",
+        "ctx_base_blk_pct",
+        "ctx_base_oreb_pg",
+        "ctx_base_three_share",
+        "ctx_base_orb",
+        "ctx_base_usage",
+        "ctx_base_dreb_pg",
+        "ctx_base_fg3_pct",
+        "ctx_base_blk_pg",
+        "ctx_base_gp",
+        "ctx_base_efg",
+        "ctx_base_rim_attempts",
+        "ctx_base_minutes_share",
+        "ctx_base_ft_pct",
+        "ctx_base_tov_pct",
+        "ctx_base_ts",
+        "ctx_base_fg2a",
+        "ctx_base_mpg",
+        "slot_037",
+        "slot_038",
+        "slot_039",
+        "slot_040",
+        "slot_041",
+        "slot_042"
+      ],
+      "design_checks": 94,
+      "training_rows": 251,
+      "query_rows": 55
+    },
+    {
+      "year": 2013,
+      "reference_designs_exact": 48,
+      "full_train_matrix_hash": "0cc39c9e4e54b14e468f9ddeb1b6fb824de83a27bad14e46126d012e83ecfa6e",
+      "full_query_matrix_hash": "854f96cb3e23f3762b73b19a834eeaf1d588adb64b0e2125d82594d04aad3c6e",
+      "training_pid_hash": "3e1ea99ada4f867213ffffce4002475f0d36a9923cd3b73ce84dd91b32e46d27",
+      "query_pid_hash": "d8b6a5bec5cd9dad1f9be541908b7c97fd63471d927b07eb8107eb598f3e2dce",
+      "labels_hash": "e9f96c922633d6340a3c817cec1f254393fc9e8750b8c5337b5cd2731892ecd4",
+      "full_columns": [
+        "ctx_base_stl_pct",
+        "ctx_base_dunk_made",
+        "ctx_base_mid_made",
+        "ctx_skill_creation_control",
+        "ctx_base_dunk_attempts",
+        "ctx_base_fg2_pct",
+        "ctx_base_ast_tov",
+        "ctx_base_stl_pg",
+        "ctx_base_ast_pct",
+        "ctx_base_fta",
+        "ctx_base_fouls40",
+        "ctx_base_blk_pg",
+        "ctx_base_rim_made",
+        "ctx_base_ftr",
+        "ctx_base_mid_attempts",
+        "ctx_base_tov_pct",
+        "ctx_base_dreb_pg",
+        "ctx_base_fg2m",
+        "ctx_base_ftm",
+        "ctx_skill_defense_discipline",
+        "ctx_base_fg2a",
+        "ctx_base_three_share",
+        "ctx_base_ast_pg",
+        "ctx_base_mpg",
+        "ctx_skill_usage_efficiency",
+        "ctx_base_rim_attempts",
+        "ctx_base_efg",
+        "ctx_base_pts_pg",
+        "ctx_base_blk_pct",
+        "ctx_base_oreb_pg",
+        "ctx_skill_ft_volume",
+        "ctx_base_fg3_pct",
+        "ctx_base_orb",
+        "ctx_base_drb",
+        "ctx_base_fg3a",
+        "ctx_base_fg3m",
+        "ctx_base_usage",
+        "ctx_base_ts",
+        "ctx_base_ft_pct",
+        "ctx_base_minutes_share",
+        "ctx_base_gp",
+        "slot_037",
+        "slot_038",
+        "slot_039",
+        "slot_040",
+        "slot_041",
+        "slot_042"
+      ],
+      "design_checks": 94,
+      "training_rows": 329,
+      "query_rows": 50
+    },
+    {
+      "year": 2014,
+      "reference_designs_exact": 48,
+      "full_train_matrix_hash": "77883e5ed4c9bb9346ef6cf8c6a8d7aea56608b67557fc587415777f70627ec6",
+      "full_query_matrix_hash": "29ebb3aa88efbabb4d7988592f99671f346dc79695a280085e03d27e9b36bcbd",
+      "training_pid_hash": "87590a0c81687ff9c79ad38253a55de7e1c6fe9825534ec6fabf8eea346fb211",
+      "query_pid_hash": "03eb0bc5d5dd11e2f295c90ba42f9ed183e52f26f7b7f48855b98245ede7061b",
+      "labels_hash": "5e054894fe84343ac87ce1c48c9abbd5759eee8a0c57f0c9736d10c593b10168",
+      "full_columns": [
+        "ctx_base_stl_pct",
+        "ctx_base_fg3a",
+        "ctx_base_mid_attempts",
+        "ctx_skill_defense_discipline",
+        "ctx_base_ast_pg",
+        "ctx_base_stl_pg",
+        "ctx_base_ast_tov",
+        "ctx_base_dunk_attempts",
+        "ctx_base_ftm",
+        "ctx_base_oreb_pg",
+        "ctx_base_fg2_pct",
+        "ctx_skill_usage_efficiency",
+        "ctx_base_dunk_made",
+        "ctx_base_fg2m",
+        "ctx_skill_creation_control",
+        "ctx_base_fg3m",
+        "ctx_base_tov_pct",
+        "ctx_base_fg2a",
+        "ctx_base_dreb_pg",
+        "ctx_base_mid_made",
+        "ctx_base_rim_attempts",
+        "ctx_base_rim_made",
+        "ctx_base_fta",
+        "ctx_base_ts",
+        "ctx_base_three_share",
+        "ctx_base_ftr",
+        "ctx_base_fg3_pct",
+        "ctx_base_mpg",
+        "ctx_base_ft_pct",
+        "ctx_skill_ft_volume",
+        "ctx_base_ast_pct",
+        "ctx_base_blk_pg",
+        "ctx_base_fouls40",
+        "ctx_base_drb",
+        "ctx_base_minutes_share",
+        "ctx_base_blk_pct",
+        "ctx_base_pts_pg",
+        "ctx_base_gp",
+        "ctx_base_usage",
+        "ctx_base_efg",
+        "ctx_base_orb",
+        "slot_037",
+        "slot_038",
+        "slot_039",
+        "slot_040",
+        "slot_041",
+        "slot_042"
+      ],
+      "design_checks": 94,
+      "training_rows": 403,
+      "query_rows": 53
+    }
+  ],
+  "constructors": [
+    {
+      "width": 42,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 0,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "width": 43,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 0,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "width": 44,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 0,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "width": 45,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 0,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "width": 46,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 0,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "width": 47,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 0,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "width": 42,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 101,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "width": 43,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 101,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "width": 44,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 101,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "width": 45,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 101,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "width": 46,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 101,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "width": 47,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 101,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "width": 42,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 202,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "width": 43,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 202,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "width": 44,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 202,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "width": 45,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 202,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "width": 46,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 202,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "width": 47,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 202,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    }
+  ],
+  "frozen_manifest_sha256": "18aeeca6b66ee022c7b588198afa0be3b4ca536e67a28633e74461aa0b37f5b9"
+}

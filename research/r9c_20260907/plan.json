@@ -1,0 +1,2546 @@
+{
+  "diagnostic_only": true,
+  "no_confirmation_or_test_scoring": true,
+  "folds": [
+    2012,
+    2013,
+    2014
+  ],
+  "seeds": [
+    0,
+    101,
+    202
+  ],
+  "permutation_seeds": [
+    9317,
+    18739,
+    28657
+  ],
+  "model_constructor": {
+    "device": "cuda",
+    "n_estimators": 32,
+    "random_state": "task_seed",
+    "batch_size": 32,
+    "norm_methods": "none",
+    "outlier_threshold": 2.0
+  },
+  "ordering_policy": {
+    "version": "sha256_pid_exact_vector_mean_v1",
+    "row_order": "Sort train and query rows by SHA256(UTF8(pid)), with pid as deterministic collision tiebreaker, before selection and prediction. Identity/order keys never become predictors.",
+    "input_equivalence": "All selected predictor values must be numerically identical. NaNs compare equal; positive/negative zero compare equal. Distinct vectors are never quantized or merged.",
+    "prediction_ties": "Within each query group of exactly identical full predictor vectors, assign every row the arithmetic mean of its raw predictions using math.fsum over sorted float64 values.",
+    "raw_preservation": "Save raw and canonical prediction for every pid, exact duplicate groups and policy hash. All scoring uses canonical predictions with Spearman average ranks.",
+    "registration_basis": "R8order numerical audit found8 all-missing duplicate inputs with floating-point score splitting; no outcome score was used to choose this policy.",
+    "new_baseline": "Every background baseline reruns under this policy. Do not pool these scores with raw-prediction R8s or earlier studies."
+  },
+  "study": "R9c approved college game/team diagnostic",
+  "baseline": {
+    "source": "r9b",
+    "id": "drop5_001",
+    "config": {
+      "id": "drop5_001",
+      "kind": "delete",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_mid_made"
+      ],
+      "arm": "RR"
+    },
+    "removed_columns": [
+      "ctx_base_fta",
+      "ctx_base_ftm",
+      "ctx_base_mid_made"
+    ],
+    "selection_result": {
+      "source": "r9b",
+      "id": "drop5_001",
+      "kind": "delete",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_mid_made"
+      ],
+      "source_fields": [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_mid_made"
+      ],
+      "real_mean": 0.39038157020591013,
+      "mean_delta_vs_full": 0.033873778591891404,
+      "fold_deltas": {
+        "2012": 0.020082132316860863,
+        "2013": 0.049823888724630706,
+        "2014": 0.03171531473418263
+      },
+      "seed_deltas": {
+        "0": 0.03768076916867641,
+        "101": 0.03502568428505839,
+        "202": 0.028914882321939412
+      },
+      "paired_rows": [
+        {
+          "seed": 0,
+          "season": 2012,
+          "score": 0.3601075056052198,
+          "full_score": 0.3292267177071966,
+          "delta": 0.030880787898023232
+        },
+        {
+          "seed": 0,
+          "season": 2013,
+          "score": 0.3575888671801501,
+          "full_score": 0.30389049867680457,
+          "delta": 0.05369836850334553
+        },
+        {
+          "seed": 0,
+          "season": 2014,
+          "score": 0.45291082083534906,
+          "full_score": 0.4244476697306886,
+          "delta": 0.028463151104660467
+        },
+        {
+          "seed": 101,
+          "season": 2012,
+          "score": 0.3572214506614793,
+          "full_score": 0.3389671531423208,
+          "delta": 0.018254297519158524
+        },
+        {
+          "seed": 101,
+          "season": 2013,
+          "score": 0.36719501539183985,
+          "full_score": 0.31359270837061115,
+          "delta": 0.0536023070212287
+        },
+        {
+          "seed": 101,
+          "season": 2014,
+          "score": 0.4530720851475568,
+          "full_score": 0.4198516368327689,
+          "delta": 0.03322044831478793
+        },
+        {
+          "seed": 202,
+          "season": 2012,
+          "score": 0.35585057456320257,
+          "full_score": 0.34473926302980173,
+          "delta": 0.011111311533400836
+        },
+        {
+          "seed": 202,
+          "season": 2013,
+          "score": 0.3548030841987601,
+          "full_score": 0.3126320935494422,
+          "delta": 0.0421709906493179
+        },
+        {
+          "seed": 202,
+          "season": 2014,
+          "score": 0.4546847282696339,
+          "full_score": 0.4212223834865344,
+          "delta": 0.03346234478309951
+        }
+      ]
+    },
+    "rule": "Highest development mean across completed A and B deletions with strictly positive differences versus full X in every fold mean and every model seed mean; otherwise full X. Exact ties use source then id lexical order.",
+    "source_hashes": {
+      "r9a": {
+        "summary_sha256": "e318ac207769e01a64e7cd372905ae1bf7ad3b6915603ad83982df3c58e628d7",
+        "verification_sha256": "beff1f798dc6f79e23118074d4216c83fd3dc97b2b699bd8ea8d998b437ab529"
+      },
+      "r9b": {
+        "summary_sha256": "5e84ef9177ed62256e8bd4abd43871382a6230b9bdf8849d78576ba32710af4c",
+        "verification_sha256": "37062bae023d90a65a71cfc375e5c7c2265df223080fce9b977d86f056690546"
+      }
+    }
+  },
+  "reference_id": "drop5_001",
+  "features": [
+    "cgd_observed_gp",
+    "cgd_two_m_pg",
+    "cgd_two_a_pg",
+    "cgd_three_m_pg",
+    "cgd_three_a_pg",
+    "cgd_ft_m_pg",
+    "cgd_ft_a_pg",
+    "cgd_points_pg",
+    "cgd_orb_pg",
+    "cgd_drb_pg",
+    "cgd_ast_pg",
+    "cgd_tov_pg",
+    "cgd_stl_pg",
+    "cgd_blk_pg",
+    "cgd_pf_pg",
+    "tctx_assists_per_made_fg",
+    "tctx_blocks_per_opponent_fga",
+    "tctx_defensive_rebound_share",
+    "tctx_efg",
+    "tctx_efg_margin",
+    "tctx_ft_attempts_per_fga",
+    "tctx_margin_pg",
+    "tctx_offensive_rebound_share",
+    "tctx_opponent_assists_per_made_fg",
+    "tctx_opponent_efg",
+    "tctx_opponent_ft_attempts_per_fga",
+    "tctx_opponent_points_pg",
+    "tctx_opponent_shot_attempts_pg",
+    "tctx_opponent_three_attempt_share",
+    "tctx_opponent_turnovers_per_fga",
+    "tctx_points_pg",
+    "tctx_shot_attempts_pg",
+    "tctx_steals_per_opponent_turnover",
+    "tctx_three_attempt_share",
+    "tctx_turnovers_per_fga"
+  ],
+  "families": {
+    "game": [
+      "cgd_observed_gp",
+      "cgd_two_m_pg",
+      "cgd_two_a_pg",
+      "cgd_three_m_pg",
+      "cgd_three_a_pg",
+      "cgd_ft_m_pg",
+      "cgd_ft_a_pg",
+      "cgd_points_pg",
+      "cgd_orb_pg",
+      "cgd_drb_pg",
+      "cgd_ast_pg",
+      "cgd_tov_pg",
+      "cgd_stl_pg",
+      "cgd_blk_pg",
+      "cgd_pf_pg"
+    ],
+    "team": [
+      "tctx_assists_per_made_fg",
+      "tctx_blocks_per_opponent_fga",
+      "tctx_defensive_rebound_share",
+      "tctx_efg",
+      "tctx_efg_margin",
+      "tctx_ft_attempts_per_fga",
+      "tctx_margin_pg",
+      "tctx_offensive_rebound_share",
+      "tctx_opponent_assists_per_made_fg",
+      "tctx_opponent_efg",
+      "tctx_opponent_ft_attempts_per_fga",
+      "tctx_opponent_points_pg",
+      "tctx_opponent_shot_attempts_pg",
+      "tctx_opponent_three_attempt_share",
+      "tctx_opponent_turnovers_per_fga",
+      "tctx_points_pg",
+      "tctx_shot_attempts_pg",
+      "tctx_steals_per_opponent_turnover",
+      "tctx_three_attempt_share",
+      "tctx_turnovers_per_fga"
+    ],
+    "all": [
+      "cgd_observed_gp",
+      "cgd_two_m_pg",
+      "cgd_two_a_pg",
+      "cgd_three_m_pg",
+      "cgd_three_a_pg",
+      "cgd_ft_m_pg",
+      "cgd_ft_a_pg",
+      "cgd_points_pg",
+      "cgd_orb_pg",
+      "cgd_drb_pg",
+      "cgd_ast_pg",
+      "cgd_tov_pg",
+      "cgd_stl_pg",
+      "cgd_blk_pg",
+      "cgd_pf_pg",
+      "tctx_assists_per_made_fg",
+      "tctx_blocks_per_opponent_fga",
+      "tctx_defensive_rebound_share",
+      "tctx_efg",
+      "tctx_efg_margin",
+      "tctx_ft_attempts_per_fga",
+      "tctx_margin_pg",
+      "tctx_offensive_rebound_share",
+      "tctx_opponent_assists_per_made_fg",
+      "tctx_opponent_efg",
+      "tctx_opponent_ft_attempts_per_fga",
+      "tctx_opponent_points_pg",
+      "tctx_opponent_shot_attempts_pg",
+      "tctx_opponent_three_attempt_share",
+      "tctx_opponent_turnovers_per_fga",
+      "tctx_points_pg",
+      "tctx_shot_attempts_pg",
+      "tctx_steals_per_opponent_turnover",
+      "tctx_three_attempt_share",
+      "tctx_turnovers_per_fga"
+    ]
+  },
+  "algebraic_representation_features": [
+    "cgd_observed_gp",
+    "cgd_two_m_pg",
+    "cgd_two_a_pg",
+    "cgd_three_m_pg",
+    "cgd_three_a_pg",
+    "cgd_ft_m_pg",
+    "cgd_ft_a_pg",
+    "cgd_points_pg"
+  ],
+  "source_admission": {
+    "study": "R9c",
+    "scope": "One bounded pre2019 development diagnostic of35 physically allowlisted player-game/team-context columns; no source package global admission or certification",
+    "authorized_by": "Parent task following source-join code review and seven passing tests",
+    "source_candidate_sha256": "98f485709f136b5e4f716b6e15c877649fc48a7bb80fe38e9d9876317bebf596",
+    "source_model_eligible_flag_remains_false": true,
+    "private_augmented_csv_permitted": false,
+    "new_network_or_outcome_reads": false,
+    "limitations": "Retrospective publication/revision vintage and full schedules are not established; source credited-event, DNP/minutes and prospect-universe caveats remain."
+  },
+  "source_schema": [
+    "pid",
+    "draft_year",
+    "cgd_observed_gp",
+    "cgd_two_m_pg",
+    "cgd_two_a_pg",
+    "cgd_three_m_pg",
+    "cgd_three_a_pg",
+    "cgd_ft_m_pg",
+    "cgd_ft_a_pg",
+    "cgd_points_pg",
+    "cgd_orb_pg",
+    "cgd_drb_pg",
+    "cgd_ast_pg",
+    "cgd_tov_pg",
+    "cgd_stl_pg",
+    "cgd_blk_pg",
+    "cgd_pf_pg",
+    "tctx_assists_per_made_fg",
+    "tctx_blocks_per_opponent_fga",
+    "tctx_defensive_rebound_share",
+    "tctx_efg",
+    "tctx_efg_margin",
+    "tctx_ft_attempts_per_fga",
+    "tctx_margin_pg",
+    "tctx_offensive_rebound_share",
+    "tctx_opponent_assists_per_made_fg",
+    "tctx_opponent_efg",
+    "tctx_opponent_ft_attempts_per_fga",
+    "tctx_opponent_points_pg",
+    "tctx_opponent_shot_attempts_pg",
+    "tctx_opponent_three_attempt_share",
+    "tctx_opponent_turnovers_per_fga",
+    "tctx_points_pg",
+    "tctx_shot_attempts_pg",
+    "tctx_steals_per_opponent_turnover",
+    "tctx_three_attempt_share",
+    "tctx_turnovers_per_fga"
+  ],
+  "source_rows": 1458,
+  "study_rows": 1428,
+  "slot_policy": "All single features use identical slot_043. Each family appends slots from slot_043 onward in frozen eligible source order; real/control columns, width, base values and missing masks match within fold.",
+  "eligibility": {
+    "minimum_observed_training_rows": 5,
+    "minimum_unique_training_values": 2,
+    "validation_used_for_selection": false
+  },
+  "controls": {
+    "single": "Same-role/cohort/own-mask value shuffles, three prespecified permutation seeds. All single real/control arms share one slot.",
+    "family": "Whole selected family vectors shuffled within role/cohort/exact joint missingness pattern; preserve masks, joint vector distribution and within-family algebra/covariance. May break dependence with the baseline. Sparse strata can be immovable.",
+    "interpretation": "Report real-minus-shuffled paired by model seed/fold and actual real-minus-baseline separately. Added width can change behavior without information; neither width changes nor three permutation seeds establish significance. Eight GP/shooting fields are alternative representations of existing observations, including any removed baseline fields. No source certification, automatic promotion, test or confirmation."
+  },
+  "reference_gate": "Three selected-baseline full raw/canonical predictions, scores and complete input audits must match before interpretation.",
+  "groups": [
+    {
+      "id": "single_000",
+      "kind": "single",
+      "features": [
+        "cgd_observed_gp"
+      ],
+      "algebraic_representation": true
+    },
+    {
+      "id": "single_001",
+      "kind": "single",
+      "features": [
+        "cgd_two_m_pg"
+      ],
+      "algebraic_representation": true
+    },
+    {
+      "id": "single_002",
+      "kind": "single",
+      "features": [
+        "cgd_two_a_pg"
+      ],
+      "algebraic_representation": true
+    },
+    {
+      "id": "single_003",
+      "kind": "single",
+      "features": [
+        "cgd_three_m_pg"
+      ],
+      "algebraic_representation": true
+    },
+    {
+      "id": "single_004",
+      "kind": "single",
+      "features": [
+        "cgd_three_a_pg"
+      ],
+      "algebraic_representation": true
+    },
+    {
+      "id": "single_005",
+      "kind": "single",
+      "features": [
+        "cgd_ft_m_pg"
+      ],
+      "algebraic_representation": true
+    },
+    {
+      "id": "single_006",
+      "kind": "single",
+      "features": [
+        "cgd_ft_a_pg"
+      ],
+      "algebraic_representation": true
+    },
+    {
+      "id": "single_007",
+      "kind": "single",
+      "features": [
+        "cgd_points_pg"
+      ],
+      "algebraic_representation": true
+    },
+    {
+      "id": "single_008",
+      "kind": "single",
+      "features": [
+        "cgd_orb_pg"
+      ],
+      "algebraic_representation": false
+    },
+    {
+      "id": "single_009",
+      "kind": "single",
+      "features": [
+        "cgd_drb_pg"
+      ],
+      "algebraic_representation": false
+    },
+    {
+      "id": "single_010",
+      "kind": "single",
+      "features": [
+        "cgd_ast_pg"
+      ],
+      "algebraic_representation": false
+    },
+    {
+      "id": "single_011",
+      "kind": "single",
+      "features": [
+        "cgd_tov_pg"
+      ],
+      "algebraic_representation": false
+    },
+    {
+      "id": "single_012",
+      "kind": "single",
+      "features": [
+        "cgd_stl_pg"
+      ],
+      "algebraic_representation": false
+    },
+    {
+      "id": "single_013",
+      "kind": "single",
+      "features": [
+        "cgd_blk_pg"
+      ],
+      "algebraic_representation": false
+    },
+    {
+      "id": "single_014",
+      "kind": "single",
+      "features": [
+        "cgd_pf_pg"
+      ],
+      "algebraic_representation": false
+    },
+    {
+      "id": "single_015",
+      "kind": "single",
+      "features": [
+        "tctx_assists_per_made_fg"
+      ],
+      "algebraic_representation": false
+    },
+    {
+      "id": "single_016",
+      "kind": "single",
+      "features": [
+        "tctx_blocks_per_opponent_fga"
+      ],
+      "algebraic_representation": false
+    },
+    {
+      "id": "single_017",
+      "kind": "single",
+      "features": [
+        "tctx_defensive_rebound_share"
+      ],
+      "algebraic_representation": false
+    },
+    {
+      "id": "single_018",
+      "kind": "single",
+      "features": [
+        "tctx_efg"
+      ],
+      "algebraic_representation": false
+    },
+    {
+      "id": "single_019",
+      "kind": "single",
+      "features": [
+        "tctx_efg_margin"
+      ],
+      "algebraic_representation": false
+    },
+    {
+      "id": "single_020",
+      "kind": "single",
+      "features": [
+        "tctx_ft_attempts_per_fga"
+      ],
+      "algebraic_representation": false
+    },
+    {
+      "id": "single_021",
+      "kind": "single",
+      "features": [
+        "tctx_margin_pg"
+      ],
+      "algebraic_representation": false
+    },
+    {
+      "id": "single_022",
+      "kind": "single",
+      "features": [
+        "tctx_offensive_rebound_share"
+      ],
+      "algebraic_representation": false
+    },
+    {
+      "id": "single_023",
+      "kind": "single",
+      "features": [
+        "tctx_opponent_assists_per_made_fg"
+      ],
+      "algebraic_representation": false
+    },
+    {
+      "id": "single_024",
+      "kind": "single",
+      "features": [
+        "tctx_opponent_efg"
+      ],
+      "algebraic_representation": false
+    },
+    {
+      "id": "single_025",
+      "kind": "single",
+      "features": [
+        "tctx_opponent_ft_attempts_per_fga"
+      ],
+      "algebraic_representation": false
+    },
+    {
+      "id": "single_026",
+      "kind": "single",
+      "features": [
+        "tctx_opponent_points_pg"
+      ],
+      "algebraic_representation": false
+    },
+    {
+      "id": "single_027",
+      "kind": "single",
+      "features": [
+        "tctx_opponent_shot_attempts_pg"
+      ],
+      "algebraic_representation": false
+    },
+    {
+      "id": "single_028",
+      "kind": "single",
+      "features": [
+        "tctx_opponent_three_attempt_share"
+      ],
+      "algebraic_representation": false
+    },
+    {
+      "id": "single_029",
+      "kind": "single",
+      "features": [
+        "tctx_opponent_turnovers_per_fga"
+      ],
+      "algebraic_representation": false
+    },
+    {
+      "id": "single_030",
+      "kind": "single",
+      "features": [
+        "tctx_points_pg"
+      ],
+      "algebraic_representation": false
+    },
+    {
+      "id": "single_031",
+      "kind": "single",
+      "features": [
+        "tctx_shot_attempts_pg"
+      ],
+      "algebraic_representation": false
+    },
+    {
+      "id": "single_032",
+      "kind": "single",
+      "features": [
+        "tctx_steals_per_opponent_turnover"
+      ],
+      "algebraic_representation": false
+    },
+    {
+      "id": "single_033",
+      "kind": "single",
+      "features": [
+        "tctx_three_attempt_share"
+      ],
+      "algebraic_representation": false
+    },
+    {
+      "id": "single_034",
+      "kind": "single",
+      "features": [
+        "tctx_turnovers_per_fga"
+      ],
+      "algebraic_representation": false
+    },
+    {
+      "id": "family_game",
+      "kind": "family",
+      "features": [
+        "cgd_observed_gp",
+        "cgd_two_m_pg",
+        "cgd_two_a_pg",
+        "cgd_three_m_pg",
+        "cgd_three_a_pg",
+        "cgd_ft_m_pg",
+        "cgd_ft_a_pg",
+        "cgd_points_pg",
+        "cgd_orb_pg",
+        "cgd_drb_pg",
+        "cgd_ast_pg",
+        "cgd_tov_pg",
+        "cgd_stl_pg",
+        "cgd_blk_pg",
+        "cgd_pf_pg"
+      ],
+      "algebraic_representation_features": [
+        "cgd_observed_gp",
+        "cgd_two_m_pg",
+        "cgd_two_a_pg",
+        "cgd_three_m_pg",
+        "cgd_three_a_pg",
+        "cgd_ft_m_pg",
+        "cgd_ft_a_pg",
+        "cgd_points_pg"
+      ]
+    },
+    {
+      "id": "family_team",
+      "kind": "family",
+      "features": [
+        "tctx_assists_per_made_fg",
+        "tctx_blocks_per_opponent_fga",
+        "tctx_defensive_rebound_share",
+        "tctx_efg",
+        "tctx_efg_margin",
+        "tctx_ft_attempts_per_fga",
+        "tctx_margin_pg",
+        "tctx_offensive_rebound_share",
+        "tctx_opponent_assists_per_made_fg",
+        "tctx_opponent_efg",
+        "tctx_opponent_ft_attempts_per_fga",
+        "tctx_opponent_points_pg",
+        "tctx_opponent_shot_attempts_pg",
+        "tctx_opponent_three_attempt_share",
+        "tctx_opponent_turnovers_per_fga",
+        "tctx_points_pg",
+        "tctx_shot_attempts_pg",
+        "tctx_steals_per_opponent_turnover",
+        "tctx_three_attempt_share",
+        "tctx_turnovers_per_fga"
+      ],
+      "algebraic_representation_features": []
+    },
+    {
+      "id": "family_all",
+      "kind": "family",
+      "features": [
+        "cgd_observed_gp",
+        "cgd_two_m_pg",
+        "cgd_two_a_pg",
+        "cgd_three_m_pg",
+        "cgd_three_a_pg",
+        "cgd_ft_m_pg",
+        "cgd_ft_a_pg",
+        "cgd_points_pg",
+        "cgd_orb_pg",
+        "cgd_drb_pg",
+        "cgd_ast_pg",
+        "cgd_tov_pg",
+        "cgd_stl_pg",
+        "cgd_blk_pg",
+        "cgd_pf_pg",
+        "tctx_assists_per_made_fg",
+        "tctx_blocks_per_opponent_fga",
+        "tctx_defensive_rebound_share",
+        "tctx_efg",
+        "tctx_efg_margin",
+        "tctx_ft_attempts_per_fga",
+        "tctx_margin_pg",
+        "tctx_offensive_rebound_share",
+        "tctx_opponent_assists_per_made_fg",
+        "tctx_opponent_efg",
+        "tctx_opponent_ft_attempts_per_fga",
+        "tctx_opponent_points_pg",
+        "tctx_opponent_shot_attempts_pg",
+        "tctx_opponent_three_attempt_share",
+        "tctx_opponent_turnovers_per_fga",
+        "tctx_points_pg",
+        "tctx_shot_attempts_pg",
+        "tctx_steals_per_opponent_turnover",
+        "tctx_three_attempt_share",
+        "tctx_turnovers_per_fga"
+      ],
+      "algebraic_representation_features": [
+        "cgd_observed_gp",
+        "cgd_two_m_pg",
+        "cgd_two_a_pg",
+        "cgd_three_m_pg",
+        "cgd_three_a_pg",
+        "cgd_ft_m_pg",
+        "cgd_ft_a_pg",
+        "cgd_points_pg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "drop5_001",
+      "kind": "delete",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_mid_made"
+      ],
+      "arm": "RR"
+    },
+    {
+      "id": "single_000_real",
+      "group": "single_000",
+      "kind": "single",
+      "features": [
+        "cgd_observed_gp"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "single_000_perm_9317",
+      "group": "single_000",
+      "kind": "single",
+      "features": [
+        "cgd_observed_gp"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "single_000_perm_18739",
+      "group": "single_000",
+      "kind": "single",
+      "features": [
+        "cgd_observed_gp"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "single_000_perm_28657",
+      "group": "single_000",
+      "kind": "single",
+      "features": [
+        "cgd_observed_gp"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "single_001_real",
+      "group": "single_001",
+      "kind": "single",
+      "features": [
+        "cgd_two_m_pg"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "single_001_perm_9317",
+      "group": "single_001",
+      "kind": "single",
+      "features": [
+        "cgd_two_m_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "single_001_perm_18739",
+      "group": "single_001",
+      "kind": "single",
+      "features": [
+        "cgd_two_m_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "single_001_perm_28657",
+      "group": "single_001",
+      "kind": "single",
+      "features": [
+        "cgd_two_m_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "single_002_real",
+      "group": "single_002",
+      "kind": "single",
+      "features": [
+        "cgd_two_a_pg"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "single_002_perm_9317",
+      "group": "single_002",
+      "kind": "single",
+      "features": [
+        "cgd_two_a_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "single_002_perm_18739",
+      "group": "single_002",
+      "kind": "single",
+      "features": [
+        "cgd_two_a_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "single_002_perm_28657",
+      "group": "single_002",
+      "kind": "single",
+      "features": [
+        "cgd_two_a_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "single_003_real",
+      "group": "single_003",
+      "kind": "single",
+      "features": [
+        "cgd_three_m_pg"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "single_003_perm_9317",
+      "group": "single_003",
+      "kind": "single",
+      "features": [
+        "cgd_three_m_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "single_003_perm_18739",
+      "group": "single_003",
+      "kind": "single",
+      "features": [
+        "cgd_three_m_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "single_003_perm_28657",
+      "group": "single_003",
+      "kind": "single",
+      "features": [
+        "cgd_three_m_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "single_004_real",
+      "group": "single_004",
+      "kind": "single",
+      "features": [
+        "cgd_three_a_pg"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "single_004_perm_9317",
+      "group": "single_004",
+      "kind": "single",
+      "features": [
+        "cgd_three_a_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "single_004_perm_18739",
+      "group": "single_004",
+      "kind": "single",
+      "features": [
+        "cgd_three_a_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "single_004_perm_28657",
+      "group": "single_004",
+      "kind": "single",
+      "features": [
+        "cgd_three_a_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "single_005_real",
+      "group": "single_005",
+      "kind": "single",
+      "features": [
+        "cgd_ft_m_pg"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "single_005_perm_9317",
+      "group": "single_005",
+      "kind": "single",
+      "features": [
+        "cgd_ft_m_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "single_005_perm_18739",
+      "group": "single_005",
+      "kind": "single",
+      "features": [
+        "cgd_ft_m_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "single_005_perm_28657",
+      "group": "single_005",
+      "kind": "single",
+      "features": [
+        "cgd_ft_m_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "single_006_real",
+      "group": "single_006",
+      "kind": "single",
+      "features": [
+        "cgd_ft_a_pg"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "single_006_perm_9317",
+      "group": "single_006",
+      "kind": "single",
+      "features": [
+        "cgd_ft_a_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "single_006_perm_18739",
+      "group": "single_006",
+      "kind": "single",
+      "features": [
+        "cgd_ft_a_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "single_006_perm_28657",
+      "group": "single_006",
+      "kind": "single",
+      "features": [
+        "cgd_ft_a_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "single_007_real",
+      "group": "single_007",
+      "kind": "single",
+      "features": [
+        "cgd_points_pg"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "single_007_perm_9317",
+      "group": "single_007",
+      "kind": "single",
+      "features": [
+        "cgd_points_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "single_007_perm_18739",
+      "group": "single_007",
+      "kind": "single",
+      "features": [
+        "cgd_points_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "single_007_perm_28657",
+      "group": "single_007",
+      "kind": "single",
+      "features": [
+        "cgd_points_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "single_008_real",
+      "group": "single_008",
+      "kind": "single",
+      "features": [
+        "cgd_orb_pg"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "single_008_perm_9317",
+      "group": "single_008",
+      "kind": "single",
+      "features": [
+        "cgd_orb_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "single_008_perm_18739",
+      "group": "single_008",
+      "kind": "single",
+      "features": [
+        "cgd_orb_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "single_008_perm_28657",
+      "group": "single_008",
+      "kind": "single",
+      "features": [
+        "cgd_orb_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "single_009_real",
+      "group": "single_009",
+      "kind": "single",
+      "features": [
+        "cgd_drb_pg"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "single_009_perm_9317",
+      "group": "single_009",
+      "kind": "single",
+      "features": [
+        "cgd_drb_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "single_009_perm_18739",
+      "group": "single_009",
+      "kind": "single",
+      "features": [
+        "cgd_drb_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "single_009_perm_28657",
+      "group": "single_009",
+      "kind": "single",
+      "features": [
+        "cgd_drb_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "single_010_real",
+      "group": "single_010",
+      "kind": "single",
+      "features": [
+        "cgd_ast_pg"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "single_010_perm_9317",
+      "group": "single_010",
+      "kind": "single",
+      "features": [
+        "cgd_ast_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "single_010_perm_18739",
+      "group": "single_010",
+      "kind": "single",
+      "features": [
+        "cgd_ast_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "single_010_perm_28657",
+      "group": "single_010",
+      "kind": "single",
+      "features": [
+        "cgd_ast_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "single_011_real",
+      "group": "single_011",
+      "kind": "single",
+      "features": [
+        "cgd_tov_pg"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "single_011_perm_9317",
+      "group": "single_011",
+      "kind": "single",
+      "features": [
+        "cgd_tov_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "single_011_perm_18739",
+      "group": "single_011",
+      "kind": "single",
+      "features": [
+        "cgd_tov_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "single_011_perm_28657",
+      "group": "single_011",
+      "kind": "single",
+      "features": [
+        "cgd_tov_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "single_012_real",
+      "group": "single_012",
+      "kind": "single",
+      "features": [
+        "cgd_stl_pg"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "single_012_perm_9317",
+      "group": "single_012",
+      "kind": "single",
+      "features": [
+        "cgd_stl_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "single_012_perm_18739",
+      "group": "single_012",
+      "kind": "single",
+      "features": [
+        "cgd_stl_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "single_012_perm_28657",
+      "group": "single_012",
+      "kind": "single",
+      "features": [
+        "cgd_stl_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "single_013_real",
+      "group": "single_013",
+      "kind": "single",
+      "features": [
+        "cgd_blk_pg"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "single_013_perm_9317",
+      "group": "single_013",
+      "kind": "single",
+      "features": [
+        "cgd_blk_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "single_013_perm_18739",
+      "group": "single_013",
+      "kind": "single",
+      "features": [
+        "cgd_blk_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "single_013_perm_28657",
+      "group": "single_013",
+      "kind": "single",
+      "features": [
+        "cgd_blk_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "single_014_real",
+      "group": "single_014",
+      "kind": "single",
+      "features": [
+        "cgd_pf_pg"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "single_014_perm_9317",
+      "group": "single_014",
+      "kind": "single",
+      "features": [
+        "cgd_pf_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "single_014_perm_18739",
+      "group": "single_014",
+      "kind": "single",
+      "features": [
+        "cgd_pf_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "single_014_perm_28657",
+      "group": "single_014",
+      "kind": "single",
+      "features": [
+        "cgd_pf_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "single_015_real",
+      "group": "single_015",
+      "kind": "single",
+      "features": [
+        "tctx_assists_per_made_fg"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "single_015_perm_9317",
+      "group": "single_015",
+      "kind": "single",
+      "features": [
+        "tctx_assists_per_made_fg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "single_015_perm_18739",
+      "group": "single_015",
+      "kind": "single",
+      "features": [
+        "tctx_assists_per_made_fg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "single_015_perm_28657",
+      "group": "single_015",
+      "kind": "single",
+      "features": [
+        "tctx_assists_per_made_fg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "single_016_real",
+      "group": "single_016",
+      "kind": "single",
+      "features": [
+        "tctx_blocks_per_opponent_fga"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "single_016_perm_9317",
+      "group": "single_016",
+      "kind": "single",
+      "features": [
+        "tctx_blocks_per_opponent_fga"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "single_016_perm_18739",
+      "group": "single_016",
+      "kind": "single",
+      "features": [
+        "tctx_blocks_per_opponent_fga"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "single_016_perm_28657",
+      "group": "single_016",
+      "kind": "single",
+      "features": [
+        "tctx_blocks_per_opponent_fga"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "single_017_real",
+      "group": "single_017",
+      "kind": "single",
+      "features": [
+        "tctx_defensive_rebound_share"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "single_017_perm_9317",
+      "group": "single_017",
+      "kind": "single",
+      "features": [
+        "tctx_defensive_rebound_share"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "single_017_perm_18739",
+      "group": "single_017",
+      "kind": "single",
+      "features": [
+        "tctx_defensive_rebound_share"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "single_017_perm_28657",
+      "group": "single_017",
+      "kind": "single",
+      "features": [
+        "tctx_defensive_rebound_share"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "single_018_real",
+      "group": "single_018",
+      "kind": "single",
+      "features": [
+        "tctx_efg"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "single_018_perm_9317",
+      "group": "single_018",
+      "kind": "single",
+      "features": [
+        "tctx_efg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "single_018_perm_18739",
+      "group": "single_018",
+      "kind": "single",
+      "features": [
+        "tctx_efg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "single_018_perm_28657",
+      "group": "single_018",
+      "kind": "single",
+      "features": [
+        "tctx_efg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "single_019_real",
+      "group": "single_019",
+      "kind": "single",
+      "features": [
+        "tctx_efg_margin"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "single_019_perm_9317",
+      "group": "single_019",
+      "kind": "single",
+      "features": [
+        "tctx_efg_margin"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "single_019_perm_18739",
+      "group": "single_019",
+      "kind": "single",
+      "features": [
+        "tctx_efg_margin"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "single_019_perm_28657",
+      "group": "single_019",
+      "kind": "single",
+      "features": [
+        "tctx_efg_margin"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "single_020_real",
+      "group": "single_020",
+      "kind": "single",
+      "features": [
+        "tctx_ft_attempts_per_fga"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "single_020_perm_9317",
+      "group": "single_020",
+      "kind": "single",
+      "features": [
+        "tctx_ft_attempts_per_fga"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "single_020_perm_18739",
+      "group": "single_020",
+      "kind": "single",
+      "features": [
+        "tctx_ft_attempts_per_fga"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "single_020_perm_28657",
+      "group": "single_020",
+      "kind": "single",
+      "features": [
+        "tctx_ft_attempts_per_fga"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "single_021_real",
+      "group": "single_021",
+      "kind": "single",
+      "features": [
+        "tctx_margin_pg"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "single_021_perm_9317",
+      "group": "single_021",
+      "kind": "single",
+      "features": [
+        "tctx_margin_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "single_021_perm_18739",
+      "group": "single_021",
+      "kind": "single",
+      "features": [
+        "tctx_margin_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "single_021_perm_28657",
+      "group": "single_021",
+      "kind": "single",
+      "features": [
+        "tctx_margin_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "single_022_real",
+      "group": "single_022",
+      "kind": "single",
+      "features": [
+        "tctx_offensive_rebound_share"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "single_022_perm_9317",
+      "group": "single_022",
+      "kind": "single",
+      "features": [
+        "tctx_offensive_rebound_share"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "single_022_perm_18739",
+      "group": "single_022",
+      "kind": "single",
+      "features": [
+        "tctx_offensive_rebound_share"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "single_022_perm_28657",
+      "group": "single_022",
+      "kind": "single",
+      "features": [
+        "tctx_offensive_rebound_share"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "single_023_real",
+      "group": "single_023",
+      "kind": "single",
+      "features": [
+        "tctx_opponent_assists_per_made_fg"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "single_023_perm_9317",
+      "group": "single_023",
+      "kind": "single",
+      "features": [
+        "tctx_opponent_assists_per_made_fg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "single_023_perm_18739",
+      "group": "single_023",
+      "kind": "single",
+      "features": [
+        "tctx_opponent_assists_per_made_fg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "single_023_perm_28657",
+      "group": "single_023",
+      "kind": "single",
+      "features": [
+        "tctx_opponent_assists_per_made_fg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "single_024_real",
+      "group": "single_024",
+      "kind": "single",
+      "features": [
+        "tctx_opponent_efg"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "single_024_perm_9317",
+      "group": "single_024",
+      "kind": "single",
+      "features": [
+        "tctx_opponent_efg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "single_024_perm_18739",
+      "group": "single_024",
+      "kind": "single",
+      "features": [
+        "tctx_opponent_efg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "single_024_perm_28657",
+      "group": "single_024",
+      "kind": "single",
+      "features": [
+        "tctx_opponent_efg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "single_025_real",
+      "group": "single_025",
+      "kind": "single",
+      "features": [
+        "tctx_opponent_ft_attempts_per_fga"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "single_025_perm_9317",
+      "group": "single_025",
+      "kind": "single",
+      "features": [
+        "tctx_opponent_ft_attempts_per_fga"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "single_025_perm_18739",
+      "group": "single_025",
+      "kind": "single",
+      "features": [
+        "tctx_opponent_ft_attempts_per_fga"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "single_025_perm_28657",
+      "group": "single_025",
+      "kind": "single",
+      "features": [
+        "tctx_opponent_ft_attempts_per_fga"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "single_026_real",
+      "group": "single_026",
+      "kind": "single",
+      "features": [
+        "tctx_opponent_points_pg"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "single_026_perm_9317",
+      "group": "single_026",
+      "kind": "single",
+      "features": [
+        "tctx_opponent_points_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "single_026_perm_18739",
+      "group": "single_026",
+      "kind": "single",
+      "features": [
+        "tctx_opponent_points_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "single_026_perm_28657",
+      "group": "single_026",
+      "kind": "single",
+      "features": [
+        "tctx_opponent_points_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "single_027_real",
+      "group": "single_027",
+      "kind": "single",
+      "features": [
+        "tctx_opponent_shot_attempts_pg"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "single_027_perm_9317",
+      "group": "single_027",
+      "kind": "single",
+      "features": [
+        "tctx_opponent_shot_attempts_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "single_027_perm_18739",
+      "group": "single_027",
+      "kind": "single",
+      "features": [
+        "tctx_opponent_shot_attempts_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "single_027_perm_28657",
+      "group": "single_027",
+      "kind": "single",
+      "features": [
+        "tctx_opponent_shot_attempts_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "single_028_real",
+      "group": "single_028",
+      "kind": "single",
+      "features": [
+        "tctx_opponent_three_attempt_share"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "single_028_perm_9317",
+      "group": "single_028",
+      "kind": "single",
+      "features": [
+        "tctx_opponent_three_attempt_share"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "single_028_perm_18739",
+      "group": "single_028",
+      "kind": "single",
+      "features": [
+        "tctx_opponent_three_attempt_share"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "single_028_perm_28657",
+      "group": "single_028",
+      "kind": "single",
+      "features": [
+        "tctx_opponent_three_attempt_share"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "single_029_real",
+      "group": "single_029",
+      "kind": "single",
+      "features": [
+        "tctx_opponent_turnovers_per_fga"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "single_029_perm_9317",
+      "group": "single_029",
+      "kind": "single",
+      "features": [
+        "tctx_opponent_turnovers_per_fga"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "single_029_perm_18739",
+      "group": "single_029",
+      "kind": "single",
+      "features": [
+        "tctx_opponent_turnovers_per_fga"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "single_029_perm_28657",
+      "group": "single_029",
+      "kind": "single",
+      "features": [
+        "tctx_opponent_turnovers_per_fga"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "single_030_real",
+      "group": "single_030",
+      "kind": "single",
+      "features": [
+        "tctx_points_pg"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "single_030_perm_9317",
+      "group": "single_030",
+      "kind": "single",
+      "features": [
+        "tctx_points_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "single_030_perm_18739",
+      "group": "single_030",
+      "kind": "single",
+      "features": [
+        "tctx_points_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "single_030_perm_28657",
+      "group": "single_030",
+      "kind": "single",
+      "features": [
+        "tctx_points_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "single_031_real",
+      "group": "single_031",
+      "kind": "single",
+      "features": [
+        "tctx_shot_attempts_pg"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "single_031_perm_9317",
+      "group": "single_031",
+      "kind": "single",
+      "features": [
+        "tctx_shot_attempts_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "single_031_perm_18739",
+      "group": "single_031",
+      "kind": "single",
+      "features": [
+        "tctx_shot_attempts_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "single_031_perm_28657",
+      "group": "single_031",
+      "kind": "single",
+      "features": [
+        "tctx_shot_attempts_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "single_032_real",
+      "group": "single_032",
+      "kind": "single",
+      "features": [
+        "tctx_steals_per_opponent_turnover"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "single_032_perm_9317",
+      "group": "single_032",
+      "kind": "single",
+      "features": [
+        "tctx_steals_per_opponent_turnover"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "single_032_perm_18739",
+      "group": "single_032",
+      "kind": "single",
+      "features": [
+        "tctx_steals_per_opponent_turnover"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "single_032_perm_28657",
+      "group": "single_032",
+      "kind": "single",
+      "features": [
+        "tctx_steals_per_opponent_turnover"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "single_033_real",
+      "group": "single_033",
+      "kind": "single",
+      "features": [
+        "tctx_three_attempt_share"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "single_033_perm_9317",
+      "group": "single_033",
+      "kind": "single",
+      "features": [
+        "tctx_three_attempt_share"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "single_033_perm_18739",
+      "group": "single_033",
+      "kind": "single",
+      "features": [
+        "tctx_three_attempt_share"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "single_033_perm_28657",
+      "group": "single_033",
+      "kind": "single",
+      "features": [
+        "tctx_three_attempt_share"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "single_034_real",
+      "group": "single_034",
+      "kind": "single",
+      "features": [
+        "tctx_turnovers_per_fga"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "single_034_perm_9317",
+      "group": "single_034",
+      "kind": "single",
+      "features": [
+        "tctx_turnovers_per_fga"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "single_034_perm_18739",
+      "group": "single_034",
+      "kind": "single",
+      "features": [
+        "tctx_turnovers_per_fga"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "single_034_perm_28657",
+      "group": "single_034",
+      "kind": "single",
+      "features": [
+        "tctx_turnovers_per_fga"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "family_game_real",
+      "group": "family_game",
+      "kind": "family",
+      "features": [
+        "cgd_observed_gp",
+        "cgd_two_m_pg",
+        "cgd_two_a_pg",
+        "cgd_three_m_pg",
+        "cgd_three_a_pg",
+        "cgd_ft_m_pg",
+        "cgd_ft_a_pg",
+        "cgd_points_pg",
+        "cgd_orb_pg",
+        "cgd_drb_pg",
+        "cgd_ast_pg",
+        "cgd_tov_pg",
+        "cgd_stl_pg",
+        "cgd_blk_pg",
+        "cgd_pf_pg"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "family_game_perm_9317",
+      "group": "family_game",
+      "kind": "family",
+      "features": [
+        "cgd_observed_gp",
+        "cgd_two_m_pg",
+        "cgd_two_a_pg",
+        "cgd_three_m_pg",
+        "cgd_three_a_pg",
+        "cgd_ft_m_pg",
+        "cgd_ft_a_pg",
+        "cgd_points_pg",
+        "cgd_orb_pg",
+        "cgd_drb_pg",
+        "cgd_ast_pg",
+        "cgd_tov_pg",
+        "cgd_stl_pg",
+        "cgd_blk_pg",
+        "cgd_pf_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "family_game_perm_18739",
+      "group": "family_game",
+      "kind": "family",
+      "features": [
+        "cgd_observed_gp",
+        "cgd_two_m_pg",
+        "cgd_two_a_pg",
+        "cgd_three_m_pg",
+        "cgd_three_a_pg",
+        "cgd_ft_m_pg",
+        "cgd_ft_a_pg",
+        "cgd_points_pg",
+        "cgd_orb_pg",
+        "cgd_drb_pg",
+        "cgd_ast_pg",
+        "cgd_tov_pg",
+        "cgd_stl_pg",
+        "cgd_blk_pg",
+        "cgd_pf_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "family_game_perm_28657",
+      "group": "family_game",
+      "kind": "family",
+      "features": [
+        "cgd_observed_gp",
+        "cgd_two_m_pg",
+        "cgd_two_a_pg",
+        "cgd_three_m_pg",
+        "cgd_three_a_pg",
+        "cgd_ft_m_pg",
+        "cgd_ft_a_pg",
+        "cgd_points_pg",
+        "cgd_orb_pg",
+        "cgd_drb_pg",
+        "cgd_ast_pg",
+        "cgd_tov_pg",
+        "cgd_stl_pg",
+        "cgd_blk_pg",
+        "cgd_pf_pg"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "family_team_real",
+      "group": "family_team",
+      "kind": "family",
+      "features": [
+        "tctx_assists_per_made_fg",
+        "tctx_blocks_per_opponent_fga",
+        "tctx_defensive_rebound_share",
+        "tctx_efg",
+        "tctx_efg_margin",
+        "tctx_ft_attempts_per_fga",
+        "tctx_margin_pg",
+        "tctx_offensive_rebound_share",
+        "tctx_opponent_assists_per_made_fg",
+        "tctx_opponent_efg",
+        "tctx_opponent_ft_attempts_per_fga",
+        "tctx_opponent_points_pg",
+        "tctx_opponent_shot_attempts_pg",
+        "tctx_opponent_three_attempt_share",
+        "tctx_opponent_turnovers_per_fga",
+        "tctx_points_pg",
+        "tctx_shot_attempts_pg",
+        "tctx_steals_per_opponent_turnover",
+        "tctx_three_attempt_share",
+        "tctx_turnovers_per_fga"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "family_team_perm_9317",
+      "group": "family_team",
+      "kind": "family",
+      "features": [
+        "tctx_assists_per_made_fg",
+        "tctx_blocks_per_opponent_fga",
+        "tctx_defensive_rebound_share",
+        "tctx_efg",
+        "tctx_efg_margin",
+        "tctx_ft_attempts_per_fga",
+        "tctx_margin_pg",
+        "tctx_offensive_rebound_share",
+        "tctx_opponent_assists_per_made_fg",
+        "tctx_opponent_efg",
+        "tctx_opponent_ft_attempts_per_fga",
+        "tctx_opponent_points_pg",
+        "tctx_opponent_shot_attempts_pg",
+        "tctx_opponent_three_attempt_share",
+        "tctx_opponent_turnovers_per_fga",
+        "tctx_points_pg",
+        "tctx_shot_attempts_pg",
+        "tctx_steals_per_opponent_turnover",
+        "tctx_three_attempt_share",
+        "tctx_turnovers_per_fga"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "family_team_perm_18739",
+      "group": "family_team",
+      "kind": "family",
+      "features": [
+        "tctx_assists_per_made_fg",
+        "tctx_blocks_per_opponent_fga",
+        "tctx_defensive_rebound_share",
+        "tctx_efg",
+        "tctx_efg_margin",
+        "tctx_ft_attempts_per_fga",
+        "tctx_margin_pg",
+        "tctx_offensive_rebound_share",
+        "tctx_opponent_assists_per_made_fg",
+        "tctx_opponent_efg",
+        "tctx_opponent_ft_attempts_per_fga",
+        "tctx_opponent_points_pg",
+        "tctx_opponent_shot_attempts_pg",
+        "tctx_opponent_three_attempt_share",
+        "tctx_opponent_turnovers_per_fga",
+        "tctx_points_pg",
+        "tctx_shot_attempts_pg",
+        "tctx_steals_per_opponent_turnover",
+        "tctx_three_attempt_share",
+        "tctx_turnovers_per_fga"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "family_team_perm_28657",
+      "group": "family_team",
+      "kind": "family",
+      "features": [
+        "tctx_assists_per_made_fg",
+        "tctx_blocks_per_opponent_fga",
+        "tctx_defensive_rebound_share",
+        "tctx_efg",
+        "tctx_efg_margin",
+        "tctx_ft_attempts_per_fga",
+        "tctx_margin_pg",
+        "tctx_offensive_rebound_share",
+        "tctx_opponent_assists_per_made_fg",
+        "tctx_opponent_efg",
+        "tctx_opponent_ft_attempts_per_fga",
+        "tctx_opponent_points_pg",
+        "tctx_opponent_shot_attempts_pg",
+        "tctx_opponent_three_attempt_share",
+        "tctx_opponent_turnovers_per_fga",
+        "tctx_points_pg",
+        "tctx_shot_attempts_pg",
+        "tctx_steals_per_opponent_turnover",
+        "tctx_three_attempt_share",
+        "tctx_turnovers_per_fga"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    },
+    {
+      "id": "family_all_real",
+      "group": "family_all",
+      "kind": "family",
+      "features": [
+        "cgd_observed_gp",
+        "cgd_two_m_pg",
+        "cgd_two_a_pg",
+        "cgd_three_m_pg",
+        "cgd_three_a_pg",
+        "cgd_ft_m_pg",
+        "cgd_ft_a_pg",
+        "cgd_points_pg",
+        "cgd_orb_pg",
+        "cgd_drb_pg",
+        "cgd_ast_pg",
+        "cgd_tov_pg",
+        "cgd_stl_pg",
+        "cgd_blk_pg",
+        "cgd_pf_pg",
+        "tctx_assists_per_made_fg",
+        "tctx_blocks_per_opponent_fga",
+        "tctx_defensive_rebound_share",
+        "tctx_efg",
+        "tctx_efg_margin",
+        "tctx_ft_attempts_per_fga",
+        "tctx_margin_pg",
+        "tctx_offensive_rebound_share",
+        "tctx_opponent_assists_per_made_fg",
+        "tctx_opponent_efg",
+        "tctx_opponent_ft_attempts_per_fga",
+        "tctx_opponent_points_pg",
+        "tctx_opponent_shot_attempts_pg",
+        "tctx_opponent_three_attempt_share",
+        "tctx_opponent_turnovers_per_fga",
+        "tctx_points_pg",
+        "tctx_shot_attempts_pg",
+        "tctx_steals_per_opponent_turnover",
+        "tctx_three_attempt_share",
+        "tctx_turnovers_per_fga"
+      ],
+      "arm": "RR",
+      "permutation_seed": null
+    },
+    {
+      "id": "family_all_perm_9317",
+      "group": "family_all",
+      "kind": "family",
+      "features": [
+        "cgd_observed_gp",
+        "cgd_two_m_pg",
+        "cgd_two_a_pg",
+        "cgd_three_m_pg",
+        "cgd_three_a_pg",
+        "cgd_ft_m_pg",
+        "cgd_ft_a_pg",
+        "cgd_points_pg",
+        "cgd_orb_pg",
+        "cgd_drb_pg",
+        "cgd_ast_pg",
+        "cgd_tov_pg",
+        "cgd_stl_pg",
+        "cgd_blk_pg",
+        "cgd_pf_pg",
+        "tctx_assists_per_made_fg",
+        "tctx_blocks_per_opponent_fga",
+        "tctx_defensive_rebound_share",
+        "tctx_efg",
+        "tctx_efg_margin",
+        "tctx_ft_attempts_per_fga",
+        "tctx_margin_pg",
+        "tctx_offensive_rebound_share",
+        "tctx_opponent_assists_per_made_fg",
+        "tctx_opponent_efg",
+        "tctx_opponent_ft_attempts_per_fga",
+        "tctx_opponent_points_pg",
+        "tctx_opponent_shot_attempts_pg",
+        "tctx_opponent_three_attempt_share",
+        "tctx_opponent_turnovers_per_fga",
+        "tctx_points_pg",
+        "tctx_shot_attempts_pg",
+        "tctx_steals_per_opponent_turnover",
+        "tctx_three_attempt_share",
+        "tctx_turnovers_per_fga"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317
+    },
+    {
+      "id": "family_all_perm_18739",
+      "group": "family_all",
+      "kind": "family",
+      "features": [
+        "cgd_observed_gp",
+        "cgd_two_m_pg",
+        "cgd_two_a_pg",
+        "cgd_three_m_pg",
+        "cgd_three_a_pg",
+        "cgd_ft_m_pg",
+        "cgd_ft_a_pg",
+        "cgd_points_pg",
+        "cgd_orb_pg",
+        "cgd_drb_pg",
+        "cgd_ast_pg",
+        "cgd_tov_pg",
+        "cgd_stl_pg",
+        "cgd_blk_pg",
+        "cgd_pf_pg",
+        "tctx_assists_per_made_fg",
+        "tctx_blocks_per_opponent_fga",
+        "tctx_defensive_rebound_share",
+        "tctx_efg",
+        "tctx_efg_margin",
+        "tctx_ft_attempts_per_fga",
+        "tctx_margin_pg",
+        "tctx_offensive_rebound_share",
+        "tctx_opponent_assists_per_made_fg",
+        "tctx_opponent_efg",
+        "tctx_opponent_ft_attempts_per_fga",
+        "tctx_opponent_points_pg",
+        "tctx_opponent_shot_attempts_pg",
+        "tctx_opponent_three_attempt_share",
+        "tctx_opponent_turnovers_per_fga",
+        "tctx_points_pg",
+        "tctx_shot_attempts_pg",
+        "tctx_steals_per_opponent_turnover",
+        "tctx_three_attempt_share",
+        "tctx_turnovers_per_fga"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739
+    },
+    {
+      "id": "family_all_perm_28657",
+      "group": "family_all",
+      "kind": "family",
+      "features": [
+        "cgd_observed_gp",
+        "cgd_two_m_pg",
+        "cgd_two_a_pg",
+        "cgd_three_m_pg",
+        "cgd_three_a_pg",
+        "cgd_ft_m_pg",
+        "cgd_ft_a_pg",
+        "cgd_points_pg",
+        "cgd_orb_pg",
+        "cgd_drb_pg",
+        "cgd_ast_pg",
+        "cgd_tov_pg",
+        "cgd_stl_pg",
+        "cgd_blk_pg",
+        "cgd_pf_pg",
+        "tctx_assists_per_made_fg",
+        "tctx_blocks_per_opponent_fga",
+        "tctx_defensive_rebound_share",
+        "tctx_efg",
+        "tctx_efg_margin",
+        "tctx_ft_attempts_per_fga",
+        "tctx_margin_pg",
+        "tctx_offensive_rebound_share",
+        "tctx_opponent_assists_per_made_fg",
+        "tctx_opponent_efg",
+        "tctx_opponent_ft_attempts_per_fga",
+        "tctx_opponent_points_pg",
+        "tctx_opponent_shot_attempts_pg",
+        "tctx_opponent_three_attempt_share",
+        "tctx_opponent_turnovers_per_fga",
+        "tctx_points_pg",
+        "tctx_shot_attempts_pg",
+        "tctx_steals_per_opponent_turnover",
+        "tctx_three_attempt_share",
+        "tctx_turnovers_per_fga"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657
+    }
+  ],
+  "execution": {
+    "task_count": 459,
+    "workers": 4,
+    "runtime_seconds": 7200,
+    "memory": "140G",
+    "cpu_quota": "2200%"
+  }
+}

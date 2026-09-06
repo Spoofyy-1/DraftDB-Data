@@ -1,0 +1,25 @@
+{
+  "study": "r9b",
+  "unit": "draftdb-r9b-20260907",
+  "systemd": {
+    "RuntimeMaxUSec": "2h",
+    "CPUQuotaPerSecUSec": "22s",
+    "MemoryMax": "150323855360",
+    "ActiveState": "active",
+    "SubState": "running",
+    "InvocationID": "c0aab3ff8fd5483698a30668dbac36eb"
+  },
+  "tasks": 330,
+  "workers": 4,
+  "CPU_preflight_passed": true,
+  "A_verified_before_launch": true,
+  "updated_epoch": 1788720503.7736526,
+  "first_snapshot": {
+    "status": "running",
+    "completed": 28,
+    "total": 330,
+    "active_workers": 4,
+    "error": null
+  },
+  "references_passed": 15
+}

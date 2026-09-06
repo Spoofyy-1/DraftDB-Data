@@ -1,0 +1,1677 @@
+{
+  "plan": {
+    "diagnostic_only": true,
+    "no_confirmation_or_test_scoring": true,
+    "reference_id": "pair06_RR",
+    "folds": [
+      2012,
+      2013,
+      2014
+    ],
+    "seeds": [
+      0,
+      101,
+      202
+    ],
+    "permutation_seeds": [
+      9317,
+      18739,
+      28657
+    ],
+    "model_constructor": {
+      "device": "cuda",
+      "n_estimators": 32,
+      "random_state": "task_seed",
+      "batch_size": 32,
+      "norm_methods": "none",
+      "outlier_threshold": 2.0
+    },
+    "ordering_policy": {
+      "version": "sha256_pid_exact_vector_mean_v1",
+      "row_order": "Sort train and query rows by SHA256(UTF8(pid)), with pid as deterministic collision tiebreaker, before selection and prediction. Identity/order keys never become predictors.",
+      "input_equivalence": "All selected predictor values must be numerically identical. NaNs compare equal; positive/negative zero compare equal. Distinct vectors are never quantized or merged.",
+      "prediction_ties": "Within each query group of exactly identical full predictor vectors, assign every row the arithmetic mean of its raw predictions using math.fsum over sorted float64 values.",
+      "raw_preservation": "Save raw and canonical prediction for every pid, exact duplicate groups and policy hash. All scoring uses canonical predictions with Spearman average ranks.",
+      "registration_basis": "R8order numerical audit found8 all-missing duplicate inputs with floating-point score splitting; no outcome score was used to choose this policy.",
+      "new_baseline": "Every background baseline reruns under this policy. Do not pool these scores with raw-prediction R8s or earlier studies."
+    },
+    "columns": [
+      "ctx_base_ast_pct",
+      "ctx_base_ast_pg",
+      "ctx_base_ast_tov",
+      "ctx_base_blk_pct",
+      "ctx_base_blk_pg",
+      "ctx_base_drb",
+      "ctx_base_dreb_pg",
+      "ctx_base_dunk_attempts",
+      "ctx_base_dunk_made",
+      "ctx_base_efg",
+      "ctx_base_fg2_pct",
+      "ctx_base_fg2a",
+      "ctx_base_fg2m",
+      "ctx_base_fg3_pct",
+      "ctx_base_fg3a",
+      "ctx_base_fg3m",
+      "ctx_base_fouls40",
+      "ctx_base_ft_pct",
+      "ctx_base_fta",
+      "ctx_base_ftm",
+      "ctx_base_ftr",
+      "ctx_base_gp",
+      "ctx_base_mid_attempts",
+      "ctx_base_mid_made",
+      "ctx_base_minutes_share",
+      "ctx_base_mpg",
+      "ctx_base_orb",
+      "ctx_base_oreb_pg",
+      "ctx_base_pts_pg",
+      "ctx_base_rim_attempts",
+      "ctx_base_rim_made",
+      "ctx_base_stl_pct",
+      "ctx_base_stl_pg",
+      "ctx_base_three_share",
+      "ctx_base_tov_pct",
+      "ctx_base_ts",
+      "ctx_base_usage",
+      "ctx_skill_creation_control",
+      "ctx_skill_defense_discipline",
+      "ctx_skill_ft_volume",
+      "ctx_skill_usage_efficiency",
+      "slot_037",
+      "slot_038",
+      "slot_039",
+      "slot_040",
+      "slot_041",
+      "slot_042"
+    ],
+    "column_meanings": {
+      "ctx_base_ast_pct": "ctx_base_ast_pct",
+      "ctx_base_ast_pg": "ctx_base_ast_pg",
+      "ctx_base_ast_tov": "ctx_base_ast_tov",
+      "ctx_base_blk_pct": "ctx_base_blk_pct",
+      "ctx_base_blk_pg": "ctx_base_blk_pg",
+      "ctx_base_drb": "ctx_base_drb",
+      "ctx_base_dreb_pg": "ctx_base_dreb_pg",
+      "ctx_base_dunk_attempts": "ctx_base_dunk_attempts",
+      "ctx_base_dunk_made": "ctx_base_dunk_made",
+      "ctx_base_efg": "ctx_base_efg",
+      "ctx_base_fg2_pct": "ctx_base_fg2_pct",
+      "ctx_base_fg2a": "ctx_base_fg2a",
+      "ctx_base_fg2m": "ctx_base_fg2m",
+      "ctx_base_fg3_pct": "ctx_base_fg3_pct",
+      "ctx_base_fg3a": "ctx_base_fg3a",
+      "ctx_base_fg3m": "ctx_base_fg3m",
+      "ctx_base_fouls40": "ctx_base_fouls40",
+      "ctx_base_ft_pct": "ctx_base_ft_pct",
+      "ctx_base_fta": "ctx_base_fta",
+      "ctx_base_ftm": "ctx_base_ftm",
+      "ctx_base_ftr": "ctx_base_ftr",
+      "ctx_base_gp": "ctx_base_gp",
+      "ctx_base_mid_attempts": "ctx_base_mid_attempts",
+      "ctx_base_mid_made": "ctx_base_mid_made",
+      "ctx_base_minutes_share": "ctx_base_minutes_share",
+      "ctx_base_mpg": "ctx_base_mpg",
+      "ctx_base_orb": "ctx_base_orb",
+      "ctx_base_oreb_pg": "ctx_base_oreb_pg",
+      "ctx_base_pts_pg": "ctx_base_pts_pg",
+      "ctx_base_rim_attempts": "ctx_base_rim_attempts",
+      "ctx_base_rim_made": "ctx_base_rim_made",
+      "ctx_base_stl_pct": "ctx_base_stl_pct",
+      "ctx_base_stl_pg": "ctx_base_stl_pg",
+      "ctx_base_three_share": "ctx_base_three_share",
+      "ctx_base_tov_pct": "ctx_base_tov_pct",
+      "ctx_base_ts": "ctx_base_ts",
+      "ctx_base_usage": "ctx_base_usage",
+      "ctx_skill_creation_control": "ctx_skill_creation_control",
+      "ctx_skill_defense_discipline": "ctx_skill_defense_discipline",
+      "ctx_skill_ft_volume": "ctx_skill_ft_volume",
+      "ctx_skill_usage_efficiency": "ctx_skill_usage_efficiency",
+      "slot_037": "vcons_mock_mean_rank",
+      "slot_038": "vcons_mock_best_rank",
+      "slot_039": "vcons_mock_rank_range",
+      "slot_040": "vcons_mock_n_sources",
+      "slot_041": "f50_career_slope_usage",
+      "slot_042": "f50_posterior_rim"
+    },
+    "ordered_columns_by_fold": {
+      "2012": [
+        "ctx_base_stl_pg",
+        "ctx_base_fta",
+        "ctx_base_dunk_attempts",
+        "ctx_base_fg2_pct",
+        "ctx_skill_defense_discipline",
+        "ctx_skill_creation_control",
+        "ctx_base_rim_made",
+        "ctx_skill_usage_efficiency",
+        "ctx_base_ftr",
+        "ctx_base_mid_attempts",
+        "ctx_base_fg2m",
+        "ctx_base_ast_tov",
+        "ctx_base_fg3a",
+        "ctx_base_ast_pg",
+        "ctx_base_dunk_made",
+        "ctx_skill_ft_volume",
+        "ctx_base_pts_pg",
+        "ctx_base_fg3m",
+        "ctx_base_ast_pct",
+        "ctx_base_fouls40",
+        "ctx_base_drb",
+        "ctx_base_mid_made",
+        "ctx_base_ftm",
+        "ctx_base_stl_pct",
+        "ctx_base_blk_pct",
+        "ctx_base_oreb_pg",
+        "ctx_base_three_share",
+        "ctx_base_orb",
+        "ctx_base_usage",
+        "ctx_base_dreb_pg",
+        "ctx_base_fg3_pct",
+        "ctx_base_blk_pg",
+        "ctx_base_gp",
+        "ctx_base_efg",
+        "ctx_base_rim_attempts",
+        "ctx_base_minutes_share",
+        "ctx_base_ft_pct",
+        "ctx_base_tov_pct",
+        "ctx_base_ts",
+        "ctx_base_fg2a",
+        "ctx_base_mpg",
+        "slot_037",
+        "slot_038",
+        "slot_039",
+        "slot_040",
+        "slot_041",
+        "slot_042"
+      ],
+      "2013": [
+        "ctx_base_stl_pct",
+        "ctx_base_dunk_made",
+        "ctx_base_mid_made",
+        "ctx_skill_creation_control",
+        "ctx_base_dunk_attempts",
+        "ctx_base_fg2_pct",
+        "ctx_base_ast_tov",
+        "ctx_base_stl_pg",
+        "ctx_base_ast_pct",
+        "ctx_base_fta",
+        "ctx_base_fouls40",
+        "ctx_base_blk_pg",
+        "ctx_base_rim_made",
+        "ctx_base_ftr",
+        "ctx_base_mid_attempts",
+        "ctx_base_tov_pct",
+        "ctx_base_dreb_pg",
+        "ctx_base_fg2m",
+        "ctx_base_ftm",
+        "ctx_skill_defense_discipline",
+        "ctx_base_fg2a",
+        "ctx_base_three_share",
+        "ctx_base_ast_pg",
+        "ctx_base_mpg",
+        "ctx_skill_usage_efficiency",
+        "ctx_base_rim_attempts",
+        "ctx_base_efg",
+        "ctx_base_pts_pg",
+        "ctx_base_blk_pct",
+        "ctx_base_oreb_pg",
+        "ctx_skill_ft_volume",
+        "ctx_base_fg3_pct",
+        "ctx_base_orb",
+        "ctx_base_drb",
+        "ctx_base_fg3a",
+        "ctx_base_fg3m",
+        "ctx_base_usage",
+        "ctx_base_ts",
+        "ctx_base_ft_pct",
+        "ctx_base_minutes_share",
+        "ctx_base_gp",
+        "slot_037",
+        "slot_038",
+        "slot_039",
+        "slot_040",
+        "slot_041",
+        "slot_042"
+      ],
+      "2014": [
+        "ctx_base_stl_pct",
+        "ctx_base_fg3a",
+        "ctx_base_mid_attempts",
+        "ctx_skill_defense_discipline",
+        "ctx_base_ast_pg",
+        "ctx_base_stl_pg",
+        "ctx_base_ast_tov",
+        "ctx_base_dunk_attempts",
+        "ctx_base_ftm",
+        "ctx_base_oreb_pg",
+        "ctx_base_fg2_pct",
+        "ctx_skill_usage_efficiency",
+        "ctx_base_dunk_made",
+        "ctx_base_fg2m",
+        "ctx_skill_creation_control",
+        "ctx_base_fg3m",
+        "ctx_base_tov_pct",
+        "ctx_base_fg2a",
+        "ctx_base_dreb_pg",
+        "ctx_base_mid_made",
+        "ctx_base_rim_attempts",
+        "ctx_base_rim_made",
+        "ctx_base_fta",
+        "ctx_base_ts",
+        "ctx_base_three_share",
+        "ctx_base_ftr",
+        "ctx_base_fg3_pct",
+        "ctx_base_mpg",
+        "ctx_base_ft_pct",
+        "ctx_skill_ft_volume",
+        "ctx_base_ast_pct",
+        "ctx_base_blk_pg",
+        "ctx_base_fouls40",
+        "ctx_base_drb",
+        "ctx_base_minutes_share",
+        "ctx_base_blk_pct",
+        "ctx_base_pts_pg",
+        "ctx_base_gp",
+        "ctx_base_usage",
+        "ctx_base_efg",
+        "ctx_base_orb",
+        "slot_037",
+        "slot_038",
+        "slot_039",
+        "slot_040",
+        "slot_041",
+        "slot_042"
+      ]
+    },
+    "study": "R9b bounded coherent five-input removals",
+    "reference_ids": [
+      "pair06_RR",
+      "drop_018",
+      "drop_019",
+      "drop_020",
+      "drop_023",
+      "drop_024",
+      "drop_018_019",
+      "drop_018_020",
+      "drop_018_023",
+      "drop_018_024",
+      "drop_019_020",
+      "drop_019_023",
+      "drop_019_024",
+      "drop_020_023",
+      "drop_020_024",
+      "drop_023_024"
+    ],
+    "selected_columns": [
+      "ctx_base_fta",
+      "ctx_base_ftm",
+      "ctx_base_ftr",
+      "ctx_base_mid_made",
+      "ctx_base_minutes_share"
+    ],
+    "subsets": [
+      [
+        "ctx_base_fta",
+        "ctx_base_ftm"
+      ],
+      [
+        "ctx_base_fta",
+        "ctx_base_ftr"
+      ],
+      [
+        "ctx_base_fta",
+        "ctx_base_mid_made"
+      ],
+      [
+        "ctx_base_fta",
+        "ctx_base_minutes_share"
+      ],
+      [
+        "ctx_base_ftm",
+        "ctx_base_ftr"
+      ],
+      [
+        "ctx_base_ftm",
+        "ctx_base_mid_made"
+      ],
+      [
+        "ctx_base_ftm",
+        "ctx_base_minutes_share"
+      ],
+      [
+        "ctx_base_ftr",
+        "ctx_base_mid_made"
+      ],
+      [
+        "ctx_base_ftr",
+        "ctx_base_minutes_share"
+      ],
+      [
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_ftr"
+      ],
+      [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_mid_made"
+      ],
+      [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_minutes_share"
+      ],
+      [
+        "ctx_base_fta",
+        "ctx_base_ftr",
+        "ctx_base_mid_made"
+      ],
+      [
+        "ctx_base_fta",
+        "ctx_base_ftr",
+        "ctx_base_minutes_share"
+      ],
+      [
+        "ctx_base_fta",
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      [
+        "ctx_base_ftm",
+        "ctx_base_ftr",
+        "ctx_base_mid_made"
+      ],
+      [
+        "ctx_base_ftm",
+        "ctx_base_ftr",
+        "ctx_base_minutes_share"
+      ],
+      [
+        "ctx_base_ftm",
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      [
+        "ctx_base_ftr",
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_ftr",
+        "ctx_base_mid_made"
+      ],
+      [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_ftr",
+        "ctx_base_minutes_share"
+      ],
+      [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      [
+        "ctx_base_fta",
+        "ctx_base_ftr",
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      [
+        "ctx_base_ftm",
+        "ctx_base_ftr",
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_ftr",
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ]
+    ],
+    "variants": [
+      {
+        "id": "pair06_RR",
+        "pair": [
+          "f50_career_slope_usage",
+          "f50_posterior_rim"
+        ],
+        "arm": "RR",
+        "permutation_seed": null,
+        "background": "college_consensus"
+      },
+      {
+        "id": "drop_018",
+        "kind": "delete",
+        "columns": [
+          "ctx_base_fta"
+        ],
+        "arm": "RR"
+      },
+      {
+        "id": "drop_019",
+        "kind": "delete",
+        "columns": [
+          "ctx_base_ftm"
+        ],
+        "arm": "RR"
+      },
+      {
+        "id": "drop_020",
+        "kind": "delete",
+        "columns": [
+          "ctx_base_ftr"
+        ],
+        "arm": "RR"
+      },
+      {
+        "id": "drop_023",
+        "kind": "delete",
+        "columns": [
+          "ctx_base_mid_made"
+        ],
+        "arm": "RR"
+      },
+      {
+        "id": "drop_024",
+        "kind": "delete",
+        "columns": [
+          "ctx_base_minutes_share"
+        ],
+        "arm": "RR"
+      },
+      {
+        "id": "drop_018_019",
+        "kind": "delete",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftm"
+        ],
+        "arm": "RR"
+      },
+      {
+        "id": "drop_018_020",
+        "kind": "delete",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftr"
+        ],
+        "arm": "RR"
+      },
+      {
+        "id": "drop_018_023",
+        "kind": "delete",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_mid_made"
+        ],
+        "arm": "RR"
+      },
+      {
+        "id": "drop_018_024",
+        "kind": "delete",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_minutes_share"
+        ],
+        "arm": "RR"
+      },
+      {
+        "id": "drop_019_020",
+        "kind": "delete",
+        "columns": [
+          "ctx_base_ftm",
+          "ctx_base_ftr"
+        ],
+        "arm": "RR"
+      },
+      {
+        "id": "drop_019_023",
+        "kind": "delete",
+        "columns": [
+          "ctx_base_ftm",
+          "ctx_base_mid_made"
+        ],
+        "arm": "RR"
+      },
+      {
+        "id": "drop_019_024",
+        "kind": "delete",
+        "columns": [
+          "ctx_base_ftm",
+          "ctx_base_minutes_share"
+        ],
+        "arm": "RR"
+      },
+      {
+        "id": "drop_020_023",
+        "kind": "delete",
+        "columns": [
+          "ctx_base_ftr",
+          "ctx_base_mid_made"
+        ],
+        "arm": "RR"
+      },
+      {
+        "id": "drop_020_024",
+        "kind": "delete",
+        "columns": [
+          "ctx_base_ftr",
+          "ctx_base_minutes_share"
+        ],
+        "arm": "RR"
+      },
+      {
+        "id": "drop_023_024",
+        "kind": "delete",
+        "columns": [
+          "ctx_base_mid_made",
+          "ctx_base_minutes_share"
+        ],
+        "arm": "RR"
+      },
+      {
+        "id": "drop5_000",
+        "kind": "delete",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftm",
+          "ctx_base_ftr"
+        ],
+        "arm": "RR"
+      },
+      {
+        "id": "drop5_001",
+        "kind": "delete",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftm",
+          "ctx_base_mid_made"
+        ],
+        "arm": "RR"
+      },
+      {
+        "id": "drop5_002",
+        "kind": "delete",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftm",
+          "ctx_base_minutes_share"
+        ],
+        "arm": "RR"
+      },
+      {
+        "id": "drop5_003",
+        "kind": "delete",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftr",
+          "ctx_base_mid_made"
+        ],
+        "arm": "RR"
+      },
+      {
+        "id": "drop5_004",
+        "kind": "delete",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftr",
+          "ctx_base_minutes_share"
+        ],
+        "arm": "RR"
+      },
+      {
+        "id": "drop5_005",
+        "kind": "delete",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_mid_made",
+          "ctx_base_minutes_share"
+        ],
+        "arm": "RR"
+      },
+      {
+        "id": "drop5_006",
+        "kind": "delete",
+        "columns": [
+          "ctx_base_ftm",
+          "ctx_base_ftr",
+          "ctx_base_mid_made"
+        ],
+        "arm": "RR"
+      },
+      {
+        "id": "drop5_007",
+        "kind": "delete",
+        "columns": [
+          "ctx_base_ftm",
+          "ctx_base_ftr",
+          "ctx_base_minutes_share"
+        ],
+        "arm": "RR"
+      },
+      {
+        "id": "drop5_008",
+        "kind": "delete",
+        "columns": [
+          "ctx_base_ftm",
+          "ctx_base_mid_made",
+          "ctx_base_minutes_share"
+        ],
+        "arm": "RR"
+      },
+      {
+        "id": "drop5_009",
+        "kind": "delete",
+        "columns": [
+          "ctx_base_ftr",
+          "ctx_base_mid_made",
+          "ctx_base_minutes_share"
+        ],
+        "arm": "RR"
+      },
+      {
+        "id": "drop5_010",
+        "kind": "delete",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftm",
+          "ctx_base_ftr",
+          "ctx_base_mid_made"
+        ],
+        "arm": "RR"
+      },
+      {
+        "id": "drop5_011",
+        "kind": "delete",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftm",
+          "ctx_base_ftr",
+          "ctx_base_minutes_share"
+        ],
+        "arm": "RR"
+      },
+      {
+        "id": "drop5_012",
+        "kind": "delete",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftm",
+          "ctx_base_mid_made",
+          "ctx_base_minutes_share"
+        ],
+        "arm": "RR"
+      },
+      {
+        "id": "drop5_013",
+        "kind": "delete",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftr",
+          "ctx_base_mid_made",
+          "ctx_base_minutes_share"
+        ],
+        "arm": "RR"
+      },
+      {
+        "id": "drop5_014",
+        "kind": "delete",
+        "columns": [
+          "ctx_base_ftm",
+          "ctx_base_ftr",
+          "ctx_base_mid_made",
+          "ctx_base_minutes_share"
+        ],
+        "arm": "RR"
+      },
+      {
+        "id": "drop5_015",
+        "kind": "delete",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftm",
+          "ctx_base_ftr",
+          "ctx_base_mid_made",
+          "ctx_base_minutes_share"
+        ],
+        "arm": "RR"
+      },
+      {
+        "id": "joint_000_9317",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftm"
+        ],
+        "permutation_seed": 9317,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_000_18739",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftm"
+        ],
+        "permutation_seed": 18739,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_000_28657",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftm"
+        ],
+        "permutation_seed": 28657,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_001_9317",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftr"
+        ],
+        "permutation_seed": 9317,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_001_18739",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftr"
+        ],
+        "permutation_seed": 18739,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_001_28657",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftr"
+        ],
+        "permutation_seed": 28657,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_002_9317",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_mid_made"
+        ],
+        "permutation_seed": 9317,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_002_18739",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_mid_made"
+        ],
+        "permutation_seed": 18739,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_002_28657",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_mid_made"
+        ],
+        "permutation_seed": 28657,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_003_9317",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 9317,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_003_18739",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 18739,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_003_28657",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 28657,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_004_9317",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_ftm",
+          "ctx_base_ftr"
+        ],
+        "permutation_seed": 9317,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_004_18739",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_ftm",
+          "ctx_base_ftr"
+        ],
+        "permutation_seed": 18739,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_004_28657",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_ftm",
+          "ctx_base_ftr"
+        ],
+        "permutation_seed": 28657,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_005_9317",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_ftm",
+          "ctx_base_mid_made"
+        ],
+        "permutation_seed": 9317,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_005_18739",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_ftm",
+          "ctx_base_mid_made"
+        ],
+        "permutation_seed": 18739,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_005_28657",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_ftm",
+          "ctx_base_mid_made"
+        ],
+        "permutation_seed": 28657,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_006_9317",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_ftm",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 9317,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_006_18739",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_ftm",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 18739,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_006_28657",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_ftm",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 28657,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_007_9317",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_ftr",
+          "ctx_base_mid_made"
+        ],
+        "permutation_seed": 9317,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_007_18739",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_ftr",
+          "ctx_base_mid_made"
+        ],
+        "permutation_seed": 18739,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_007_28657",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_ftr",
+          "ctx_base_mid_made"
+        ],
+        "permutation_seed": 28657,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_008_9317",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_ftr",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 9317,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_008_18739",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_ftr",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 18739,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_008_28657",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_ftr",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 28657,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_009_9317",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_mid_made",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 9317,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_009_18739",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_mid_made",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 18739,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_009_28657",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_mid_made",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 28657,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_010_9317",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftm",
+          "ctx_base_ftr"
+        ],
+        "permutation_seed": 9317,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_010_18739",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftm",
+          "ctx_base_ftr"
+        ],
+        "permutation_seed": 18739,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_010_28657",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftm",
+          "ctx_base_ftr"
+        ],
+        "permutation_seed": 28657,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_011_9317",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftm",
+          "ctx_base_mid_made"
+        ],
+        "permutation_seed": 9317,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_011_18739",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftm",
+          "ctx_base_mid_made"
+        ],
+        "permutation_seed": 18739,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_011_28657",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftm",
+          "ctx_base_mid_made"
+        ],
+        "permutation_seed": 28657,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_012_9317",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftm",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 9317,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_012_18739",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftm",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 18739,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_012_28657",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftm",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 28657,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_013_9317",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftr",
+          "ctx_base_mid_made"
+        ],
+        "permutation_seed": 9317,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_013_18739",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftr",
+          "ctx_base_mid_made"
+        ],
+        "permutation_seed": 18739,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_013_28657",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftr",
+          "ctx_base_mid_made"
+        ],
+        "permutation_seed": 28657,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_014_9317",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftr",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 9317,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_014_18739",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftr",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 18739,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_014_28657",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftr",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 28657,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_015_9317",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_mid_made",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 9317,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_015_18739",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_mid_made",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 18739,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_015_28657",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_mid_made",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 28657,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_016_9317",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_ftm",
+          "ctx_base_ftr",
+          "ctx_base_mid_made"
+        ],
+        "permutation_seed": 9317,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_016_18739",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_ftm",
+          "ctx_base_ftr",
+          "ctx_base_mid_made"
+        ],
+        "permutation_seed": 18739,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_016_28657",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_ftm",
+          "ctx_base_ftr",
+          "ctx_base_mid_made"
+        ],
+        "permutation_seed": 28657,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_017_9317",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_ftm",
+          "ctx_base_ftr",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 9317,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_017_18739",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_ftm",
+          "ctx_base_ftr",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 18739,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_017_28657",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_ftm",
+          "ctx_base_ftr",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 28657,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_018_9317",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_ftm",
+          "ctx_base_mid_made",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 9317,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_018_18739",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_ftm",
+          "ctx_base_mid_made",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 18739,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_018_28657",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_ftm",
+          "ctx_base_mid_made",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 28657,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_019_9317",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_ftr",
+          "ctx_base_mid_made",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 9317,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_019_18739",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_ftr",
+          "ctx_base_mid_made",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 18739,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_019_28657",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_ftr",
+          "ctx_base_mid_made",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 28657,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_020_9317",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftm",
+          "ctx_base_ftr",
+          "ctx_base_mid_made"
+        ],
+        "permutation_seed": 9317,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_020_18739",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftm",
+          "ctx_base_ftr",
+          "ctx_base_mid_made"
+        ],
+        "permutation_seed": 18739,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_020_28657",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftm",
+          "ctx_base_ftr",
+          "ctx_base_mid_made"
+        ],
+        "permutation_seed": 28657,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_021_9317",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftm",
+          "ctx_base_ftr",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 9317,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_021_18739",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftm",
+          "ctx_base_ftr",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 18739,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_021_28657",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftm",
+          "ctx_base_ftr",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 28657,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_022_9317",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftm",
+          "ctx_base_mid_made",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 9317,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_022_18739",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftm",
+          "ctx_base_mid_made",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 18739,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_022_28657",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftm",
+          "ctx_base_mid_made",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 28657,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_023_9317",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftr",
+          "ctx_base_mid_made",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 9317,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_023_18739",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftr",
+          "ctx_base_mid_made",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 18739,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_023_28657",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftr",
+          "ctx_base_mid_made",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 28657,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_024_9317",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_ftm",
+          "ctx_base_ftr",
+          "ctx_base_mid_made",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 9317,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_024_18739",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_ftm",
+          "ctx_base_ftr",
+          "ctx_base_mid_made",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 18739,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_024_28657",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_ftm",
+          "ctx_base_ftr",
+          "ctx_base_mid_made",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 28657,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_025_9317",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftm",
+          "ctx_base_ftr",
+          "ctx_base_mid_made",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 9317,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_025_18739",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftm",
+          "ctx_base_ftr",
+          "ctx_base_mid_made",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 18739,
+        "arm": "PP"
+      },
+      {
+        "id": "joint_025_28657",
+        "kind": "permutation",
+        "columns": [
+          "ctx_base_fta",
+          "ctx_base_ftm",
+          "ctx_base_ftr",
+          "ctx_base_mid_made",
+          "ctx_base_minutes_share"
+        ],
+        "permutation_seed": 28657,
+        "arm": "PP"
+      }
+    ],
+    "execution": {
+      "task_count": 330,
+      "workers": 4,
+      "runtime_seconds": 7200,
+      "memory": "140G",
+      "cpu_quota": "2200%"
+    },
+    "selection": {
+      "source": "Completed R9a pre2019 development diagnostics only",
+      "rule": "Single deletion-minus-full AND matched permutation-minus-full strictly positive in every development fold mean and every model seed mean; take every qualifying column.",
+      "source_summary_sha256": "e318ac207769e01a64e7cd372905ae1bf7ad3b6915603ad83982df3c58e628d7",
+      "source_verification_sha256": "beff1f798dc6f79e23118074d4216c83fd3dc97b2b699bd8ea8d998b437ab529",
+      "selected_columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_ftr",
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      "no_further_exhaustive_pruning_without_new_data_or_confirmation": true
+    },
+    "controls": {
+      "deletion": "All16 subsets of the five registered columns of sizes3..5 are removed only after the unchanged47-column full X design is prepared; remaining order/values fixed. Width42..44 entails model dimension effects, not pure information deletion.",
+      "joint_permutation": "All26 subsets of sizes2..5 are shuffled as complete row vectors within role, draft cohort and exact per-row joint missingness pattern. Keeps width47, every player missing mask, cohort vector distribution and within-subset covariance/algebra. May break dependence with other predictors; sparse masks can be immovable. Three fixed permutation seeds with shared stream fifty:joint_input_ablation:<sorted columns>. Exploratory paired diagnostics, no significance claim.",
+      "comparison": "Report each deletion and joint-shuffle difference versus full model by fold and model seed; preserve controls individually and across three permutation seeds. No automatic promotion."
+    },
+    "reference_gate": "All48 A full/single/double tasks must exactly replay complete input audits, raw/canonical predictions and scores before interpretation."
+  },
+  "plan_sha256": "5502489b96a3350bf15d6ff973973134d13ba6828d113fb84d6fc5fdcbe896bc",
+  "files": {
+    "README.md": "961cd981f082e14a21feb63c58247a8e13e3593132595ae1ab595cf300e3af18",
+    "a_reference/plan.json": "7b82397a1e384327fe2b10dda3d4b1177fc1e61c2515de5e8e589e3f014bcccd",
+    "a_reference/queue_runtime.py": "ae7e266b9655b0278532bc96c2ab24bb1bdc6b8a63706e64d9e77c0b49b792f3",
+    "a_reference/references.json": "0101a815856df2325f558921928e3b0a7ff35a575714c627b3f78d9d6a23cc78",
+    "a_reference/source_manifest.json": "b3c242621e7962f0365ebb93424fcc9a8d40e9419f46d12ab3307f063bd1ca43",
+    "a_reference/worker.py": "177f37138a57adf1d1c989398afb9e2ac00d1a3ed0a3176cd08f08ba2259f5cc",
+    "a_reference/x_reference/base/baseline_reference.json": "d18b2e4c623f552e3a9d0f43433c82dcfb9348830f4e92eb1a07a81453a2291c",
+    "a_reference/x_reference/base/data/bio_dictionary.json": "f31b5bb45013363986ae31932713cef4d8b2ae1c263d0697aa6a884bcba7cb30",
+    "a_reference/x_reference/base/data/bio_features.csv": "6739696ff74204a2507edbe5b1bbe0bb86aba2de72509902fb8bc006f3692aea",
+    "a_reference/x_reference/base/data/bio_metadata.json": "46e029333c626865206fe3fb705416001931562640679a36ec9292e1dea9dccd",
+    "a_reference/x_reference/base/data/bio_provenance.csv": "03f10447f07b35c6807d40218c58a7a1d8562d3299bd48d012a03e09dfaba261",
+    "a_reference/x_reference/base/data/bio_verification.json": "fb8a2cae9138c9d4b4459136cd9ae88014d5152cec89c49e55b5669016d98b05",
+    "a_reference/x_reference/base/data/combine_dictionary.json": "fd3df58401feafb24a4eeede1b1e5aab7f27de2bbd2205ede5a38c114106a0e7",
+    "a_reference/x_reference/base/data/combine_features.csv": "e9dace986cd68919a4cbb058c5873061e672755b2c3538f0cb3a16604e544db3",
+    "a_reference/x_reference/base/data/combine_metadata.json": "21d9e65d8f8570f23b89fbd5b36049f7d9f348c9cac0a7bb2df2565c6e18361a",
+    "a_reference/x_reference/base/data/combine_provenance.csv": "1966005e39f7458c58a951cf0a5a078f7481ede98445a9f38bcb27a55104f0ec",
+    "a_reference/x_reference/base/data/consensus_dictionary.json": "5650c1f13ad2f988dfbdeb80f7d59dc7c3be9fd95d7d876d62c7f3698ba40646",
+    "a_reference/x_reference/base/data/consensus_features.csv": "916238ca8aba6cc3998ac1e9707627083009508a3375c48d8fd8f1520491ee6e",
+    "a_reference/x_reference/base/data/consensus_provenance.csv": "6a3a99375512b8c71c549112646d7245e6c455cdf902b7db7163905f6305588c",
+    "a_reference/x_reference/base/data/consensus_sources.json": "bc22a17bb3d3c296226a77e40354c8f4c47722a7a8527458d49b15a9096b60cf",
+    "a_reference/x_reference/base/data/features.csv": "1c20a30b28498526713cf8a3d41259f5568cb96a696d2b0acedc351889810ec4",
+    "a_reference/x_reference/base/data/fifty_dictionary.json": "17caa1f53fa1411e8e88bb1c014d25355548f082ebcae7b4cdffbfc320264b68",
+    "a_reference/x_reference/base/data/fifty_features.csv": "20518e2a80638f4278d5cfe4bc7aa0df78106e009d861adbb348a5a934bad7c0",
+    "a_reference/x_reference/base/data/fifty_lineage.json": "90bd228fd3ca2d972ba85e682c02eaf0221919d66db2d5bbb0e112195a45a374",
+    "a_reference/x_reference/base/data/fifty_lineage_audit.json": "6ec12a3fb239c9c23ea0ca144f4b301cf7c726007df8e21034730161c468e457",
+    "a_reference/x_reference/base/data/fifty_metadata.json": "b31c096b14750bf335744099a4f220ce472a53db37e7bc2410926a7f47a7a08e",
+    "a_reference/x_reference/base/data/fifty_provenance.json": "b8a974e3171566a11ed0753a4114a9bf0b88ce0ca22bafda83caa969e3b5c636",
+    "a_reference/x_reference/base/data/incumbent.json": "72cbd7d44457490ac04d3f6d255eddef0ba6c7897da61a924028afb807bfd3d2",
+    "a_reference/x_reference/base/data/labels.csv": "4afac2eced455cf7fc1f946c9d66fa4ac6fdd8d2febd909e5f71e4aed7a69d89",
+    "a_reference/x_reference/base/data/manifest.json": "d2b56cce8dfd4d881744d86dba84fb0c32ea8528b2a9776ee76e76f0e16e1732",
+    "a_reference/x_reference/base/legacy_kernel.py": "ddc58666da0d784a1b67f6b8ee4763599bdce14bb91768893e6fb87af4620ee1",
+    "a_reference/x_reference/base/plan.json": "a3ff7aea0f444dd010a0479c945f5d8cd233cb9063a90fc70e5403a23301432c",
+    "a_reference/x_reference/base/worker.py": "96d95262ec8cdfb2353f46269069adcd0b5c70bbc94144bd564d86e891665c5a",
+    "a_reference/x_reference/plan.json": "8859362a31a249e8541330f7ccb1c879874f39b0ab9c227049dbde9b745ffe38",
+    "a_reference/x_reference/queue_runtime.py": "ae7e266b9655b0278532bc96c2ab24bb1bdc6b8a63706e64d9e77c0b49b792f3",
+    "a_reference/x_reference/source_manifest.json": "9d89c1b7901471bcad7966a4964f13350bc5d1b9c458cc3082bd1ceb9bb50141",
+    "a_reference/x_reference/w_reference.json": "054b10c66956cf91e116f84367013549f697b3a07ba8a059c5fb8ec14ebbd9d0",
+    "a_reference/x_reference/worker.py": "6029d60f95fa30fa7809d10a1dff6c415305df3cced427badad8e8b839f5f058",
+    "plan.json": "5502489b96a3350bf15d6ff973973134d13ba6828d113fb84d6fc5fdcbe896bc",
+    "prepare.py": "dfa116de96e4f303863a0c434b1e6b4c613f6c9c37ec16db3b749eced2f762a0",
+    "queue_runtime.py": "ae7e266b9655b0278532bc96c2ab24bb1bdc6b8a63706e64d9e77c0b49b792f3",
+    "references.json": "70413436fe6037748a35f69d1195a924f18f46a4c66674251a6dcaa81ef36ee1",
+    "research.py": "d48e4a9be2cb0d6ce07c0a277c560333a958485aeeedab41e84e15e6fa1eca80",
+    "run_sandbox.sh": "a2a81a0bdf5c39f327a33a12d0dea66e445b8b5d56132f393633bf2540adfb62",
+    "source_manifest.json": "191e58a72d1a6458b75eb8985ed1561382859216bb9c7b4a4f2a0684631bc003",
+    "test_essential.py": "24daecf5f8c30c509f0febcf1be277f516d615d4957180596351bf0bbcf12262",
+    "tests.json": "803997664ee481d764678614e9685e49ddb2197b99c212c39ba254e8fbb0040c",
+    "worker.py": "739542250792d1047ce0f297227f8b0ec383b106e036cd9984fb32e179958b46"
+  }
+}

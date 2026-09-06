@@ -1,0 +1,158 @@
+{
+  "study_pool_rows": 1428,
+  "source41_columns": [
+    "ctx_base_gp",
+    "ctx_base_minutes_share",
+    "ctx_base_usage",
+    "ctx_base_efg",
+    "ctx_base_ts",
+    "ctx_base_orb",
+    "ctx_base_drb",
+    "ctx_base_ast_pct",
+    "ctx_base_tov_pct",
+    "ctx_base_ftm",
+    "ctx_base_fta",
+    "ctx_base_ft_pct",
+    "ctx_base_fg2m",
+    "ctx_base_fg2a",
+    "ctx_base_fg2_pct",
+    "ctx_base_fg3m",
+    "ctx_base_fg3a",
+    "ctx_base_fg3_pct",
+    "ctx_base_blk_pct",
+    "ctx_base_stl_pct",
+    "ctx_base_ftr",
+    "ctx_base_fouls40",
+    "ctx_base_ast_tov",
+    "ctx_base_rim_made",
+    "ctx_base_rim_attempts",
+    "ctx_base_mid_made",
+    "ctx_base_mid_attempts",
+    "ctx_base_dunk_made",
+    "ctx_base_dunk_attempts",
+    "ctx_base_mpg",
+    "ctx_base_oreb_pg",
+    "ctx_base_dreb_pg",
+    "ctx_base_ast_pg",
+    "ctx_base_stl_pg",
+    "ctx_base_blk_pg",
+    "ctx_base_pts_pg",
+    "ctx_base_three_share",
+    "ctx_skill_defense_discipline",
+    "ctx_skill_creation_control",
+    "ctx_skill_usage_efficiency",
+    "ctx_skill_ft_volume"
+  ],
+  "study_rows_with_game_candidates": 660,
+  "study_rows_with_team_candidates": 614,
+  "algebraic_or_direct_comparisons": [
+    {
+      "candidate": "cgd_observed_gp",
+      "existing_formula": "ctx_base_gp",
+      "paired_observed_rows": 660,
+      "equal_within_1e_minus12": 660,
+      "equal_within_4_decimal_rounding": 660,
+      "max_abs_difference": 0.0
+    },
+    {
+      "candidate": "cgd_two_m_pg",
+      "existing_formula": "ctx_base_fg2m/ctx_base_gp",
+      "paired_observed_rows": 660,
+      "equal_within_1e_minus12": 660,
+      "equal_within_4_decimal_rounding": 660,
+      "max_abs_difference": 0.0
+    },
+    {
+      "candidate": "cgd_two_a_pg",
+      "existing_formula": "ctx_base_fg2a/ctx_base_gp",
+      "paired_observed_rows": 660,
+      "equal_within_1e_minus12": 660,
+      "equal_within_4_decimal_rounding": 660,
+      "max_abs_difference": 0.0
+    },
+    {
+      "candidate": "cgd_three_m_pg",
+      "existing_formula": "ctx_base_fg3m/ctx_base_gp",
+      "paired_observed_rows": 660,
+      "equal_within_1e_minus12": 660,
+      "equal_within_4_decimal_rounding": 660,
+      "max_abs_difference": 0.0
+    },
+    {
+      "candidate": "cgd_three_a_pg",
+      "existing_formula": "ctx_base_fg3a/ctx_base_gp",
+      "paired_observed_rows": 660,
+      "equal_within_1e_minus12": 660,
+      "equal_within_4_decimal_rounding": 660,
+      "max_abs_difference": 0.0
+    },
+    {
+      "candidate": "cgd_ft_m_pg",
+      "existing_formula": "ctx_base_ftm/ctx_base_gp",
+      "paired_observed_rows": 660,
+      "equal_within_1e_minus12": 660,
+      "equal_within_4_decimal_rounding": 660,
+      "max_abs_difference": 0.0
+    },
+    {
+      "candidate": "cgd_ft_a_pg",
+      "existing_formula": "ctx_base_fta/ctx_base_gp",
+      "paired_observed_rows": 660,
+      "equal_within_1e_minus12": 660,
+      "equal_within_4_decimal_rounding": 660,
+      "max_abs_difference": 0.0
+    },
+    {
+      "candidate": "cgd_orb_pg",
+      "existing_formula": "ctx_base_oreb_pg",
+      "paired_observed_rows": 660,
+      "equal_within_1e_minus12": 91,
+      "equal_within_4_decimal_rounding": 602,
+      "max_abs_difference": 0.23706896551724155
+    },
+    {
+      "candidate": "cgd_drb_pg",
+      "existing_formula": "ctx_base_dreb_pg",
+      "paired_observed_rows": 660,
+      "equal_within_1e_minus12": 89,
+      "equal_within_4_decimal_rounding": 602,
+      "max_abs_difference": 0.2924407407407408
+    },
+    {
+      "candidate": "cgd_ast_pg",
+      "existing_formula": "ctx_base_ast_pg",
+      "paired_observed_rows": 660,
+      "equal_within_1e_minus12": 87,
+      "equal_within_4_decimal_rounding": 602,
+      "max_abs_difference": 0.31308709677419433
+    },
+    {
+      "candidate": "cgd_stl_pg",
+      "existing_formula": "ctx_base_stl_pg",
+      "paired_observed_rows": 660,
+      "equal_within_1e_minus12": 98,
+      "equal_within_4_decimal_rounding": 602,
+      "max_abs_difference": 0.1853242424242425
+    },
+    {
+      "candidate": "cgd_blk_pg",
+      "existing_formula": "ctx_base_blk_pg",
+      "paired_observed_rows": 660,
+      "equal_within_1e_minus12": 90,
+      "equal_within_4_decimal_rounding": 604,
+      "max_abs_difference": 0.07492903225806447
+    },
+    {
+      "candidate": "cgd_points_pg",
+      "existing_formula": "(2*ctx_base_fg2m+3*ctx_base_fg3m+ctx_base_ftm)/ctx_base_gp",
+      "paired_observed_rows": 660,
+      "equal_within_1e_minus12": 660
+    }
+  ],
+  "direct_event_new_fields": [
+    "cgd_tov_pg",
+    "cgd_pf_pg"
+  ],
+  "interpretation": "GP and six shooting rates plus scoring rate are representations of existing GP/shooting totals on paired rows. Other player rates repair source-subset differences. TOV/PF use direct events where current41 uses rounded rates/ratios; no claim of predictive improvement. Team-context fields describe team/opponent events absent from the current41 player-only source columns.",
+  "outcomes_or_model_results_used": false
+}

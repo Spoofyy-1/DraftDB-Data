@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "models_fitted": 0,
+  "source_projection_sha256": "98f485709f136b5e4f716b6e15c877649fc48a7bb80fe38e9d9876317bebf596",
+  "exact_full_source_rows": 1458,
+  "all1428_study_pids_preserved_by_left_join": true,
+  "source_global_model_eligible_remains_false": true,
+  "schema_single35_families15_20_35_tasks459": true,
+  "three_selected_baseline_exact_reference_contracts": true,
+  "missing_reference_withholds_interpretation": true,
+  "training_only_eligibility_no_query_argument": true,
+  "single_common_slot_and_family_widths": true,
+  "independent_cohort_joint_mask_vector_counter_check": true,
+  "unchanged_baseline_and_source_values": true,
+  "tamper_rejections": [
+    "reference_raw_prediction",
+    "future_label",
+    "joint_structure_preserving_marginals"
+  ]
+}

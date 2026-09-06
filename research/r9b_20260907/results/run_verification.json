@@ -1,0 +1,34 @@
+{
+  "passed": true,
+  "models_fitted": 0,
+  "records": 330,
+  "reference_replays_exact": 48,
+  "frozen_files_unchanged": 48,
+  "frozen_manifest_sha256": "18aeeca6b66ee022c7b588198afa0be3b4ca536e67a28633e74461aa0b37f5b9",
+  "preregistration_exact": true,
+  "queue_registration_exact": true,
+  "append_log_all_hashes_exact": true,
+  "complete_summary_recomputed_exact": true,
+  "compact_candidates_exact": true,
+  "new_higher_order_deletions": 16,
+  "joint_permutation_subsets": 26,
+  "all_pre2019_development_only": true,
+  "no_model_promotion": true,
+  "task_archive_manifest": {
+    "sha256": "756795ec94560d8657b1b3337569da07c7651a4f02944a8e681caff921f0e97d",
+    "bytes": 91283
+  },
+  "chunks": 2,
+  "original_bytes": 49190332,
+  "compressed_bytes": 11522060,
+  "max_chunk_bytes": 7538507,
+  "all_record_roundtrips_byte_exact": true,
+  "elapsed_seconds": 260.4709116399754,
+  "trials_per_minute": 76.01616577964641,
+  "verification_seconds": 3.857626284006983,
+  "verification_code_sha256": "902c5b612874299271adb6823906266948d690b76ae336ebebc5031d8309209a",
+  "summary": {
+    "sha256": "5e84ef9177ed62256e8bd4abd43871382a6230b9bdf8849d78576ba32710af4c",
+    "bytes": 249995
+  }
+}

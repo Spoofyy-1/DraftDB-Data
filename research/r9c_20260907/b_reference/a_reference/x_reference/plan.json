@@ -1,0 +1,1270 @@
+{
+  "study": "R8x pair-complement screen",
+  "diagnostic_only": true,
+  "no_confirmation_or_test_scoring": true,
+  "registration": {
+    "study": "R8x pair-complement screen",
+    "status": "Research design frozen; implementation/runtime registration pending orchestration benchmark",
+    "source_study": "R8w",
+    "source_state_sha256": "8dac36b3bbed501735cec57d3fa48ad5b77ac5e7f3f7428cec338c1e76b761ec",
+    "selection_rule": "Every W field with real mean above fixed45-column baseline and positive matched gains in each fold mean and each model-seed mean. Exploratory selection on pre2019 development only.",
+    "selected_features": [
+      "f50_career_slope_ftp",
+      "f50_career_slope_usage",
+      "f50_nondunk_rim_pct",
+      "f50_peer_rank_orb",
+      "f50_posterior_rim"
+    ],
+    "pairs": [
+      [
+        "f50_career_slope_ftp",
+        "f50_career_slope_usage"
+      ],
+      [
+        "f50_career_slope_ftp",
+        "f50_nondunk_rim_pct"
+      ],
+      [
+        "f50_career_slope_ftp",
+        "f50_peer_rank_orb"
+      ],
+      [
+        "f50_career_slope_ftp",
+        "f50_posterior_rim"
+      ],
+      [
+        "f50_career_slope_usage",
+        "f50_nondunk_rim_pct"
+      ],
+      [
+        "f50_career_slope_usage",
+        "f50_peer_rank_orb"
+      ],
+      [
+        "f50_career_slope_usage",
+        "f50_posterior_rim"
+      ],
+      [
+        "f50_nondunk_rim_pct",
+        "f50_peer_rank_orb"
+      ],
+      [
+        "f50_nondunk_rim_pct",
+        "f50_posterior_rim"
+      ],
+      [
+        "f50_peer_rank_orb",
+        "f50_posterior_rim"
+      ]
+    ],
+    "fixed_backbone": "R8w source-college41 + real dated consensus4; TabICL32, same source/labels/canonical order/tie handling",
+    "seeds": [
+      0,
+      101,
+      202
+    ],
+    "permutation_seeds": [
+      9317,
+      18739,
+      28657
+    ],
+    "arms_per_pair": {
+      "RR": "Both actual values,3 model seeds",
+      "RP": "A real; B shuffled within cohort/role/missingness,3x3",
+      "PR": "A shuffled; B real,3x3",
+      "PP": "Whole two-column vectors shuffled within cohort/role/joint missingness, preserving pair distribution,3x3"
+    },
+    "task_count": 318,
+    "task_breakdown": {
+      "baseline_replays": 3,
+      "W_single_feature_replays": 15,
+      "pair_tasks": 300
+    },
+    "mandatory_replay_gate": "All18 W reference tasks must exactly reproduce raw/canonical predictions and scores before interpretation.",
+    "slot_policy": "Singles use unchanged W slot041 and46 columns. Pairs use fixed slots041/042 and47 columns; alphabetical feature assignment. Real/control pair widths identical.",
+    "comparison": "Both RR-minus-RP and RR-minus-PR conditional gains, with joint RR-minus-PP separately. Report fold and seed variation and actual RR change relative to baseline and both unchanged single-feature means. Cross-feature dependence can be broken by conditional shuffles; these are usability diagnostics, not conditional-randomization significance tests.",
+    "exploratory_complement_candidate_rule": "Positive mean conditional gains for both features, positive means in every development fold, and actual pair mean exceeding each W single-feature mean. No automatic promotion; report all10 pairs, including failed gates.",
+    "no_new_test_or_confirmation_scoring": true,
+    "no_model_changes_for_speed": "Only the independently benchmarked scheduler/worker count may change; predictor/data/seed settings remain fixed."
+  },
+  "folds": [
+    2012,
+    2013,
+    2014
+  ],
+  "seeds": [
+    0,
+    101,
+    202
+  ],
+  "permutation_seeds": [
+    9317,
+    18739,
+    28657
+  ],
+  "variants": [
+    {
+      "id": "baseline",
+      "background": "college_consensus",
+      "extra_arm": "absent",
+      "feature": null,
+      "arms": {
+        "consensus": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_career_slope_ftp_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_career_slope_ftp",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_career_slope_usage_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_career_slope_usage",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_nondunk_rim_pct_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_nondunk_rim_pct",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_rank_orb_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_peer_rank_orb",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_posterior_rim_real",
+      "background": "college_consensus",
+      "extra_arm": "real",
+      "feature": "f50_posterior_rim",
+      "arms": {
+        "consensus": "real",
+        "fifty": "real"
+      },
+      "permutation_seed": null
+    },
+    {
+      "id": "pair00_RR",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_career_slope_usage"
+      ],
+      "arm": "RR",
+      "permutation_seed": null,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair00_RP_9317",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_career_slope_usage"
+      ],
+      "arm": "RP",
+      "permutation_seed": 9317,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair00_RP_18739",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_career_slope_usage"
+      ],
+      "arm": "RP",
+      "permutation_seed": 18739,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair00_RP_28657",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_career_slope_usage"
+      ],
+      "arm": "RP",
+      "permutation_seed": 28657,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair00_PR_9317",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_career_slope_usage"
+      ],
+      "arm": "PR",
+      "permutation_seed": 9317,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair00_PR_18739",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_career_slope_usage"
+      ],
+      "arm": "PR",
+      "permutation_seed": 18739,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair00_PR_28657",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_career_slope_usage"
+      ],
+      "arm": "PR",
+      "permutation_seed": 28657,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair00_PP_9317",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_career_slope_usage"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair00_PP_18739",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_career_slope_usage"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair00_PP_28657",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_career_slope_usage"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair01_RR",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_nondunk_rim_pct"
+      ],
+      "arm": "RR",
+      "permutation_seed": null,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair01_RP_9317",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_nondunk_rim_pct"
+      ],
+      "arm": "RP",
+      "permutation_seed": 9317,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair01_RP_18739",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_nondunk_rim_pct"
+      ],
+      "arm": "RP",
+      "permutation_seed": 18739,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair01_RP_28657",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_nondunk_rim_pct"
+      ],
+      "arm": "RP",
+      "permutation_seed": 28657,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair01_PR_9317",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_nondunk_rim_pct"
+      ],
+      "arm": "PR",
+      "permutation_seed": 9317,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair01_PR_18739",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_nondunk_rim_pct"
+      ],
+      "arm": "PR",
+      "permutation_seed": 18739,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair01_PR_28657",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_nondunk_rim_pct"
+      ],
+      "arm": "PR",
+      "permutation_seed": 28657,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair01_PP_9317",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_nondunk_rim_pct"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair01_PP_18739",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_nondunk_rim_pct"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair01_PP_28657",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_nondunk_rim_pct"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair02_RR",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_peer_rank_orb"
+      ],
+      "arm": "RR",
+      "permutation_seed": null,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair02_RP_9317",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_peer_rank_orb"
+      ],
+      "arm": "RP",
+      "permutation_seed": 9317,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair02_RP_18739",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_peer_rank_orb"
+      ],
+      "arm": "RP",
+      "permutation_seed": 18739,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair02_RP_28657",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_peer_rank_orb"
+      ],
+      "arm": "RP",
+      "permutation_seed": 28657,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair02_PR_9317",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_peer_rank_orb"
+      ],
+      "arm": "PR",
+      "permutation_seed": 9317,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair02_PR_18739",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_peer_rank_orb"
+      ],
+      "arm": "PR",
+      "permutation_seed": 18739,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair02_PR_28657",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_peer_rank_orb"
+      ],
+      "arm": "PR",
+      "permutation_seed": 28657,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair02_PP_9317",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_peer_rank_orb"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair02_PP_18739",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_peer_rank_orb"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair02_PP_28657",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_peer_rank_orb"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair03_RR",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_posterior_rim"
+      ],
+      "arm": "RR",
+      "permutation_seed": null,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair03_RP_9317",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_posterior_rim"
+      ],
+      "arm": "RP",
+      "permutation_seed": 9317,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair03_RP_18739",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_posterior_rim"
+      ],
+      "arm": "RP",
+      "permutation_seed": 18739,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair03_RP_28657",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_posterior_rim"
+      ],
+      "arm": "RP",
+      "permutation_seed": 28657,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair03_PR_9317",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_posterior_rim"
+      ],
+      "arm": "PR",
+      "permutation_seed": 9317,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair03_PR_18739",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_posterior_rim"
+      ],
+      "arm": "PR",
+      "permutation_seed": 18739,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair03_PR_28657",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_posterior_rim"
+      ],
+      "arm": "PR",
+      "permutation_seed": 28657,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair03_PP_9317",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_posterior_rim"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair03_PP_18739",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_posterior_rim"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair03_PP_28657",
+      "pair": [
+        "f50_career_slope_ftp",
+        "f50_posterior_rim"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair04_RR",
+      "pair": [
+        "f50_career_slope_usage",
+        "f50_nondunk_rim_pct"
+      ],
+      "arm": "RR",
+      "permutation_seed": null,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair04_RP_9317",
+      "pair": [
+        "f50_career_slope_usage",
+        "f50_nondunk_rim_pct"
+      ],
+      "arm": "RP",
+      "permutation_seed": 9317,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair04_RP_18739",
+      "pair": [
+        "f50_career_slope_usage",
+        "f50_nondunk_rim_pct"
+      ],
+      "arm": "RP",
+      "permutation_seed": 18739,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair04_RP_28657",
+      "pair": [
+        "f50_career_slope_usage",
+        "f50_nondunk_rim_pct"
+      ],
+      "arm": "RP",
+      "permutation_seed": 28657,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair04_PR_9317",
+      "pair": [
+        "f50_career_slope_usage",
+        "f50_nondunk_rim_pct"
+      ],
+      "arm": "PR",
+      "permutation_seed": 9317,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair04_PR_18739",
+      "pair": [
+        "f50_career_slope_usage",
+        "f50_nondunk_rim_pct"
+      ],
+      "arm": "PR",
+      "permutation_seed": 18739,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair04_PR_28657",
+      "pair": [
+        "f50_career_slope_usage",
+        "f50_nondunk_rim_pct"
+      ],
+      "arm": "PR",
+      "permutation_seed": 28657,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair04_PP_9317",
+      "pair": [
+        "f50_career_slope_usage",
+        "f50_nondunk_rim_pct"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair04_PP_18739",
+      "pair": [
+        "f50_career_slope_usage",
+        "f50_nondunk_rim_pct"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair04_PP_28657",
+      "pair": [
+        "f50_career_slope_usage",
+        "f50_nondunk_rim_pct"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair05_RR",
+      "pair": [
+        "f50_career_slope_usage",
+        "f50_peer_rank_orb"
+      ],
+      "arm": "RR",
+      "permutation_seed": null,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair05_RP_9317",
+      "pair": [
+        "f50_career_slope_usage",
+        "f50_peer_rank_orb"
+      ],
+      "arm": "RP",
+      "permutation_seed": 9317,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair05_RP_18739",
+      "pair": [
+        "f50_career_slope_usage",
+        "f50_peer_rank_orb"
+      ],
+      "arm": "RP",
+      "permutation_seed": 18739,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair05_RP_28657",
+      "pair": [
+        "f50_career_slope_usage",
+        "f50_peer_rank_orb"
+      ],
+      "arm": "RP",
+      "permutation_seed": 28657,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair05_PR_9317",
+      "pair": [
+        "f50_career_slope_usage",
+        "f50_peer_rank_orb"
+      ],
+      "arm": "PR",
+      "permutation_seed": 9317,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair05_PR_18739",
+      "pair": [
+        "f50_career_slope_usage",
+        "f50_peer_rank_orb"
+      ],
+      "arm": "PR",
+      "permutation_seed": 18739,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair05_PR_28657",
+      "pair": [
+        "f50_career_slope_usage",
+        "f50_peer_rank_orb"
+      ],
+      "arm": "PR",
+      "permutation_seed": 28657,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair05_PP_9317",
+      "pair": [
+        "f50_career_slope_usage",
+        "f50_peer_rank_orb"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair05_PP_18739",
+      "pair": [
+        "f50_career_slope_usage",
+        "f50_peer_rank_orb"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair05_PP_28657",
+      "pair": [
+        "f50_career_slope_usage",
+        "f50_peer_rank_orb"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair06_RR",
+      "pair": [
+        "f50_career_slope_usage",
+        "f50_posterior_rim"
+      ],
+      "arm": "RR",
+      "permutation_seed": null,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair06_RP_9317",
+      "pair": [
+        "f50_career_slope_usage",
+        "f50_posterior_rim"
+      ],
+      "arm": "RP",
+      "permutation_seed": 9317,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair06_RP_18739",
+      "pair": [
+        "f50_career_slope_usage",
+        "f50_posterior_rim"
+      ],
+      "arm": "RP",
+      "permutation_seed": 18739,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair06_RP_28657",
+      "pair": [
+        "f50_career_slope_usage",
+        "f50_posterior_rim"
+      ],
+      "arm": "RP",
+      "permutation_seed": 28657,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair06_PR_9317",
+      "pair": [
+        "f50_career_slope_usage",
+        "f50_posterior_rim"
+      ],
+      "arm": "PR",
+      "permutation_seed": 9317,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair06_PR_18739",
+      "pair": [
+        "f50_career_slope_usage",
+        "f50_posterior_rim"
+      ],
+      "arm": "PR",
+      "permutation_seed": 18739,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair06_PR_28657",
+      "pair": [
+        "f50_career_slope_usage",
+        "f50_posterior_rim"
+      ],
+      "arm": "PR",
+      "permutation_seed": 28657,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair06_PP_9317",
+      "pair": [
+        "f50_career_slope_usage",
+        "f50_posterior_rim"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair06_PP_18739",
+      "pair": [
+        "f50_career_slope_usage",
+        "f50_posterior_rim"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair06_PP_28657",
+      "pair": [
+        "f50_career_slope_usage",
+        "f50_posterior_rim"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair07_RR",
+      "pair": [
+        "f50_nondunk_rim_pct",
+        "f50_peer_rank_orb"
+      ],
+      "arm": "RR",
+      "permutation_seed": null,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair07_RP_9317",
+      "pair": [
+        "f50_nondunk_rim_pct",
+        "f50_peer_rank_orb"
+      ],
+      "arm": "RP",
+      "permutation_seed": 9317,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair07_RP_18739",
+      "pair": [
+        "f50_nondunk_rim_pct",
+        "f50_peer_rank_orb"
+      ],
+      "arm": "RP",
+      "permutation_seed": 18739,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair07_RP_28657",
+      "pair": [
+        "f50_nondunk_rim_pct",
+        "f50_peer_rank_orb"
+      ],
+      "arm": "RP",
+      "permutation_seed": 28657,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair07_PR_9317",
+      "pair": [
+        "f50_nondunk_rim_pct",
+        "f50_peer_rank_orb"
+      ],
+      "arm": "PR",
+      "permutation_seed": 9317,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair07_PR_18739",
+      "pair": [
+        "f50_nondunk_rim_pct",
+        "f50_peer_rank_orb"
+      ],
+      "arm": "PR",
+      "permutation_seed": 18739,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair07_PR_28657",
+      "pair": [
+        "f50_nondunk_rim_pct",
+        "f50_peer_rank_orb"
+      ],
+      "arm": "PR",
+      "permutation_seed": 28657,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair07_PP_9317",
+      "pair": [
+        "f50_nondunk_rim_pct",
+        "f50_peer_rank_orb"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair07_PP_18739",
+      "pair": [
+        "f50_nondunk_rim_pct",
+        "f50_peer_rank_orb"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair07_PP_28657",
+      "pair": [
+        "f50_nondunk_rim_pct",
+        "f50_peer_rank_orb"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair08_RR",
+      "pair": [
+        "f50_nondunk_rim_pct",
+        "f50_posterior_rim"
+      ],
+      "arm": "RR",
+      "permutation_seed": null,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair08_RP_9317",
+      "pair": [
+        "f50_nondunk_rim_pct",
+        "f50_posterior_rim"
+      ],
+      "arm": "RP",
+      "permutation_seed": 9317,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair08_RP_18739",
+      "pair": [
+        "f50_nondunk_rim_pct",
+        "f50_posterior_rim"
+      ],
+      "arm": "RP",
+      "permutation_seed": 18739,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair08_RP_28657",
+      "pair": [
+        "f50_nondunk_rim_pct",
+        "f50_posterior_rim"
+      ],
+      "arm": "RP",
+      "permutation_seed": 28657,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair08_PR_9317",
+      "pair": [
+        "f50_nondunk_rim_pct",
+        "f50_posterior_rim"
+      ],
+      "arm": "PR",
+      "permutation_seed": 9317,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair08_PR_18739",
+      "pair": [
+        "f50_nondunk_rim_pct",
+        "f50_posterior_rim"
+      ],
+      "arm": "PR",
+      "permutation_seed": 18739,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair08_PR_28657",
+      "pair": [
+        "f50_nondunk_rim_pct",
+        "f50_posterior_rim"
+      ],
+      "arm": "PR",
+      "permutation_seed": 28657,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair08_PP_9317",
+      "pair": [
+        "f50_nondunk_rim_pct",
+        "f50_posterior_rim"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair08_PP_18739",
+      "pair": [
+        "f50_nondunk_rim_pct",
+        "f50_posterior_rim"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair08_PP_28657",
+      "pair": [
+        "f50_nondunk_rim_pct",
+        "f50_posterior_rim"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair09_RR",
+      "pair": [
+        "f50_peer_rank_orb",
+        "f50_posterior_rim"
+      ],
+      "arm": "RR",
+      "permutation_seed": null,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair09_RP_9317",
+      "pair": [
+        "f50_peer_rank_orb",
+        "f50_posterior_rim"
+      ],
+      "arm": "RP",
+      "permutation_seed": 9317,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair09_RP_18739",
+      "pair": [
+        "f50_peer_rank_orb",
+        "f50_posterior_rim"
+      ],
+      "arm": "RP",
+      "permutation_seed": 18739,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair09_RP_28657",
+      "pair": [
+        "f50_peer_rank_orb",
+        "f50_posterior_rim"
+      ],
+      "arm": "RP",
+      "permutation_seed": 28657,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair09_PR_9317",
+      "pair": [
+        "f50_peer_rank_orb",
+        "f50_posterior_rim"
+      ],
+      "arm": "PR",
+      "permutation_seed": 9317,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair09_PR_18739",
+      "pair": [
+        "f50_peer_rank_orb",
+        "f50_posterior_rim"
+      ],
+      "arm": "PR",
+      "permutation_seed": 18739,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair09_PR_28657",
+      "pair": [
+        "f50_peer_rank_orb",
+        "f50_posterior_rim"
+      ],
+      "arm": "PR",
+      "permutation_seed": 28657,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair09_PP_9317",
+      "pair": [
+        "f50_peer_rank_orb",
+        "f50_posterior_rim"
+      ],
+      "arm": "PP",
+      "permutation_seed": 9317,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair09_PP_18739",
+      "pair": [
+        "f50_peer_rank_orb",
+        "f50_posterior_rim"
+      ],
+      "arm": "PP",
+      "permutation_seed": 18739,
+      "background": "college_consensus"
+    },
+    {
+      "id": "pair09_PP_28657",
+      "pair": [
+        "f50_peer_rank_orb",
+        "f50_posterior_rim"
+      ],
+      "arm": "PP",
+      "permutation_seed": 28657,
+      "background": "college_consensus"
+    }
+  ],
+  "reference_ids": [
+    "baseline",
+    "f50_career_slope_ftp_real",
+    "f50_career_slope_usage_real",
+    "f50_nondunk_rim_pct_real",
+    "f50_peer_rank_orb_real",
+    "f50_posterior_rim_real"
+  ],
+  "selected_features": [
+    "f50_career_slope_ftp",
+    "f50_career_slope_usage",
+    "f50_nondunk_rim_pct",
+    "f50_peer_rank_orb",
+    "f50_posterior_rim"
+  ],
+  "pairs": [
+    [
+      "f50_career_slope_ftp",
+      "f50_career_slope_usage"
+    ],
+    [
+      "f50_career_slope_ftp",
+      "f50_nondunk_rim_pct"
+    ],
+    [
+      "f50_career_slope_ftp",
+      "f50_peer_rank_orb"
+    ],
+    [
+      "f50_career_slope_ftp",
+      "f50_posterior_rim"
+    ],
+    [
+      "f50_career_slope_usage",
+      "f50_nondunk_rim_pct"
+    ],
+    [
+      "f50_career_slope_usage",
+      "f50_peer_rank_orb"
+    ],
+    [
+      "f50_career_slope_usage",
+      "f50_posterior_rim"
+    ],
+    [
+      "f50_nondunk_rim_pct",
+      "f50_peer_rank_orb"
+    ],
+    [
+      "f50_nondunk_rim_pct",
+      "f50_posterior_rim"
+    ],
+    [
+      "f50_peer_rank_orb",
+      "f50_posterior_rim"
+    ]
+  ],
+  "pair_slots": [
+    "slot_041",
+    "slot_042"
+  ],
+  "model_constructor": {
+    "device": "cuda",
+    "n_estimators": 32,
+    "random_state": "task_seed",
+    "batch_size": 32,
+    "norm_methods": "none",
+    "outlier_threshold": 2.0
+  },
+  "ordering_policy": {
+    "version": "sha256_pid_exact_vector_mean_v1",
+    "row_order": "Sort train and query rows by SHA256(UTF8(pid)), with pid as deterministic collision tiebreaker, before selection and prediction. Identity/order keys never become predictors.",
+    "input_equivalence": "All selected predictor values must be numerically identical. NaNs compare equal; positive/negative zero compare equal. Distinct vectors are never quantized or merged.",
+    "prediction_ties": "Within each query group of exactly identical full predictor vectors, assign every row the arithmetic mean of its raw predictions using math.fsum over sorted float64 values.",
+    "raw_preservation": "Save raw and canonical prediction for every pid, exact duplicate groups and policy hash. All scoring uses canonical predictions with Spearman average ranks.",
+    "registration_basis": "R8order numerical audit found8 all-missing duplicate inputs with floating-point score splitting; no outcome score was used to choose this policy.",
+    "new_baseline": "Every background baseline reruns under this policy. Do not pool these scores with raw-prediction R8s or earlier studies."
+  },
+  "source_filter": {
+    "min_training_observed": 5,
+    "min_training_unique": 2,
+    "validation_coverage_used": false
+  },
+  "execution": {
+    "task_count": 318,
+    "workers": 4,
+    "runtime_seconds": 7200,
+    "memory": "140G",
+    "cpu_quota": "2200%",
+    "snapshot_seconds": 3,
+    "summary_seconds": 20
+  },
+  "controls": {
+    "conditional_stream": "Unchanged W single-field stream: fifty:feature with role/cohort/own mask and permutation seed.",
+    "joint_stream": "fifty:pair_joint:<alphabeticA>:<alphabeticB>, whole row vectors within cohort/role/joint mask.",
+    "preserved": "Every per-player field mask and cohort marginal; PP also preserves the pair joint distribution within mask/cohort.",
+    "limitations": "RP/PR break cross-feature associations; PP uses a joint vector shuffle, so this is not a factorial independent-shuffle randomization test. Fixed-shape usability diagnostics after exploratory feature screening, not statistical significance."
+  }
+}

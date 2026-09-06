@@ -1,0 +1,25 @@
+{
+  "study": "r9c",
+  "unit": "draftdb-r9c-20260907",
+  "systemd": {
+    "RuntimeMaxUSec": "2h",
+    "CPUQuotaPerSecUSec": "22s",
+    "MemoryMax": "150323855360",
+    "ActiveState": "active",
+    "SubState": "running",
+    "InvocationID": "a5c9c4fdf088462ea7e19a912d05ebbf"
+  },
+  "tasks": 459,
+  "workers": 4,
+  "CPU_preflight_passed": true,
+  "B_verified_before_launch": true,
+  "updated_epoch": 1788721501.5954432,
+  "first_snapshot": {
+    "status": "running",
+    "completed": 23,
+    "total": 459,
+    "active_workers": 4,
+    "error": null
+  },
+  "references_passed": 3
+}
