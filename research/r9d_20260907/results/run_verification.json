@@ -1,0 +1,42 @@
+{
+  "passed": true,
+  "models_fitted": 0,
+  "records": 171,
+  "reference_replays_exact": 3,
+  "frozen_files_unchanged": 55,
+  "frozen_manifest_sha256": "a4189ca0c01786d5af1e2263e20224e311a96449edae27ae8e077bb5f67d97de",
+  "preregistration_exact": true,
+  "queue_registration_exact": true,
+  "append_log_all_hashes_exact": true,
+  "complete_summary_recomputed_exact": true,
+  "compact_candidates_exact": true,
+  "requested_configurations": 60,
+  "distinct_configurations": 57,
+  "effective_generator_designs_exact": true,
+  "all_saved_fold_scores_recomputed_exact": true,
+  "seed_averaged_diagnostics_recomputed_exact": true,
+  "installed_source_hashes_exact": true,
+  "seed_ensembles": {
+    "sha256": "35cad0bcd1928888e3ebd27275d7650beb6356a3892ce01a4c67ea121bde3bcf",
+    "bytes": 1064448
+  },
+  "all_pre2019_development_only": true,
+  "no_model_promotion": true,
+  "task_archive_manifest": {
+    "sha256": "4e3103814225c360fe45c676a374977eb9d6fc3b7287ecabfed26e666d9babd1",
+    "bytes": 48404
+  },
+  "chunks": 1,
+  "original_bytes": 23397338,
+  "compressed_bytes": 5896424,
+  "max_chunk_bytes": 5896424,
+  "all_record_roundtrips_byte_exact": true,
+  "elapsed_seconds": 141.04997008596547,
+  "trials_per_minute": 72.74017848955839,
+  "verification_seconds": 9.061498614028096,
+  "verification_code_sha256": "4aba890627be7036a01c09d365e90470cbd7a68cff6f27b71ba6951614decbfe",
+  "summary": {
+    "sha256": "b467d7fb50e649b2487862174eba1767e8eab70df32fc83314bf7c90a73f7995",
+    "bytes": 139403
+  }
+}

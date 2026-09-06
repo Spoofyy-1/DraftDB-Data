@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "models_fitted": 0,
+  "requested_factorial_configurations": 60,
+  "distinct_configurations": 57,
+  "tasks": 171,
+  "all_dedupes_identical_across9fold_seed_designs": true,
+  "three_exact_B_reference_contracts": true,
+  "safe_disabled_serialization": true,
+  "fixed_all_three_seed_mean_fixture": true,
+  "tamper_rejections": [
+    "effective_ensemble_count",
+    "raw_reference_prediction",
+    "future_label",
+    "missing_seed",
+    "misaligned_prediction_pids"
+  ]
+}

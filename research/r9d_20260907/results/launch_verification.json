@@ -1,0 +1,22 @@
+{
+  "unit": "draftdb-r9d-20260907",
+  "observed_utc": "2026-09-06T20:01:18.505137+00:00",
+  "systemd": "RuntimeMaxUSec=infinity\nCPUQuotaPerSecUSec=infinity\nMemoryMax=infinity\nActiveState=inactive\nSubState=dead\nInvocationID=\n",
+  "status": "completed",
+  "completed": 171,
+  "total": 171,
+  "errors": null,
+  "error": null,
+  "reference_status": {
+    "interpretation_allowed": true
+  },
+  "gpu": "0 %, 0 MiB\n",
+  "initial_systemd_launch": {
+    "InvocationID": "956dcdd70013437cb63dfc54e29854c0",
+    "ActiveState": "active",
+    "SubState": "running",
+    "RuntimeMaxUSec": "2h",
+    "CPUQuotaPerSecUSec": "22s",
+    "MemoryMax": 150323855360
+  }
+}

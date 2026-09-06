@@ -1,0 +1,1397 @@
+{
+  "format": "gzip of exact original task JSON bytes, each followed by one LF; recover each original file by removing exactly that terminal LF",
+  "ordering": "frozen plan variant order, then registered model seed order",
+  "gzip": {
+    "mtime": 0,
+    "filename": "",
+    "compresslevel": 6
+  },
+  "chunk_compressed_limit_bytes": 40000000,
+  "chunk_uncompressed_target_bytes": 32000000,
+  "frozen_manifest_sha256": "a4189ca0c01786d5af1e2263e20224e311a96449edae27ae8e077bb5f67d97de",
+  "record_count": 171,
+  "original_bytes": 23397338,
+  "compressed_bytes": 5896424,
+  "all_roundtrips_exact": true,
+  "chunks": [
+    {
+      "file": "task_archives/tasks_000.jsonl.gz",
+      "sha256": "dc305a3a85219291700f9647983f3b9d17a0841d79e36987eba1bfc09e32a504",
+      "bytes": 5896424,
+      "records": 171,
+      "uncompressed_bytes": 23397509,
+      "uncompressed_sha256": "32e7a48215fa2fbf60fd8bead46b97d52a432e4491a1d5c8eb8678c137cc3209",
+      "roundtrip_exact": true
+    }
+  ],
+  "records": [
+    {
+      "task_id": "drop5_001_seed0",
+      "file": "tasks/drop5_001_seed0.json",
+      "sha256": "015fa67e4ad2ea0261f7fed713229ee34cadc33d9fbd017b995667737abb1681",
+      "bytes": 136761,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 1
+    },
+    {
+      "task_id": "drop5_001_seed101",
+      "file": "tasks/drop5_001_seed101.json",
+      "sha256": "5d3401a407eabcb189acdf1ddefcc54f98c8894e80e10b53697fb5aba710a4f5",
+      "bytes": 136760,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 2
+    },
+    {
+      "task_id": "drop5_001_seed202",
+      "file": "tasks/drop5_001_seed202.json",
+      "sha256": "a84c69a2eadc10619a33a38be3124c7e564c9d63c45bd95855e15528ec3c82a7",
+      "bytes": 136797,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 3
+    },
+    {
+      "task_id": "none_o2_n16_seed0",
+      "file": "tasks/none_o2_n16_seed0.json",
+      "sha256": "bc952d1e5fd51d18685bb837af3b21bcbb51e18e5d11a0e21e2626bf741e0831",
+      "bytes": 136779,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 4
+    },
+    {
+      "task_id": "none_o2_n16_seed101",
+      "file": "tasks/none_o2_n16_seed101.json",
+      "sha256": "29c3e25c0a828757583065df32b45aad93c019bca8f8ac83bdc85c2807a2e1a7",
+      "bytes": 136766,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 5
+    },
+    {
+      "task_id": "none_o2_n16_seed202",
+      "file": "tasks/none_o2_n16_seed202.json",
+      "sha256": "cae65c90c0e72431e7418d1a03fdf3930f547a26dd5e9564312c1a795e45028b",
+      "bytes": 136793,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 6
+    },
+    {
+      "task_id": "none_o2_n64_seed0",
+      "file": "tasks/none_o2_n64_seed0.json",
+      "sha256": "2d212e5fd288be2d7b2c4353bf1649ae294aad892b93c4e15d4f3935e2a03a28",
+      "bytes": 136775,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 7
+    },
+    {
+      "task_id": "none_o2_n64_seed101",
+      "file": "tasks/none_o2_n64_seed101.json",
+      "sha256": "2a44edf2b25ee08828a867d3eb2e3d280bee5e29d1d76b3416f996fec156cb20",
+      "bytes": 136787,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 8
+    },
+    {
+      "task_id": "none_o2_n64_seed202",
+      "file": "tasks/none_o2_n64_seed202.json",
+      "sha256": "5418f94ba11ccc126adb742f9d765182f5ce2a6bc4f3e2c0dd228c7e80d82cb7",
+      "bytes": 136778,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 9
+    },
+    {
+      "task_id": "none_o3_n16_seed0",
+      "file": "tasks/none_o3_n16_seed0.json",
+      "sha256": "6bef280163095c6fba42a3e7bb0c647c2eccfc5cd32cc6370b714b7deed42243",
+      "bytes": 136769,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 10
+    },
+    {
+      "task_id": "none_o3_n16_seed101",
+      "file": "tasks/none_o3_n16_seed101.json",
+      "sha256": "7ec471b849dfa94875510a05692de33520f06a352a6813cf4155c81f136831cd",
+      "bytes": 136776,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 11
+    },
+    {
+      "task_id": "none_o3_n16_seed202",
+      "file": "tasks/none_o3_n16_seed202.json",
+      "sha256": "a8931e68caea8566fd133d7566a309e0a0efd75f410af695f78f9199fc2e233a",
+      "bytes": 136830,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 12
+    },
+    {
+      "task_id": "none_o3_n32_seed0",
+      "file": "tasks/none_o3_n32_seed0.json",
+      "sha256": "39b295cabce7be34a58216de21203a0b6c341c0ddef0285f05419b13e7cb5499",
+      "bytes": 136782,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 13
+    },
+    {
+      "task_id": "none_o3_n32_seed101",
+      "file": "tasks/none_o3_n32_seed101.json",
+      "sha256": "03bc29c119079dddb17e7b8bf3d000bf8796c7f2348f2817a9a28a5dc56bbfe0",
+      "bytes": 136748,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 14
+    },
+    {
+      "task_id": "none_o3_n32_seed202",
+      "file": "tasks/none_o3_n32_seed202.json",
+      "sha256": "30ce843dedc7c1720aa9e244addc7c70cfa5c2fecc560458966f58075029ebaf",
+      "bytes": 136771,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 15
+    },
+    {
+      "task_id": "none_o3_n64_seed0",
+      "file": "tasks/none_o3_n64_seed0.json",
+      "sha256": "cbd8013bb037fc8472119414620e9abc59a82059bdca6277970afdde8bc81238",
+      "bytes": 136743,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 16
+    },
+    {
+      "task_id": "none_o3_n64_seed101",
+      "file": "tasks/none_o3_n64_seed101.json",
+      "sha256": "69eecfd48f2e540929e7d45f88db8fda2e98e25871a4f71879a4954a1f27856b",
+      "bytes": 136756,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 17
+    },
+    {
+      "task_id": "none_o3_n64_seed202",
+      "file": "tasks/none_o3_n64_seed202.json",
+      "sha256": "b806903de34f91be8a142a4157433a68a37bd00a825e402c27a75765e1426227",
+      "bytes": 136803,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 18
+    },
+    {
+      "task_id": "none_o5_n16_seed0",
+      "file": "tasks/none_o5_n16_seed0.json",
+      "sha256": "e632effd093e55b9a3eb02d6ff9265167bd863d65d634438eb067573db6fc60b",
+      "bytes": 136784,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 19
+    },
+    {
+      "task_id": "none_o5_n16_seed101",
+      "file": "tasks/none_o5_n16_seed101.json",
+      "sha256": "dd18c5aa4631a9978aca18a6df471ea039d004602668c31ec18d4cdfec44107b",
+      "bytes": 136790,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 20
+    },
+    {
+      "task_id": "none_o5_n16_seed202",
+      "file": "tasks/none_o5_n16_seed202.json",
+      "sha256": "23837c96e11f4834dfc1b2f2463ad9b34f4134ec855ce74d93ec0394c6867591",
+      "bytes": 136773,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 21
+    },
+    {
+      "task_id": "none_o5_n32_seed0",
+      "file": "tasks/none_o5_n32_seed0.json",
+      "sha256": "93bb00c47b54a6c4d1b8053895e20b17aa38634731fb1e8c5da6e9582f419c2b",
+      "bytes": 136780,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 22
+    },
+    {
+      "task_id": "none_o5_n32_seed101",
+      "file": "tasks/none_o5_n32_seed101.json",
+      "sha256": "164012a7a5fb1e148be5d85135f58b1628234fa19cafdec54bf5ebf38db740f9",
+      "bytes": 136791,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 23
+    },
+    {
+      "task_id": "none_o5_n32_seed202",
+      "file": "tasks/none_o5_n32_seed202.json",
+      "sha256": "589661b586a465dc01b6a644f3ce79382e55405800a260a3f52a29e226b4fe3a",
+      "bytes": 136795,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 24
+    },
+    {
+      "task_id": "none_o5_n64_seed0",
+      "file": "tasks/none_o5_n64_seed0.json",
+      "sha256": "c9ef7e774f689312b02f29ed903db44f91c0e0f32017075c103d40d1e54d066a",
+      "bytes": 136750,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 25
+    },
+    {
+      "task_id": "none_o5_n64_seed101",
+      "file": "tasks/none_o5_n64_seed101.json",
+      "sha256": "69e23e9f211162fc647524dd989c63c33fa74d562590a292723b7e52f2a5e5b3",
+      "bytes": 136751,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 26
+    },
+    {
+      "task_id": "none_o5_n64_seed202",
+      "file": "tasks/none_o5_n64_seed202.json",
+      "sha256": "7802145f8b3dc577559883ec8d457b90ad8a2b040c13642b0731eb85efdd455d",
+      "bytes": 136766,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 27
+    },
+    {
+      "task_id": "none_odisabled_n16_seed0",
+      "file": "tasks/none_odisabled_n16_seed0.json",
+      "sha256": "ce6cd7ba00f146adae40259bdf3ceb63cf00823778b5728b0d6b60b0ee2b19d6",
+      "bytes": 136856,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 28
+    },
+    {
+      "task_id": "none_odisabled_n16_seed101",
+      "file": "tasks/none_odisabled_n16_seed101.json",
+      "sha256": "d0cb9e16e18f7475a8ff970f0650d4c618a13a955656956574e2ea3dcfc1310a",
+      "bytes": 136859,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 29
+    },
+    {
+      "task_id": "none_odisabled_n16_seed202",
+      "file": "tasks/none_odisabled_n16_seed202.json",
+      "sha256": "32a139ac3a0f81e94f4988548e28a904a31f956a32509d6c3d7f69731d0886f3",
+      "bytes": 136849,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 30
+    },
+    {
+      "task_id": "none_odisabled_n32_seed0",
+      "file": "tasks/none_odisabled_n32_seed0.json",
+      "sha256": "9166b7f04f48d737cd2257dd2b746119a25680690af496384c3194fb99996769",
+      "bytes": 136839,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 31
+    },
+    {
+      "task_id": "none_odisabled_n32_seed101",
+      "file": "tasks/none_odisabled_n32_seed101.json",
+      "sha256": "3db5086af4cb3cdecd856eb72aaf0d1387ae14ff5a288aa9b4cf2bd577315d81",
+      "bytes": 136829,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 32
+    },
+    {
+      "task_id": "none_odisabled_n32_seed202",
+      "file": "tasks/none_odisabled_n32_seed202.json",
+      "sha256": "600a5a2cb55826ab6a6871061617c3f2bf93f798aad34a0d531113d14ed8e8ce",
+      "bytes": 136866,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 33
+    },
+    {
+      "task_id": "none_odisabled_n64_seed0",
+      "file": "tasks/none_odisabled_n64_seed0.json",
+      "sha256": "f56bd2b778574b45032b626a747d411a600bafaa3e9d1eceae003ad2feff5cf4",
+      "bytes": 136810,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 34
+    },
+    {
+      "task_id": "none_odisabled_n64_seed101",
+      "file": "tasks/none_odisabled_n64_seed101.json",
+      "sha256": "3089c52521f36cedaa3bc1772539ff6d3a22d5a7a8e3d12780fe4d4cb9b37f59",
+      "bytes": 136829,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 35
+    },
+    {
+      "task_id": "none_odisabled_n64_seed202",
+      "file": "tasks/none_odisabled_n64_seed202.json",
+      "sha256": "8770cb0721690a7cf694c6da5eddcf273c30440cf5dac04c2a4a2b8489e5cb42",
+      "bytes": 136859,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 36
+    },
+    {
+      "task_id": "power_o2_n16_seed0",
+      "file": "tasks/power_o2_n16_seed0.json",
+      "sha256": "9fbca9f332864d7fa1f353b815201583750bc86e2152a112ce5395582bf157ac",
+      "bytes": 136781,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 37
+    },
+    {
+      "task_id": "power_o2_n16_seed101",
+      "file": "tasks/power_o2_n16_seed101.json",
+      "sha256": "19af6b514bea0fc2b68e8b2c9e9cddf3de506d68d06fffb69a6e1f366e745c37",
+      "bytes": 136796,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 38
+    },
+    {
+      "task_id": "power_o2_n16_seed202",
+      "file": "tasks/power_o2_n16_seed202.json",
+      "sha256": "f009ac422b56b2004a9710c1a783c524d91b9e78c8f4f37284d7c713107b00b4",
+      "bytes": 136797,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 39
+    },
+    {
+      "task_id": "power_o2_n32_seed0",
+      "file": "tasks/power_o2_n32_seed0.json",
+      "sha256": "3107db3b3128a4821454ce7f58d39b28c19390ed027200623e2c3f0ac2a880be",
+      "bytes": 136777,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 40
+    },
+    {
+      "task_id": "power_o2_n32_seed101",
+      "file": "tasks/power_o2_n32_seed101.json",
+      "sha256": "2819f86617b29b6098cb6dba4928af23f40c549d50cd2023ff41d1464aa3fe0f",
+      "bytes": 136794,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 41
+    },
+    {
+      "task_id": "power_o2_n32_seed202",
+      "file": "tasks/power_o2_n32_seed202.json",
+      "sha256": "102a181b7a8ea1dbe391cef3cf05cede726d2906259e036d3e5dde6a199fa205",
+      "bytes": 136770,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 42
+    },
+    {
+      "task_id": "power_o2_n64_seed0",
+      "file": "tasks/power_o2_n64_seed0.json",
+      "sha256": "7ef8167a7fc05f1dff3753b28b3b859badbfffca16526665b44435ffc74314ca",
+      "bytes": 136773,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 43
+    },
+    {
+      "task_id": "power_o2_n64_seed101",
+      "file": "tasks/power_o2_n64_seed101.json",
+      "sha256": "19ea9d78d83de0924be0d1ed781f2398b8fa1599963037a82862df6cd1c8f1f0",
+      "bytes": 136799,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 44
+    },
+    {
+      "task_id": "power_o2_n64_seed202",
+      "file": "tasks/power_o2_n64_seed202.json",
+      "sha256": "11ab9afcfd2e9a255fa43ea06fdbd34de3deb1eb2cfdc4f08d00e63dfa139e8f",
+      "bytes": 136785,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 45
+    },
+    {
+      "task_id": "power_o3_n16_seed0",
+      "file": "tasks/power_o3_n16_seed0.json",
+      "sha256": "410b5ca6814a262450dc69117f246d2ac9c88479c031998a7ae17fb9fb58dcc2",
+      "bytes": 136769,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 46
+    },
+    {
+      "task_id": "power_o3_n16_seed101",
+      "file": "tasks/power_o3_n16_seed101.json",
+      "sha256": "1a85515ead42553b4f358ee9fcabbc952f3af1bb214cbda235dc02d618d23e4a",
+      "bytes": 136785,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 47
+    },
+    {
+      "task_id": "power_o3_n16_seed202",
+      "file": "tasks/power_o3_n16_seed202.json",
+      "sha256": "16d85fc20abbda9655b595edc74e244eeb04851802405d9b4c95a5f329a4e0c7",
+      "bytes": 136813,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 48
+    },
+    {
+      "task_id": "power_o3_n32_seed0",
+      "file": "tasks/power_o3_n32_seed0.json",
+      "sha256": "e03736f7a2fd1dd4a7b2b323dd93b477eeb33d1aabdf3e0cd817c996c0b2727b",
+      "bytes": 136805,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 49
+    },
+    {
+      "task_id": "power_o3_n32_seed101",
+      "file": "tasks/power_o3_n32_seed101.json",
+      "sha256": "ff7f836f184a8a46c5d0fcb57371535fa53635c10d83937f621982722cef1215",
+      "bytes": 136820,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 50
+    },
+    {
+      "task_id": "power_o3_n32_seed202",
+      "file": "tasks/power_o3_n32_seed202.json",
+      "sha256": "39bfc4f914d5d57618e71a62386dcdbed72b86b1ef41669455a12ed7e470211d",
+      "bytes": 136806,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 51
+    },
+    {
+      "task_id": "power_o3_n64_seed0",
+      "file": "tasks/power_o3_n64_seed0.json",
+      "sha256": "65ed7dcb2a85e71abc30cdf35d88a081ffe4c8be7e18af9769f63c8a9f8c03bb",
+      "bytes": 136791,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 52
+    },
+    {
+      "task_id": "power_o3_n64_seed101",
+      "file": "tasks/power_o3_n64_seed101.json",
+      "sha256": "4db8b6463c1fc8e710bad3e6cca146032333ead5311617c4d0f7f7761d31a39a",
+      "bytes": 136830,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 53
+    },
+    {
+      "task_id": "power_o3_n64_seed202",
+      "file": "tasks/power_o3_n64_seed202.json",
+      "sha256": "b8427e33387f835dfa43c80333333b165df2dca37094698666d48073902a34c6",
+      "bytes": 136784,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 54
+    },
+    {
+      "task_id": "power_o5_n16_seed0",
+      "file": "tasks/power_o5_n16_seed0.json",
+      "sha256": "d17f25211032061a9c1b3c8e5becadef3adc3b2cee73deb0d74f3c7ad4df4d31",
+      "bytes": 136784,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 55
+    },
+    {
+      "task_id": "power_o5_n16_seed101",
+      "file": "tasks/power_o5_n16_seed101.json",
+      "sha256": "bb8f01112cd6cec949850cc054dc484c55a40f7a44c49c5af1029d5c25639544",
+      "bytes": 136819,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 56
+    },
+    {
+      "task_id": "power_o5_n16_seed202",
+      "file": "tasks/power_o5_n16_seed202.json",
+      "sha256": "656324f176f2b8e73d7dfdd46ca6cb4c42a087812db6763b4efddcbf5ccdca73",
+      "bytes": 136821,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 57
+    },
+    {
+      "task_id": "power_o5_n32_seed0",
+      "file": "tasks/power_o5_n32_seed0.json",
+      "sha256": "826347ecf47fb24c6fd69e753a64cbbaf6a4c1c4e179dfd88e424723f8243f3b",
+      "bytes": 136811,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 58
+    },
+    {
+      "task_id": "power_o5_n32_seed101",
+      "file": "tasks/power_o5_n32_seed101.json",
+      "sha256": "b3ea2a761f5870ca00e557344e422030ae7c32a11ca3a4479d121880d5814fe6",
+      "bytes": 136767,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 59
+    },
+    {
+      "task_id": "power_o5_n32_seed202",
+      "file": "tasks/power_o5_n32_seed202.json",
+      "sha256": "3a1b711889fd8cb67c76490a8fc8baedf96fce5138e7a7b6bf12a3f7c7daa561",
+      "bytes": 136803,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 60
+    },
+    {
+      "task_id": "power_o5_n64_seed0",
+      "file": "tasks/power_o5_n64_seed0.json",
+      "sha256": "2687e33750ad53c8bdfeb090316446d557056f5b253013a8216cc0a24c1205c3",
+      "bytes": 136778,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 61
+    },
+    {
+      "task_id": "power_o5_n64_seed101",
+      "file": "tasks/power_o5_n64_seed101.json",
+      "sha256": "326d54a9ec6e752af2d2ee5cef8c21e29986cc143e0a8f8c2c5c3e280c778572",
+      "bytes": 136764,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 62
+    },
+    {
+      "task_id": "power_o5_n64_seed202",
+      "file": "tasks/power_o5_n64_seed202.json",
+      "sha256": "18bdaa8edab3552cd613e6c81de2a609065018271b6fd078f3d486c395594d6f",
+      "bytes": 136797,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 63
+    },
+    {
+      "task_id": "power_odisabled_n16_seed0",
+      "file": "tasks/power_odisabled_n16_seed0.json",
+      "sha256": "95c47291617ab92467a5b6965d048ad4e7bc639ee45bd5e8ef8bc598b376a96e",
+      "bytes": 136839,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 64
+    },
+    {
+      "task_id": "power_odisabled_n16_seed101",
+      "file": "tasks/power_odisabled_n16_seed101.json",
+      "sha256": "e184fb6a10b849a932e009b6365dd5bb59ca1189a1bcf1ec667a508a1954e6a2",
+      "bytes": 136864,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 65
+    },
+    {
+      "task_id": "power_odisabled_n16_seed202",
+      "file": "tasks/power_odisabled_n16_seed202.json",
+      "sha256": "55714f5a8a5714f550fdcc6316b85c861206cfe361f514bd2e2ca0182bfcaf2b",
+      "bytes": 136890,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 66
+    },
+    {
+      "task_id": "power_odisabled_n32_seed0",
+      "file": "tasks/power_odisabled_n32_seed0.json",
+      "sha256": "58cf03db6613900ebb90caacb195abe04266b8f978684d9cff861a66e0a9f11a",
+      "bytes": 136845,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 67
+    },
+    {
+      "task_id": "power_odisabled_n32_seed101",
+      "file": "tasks/power_odisabled_n32_seed101.json",
+      "sha256": "c4a85282fb63e2716b94751ee58a88e5f7bbedc28c4fb061913d13041fe9ac13",
+      "bytes": 136865,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 68
+    },
+    {
+      "task_id": "power_odisabled_n32_seed202",
+      "file": "tasks/power_odisabled_n32_seed202.json",
+      "sha256": "6a1d91043c4e9a1ebcd3a03e472488feac7cb1c879cbac0221f35d90f7b9e254",
+      "bytes": 136839,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 69
+    },
+    {
+      "task_id": "power_odisabled_n64_seed0",
+      "file": "tasks/power_odisabled_n64_seed0.json",
+      "sha256": "1ebbd942247f91b28f7a9955d4e70dc245472fa311280963b29a3fad0d7d4ba2",
+      "bytes": 136839,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 70
+    },
+    {
+      "task_id": "power_odisabled_n64_seed101",
+      "file": "tasks/power_odisabled_n64_seed101.json",
+      "sha256": "4eccef1716c2cd326bf0c8c8e0af4a802e203e40c3262ad8deff5f1ba7ff1642",
+      "bytes": 136865,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 71
+    },
+    {
+      "task_id": "power_odisabled_n64_seed202",
+      "file": "tasks/power_odisabled_n64_seed202.json",
+      "sha256": "2578d793f76f60eb4eda52c1f363aa617104ba4367bec2e3e3163088477ae6de",
+      "bytes": 136845,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 72
+    },
+    {
+      "task_id": "quantile_o2_n16_seed0",
+      "file": "tasks/quantile_o2_n16_seed0.json",
+      "sha256": "cf77e19d4d3635c91f7b898336972d765dc7f67359ab8c9d9ca6e5ff56987690",
+      "bytes": 136734,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 73
+    },
+    {
+      "task_id": "quantile_o2_n16_seed101",
+      "file": "tasks/quantile_o2_n16_seed101.json",
+      "sha256": "6531693bc615a037f9c430f31fc95adceafc0fa5b84b305b944ddf73854e55e5",
+      "bytes": 136796,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 74
+    },
+    {
+      "task_id": "quantile_o2_n16_seed202",
+      "file": "tasks/quantile_o2_n16_seed202.json",
+      "sha256": "f2b70eb863afd7145c1b2d6d1d49c3064747310a8eb7f2efdbfc1f2d610e7771",
+      "bytes": 136749,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 75
+    },
+    {
+      "task_id": "quantile_o2_n32_seed0",
+      "file": "tasks/quantile_o2_n32_seed0.json",
+      "sha256": "a9b48691b56cf22e0185a6a0198616a47ffbfb446332038d00124e7988d60dff",
+      "bytes": 136725,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 76
+    },
+    {
+      "task_id": "quantile_o2_n32_seed101",
+      "file": "tasks/quantile_o2_n32_seed101.json",
+      "sha256": "9de38810e5d21fd5986be1e685b8039a93c12a85a111cd8d934135fbdd472f3e",
+      "bytes": 136774,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 77
+    },
+    {
+      "task_id": "quantile_o2_n32_seed202",
+      "file": "tasks/quantile_o2_n32_seed202.json",
+      "sha256": "75d7cdf9d9449b6a29657df0d82af5c55485336f79a94ee6f51d295e6aba566d",
+      "bytes": 136784,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 78
+    },
+    {
+      "task_id": "quantile_o2_n64_seed0",
+      "file": "tasks/quantile_o2_n64_seed0.json",
+      "sha256": "ea471b0bd39f50c8e2a722995e8af6ddae3f66d8e1f94cca24a02ecca5e37504",
+      "bytes": 136767,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 79
+    },
+    {
+      "task_id": "quantile_o2_n64_seed101",
+      "file": "tasks/quantile_o2_n64_seed101.json",
+      "sha256": "c63d6ffa3e4c9a8ca25ae44871f651b2b5c5baea3e8e8963e049dfd00ab6ef92",
+      "bytes": 136783,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 80
+    },
+    {
+      "task_id": "quantile_o2_n64_seed202",
+      "file": "tasks/quantile_o2_n64_seed202.json",
+      "sha256": "2a0456412eac830290b9d8c91237827b9c9ee0e187c2be3faa324307c68e7050",
+      "bytes": 136778,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 81
+    },
+    {
+      "task_id": "quantile_o3_n16_seed0",
+      "file": "tasks/quantile_o3_n16_seed0.json",
+      "sha256": "57fda2bb0be14a4b9d1dea46195d8770f05ef68afc02fe7551cc67aa0b37bfef",
+      "bytes": 136733,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 82
+    },
+    {
+      "task_id": "quantile_o3_n16_seed101",
+      "file": "tasks/quantile_o3_n16_seed101.json",
+      "sha256": "c6d7ffdd0bcf24d500abf6755a3a716b56faaf9dd209a888482a332715a11da1",
+      "bytes": 136736,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 83
+    },
+    {
+      "task_id": "quantile_o3_n16_seed202",
+      "file": "tasks/quantile_o3_n16_seed202.json",
+      "sha256": "a4550aa7dd1def7a9a751d20fc227f3585d58d875175e6ac30b2c035b02fdda0",
+      "bytes": 136775,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 84
+    },
+    {
+      "task_id": "quantile_o3_n32_seed0",
+      "file": "tasks/quantile_o3_n32_seed0.json",
+      "sha256": "5c6ab532a8752bd23eb0344e0aec1e23be6ba38449eb8eef7b0e69280d919876",
+      "bytes": 136782,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 85
+    },
+    {
+      "task_id": "quantile_o3_n32_seed101",
+      "file": "tasks/quantile_o3_n32_seed101.json",
+      "sha256": "4e0aecf07ddd36e4ed1026dda6e6c5242fd2c4144c010764373fc6eca4d54e0c",
+      "bytes": 136774,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 86
+    },
+    {
+      "task_id": "quantile_o3_n32_seed202",
+      "file": "tasks/quantile_o3_n32_seed202.json",
+      "sha256": "0e828a9edef34a11c273a4c1fb032499d27cc7f13c0e1896073e809087688946",
+      "bytes": 136794,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 87
+    },
+    {
+      "task_id": "quantile_o3_n64_seed0",
+      "file": "tasks/quantile_o3_n64_seed0.json",
+      "sha256": "b9854a7193fde6d375f42636ad4f3ccf0bcab96ec33a3787a149cda763d31a59",
+      "bytes": 136761,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 88
+    },
+    {
+      "task_id": "quantile_o3_n64_seed101",
+      "file": "tasks/quantile_o3_n64_seed101.json",
+      "sha256": "39decf76664c38e142845c87b4fa9c3bb2b1fdf6d3a3a87874025491de7735b8",
+      "bytes": 136776,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 89
+    },
+    {
+      "task_id": "quantile_o3_n64_seed202",
+      "file": "tasks/quantile_o3_n64_seed202.json",
+      "sha256": "ab9f3eca303a63c87bd2b2ad594dce073468a24048aa78c84565c2a35b652bee",
+      "bytes": 136768,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 90
+    },
+    {
+      "task_id": "quantile_o5_n16_seed0",
+      "file": "tasks/quantile_o5_n16_seed0.json",
+      "sha256": "461b44894e5c446cd562db845dd1a605b0ef13ce4555879c8d2de99187b7db8a",
+      "bytes": 136749,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 91
+    },
+    {
+      "task_id": "quantile_o5_n16_seed101",
+      "file": "tasks/quantile_o5_n16_seed101.json",
+      "sha256": "c2f05d701a4644e71358e2f9718268eafc22c77425d26409584fc4369767043e",
+      "bytes": 136756,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 92
+    },
+    {
+      "task_id": "quantile_o5_n16_seed202",
+      "file": "tasks/quantile_o5_n16_seed202.json",
+      "sha256": "f614a89a9e7953d7391cd3792c5bcacf6d28b28efafe0c0ca66209b63dcb9c13",
+      "bytes": 136785,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 93
+    },
+    {
+      "task_id": "quantile_o5_n32_seed0",
+      "file": "tasks/quantile_o5_n32_seed0.json",
+      "sha256": "821f8522b804d3baa6452bf539f2815d49c4bcd8262fff312cc5a575a374dd12",
+      "bytes": 136761,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 94
+    },
+    {
+      "task_id": "quantile_o5_n32_seed101",
+      "file": "tasks/quantile_o5_n32_seed101.json",
+      "sha256": "e02385ced6a34140096daa55ed175e4ec4d9e19f49d0c0e91243f9ebc0d6b968",
+      "bytes": 136762,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 95
+    },
+    {
+      "task_id": "quantile_o5_n32_seed202",
+      "file": "tasks/quantile_o5_n32_seed202.json",
+      "sha256": "eff0bba9f4a58413ad3bea039d96e57bbc3064c6b73e45d526a6b47eb52fe8ff",
+      "bytes": 136770,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 96
+    },
+    {
+      "task_id": "quantile_o5_n64_seed0",
+      "file": "tasks/quantile_o5_n64_seed0.json",
+      "sha256": "027e1661966486a8e804d64dd7b1936000febf78e0f91856f987137abc739b05",
+      "bytes": 136783,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 97
+    },
+    {
+      "task_id": "quantile_o5_n64_seed101",
+      "file": "tasks/quantile_o5_n64_seed101.json",
+      "sha256": "09a5ce98c3e2f7d9fdd89eb04ade0e1e2288c312e73c19d67bace238b1dec805",
+      "bytes": 136764,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 98
+    },
+    {
+      "task_id": "quantile_o5_n64_seed202",
+      "file": "tasks/quantile_o5_n64_seed202.json",
+      "sha256": "bfcb105d0a1040cd35ec19b64b948f6e9aed2b6caea8086640df2a8bb7e71086",
+      "bytes": 136780,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 99
+    },
+    {
+      "task_id": "quantile_rtdl_o2_n16_seed0",
+      "file": "tasks/quantile_rtdl_o2_n16_seed0.json",
+      "sha256": "4efb76776152391cd13a1d8399f16c775a7abe0e33bfe9cc135f3849c954f79c",
+      "bytes": 136877,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 100
+    },
+    {
+      "task_id": "quantile_rtdl_o2_n16_seed101",
+      "file": "tasks/quantile_rtdl_o2_n16_seed101.json",
+      "sha256": "3110355c54ad1fedf25267e6e71776aa514e2fac8ae5ed586c13ec614fd82a49",
+      "bytes": 136951,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 101
+    },
+    {
+      "task_id": "quantile_rtdl_o2_n16_seed202",
+      "file": "tasks/quantile_rtdl_o2_n16_seed202.json",
+      "sha256": "b60c16770e260a6f3b6fae0d8333cc7286651a959a1a459603e3442599f35315",
+      "bytes": 136893,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 102
+    },
+    {
+      "task_id": "quantile_rtdl_o2_n32_seed0",
+      "file": "tasks/quantile_rtdl_o2_n32_seed0.json",
+      "sha256": "bacd74695bfbd8937747478830f7521562c73d49f2b4ef32befa50c839d49bdc",
+      "bytes": 136886,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 103
+    },
+    {
+      "task_id": "quantile_rtdl_o2_n32_seed101",
+      "file": "tasks/quantile_rtdl_o2_n32_seed101.json",
+      "sha256": "bb9e15dbb69680d695d40503b389fae86883dd5c41db9a862424295519d5e2f2",
+      "bytes": 136956,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 104
+    },
+    {
+      "task_id": "quantile_rtdl_o2_n32_seed202",
+      "file": "tasks/quantile_rtdl_o2_n32_seed202.json",
+      "sha256": "d1906fbbdcfceb7574a875dd5b9ae4debff6deac3ce2d657f6db84978368af00",
+      "bytes": 136927,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 105
+    },
+    {
+      "task_id": "quantile_rtdl_o2_n64_seed0",
+      "file": "tasks/quantile_rtdl_o2_n64_seed0.json",
+      "sha256": "c915ce9e2e96203d333d24b7f09dd6d2bf02412bc83b61f7ee7bb324f745fe43",
+      "bytes": 136859,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 106
+    },
+    {
+      "task_id": "quantile_rtdl_o2_n64_seed101",
+      "file": "tasks/quantile_rtdl_o2_n64_seed101.json",
+      "sha256": "436fb67b112174a2ff109765c6dd81bf17065c96520f79ea0c1e3620cc95b2b7",
+      "bytes": 136906,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 107
+    },
+    {
+      "task_id": "quantile_rtdl_o2_n64_seed202",
+      "file": "tasks/quantile_rtdl_o2_n64_seed202.json",
+      "sha256": "571929720d69f3e157130c60746cd93caede333e3aa49afdf34043b8600557d3",
+      "bytes": 136886,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 108
+    },
+    {
+      "task_id": "quantile_rtdl_o3_n16_seed0",
+      "file": "tasks/quantile_rtdl_o3_n16_seed0.json",
+      "sha256": "4f19ef2d8899a7c6fd028879d9bd453c724fcd2f166808f9745d694dccfe36e4",
+      "bytes": 136867,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 109
+    },
+    {
+      "task_id": "quantile_rtdl_o3_n16_seed101",
+      "file": "tasks/quantile_rtdl_o3_n16_seed101.json",
+      "sha256": "78f95b4663fc6e756423fdcd7294fa52946c294cc1565a62ef509b93f0df27b9",
+      "bytes": 136864,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 110
+    },
+    {
+      "task_id": "quantile_rtdl_o3_n16_seed202",
+      "file": "tasks/quantile_rtdl_o3_n16_seed202.json",
+      "sha256": "cac6c16ff5919824e395c95e4d20b0a8a312b35ec8c37d6678c34187b5c5c79f",
+      "bytes": 136959,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 111
+    },
+    {
+      "task_id": "quantile_rtdl_o3_n32_seed0",
+      "file": "tasks/quantile_rtdl_o3_n32_seed0.json",
+      "sha256": "383f7fadefebc0c106b59d796b75789ef16d622d3df164449528106f75ac0d45",
+      "bytes": 136908,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 112
+    },
+    {
+      "task_id": "quantile_rtdl_o3_n32_seed101",
+      "file": "tasks/quantile_rtdl_o3_n32_seed101.json",
+      "sha256": "71be316b001c95dfc321483eeaa655e4321c61f832f16f5ca7b9dcafd4f79232",
+      "bytes": 136912,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 113
+    },
+    {
+      "task_id": "quantile_rtdl_o3_n32_seed202",
+      "file": "tasks/quantile_rtdl_o3_n32_seed202.json",
+      "sha256": "0fde4c5f29e8e4fdc688458a17067fc7a8fcb098630be97f885705467414d702",
+      "bytes": 136937,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 114
+    },
+    {
+      "task_id": "quantile_rtdl_o3_n64_seed0",
+      "file": "tasks/quantile_rtdl_o3_n64_seed0.json",
+      "sha256": "d86bb95bcf498f458ab2328293a3772f3bca0399010df367cf80f6fba3d7b975",
+      "bytes": 136908,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 115
+    },
+    {
+      "task_id": "quantile_rtdl_o3_n64_seed101",
+      "file": "tasks/quantile_rtdl_o3_n64_seed101.json",
+      "sha256": "1b38f2013eedbf1f62985334a25cf1efcaef2aaea2fa657e15541b1e623a6bd2",
+      "bytes": 136910,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 116
+    },
+    {
+      "task_id": "quantile_rtdl_o3_n64_seed202",
+      "file": "tasks/quantile_rtdl_o3_n64_seed202.json",
+      "sha256": "c062853866252a6503b57256a6103f030f87bfaaae2bc0179e9c9ced9ca15758",
+      "bytes": 136922,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 117
+    },
+    {
+      "task_id": "quantile_rtdl_o5_n16_seed0",
+      "file": "tasks/quantile_rtdl_o5_n16_seed0.json",
+      "sha256": "3d152a2f0d204e886b9e945413a8ba7bdd79e6dc540955520b6c7802164c6456",
+      "bytes": 136892,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 118
+    },
+    {
+      "task_id": "quantile_rtdl_o5_n16_seed101",
+      "file": "tasks/quantile_rtdl_o5_n16_seed101.json",
+      "sha256": "4bd1e5287191012c84b5f93075c0d20aad41fdf8fc2917b6b71aae5a4099d67b",
+      "bytes": 136905,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 119
+    },
+    {
+      "task_id": "quantile_rtdl_o5_n16_seed202",
+      "file": "tasks/quantile_rtdl_o5_n16_seed202.json",
+      "sha256": "3d657097c50f5ad5a4085c306ee0aac5d35fd66f906bbaf393b0fcc1897edfb2",
+      "bytes": 136910,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 120
+    },
+    {
+      "task_id": "quantile_rtdl_o5_n32_seed0",
+      "file": "tasks/quantile_rtdl_o5_n32_seed0.json",
+      "sha256": "4caddce7926be322e485c0144172b25e25f4af81a9789af6bc2f1f8e347cce74",
+      "bytes": 136867,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 121
+    },
+    {
+      "task_id": "quantile_rtdl_o5_n32_seed101",
+      "file": "tasks/quantile_rtdl_o5_n32_seed101.json",
+      "sha256": "c7c841a7d4f81312108166d00282cd29a3d7d192bd2889c59d0f71139dcd065f",
+      "bytes": 136918,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 122
+    },
+    {
+      "task_id": "quantile_rtdl_o5_n32_seed202",
+      "file": "tasks/quantile_rtdl_o5_n32_seed202.json",
+      "sha256": "b5d1d8adac452732783a2ebbc01bb49afab05bddd06ede6875245855b9036051",
+      "bytes": 136879,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 123
+    },
+    {
+      "task_id": "quantile_rtdl_o5_n64_seed0",
+      "file": "tasks/quantile_rtdl_o5_n64_seed0.json",
+      "sha256": "8d791ce538d34b69d91aafea305561d682943965a2bcb6f48bc2de2a35de5bec",
+      "bytes": 136889,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 124
+    },
+    {
+      "task_id": "quantile_rtdl_o5_n64_seed101",
+      "file": "tasks/quantile_rtdl_o5_n64_seed101.json",
+      "sha256": "04019e4dc1b5ddfa0c3d8cb2805197a9feee27e4474b65ac4041ca1c1c1f3a33",
+      "bytes": 136918,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 125
+    },
+    {
+      "task_id": "quantile_rtdl_o5_n64_seed202",
+      "file": "tasks/quantile_rtdl_o5_n64_seed202.json",
+      "sha256": "a5553f37394daef5b98d8f60e881f8f188e46ae4d2e68874990b4faf96792a48",
+      "bytes": 136896,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 126
+    },
+    {
+      "task_id": "quantile_rtdl_odisabled_n16_seed0",
+      "file": "tasks/quantile_rtdl_odisabled_n16_seed0.json",
+      "sha256": "da00869982799dae1b84aeea456d3e99187d138f1e1564974fb63205aacd03c4",
+      "bytes": 136963,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 127
+    },
+    {
+      "task_id": "quantile_rtdl_odisabled_n16_seed101",
+      "file": "tasks/quantile_rtdl_odisabled_n16_seed101.json",
+      "sha256": "32f3fff82fe3231979b95c5bbc341e3e04d64409d9a081875ec7c5962de4cbc1",
+      "bytes": 136951,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 128
+    },
+    {
+      "task_id": "quantile_rtdl_odisabled_n16_seed202",
+      "file": "tasks/quantile_rtdl_odisabled_n16_seed202.json",
+      "sha256": "7642bda31b8553813792efb4eb4e01979a8db5b51fc975d4fb23703048f041f3",
+      "bytes": 136973,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 129
+    },
+    {
+      "task_id": "quantile_rtdl_odisabled_n32_seed0",
+      "file": "tasks/quantile_rtdl_odisabled_n32_seed0.json",
+      "sha256": "be96ef8435b5c5071c2187c2ac9118826e343cac237652a9723db3df6a41c28e",
+      "bytes": 136930,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 130
+    },
+    {
+      "task_id": "quantile_rtdl_odisabled_n32_seed101",
+      "file": "tasks/quantile_rtdl_odisabled_n32_seed101.json",
+      "sha256": "1789e394ff82fe18a863f65c7a3b2c40de47643724808f2f1105f4c8950e9470",
+      "bytes": 136954,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 131
+    },
+    {
+      "task_id": "quantile_rtdl_odisabled_n32_seed202",
+      "file": "tasks/quantile_rtdl_odisabled_n32_seed202.json",
+      "sha256": "a5e5e70bc74afb2940f7230863a9b1e388a09fb2b1abb520fbf2d161c1a625b5",
+      "bytes": 136966,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 132
+    },
+    {
+      "task_id": "quantile_rtdl_odisabled_n64_seed0",
+      "file": "tasks/quantile_rtdl_odisabled_n64_seed0.json",
+      "sha256": "7c8337c5d3211e6107d5ac14cf1236fbe0861c6e3aaa403f2b8f035951ca9642",
+      "bytes": 136976,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 133
+    },
+    {
+      "task_id": "quantile_rtdl_odisabled_n64_seed101",
+      "file": "tasks/quantile_rtdl_odisabled_n64_seed101.json",
+      "sha256": "f191297c216bb7f41ca33270d6e1cd209384fe0f01bfebe95b3a17a520af9684",
+      "bytes": 136961,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 134
+    },
+    {
+      "task_id": "quantile_rtdl_odisabled_n64_seed202",
+      "file": "tasks/quantile_rtdl_odisabled_n64_seed202.json",
+      "sha256": "c677176d6eec2ebac386379706e31ff3cb1db1c8ae99e31c69a6aa7f6173ffc0",
+      "bytes": 136971,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 135
+    },
+    {
+      "task_id": "robust_o2_n16_seed0",
+      "file": "tasks/robust_o2_n16_seed0.json",
+      "sha256": "3b59db16a8d945d6a5db5a69d97e511339bad2421f3e164210d48c75d6a73429",
+      "bytes": 136857,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 136
+    },
+    {
+      "task_id": "robust_o2_n16_seed101",
+      "file": "tasks/robust_o2_n16_seed101.json",
+      "sha256": "d44eef87750853359b4a881858f53c85001f286dbced188f6c4f463ac2d175b8",
+      "bytes": 136812,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 137
+    },
+    {
+      "task_id": "robust_o2_n16_seed202",
+      "file": "tasks/robust_o2_n16_seed202.json",
+      "sha256": "ebe898d9e776e1e62314ffd491e2004348e016e05ebaab2a6b5e3d69d3cc0f22",
+      "bytes": 136813,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 138
+    },
+    {
+      "task_id": "robust_o2_n32_seed0",
+      "file": "tasks/robust_o2_n32_seed0.json",
+      "sha256": "38b4a3f4ea3184f8623973690aea6384b44a33a02411a0f0da76393c7698a286",
+      "bytes": 136808,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 139
+    },
+    {
+      "task_id": "robust_o2_n32_seed101",
+      "file": "tasks/robust_o2_n32_seed101.json",
+      "sha256": "6a9b8f6b5fbf659aaa37b14e3590a394c1e5c2fa200471f89e51754282c30a67",
+      "bytes": 136799,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 140
+    },
+    {
+      "task_id": "robust_o2_n32_seed202",
+      "file": "tasks/robust_o2_n32_seed202.json",
+      "sha256": "3fa2f162b35241d7300c91489f0ceedd59bf0a301922e05f9ebcb023b04d4785",
+      "bytes": 136837,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 141
+    },
+    {
+      "task_id": "robust_o2_n64_seed0",
+      "file": "tasks/robust_o2_n64_seed0.json",
+      "sha256": "0b608c45f9860ebf7eaf483ca701945a3bd9dc8d10f5a308f5aff6eb941ec5c8",
+      "bytes": 136791,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 142
+    },
+    {
+      "task_id": "robust_o2_n64_seed101",
+      "file": "tasks/robust_o2_n64_seed101.json",
+      "sha256": "776e97d33ee4abcefee8fb9a651e72f06c668a6e267f1c69bc4368de8d5f30ef",
+      "bytes": 136821,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 143
+    },
+    {
+      "task_id": "robust_o2_n64_seed202",
+      "file": "tasks/robust_o2_n64_seed202.json",
+      "sha256": "6c09b5c5eca64da27613daf2f1513903e4f2d53e00afe5c16aedd653a7b768a0",
+      "bytes": 136827,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 144
+    },
+    {
+      "task_id": "robust_o3_n16_seed0",
+      "file": "tasks/robust_o3_n16_seed0.json",
+      "sha256": "a1e581e2e74f26d1dca46419f7dba5bf468a18c41ab7a0643b7eae015d4847ed",
+      "bytes": 136812,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 145
+    },
+    {
+      "task_id": "robust_o3_n16_seed101",
+      "file": "tasks/robust_o3_n16_seed101.json",
+      "sha256": "c2becc81f9cafcc70cc557154fc562d197e4580595f34da32ac2d739cb9e2b7e",
+      "bytes": 136816,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 146
+    },
+    {
+      "task_id": "robust_o3_n16_seed202",
+      "file": "tasks/robust_o3_n16_seed202.json",
+      "sha256": "4204898cb326f94a82e47a7a6c972918a981e29fcbdf854ff89727af96ae3265",
+      "bytes": 136823,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 147
+    },
+    {
+      "task_id": "robust_o3_n32_seed0",
+      "file": "tasks/robust_o3_n32_seed0.json",
+      "sha256": "3b4e607b5c0d506bb6476060f2817a7bec92ad644e6de75e10fbf103f94460fe",
+      "bytes": 136808,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 148
+    },
+    {
+      "task_id": "robust_o3_n32_seed101",
+      "file": "tasks/robust_o3_n32_seed101.json",
+      "sha256": "a092e7a534bea644bae3ac006474cf40e770ff4963864e62ad7543798410b062",
+      "bytes": 136825,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 149
+    },
+    {
+      "task_id": "robust_o3_n32_seed202",
+      "file": "tasks/robust_o3_n32_seed202.json",
+      "sha256": "2653f93e40a435ee8b0059bc8e783980cfc6721147f1b046dc2e87674d28fe92",
+      "bytes": 136830,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 150
+    },
+    {
+      "task_id": "robust_o3_n64_seed0",
+      "file": "tasks/robust_o3_n64_seed0.json",
+      "sha256": "078a2aa9082e03a6b35b932e41505da2c2bc5ef1467cf77738eceb5b30a998d4",
+      "bytes": 136789,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 151
+    },
+    {
+      "task_id": "robust_o3_n64_seed101",
+      "file": "tasks/robust_o3_n64_seed101.json",
+      "sha256": "b19dc271b468977ea111603f8aca8360b148f0a5b126ca143276baa66005fde4",
+      "bytes": 136828,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 152
+    },
+    {
+      "task_id": "robust_o3_n64_seed202",
+      "file": "tasks/robust_o3_n64_seed202.json",
+      "sha256": "6cd449f501a23ad1cdf15fe37cb6b6cbc4fefcb310d1f614b79a0472c2549ccf",
+      "bytes": 136798,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 153
+    },
+    {
+      "task_id": "robust_o5_n16_seed0",
+      "file": "tasks/robust_o5_n16_seed0.json",
+      "sha256": "ab30331e63c14831ae0902584cdc08f0725a50d661fe4180770038d094dc15b3",
+      "bytes": 136817,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 154
+    },
+    {
+      "task_id": "robust_o5_n16_seed101",
+      "file": "tasks/robust_o5_n16_seed101.json",
+      "sha256": "f0b6a1407c6abb462f40db568ec09ceb227b904adfdffcbc1e374955577622bb",
+      "bytes": 136823,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 155
+    },
+    {
+      "task_id": "robust_o5_n16_seed202",
+      "file": "tasks/robust_o5_n16_seed202.json",
+      "sha256": "a96170b1bc78274a027e472057763852fb459e2fbea77b2ee2925e025503573a",
+      "bytes": 136815,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 156
+    },
+    {
+      "task_id": "robust_o5_n32_seed0",
+      "file": "tasks/robust_o5_n32_seed0.json",
+      "sha256": "a8ac0e4e2106ca3890bc297b708fc3b4fd77350ff47b815ee401360c8cddff28",
+      "bytes": 136781,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 157
+    },
+    {
+      "task_id": "robust_o5_n32_seed101",
+      "file": "tasks/robust_o5_n32_seed101.json",
+      "sha256": "cbef916c2b07f5ed931c5f4fb1366a1502a4c9d2b1faef9f3bfd44c90a0962e4",
+      "bytes": 136800,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 158
+    },
+    {
+      "task_id": "robust_o5_n32_seed202",
+      "file": "tasks/robust_o5_n32_seed202.json",
+      "sha256": "2dbf421f7aecc4494f7eb70d46fef2904bec8df7dd61464325ad6385f5920e6b",
+      "bytes": 136828,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 159
+    },
+    {
+      "task_id": "robust_o5_n64_seed0",
+      "file": "tasks/robust_o5_n64_seed0.json",
+      "sha256": "341e1cc516e5120d5fe51eaa3dae67f728be6d4634a691cae2e05ed401f666e2",
+      "bytes": 136794,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 160
+    },
+    {
+      "task_id": "robust_o5_n64_seed101",
+      "file": "tasks/robust_o5_n64_seed101.json",
+      "sha256": "ea173f913302fcb7a8820379866ddf570c8baede7814860ac787426b64c2ea65",
+      "bytes": 136835,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 161
+    },
+    {
+      "task_id": "robust_o5_n64_seed202",
+      "file": "tasks/robust_o5_n64_seed202.json",
+      "sha256": "8e03109276c3ef332cf9b47f3c3575e47343c7e63e239012edbb8d978cf96ba2",
+      "bytes": 136807,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 162
+    },
+    {
+      "task_id": "robust_odisabled_n16_seed0",
+      "file": "tasks/robust_odisabled_n16_seed0.json",
+      "sha256": "ae8d923b7791165b72381552c2b7877ce5da6f763e34a64267ccdd68787ea65c",
+      "bytes": 136877,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 163
+    },
+    {
+      "task_id": "robust_odisabled_n16_seed101",
+      "file": "tasks/robust_odisabled_n16_seed101.json",
+      "sha256": "2d58e887b3eee9fa5a5d64ae02e649182a324bedcd2f8cc42fed4c237baf8de2",
+      "bytes": 136926,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 164
+    },
+    {
+      "task_id": "robust_odisabled_n16_seed202",
+      "file": "tasks/robust_odisabled_n16_seed202.json",
+      "sha256": "5adf354d6160b2debfc9f80ae883a6dc25ff30382669cb75f990657020c98196",
+      "bytes": 136882,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 165
+    },
+    {
+      "task_id": "robust_odisabled_n32_seed0",
+      "file": "tasks/robust_odisabled_n32_seed0.json",
+      "sha256": "c46a494f88a1b8f28ea8af35ed570115b261186c77e2d79b6ece22eb97d181a6",
+      "bytes": 136866,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 166
+    },
+    {
+      "task_id": "robust_odisabled_n32_seed101",
+      "file": "tasks/robust_odisabled_n32_seed101.json",
+      "sha256": "7a807a565dffd0049a36d95a9ec3c96fb2e5553cb4dc804d120eae0ab09e0e9d",
+      "bytes": 136884,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 167
+    },
+    {
+      "task_id": "robust_odisabled_n32_seed202",
+      "file": "tasks/robust_odisabled_n32_seed202.json",
+      "sha256": "ebee482748d0f3ab67a2c5bc013f7d5c6a0931a8330322a482b053c26e2de428",
+      "bytes": 136893,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 168
+    },
+    {
+      "task_id": "robust_odisabled_n64_seed0",
+      "file": "tasks/robust_odisabled_n64_seed0.json",
+      "sha256": "503b42f2c8a94576309141535cccd425b122374ec1a92369bc9d81551c7db9c5",
+      "bytes": 136844,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 169
+    },
+    {
+      "task_id": "robust_odisabled_n64_seed101",
+      "file": "tasks/robust_odisabled_n64_seed101.json",
+      "sha256": "92d31b57b4983214e3f1aeb24a88004dd34b60294638028f0b45132b7a853ecb",
+      "bytes": 136882,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 170
+    },
+    {
+      "task_id": "robust_odisabled_n64_seed202",
+      "file": "tasks/robust_odisabled_n64_seed202.json",
+      "sha256": "de7f2bf509344403cc51995848c09989f910fab73dbbea6f4820701d699e1002",
+      "bytes": 136884,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 171
+    }
+  ]
+}

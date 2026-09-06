@@ -1,0 +1,7 @@
+R9d verification passed: 171/171 immutable task records, all 3 full reference replays, all 55 frozen file hashes and the complete recomputed summary match. No TabICL fit, prediction or held-out evaluation was run during verification.
+
+The queue completed in 141.050 seconds (72.74 tasks/minute), with no errors. It covers 57 distinct TabICL settings from 60 requested configurations after CPU-only effective-design deduplication. All 513 saved fold scores and all 57 fixed equal-weight three-seed prediction ensembles were recomputed exactly. It remains a pre-2019 development diagnostic, with no model promotion. The retrospective source and reused-development selection limitations remain.
+
+All original task files remain on the server. 1 deterministic gzip chunks preserve their exact bytes (23,397,338 original bytes; 5,896,424 compressed bytes); every record passed round-trip comparison. Each chunk is below 40 MB. task_archive_manifest.json records original file, task ID, byte length, SHA-256, chunk and line, plus compressed and uncompressed chunk hashes. To restore, decompress a chunk and remove exactly one final LF from each record line.
+
+The 44-predictor B baseline and all input, calendar and ordering policies were unchanged. No source certification or held-out claim follows this study; disabled clipping was serialized safely and requested64 estimators had44 effective members. Full numerical diagnostics are in matched_summary.json. Verification deliberately performs no selection for the next study.
