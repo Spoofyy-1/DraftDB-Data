@@ -1,0 +1,68 @@
+{
+  "status": "ready_for_parent_cpu_replay_and_launch",
+  "registered_tasks": 78,
+  "no_gpu_jobs_launched": true,
+  "no_heldout_outcomes_read": true,
+  "files": {
+    "worker.py": {
+      "sha256": "f02c863300692a0b2218cd63d9be4f301e68f3f67a868fcd47edb8e4f861607f",
+      "bytes": 25002
+    },
+    "prepare_data.py": {
+      "sha256": "5368b0a170286b73c84308b4b790df556b34be7d50970217ce4fd4b73f1b06f6",
+      "bytes": 10521
+    },
+    "plan.json": {
+      "sha256": "8a1ec6d9f7848ac8995085f5c709c40805af2a183b110a37df83f4c16dfc8693",
+      "bytes": 25736
+    },
+    "preflight.py": {
+      "sha256": "6bbc7c7b4a8cdbf70ca15f3d705f43086adcb9cf47fed6300a230b4e4201ff4a",
+      "bytes": 12458
+    },
+    "preflight.json": {
+      "sha256": "a20d7410e4e8c50b6a782ee4320149ba7ae2bbe3553e744b69546bd6a1588491",
+      "bytes": 7909
+    },
+    "legacy_kernel.py": {
+      "sha256": "ddc58666da0d784a1b67f6b8ee4763599bdce14bb91768893e6fb87af4620ee1",
+      "bytes": 25099
+    },
+    "README.md": {
+      "sha256": "348ec2e74fbefe27a0d6e89ac49f6958ccd287e2daf2d48101de31e00f3964a8",
+      "bytes": 5927
+    },
+    "data/features.csv": {
+      "sha256": "ce432401e631f5ed5c9829f39707b4c2cd0a54dcb6578b26bfa50dbe2c81146f",
+      "bytes": 3061423
+    },
+    "data/incumbent.json": {
+      "sha256": "72cbd7d44457490ac04d3f6d255eddef0ba6c7897da61a924028afb807bfd3d2",
+      "bytes": 1543
+    },
+    "data/labels.csv": {
+      "sha256": "4afac2eced455cf7fc1f946c9d66fa4ac6fdd8d2febd909e5f71e4aed7a69d89",
+      "bytes": 150489
+    },
+    "data/manifest.json": {
+      "sha256": "48234f03df1a6eac721ff2b93f4bdf40d154f74e351354f15149a98949b56a1f",
+      "bytes": 33305
+    },
+    "data/source_dictionary.json": {
+      "sha256": "fd3df58401feafb24a4eeede1b1e5aab7f27de2bbd2205ede5a38c114106a0e7",
+      "bytes": 15420
+    },
+    "data/source_features.csv": {
+      "sha256": "e9dace986cd68919a4cbb058c5873061e672755b2c3538f0cb3a16604e544db3",
+      "bytes": 138231
+    },
+    "data/source_metadata.json": {
+      "sha256": "21d9e65d8f8570f23b89fbd5b36049f7d9f348c9cac0a7bb2df2565c6e18361a",
+      "bytes": 9097
+    },
+    "data/source_provenance.csv": {
+      "sha256": "1966005e39f7458c58a951cf0a5a078f7481ede98445a9f38bcb27a55104f0ec",
+      "bytes": 42881
+    }
+  }
+}

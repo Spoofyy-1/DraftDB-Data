@@ -1,0 +1,275 @@
+{
+  "status": "passed_without_model_execution",
+  "tasks": 78,
+  "model_universe_rows": 1428,
+  "source_observations": 11597,
+  "untestable_families": {
+    "shooting": {
+      "status": "untestable_no_training_eligible_columns",
+      "eligibility_by_fold": {
+        "2012": [],
+        "2013": [],
+        "2014": []
+      },
+      "omitted_tasks": 24,
+      "decision_basis": "Training feature availability only, before any scoring; source fields remain in the bundle."
+    }
+  },
+  "code_sha256": {
+    "worker.py": "f02c863300692a0b2218cd63d9be4f301e68f3f67a868fcd47edb8e4f861607f",
+    "plan.json": "8a1ec6d9f7848ac8995085f5c709c40805af2a183b110a37df83f4c16dfc8693",
+    "prepare_data.py": "5368b0a170286b73c84308b4b790df556b34be7d50970217ce4fd4b73f1b06f6",
+    "preflight.py": "6bbc7c7b4a8cdbf70ca15f3d705f43086adcb9cf47fed6300a230b4e4201ff4a",
+    "legacy_kernel.py": "ddc58666da0d784a1b67f6b8ee4763599bdce14bb91768893e6fb87af4620ee1",
+    "README.md": "348ec2e74fbefe27a0d6e89ac49f6958ccd287e2daf2d48101de31e00f3964a8"
+  },
+  "cohort_permutation_reorder_checks": 1080,
+  "paired_summary_fixture_passed": true,
+  "incomplete_family_withheld": true,
+  "runner_task_id_config_compatibility": true,
+  "tamper_rejections": [
+    "mask",
+    "base_training",
+    "base_validation",
+    "slot_values",
+    "cutoff",
+    "config",
+    "duplicate"
+  ],
+  "training_only_filter_thresholds_passed": true,
+  "fixed_order_selector_fixture_reference_replay": [
+    {
+      "backbone": "source_college",
+      "season": 2012,
+      "columns": 41,
+      "reference_matrices_and_training_labels_match": true
+    },
+    {
+      "backbone": "source_college",
+      "season": 2013,
+      "columns": 41,
+      "reference_matrices_and_training_labels_match": true
+    },
+    {
+      "backbone": "source_college",
+      "season": 2014,
+      "columns": 41,
+      "reference_matrices_and_training_labels_match": true
+    },
+    {
+      "backbone": "quarantined_legacy",
+      "season": 2012,
+      "columns": 60,
+      "reference_matrices_and_training_labels_match": true
+    },
+    {
+      "backbone": "quarantined_legacy",
+      "season": 2013,
+      "columns": 60,
+      "reference_matrices_and_training_labels_match": true
+    },
+    {
+      "backbone": "quarantined_legacy",
+      "season": 2014,
+      "columns": 60,
+      "reference_matrices_and_training_labels_match": true
+    }
+  ],
+  "source_only_legacy_transform_bypass_passed": true,
+  "cpu_top60_selector_executed": false,
+  "gpu_model_executed": false,
+  "folds": [
+    {
+      "season": 2012,
+      "training_rows": 251,
+      "validation_rows": 55,
+      "training_max_draft_year": 2010,
+      "max_label_season": 2011,
+      "coverage": {
+        "anthropometry": {
+          "columns": 10,
+          "training_covered": 138,
+          "validation_covered": 48
+        },
+        "athletics": {
+          "columns": 5,
+          "training_covered": 134,
+          "validation_covered": 44
+        },
+        "shooting": {
+          "columns": 0,
+          "training_covered": 0,
+          "validation_covered": 0
+        }
+      },
+      "features": {
+        "anthropometry": [
+          "vcmb_height_without_shoes_in",
+          "vcmb_height_with_shoes_in",
+          "vcmb_weight_lb",
+          "vcmb_wingspan_in",
+          "vcmb_standing_reach_in",
+          "vcmb_body_fat_pct",
+          "vcmb_hand_length_in",
+          "vcmb_hand_width_in",
+          "vcmb_bmi_kg_m2",
+          "vcmb_wingspan_minus_height_in"
+        ],
+        "athletics": [
+          "vcmb_standing_vertical_in",
+          "vcmb_max_vertical_in",
+          "vcmb_lane_agility_s",
+          "vcmb_three_quarter_sprint_s",
+          "vcmb_bench_press_reps"
+        ],
+        "shooting": [],
+        "all": [
+          "vcmb_height_without_shoes_in",
+          "vcmb_height_with_shoes_in",
+          "vcmb_weight_lb",
+          "vcmb_wingspan_in",
+          "vcmb_standing_reach_in",
+          "vcmb_body_fat_pct",
+          "vcmb_hand_length_in",
+          "vcmb_hand_width_in",
+          "vcmb_bmi_kg_m2",
+          "vcmb_wingspan_minus_height_in",
+          "vcmb_standing_vertical_in",
+          "vcmb_max_vertical_in",
+          "vcmb_lane_agility_s",
+          "vcmb_three_quarter_sprint_s",
+          "vcmb_bench_press_reps"
+        ],
+        "baseline": []
+      }
+    },
+    {
+      "season": 2013,
+      "training_rows": 329,
+      "validation_rows": 50,
+      "training_max_draft_year": 2011,
+      "max_label_season": 2012,
+      "coverage": {
+        "anthropometry": {
+          "columns": 10,
+          "training_covered": 180,
+          "validation_covered": 42
+        },
+        "athletics": {
+          "columns": 5,
+          "training_covered": 175,
+          "validation_covered": 36
+        },
+        "shooting": {
+          "columns": 0,
+          "training_covered": 0,
+          "validation_covered": 0
+        }
+      },
+      "features": {
+        "anthropometry": [
+          "vcmb_height_without_shoes_in",
+          "vcmb_height_with_shoes_in",
+          "vcmb_weight_lb",
+          "vcmb_wingspan_in",
+          "vcmb_standing_reach_in",
+          "vcmb_body_fat_pct",
+          "vcmb_hand_length_in",
+          "vcmb_hand_width_in",
+          "vcmb_bmi_kg_m2",
+          "vcmb_wingspan_minus_height_in"
+        ],
+        "athletics": [
+          "vcmb_standing_vertical_in",
+          "vcmb_max_vertical_in",
+          "vcmb_lane_agility_s",
+          "vcmb_three_quarter_sprint_s",
+          "vcmb_bench_press_reps"
+        ],
+        "shooting": [],
+        "all": [
+          "vcmb_height_without_shoes_in",
+          "vcmb_height_with_shoes_in",
+          "vcmb_weight_lb",
+          "vcmb_wingspan_in",
+          "vcmb_standing_reach_in",
+          "vcmb_body_fat_pct",
+          "vcmb_hand_length_in",
+          "vcmb_hand_width_in",
+          "vcmb_bmi_kg_m2",
+          "vcmb_wingspan_minus_height_in",
+          "vcmb_standing_vertical_in",
+          "vcmb_max_vertical_in",
+          "vcmb_lane_agility_s",
+          "vcmb_three_quarter_sprint_s",
+          "vcmb_bench_press_reps"
+        ],
+        "baseline": []
+      }
+    },
+    {
+      "season": 2014,
+      "training_rows": 403,
+      "validation_rows": 53,
+      "training_max_draft_year": 2012,
+      "max_label_season": 2013,
+      "coverage": {
+        "anthropometry": {
+          "columns": 10,
+          "training_covered": 231,
+          "validation_covered": 40
+        },
+        "athletics": {
+          "columns": 5,
+          "training_covered": 222,
+          "validation_covered": 35
+        },
+        "shooting": {
+          "columns": 0,
+          "training_covered": 0,
+          "validation_covered": 0
+        }
+      },
+      "features": {
+        "anthropometry": [
+          "vcmb_height_without_shoes_in",
+          "vcmb_height_with_shoes_in",
+          "vcmb_weight_lb",
+          "vcmb_wingspan_in",
+          "vcmb_standing_reach_in",
+          "vcmb_body_fat_pct",
+          "vcmb_hand_length_in",
+          "vcmb_hand_width_in",
+          "vcmb_bmi_kg_m2",
+          "vcmb_wingspan_minus_height_in"
+        ],
+        "athletics": [
+          "vcmb_standing_vertical_in",
+          "vcmb_max_vertical_in",
+          "vcmb_lane_agility_s",
+          "vcmb_three_quarter_sprint_s",
+          "vcmb_bench_press_reps"
+        ],
+        "shooting": [],
+        "all": [
+          "vcmb_height_without_shoes_in",
+          "vcmb_height_with_shoes_in",
+          "vcmb_weight_lb",
+          "vcmb_wingspan_in",
+          "vcmb_standing_reach_in",
+          "vcmb_body_fat_pct",
+          "vcmb_hand_length_in",
+          "vcmb_hand_width_in",
+          "vcmb_bmi_kg_m2",
+          "vcmb_wingspan_minus_height_in",
+          "vcmb_standing_vertical_in",
+          "vcmb_max_vertical_in",
+          "vcmb_lane_agility_s",
+          "vcmb_three_quarter_sprint_s",
+          "vcmb_bench_press_reps"
+        ],
+        "baseline": []
+      }
+    }
+  ]
+}
