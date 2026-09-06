@@ -41,7 +41,7 @@ for r in ids:
             if "429" in msg or "Too Many" in msg: time.sleep(60*(attempt+1)); fails+=1
             else: time.sleep(5)
     json.dump(rec,open(out,"w")); n+=1
-    time.sleep(2.5+random.random()*2)
+    time.sleep(5.0+random.random()*3)
     if n%25==0: print(f"{n} done, 429s {fails}",flush=True)
-    if fails>=12: print("too many 429s, stopping for now",flush=True); break
+    if fails>=25: print("too many 429s, stopping for now",flush=True); break
 print("GT_DONE",flush=True)
