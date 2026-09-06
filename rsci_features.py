@@ -50,8 +50,8 @@ for fp in sorted(glob.glob("recruit_raw/rsci_*.csv")):
             rsci_range=(max(rk)-min(rk)) if rk else None,rsci_std=round(st.pstdev(rk),2) if len(rk)>1 else None,
             rsci_total_norm=round((fl(l[tot]) or 0)/maxtot,4) if maxtot else None,rsci_chg=(fl(l[chg]) or 0.0) if chg is not None else None,
             rsci_avg=fl(l[avg]) if avg is not None else None,rsci_dev=fl(l[dev]) if dev is not None else None,
-            hs_height_in=height_in(l[ht]) if ht is not None else None,hs_pos_code=POS.get((l[pos] or "").lower().strip()) if pos is not None else None,
-            hs_to_nba=int(bool(re.search(r"NBA|G League|Ignite|Overtime|NBL|Europe",l[col] or "",re.I))) if col is not None else None,hs_prep_5th=int("*" in l[ni])))
+            rsci_hs_height_in=height_in(l[ht]) if ht is not None else None,rsci_hs_pos=POS.get((l[pos] or "").lower().strip()) if pos is not None else None,
+            rsci_hs_to_pro=int(bool(re.search(r"NBA|G League|Ignite|Overtime|NBL|Europe",l[col] or "",re.I))) if col is not None else None,rsci_prep_5th=int("*" in l[ni])))
 print("rsci rows:",len(rows),"years:",len(set(r["hs_class"] for r in rows)))
 # match to pids: same normalized name, draft_year in [class, class+6]; latest class <= draft year wins
 best={}
@@ -64,11 +64,11 @@ for r in rows:
             if pid not in best or r["hs_class"]>best[pid]["hs_class"]: best[pid]=dict(r,draft_year=dy)
 out=[]
 for pid,r in best.items():
-    o={"pid":pid,"rsci_top100":1,"hs_years_to_draft":r["draft_year"]-r["hs_class"]}
+    o={"pid":pid,"rsci_top100":1,"rsci_years_to_draft":r["draft_year"]-r["hs_class"]}
     for k,v in r.items():
-        if k.startswith(("rsci_","hs_")) and k!="hs_class" and v is not None: o[k]=v
+        if k.startswith("rsci_") and v is not None: o[k]=v
     out.append(o)
-cols=["pid","rsci_top100","rsci_rank","rsci_n_ranked","rsci_n_services","rsci_frac_ranked","rsci_best","rsci_worst","rsci_range","rsci_std","rsci_total_norm","rsci_chg","rsci_avg","rsci_dev","hs_height_in","hs_pos_code","hs_to_nba","hs_prep_5th","hs_years_to_draft"]
+cols=["pid","rsci_top100","rsci_rank","rsci_n_ranked","rsci_n_services","rsci_frac_ranked","rsci_best","rsci_worst","rsci_range","rsci_std","rsci_total_norm","rsci_chg","rsci_avg","rsci_dev","rsci_hs_height_in","rsci_hs_pos","rsci_hs_to_pro","rsci_prep_5th","rsci_years_to_draft"]
 w=csv.DictWriter(open("rsci_features.csv","w"),fieldnames=cols); w.writeheader(); [w.writerow(o) for o in out]
 print("matched pids:",len(out))
 byy=collections.Counter(); tot=collections.Counter()

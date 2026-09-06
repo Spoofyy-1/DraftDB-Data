@@ -1,4 +1,4 @@
-pid,rsci_top100,rsci_rank,rsci_n_ranked,rsci_n_services,rsci_frac_ranked,rsci_best,rsci_worst,rsci_range,rsci_std,rsci_total_norm,rsci_chg,rsci_avg,rsci_dev,hs_height_in,hs_pos_code,hs_to_nba,hs_prep_5th,hs_years_to_draft
+pid,rsci_top100,rsci_rank,rsci_n_ranked,rsci_n_services,rsci_frac_ranked,rsci_best,rsci_worst,rsci_range,rsci_std,rsci_total_norm,rsci_chg,rsci_avg,rsci_dev,rsci_hs_height_in,rsci_hs_pos,rsci_hs_to_pro,rsci_prep_5th,rsci_years_to_draft
 Pe09c2486c8,1,1,4,4,1.0,1.0,2.0,1.0,0.43,1.0,0.0,,,80,4,1,0,4
 P780ecd00c5,1,4,4,4,1.0,5.0,6.0,1.0,0.5,0.9574,0.0,,,83,5,0,0,4
 Pb9c8134dba,1,5,4,4,1.0,4.0,11.0,7.0,2.86,0.9499,0.0,,,80,5,0,0,2
