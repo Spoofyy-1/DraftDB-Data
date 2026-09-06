@@ -1,0 +1,699 @@
+{
+  "variants": [
+    {
+      "id": "baseline",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_peer_sd_usage",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_peer_sd_usage"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_peer_sd_ts",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_peer_sd_ts"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_peer_sd_ast",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_peer_sd_ast"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_peer_sd_tov",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_peer_sd_tov"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_peer_sd_orb",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_peer_sd_orb"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_peer_sd_drb",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_peer_sd_drb"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_peer_sd_stl",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_peer_sd_stl"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_peer_sd_blk",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_peer_sd_blk"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_peer_rank_usage",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_peer_rank_usage"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_peer_rank_ts",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_peer_rank_ts"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_peer_rank_ast",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_peer_rank_ast"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_peer_rank_tov",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_peer_rank_tov"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_peer_rank_orb",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_peer_rank_orb"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_peer_rank_drb",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_peer_rank_drb"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_peer_rank_stl",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_peer_rank_stl"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_peer_rank_blk",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_peer_rank_blk"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_team_share_fta",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_team_share_fta"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_team_share_three_a",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_team_share_three_a"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_team_share_rim_a",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_team_share_rim_a"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_team_share_dunk_a",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_team_share_dunk_a"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_team_share_ftm",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_team_share_ftm"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_team_share_three_m",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_team_share_three_m"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_peer_three_diet",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_peer_three_diet"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_peer_rim_diet",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_peer_rim_diet"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_peer_defense_density",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_peer_defense_density"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_peer_creation_density",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_peer_creation_density"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_minutes_concentration",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_minutes_concentration"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_usage_concentration",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_usage_concentration"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_career_slope_two_p",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_career_slope_two_p"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_career_slope_three_p",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_career_slope_three_p"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_career_slope_ftp",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_career_slope_ftp"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_career_slope_ftr",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_career_slope_ftr"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_career_slope_ast_tov",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_career_slope_ast_tov"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_career_slope_orb",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_career_slope_orb"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_career_slope_drb",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_career_slope_drb"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_career_slope_minutes",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_career_slope_minutes"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_career_slope_ts",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_career_slope_ts"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_career_slope_usage",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_career_slope_usage"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_posterior_ft",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_posterior_ft"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_posterior_three",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_posterior_three"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_posterior_rim",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_posterior_rim"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_posterior_mid",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_posterior_mid"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_posterior_dunk",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_posterior_dunk"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_posterior_two",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_posterior_two"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_nondunk_rim_pct",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_nondunk_rim_pct"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_rim_ft_pressure",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_rim_ft_pressure"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_perimeter_ft_agreement",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_perimeter_ft_agreement"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_assist_usage_efficiency",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_assist_usage_efficiency"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_balanced_stocks",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_balanced_stocks"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "f50_foul_adjusted_rebounds",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "extras": [
+        "f50_foul_adjusted_rebounds"
+      ],
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    }
+  ],
+  "folds": [
+    2012,
+    2013,
+    2014
+  ],
+  "seeds": [
+    0,
+    101,
+    202
+  ],
+  "purpose": "50 individual statistics versus identical baseline, then preregistered complementary combinations. Development only.",
+  "no_confirmation_or_test_scoring": true,
+  "combination_gate": {
+    "min_mean_gain": 0.005,
+    "min_improved_folds": 2,
+    "max_fold_regression": 0.03,
+    "maximum_winners": 8,
+    "rounds": [
+      "all pairs of up to 8 winners",
+      "top 4 pairs plus each other winning feature",
+      "all winners"
+    ]
+  },
+  "weights": {
+    "rich": [
+      0,
+      0.75,
+      0.25
+    ],
+    "thin": [
+      0.5,
+      0,
+      0.5
+    ]
+  }
+}

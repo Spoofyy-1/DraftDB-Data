@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T09:33:31.121339+00:00",
+  "lane": "news",
+  "pid": "Pac419c235c",
+  "draft_year": 2001,
+  "name": "Rodney White",
+  "draft_date": "2001-06-27",
+  "status": "ok",
+  "query": "\"Rodney White\" (draft OR scouting OR prospect OR basketball) after:2000-07-01 before:2001-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Rodney+White%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2000-07-01+before%3A2001-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Wise Named to All-Conference USA Squad - University of Memphis Athletics",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdUM5cm55b2VXNUlHVHdKWHZWWUQ1ZmtRNFh1WWhucWVCdkpLX3drOU5oTUo1M1hXU0hDSGFpM05wYmROSWtMcmR2SkVMWDBrbnJKZHJfWkJ2TWhtaEtGTGlQVFlWR0pLRHJUbC1Qd0pYYlo2UmktcU9WbW05eTNvVg?oc=5",
+      "published_date": "2001-03-05",
+      "source": "University of Memphis Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft 2001 - Potential stars make draft unprecedented - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OVVh5aXRUVEtIX2lYYjRRbmE0RHBMcDEtaUdtYVBZcktnSVplM2xjTEZVemt6ZGNJRG9RbG8xV3FNMDE5emRjSk5uN3l4SXNiMGRybEZvWUtvUTZ5WGZqTGctVUMxOFFEYVBR?oc=5",
+      "published_date": "2001-06-22",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft 2001 - Wizards have the cards: Deal or hold? - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02bGpYTjFQSndjaHJNLUhVNmg5eE9DUm9IeHpRYWFXN2lGLV9BZENkamQyaEY3ZU5SLWxfbWdENzV3Ujc4cXh1NG80Vlh1TXhoVjR1dk1EeUNUVDh5OUR5bDVkZ0xma01xNGFZ?oc=5",
+      "published_date": "2001-06-20",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft 2001 - Lottery thickens draft outlook - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OT1VXWHRNTUJNVzVPRDVYcGVaVmtYTzF3ckRBYXQ0XzNOTHlKNnUwMHRrOFdhbGM1U3MzbVpSY1RRekxMN09RcGJNaDBhRFRxU2R2dk1lZWR5NlpnTEpLMDJxUkFJdnFSZTNR?oc=5",
+      "published_date": "2001-05-21",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "1cc0a2248a45c79a12354ce133e3bf43c991f7ea3a56979d563cb7cbbd111fcb",
+  "feature_eligible": false
+}

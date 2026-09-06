@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:31:45.324199+00:00",
+  "lane": "news",
+  "pid": "P2a8e69fc8a",
+  "draft_year": 2001,
+  "name": "Trenton Hassell",
+  "draft_date": "2001-06-27",
+  "status": "ok",
+  "query": "\"Trenton Hassell\" (draft OR scouting OR prospect OR basketball) after:2000-07-01 before:2001-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Trenton+Hassell%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2000-07-01+before%3A2001-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft 2001 - Lottery thickens draft outlook - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OT1VXWHRNTUJNVzVPRDVYcGVaVmtYTzF3ckRBYXQ0XzNOTHlKNnUwMHRrOFdhbGM1U3MzbVpSY1RRekxMN09RcGJNaDBhRFRxU2R2dk1lZWR5NlpnTEpLMDJxUkFJdnFSZTNR?oc=5",
+      "published_date": "2001-05-21",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "002825447af22b5662c6cbd6d74a2cc69538587f9c8e41c0969814dbb9a4f852",
+  "feature_eligible": false
+}

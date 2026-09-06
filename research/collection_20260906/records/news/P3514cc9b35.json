@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:35:20.594719+00:00",
+  "lane": "news",
+  "pid": "P3514cc9b35",
+  "draft_year": 2002,
+  "name": "Matt Barnes",
+  "draft_date": "2002-06-26",
+  "status": "ok",
+  "query": "\"Matt Barnes\" (draft OR scouting OR prospect OR basketball) after:2001-07-01 before:2002-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Matt+Barnes%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2001-07-01+before%3A2002-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "No shortage of big matchups - SFGATE",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUG9MNnNOdVh5VEc3Y19DT3Z0YW5UWHdINnZxSVFSQXBQYUZ0MENLLUtZX1N6SURvVU9jNDdvRzlkV1NfUDZLX0xSckFnLWRDUmx2YXFEWFBlVHkxSWMzLXdsRDM1NDdMRC1QYXEyUndpSV9HOG1FR01vTFhzWENCVjNUZw?oc=5",
+      "published_date": "2002-01-21",
+      "source": "SFGATE",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "f2a4c69f1369d5056866d275978cf100a9530e84ace9c8364c2f5090121f6813",
+  "feature_eligible": false
+}

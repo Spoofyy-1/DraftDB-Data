@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T09:32:18.396735+00:00",
+  "lane": "news",
+  "pid": "P5303425662",
+  "draft_year": 2001,
+  "name": "Sean Lampley",
+  "draft_date": "2001-06-27",
+  "status": "ok",
+  "query": "\"Sean Lampley\" (draft OR scouting OR prospect OR basketball) after:2000-07-01 before:2001-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Sean+Lampley%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2000-07-01+before%3A2001-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "GREAT EXPECTATIONS / Lampley now unquestioned team leader - SFGATE",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON2ZLT0RnTklKbzZRNmNDYTlaQ194eGljUzR1Vjh5RVdXWkpaZTNxNXJBZVRZcTlNZkhJT01LbkpjMFlWUVJGSkI0dDlvVVI2b0c2eF9pN29sQm5MZWpvR01tUTVnRDNqRTh6WnBheWQxRExNYjhtTWdmN2tfRVFIaFNVTHlXSThfZm11TjhJOTV1eVoyeWJVUU5VUEkzSThISWRGU1lR?oc=5",
+      "published_date": "2000-11-13",
+      "source": "SFGATE",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Cal Basketball Opens Preseason NIT vs. Mississippi State - California Golden Bears Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oZzFNYXl5VlVMSENlSEVROTBtNV9LUHo0NUx3SW1zZWwzQVlwQTdSZWQwbnJPdkc5YzdVdmFCcVBYdDlVazF0VkV2SnhvV0c1ald2ZVJVYng1UQ?oc=5",
+      "published_date": "2000-07-06",
+      "source": "California Golden Bears Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Cal Senior Shows New Maturity / Shining Lampley / Cal star has worked hard to become team player - SFGATE",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdDJBbENYa1NabHQ0anJHWnBNREV5WUl3OUt1cFBXanJ0UFVmbkh2MDAtMmlaRW9iV3ZybktHZTkxLUdxUzRFYlhsa2ltaXE0UEtpV2Z4TWxFazNpV2s5Q1NhOWlURDBkcDBPYllPcy0xYldieTlzZXRTUDItM0NiMGxQejktNDBUTFRsNkVFMlRYLWJ3NS0wUzItVmc?oc=5",
+      "published_date": "2001-02-16",
+      "source": "SFGATE",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Cal Comes Strong in Overtime to Beat Mississippi St., 83-76 - California Golden Bears Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sdkJhVlhRZm9YZ3JQX1k5dlJrMHVGeFY0Sm91ekt5SFZzeFo3NjhwcDNjVHl4T2lVelJsaHdQbXJuWkpEdmg2UkR1eG9nYnRDVUo3VE1kYVB0ZW1kOG52dg?oc=5",
+      "published_date": "2000-11-13",
+      "source": "California Golden Bears Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "0d8893ed850a7860a772b012ed15faf44713ad0514350c6fc28fcd4b3e2da3e2",
+  "feature_eligible": false
+}

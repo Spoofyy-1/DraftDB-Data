@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:34:37.483053+00:00",
+  "lane": "news",
+  "pid": "Pf7459f37f3",
+  "draft_year": 2001,
+  "name": "Maurice Evans",
+  "draft_date": "2001-06-27",
+  "status": "ok",
+  "query": "\"Maurice Evans\" (draft OR scouting OR prospect OR basketball) after:2000-07-01 before:2001-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Maurice+Evans%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2000-07-01+before%3A2001-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Men's College Basketball - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KQlR5Nzhzbk55NzVMcU52NmJrOXA3TS1XdW9MMWo3RzU0ZEwxZ3o1RFRJNGNIa0VvenN3WHNtR0I3UVIwQ2xzeU1vdTJWaEh4eHRZSGRMVDVhVkxXak1YTlFKSUJIWDQ?oc=5",
+      "published_date": "2001-02-24",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Kelly, Texas stun Illinois - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtWHZHZWJ0OTZMa0pSRnVESzk4dFFrQk81TFB6OFNXaFpELW4xc3F5b0pBaVFYdEVQaTNCdlJvVWhiUDNBenZRZmpBR05OTE9hS2VxZFMyeDZCcFF6X2ZIa05DQm82d3c?oc=5",
+      "published_date": "2000-12-23",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "df83a9259839d2637ff7f6b2aa8cab16db39d854b95242edd903d0c16c72c596",
+  "feature_eligible": false
+}

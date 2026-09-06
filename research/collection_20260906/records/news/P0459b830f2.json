@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:34:54.053772+00:00",
+  "lane": "news",
+  "pid": "P0459b830f2",
+  "draft_year": 2002,
+  "name": "Casey Jacobsen",
+  "draft_date": "2002-06-26",
+  "status": "ok",
+  "query": "\"Casey Jacobsen\" (draft OR scouting OR prospect OR basketball) after:2001-07-01 before:2002-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Casey+Jacobsen%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2001-07-01+before%3A2002-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Josh Childress & Casey Jacobsen Lead Nationally-Ranked Stanford to 114-65 Victory Over EA Sports All-Stars - Stanford Cardinal",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWVV6WVBialF0RlZrTnhhTzFzYUdSOW8tWjF5R1VqZGpGTmdHclNSWnJYdk9yTWtGdm9EcnVqMDlXMHdmYWRBMHBTNE14d1BhQUtRSnRYVGFyM2tNYUFZOWVkS0FxYWNjS3UwMmhQTVpjVG9UNWdPMmpFUWQ1UFVqZFpuWDR2dDhGNzJFT0pnMnNVVk5CQWtGZVk2OUY1RGRULVFiME9LcUloN0pEZk8xNmNLaGVNcHdxT2pqdXFJckl6NkRueGRwbHdhMGdxYl82NVVvcUM0dVJrc2M?oc=5",
+      "published_date": "2001-11-12",
+      "source": "Stanford Cardinal",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Nationally-Ranked Stanford Basketball Team Defeats Athletes in Action, 100-81 - Stanford Cardinal",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMU5SODYxNmNRWTJzQ1dmQmJGWnhWbnZhd1VtMml1WXVrc0c2OFNYRUxoenYxeHM3UlZ2QmFCYjlkblQ2TjJfZVl3OVRJZGl0TW9HcV94NWpyTXlncGk0UU9IYlNQVHBOR2x6Q1VxVmlMZHNlbVFDSnY2SlliVjZtdDZTcUVhU2syVUdxUEpERHRKbG1PQVhDLUNHUEZJOGRtaHhkMzFHbEtPZDNCdUJscUMzUnBIZw?oc=5",
+      "published_date": "2001-11-06",
+      "source": "Stanford Cardinal",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "2115e38f5088afc14c39a3e627f233cb50fd5e70049823f26b541eb144196887",
+  "feature_eligible": false
+}

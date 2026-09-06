@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:36:17.704912+00:00",
+  "lane": "news",
+  "pid": "P6031807405",
+  "draft_year": 2002,
+  "name": "Amar'e Stoudemire",
+  "draft_date": "2002-06-26",
+  "status": "ok",
+  "query": "\"Amar'e Stoudemire\" (draft OR scouting OR prospect OR basketball) after:2001-07-01 before:2002-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Amar%27e+Stoudemire%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2001-07-01+before%3A2002-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "A Tribute to Thunder - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pRHVuak5HRVFIV3NKVDFrSTl1VTR6UGcwQURKS1pZcHFsQi1MbzdCTWw3QWgwVGRVejlRdGppb2hoMy1JcTY3ZTFMaEtFaFAydEZOSUp4MXY3MEt3YmRaRmsyR0c?oc=5",
+      "published_date": "2002-04-08",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Suns Acquire Bo Outlaw, 1st Round Pick - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XbGRCXzl2WXdyeUhLSm4wN1RZb0xabnJzVWFZTXdjNDQwSXdtRnlGVTN6U3I0a09iMENtSXdPdGRIc29hREVFalkxNFNUZlV4b0E5S2thc1E1SkZ4Z2ExaElpdmxXR00?oc=5",
+      "published_date": "2001-11-16",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "b0a95cdbe025cde5c2ac370b5bcee3743e1a5bef893c6702b63a29b0f77855aa",
+  "feature_eligible": false
+}

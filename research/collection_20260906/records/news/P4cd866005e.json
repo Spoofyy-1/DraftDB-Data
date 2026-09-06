@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:36:00.284108+00:00",
+  "lane": "news",
+  "pid": "P4cd866005e",
+  "draft_year": 2002,
+  "name": "Roger Mason Jr.",
+  "draft_date": "2002-06-26",
+  "status": "ok",
+  "query": "\"Roger Mason Jr.\" (draft OR scouting OR prospect OR basketball) after:2001-07-01 before:2002-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Roger+Mason+Jr.%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2001-07-01+before%3A2002-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Lewis, Jackets Sting No. 22 Cavaliers, 82-80 - Georgia Tech Yellow Jackets",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdFZpZ3RqcjhMTVd4OWVyb255WDBUYzA1UFptc0V6U01qQlAyemh3ZFdqbUtZSFdEc3N4YWs0TXlNVnJTVU5lZ0wzOTRiclVPa18zQlBtTE5ZQ3FsbGVBSjVpaDIwQ3ZEMk9wamhQUjNTRFAzWG5ydEktRWphQ3AyVDAtMTh2ZXFPamc?oc=5",
+      "published_date": "2002-02-23",
+      "source": "Georgia Tech Yellow Jackets",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Men\u2019s Basketball: Final Notes and Points of Interest - Clemson University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTzJOTHJwQW0xdmFoYldyanpCSUw3dmtZX09SNHJjLTV3Ml84REJrMEg4cV9vS2pYRHJHNE9SYkVzc0FEU3Z1c0VRd09GVGx0aUNIRnlZNlhadVpqYl9LUDZzbktuNzM3QXNocTB2MTk3OVVQc19va2RRTG1nb2RUekFoM0dkLVNlVjhZNkx5czRqRFZxbFdr?oc=5",
+      "published_date": "2002-03-20",
+      "source": "Clemson University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "efadad58d902a9f4bfc89614ca66339ee38e215b720247972866b1123a4fcee7",
+  "feature_eligible": false
+}

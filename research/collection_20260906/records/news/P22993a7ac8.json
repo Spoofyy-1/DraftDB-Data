@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:28:06.589619+00:00",
+  "lane": "news",
+  "pid": "P22993a7ac8",
+  "draft_year": 2000,
+  "name": "DeShawn Stevenson",
+  "draft_date": "2000-06-28",
+  "status": "ok",
+  "query": "\"DeShawn Stevenson\" (draft OR scouting OR prospect OR basketball) after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22DeShawn+Stevenson%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Stevenson jumping from preps to pros - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02cWVSMDNKNUw2dW5UX1BZaXNQTTZXcGJpYS1WdWd4QWlIX21VVXFUM0VQQUtmRWRvZ3BlRnJ2Z1JMaTVnV1I2c0JsTlNBOWpDeUtWYl91VzR1N1dQcnU5Mw?oc=5",
+      "published_date": "2000-05-15",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "7893a3f8d2e47ecab8a78a9f40b8fa13de632ec4bf448a80cd6e8d3b31efc7d3",
+  "feature_eligible": false
+}

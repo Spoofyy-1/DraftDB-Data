@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T09:30:38.779636+00:00",
+  "lane": "news",
+  "pid": "Pd72f71c2bb",
+  "draft_year": 2000,
+  "name": "Art Long",
+  "draft_date": "2000-06-28",
+  "status": "empty",
+  "query": "\"Art Long\" (draft OR scouting OR prospect OR basketball) after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Art+Long%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "69bd34b0486683d05ae2135d8339f1d7b1902fd4df771bee52e7ff1e34c90864",
+  "feature_eligible": false
+}

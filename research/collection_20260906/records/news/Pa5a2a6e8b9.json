@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:30:05.749302+00:00",
+  "lane": "news",
+  "pid": "Pa5a2a6e8b9",
+  "draft_year": 2000,
+  "name": "Mamadou N'Diaye",
+  "draft_date": "2000-06-28",
+  "status": "ok",
+  "query": "\"Mamadou N'Diaye\" (draft OR scouting OR prospect OR basketball) after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Mamadou+N%27Diaye%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "South Carolina S. Carolina/Auburn Auburn Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZRm9odDdQdDFZblpXcjZEV2dtTHcwclhGTW5GNzhGOE5zcGdLRTRDTWpDZmtYUGFfcDFzb0t3TllvREhidjViWHhRa1pLSE1QcFFzNllGeUUxU1NZZGhOdFZwVWFIcU0?oc=5",
+      "published_date": "2000-03-11",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "'Bama gets the best of No. 8 Auburn - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rUUI2ZmZrb0FodnpXb3lrMW92RFM5SEJwV254ekhxVTRlRE9oMFN3UGF0T2Y4bF9wbHpTMHR5bktkMnhxNnJudHJPblFOZHhKR2Z6dW1zRTJDa1JXbXhpb1EwQWYwY28?oc=5",
+      "published_date": "2000-02-22",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Fizer carries Iowa State past Tigers - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CWjNRRFhlNGpNbEhSanRRNnFVbWY3bGNCa2M3SWpBR3plMHkzYUVnMkxFRTgzMHc2SnJwc25JTHlUZmM0RVJBSzQzRjQyTno2X2dfajJYOFllYU5nSTJObjVJSlVnbjQ?oc=5",
+      "published_date": "2000-03-18",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "f5bd31d799dcdeb49873fbb1cbf9893689f393f05cc131d9c44425228f334f0a",
+  "feature_eligible": false
+}

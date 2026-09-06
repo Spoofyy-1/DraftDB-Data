@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:33:34.412058+00:00",
+  "lane": "news",
+  "pid": "Paeace7e70c",
+  "draft_year": 2001,
+  "name": "Terence Morris",
+  "draft_date": "2001-06-27",
+  "status": "ok",
+  "query": "\"Terence Morris\" (draft OR scouting OR prospect OR basketball) after:2000-07-01 before:2001-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Terence+Morris%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2000-07-01+before%3A2001-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Murphy Chosen For USA Men\u2019s Select Team - Notre Dame Fighting Irish",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVTdYQ2ZvZk1SUjY4c0VYQ1I4X1JmQUR5N1VWRkdYSHBVVEcyNlg5RW9Wdkg5dlo4cUtnNEJmU0ZNNUtyVHRXYU5aWVB5cFRSaV91Vm5vc3ZVbURuRjZBTmdEaHBMd1UwQ3JVd0JfaXNxVzJ0VlVlTjkzZ2hQcE96NVlHQzgtRTVU?oc=5",
+      "published_date": "2000-08-10",
+      "source": "Notre Dame Fighting Irish",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "febf54d7817ee6affa8e573e6805ae6fc470d62d4e15cd28c5e58c5fcd6fe6f0",
+  "feature_eligible": false
+}

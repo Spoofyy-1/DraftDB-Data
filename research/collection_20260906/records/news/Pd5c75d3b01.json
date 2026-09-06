@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T09:30:35.429617+00:00",
+  "lane": "news",
+  "pid": "Pd5c75d3b01",
+  "draft_year": 2000,
+  "name": "Dan Langhi",
+  "draft_date": "2000-06-28",
+  "status": "ok",
+  "query": "\"Dan Langhi\" (draft OR scouting OR prospect OR basketball) after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Dan+Langhi%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Vanderbilt Vanderbilt/Tennessee Tennessee Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iUEkzVjBoclZXU1RNdVdHX0FwNE1tUEJTQUJGcTg2RkpNWEQxbnNwelRhdUpBNmZKU3pzOUl1bjJLM1lZS0pQa0dxbFBMT3c2RVkwWFpmWGhOUGpHbnJCNVZNdnhVUkk?oc=5",
+      "published_date": "2000-01-12",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Kentucky stops Vanderbilt in OT - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RQW5nUktIMkZJZGtuMW1hMU1GYU0xNGJ2NW5DSXhINW1hcGI5V1I4NEkyeU5JQVdHSmVJSFB0UEtSY1UyR1VxdmkzV2t4Y2c1SVpqVm80Mk1fM0RSV2tmZENibWVlYlk?oc=5",
+      "published_date": "2000-01-22",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Vanderbilt Vanderbilt/Florida Florida Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81dU1QZlFiNnZlenZyS2E2ZFRRdFh4V0xsaE5iVmZreHBLYW1yTjIwUHNFNTJMM2twaC02cGVHcU1NRWpBZEhSTDBMVkN2blFwdFctdjRyclhHdVF2bmhLTXlqalYzdlk?oc=5",
+      "published_date": "2000-01-29",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "ESPN.com - College Basketball - Surprise! They've got game - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14cHRpNUlsdFlPSVJfUDN2allSc3hFczdoMDMxcmpkVGdkdjY1OGpvcGVEZU1JbFk5OTNkQmhUaUIyLVpoWFBJSWdOMk9OSEJ5ZF9JOFpfVW9EeE1R?oc=5",
+      "published_date": "1999-12-27",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "55101abf9cfea0855cbb480315d5010607461ab7417cbdd559cb278b99d339fe",
+  "feature_eligible": false
+}

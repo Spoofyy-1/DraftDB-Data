@@ -1,0 +1,72 @@
+{
+  "collected_at": "2026-09-06T09:29:13.014953+00:00",
+  "lane": "news",
+  "pid": "P7aebb4f3da",
+  "draft_year": 2000,
+  "name": "Marcus Fizer",
+  "draft_date": "2000-06-28",
+  "status": "ok",
+  "query": "\"Marcus Fizer\" (draft OR scouting OR prospect OR basketball) after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Marcus+Fizer%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "UCLA UCLA/Iowa State Iowa State Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyWkJqRUNxT3hiOHFNMEtSTWRYRVpwZ1ZtbDgyQ1RDS19heEVWUnpHbjhaRHh2Z2ZNdFdZeTVqZThrZFh6TXRsaDdoaFprQ3FuZDdMb3hkT29hTzUwUDg4dFlvLXRqNlk?oc=5",
+      "published_date": "2000-03-23",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Tinsley: From Playground Legend to NCAA Star - Iowa State Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84c2dBUjZjUzlsOGo1SjZqdkpoa1dxdFZ4bnlmcnh1aU56WlNiZ0FuTWJWREhrazQzVEF5U1pVeFZmem9WNGNXLUV0QURRY3JQdUlZYg?oc=5",
+      "published_date": "2000-03-17",
+      "source": "Iowa State Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Men's Hoops Can't Get By No. 10 Iowa State, 87-79 - Texas Tech Red Raiders",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWkxoOTRGYnFEVkRZQUE3alpGQ1dEcU5tUHJhTEEyeXVNdEtOUm5wazJqT2k0UXFaT1U5Z2FYNnhwSmRoa083WmVrLU00TVJzZzNzSUMxdXVoMEpfVnJMcncwY0N2MDZkYkx4SjQwV3hRYW1KUjhCNHBvZHFjQzZxWlFMT3k4THEzaFo0?oc=5",
+      "published_date": "2000-03-01",
+      "source": "Texas Tech Red Raiders",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Fizer carries Iowa State past Tigers - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CWjNRRFhlNGpNbEhSanRRNnFVbWY3bGNCa2M3SWpBR3plMHkzYUVnMkxFRTgzMHc2SnJwc25JTHlUZmM0RVJBSzQzRjQyTno2X2dfajJYOFllYU5nSTJObjVJSlVnbjQ?oc=5",
+      "published_date": "2000-03-18",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Men's Basketball Topples No. 12 Kansas, 74-66 - Iowa State Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jampRV1NUdTVKUVBsUmVDWi1QSWxhRXFSZXJOem5HTlVtRUpLU3lrQWh2RXpSUm5iS2RFc1ZPVWU0TngwMThkUW51MFQ2bC1YYnJMag?oc=5",
+      "published_date": "2000-01-29",
+      "source": "Iowa State Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "No. 14 Men's Hoops Falls in Overtime to Colorado, 102-90 - Iowa State Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNeF81LW14VWMxekR4bGllQTlFOXJ3QzV6LXdyaFU0WEVtMHY0aXhWajhpaE1TMmFZbmFKRmVSbnlQa2VQWGx6cEduOTh1UUlsMHdtaQ?oc=5",
+      "published_date": "2000-02-19",
+      "source": "Iowa State Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Michigan State closes with 23-5 run - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05TFczYWprTFhlRkNVNzFGNFBFUkxOck5VMU5GY0N4dGxBZ1IzaWN6bXdITkhJVHd2QWlqZHJaU05RdjNXQnR6QzdrenJleXBPUVNwS0RhdVAwTDh5NGJUaGRCNmpaT3M?oc=5",
+      "published_date": "2000-03-25",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "41eff469952cb9072bc7d3bdbd1387a1a0b4e2a4a814bf69ce11e0082d5e9b74",
+  "feature_eligible": false
+}

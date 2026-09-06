@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T09:31:21.967975+00:00",
+  "lane": "news",
+  "pid": "P0a2d28a2d0",
+  "draft_year": 2001,
+  "name": "Alton Ford",
+  "draft_date": "2001-06-27",
+  "status": "empty",
+  "query": "\"Alton Ford\" (draft OR scouting OR prospect OR basketball) after:2000-07-01 before:2001-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Alton+Ford%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2000-07-01+before%3A2001-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "7fd9e577a50da8b8ca6544d86f9975d8e47651dd020a22916ff0b5ff6f6fe27f",
+  "feature_eligible": false
+}

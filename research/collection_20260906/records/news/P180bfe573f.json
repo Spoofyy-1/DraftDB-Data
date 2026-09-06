@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:27:40.429800+00:00",
+  "lane": "news",
+  "pid": "P180bfe573f",
+  "draft_year": 2000,
+  "name": "Quentin Richardson",
+  "draft_date": "2000-06-28",
+  "status": "ok",
+  "query": "\"Quentin Richardson\" (draft OR scouting OR prospect OR basketball) after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Quentin+Richardson%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Tigers Come Up Short Against DePaul - University of Memphis Athletics",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42OVh4bVB2QWRkYmZEUzF4ZmVZWWNfalZoQS1UMkhyZjBTbDFHdnYxLVFzU3BwdnoxbXg4M1dxTkZrMVFMOWRYRXBzQkF4Vy1XdGs0Zm9wVVA4aUkzMHB2STNZNmEwNk91Sjg5MHJOTDRPTVMxWkxHc1BTaV9YU2s?oc=5",
+      "published_date": "1999-12-28",
+      "source": "University of Memphis Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Cincinnati Cincinnati/DePaul DePaul Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yYThQb2xsZnJRTk1wZWpJOVE2YkxUdXVZcTc4eVFSc010UU5Edm4zOElueFIwT2FJTVFDWDVDR21waVBWNkFHU1k2VjhOU3plWlRobkl2djZHSGRuNkVoXzlrTC13X2s?oc=5",
+      "published_date": "2000-03-02",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "St Louis Saint Louis/DePaul DePaul Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XNFAyanRrU2tzMVVtR1NzM2c1eWxUZk5iNHlzaTVLRFJpSHRTYkQ2emNVWjJxaW0wWTBkM3liQWxnQkdOUHdRT0NYYlIzaHdCeVJ6Y3lTemJSS3FBYjJNYWVZMnFlRnc?oc=5",
+      "published_date": "2000-03-11",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "2e8413d7d2f397843347db9f15a3f9f5b45f1f5d0cd7d17f5af855b47ca4ada0",
+  "feature_eligible": false
+}

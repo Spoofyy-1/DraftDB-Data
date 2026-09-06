@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T09:30:58.624943+00:00",
+  "lane": "news",
+  "pid": "Pefcb67dee7",
+  "draft_year": 2000,
+  "name": "Jake Voskuhl",
+  "draft_date": "2000-06-28",
+  "status": "ok",
+  "query": "\"Jake Voskuhl\" (draft OR scouting OR prospect OR basketball) after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Jake+Voskuhl%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "St. John's ties Syracuse for first place - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oZjhjSDJLWUVIaG1zUGhyUDBwelZaR0VBX0tSQ0dZVHpPcFlsQ25VSXNySWxhenFyWXAtd2l1RlVvcmJtLXpmUzFXS1YxTWZOZTljVDctQzRDSGJRdGViWWMtRnJveHM?oc=5",
+      "published_date": "2000-02-21",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Georgetown Georgetown/Connecticut UConn Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BNmNLelgzRzlhcV9pVjlBcTdlR29IYTUxTXpkX045WXRzWDlkcGNxYmRsSndsOWx3OGFJTFNFaXJuSEJtLUJPUnpjS0x3U2dhMUNfRHNjdm8yMlM0MGwycHhicTRNTUk?oc=5",
+      "published_date": "2000-03-10",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Miami wins in Storrs for 2nd straight year - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nSWQ4MzJROUVpQ21wbzJkdEJWYTJ5TERRZ19hOEozWHl0el9OQW5lTjM0WmNnWWszWHNHeDNZTExCRy12MGFnNHlIT0NVZWxKclp6ZnFHbXdUOGZEV25SY1lnMVJHSzQ?oc=5",
+      "published_date": "2000-02-19",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "St Johns St. John's/Connecticut UConn Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fV2lQM0RSLXd5OTVKR1ZkUWVfS0VVd2FLQzhEcVFJa05PckJ3T2VGbVVMQVBZWTVyRHlyUk1nUWdwVW5TMTFibnFLMEszOFlWQXdncGlPS3pJZGhvd3hQTXRZRHZFVVU?oc=5",
+      "published_date": "2000-01-16",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "4503ef6cad0bd95bb35685581b2aba855c125c74324099447dff9b2e44e9f10e",
+  "feature_eligible": false
+}

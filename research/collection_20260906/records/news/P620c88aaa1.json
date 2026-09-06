@@ -1,0 +1,64 @@
+{
+  "collected_at": "2026-09-06T09:28:53.026017+00:00",
+  "lane": "news",
+  "pid": "P620c88aaa1",
+  "draft_year": 2000,
+  "name": "Lavor Postell",
+  "draft_date": "2000-06-28",
+  "status": "ok",
+  "query": "\"Lavor Postell\" (draft OR scouting OR prospect OR basketball) after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Lavor+Postell%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "St Johns St. John's/Connecticut UConn Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fV2lQM0RSLXd5OTVKR1ZkUWVfS0VVd2FLQzhEcVFJa05PckJ3T2VGbVVMQVBZWTVyRHlyUk1nUWdwVW5TMTFibnFLMEszOFlWQXdncGlPS3pJZGhvd3hQTXRZRHZFVVU?oc=5",
+      "published_date": "2000-01-16",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "St. John's ties Syracuse for first place - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oZjhjSDJLWUVIaG1zUGhyUDBwelZaR0VBX0tSQ0dZVHpPcFlsQ25VSXNySWxhenFyWXAtd2l1RlVvcmJtLXpmUzFXS1YxTWZOZTljVDctQzRDSGJRdGViWWMtRnJveHM?oc=5",
+      "published_date": "2000-02-21",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Seton Hall's Dalembert blocks 11 shots - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmRXVDOWIwTjV6MjM5X0JuQmx3V1Z2Zk5VdUtiSjVyaXZtdHgwSFF6TmlzT093VlM5eTNOaTUxOVdrYkdzRmdHOGpkRThYWXVHSTlsX3JvOWZCcFdwbWFqcERHOG40bHM?oc=5",
+      "published_date": "2000-01-18",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Miami ties Syracuse for Big East crown - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xYUNocmsxWFVqUzg2RTE0Vmk3MWVfV0ZZWF9XdDlwWnBvOVVQcGtIWktfX2pNLV95Y0pYdGZGVjdwMVRBT09hYlRuQ2o1UVVNVTVVZmEwbUpvODNrTDZhZUd3R1A3Ums?oc=5",
+      "published_date": "2000-03-05",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Connecticut UConn/St Johns St. John's Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yV2swVVZBYWFRMWNteDhScjV5dnNoZXIwRXRoTTRkby1XbUtIMzlpZUVPd0hfUW5Wd0dVOGNvREFpV2xfdFRxbjlvU2dZUU9DTTdMM29SRnZPYm9nVmRrVWlKZUFmaVU?oc=5",
+      "published_date": "2000-03-11",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "St Johns St. John's/Duke Duke Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PT0FVSW0wWmczOWlPMlYyV1BTaE9tYk0tQ0theGFJRENYaVB0ZS1oTk9MVVBHdHNieTFLOVlvekt5WHhHQjR1c0lRT1R1cEMzSGdORGZIQWxMTjQ1YXhEWHJXZmRGUQ?oc=5",
+      "published_date": "2000-02-26",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "ea9dc94b73a787da38ac2abdc8ebd313a206a35c67d5b8ffbbe949a2c4c3e127",
+  "feature_eligible": false
+}

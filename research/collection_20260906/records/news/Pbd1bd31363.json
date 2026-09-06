@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:30:22.184438+00:00",
+  "lane": "news",
+  "pid": "Pbd1bd31363",
+  "draft_year": 2000,
+  "name": "Courtney Alexander",
+  "draft_date": "2000-06-28",
+  "status": "ok",
+  "query": "\"Courtney Alexander\" (draft OR scouting OR prospect OR basketball) after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Courtney+Alexander%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Bryant's 21 leads Wisconsin - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Vc0NaZXpRdTc5ZXdubWZILXlSZ0p3d3REOU5PVHJUZ1lMVmpiT0czc3R4WVFyZEN4QjNrZmNCWER1Y1Y5dWR1elZ2TURibi11ZHNLZjZxZU9SLWZ3YmNnRXNoWUtONDQ?oc=5",
+      "published_date": "2000-03-16",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Honolulu Star-Bulletin Sports - Honolulu Star-Advertiser",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16VEVHOEU2OXZwQ1lYVTVGRmRRV1NTTWhxdzBtTFNYWUUzWXJDOUMxWE84R3JTV0h2cHh3b2xKbEhOcHFVcHhWU0hUc2dmdXE4ZE5maHFjSzFuemhDeW5Wd2xjcl8tb1VWU09MNnlROEk?oc=5",
+      "published_date": "2000-02-24",
+      "source": "Honolulu Star-Advertiser",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "557e40e643298812f45ffeae0edcb8e285c9b902e809ec2f126c4b14bbbe7c80",
+  "feature_eligible": false
+}

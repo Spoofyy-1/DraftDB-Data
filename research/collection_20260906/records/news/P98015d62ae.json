@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T09:29:42.390208+00:00",
+  "lane": "news",
+  "pid": "P98015d62ae",
+  "draft_year": 2000,
+  "name": "Eduardo Najera",
+  "draft_date": "2000-06-28",
+  "status": "ok",
+  "query": "\"Eduardo Najera\" (draft OR scouting OR prospect OR basketball) after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Eduardo+Najera%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Eduardo Najera Named To Wooden Award Ballot - soonersports.com",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zM1A5Mm53ME5mS3BHcUtTTXR5SlNZd2J6ckRwNWdacGJfS2lpU3BmZG03NnZwOTIxdWI3ZUphdHhSMVdVcUF2MjdVM1llcGp3eG81LTZ0Y0kwVDhQ?oc=5",
+      "published_date": "2000-03-06",
+      "source": "soonersports.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Purdue Purdue/Oklahoma Oklahoma Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZRmt6SzRfXzRucGYxRjdxRW8xN1JLTlBQQ2ZfRGVEM3EtWUt6SzdOY0pUV1VuZTNaQTVQZFRTdFhRVFVVUFlvbkdvREVaTGtYMnNjY0FESTBLV0tHVlRQc0xwNWhjNDg?oc=5",
+      "published_date": "2000-03-18",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Kansas State Kansas St/Oklahoma Oklahoma Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUaHE5STNwaURTZjVBQ1BGZUtqYTQ1dlFKb0x6cUtKVU0xR0FlX0pQcGpteXFlYjR6ZldHLXhBUzJmcmFSZkhyTVdJQ2ZKcW9qdm9abnh1WUR3MEpfRnk4dUloOXJfX2s?oc=5",
+      "published_date": "2000-02-08",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Oklahoma wins a 3-for-all - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hazZsalA5SGNmcHg1Q2lNWE5lbEUtNmFNV1VTNjg3QTI3eXdZTFRraDU4V3JiQlBuM3dOb1FFYzZFaWZLM29nQWFVeTVzTXl2aDAxcG50SHJ3NzRVOGh3V0tvel91Y3M?oc=5",
+      "published_date": "2000-03-16",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "129a2235e6a0e266a3ccf935e46a93a995d7a703f2677d3645a0b25e835f326d",
+  "feature_eligible": false
+}

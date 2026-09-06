@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:33:41.142227+00:00",
+  "lane": "news",
+  "pid": "Pbd83a701c7",
+  "draft_year": 2001,
+  "name": "Charlie Bell",
+  "draft_date": "2001-06-27",
+  "status": "ok",
+  "query": "\"Charlie Bell\" (draft OR scouting OR prospect OR basketball) after:2000-07-01 before:2001-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Charlie+Bell%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2000-07-01+before%3A2001-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Men's College Basketball - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVQnYxUEp1VVJteUxiRDJZbzJNNGFBcVhMaGdJYkZjd2FCRnJvdENkb2p5R2x6azJKWGtfN0tXVmFWbUJmLU9mYnBSX1lQS0RYNkVrUHRDRzktSDhERm1xX3ZzLVZjc00?oc=5",
+      "published_date": "2000-12-30",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Men's College Basketball - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KSHFnUlFYdTlvRDI0Q2FWenpsY3hsR2xOdWhEMXhTejlJVFhadC16NEdwby1hck1GazQxdlRUQi1Eb0R0ZFBocXBRV09Ub2xQWWY4TlpQWFlrWmdzWDFNdVNCTGRMQ2c?oc=5",
+      "published_date": "2001-01-13",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Men's College Basketball - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvczJsZ1VqZ19VVzhkNGhwSzdOeGtNcEZ4SWFIdldSbWZtMmNrREdWeXJzMXE5NFk4dkZBcnRvam9IekZ2R1lOS3BzRXhQVkVNcmJvam1yODVpVjl3NHlFNEVGUVFhTG8?oc=5",
+      "published_date": "2000-12-19",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "79afdb72cb370681059832e2390c4f5b63c58c4b617f55a6d4634399ecab8de6",
+  "feature_eligible": false
+}

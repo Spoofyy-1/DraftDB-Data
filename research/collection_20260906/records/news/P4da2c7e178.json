@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:32:11.740001+00:00",
+  "lane": "news",
+  "pid": "P4da2c7e178",
+  "draft_year": 2001,
+  "name": "Gerald Wallace",
+  "draft_date": "2001-06-27",
+  "status": "ok",
+  "query": "\"Gerald Wallace\" (draft OR scouting OR prospect OR basketball) after:2000-07-01 before:2001-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Gerald+Wallace%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2000-07-01+before%3A2001-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Wednesday, May 2, 2001 Austin's NBA value clear in SEC numbers - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GczIySVh1SFNnald0Z2xkMVc4VWVvSmo2Q215UUcyaV9qNng2eVpKOHlrdmJtWkN1QUtwVGswa3l3QWRZRkJZLW02WnJxUGpwdndiSmdCUlZlZ1EzbEE?oc=5",
+      "published_date": "2001-05-02",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Griffin makes the Hall stronger, and vice versa - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NOWhtOWtkYTVWSXFhVFFLQ3I4bFQ0TnE3RUtYak8yelZXQzJIX1hpT1kzb18xRGItLWxkVGkyYnNneC1hR2xBdTUyTUhTcmNZSHRHZ3J1UFZubHVy?oc=5",
+      "published_date": "2000-10-21",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Alabama built on more than just Hay(s) - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0tV1NyNGlLY3dNdktyRy1RWThRNk41djVJSm5PMGhENzZFd0s0STdUR0xLUGR5bko4RmtZdEpVOFh5b19vYU9OTGRjdDRwUzRjZHR3Y0xGZ0JyaU9C?oc=5",
+      "published_date": "2000-11-01",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "c20456faa118175c5fbae94313be2893e7628eea70757d067a2f3821b7a45fc7",
+  "feature_eligible": false
+}

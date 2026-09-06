@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:29:02.959797+00:00",
+  "lane": "news",
+  "pid": "P6c17983aad",
+  "draft_year": 2000,
+  "name": "Mike Smith",
+  "draft_date": "2000-06-28",
+  "status": "ok",
+  "query": "\"Mike Smith\" (draft OR scouting OR prospect OR basketball) after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Mike+Smith%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Sabres Get Gilmour, Gratton - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yQ0QzaHA2UVozQjhLdlBqX3FmcFZMM1FVZUhQQktsMi1oV25QY3FKS3Q1bldqX1dFXzdrcmVDekdCdVZfM3pieHpKa2l1MUlxZURhdjRQTWVNNnpma1gwRV9JSGt0SlE?oc=5",
+      "published_date": "2000-03-10",
+      "source": "CBS News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "19af4fa92e8126265e2dae35bd4fd19316fa272f5c1a8cc80ba9d6afb686af2e",
+  "feature_eligible": false
+}

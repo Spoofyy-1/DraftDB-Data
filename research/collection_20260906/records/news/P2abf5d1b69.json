@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T09:35:07.517435+00:00",
+  "lane": "news",
+  "pid": "P2abf5d1b69",
+  "draft_year": 2002,
+  "name": "Carlos Boozer",
+  "draft_date": "2002-06-26",
+  "status": "ok",
+  "query": "\"Carlos Boozer\" (draft OR scouting OR prospect OR basketball) after:2001-07-01 before:2002-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Carlos+Boozer%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2001-07-01+before%3A2002-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Tar Heels Lose To No. 3 Duke, 93-68 - University of North Carolina Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JeVk3ZTZ4M21idWtPZlRsNUhRZXF5d2JNQVpObTdQem0tLTBaQlV6bUpBTFlLLXFpZlo5U05UWUh5R3N6QVRLUlVLQWt3UmR2Y1JpVml3?oc=5",
+      "published_date": "2002-03-03",
+      "source": "University of North Carolina Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jeffries\\' decision expected on Monday - The Herald-Times",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc0tIbFZCcDFWcnd5V29fakFCdThta0huRlNkaTkzMWJMVkxoZ2xLdDJBZDdvN05PMWd1eGJHWlotVm1QV1NYbmVRcHdYMEx3ZlZoTWNvclVFYjZISXJwMkd6V0hjWU82d19kRVdoSnZ5cWZ1NHdESGtoS1ZjWFRaSFZ5Rm9mNTFJY3hyQU5jX2N5SmZSNEEwSUFKNFRENTdqTk9OWg?oc=5",
+      "published_date": "2002-04-04",
+      "source": "The Herald-Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Indiana 74, Duke 73 - upi.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16cDc0RmdBSl9IVVZwSWF6QWNMdDdaejg4QWFpcVlyMk91TWZ2ZlVuTk93NkE4OGFZNkpoZFkzR0ZFemN5dWlWNmtSa3RMX0lrWDZGRGNEY1A0V2V0UDNydGFac0l2S2dyQ25GRk11a25EVGlWUWl1Q2tOZzZhd9IBgwFBVV95cUxPWDRHZHc0ZTJqbTRYb0I4MjBxNnlqSE9acUhBYXBfWndKdDZNRWxNejB2cVpGZG5hbWd2MnlwcGtnT2VmVmxiLXJEV0tNUGVJSS0weTg0bmxHWFkyS0R3ZGZrZTVaWkVaOXRsbmNyZFRwN0trcXRiU0MtV0JtcHJ6RlZhOA?oc=5",
+      "published_date": "2002-03-21",
+      "source": "upi.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Christie Named ACC Rookie Of The Week - Clemson University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb1dVRDJlUVBzVERfU0R3WV8xajBPcURodUpEa2ppeUNwRGt2Z3REbmROSlR5M1NQeVJZOUZubXBqV2Zwb3paTl9YSGJBM1dfekxmSkVBTldsNkRtcWlwS3lMVEprbTNLRGlnLVFQVU5zRFRaRVhYMVV2TjF4Ym9vTlZ0RXZudw?oc=5",
+      "published_date": "2001-12-03",
+      "source": "Clemson University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Honolulu Star-Bulletin Sports - Honolulu Star-Advertiser",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lRlhjUVBiakJRWllLVHBjbUE1ZGVDYm1ZZUhhV2dtVG5RVUcwdV9yaHhBV0tUV2x0Y0Rha3BhSVl6ODJFTzZFLUhhbzEtVURpczFvbGpCMWZwbnFnbDU3V0I5YXlpWm0zcGF2UzhlQ0E?oc=5",
+      "published_date": "2001-12-14",
+      "source": "Honolulu Star-Advertiser",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "3f7f8fafd5962076016601f22fbb19bd73fa37cd6af78a6e65f9abb29cb871d0",
+  "feature_eligible": false
+}

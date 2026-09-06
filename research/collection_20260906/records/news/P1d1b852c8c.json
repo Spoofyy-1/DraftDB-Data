@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:27:50.179710+00:00",
+  "lane": "news",
+  "pid": "P1d1b852c8c",
+  "draft_year": 2000,
+  "name": "Eddie House",
+  "draft_date": "2000-06-28",
+  "status": "ok",
+  "query": "\"Eddie House\" (draft OR scouting OR prospect OR basketball) after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Eddie+House%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Brian Scalabrine Named To 1999-2000 All-Pac-10 Team - USC Athletics",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR0JtTmNkTGhadEJObXhYLWlVVTJTTVFZZ0NSaWE0QUVucUdCdkVzWVUxdFg0dmEyUnFDRE83SldtQ1IzVk1mWi1kV2ROSTNhc3NNYjY4OHVveWRLenV0T05zOF9QNzZjVlRWYk85OXpVTnBaZ0ZUNzBRYmJpSDAwVkd2QUVnSm9XMU5JejZaQkYza00?oc=5",
+      "published_date": "2000-03-12",
+      "source": "USC Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "78923e1b868246f8a0118f78460e2191ae93eecab827c5dd155321be677b3b98",
+  "feature_eligible": false
+}

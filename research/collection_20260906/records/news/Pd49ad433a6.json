@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T09:30:32.186165+00:00",
+  "lane": "news",
+  "pid": "Pd49ad433a6",
+  "draft_year": 2000,
+  "name": "Sean Colson",
+  "draft_date": "2000-06-28",
+  "status": "empty",
+  "query": "\"Sean Colson\" (draft OR scouting OR prospect OR basketball) after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Sean+Colson%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "87cf3eacd435f51b4bc27b0ca7e6eac0b4d81781b7ea2c674aa911e1b1437d34",
+  "feature_eligible": false
+}

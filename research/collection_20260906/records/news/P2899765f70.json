@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:28:13.321909+00:00",
+  "lane": "news",
+  "pid": "P2899765f70",
+  "draft_year": 2000,
+  "name": "Terrance Roberson",
+  "draft_date": "2000-06-28",
+  "status": "ok",
+  "query": "\"Terrance Roberson\" (draft OR scouting OR prospect OR basketball) after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Terrance+Roberson%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Bryant's 21 leads Wisconsin - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Vc0NaZXpRdTc5ZXdubWZILXlSZ0p3d3REOU5PVHJUZ1lMVmpiT0czc3R4WVFyZEN4QjNrZmNCWER1Y1Y5dWR1elZ2TURibi11ZHNLZjZxZU9SLWZ3YmNnRXNoWUtONDQ?oc=5",
+      "published_date": "2000-03-16",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "b4f3d158253c4c69c8d0c6311d92a881a16559ecec44af4dbd2c55136ea0960c",
+  "feature_eligible": false
+}

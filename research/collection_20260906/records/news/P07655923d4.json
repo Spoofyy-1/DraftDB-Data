@@ -1,0 +1,64 @@
+{
+  "collected_at": "2026-09-06T09:31:18.700573+00:00",
+  "lane": "news",
+  "pid": "P07655923d4",
+  "draft_year": 2001,
+  "name": "Gilbert Arenas",
+  "draft_date": "2001-06-27",
+  "status": "ok",
+  "query": "\"Gilbert Arenas\" (draft OR scouting OR prospect OR basketball) after:2000-07-01 before:2001-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Gilbert+Arenas%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2000-07-01+before%3A2001-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Men's College Basketball - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xN0F2UmpsV3J6dk1lYUdTdTFYT2FpeGJTeFh1bmJvRkhOQWRuYTI0bXMzYVFtaE1VWm1fXzYyb1RFS00xOEVKTy1YbXFVWnIwTTZlSTNVRjk1UUpiUTBpREx4b3k1UHc?oc=5",
+      "published_date": "2000-12-20",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Arizona rolls past host Chaminade - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9McEN2N3RMczkzRG1UZG96VzJsejdzX3I0UHB3YTNpQ21rVWRwSDZIRm5iTU9IVTV1am9jTWEzVEtVb3dHZS1MTEFYU2s5ckloNVJOcXFzYWJ3Rkc1bWpoMk5FU1N0VXM?oc=5",
+      "published_date": "2000-11-20",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Arizona advances to third Maui final - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TTThHN3A0Z1A5VGJCaExTVWxmTGRTU3JKdmFxSlB5YS1ta0FiU1J6R3NfeURnVDdLQ3JvWmpRcnBGTVlrbEhDMmoydHZfWEt0MDVXbkk2bDRUb2xFd3JaMVI4ZmhVZFk?oc=5",
+      "published_date": "2000-11-21",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft 2001 - Lottery thickens draft outlook - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OT1VXWHRNTUJNVzVPRDVYcGVaVmtYTzF3ckRBYXQ0XzNOTHlKNnUwMHRrOFdhbGM1U3MzbVpSY1RRekxMN09RcGJNaDBhRFRxU2R2dk1lZWR5NlpnTEpLMDJxUkFJdnFSZTNR?oc=5",
+      "published_date": "2001-05-21",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Wildcats holds off wild Illinois rally - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtbHcwY3p5SkRURUhobHhWYTZoSUtsVWM5RUFPRy1NRmNTRmk3S0dYU1ZfazRCeXFFR1BzS01SX2dGRmhvTEF0WC1OYmpYQkx6UG1hOTNlRjNpMkxpdWItdVFQclNJdGM?oc=5",
+      "published_date": "2000-11-22",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "UConn rallies past Arizona - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtYzM5NUNkOE5lSlU4MWRwa0xWWDlDTGpkaDZYNG1ZXzNneDdQWV9SZWhUWHNwMXJ6M0NEb1NSTmNYZE9VY2lfMUdvcG1QUFNsRWYwR29MMGZqV3FFNEJWSk1iVEthWWM?oc=5",
+      "published_date": "2000-12-09",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "d601c52c3bac75cbe9435faf7bb36165c684dfebeeae6f3bd0b60e875619cc7e",
+  "feature_eligible": false
+}

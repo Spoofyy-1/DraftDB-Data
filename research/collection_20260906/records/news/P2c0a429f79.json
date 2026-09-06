@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:31:48.791750+00:00",
+  "lane": "news",
+  "pid": "P2c0a429f79",
+  "draft_year": 2001,
+  "name": "Joe Crispin",
+  "draft_date": "2001-06-27",
+  "status": "ok",
+  "query": "\"Joe Crispin\" (draft OR scouting OR prospect OR basketball) after:2000-07-01 before:2001-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Joe+Crispin%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2000-07-01+before%3A2001-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Jon Crispin hopes to prove a missed opportunity to Kentucky - The Daily Collegian",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeHNNbHlKUVluZEcyQ092R1c0TWtCMl9maV9QN0lIOUZBbjhfaEQ0OFAxS2M0MGF4WWt4NWVKalBEd1hNeWZ2bU1kTG9YYk56bUJvWms5OXU3ZFlZcWdyczhxYjhCYTZTUzJwZTltXzF2SXBNOVFqNWZXYnMtdGQyMnd5Y1hiMkZYczBtNUZTZGU5TFpCd0FhcXAwNnpNS3VFSnhLUjdzSVhFWHVjSlJuV1ByQ0dmVGY5dnBSOVZGZE52dDNVY0s4VUlBZTczekhkalROaEFZT0o2NEJOeHF6SA?oc=5",
+      "published_date": "2000-11-21",
+      "source": "The Daily Collegian",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Penn State Knocks UNC Out Of NCAA Tourney - University of North Carolina Athletics - University of North Carolina Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5faURGYnB3MThBQldaQ3FpZjhGYUFHc0hoSGtVUG15enplSjRIWV90aG9vZF9IQ29QSXI2alIyZUV6Q2IxWlJSUG1fZ0VaUVgxNWNuREJQMA?oc=5",
+      "published_date": "2001-03-18",
+      "source": "University of North Carolina Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "3fb8457d7749f1d17a945749f853a699af4c48e04a82c4d22e61748854faf502",
+  "feature_eligible": false
+}

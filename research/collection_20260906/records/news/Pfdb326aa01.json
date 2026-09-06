@@ -1,0 +1,64 @@
+{
+  "collected_at": "2026-09-06T09:31:11.974052+00:00",
+  "lane": "news",
+  "pid": "Pfdb326aa01",
+  "draft_year": 2000,
+  "name": "Brian Cardinal",
+  "draft_date": "2000-06-28",
+  "status": "ok",
+  "query": "\"Brian Cardinal\" (draft OR scouting OR prospect OR basketball) after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Brian+Cardinal%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Cardinal, Cornell power Purdue - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kOTBFclpWVVg4NllSM0VuNGlKdGpxN0stdmJwYkxXemYtcW52dW44bmZMRWVWTm1Kb3NaRmwyMTRVdG5nc2VLOTNWbGNqbVFYQVl3eG02cmpKb2sya3hLNDhHLWVWSzQ?oc=5",
+      "published_date": "2000-03-16",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "No. 21 Men's Hoops Powers Past Penn State, 88-71 - Purdue Boilermakers",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSzlLVHhlLWRFSkFBczFhaXJxZTNUNGh6d2JNOHVkQmRyWG9jTFlyMnY2U3Z1RmUwVUhTTnpmUHZORG5wLUhTajNzQURITUJTVTNnb1h3cEprakNnazhTd3NFeHlmX211eFhLc2g3S0JWQ2ppZjlaY1NJQk0tbGQ0dHpiU0tGLTBhVFJCdlViYw?oc=5",
+      "published_date": "2000-02-27",
+      "source": "Purdue Boilermakers",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Wisconsin advances to Big Ten semis - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzZFBxWVc5SkJTOXVrY191NGloQWQ0TmRGV01ESTVMODZoRHdJOVo5dFpLdWdLVktBUnQydEpKMTRJamxWYzVWNWw1aGliTENpdVpfZ1ZlUGJZMi1fSWtqR2xVckdBTlk?oc=5",
+      "published_date": "2000-03-10",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Defense, rebounding powers Purdue - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fTVlyZDdWR28wTGtTM09ZQUVmTDdXQ1pBbW5pNlMwS3hzdG1pOXlaZUFWS3duUUptd1ZoLUpIUWxyaXJxc2hYQktPUl91MGJwbTNDMkNKZWwyX2Y3Uldzdkh3UEFKMmc?oc=5",
+      "published_date": "2000-03-23",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Purdue Purdue/Indiana Indiana Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05Q3FVbWlKRU5EckVaODQxNHdOS3NZbjdiaDRYaWtJLWdKU1lENGJtM3J6RXZ3SXNNT0twR0F5ZTBuNVgxc3I3MERDSnJobm5nZnZ2MjdCQW5BWUIyODJ5TXQxc2E3MzA?oc=5",
+      "published_date": "2000-02-29",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Purdue Purdue/Oklahoma Oklahoma Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZRmt6SzRfXzRucGYxRjdxRW8xN1JLTlBQQ2ZfRGVEM3EtWUt6SzdOY0pUV1VuZTNaQTVQZFRTdFhRVFVVUFlvbkdvREVaTGtYMnNjY0FESTBLV0tHVlRQc0xwNWhjNDg?oc=5",
+      "published_date": "2000-03-18",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "88d344f5b710bb74df979eb77f515d4b6600b3582bdb9d81fdb77a6ad2312355",
+  "feature_eligible": false
+}

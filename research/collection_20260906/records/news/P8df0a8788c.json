@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:29:35.842153+00:00",
+  "lane": "news",
+  "pid": "P8df0a8788c",
+  "draft_year": 2000,
+  "name": "Donnell Harvey",
+  "draft_date": "2000-06-28",
+  "status": "ok",
+  "query": "\"Donnell Harvey\" (draft OR scouting OR prospect OR basketball) after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Donnell+Harvey%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Florida Florida/Mississippi Mississippi Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ISVJuZnVlQmgyMktjQmtXaFhsRTJ3a25wVXVqN0djOG9lTl9RUjJSem1aVE9vVTdiS2VrU1pTTmFXNnlHZ0RYbmlvS0xJbms1Tjc5blBVX1dJbXhDTzVsXzRJckFEX2M?oc=5",
+      "published_date": "2000-01-08",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "4c23232c3211f35913d748c237d2669764c8f8ccf0d57074acafb9fd016c0bae",
+  "feature_eligible": false
+}

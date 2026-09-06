@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:34:07.771663+00:00",
+  "lane": "news",
+  "pid": "Pd3b6bf6d79",
+  "draft_year": 2001,
+  "name": "Will Solomon",
+  "draft_date": "2001-06-27",
+  "status": "ok",
+  "query": "\"Will Solomon\" (draft OR scouting OR prospect OR basketball) after:2000-07-01 before:2001-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Will+Solomon%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2000-07-01+before%3A2001-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Tigers Lose Close Call To Seton Hall, 79-78 - Clemson University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdVhRNkRzc19XS196bGhPZ08xbG5kV0x2cDlWU2N6TnpLNkZXRHdzbjhEMjVqb0JSX0EtWXBTd2hERzIyaS1obklkSzdUNml2SXIyb1l3TTZiSzh3dkp3NU5lVDk0Q0lweG1MYlBMbGZEZ2Y2X1NGNF9fM1NBclpYVnJRTU12R1BKNlZueQ?oc=5",
+      "published_date": "2000-11-21",
+      "source": "Clemson University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Clemson Men\u2019s Hoops Falls To South Carolina 76-64 - Clemson University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS2NxQjZVR1R3N19KdGUwZksyYlRhRUdQV18xRl9sUFJIek5yNnNWSDJWOGVycW5kWVFWLUpjUFZQRjJEaXFKMGF2Qm5OMlF6T3h1d3VLY19lTXlYclNYNUwtRVdBUzRCRTgyOHR5RUhIYTFSckVIV2YydUV3VUZVT3VZOGluWnBrN3ZoOGMwUE5wcUtp?oc=5",
+      "published_date": "2000-12-09",
+      "source": "Clemson University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "4e54e645ada68ed5504ba5403af7f523a849532a13d6f1f7100de9dab5294839",
+  "feature_eligible": false
+}

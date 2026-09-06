@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T09:28:49.765625+00:00",
+  "lane": "news",
+  "pid": "P5ea8063b82",
+  "draft_year": 2000,
+  "name": "Jamaal Magloire",
+  "draft_date": "2000-06-28",
+  "status": "ok",
+  "query": "\"Jamaal Magloire\" (draft OR scouting OR prospect OR basketball) after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Jamaal+Magloire%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Kentucky stops Vanderbilt in OT - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RQW5nUktIMkZJZGtuMW1hMU1GYU0xNGJ2NW5DSXhINW1hcGI5V1I4NEkyeU5JQVdHSmVJSFB0UEtSY1UyR1VxdmkzV2t4Y2c1SVpqVm80Mk1fM0RSV2tmZENibWVlYlk?oc=5",
+      "published_date": "2000-01-22",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Kentucky Too Much for Men\u2019s Hoopsters - Georgia Tech Yellow Jackets",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZkl2MnlUdEM5bklmMS1uYk80Y2xLa0Nlc3pUbWhtakJJcm5fMGNxYkVwREtkeEJyS3FKQkt6WlIyQWtoRThVSXRLSTl5SlhOaDhJN0xLdE04VF9RejAtVVRHME1RdndzREJvTmZPeXdFcl90MTJrWFpMOE9IR3prWWFMaw?oc=5",
+      "published_date": "2000-01-05",
+      "source": "Georgia Tech Yellow Jackets",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Kentucky Kentucky/Mississippi State Miss. St Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyTjNncl9taWt0XzNINFFRdWlJTHZvQjc3NG4xY2FrYnBNM0NQSVY3a29pYVUxYXNzaU5hdmVCd0ZDQVdNN01ZbDZsNGJDYVRvUGNrOWc4a2NRRXl0cGFOb1cwZC1NNWc?oc=5",
+      "published_date": "2000-02-29",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Kentucky Kentucky/Auburn Auburn Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wLWlwZmF6VHFoMWVlVHhWcmg1bHJic3JrSVB3TGNEazlGTi1sZ3JlSTcwM09MT0d6V2RwYlJOUWJHSTgwVjdNQkFLRG9GdEpPVnhXQzkyRDFSeFY1TGgxZ04wR2piSTQ?oc=5",
+      "published_date": "2000-01-11",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "844a57af7f9e1ac2766e53e0c8ec7a42e6229845fea4c7eff88ff339cfae8f37",
+  "feature_eligible": false
+}

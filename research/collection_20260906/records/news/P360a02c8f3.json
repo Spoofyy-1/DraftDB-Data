@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T09:28:20.161049+00:00",
+  "lane": "news",
+  "pid": "P360a02c8f3",
+  "draft_year": 2000,
+  "name": "Morris Peterson",
+  "draft_date": "2000-06-28",
+  "status": "ok",
+  "query": "\"Morris Peterson\" (draft OR scouting OR prospect OR basketball) after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Morris+Peterson%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Michigan State closes with 23-5 run - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05TFczYWprTFhlRkNVNzFGNFBFUkxOck5VMU5GY0N4dGxBZ1IzaWN6bXdITkhJVHd2QWlqZHJaU05RdjNXQnR6QzdrenJleXBPUVNwS0RhdVAwTDh5NGJUaGRCNmpaT3M?oc=5",
+      "published_date": "2000-03-25",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Michigan State rolls past Florida to win 2nd title - Lakeland Ledger",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUm95aXBqeHoyRW5USkJHWS1lV2xmbWp0cmJiUHR3SnpQYXhJTkkzdHUyaF9GbTlkQlFNdXVOb3ktdF9ORGIwaGFjSi1kdFVZOTdOT2dnZWw2dkdlbWdDTHpORjFESmhtR1E4VHlNR3VNdWlIXzJJeVVmWUx0Z05nTS1wd05qa0VEMTR3MExZOWFuN3I1akhZMDlKWjlMSkNYVlg4YVN2d1VFdkFlbEU5ZA?oc=5",
+      "published_date": "2000-04-04",
+      "source": "Lakeland Ledger",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Spartans overwhelm Valparaiso - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ldXpUcjdKVVpPdmd1TEdKTkJ0QUdUY25VQTdmMDVsdGVvTlNyMEcxT295Y1ZXMGFmX3BuS2VuY19ZV0FlcnByR1lhd2s3YzYwNl8wSlFhVXNsc3BFQ3FMeHF2MkNYWDQ?oc=5",
+      "published_date": "2000-03-16",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Michigan State Michigan St/Ohio State Ohio State Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QNkg5SDJmbFlwT21wdm85REo3ZUZBOHA3VXgwQ0VfY3REbGp3blJTT2pCMUh2WUUwaHVFLVJULUs5YjR1cmdQOVVveHRuVXRhQmlONzlOWmJ0UnJ6OUI2YWRGVzJRRHc?oc=5",
+      "published_date": "2000-01-20",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Florida Florida/Michigan State Michigan St Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SUEZhM0dUUHZtV0J2VlE0eVlXRXpyZmI1UGJELXdiNkVwSkJyUkVmWnVNQ2xfZ2ZaQUhINVpyYklZZzVvNDI5VFo0QVRWdVpON3hVNWswTW5oWk5FVmh0WW5zQ2JRM0E?oc=5",
+      "published_date": "2000-04-03",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "c86607a75185669a1874739503bb01333b3bbacbdfcfd6fc209e3fc14452dfb7",
+  "feature_eligible": false
+}

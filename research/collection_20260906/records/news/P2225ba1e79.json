@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T09:28:03.299594+00:00",
+  "lane": "news",
+  "pid": "P2225ba1e79",
+  "draft_year": 2000,
+  "name": "Jerome Moiso",
+  "draft_date": "2000-06-28",
+  "status": "ok",
+  "query": "\"Jerome Moiso\" (draft OR scouting OR prospect OR basketball) after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Jerome+Moiso%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "College Basketball - Kapono can still pull name out of draft - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mM2EyNURqX1ctRDhWc1diV3RadnB5VDUtdy1tZkxjbWdSYnVwS0pNbHpBOTZOMHdzdWdGTWRZVEJmVXBHUm5FZjFTNk8tX284OVZOempGN0I4c3k0SHpTVA?oc=5",
+      "published_date": "2000-05-13",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "UCLA UCLA/Iowa State Iowa State Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyWkJqRUNxT3hiOHFNMEtSTWRYRVpwZ1ZtbDgyQ1RDS19heEVWUnpHbjhaRHh2Z2ZNdFdZeTVqZThrZFh6TXRsaDdoaFprQ3FuZDdMb3hkT29hTzUwUDg4dFlvLXRqNlk?oc=5",
+      "published_date": "2000-03-23",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Syracuse slips past UCLA to halt losing streak - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vVW1QdUVXXzZDeTV6RXhCNTFQTTlObzgxZUo4T1hhNnE4V05LZWU2UDBsWTZvanQxXzY0c1pMbDJneWpFNFdUeHVORVRVU3ctNDhrYTRHQl9qWkdpdEY2MlBVdG5GLVk?oc=5",
+      "published_date": "2000-02-13",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "UCLA UCLA/Stanford Stanford Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXTkdzSVNiYk02V0ZSQVlWUEs4SUcySnQzdkpVellmRmpBaTByNG9BR2U3dmtNdHdSVzhfdTB2YjFKRk9tMllxckdQa2dJbXYzdXR5SEUzQnpFem4wRGphdEtsVjltQnM?oc=5",
+      "published_date": "2000-03-04",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "e1fa4b653127390d417ea333dcdc383907268838b8c20a224a68e0e2459fe574",
+  "feature_eligible": false
+}

@@ -1,0 +1,64 @@
+{
+  "collected_at": "2026-09-06T09:32:21.654959+00:00",
+  "lane": "news",
+  "pid": "P563df84956",
+  "draft_year": 2001,
+  "name": "Kirk Haston",
+  "draft_date": "2001-06-27",
+  "status": "ok",
+  "query": "\"Kirk Haston\" (draft OR scouting OR prospect OR basketball) after:2000-07-01 before:2001-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Kirk+Haston%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2000-07-01+before%3A2001-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Men's College Basketball - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1Q01wLVExdWowUkw1dVhneVJpNlFwWFlHLS1BZmdxdlRuNzhxMGlURFVFRWZjOUs5SW1NNV9XaHYzWlJNSnJxVWFaa0RZQ29DZk1kVl9rTUFmaUxZWHZVc0NYa3JCY0U?oc=5",
+      "published_date": "2001-03-10",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "No. 4 Illinois Hounds Hoosiers, 67-61 - University of Illinois Athletics",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaHV4dnBEU0dTV1A0VEtjWV8xODlhVVVNOGEyWVhDLW50R3FxX2dtU3lfekVoNy1DYUhybkZQQUVQbmhMUVFEMFhCTXJUVzZ2RGxmZXlhY2ZoMVN1VlR2OGlyalVRMjFNYTNVUTBZMWw3UmxwMHJmeGlTNFdIQU9qb1FMMA?oc=5",
+      "published_date": "2001-02-17",
+      "source": "University of Illinois Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bailey still part of Hoosier lore - The Herald-Times",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONFIzZGtDcms1amhiaTV2VjRCdDJrb2puVk5vaUhVX2lHQzRQWDlIUUgzSUFPV1pWSFNNemswb1dDRFltSkpIU0VzSFV4OTA1S1U1WTV1SUtLU2wyODF1aG0zRFJDUE1sNnpNYnhEazR2ZXFVRlZwUmlVYzl2U0o4WDB1aUVaUVhVVVN0dl9oeURmWWx5SE1lQ2xQaHlsTnUw?oc=5",
+      "published_date": "2001-02-26",
+      "source": "The Herald-Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "College Basketball - Fife leaving IU; others could follow - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TTkVNbzFacnBtUWx4ZUMtbGZ1Qkc5d2sxMGRIY3lYbnV0SjZQbm9tN3JjZWx5djBWWTdtTTRrVTYwRGtILWxxRkZqUFNnV1FMZFRyZk5Vd0RXLWlwQkRqRw?oc=5",
+      "published_date": "2000-09-12",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Men's College Basketball - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iRG1SUDBsbTM1LTQ4RTFYQnJ2ckZiSkJ0OEVZZ0NwUHlpR1YtclJWOXYyTlN4N2FjeVR2NFEtb3ZENTN2VGI3cm5Yb0lQOGo1SkhUdTFldTNGdGY2cXFyN1BJYW0wNVU?oc=5",
+      "published_date": "2001-03-11",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "College Basketball - Hoosiers elevate assistant to interim coach - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1S3RQR24yanRVLVZPTnhjeEpaZ1pNa2ttUDdZMjlsaXJfbUxFUFpzSFBRekVzc1RPUlFjLS1VcHJwSTY0OVNxSnp0NEIycFhEdm4wa1o3dTJYWnd0UmNXUQ?oc=5",
+      "published_date": "2000-09-14",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "73486e741ad495485be5aa315ccb36cea29e62a01bb76270d1e46b1b7cf5cbc6",
+  "feature_eligible": false
+}

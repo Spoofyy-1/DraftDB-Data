@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T09:32:34.774211+00:00",
+  "lane": "news",
+  "pid": "P6d3c0c239e",
+  "draft_year": 2001,
+  "name": "Bobby Simmons",
+  "draft_date": "2001-06-27",
+  "status": "ok",
+  "query": "\"Bobby Simmons\" (draft OR scouting OR prospect OR basketball) after:2000-07-01 before:2001-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Bobby+Simmons%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2000-07-01+before%3A2001-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Bobby Simmons To Declare For NBA Draft - depaulbluedemons.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOUJhRTY1ZFZHb3Y0ZnkyMk5VdkM4ckxvX2lzNFRTc2lGUHlOSUhGQmRWRUp2X2ZKUW9sUGpfVk9tYnYwTXpHUUxqZjJveHZLUC1lQUhST3p6b0tBYVRoSEZZZGJzTnZsYmJJbi1ISDdFbTNBZVpEbl92eUpJZ2JOTHk3X3Q0ZUl2SVE?oc=5",
+      "published_date": "2001-04-12",
+      "source": "depaulbluedemons.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Men's Basketball Edges Out DePaul, 72-68 - University of Memphis Athletics",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWVNIZzV0dFZ1SHBrWml2OTJGbWNBNVYybUs5WGltMVZIdTZkajVTOHYyTGhrRTRDd2l3U1J4NmdXU1ZtRzF3NHEtQXVDcHNYS0pYM1ZSVTN6VG5DTUoxNlJna19kYVZ5UVFNUFQxMDZoWUFFNnRsY3pBRVN2bzVSdlduOA?oc=5",
+      "published_date": "2001-01-13",
+      "source": "University of Memphis Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Men's Basketball Downs DePaul - gocards.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpOFB0S3hZZnhfRV9zOHU1aGsyRW03QjlxeG9ncTRHeERRNjJTUHJGQXBfdjlUNUJFQXV2SV82X0RQSnYxM29LWU1xeDRrMWxYaHVlNlg5dHhvZFFFdnpmelFFVjU0LUZrQUlVcV9hVTAwUQ?oc=5",
+      "published_date": "2001-01-27",
+      "source": "gocards.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Louisville Downs DePaul, 71-62 - gocards.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzZWR6dkdMV0g1NlFqWllsQWl4eFFCWk9Oc0lOTzUyLVExMU1DRkFwYkpFR2JwQkR4U3FEWlAyeTZPQlowcGR4dmQtazFtanZZS3hCLVlxRHI3cUNHN096dlUwNGFmM1hPQm1OVTc3cWRldw?oc=5",
+      "published_date": "2001-02-14",
+      "source": "gocards.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "84d01285e71d29aa31d9e3641c70f7e3ba3a193b73fdd06593665af55e8b0333",
+  "feature_eligible": false
+}

@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:33:51.412445+00:00",
+  "lane": "news",
+  "pid": "Pc5a3285209",
+  "draft_year": 2001,
+  "name": "Ruben Boumtje-Boumtje",
+  "draft_date": "2001-06-27",
+  "status": "ok",
+  "query": "\"Ruben Boumtje-Boumtje\" (draft OR scouting OR prospect OR basketball) after:2000-07-01 before:2001-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Ruben+Boumtje-Boumtje%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2000-07-01+before%3A2001-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Men's College Basketball - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SMTNyUldKcG13OVQySEZDZnZYZDRPRlZZMjM2TWZzX3ZrX1gwbUNxdlg5WjRNSzNmMjM5emloX050UWN4RjZDbFJnM1FOdmcwU3k3b0kyZVFacnBVejM3QlphWUg0QWc?oc=5",
+      "published_date": "2001-01-20",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Boumtje powers Georgetown - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zUDFEMjlkQk5rY0dpcl8tbmZXdUhSNjRsZWhyclB0dmhhb2pjamxxMXR0TXJWNkVhRWxsT2lZTG80NDZ2c1ZaM0tvT3cxMHRDZmJfWURlQkdIc2ZYeGNxSDlGTU5EV1E?oc=5",
+      "published_date": "2000-12-16",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "6df9faa91b6a677fcf95099355d0f629f176c7fb1bbc8b958f9b3a029e7d4c7c",
+  "feature_eligible": false
+}

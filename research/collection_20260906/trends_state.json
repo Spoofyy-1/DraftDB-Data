@@ -1,0 +1,12 @@
+{
+  "status": "backoff",
+  "updated": 1788687119.203964,
+  "attempted": 273,
+  "existing": 282,
+  "total": 2560,
+  "counts": {
+    "unavailable_before_2004": 267,
+    "ok": 1,
+    "error": 5
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "variants": [
+    {
+      "id": "noscout_reference",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": []
+    },
+    {
+      "id": "scout_removed_from_coverage",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_"
+      ]
+    },
+    {
+      "id": "no_scout_medical",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_",
+        "med_"
+      ]
+    },
+    {
+      "id": "no_scout_percentiles_projection",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_",
+        "col_bpm_pct_",
+        "col_usg_pct_",
+        "col_ts_pct_",
+        "col_ast_pct_",
+        "col_stl_pct_",
+        "col_blk_pct_",
+        "col_orb_pct_",
+        "col_shot_proj_"
+      ]
+    },
+    {
+      "id": "no_scout_game_logs",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_",
+        "col_gl_"
+      ]
+    },
+    {
+      "id": "no_scout_college_impact",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_",
+        "col_impact",
+        "col_value",
+        "col_ortg",
+        "col_drtg",
+        "col_adj_",
+        "col_z_"
+      ]
+    },
+    {
+      "id": "no_scout_highschool",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_",
+        "hs_"
+      ]
+    },
+    {
+      "id": "no_scout_listed_size",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_",
+        "bio_height",
+        "bio_weight",
+        "bio_bmi"
+      ]
+    },
+    {
+      "id": "no_scout_nominal_maturity",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_"
+      ],
+      "mature": true
+    },
+    {
+      "id": "no_scout_window2010",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_"
+      ],
+      "window": 2010
+    },
+    {
+      "id": "no_scout_uniform_war",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_"
+      ],
+      "hw": "uniform"
+    },
+    {
+      "id": "no_scout_skill",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": "ctx_skill_",
+      "drop": [
+        "scout_"
+      ]
+    }
+  ],
+  "folds": [
+    2012,
+    2013,
+    2014
+  ],
+  "weights": {
+    "rich": [
+      0.0,
+      0.75,
+      0.25
+    ],
+    "thin": [
+      0.5,
+      0.0,
+      0.5
+    ]
+  },
+  "purpose": "Fixed incumbent data-removal and label-maturity diagnostics; development only",
+  "no_confirmation_or_test_scoring": true,
+  "created": 1788682894.6795592
+}

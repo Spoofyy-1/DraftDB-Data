@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:31:05.400809+00:00",
+  "lane": "news",
+  "pid": "Pf596e595fa",
+  "draft_year": 2000,
+  "name": "Keyon Dooling",
+  "draft_date": "2000-06-28",
+  "status": "ok",
+  "query": "\"Keyon Dooling\" (draft OR scouting OR prospect OR basketball) after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Keyon+Dooling%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Keyon Dooling Declares for NBA Draft - mutigers.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YZHlGQTdEWmpBSnlkTzZ2VHMxTElaOWt3M0xoRnRZV2l4Zl82YTk2NVFnX0pKOU9DMEhHZGY0MGpsbElMbjhTZWU1MkRmaEVWZk9lLVFpbzVqRVlzNEpmV0VJM0l1LWJVSHlYMlFMUDBsWFhITHYyMnlBeVZodw?oc=5",
+      "published_date": "2000-04-21",
+      "source": "mutigers.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "U.S. Edges Greece at Junior World Championships, 92-87 - Notre Dame Fighting Irish",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTm5XYVRPQ25vdXJIOFo1Q2Zyb2dmMC1lbkJEOGdPYnNjbUhmYkVuakJUMnFkZVZWOFJWeTR1WXpENTY3ZXZVNTZrcHFMdUg0T01TOHp3VU5jZWRWMnJackJVdUdWN3p5azF4di1aSmp3Q2xSOVVtZmJzSnVHajkzNDE0enZCSjRhS0F2UFJuWnZSWkxRb2xuNnJB?oc=5",
+      "published_date": "1999-07-17",
+      "source": "Notre Dame Fighting Irish",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Tigers Rush Through Kansas State - mutigers.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DRlZReWFKdXJiaUY3SmdSUm5ob05VUnlOQWVjTjNOR2t5UDdFNlJ6YUQtX2trUmp6NFYwTEZNdkYzSThISU1DVWlHUFZyTm52eU5nTnNqMVlFWjJGN1lhcFZvLWstajhBTkk4a2o2NkV6emhzWVdYVQ?oc=5",
+      "published_date": "2000-02-19",
+      "source": "mutigers.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "f55c8033b661a67f841f4d4bf38d1de462c0d1738a711895db2f6d452e8ab901",
+  "feature_eligible": false
+}

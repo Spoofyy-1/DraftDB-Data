@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:28:59.595044+00:00",
+  "lane": "news",
+  "pid": "P69d740b582",
+  "draft_year": 2000,
+  "name": "Hanno Mottola",
+  "draft_date": "2000-06-28",
+  "status": "ok",
+  "query": "\"Hanno Mottola\" (draft OR scouting OR prospect OR basketball) after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Hanno+Mottola%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Utah winning streak ends at nine - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3bGdaZG9rcmRFOWVyQlVPNVRGWjFyRDVKbjh2S0VQTUxsaFRzLXM5TGdlUUZZVHZUR2htSjZ3M2lkSkVlbVZnMkdsVjRQdkpnNGowUW1JbUxOUUVUT0ZBLUN4UjkyZHc?oc=5",
+      "published_date": "2000-01-06",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "80785777ecb537d9c00a302d535857af326a402db2b23e72afa3adfe484a0b17",
+  "feature_eligible": false
+}

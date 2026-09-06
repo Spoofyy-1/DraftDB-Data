@@ -1,0 +1,380 @@
+{
+  "variants": [
+    {
+      "id": "base_win2003_disc85_icl32",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_"
+      ],
+      "window": 2003,
+      "hw": "disc85",
+      "icl_n": 32
+    },
+    {
+      "id": "base_win2003_disc85_icl128",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_"
+      ],
+      "window": 2003,
+      "hw": "disc85",
+      "icl_n": 128
+    },
+    {
+      "id": "base_win2003_uniform_icl32",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_"
+      ],
+      "window": 2003,
+      "hw": "uniform",
+      "icl_n": 32
+    },
+    {
+      "id": "base_win2003_uniform_icl128",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_"
+      ],
+      "window": 2003,
+      "hw": "uniform",
+      "icl_n": 128
+    },
+    {
+      "id": "projection_removed_win2003_disc85_icl32",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_",
+        "col_bpm_pct_",
+        "col_usg_pct_",
+        "col_ts_pct_",
+        "col_ast_pct_",
+        "col_stl_pct_",
+        "col_blk_pct_",
+        "col_orb_pct_",
+        "col_shot_proj_"
+      ],
+      "window": 2003,
+      "hw": "disc85",
+      "icl_n": 32
+    },
+    {
+      "id": "projection_removed_win2003_disc85_icl128",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_",
+        "col_bpm_pct_",
+        "col_usg_pct_",
+        "col_ts_pct_",
+        "col_ast_pct_",
+        "col_stl_pct_",
+        "col_blk_pct_",
+        "col_orb_pct_",
+        "col_shot_proj_"
+      ],
+      "window": 2003,
+      "hw": "disc85",
+      "icl_n": 128
+    },
+    {
+      "id": "projection_removed_win2003_uniform_icl32",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_",
+        "col_bpm_pct_",
+        "col_usg_pct_",
+        "col_ts_pct_",
+        "col_ast_pct_",
+        "col_stl_pct_",
+        "col_blk_pct_",
+        "col_orb_pct_",
+        "col_shot_proj_"
+      ],
+      "window": 2003,
+      "hw": "uniform",
+      "icl_n": 32
+    },
+    {
+      "id": "projection_removed_win2003_uniform_icl128",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_",
+        "col_bpm_pct_",
+        "col_usg_pct_",
+        "col_ts_pct_",
+        "col_ast_pct_",
+        "col_stl_pct_",
+        "col_blk_pct_",
+        "col_orb_pct_",
+        "col_shot_proj_"
+      ],
+      "window": 2003,
+      "hw": "uniform",
+      "icl_n": 128
+    },
+    {
+      "id": "skill_win2003_disc85_icl32",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": "ctx_skill_",
+      "drop": [
+        "scout_"
+      ],
+      "window": 2003,
+      "hw": "disc85",
+      "icl_n": 32
+    },
+    {
+      "id": "skill_win2003_disc85_icl128",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": "ctx_skill_",
+      "drop": [
+        "scout_"
+      ],
+      "window": 2003,
+      "hw": "disc85",
+      "icl_n": 128
+    },
+    {
+      "id": "skill_win2003_uniform_icl32",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": "ctx_skill_",
+      "drop": [
+        "scout_"
+      ],
+      "window": 2003,
+      "hw": "uniform",
+      "icl_n": 32
+    },
+    {
+      "id": "skill_win2003_uniform_icl128",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": "ctx_skill_",
+      "drop": [
+        "scout_"
+      ],
+      "window": 2003,
+      "hw": "uniform",
+      "icl_n": 128
+    },
+    {
+      "id": "base_win2007_disc85_icl32",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_"
+      ],
+      "window": 2007,
+      "hw": "disc85",
+      "icl_n": 32
+    },
+    {
+      "id": "base_win2007_disc85_icl128",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_"
+      ],
+      "window": 2007,
+      "hw": "disc85",
+      "icl_n": 128
+    },
+    {
+      "id": "base_win2007_uniform_icl32",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_"
+      ],
+      "window": 2007,
+      "hw": "uniform",
+      "icl_n": 32
+    },
+    {
+      "id": "base_win2007_uniform_icl128",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_"
+      ],
+      "window": 2007,
+      "hw": "uniform",
+      "icl_n": 128
+    },
+    {
+      "id": "projection_removed_win2007_disc85_icl32",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_",
+        "col_bpm_pct_",
+        "col_usg_pct_",
+        "col_ts_pct_",
+        "col_ast_pct_",
+        "col_stl_pct_",
+        "col_blk_pct_",
+        "col_orb_pct_",
+        "col_shot_proj_"
+      ],
+      "window": 2007,
+      "hw": "disc85",
+      "icl_n": 32
+    },
+    {
+      "id": "projection_removed_win2007_disc85_icl128",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_",
+        "col_bpm_pct_",
+        "col_usg_pct_",
+        "col_ts_pct_",
+        "col_ast_pct_",
+        "col_stl_pct_",
+        "col_blk_pct_",
+        "col_orb_pct_",
+        "col_shot_proj_"
+      ],
+      "window": 2007,
+      "hw": "disc85",
+      "icl_n": 128
+    },
+    {
+      "id": "projection_removed_win2007_uniform_icl32",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_",
+        "col_bpm_pct_",
+        "col_usg_pct_",
+        "col_ts_pct_",
+        "col_ast_pct_",
+        "col_stl_pct_",
+        "col_blk_pct_",
+        "col_orb_pct_",
+        "col_shot_proj_"
+      ],
+      "window": 2007,
+      "hw": "uniform",
+      "icl_n": 32
+    },
+    {
+      "id": "projection_removed_win2007_uniform_icl128",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": null,
+      "drop": [
+        "scout_",
+        "col_bpm_pct_",
+        "col_usg_pct_",
+        "col_ts_pct_",
+        "col_ast_pct_",
+        "col_stl_pct_",
+        "col_blk_pct_",
+        "col_orb_pct_",
+        "col_shot_proj_"
+      ],
+      "window": 2007,
+      "hw": "uniform",
+      "icl_n": 128
+    },
+    {
+      "id": "skill_win2007_disc85_icl32",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": "ctx_skill_",
+      "drop": [
+        "scout_"
+      ],
+      "window": 2007,
+      "hw": "disc85",
+      "icl_n": 32
+    },
+    {
+      "id": "skill_win2007_disc85_icl128",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": "ctx_skill_",
+      "drop": [
+        "scout_"
+      ],
+      "window": 2007,
+      "hw": "disc85",
+      "icl_n": 128
+    },
+    {
+      "id": "skill_win2007_uniform_icl32",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": "ctx_skill_",
+      "drop": [
+        "scout_"
+      ],
+      "window": 2007,
+      "hw": "uniform",
+      "icl_n": 32
+    },
+    {
+      "id": "skill_win2007_uniform_icl128",
+      "noscout": 1,
+      "drafted_only": false,
+      "context": "ctx_skill_",
+      "drop": [
+        "scout_"
+      ],
+      "window": 2007,
+      "hw": "uniform",
+      "icl_n": 128
+    }
+  ],
+  "folds": [
+    2012,
+    2013,
+    2014
+  ],
+  "seeds": [
+    0,
+    101,
+    202
+  ],
+  "weights": {
+    "rich": [
+      0,
+      0.75,
+      0.25
+    ],
+    "thin": [
+      0.5,
+      0,
+      0.5
+    ]
+  },
+  "purpose": "Factorial development experiment: WAR weighting, earlier cohorts, feature removal, skills and ensemble stability. No test selection.",
+  "no_confirmation_or_test_scoring": true
+}

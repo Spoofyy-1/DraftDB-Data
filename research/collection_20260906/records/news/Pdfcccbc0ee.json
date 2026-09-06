@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:30:48.875617+00:00",
+  "lane": "news",
+  "pid": "Pdfcccbc0ee",
+  "draft_year": 2000,
+  "name": "Desmond Mason",
+  "draft_date": "2000-06-28",
+  "status": "ok",
+  "query": "\"Desmond Mason\" (draft OR scouting OR prospect OR basketball) after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Desmond+Mason%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Kansas Kansas/Oklahoma State Oklahoma St Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wMm1ocFFnanBaNGNLQ3kwdWlDdTdUUm1JWmI5eU5SRUNPblgxSHVoNGdsaXhhdGg1bktXc1Y5UjF1Y1JNRmVLSjhkUFNVWWtPUGVJT09SMkRuSVNNZVR0RTdpSjFiOWc?oc=5",
+      "published_date": "2000-02-07",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Hofstra Hofstra/Oklahoma State Oklahoma St Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1US1dDS0ZKOVc4QmdZZ2JFb0ZpM3hrVDFKbDg4bWVPSE9ZTG1GWGdQSnlsdGJGOTZWN1FFWHJMYm0tald1U1BHUUJpS2JkTUFZVmswamduU2tVZUdQTkF0SE13ZVdNTW8?oc=5",
+      "published_date": "2000-03-17",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Seton Hall misses injured Holloway - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yOGZMbXp6NTAzLW1XbVJzZ3UyZ1BZc053VXU0VnZQY05IUDEzUDZvX1ptU01FUktHbjdINnMzb2l1QUJ2cXBmRG1VVXcxN19FNXFLSFNiNzQzWDAtU1liVWZCazYwU28?oc=5",
+      "published_date": "2000-03-24",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "e505e2039eec4147cc0bafc5c44b7152ccd517ba2e691f63909d9afbcc10e983",
+  "feature_eligible": false
+}

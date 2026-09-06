@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:35:14.031234+00:00",
+  "lane": "news",
+  "pid": "P33c766f164",
+  "draft_year": 2002,
+  "name": "John Salmons",
+  "draft_date": "2002-06-26",
+  "status": "ok",
+  "query": "\"John Salmons\" (draft OR scouting OR prospect OR basketball) after:2001-07-01 before:2002-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22John+Salmons%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2001-07-01+before%3A2002-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Men\u2019s Basketball Set For Irish - Miami Hurricanes",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzNlVabVhQaHVmU01aVmgwN2hjQ1lOSFlCRWJoQldfbGoxN3kwRHdJMzB0WTB3NGlvRi1tWmYzTk80b1pZQ3pRUUxNWjRzamFnZkdFZ2pudjJtaVh4MXVTa3ZNS1FhQQ?oc=5",
+      "published_date": "2002-02-21",
+      "source": "Miami Hurricanes",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Hurricanes Prepare To Play St. Francis In The Miami Arena Sunday - Miami Hurricanes",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWOTJ4cFJFRDBVYlFSbkRmeFV1WGhYVnJEdXJjN3A4a19RNUlNdVU0bmgteC1XQ0NsRGd3MFRoMjA3ekVSUEhmUnN0MEdPWkJmMDFZVXlxSDU5ejllWFF1a2Z6WGhRdw?oc=5",
+      "published_date": "2001-12-29",
+      "source": "Miami Hurricanes",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "092a0dc34962a2de45b09b96003e9ef99ad15931dc24141f20bef3104d4791ee",
+  "feature_eligible": false
+}

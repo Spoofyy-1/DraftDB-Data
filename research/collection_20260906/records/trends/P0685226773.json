@@ -1,0 +1,1076 @@
+{
+  "collected_at": "2026-09-06T09:30:16.495335+00:00",
+  "lane": "trends",
+  "pid": "P0685226773",
+  "draft_year": 2004,
+  "name": "Pavel Podkolzin",
+  "draft_date": "2004-06-24",
+  "status": "ok",
+  "terms": [
+    "Pavel Podkolzin",
+    "NBA draft"
+  ],
+  "start": "2004-01-01",
+  "end": "2004-06-23",
+  "geo": "US",
+  "sampling": "retrieved retrospectively; sampled and normalized by Google",
+  "interval_days": 1,
+  "samples": [
+    {
+      "date": "2004-01-01",
+      "value": 0.0,
+      "anchor": 16.0,
+      "partial": false
+    },
+    {
+      "date": "2004-01-02",
+      "value": 0.0,
+      "anchor": 0.0,
+      "partial": false
+    },
+    {
+      "date": "2004-01-03",
+      "value": 0.0,
+      "anchor": 0.0,
+      "partial": false
+    },
+    {
+      "date": "2004-01-04",
+      "value": 0.0,
+      "anchor": 0.0,
+      "partial": false
+    },
+    {
+      "date": "2004-01-05",
+      "value": 0.0,
+      "anchor": 0.0,
+      "partial": false
+    },
+    {
+      "date": "2004-01-06",
+      "value": 0.0,
+      "anchor": 0.0,
+      "partial": false
+    },
+    {
+      "date": "2004-01-07",
+      "value": 0.0,
+      "anchor": 5.0,
+      "partial": false
+    },
+    {
+      "date": "2004-01-08",
+      "value": 0.0,
+      "anchor": 5.0,
+      "partial": false
+    },
+    {
+      "date": "2004-01-09",
+      "value": 0.0,
+      "anchor": 6.0,
+      "partial": false
+    },
+    {
+      "date": "2004-01-10",
+      "value": 0.0,
+      "anchor": 7.0,
+      "partial": false
+    },
+    {
+      "date": "2004-01-11",
+      "value": 0.0,
+      "anchor": 0.0,
+      "partial": false
+    },
+    {
+      "date": "2004-01-12",
+      "value": 0.0,
+      "anchor": 0.0,
+      "partial": false
+    },
+    {
+      "date": "2004-01-13",
+      "value": 0.0,
+      "anchor": 6.0,
+      "partial": false
+    },
+    {
+      "date": "2004-01-14",
+      "value": 0.0,
+      "anchor": 4.0,
+      "partial": false
+    },
+    {
+      "date": "2004-01-15",
+      "value": 0.0,
+      "anchor": 5.0,
+      "partial": false
+    },
+    {
+      "date": "2004-01-16",
+      "value": 0.0,
+      "anchor": 7.0,
+      "partial": false
+    },
+    {
+      "date": "2004-01-17",
+      "value": 0.0,
+      "anchor": 0.0,
+      "partial": false
+    },
+    {
+      "date": "2004-01-18",
+      "value": 0.0,
+      "anchor": 10.0,
+      "partial": false
+    },
+    {
+      "date": "2004-01-19",
+      "value": 0.0,
+      "anchor": 6.0,
+      "partial": false
+    },
+    {
+      "date": "2004-01-20",
+      "value": 0.0,
+      "anchor": 5.0,
+      "partial": false
+    },
+    {
+      "date": "2004-01-21",
+      "value": 0.0,
+      "anchor": 5.0,
+      "partial": false
+    },
+    {
+      "date": "2004-01-22",
+      "value": 0.0,
+      "anchor": 4.0,
+      "partial": false
+    },
+    {
+      "date": "2004-01-23",
+      "value": 0.0,
+      "anchor": 4.0,
+      "partial": false
+    },
+    {
+      "date": "2004-01-24",
+      "value": 0.0,
+      "anchor": 0.0,
+      "partial": false
+    },
+    {
+      "date": "2004-01-25",
+      "value": 0.0,
+      "anchor": 8.0,
+      "partial": false
+    },
+    {
+      "date": "2004-01-26",
+      "value": 0.0,
+      "anchor": 0.0,
+      "partial": false
+    },
+    {
+      "date": "2004-01-27",
+      "value": 0.0,
+      "anchor": 0.0,
+      "partial": false
+    },
+    {
+      "date": "2004-01-28",
+      "value": 0.0,
+      "anchor": 5.0,
+      "partial": false
+    },
+    {
+      "date": "2004-01-29",
+      "value": 0.0,
+      "anchor": 6.0,
+      "partial": false
+    },
+    {
+      "date": "2004-01-30",
+      "value": 0.0,
+      "anchor": 8.0,
+      "partial": false
+    },
+    {
+      "date": "2004-01-31",
+      "value": 0.0,
+      "anchor": 0.0,
+      "partial": false
+    },
+    {
+      "date": "2004-02-01",
+      "value": 0.0,
+      "anchor": 0.0,
+      "partial": false
+    },
+    {
+      "date": "2004-02-02",
+      "value": 0.0,
+      "anchor": 0.0,
+      "partial": false
+    },
+    {
+      "date": "2004-02-03",
+      "value": 0.0,
+      "anchor": 0.0,
+      "partial": false
+    },
+    {
+      "date": "2004-02-04",
+      "value": 0.0,
+      "anchor": 0.0,
+      "partial": false
+    },
+    {
+      "date": "2004-02-05",
+      "value": 0.0,
+      "anchor": 4.0,
+      "partial": false
+    },
+    {
+      "date": "2004-02-06",
+      "value": 0.0,
+      "anchor": 7.0,
+      "partial": false
+    },
+    {
+      "date": "2004-02-07",
+      "value": 0.0,
+      "anchor": 0.0,
+      "partial": false
+    },
+    {
+      "date": "2004-02-08",
+      "value": 0.0,
+      "anchor": 0.0,
+      "partial": false
+    },
+    {
+      "date": "2004-02-09",
+      "value": 0.0,
+      "anchor": 6.0,
+      "partial": false
+    },
+    {
+      "date": "2004-02-10",
+      "value": 0.0,
+      "anchor": 6.0,
+      "partial": false
+    },
+    {
+      "date": "2004-02-11",
+      "value": 0.0,
+      "anchor": 5.0,
+      "partial": false
+    },
+    {
+      "date": "2004-02-12",
+      "value": 0.0,
+      "anchor": 7.0,
+      "partial": false
+    },
+    {
+      "date": "2004-02-13",
+      "value": 0.0,
+      "anchor": 6.0,
+      "partial": false
+    },
+    {
+      "date": "2004-02-14",
+      "value": 0.0,
+      "anchor": 10.0,
+      "partial": false
+    },
+    {
+      "date": "2004-02-15",
+      "value": 0.0,
+      "anchor": 8.0,
+      "partial": false
+    },
+    {
+      "date": "2004-02-16",
+      "value": 0.0,
+      "anchor": 8.0,
+      "partial": false
+    },
+    {
+      "date": "2004-02-17",
+      "value": 0.0,
+      "anchor": 6.0,
+      "partial": false
+    },
+    {
+      "date": "2004-02-18",
+      "value": 0.0,
+      "anchor": 8.0,
+      "partial": false
+    },
+    {
+      "date": "2004-02-19",
+      "value": 0.0,
+      "anchor": 7.0,
+      "partial": false
+    },
+    {
+      "date": "2004-02-20",
+      "value": 0.0,
+      "anchor": 10.0,
+      "partial": false
+    },
+    {
+      "date": "2004-02-21",
+      "value": 0.0,
+      "anchor": 8.0,
+      "partial": false
+    },
+    {
+      "date": "2004-02-22",
+      "value": 0.0,
+      "anchor": 8.0,
+      "partial": false
+    },
+    {
+      "date": "2004-02-23",
+      "value": 0.0,
+      "anchor": 4.0,
+      "partial": false
+    },
+    {
+      "date": "2004-02-24",
+      "value": 0.0,
+      "anchor": 10.0,
+      "partial": false
+    },
+    {
+      "date": "2004-02-25",
+      "value": 0.0,
+      "anchor": 6.0,
+      "partial": false
+    },
+    {
+      "date": "2004-02-26",
+      "value": 0.0,
+      "anchor": 7.0,
+      "partial": false
+    },
+    {
+      "date": "2004-02-27",
+      "value": 0.0,
+      "anchor": 8.0,
+      "partial": false
+    },
+    {
+      "date": "2004-02-28",
+      "value": 0.0,
+      "anchor": 0.0,
+      "partial": false
+    },
+    {
+      "date": "2004-02-29",
+      "value": 0.0,
+      "anchor": 0.0,
+      "partial": false
+    },
+    {
+      "date": "2004-03-01",
+      "value": 0.0,
+      "anchor": 0.0,
+      "partial": false
+    },
+    {
+      "date": "2004-03-02",
+      "value": 0.0,
+      "anchor": 4.0,
+      "partial": false
+    },
+    {
+      "date": "2004-03-03",
+      "value": 0.0,
+      "anchor": 0.0,
+      "partial": false
+    },
+    {
+      "date": "2004-03-04",
+      "value": 0.0,
+      "anchor": 7.0,
+      "partial": false
+    },
+    {
+      "date": "2004-03-05",
+      "value": 0.0,
+      "anchor": 0.0,
+      "partial": false
+    },
+    {
+      "date": "2004-03-06",
+      "value": 0.0,
+      "anchor": 10.0,
+      "partial": false
+    },
+    {
+      "date": "2004-03-07",
+      "value": 0.0,
+      "anchor": 25.0,
+      "partial": false
+    },
+    {
+      "date": "2004-03-08",
+      "value": 0.0,
+      "anchor": 0.0,
+      "partial": false
+    },
+    {
+      "date": "2004-03-09",
+      "value": 0.0,
+      "anchor": 0.0,
+      "partial": false
+    },
+    {
+      "date": "2004-03-10",
+      "value": 0.0,
+      "anchor": 7.0,
+      "partial": false
+    },
+    {
+      "date": "2004-03-11",
+      "value": 0.0,
+      "anchor": 0.0,
+      "partial": false
+    },
+    {
+      "date": "2004-03-12",
+      "value": 0.0,
+      "anchor": 9.0,
+      "partial": false
+    },
+    {
+      "date": "2004-03-13",
+      "value": 0.0,
+      "anchor": 12.0,
+      "partial": false
+    },
+    {
+      "date": "2004-03-14",
+      "value": 0.0,
+      "anchor": 11.0,
+      "partial": false
+    },
+    {
+      "date": "2004-03-15",
+      "value": 0.0,
+      "anchor": 6.0,
+      "partial": false
+    },
+    {
+      "date": "2004-03-16",
+      "value": 0.0,
+      "anchor": 6.0,
+      "partial": false
+    },
+    {
+      "date": "2004-03-17",
+      "value": 0.0,
+      "anchor": 8.0,
+      "partial": false
+    },
+    {
+      "date": "2004-03-18",
+      "value": 0.0,
+      "anchor": 8.0,
+      "partial": false
+    },
+    {
+      "date": "2004-03-19",
+      "value": 0.0,
+      "anchor": 8.0,
+      "partial": false
+    },
+    {
+      "date": "2004-03-20",
+      "value": 0.0,
+      "anchor": 11.0,
+      "partial": false
+    },
+    {
+      "date": "2004-03-21",
+      "value": 0.0,
+      "anchor": 12.0,
+      "partial": false
+    },
+    {
+      "date": "2004-03-22",
+      "value": 0.0,
+      "anchor": 15.0,
+      "partial": false
+    },
+    {
+      "date": "2004-03-23",
+      "value": 0.0,
+      "anchor": 0.0,
+      "partial": false
+    },
+    {
+      "date": "2004-03-24",
+      "value": 0.0,
+      "anchor": 6.0,
+      "partial": false
+    },
+    {
+      "date": "2004-03-25",
+      "value": 0.0,
+      "anchor": 0.0,
+      "partial": false
+    },
+    {
+      "date": "2004-03-26",
+      "value": 0.0,
+      "anchor": 9.0,
+      "partial": false
+    },
+    {
+      "date": "2004-03-27",
+      "value": 0.0,
+      "anchor": 0.0,
+      "partial": false
+    },
+    {
+      "date": "2004-03-28",
+      "value": 0.0,
+      "anchor": 9.0,
+      "partial": false
+    },
+    {
+      "date": "2004-03-29",
+      "value": 0.0,
+      "anchor": 16.0,
+      "partial": false
+    },
+    {
+      "date": "2004-03-30",
+      "value": 0.0,
+      "anchor": 9.0,
+      "partial": false
+    },
+    {
+      "date": "2004-03-31",
+      "value": 0.0,
+      "anchor": 15.0,
+      "partial": false
+    },
+    {
+      "date": "2004-04-01",
+      "value": 0.0,
+      "anchor": 15.0,
+      "partial": false
+    },
+    {
+      "date": "2004-04-02",
+      "value": 0.0,
+      "anchor": 11.0,
+      "partial": false
+    },
+    {
+      "date": "2004-04-03",
+      "value": 0.0,
+      "anchor": 17.0,
+      "partial": false
+    },
+    {
+      "date": "2004-04-04",
+      "value": 0.0,
+      "anchor": 16.0,
+      "partial": false
+    },
+    {
+      "date": "2004-04-05",
+      "value": 0.0,
+      "anchor": 15.0,
+      "partial": false
+    },
+    {
+      "date": "2004-04-06",
+      "value": 0.0,
+      "anchor": 18.0,
+      "partial": false
+    },
+    {
+      "date": "2004-04-07",
+      "value": 0.0,
+      "anchor": 19.0,
+      "partial": false
+    },
+    {
+      "date": "2004-04-08",
+      "value": 0.0,
+      "anchor": 20.0,
+      "partial": false
+    },
+    {
+      "date": "2004-04-09",
+      "value": 0.0,
+      "anchor": 15.0,
+      "partial": false
+    },
+    {
+      "date": "2004-04-10",
+      "value": 0.0,
+      "anchor": 13.0,
+      "partial": false
+    },
+    {
+      "date": "2004-04-11",
+      "value": 0.0,
+      "anchor": 0.0,
+      "partial": false
+    },
+    {
+      "date": "2004-04-12",
+      "value": 0.0,
+      "anchor": 0.0,
+      "partial": false
+    },
+    {
+      "date": "2004-04-13",
+      "value": 0.0,
+      "anchor": 0.0,
+      "partial": false
+    },
+    {
+      "date": "2004-04-14",
+      "value": 0.0,
+      "anchor": 18.0,
+      "partial": false
+    },
+    {
+      "date": "2004-04-15",
+      "value": 0.0,
+      "anchor": 18.0,
+      "partial": false
+    },
+    {
+      "date": "2004-04-16",
+      "value": 0.0,
+      "anchor": 17.0,
+      "partial": false
+    },
+    {
+      "date": "2004-04-17",
+      "value": 0.0,
+      "anchor": 17.0,
+      "partial": false
+    },
+    {
+      "date": "2004-04-18",
+      "value": 0.0,
+      "anchor": 19.0,
+      "partial": false
+    },
+    {
+      "date": "2004-04-19",
+      "value": 0.0,
+      "anchor": 11.0,
+      "partial": false
+    },
+    {
+      "date": "2004-04-20",
+      "value": 0.0,
+      "anchor": 14.0,
+      "partial": false
+    },
+    {
+      "date": "2004-04-21",
+      "value": 0.0,
+      "anchor": 12.0,
+      "partial": false
+    },
+    {
+      "date": "2004-04-22",
+      "value": 0.0,
+      "anchor": 19.0,
+      "partial": false
+    },
+    {
+      "date": "2004-04-23",
+      "value": 0.0,
+      "anchor": 12.0,
+      "partial": false
+    },
+    {
+      "date": "2004-04-24",
+      "value": 0.0,
+      "anchor": 15.0,
+      "partial": false
+    },
+    {
+      "date": "2004-04-25",
+      "value": 0.0,
+      "anchor": 15.0,
+      "partial": false
+    },
+    {
+      "date": "2004-04-26",
+      "value": 0.0,
+      "anchor": 13.0,
+      "partial": false
+    },
+    {
+      "date": "2004-04-27",
+      "value": 0.0,
+      "anchor": 22.0,
+      "partial": false
+    },
+    {
+      "date": "2004-04-28",
+      "value": 0.0,
+      "anchor": 13.0,
+      "partial": false
+    },
+    {
+      "date": "2004-04-29",
+      "value": 0.0,
+      "anchor": 15.0,
+      "partial": false
+    },
+    {
+      "date": "2004-04-30",
+      "value": 0.0,
+      "anchor": 15.0,
+      "partial": false
+    },
+    {
+      "date": "2004-05-01",
+      "value": 0.0,
+      "anchor": 11.0,
+      "partial": false
+    },
+    {
+      "date": "2004-05-02",
+      "value": 0.0,
+      "anchor": 12.0,
+      "partial": false
+    },
+    {
+      "date": "2004-05-03",
+      "value": 0.0,
+      "anchor": 13.0,
+      "partial": false
+    },
+    {
+      "date": "2004-05-04",
+      "value": 0.0,
+      "anchor": 23.0,
+      "partial": false
+    },
+    {
+      "date": "2004-05-05",
+      "value": 0.0,
+      "anchor": 19.0,
+      "partial": false
+    },
+    {
+      "date": "2004-05-06",
+      "value": 0.0,
+      "anchor": 19.0,
+      "partial": false
+    },
+    {
+      "date": "2004-05-07",
+      "value": 0.0,
+      "anchor": 19.0,
+      "partial": false
+    },
+    {
+      "date": "2004-05-08",
+      "value": 0.0,
+      "anchor": 20.0,
+      "partial": false
+    },
+    {
+      "date": "2004-05-09",
+      "value": 0.0,
+      "anchor": 12.0,
+      "partial": false
+    },
+    {
+      "date": "2004-05-10",
+      "value": 0.0,
+      "anchor": 14.0,
+      "partial": false
+    },
+    {
+      "date": "2004-05-11",
+      "value": 0.0,
+      "anchor": 18.0,
+      "partial": false
+    },
+    {
+      "date": "2004-05-12",
+      "value": 0.0,
+      "anchor": 20.0,
+      "partial": false
+    },
+    {
+      "date": "2004-05-13",
+      "value": 0.0,
+      "anchor": 13.0,
+      "partial": false
+    },
+    {
+      "date": "2004-05-14",
+      "value": 0.0,
+      "anchor": 13.0,
+      "partial": false
+    },
+    {
+      "date": "2004-05-15",
+      "value": 0.0,
+      "anchor": 18.0,
+      "partial": false
+    },
+    {
+      "date": "2004-05-16",
+      "value": 0.0,
+      "anchor": 21.0,
+      "partial": false
+    },
+    {
+      "date": "2004-05-17",
+      "value": 0.0,
+      "anchor": 19.0,
+      "partial": false
+    },
+    {
+      "date": "2004-05-18",
+      "value": 0.0,
+      "anchor": 16.0,
+      "partial": false
+    },
+    {
+      "date": "2004-05-19",
+      "value": 0.0,
+      "anchor": 17.0,
+      "partial": false
+    },
+    {
+      "date": "2004-05-20",
+      "value": 0.0,
+      "anchor": 16.0,
+      "partial": false
+    },
+    {
+      "date": "2004-05-21",
+      "value": 0.0,
+      "anchor": 22.0,
+      "partial": false
+    },
+    {
+      "date": "2004-05-22",
+      "value": 0.0,
+      "anchor": 24.0,
+      "partial": false
+    },
+    {
+      "date": "2004-05-23",
+      "value": 0.0,
+      "anchor": 24.0,
+      "partial": false
+    },
+    {
+      "date": "2004-05-24",
+      "value": 0.0,
+      "anchor": 23.0,
+      "partial": false
+    },
+    {
+      "date": "2004-05-25",
+      "value": 0.0,
+      "anchor": 21.0,
+      "partial": false
+    },
+    {
+      "date": "2004-05-26",
+      "value": 0.0,
+      "anchor": 31.0,
+      "partial": false
+    },
+    {
+      "date": "2004-05-27",
+      "value": 0.0,
+      "anchor": 68.0,
+      "partial": false
+    },
+    {
+      "date": "2004-05-28",
+      "value": 0.0,
+      "anchor": 43.0,
+      "partial": false
+    },
+    {
+      "date": "2004-05-29",
+      "value": 0.0,
+      "anchor": 32.0,
+      "partial": false
+    },
+    {
+      "date": "2004-05-30",
+      "value": 0.0,
+      "anchor": 37.0,
+      "partial": false
+    },
+    {
+      "date": "2004-05-31",
+      "value": 0.0,
+      "anchor": 27.0,
+      "partial": false
+    },
+    {
+      "date": "2004-06-01",
+      "value": 0.0,
+      "anchor": 34.0,
+      "partial": false
+    },
+    {
+      "date": "2004-06-02",
+      "value": 0.0,
+      "anchor": 28.0,
+      "partial": false
+    },
+    {
+      "date": "2004-06-03",
+      "value": 0.0,
+      "anchor": 33.0,
+      "partial": false
+    },
+    {
+      "date": "2004-06-04",
+      "value": 0.0,
+      "anchor": 29.0,
+      "partial": false
+    },
+    {
+      "date": "2004-06-05",
+      "value": 0.0,
+      "anchor": 25.0,
+      "partial": false
+    },
+    {
+      "date": "2004-06-06",
+      "value": 0.0,
+      "anchor": 26.0,
+      "partial": false
+    },
+    {
+      "date": "2004-06-07",
+      "value": 0.0,
+      "anchor": 27.0,
+      "partial": false
+    },
+    {
+      "date": "2004-06-08",
+      "value": 0.0,
+      "anchor": 31.0,
+      "partial": false
+    },
+    {
+      "date": "2004-06-09",
+      "value": 0.0,
+      "anchor": 27.0,
+      "partial": false
+    },
+    {
+      "date": "2004-06-10",
+      "value": 0.0,
+      "anchor": 25.0,
+      "partial": false
+    },
+    {
+      "date": "2004-06-11",
+      "value": 0.0,
+      "anchor": 29.0,
+      "partial": false
+    },
+    {
+      "date": "2004-06-12",
+      "value": 0.0,
+      "anchor": 33.0,
+      "partial": false
+    },
+    {
+      "date": "2004-06-13",
+      "value": 0.0,
+      "anchor": 45.0,
+      "partial": false
+    },
+    {
+      "date": "2004-06-14",
+      "value": 0.0,
+      "anchor": 48.0,
+      "partial": false
+    },
+    {
+      "date": "2004-06-15",
+      "value": 0.0,
+      "anchor": 39.0,
+      "partial": false
+    },
+    {
+      "date": "2004-06-16",
+      "value": 0.0,
+      "anchor": 48.0,
+      "partial": false
+    },
+    {
+      "date": "2004-06-17",
+      "value": 0.0,
+      "anchor": 52.0,
+      "partial": false
+    },
+    {
+      "date": "2004-06-18",
+      "value": 0.0,
+      "anchor": 52.0,
+      "partial": false
+    },
+    {
+      "date": "2004-06-19",
+      "value": 0.0,
+      "anchor": 53.0,
+      "partial": false
+    },
+    {
+      "date": "2004-06-20",
+      "value": 0.0,
+      "anchor": 58.0,
+      "partial": false
+    },
+    {
+      "date": "2004-06-21",
+      "value": 0.0,
+      "anchor": 69.0,
+      "partial": false
+    },
+    {
+      "date": "2004-06-22",
+      "value": 0.0,
+      "anchor": 100.0,
+      "partial": false
+    },
+    {
+      "date": "2004-06-23",
+      "value": 0.0,
+      "anchor": 87.0,
+      "partial": false
+    }
+  ],
+  "valid_samples": 175,
+  "ratio": 0.0,
+  "last30_calendar_ratio": 0.0,
+  "first90_calendar_ratio": 0.0,
+  "feature_eligible": false,
+  "eligibility": "pending name ambiguity and source-vintage review; zero is not proof of zero interest"
+}

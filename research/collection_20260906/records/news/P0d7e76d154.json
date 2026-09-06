@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:31:25.235381+00:00",
+  "lane": "news",
+  "pid": "P0d7e76d154",
+  "draft_year": 2001,
+  "name": "Kedrick Brown",
+  "draft_date": "2001-06-27",
+  "status": "ok",
+  "query": "\"Kedrick Brown\" (draft OR scouting OR prospect OR basketball) after:2000-07-01 before:2001-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Kedrick+Brown%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2000-07-01+before%3A2001-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft 2001 - Lottery thickens draft outlook - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OT1VXWHRNTUJNVzVPRDVYcGVaVmtYTzF3ckRBYXQ0XzNOTHlKNnUwMHRrOFdhbGM1U3MzbVpSY1RRekxMN09RcGJNaDBhRFRxU2R2dk1lZWR5NlpnTEpLMDJxUkFJdnFSZTNR?oc=5",
+      "published_date": "2001-05-21",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "96c89c61ab491d9bacffe9227d046d47c4621fecb83b392386916326a1014cf0",
+  "feature_eligible": false
+}

@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:33:48.102748+00:00",
+  "lane": "news",
+  "pid": "Pc0e2cf5bcc",
+  "draft_year": 2001,
+  "name": "Jarron Collins",
+  "draft_date": "2001-06-27",
+  "status": "ok",
+  "query": "\"Jarron Collins\" (draft OR scouting OR prospect OR basketball) after:2000-07-01 before:2001-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Jarron+Collins%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2000-07-01+before%3A2001-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Parental Guidance / Moms and dads have special perspective on players - SFGATE",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNXlzVnl4YWI2dUJLLTFzVDd3TVBHZV8yZWl5Wk1MX1hfQktNS214bXE5cllNTnBuRHIzNXE4LWV5OC1UUmlMUllYbkNTOTJyRTM5N2VvT091LXduc3ZSWUtrcWtGOXlFLVpGT20yNXBoMS1kd3VxYzBYMWdFdGZQb0RNN0dOa3ZlWWMtM1ZkV1ZCZVE0TC1DQlpfTQ?oc=5",
+      "published_date": "2001-03-21",
+      "source": "SFGATE",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Beating Duke boosts Stanford's confidence - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nSUVvS0NzV21ZYWZxRWw3U0k2LURiZ1FlVmx2U0RHT3FwbFhYTGFyUXdPZUxwTnZzNE1rSC1Nclh1V200eFRaSDU5TDZrcFhHcnJCTmVJa2ZUYlk?oc=5",
+      "published_date": "2000-12-22",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "c24bdbc95f9455206e44b75f02484c2e58db027aa46b2c3d3889042d3262fae7",
+  "feature_eligible": false
+}

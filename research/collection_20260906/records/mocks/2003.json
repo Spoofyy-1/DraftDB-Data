@@ -1,0 +1,7 @@
+{
+  "collected_at": "2026-09-06T09:27:35.790829+00:00",
+  "lane": "mocks",
+  "status": "error",
+  "error": "400 Client Error: BAD REQUEST for url: https://web.archive.org/cdx/search/cdx?url=nbadraft.net%2F%2Amock%2Adraft%2A&matchType=wildcard&output=json&filter=statuscode%3A200&collapse=digest&from=20021001&to=20030625&limit=100",
+  "feature_eligible": false
+}

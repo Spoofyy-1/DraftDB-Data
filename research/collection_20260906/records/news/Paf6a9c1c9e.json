@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T09:33:37.858029+00:00",
+  "lane": "news",
+  "pid": "Paf6a9c1c9e",
+  "draft_year": 2001,
+  "name": "Zach Randolph",
+  "draft_date": "2001-06-27",
+  "status": "ok",
+  "query": "\"Zach Randolph\" (draft OR scouting OR prospect OR basketball) after:2000-07-01 before:2001-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Zach+Randolph%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2000-07-01+before%3A2001-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Temple Temple/Michigan State Michigan St Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUWkxmWmZQRWdBUjQwUm5SdjBlX0hyOTFnTXJXbExwLVl6Y3MtaVJfMFJNSVBCNTNQUDNBbWkteWJ2TEdIcHduMExmd1ctckJuTmVzTW82YXotZzZEckl4QzNYOEVJUQ?oc=5",
+      "published_date": "2001-03-25",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Men's College Basketball - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KSHFnUlFYdTlvRDI0Q2FWenpsY3hsR2xOdWhEMXhTejlJVFhadC16NEdwby1hck1GazQxdlRUQi1Eb0R0ZFBocXBRV09Ub2xQWWY4TlpQWFlrWmdzWDFNdVNCTGRMQ2c?oc=5",
+      "published_date": "2001-01-13",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Men's College Basketball - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVQnYxUEp1VVJteUxiRDJZbzJNNGFBcVhMaGdJYkZjd2FCRnJvdENkb2p5R2x6azJKWGtfN0tXVmFWbUJmLU9mYnBSX1lQS0RYNkVrUHRDRzktSDhERm1xX3ZzLVZjc00?oc=5",
+      "published_date": "2000-12-30",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft 2001 - Lottery thickens draft outlook - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OT1VXWHRNTUJNVzVPRDVYcGVaVmtYTzF3ckRBYXQ0XzNOTHlKNnUwMHRrOFdhbGM1U3MzbVpSY1RRekxMN09RcGJNaDBhRFRxU2R2dk1lZWR5NlpnTEpLMDJxUkFJdnFSZTNR?oc=5",
+      "published_date": "2001-05-21",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Griffin makes the Hall stronger, and vice versa - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NOWhtOWtkYTVWSXFhVFFLQ3I4bFQ0TnE3RUtYak8yelZXQzJIX1hpT1kzb18xRGItLWxkVGkyYnNneC1hR2xBdTUyTUhTcmNZSHRHZ3J1UFZubHVy?oc=5",
+      "published_date": "2000-10-21",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "0c0dcf24ce93aa934782888d0c2929765117705f24b1c16e90c3ed2d5a05af94",
+  "feature_eligible": false
+}

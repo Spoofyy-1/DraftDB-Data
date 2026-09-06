@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:36:40.815294+00:00",
+  "lane": "news",
+  "pid": "P7662bd9a71",
+  "draft_year": 2002,
+  "name": "Melvin Ely",
+  "draft_date": "2002-06-26",
+  "status": "ok",
+  "query": "\"Melvin Ely\" (draft OR scouting OR prospect OR basketball) after:2001-07-01 before:2002-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Melvin+Ely%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2001-07-01+before%3A2002-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Ely will be in Honolulu - Honolulu Star-Advertiser",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sY1owVFV1OXhlWFVWOTJjc0xzWm53aGhTY29IZ0Z3WndsakN2Vi11RnNReXBuZVRKZDN0djFNRVA5dzFBOW84dlYwbmp4U0JZSDhCM29zNTBfLUpDZE1iZ1dRQVg2VjljbzktUWZtOA?oc=5",
+      "published_date": "2001-12-25",
+      "source": "Honolulu Star-Advertiser",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "6bcf97adbe43b2e3be212a06f68ab3c2f476ed1a02edd1bd2d519eab21952013",
+  "feature_eligible": false
+}

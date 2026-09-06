@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:36:37.543097+00:00",
+  "lane": "news",
+  "pid": "P71d533551f",
+  "draft_year": 2002,
+  "name": "Kareem Rush",
+  "draft_date": "2002-06-26",
+  "status": "ok",
+  "query": "\"Kareem Rush\" (draft OR scouting OR prospect OR basketball) after:2001-07-01 before:2002-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Kareem+Rush%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2001-07-01+before%3A2002-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Kareem Rush Chat Wrap - mutigers.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12U3NaUVR1SGs4cTJpU1U0WXF2UERvQ0R1ZWt4TG8tZmZFRC1oQ0tDeEJNSDFCeHlCb2hkcUtKbDhJUms3TVI1NnpfMjltRUNPYWx3Qy1meHdSeHotSFdSZ2NTcUpPVjdnd3c?oc=5",
+      "published_date": "2001-10-16",
+      "source": "mutigers.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Missouri Downs Grambling St., 100-76 - mutigers.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QTl81RThJcnUwS2V2eERyUmtSeVM4bmJZazFnT2c2VnZ3MkM2TUlwYkxDNmNuWS1JcWFUNDJhOTVlQUhuamxibElic1RhSFcwU0VEb3VsdkpKN3hKUkJIYkVXc0t1MDdIRldqcWhWMFRfek9HNkpYLUh3?oc=5",
+      "published_date": "2001-12-01",
+      "source": "mutigers.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Tigers Take Down Colorado, 96-83 - mutigers.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HQWlJUHhaYUNHY1lYN0tCMGZBcGdXVkpvWVl4aUhWUDdTdHpYRTgxaVZseW5BckNuZEdoaHdQZlhxQ0FzTWlSWDFhNGpGVHZORDlrQTdXV19ONVdtTTNCZV9xbUFQRTJqQlBlMGZTcl9WQmpCUkxj?oc=5",
+      "published_date": "2002-02-23",
+      "source": "mutigers.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "6667226ad9f55d8253c18af18af7475ae2b35b579f7d1e0a62dc587cac6d07f2",
+  "feature_eligible": false
+}

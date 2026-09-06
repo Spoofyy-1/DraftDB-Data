@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:33:21.205728+00:00",
+  "lane": "news",
+  "pid": "Pa33e366fdf",
+  "draft_year": 2001,
+  "name": "Tang Hamilton",
+  "draft_date": "2001-06-27",
+  "status": "ok",
+  "query": "\"Tang Hamilton\" (draft OR scouting OR prospect OR basketball) after:2000-07-01 before:2001-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Tang+Hamilton%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2000-07-01+before%3A2001-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Cal Comes Strong in Overtime to Beat Mississippi St., 83-76 - California Golden Bears Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sdkJhVlhRZm9YZ3JQX1k5dlJrMHVGeFY0Sm91ekt5SFZzeFo3NjhwcDNjVHl4T2lVelJsaHdQbXJuWkpEdmg2UkR1eG9nYnRDVUo3VE1kYVB0ZW1kOG52dg?oc=5",
+      "published_date": "2000-11-13",
+      "source": "California Golden Bears Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "1facabd8c3ce51066f0c6003052f075cb4e92de300c54127abc85ab873f1c107",
+  "feature_eligible": false
+}

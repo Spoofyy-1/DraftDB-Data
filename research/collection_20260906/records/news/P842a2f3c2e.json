@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T09:32:58.074947+00:00",
+  "lane": "news",
+  "pid": "P842a2f3c2e",
+  "draft_year": 2001,
+  "name": "Troy Murphy",
+  "draft_date": "2001-06-27",
+  "status": "ok",
+  "query": "\"Troy Murphy\" (draft OR scouting OR prospect OR basketball) after:2000-07-01 before:2001-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Troy+Murphy%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2000-07-01+before%3A2001-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Murphy Chosen For USA Men\u2019s Select Team - Notre Dame Fighting Irish",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVTdYQ2ZvZk1SUjY4c0VYQ1I4X1JmQUR5N1VWRkdYSHBVVEcyNlg5RW9Wdkg5dlo4cUtnNEJmU0ZNNUtyVHRXYU5aWVB5cFRSaV91Vm5vc3ZVbURuRjZBTmdEaHBMd1UwQ3JVd0JfaXNxVzJ0VlVlTjkzZ2hQcE96NVlHQzgtRTVU?oc=5",
+      "published_date": "2000-08-10",
+      "source": "Notre Dame Fighting Irish",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Legendary UCLA coach John Wooden to be honored by Notre Dame - Notre Dame News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdkhBSTVWaHNrNXl6WW02QnVCei1JT1BvR3J2bXdWTjFEU3EyaWFsNjZ6a3U0RjNoUWRIZDM3ZVZzMENnZ0FDakhoUTA3SzM5NEtqQU5seUYtR1l0d3ZhQUZBdXhGYlV1Ym5tR3VUOEMtX3FlN2t4SG5Zdi12SV85X0FYd0RHR1lLWEpEWmhiOA?oc=5",
+      "published_date": "2001-04-04",
+      "source": "Notre Dame News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft 2001 - Lottery thickens draft outlook - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OT1VXWHRNTUJNVzVPRDVYcGVaVmtYTzF3ckRBYXQ0XzNOTHlKNnUwMHRrOFdhbGM1U3MzbVpSY1RRekxMN09RcGJNaDBhRFRxU2R2dk1lZWR5NlpnTEpLMDJxUkFJdnFSZTNR?oc=5",
+      "published_date": "2001-05-21",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Murphy Will Not Start On Saturday - Notre Dame Fighting Irish",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ0RhU2JRUDg3Z3pQalZDb0d0RFl0OGVqTk1nNVhxTEdKY0xGa2ZPdjl2d0hzTG5hUDYxLTlrT21vVjZwZjB4WlRlMkltN3RDY0w5LTZTVkhrMUQ1dWVaajJsdklleEdMaDl6cjhhS0FXV1hVaTZpMGNQYzI1UERmWA?oc=5",
+      "published_date": "2000-12-06",
+      "source": "Notre Dame Fighting Irish",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Second Half Surge Gives No. 11 Men\u2019s Basketball Victory Over Vanderbilt, 77-74 - Notre Dame Fighting Irish",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWThVd0VhdFRkZkpsOHN6Y3hzeFhKWENmaExocjMzUm9JV1BsU1hOZzRraHlKb0FsYWltUGJ2a1BsWmFlNUNlTVU1TjZ3MERLTUFnTGJzOUw1NC1kZWNnaEtTZThManpQRXUwYU5XWjBtSFI3TF9EU1hmclpnSDlwb28wLUNnY3dhenV4TnkzNkF0OE9ZTFQ3YnhtTXVxVDJJT0hiY3BCOFdsU1RXWFk4UnE4bXhqRmpPblE?oc=5",
+      "published_date": "2000-12-02",
+      "source": "Notre Dame Fighting Irish",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "6b669136ed64c9b31e2313eff71f5dfdff17658b75b795a44957984c4e105255",
+  "feature_eligible": false
+}

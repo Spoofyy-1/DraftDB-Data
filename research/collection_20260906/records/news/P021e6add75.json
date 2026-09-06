@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:34:50.804173+00:00",
+  "lane": "news",
+  "pid": "P021e6add75",
+  "draft_year": 2002,
+  "name": "Chris Owens",
+  "draft_date": "2002-06-26",
+  "status": "ok",
+  "query": "\"Chris Owens\" (draft OR scouting OR prospect OR basketball) after:2001-07-01 before:2002-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Chris+Owens%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2001-07-01+before%3A2002-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Former St. John Vianney star murdered - Trentonian",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTW9zSk9qNWRZUGhhSUFTb0NDS3BDR3owU0pJY2lZMWVhUkRwQWRsLXg5OWRqa2QtYUVKQklud1NwMzdvMExqOFhSVl9XS1E0YVZwRGVjMEtZNm54eE5TZjI3ZFZwME5aRldsdmFfWUQydkt2UFhPVUY3UEhLZ2JVUQ?oc=5",
+      "published_date": "2001-08-29",
+      "source": "Trentonian",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "0917f0c16229af9cc6ff23982b0074d3dc841a5430f637c865b8682953c31086",
+  "feature_eligible": false
+}

@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:30:15.666979+00:00",
+  "lane": "news",
+  "pid": "Pbc657442d8",
+  "draft_year": 2000,
+  "name": "Paul McPherson",
+  "draft_date": "2000-06-28",
+  "status": "ok",
+  "query": "\"Paul McPherson\" (draft OR scouting OR prospect OR basketball) after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Paul+McPherson%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "ESPN.com - College Basketball - Surprise! They've got game - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14cHRpNUlsdFlPSVJfUDN2allSc3hFczdoMDMxcmpkVGdkdjY1OGpvcGVEZU1JbFk5OTNkQmhUaUIyLVpoWFBJSWdOMk9OSEJ5ZF9JOFpfVW9EeE1R?oc=5",
+      "published_date": "1999-12-27",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Cincinnati Cincinnati/DePaul DePaul Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yYThQb2xsZnJRTk1wZWpJOVE2YkxUdXVZcTc4eVFSc010UU5Edm4zOElueFIwT2FJTVFDWDVDR21waVBWNkFHU1k2VjhOU3plWlRobkl2djZHSGRuNkVoXzlrTC13X2s?oc=5",
+      "published_date": "2000-03-02",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "f9b6221963dd49b33a5cee5de22f29eb3294ffc89485495d0ab546e7f3084a69",
+  "feature_eligible": false
+}

@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:34:30.953171+00:00",
+  "lane": "news",
+  "pid": "Pf532d918b8",
+  "draft_year": 2001,
+  "name": "Damone Brown",
+  "draft_date": "2001-06-27",
+  "status": "ok",
+  "query": "\"Damone Brown\" (draft OR scouting OR prospect OR basketball) after:2000-07-01 before:2001-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Damone+Brown%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2000-07-01+before%3A2001-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Men's College Basketball - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SZmczbTQ4bmY2dW9CY3JRS0FGYUNmNHYyWEpQN3VKc0o4VnJfc2gxcmRvdUN5SjF6SlNVUk9YM0tsOEZiZFhXcUIxZXo1MTF6QnpzUjV3MnR2c3hMRU9QeFBPdy01Zw?oc=5",
+      "published_date": "2001-03-16",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "ea341c4ba1f535f07b6c623190774b3c77a199f338292767af1011b1c209ada1",
+  "feature_eligible": false
+}

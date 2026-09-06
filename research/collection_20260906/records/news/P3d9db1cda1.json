@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:35:40.215862+00:00",
+  "lane": "news",
+  "pid": "P3d9db1cda1",
+  "draft_year": 2002,
+  "name": "Chris Wilcox",
+  "draft_date": "2002-06-26",
+  "status": "ok",
+  "query": "\"Chris Wilcox\" (draft OR scouting OR prospect OR basketball) after:2001-07-01 before:2002-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Chris+Wilcox%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2001-07-01+before%3A2002-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Dixon, Terps Earn First Ever Trip Into Title Game With 97-88 Win Over Kansas - University of Maryland Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwOExoUVJJOXhxVVQ2akJDY0NZR0ZybnFfNkExQ3N0S0pTY0xCVjVfbF94M3hmNGt4Ym5HRkpNMWNFaVdrSDBkUDBvTWdyM3E3bGtCMllRZw?oc=5",
+      "published_date": "2002-03-30",
+      "source": "University of Maryland Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jeffries\\' decision expected on Monday - The Herald-Times",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc0tIbFZCcDFWcnd5V29fakFCdThta0huRlNkaTkzMWJMVkxoZ2xLdDJBZDdvN05PMWd1eGJHWlotVm1QV1NYbmVRcHdYMEx3ZlZoTWNvclVFYjZISXJwMkd6V0hjWU82d19kRVdoSnZ5cWZ1NHdESGtoS1ZjWFRaSFZ5Rm9mNTFJY3hyQU5jX2N5SmZSNEEwSUFKNFRENTdqTk9OWg?oc=5",
+      "published_date": "2002-04-04",
+      "source": "The Herald-Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Maryland gets drop on Clemson - Baltimore Sun",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE15Z1I3aThNNHI1TlhqNDF3alhvMEpIVVJGMUQ5MFlvbWZTQ2w0WnNIVzhudUFXYllBSmNETnAwSG0yclRwSm41Z3VfYWJ3WG96Rmh4X0xLaXRCbFFlX3JZdzdXX0tPd0ZKNGFEUHJRNlYxVkc5TnFHRzV3?oc=5",
+      "published_date": "2002-01-21",
+      "source": "Baltimore Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "99eda8a88359ea823730b2922fd5c3a2596fd6f8d064cb15e816ca703113ab89",
+  "feature_eligible": false
+}

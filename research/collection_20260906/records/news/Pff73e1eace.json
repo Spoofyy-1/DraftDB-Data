@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:34:44.263364+00:00",
+  "lane": "news",
+  "pid": "Pff73e1eace",
+  "draft_year": 2001,
+  "name": "Pau Gasol",
+  "draft_date": "2001-06-27",
+  "status": "ok",
+  "query": "\"Pau Gasol\" (draft OR scouting OR prospect OR basketball) after:2000-07-01 before:2001-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Pau+Gasol%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2000-07-01+before%3A2001-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Has a Foreign Accent - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOGJLS1FzSkE2R3V0cVhKc2xhODB4dHVEZHdNd0ZvMFBNek1HOVhJaU0xd3BwVDJXWS1FelY2WHlPalhFcERxdHhfVk1FYk5nckkxTkJiLXpCUUxJMVVGV0VQTzMxdlJoM1k5Rl9STW82cGFDdHlZci1OdDVHTXhfSjZBSGswYUt0a05xeENDRmNPal9TNnplclJFOFUteDFmZUk4SXRQWXIzMkwxbmVhblNOZ180NGhTUUI0?oc=5",
+      "published_date": "2001-04-26",
+      "source": "The Washington Post",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft 2001 - Lottery thickens draft outlook - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OT1VXWHRNTUJNVzVPRDVYcGVaVmtYTzF3ckRBYXQ0XzNOTHlKNnUwMHRrOFdhbGM1U3MzbVpSY1RRekxMN09RcGJNaDBhRFRxU2R2dk1lZWR5NlpnTEpLMDJxUkFJdnFSZTNR?oc=5",
+      "published_date": "2001-05-21",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "b6d8f15cb8aabde31f157f139fc34e0adff67b2cdce3dd00b81693bd4df6f251",
+  "feature_eligible": false
+}

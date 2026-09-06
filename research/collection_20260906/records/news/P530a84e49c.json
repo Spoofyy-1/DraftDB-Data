@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T09:28:46.525785+00:00",
+  "lane": "news",
+  "pid": "P530a84e49c",
+  "draft_year": 2000,
+  "name": "Andy Panko",
+  "draft_date": "2000-06-28",
+  "status": "empty",
+  "query": "\"Andy Panko\" (draft OR scouting OR prospect OR basketball) after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Andy+Panko%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "a9590f075ecb5b2ed0cae2d6753c9c9329b56c0864458e467322d48ddab778f5",
+  "feature_eligible": false
+}

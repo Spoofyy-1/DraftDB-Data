@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T09:32:51.498008+00:00",
+  "lane": "news",
+  "pid": "P75d87cd190",
+  "draft_year": 2001,
+  "name": "Jason Collins",
+  "draft_date": "2001-06-27",
+  "status": "ok",
+  "query": "\"Jason Collins\" (draft OR scouting OR prospect OR basketball) after:2000-07-01 before:2001-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Jason+Collins%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2000-07-01+before%3A2001-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Stanford's Jason Collins Declares For The NBA Draft - Stanford Cardinal",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeTJ4dENPaXJoVk0xZlEtZjA0NzVvRnZwRnpoR18xTVhxdTdubHRuN2RaUUFyeUh2RFk1LUUtZXJUeGFGV3RQSkxXX2VwVVZ5b2xKNVdiSTBPSF9JcGRhaTduRkRTbkZpakVIaXBvWnp4X3pIcHJPQWczQlJYaDZFdm11SDBLdDBMRHpCci1IMHhfNE0?oc=5",
+      "published_date": "2001-05-07",
+      "source": "Stanford Cardinal",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Beavers Fall To No.2 Stanford, 82-63 - Oregon State University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VWVFfblIxaXdsT1dDMjhTejBXa3Fva0dQVmNpYmhSczJVeXhjazUtV2JxeXhoUnllVDd0X3VMWlZjandzYXBjUUdMR0RmTjJMTzBYTzJxWGVQMkk?oc=5",
+      "published_date": "2001-02-10",
+      "source": "Oregon State University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Beating Duke boosts Stanford's confidence - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nSUVvS0NzV21ZYWZxRWw3U0k2LURiZ1FlVmx2U0RHT3FwbFhYTGFyUXdPZUxwTnZzNE1rSC1Nclh1V200eFRaSDU5TDZrcFhHcnJCTmVJa2ZUYlk?oc=5",
+      "published_date": "2000-12-22",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Parental Guidance / Moms and dads have special perspective on players - SFGATE",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNXlzVnl4YWI2dUJLLTFzVDd3TVBHZV8yZWl5Wk1MX1hfQktNS214bXE5cllNTnBuRHIzNXE4LWV5OC1UUmlMUllYbkNTOTJyRTM5N2VvT091LXduc3ZSWUtrcWtGOXlFLVpGT20yNXBoMS1kd3VxYzBYMWdFdGZQb0RNN0dOa3ZlWWMtM1ZkV1ZCZVE0TC1DQlpfTQ?oc=5",
+      "published_date": "2001-03-21",
+      "source": "SFGATE",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft 2001 - Lottery thickens draft outlook - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OT1VXWHRNTUJNVzVPRDVYcGVaVmtYTzF3ckRBYXQ0XzNOTHlKNnUwMHRrOFdhbGM1U3MzbVpSY1RRekxMN09RcGJNaDBhRFRxU2R2dk1lZWR5NlpnTEpLMDJxUkFJdnFSZTNR?oc=5",
+      "published_date": "2001-05-21",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "2de65c39557cf3ef3e7ac5012fc20ac197fb13e813b3d7cd68a38af37bb9a012",
+  "feature_eligible": false
+}

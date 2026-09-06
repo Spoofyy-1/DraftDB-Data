@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T09:29:09.717178+00:00",
+  "lane": "news",
+  "pid": "P7903308993",
+  "draft_year": 2000,
+  "name": "Jason Hart",
+  "draft_date": "2000-06-28",
+  "status": "ok",
+  "query": "\"Jason Hart\" (draft OR scouting OR prospect OR basketball) after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Jason+Hart%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Syracuse slips past UCLA to halt losing streak - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vVW1QdUVXXzZDeTV6RXhCNTFQTTlObzgxZUo4T1hhNnE4V05LZWU2UDBsWTZvanQxXzY0c1pMbDJneWpFNFdUeHVORVRVU3ctNDhrYTRHQl9qWkdpdEY2MlBVdG5GLVk?oc=5",
+      "published_date": "2000-02-13",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Men\u2019s Basketball Post Game Quotes - Notre Dame Fighting Irish",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNG5VcGNJYlFtRWxkMUhkVENRYVJ4R05oSjFIbEFQRU9PTTh0SkowNUJpUVZBY25fckQ0WFE4RUJvS3Q3aTFOdmxCcGJSYldzdnlUemhnLW1HSXhNdFZKbzJPYndWTGI3MDU1LTF4SkJOMW1lUTVULXgwY2NGR3Y0ag?oc=5",
+      "published_date": "2000-03-01",
+      "source": "Notre Dame Fighting Irish",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Syracuse Syracuse/South Carolina S. Carolina Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDN1J3aHFTZVRlc215YXJxMkpHaGwwQjUtLVQzSWxjdHVQYzVxWFVsTDlQVGpBUEFBUTBRb3laNzlXaXhJd2Z5MzNFaklQUElsaktrOERJdVpxSU5yZXF4VlBvdmxNVkk?oc=5",
+      "published_date": "2000-01-13",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Williams, Maybin power Louisville - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84Q2kyUGF1ck45WHo2Q09vNm1oU3hFUldWUU10V0ZnSEY0dWQxbUd3a3hLU0RCelFNQTdzUXo2dXRLMEpXOXZpTDJmLVVNS1poM0RzaF9TWXktS1RvdnQwYjQwam8xTTg?oc=5",
+      "published_date": "2000-02-10",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "e33f5e87a6614bd3b9d266ee9b86e3d8f42ba2491cedbd4f0331d526934441b0",
+  "feature_eligible": false
+}

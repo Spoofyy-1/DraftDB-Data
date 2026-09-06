@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:33:04.789638+00:00",
+  "lane": "news",
+  "pid": "P8fba680b01",
+  "draft_year": 2001,
+  "name": "Dean Oliver",
+  "draft_date": "2001-06-27",
+  "status": "ok",
+  "query": "\"Dean Oliver\" (draft OR scouting OR prospect OR basketball) after:2000-07-01 before:2001-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Dean+Oliver%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2000-07-01+before%3A2001-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Griffin Goes Out With A Bang Against Iowa - University of Illinois Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ2lxRXlCU1RuMTZjYlNjZUlNeGVscXRLem9TbVJaM05BZXAwQ1dJVVNsX0hwUmZfTW5TOEhpUG5FRXlqbndGVHFLNThlX0UyY2NRWHBqZEJXeE9hOGgxVlRiRkU1RFN3Qmd5MXRWZnJZOGdLTnhyNHNnbTdiN3Q1dHBLNThtNGdpZmEw?oc=5",
+      "published_date": "2001-02-24",
+      "source": "University of Illinois Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Men's College Basketball - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iRG1SUDBsbTM1LTQ4RTFYQnJ2ckZiSkJ0OEVZZ0NwUHlpR1YtclJWOXYyTlN4N2FjeVR2NFEtb3ZENTN2VGI3cm5Yb0lQOGo1SkhUdTFldTNGdGY2cXFyN1BJYW0wNVU?oc=5",
+      "published_date": "2001-03-11",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Hoosier-born Boyd guns down Indiana - The Herald-Times",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZzZOdlNMZVhTWm1nOGw5enprY2ZpQS15dUl1RWltY0VmTVNuU3RQcHZIMlc2dV9rMkI5d04wRFF0el9kcTJiaDB2YTlFbkZ4amZRcURvZExTenRfdVJ3SkswbFpXNk55UzZaVDNjd1cxMGlkNTl1Um5SYzVWQ0x2cGkzNC1JU2hNYXpqazhUc0oxWHBCQjF6SzVPVEZZcE1GZ0Fv?oc=5",
+      "published_date": "2001-03-12",
+      "source": "The Herald-Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "b7fced246608c188d44b3b1bdda885c7ae841734299dd7bd2ac59d2bb9f74336",
+  "feature_eligible": false
+}

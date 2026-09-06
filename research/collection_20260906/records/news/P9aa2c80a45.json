@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:29:49.140498+00:00",
+  "lane": "news",
+  "pid": "P9aa2c80a45",
+  "draft_year": 2000,
+  "name": "Pepe Sanchez",
+  "draft_date": "2000-06-28",
+  "status": "ok",
+  "query": "\"Pepe Sanchez\" (draft OR scouting OR prospect OR basketball) after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Pepe+Sanchez%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Sanchez directs Temple past Lafayette - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DeTk1b0NWQlJfS2t6bEVrUFhHbUlOS1ZuNzU5WWxtd3FiZHVyVngtRDhpNEJva2ZDTHVPTE82ZVpPdXpmZ211aUJUTEFSMGVNX2NnVDAwbDZ4T05rdzYwZWRRRHd1WGM?oc=5",
+      "published_date": "2000-03-17",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "94f084306c0cd67fa935e72edcd473531718dc80207a292d1bc33fa08dacc95c",
+  "feature_eligible": false
+}

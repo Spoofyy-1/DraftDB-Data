@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:36:34.243302+00:00",
+  "lane": "news",
+  "pid": "P71645345d7",
+  "draft_year": 2002,
+  "name": "Jamal Sampson",
+  "draft_date": "2002-06-26",
+  "status": "ok",
+  "query": "\"Jamal Sampson\" (draft OR scouting OR prospect OR basketball) after:2001-07-01 before:2002-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Jamal+Sampson%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2001-07-01+before%3A2002-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Sampson's choice a lesson for him and Cal - CT Insider",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdlNvN2k4YnlHSkRjU3pZendxTFFIVzdZZVpnejZmZjZDTmtBRjFNWDl6UDlDdUlmWTdKOVRsUE1uOHdUS2pJU08xUVdOWkRMa2xKUjNrdXA5d0dTWUJwUUtXOTkxUFg1clJSTWdKLVdfZDFIWE1SNFUtSm91c2kyT3huY21LT1hPay1lckhtTk8wdW1nOE83NWx3?oc=5",
+      "published_date": "2002-03-26",
+      "source": "CT Insider",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "fa31238c807680646392762e050f19eb1731bc5006010b0873f36d025343988f",
+  "feature_eligible": false
+}

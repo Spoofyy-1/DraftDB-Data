@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:27:30.598200+00:00",
+  "lane": "news",
+  "pid": "P0a16bf5dcd",
+  "draft_year": 2000,
+  "name": "Chris Mihm",
+  "draft_date": "2000-06-28",
+  "status": "ok",
+  "query": "\"Chris Mihm\" (draft OR scouting OR prospect OR basketball) after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Chris+Mihm%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Texas too much for Sycamores - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jZjNOdmFXUDRWVWpWVE9zZzBFaFV2TE9IY21zbWlRcTJFTG1nRFVRdXpMU1R1N2hNMXFvVktsSVJROWMtd04yTjZjcXk5QXJjSktSQmZKRDhibGsydUZRMUdsRzBSSFU?oc=5",
+      "published_date": "2000-03-16",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "b939f4a1522af2e155d1ffeb34f6f172a9b9f98d73ffe40283ab67ecd4ca035a",
+  "feature_eligible": false
+}

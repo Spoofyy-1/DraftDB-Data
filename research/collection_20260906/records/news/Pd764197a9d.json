@@ -1,0 +1,64 @@
+{
+  "collected_at": "2026-09-06T09:30:42.068066+00:00",
+  "lane": "news",
+  "pid": "Pd764197a9d",
+  "draft_year": 2000,
+  "name": "Jabari Smith",
+  "draft_date": "2000-06-28",
+  "status": "ok",
+  "query": "\"Jabari Smith\" (draft OR scouting OR prospect OR basketball) after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Jabari+Smith%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Mississippi Mississippi/LSU LSU Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9scUZ6ZDZvbVp4Yy1ObDk1YU9BOXppNnlrWE9kOE03NEJ2ei1STnVrLWFmaXJjeDhIc2tCeV80RnJReldSRnBpNWZaWFJpQlZWZ0xpbFRSVjVPY3d4aDNZcktIRnJSbTQ?oc=5",
+      "published_date": "2000-03-04",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Auburn Auburn/LSU LSU Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hYUtnNERBV19BVWlnNmVIcldqYWtBa3RIcnBmWlliUkpTQkZ2akNXSXdYVVV3Tl9LNEd5cWN1TTNqRnY5aExzMzZ1YTRGTkpBZFZuLWMzb0N5M0VPdC1MeF9hN0xnSlU?oc=5",
+      "published_date": "2000-02-09",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Arizona Arizona/LSU LSU Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IOThTeG51VHEwS01vdW8tT2RlR0l4TndweTdzbmFpUTVxRmoxZ0JOcl9MRDFrWFM5dHFpVklIOFduUmJGTGNjcnA4SkJJVnl0bEd3aTlxYU5LSnRIR2xfclpTekdpZVE?oc=5",
+      "published_date": "2000-01-29",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "LSU LSU/Arkansas Arkansas Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ra2F4cGhqaG5wUmZvVTNOMkpkZjRoa2llNmRsRXlGQXFGel9VcFVrRjlXS1ZoY3U2MjRQb2lSQmszS0luYkFJWWhYUjJ3blFJeDNvTC1vZWRUVW1FMWhaWkJERXR3MEU?oc=5",
+      "published_date": "2000-02-19",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "SE Missouri State SE Mo. St/LSU LSU Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05cFdFSDE4TFhfQ2hhcGF2OHRkZ1NmRm81OUNNLTU2Q0I5cHJra3dmbFhCbjhqUjJtRVFZTEZhOHNuQXJid1U5ZC14UjREbWt3WDJqcENqazdOdjlfVnRhOFFQdTJ4Umc?oc=5",
+      "published_date": "2000-03-16",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Wisconsin Wisconsin/LSU LSU Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TLXV5OGI3ZzFFaXBBcXRuMC1PZU9CU2xEc3h5LUFpT29XaVlfMEdoTWdYd1RCRG4yRHdadFZVTVFIbHgyM3dsblFJcV92WU1iXzJtWnljSlJ4aEhsQmoydk5xcjN3VVE?oc=5",
+      "published_date": "2000-03-23",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "7abc4840a9799e837dd48e2843fb6df09c2cccd7b3af32e3a82d2470ae8bda16",
+  "feature_eligible": false
+}

@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T09:30:55.402876+00:00",
+  "lane": "news",
+  "pid": "Pe7b575da0a",
+  "draft_year": 2000,
+  "name": "Daniel Santiago",
+  "draft_date": "2000-06-28",
+  "status": "empty",
+  "query": "\"Daniel Santiago\" (draft OR scouting OR prospect OR basketball) after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Daniel+Santiago%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "20e1d4116295b52efe8d83b62998a7191f77a3c49ad792a2da88bf2fd0733a34",
+  "feature_eligible": false
+}

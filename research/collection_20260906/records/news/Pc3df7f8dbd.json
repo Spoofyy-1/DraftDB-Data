@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:30:25.434839+00:00",
+  "lane": "news",
+  "pid": "Pc3df7f8dbd",
+  "draft_year": 2000,
+  "name": "Mark Madsen",
+  "draft_date": "2000-06-28",
+  "status": "ok",
+  "query": "\"Mark Madsen\" (draft OR scouting OR prospect OR basketball) after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Mark+Madsen%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Jefferson leads Arizona past Stanford - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vRE0yRWFtNkhuRVpOSHhpeEJtenRqblRpVHBmWW8yWm1WT0NVMmVxUDRjNlhQZUQ3cFVSZnM3bWtxRzVvNHNrWnFycDBUeUJ2STk0Mm9FbFpxY2hqYzFYd2FvTDZldkE?oc=5",
+      "published_date": "2000-03-09",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "ESPN.com - College Basketball - Surprise! They've got game - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14cHRpNUlsdFlPSVJfUDN2allSc3hFczdoMDMxcmpkVGdkdjY1OGpvcGVEZU1JbFk5OTNkQmhUaUIyLVpoWFBJSWdOMk9OSEJ5ZF9JOFpfVW9EeE1R?oc=5",
+      "published_date": "1999-12-27",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "California California/Stanford Stanford Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xSUdZV214UnBQTGNMblJlbUlfRnRQUG5ESzFlanUzaDJBM19CM0JWTlpOUHIzVm40bngxa0dJZ2F6MVZxM3ZGWFFuUmJSMThlM00ydXhGVThhTU0xOWNzMWtrek9ieEk?oc=5",
+      "published_date": "2000-02-19",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "f070d1384a32abe45a0b49adbd2c41dd7e96738025de20108671735f7cef2db5",
+  "feature_eligible": false
+}

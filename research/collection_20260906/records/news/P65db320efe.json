@@ -1,0 +1,64 @@
+{
+  "collected_at": "2026-09-06T09:28:56.313755+00:00",
+  "lane": "news",
+  "pid": "P65db320efe",
+  "draft_year": 2000,
+  "name": "Michael Redd",
+  "draft_date": "2000-06-28",
+  "status": "ok",
+  "query": "\"Michael Redd\" (draft OR scouting OR prospect OR basketball) after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Michael+Redd%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "College Basketball - Ohio State's Redd to skip senior season - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kTHMtZ3pmTnU1UXVwZW43YTRqdTMtNlh2X1BpRlpGanBjRjJUcFNTbVlHVXNEc3ZhX3g3MTkwVC04b25qQVhHSEtyc2JmQzloYlpjX2hTSVFIWTMtaDltRQ?oc=5",
+      "published_date": "2000-04-25",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Men's Hoops Win Streak Ends At No. 6 Ohio State, 64-51 - University of Illinois Athletics",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeGxvcFZaa0VPQlFpNlhFRnpoZVZjaWZCREpid3hHY2I1Y2Z6U0lSNExQb3FpcHJmMGpqTTl6aUJlak9QOGxkWDdXWUdoYjdYN1RSV3pCU1JDMkZBNDluSHhvOHYzY1lQemxYcXBZNGxmZ3RWcnRqMVJ3TEl1TlNlQ1JDS0g3YWVKTHEzZmE1UUVjQ012NnRIbHR3?oc=5",
+      "published_date": "2000-02-27",
+      "source": "University of Illinois Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Ohio State Ohio State/Indiana Indiana Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Nc3N2SnBJbDBLUWZJZ0dxN2poaVdpTVQ2d19qNmp3VGJjbmRNd2RJNk1RUk1kUnZJaU9iZkMtb05WbGRqOUFqYV9iLURvQUIyY3c0OW5wMzJScVd1dU5VWHViT1NDaDA?oc=5",
+      "published_date": "2000-02-19",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Oliver keeps Iowa close, Galloway wins it - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14U19DSVA3Z2VLaW9YUVUxeWZ3bURpRGZsQ1Y0VHpqQ3lvckZnRXZOVkxWN2dxaG8wbTE2aXJwaFJ4VjRPMmJOZ0VpcHNwSkRxWUg1OWN4SF9ucXViTldiUERyS2x4OVU?oc=5",
+      "published_date": "2000-02-09",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Michigan State Michigan St/Ohio State Ohio State Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QNkg5SDJmbFlwT21wdm85REo3ZUZBOHA3VXgwQ0VfY3REbGp3blJTT2pCMUh2WUUwaHVFLVJULUs5YjR1cmdQOVVveHRuVXRhQmlONzlOWmJ0UnJ6OUI2YWRGVzJRRHc?oc=5",
+      "published_date": "2000-01-20",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Ohio State wins rematch with St. John's - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wb282TmVZUWVGQmhySFNrSmpsZUt4WlpPWHVFTHVjX0NsRkpoYjVLeDNlQWdUaHF0NXJsTkhEeDdaTzBBYXE4bTh5SnhYbzBOLXk2SmNrTm0wNWdlWFUwdEZteGtzek0?oc=5",
+      "published_date": "2000-01-22",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "a398f81666637d6a5a10bf51da455506a1450ba3d37145146594bbd0c27d1a2b",
+  "feature_eligible": false
+}

@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:33:11.363745+00:00",
+  "lane": "news",
+  "pid": "P989fbfa539",
+  "draft_year": 2001,
+  "name": "Brian Scalabrine",
+  "draft_date": "2001-06-27",
+  "status": "ok",
+  "query": "\"Brian Scalabrine\" (draft OR scouting OR prospect OR basketball) after:2000-07-01 before:2001-06-27",
+  "query_url": "https://news.google.com/rss/search?q=%22Brian+Scalabrine%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2000-07-01+before%3A2001-06-27&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Men's College Basketball - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zQ0VsM3VLVG9oVEl0QVBpMVpFbENJUGxHVldNVzVGb1pFS1R1cjVBTkt6dkFhNFBQV0xmUlRSZnhIbzYxUjZwR0gyV3JyNmlvVHFweFpQUDRvdXVZYld6NlBkdllyWms?oc=5",
+      "published_date": "2000-12-02",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "a690fce209feef54eb451ecab550288c0605fe6c58e3dab86d84b1f18fa3ad00",
+  "feature_eligible": false
+}

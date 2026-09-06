@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T09:27:43.703175+00:00",
+  "lane": "news",
+  "pid": "P189ad0416e",
+  "draft_year": 2000,
+  "name": "A.J. Guyton",
+  "draft_date": "2000-06-28",
+  "status": "ok",
+  "query": "\"A.J. Guyton\" (draft OR scouting OR prospect OR basketball) after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22A.J.+Guyton%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Iowa Iowa/Indiana Indiana Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yZy14b1BLT3hxRHhYcF9veUYwZ1NRWG1oNGtBRzFWMjBIRW5PekEtTjE3NDQ0eDhqTzUyV3RPQjVHZWE1ZmNIdFVRS3N4M0doMmVOMnVoMUZCc28xak9GS1RMdkJ6dk0?oc=5",
+      "published_date": "2000-01-18",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Hoosier basketball lands another A.J. - The Herald-Times",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaG1NaDZaSGJJdnlPY1c2QjhZMks0SnE2aTB3cE8yLU1rOXNmb3lTMTljQk8tWk5TV0JxSWcyYjZvdl90Nk4yNWc0UUlaMVZ5VWRjMlRYM0dWa1labDBFUmtIajdYZnZxcUxWNHJ2d05WNnJXam41ZVBUMTc1bEw1TzdSR2NhS0lrajdOQlA4bHpTcWhyd0NiOXZkeE9vSVZFcE5R?oc=5",
+      "published_date": "1999-11-13",
+      "source": "The Herald-Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Ohio State Ohio State/Indiana Indiana Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Nc3N2SnBJbDBLUWZJZ0dxN2poaVdpTVQ2d19qNmp3VGJjbmRNd2RJNk1RUk1kUnZJaU9iZkMtb05WbGRqOUFqYV9iLURvQUIyY3c0OW5wMzJScVd1dU5VWHViT1NDaDA?oc=5",
+      "published_date": "2000-02-19",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Classic imperfection - The Herald-Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ21TZmp6UkNKaENDQXVKcHV3VEE5Zk5XeXR2ekJKQ2RYS0xodVdMMnhucWZmdEFIcnRwU1V4UmdHbms4dFVTZWplSklkeXE5Z292cVhYU1FzSk1qNi13TVk2TWhrZVAtTlZ1bjBfSGNPSU41WTJpZU5sZlRKX2VMbWxRNnhQNnNCNDR6S2FQdw?oc=5",
+      "published_date": "1999-12-12",
+      "source": "The Herald-Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Purdue Purdue/Indiana Indiana Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05Q3FVbWlKRU5EckVaODQxNHdOS3NZbjdiaDRYaWtJLWdKU1lENGJtM3J6RXZ3SXNNT0twR0F5ZTBuNVgxc3I3MERDSnJobm5nZnZ2MjdCQW5BWUIyODJ5TXQxc2E3MzA?oc=5",
+      "published_date": "2000-02-29",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "6acf936216d783f71f2284945d9608c35dfbcac6afbc8738d1524ef1ccdd37f0",
+  "feature_eligible": false
+}

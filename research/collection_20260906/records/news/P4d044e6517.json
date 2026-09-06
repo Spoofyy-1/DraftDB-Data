@@ -1,0 +1,72 @@
+{
+  "collected_at": "2026-09-06T09:28:39.958032+00:00",
+  "lane": "news",
+  "pid": "P4d044e6517",
+  "draft_year": 2000,
+  "name": "Jamal Crawford",
+  "draft_date": "2000-06-28",
+  "status": "ok",
+  "query": "\"Jamal Crawford\" (draft OR scouting OR prospect OR basketball) after:1999-07-01 before:2000-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Jamal+Crawford%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A1999-07-01+before%3A2000-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Jamal Crawford to Put Name on NBA Draft List - University of Michigan Athletics",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRkNFVk1jTm5wRFBSN2NTQVFMTGg0ZXRWVS1Hd0pPem5VYlM4akRxbHJOMmZ1UWQ5RUo4WUhWNHc3cVhDT2FNWmN0bXVjd1o0aEhWMWJBTGVLMVZCV0c2OWtOYkRUYXNDMVh5VFE4ZWFmWURpUXp4THZYVTdsMUxaOG1CZVQ?oc=5",
+      "published_date": "2000-05-09",
+      "source": "University of Michigan Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "College Basketball - Crawford leaves against Ellerbe's wishes - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1laFJpZVY3UWduV2UxMzBPdGNydDF3WkNFaHFLUjRYUWtfbkNBbGhOdVp1ckN6MUJBUEpEOEZHaVVMdXNhOUhEMVZPdFd3WW1saTNIeDFOREVuYW41dXFnTA?oc=5",
+      "published_date": "2000-05-09",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Crawford Sits 8 More Games - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sRmZEemtVV25FWHJIeXNfcDl5WDlOVmJJcnBvQ3Y3NUY4YmxrQjZqenNpS1FkOHZ2MkVkcHNqY1UxNmlfNGhLODhDbjRVQVVHUWhUNUZ3WEpUdFZ1NWdCeVlVZTNQTlE?oc=5",
+      "published_date": "2000-02-04",
+      "source": "CBS News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Illinois Illinois/Michigan Michigan Men's College Basketball recap on ESPN - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HX3Bsajg3WE0zYklfV2g4UzJXa2lBRC1DQXhqcEZpZHRJcTBjTHYyLWRHN1pUX3Z4b1NnZHRlMDFsRlpOT0NsTjdnZEJsei1qZ21zVloxN3h3RHk0QllqTUxIZDg0enM?oc=5",
+      "published_date": "2000-01-16",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Michigan AD Goss Resigns - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwMFFXQmxnbERQQ2o5V0hlYVNFZWtmNkRITEtueTRaNWNSc0xIWXFVZFpTcDZDTk9Fd0RFTXJUUkU5dEMwd093bXNyaUlXS21LdHVaQ0JoMUc1aUdDc3Q4UG1XUUQ?oc=5",
+      "published_date": "2000-02-08",
+      "source": "CBS News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "GEN - Goss had rocky 29 months in Ann Arbor - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yZGk1SVpHZFhfRlhEWm1ESmxCOXJvMnh2cXc0NGhDNURWWEtBMmhMbDhiWjlKWGNROGpaMmg3SzlJRlNJeUI2bE9mLUdHeEZHaFgtUkRqM1FLeGlvRWlj?oc=5",
+      "published_date": "2000-02-09",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "ESPN.com - College Basketball - Surprise! They've got game - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14cHRpNUlsdFlPSVJfUDN2allSc3hFczdoMDMxcmpkVGdkdjY1OGpvcGVEZU1JbFk5OTNkQmhUaUIyLVpoWFBJSWdOMk9OSEJ5ZF9JOFpfVW9EeE1R?oc=5",
+      "published_date": "1999-12-27",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "6a5b9e25592046969f74604bd4e6b22d85000fa3559da6729b1ae141666260a9",
+  "feature_eligible": false
+}

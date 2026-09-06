@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:36:10.959781+00:00",
+  "lane": "news",
+  "pid": "P5656ae84e7",
+  "draft_year": 2002,
+  "name": "Juan Dixon",
+  "draft_date": "2002-06-26",
+  "status": "ok",
+  "query": "\"Juan Dixon\" (draft OR scouting OR prospect OR basketball) after:2001-07-01 before:2002-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Juan+Dixon%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2001-07-01+before%3A2002-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Dixon, Terps Earn First Ever Trip Into Title Game With 97-88 Win Over Kansas - University of Maryland Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwOExoUVJJOXhxVVQ2akJDY0NZR0ZybnFfNkExQ3N0S0pTY0xCVjVfbF94M3hmNGt4Ym5HRkpNMWNFaVdrSDBkUDBvTWdyM3E3bGtCMllRZw?oc=5",
+      "published_date": "2002-03-30",
+      "source": "University of Maryland Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Best Seat in the House - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcURoNEhGcmd6cFJRdzlpMHUtc2tZT1VRdWdBcWtXUFcwQTBGdnFfWnhVcm56MDJtVlRIUkZndjdJVnI4cUlYRmZZQzdVcjlZSUg2LS03RnFhZ3l4RHVScGVtZnByQW9QcFhBTk5GWi1WZzVUTm55dUVaZ2lNdVkzN2Q5cWt2NXRpbE9FSW9hTWhzV2xWUHd5VllHTGNHU0tibE9fdi05enFvZUE0NjhBWnhONnVCaUxiRS1FUw?oc=5",
+      "published_date": "2002-03-30",
+      "source": "The Washington Post",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "East regional championship: Blake boosts Terrapins - Lawrence Journal-World",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vbWFXVmpvTEY4eC1FclVqMTI0Z2N4VWpTcEZ2bGFQeXF3ZDRrYnZ2RWhkM293MFd1aEZsZEdDV1RPRjdoT003QW5UTFRpLUJwQjAydE1naHRKZFV0QVdJSG1EbUhpbjNBVW9CLURhclF1MGtvcklLaw?oc=5",
+      "published_date": "2002-03-25",
+      "source": "Lawrence Journal-World",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "26793f3e8763d937639b976ecbea835ece28324d766e763da9ee8856dd269ee8",
+  "feature_eligible": false
+}
