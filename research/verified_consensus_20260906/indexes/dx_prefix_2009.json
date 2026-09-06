@@ -1,0 +1,30 @@
+{
+  "publisher": "dx_prefix",
+  "draft_year": 2009,
+  "draft_date": "2009-06-25",
+  "cutoff_utc": "2009-06-25T04:00:00+00:00",
+  "query_url": "https://web.archive.org/cdx/search/cdx?url=www.draftexpress.com%2Fnba-mock-draft%2F2009&matchType=prefix&from=20090301&to=20090625035959&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=250",
+  "feature_eligible": false,
+  "status": "discovery_only",
+  "retrieved_at": "2026-09-06T11:45:09.115121+00:00",
+  "records": [
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2009/lottery",
+      "timestamp": "20090311001826",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2009/lottery",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "RA6EE667W5XASNVI6AAJ3X7R3DPLOKK6",
+      "length": "9568"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2009/nba.php",
+      "timestamp": "20090614114848",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2009/nba.php",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "4OQUIJRWRNMQPMXM3LGQFARTW6YYPVJX",
+      "length": "9891"
+    }
+  ]
+}

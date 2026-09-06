@@ -1,0 +1,21 @@
+{
+  "publisher": "walter",
+  "draft_year": 2008,
+  "draft_date": "2008-06-26",
+  "cutoff_utc": "2008-06-26T04:00:00+00:00",
+  "query_url": "https://web.archive.org/cdx/search/cdx?url=www.walterfootball.com%2Fnbadraft2008.php&matchType=exact&from=20080301&to=20080626035959&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=250",
+  "feature_eligible": false,
+  "status": "discovery_only",
+  "retrieved_at": "2026-09-06T11:45:06.012358+00:00",
+  "records": [
+    {
+      "urlkey": "com,walterfootball)/nbadraft2008.php",
+      "timestamp": "20080605034211",
+      "original": "http://walterfootball.com:80/nbadraft2008.php",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "FNODEBCAIKEG2LD2DPMHK2S3RD44IDO2",
+      "length": "15274"
+    }
+  ]
+}

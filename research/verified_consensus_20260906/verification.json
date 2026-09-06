@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "verified_mock_tables": 16,
+  "rank_observations_verified": 715,
+  "identity_policy": "Exact normalized name plus exact draft cohort; no aliases, fuzzy joins or outcome-assisted identity resolution",
+  "adversarial_cases_rejected": [
+    "DX truncated second round",
+    "DX two subject links in player cell",
+    "NBADraft wrong cohort header",
+    "NBADraft missing player row",
+    "Walter missing OL boundary"
+  ],
+  "model_or_test_scoring_performed": false
+}

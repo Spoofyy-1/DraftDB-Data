@@ -1,0 +1,203 @@
+{
+  "rank_observations": 715,
+  "eligible_players": 402,
+  "players_with_two_publishers": 313,
+  "verified_sources": 16,
+  "actual_pick_or_outcome_columns_used": false,
+  "training_or_scoring_performed": false,
+  "per_year": {
+    "2007": {
+      "eligible_players": 46,
+      "two_publishers": 28,
+      "model_universe_players": 61,
+      "model_players_with_rank": 44,
+      "sources": [
+        {
+          "publisher": "dx",
+          "listed_count": 60,
+          "matched_players": 46,
+          "last_updated": "2007-06-22",
+          "capture_utc": "2007-06-26T20:54:51+00:00"
+        },
+        {
+          "publisher": "walter",
+          "listed_count": 30,
+          "matched_players": 28,
+          "last_updated": "2007-05-25",
+          "capture_utc": "2007-06-03T15:15:17+00:00"
+        }
+      ]
+    },
+    "2008": {
+      "eligible_players": 43,
+      "two_publishers": 29,
+      "model_universe_players": 63,
+      "model_players_with_rank": 40,
+      "sources": [
+        {
+          "publisher": "dx",
+          "listed_count": 60,
+          "matched_players": 43,
+          "last_updated": "2008-05-06",
+          "capture_utc": "2008-05-09T16:54:25+00:00"
+        },
+        {
+          "publisher": "walter",
+          "listed_count": 30,
+          "matched_players": 29,
+          "last_updated": "2008-05-31",
+          "capture_utc": "2008-06-05T03:42:11+00:00"
+        }
+      ]
+    },
+    "2009": {
+      "eligible_players": 41,
+      "two_publishers": 30,
+      "model_universe_players": 60,
+      "model_players_with_rank": 40,
+      "sources": [
+        {
+          "publisher": "dx",
+          "listed_count": 60,
+          "matched_players": 32,
+          "last_updated": "2009-02-26",
+          "capture_utc": "2009-02-28T19:34:34+00:00"
+        },
+        {
+          "publisher": "nbadraft",
+          "listed_count": 60,
+          "matched_players": 39,
+          "last_updated": "2009-05-27",
+          "capture_utc": "2009-05-31T06:37:46+00:00"
+        }
+      ]
+    },
+    "2010": {
+      "eligible_players": 53,
+      "two_publishers": 48,
+      "model_universe_players": 67,
+      "model_players_with_rank": 49,
+      "sources": [
+        {
+          "publisher": "dx",
+          "listed_count": 60,
+          "matched_players": 50,
+          "last_updated": "2010-06-21",
+          "capture_utc": "2010-06-22T10:05:23+00:00"
+        },
+        {
+          "publisher": "nbadraft",
+          "listed_count": 60,
+          "matched_players": 51,
+          "last_updated": "2010-06-15",
+          "capture_utc": "2010-06-22T03:28:55+00:00"
+        }
+      ]
+    },
+    "2011": {
+      "eligible_players": 57,
+      "two_publishers": 51,
+      "model_universe_players": 78,
+      "model_players_with_rank": 54,
+      "sources": [
+        {
+          "publisher": "dx",
+          "listed_count": 60,
+          "matched_players": 53,
+          "last_updated": "2011-06-22",
+          "capture_utc": "2011-06-22T22:38:42+00:00"
+        },
+        {
+          "publisher": "nbadraft",
+          "listed_count": 60,
+          "matched_players": 55,
+          "last_updated": "2011-06-21",
+          "capture_utc": "2011-06-22T17:34:09+00:00"
+        }
+      ]
+    },
+    "2012": {
+      "eligible_players": 55,
+      "two_publishers": 45,
+      "model_universe_players": 74,
+      "model_players_with_rank": 53,
+      "sources": [
+        {
+          "publisher": "dx",
+          "listed_count": 60,
+          "matched_players": 53,
+          "last_updated": "2012-06-27",
+          "capture_utc": "2012-06-28T01:23:46+00:00"
+        },
+        {
+          "publisher": "nbadraft",
+          "listed_count": 60,
+          "matched_players": 47,
+          "last_updated": "2012-06-26",
+          "capture_utc": "2012-06-27T07:19:13+00:00"
+        }
+      ]
+    },
+    "2013": {
+      "eligible_players": 51,
+      "two_publishers": 40,
+      "model_universe_players": 80,
+      "model_players_with_rank": 48,
+      "sources": [
+        {
+          "publisher": "dx",
+          "listed_count": 60,
+          "matched_players": 47,
+          "last_updated": "2013-06-19",
+          "capture_utc": "2013-06-21T01:57:03+00:00"
+        },
+        {
+          "publisher": "nbadraft",
+          "listed_count": 60,
+          "matched_players": 44,
+          "last_updated": "2013-06-19",
+          "capture_utc": "2013-06-20T23:46:54+00:00"
+        }
+      ]
+    },
+    "2014": {
+      "eligible_players": 56,
+      "two_publishers": 42,
+      "model_universe_players": 83,
+      "model_players_with_rank": 53,
+      "sources": [
+        {
+          "publisher": "dx",
+          "listed_count": 60,
+          "matched_players": 50,
+          "last_updated": "2014-06-25",
+          "capture_utc": "2014-06-25T21:37:44+00:00"
+        },
+        {
+          "publisher": "nbadraft",
+          "listed_count": 60,
+          "matched_players": 48,
+          "last_updated": "2014-06-20",
+          "capture_utc": "2014-06-24T13:10:06+00:00"
+        }
+      ]
+    }
+  },
+  "fold_training_coverage": [
+    {
+      "training_draft_year_at_most": 2010,
+      "players_with_rank": 173,
+      "players_with_two_publishers": 131
+    },
+    {
+      "training_draft_year_at_most": 2011,
+      "players_with_rank": 227,
+      "players_with_two_publishers": 182
+    },
+    {
+      "training_draft_year_at_most": 2012,
+      "players_with_rank": 280,
+      "players_with_two_publishers": 227
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "publisher": "dx",
+  "draft_year": 2007,
+  "draft_date": "2007-06-28",
+  "cutoff_utc": "2007-06-28T04:00:00+00:00",
+  "query_url": "https://web.archive.org/cdx/search/cdx?url=www.draftexpress.com%2Fmymock.php%3Fpage%3Dofficial%26year%3D2007&matchType=exact&from=20070101&to=20070628035959&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=250",
+  "feature_eligible": false,
+  "status": "discovery_only",
+  "retrieved_at": "2026-09-06T11:39:27.836390+00:00",
+  "records": [
+    {
+      "urlkey": "com,draftexpress)/mymock.php?page=official&year=2007",
+      "timestamp": "20070219082241",
+      "original": "http://www.draftexpress.com:80/mymock.php?page=official&year=2007",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WS3Z2SA6VCEKKFEQ7YVJGV73BABNVWNH",
+      "length": "8134"
+    },
+    {
+      "urlkey": "com,draftexpress)/mymock.php?page=official&year=2007",
+      "timestamp": "20070221024841",
+      "original": "http://www.draftexpress.com:80/mymock.php?page=official&year=2007",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "FWB5JBTKW5I5SACM3YVV2WNEDXQUB4PG",
+      "length": "8926"
+    },
+    {
+      "urlkey": "com,draftexpress)/mymock.php?page=official&year=2007",
+      "timestamp": "20070320082719",
+      "original": "http://www.draftexpress.com:80/mymock.php?page=official&year=2007",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "J5SKKRM3OV7WL7YTUY7UARSW7DVM67KE",
+      "length": "8750"
+    },
+    {
+      "urlkey": "com,draftexpress)/mymock.php?page=official&year=2007",
+      "timestamp": "20070329002441",
+      "original": "http://www.draftexpress.com:80/mymock.php?page=official&year=2007",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "LZ7CZXC426J3MNWRIZCUF6VCQL3C375I",
+      "length": "8493"
+    },
+    {
+      "urlkey": "com,draftexpress)/mymock.php?page=official&year=2007",
+      "timestamp": "20070406113651",
+      "original": "http://www.draftexpress.com:80/mymock.php?page=official&year=2007",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "MCNEIXHGEU6PQ7L56DPE2COJP7ATRFKX",
+      "length": "8460"
+    },
+    {
+      "urlkey": "com,draftexpress)/mymock.php?page=official&year=2007",
+      "timestamp": "20070501202055",
+      "original": "http://www.draftexpress.com:80/mymock.php?page=official&year=2007",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WQEQQWTJ7DU7VFURU3TSJWWJTXAQRY7J",
+      "length": "8606"
+    },
+    {
+      "urlkey": "com,draftexpress)/mymock.php?page=official&year=2007",
+      "timestamp": "20070506194705",
+      "original": "http://www.draftexpress.com:80/mymock.php?page=official&year=2007",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NU5A7EDLAZZWG5WHAH67MAA2QBWLCRXF",
+      "length": "8615"
+    },
+    {
+      "urlkey": "com,draftexpress)/mymock.php?page=official&year=2007",
+      "timestamp": "20070525132344",
+      "original": "http://www.draftexpress.com:80/mymock.php?page=official&year=2007",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "6MG5YLHNWOFS3T3HOVX4YULXUM6SLZX4",
+      "length": "8985"
+    },
+    {
+      "urlkey": "com,draftexpress)/mymock.php?page=official&year=2007",
+      "timestamp": "20070611090552",
+      "original": "http://www.draftexpress.com:80/mymock.php?page=official&year=2007",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "XPYCNFCKAPTTPDTXCJRY6272XKBBSAD7",
+      "length": "9451"
+    },
+    {
+      "urlkey": "com,draftexpress)/mymock.php?page=official&year=2007",
+      "timestamp": "20070626205451",
+      "original": "http://www.draftexpress.com:80/mymock.php?page=official&year=2007",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3VXMZUSS4PED2RXL2DBQK73BOIFMABET",
+      "length": "9455"
+    }
+  ]
+}

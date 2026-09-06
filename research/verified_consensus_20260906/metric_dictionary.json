@@ -1,0 +1,37 @@
+{
+  "vcons_mock_mean_rank": {
+    "unit": "mock rank positions",
+    "definition": "Arithmetic mean over one verified snapshot per observed publisher",
+    "missing_policy": "Unlisted or unmatched players stay missing; never impute actual pick, rank61 or rank0"
+  },
+  "vcons_mock_best_rank": {
+    "unit": "mock rank positions",
+    "definition": "Smallest numerical mock rank among observed publishers",
+    "missing_policy": "Unlisted or unmatched players stay missing; never impute actual pick, rank61 or rank0"
+  },
+  "vcons_mock_rank_range": {
+    "unit": "mock rank positions",
+    "definition": "Largest minus smallest observed publisher rank; missing unless at least two publishers list this player",
+    "missing_policy": "Unlisted or unmatched players stay missing; never impute actual pick, rank61 or rank0"
+  },
+  "vcons_mock_n_sources": {
+    "unit": "publisher count",
+    "definition": "Number of distinct verified publishers listing this exact player in this draft cohort",
+    "missing_policy": "Unlisted or unmatched players stay missing; never impute actual pick, rank61 or rank0"
+  },
+  "vcons_dx_rank": {
+    "unit": "mock rank position",
+    "definition": "Literal pre-draft prediction rank from the verified publisher snapshot; not actual draft selection",
+    "missing_policy": "Unlisted or unmatched players stay missing; never impute actual pick, rank61 or rank0"
+  },
+  "vcons_nbadraft_rank": {
+    "unit": "mock rank position",
+    "definition": "Literal pre-draft prediction rank from the verified publisher snapshot; not actual draft selection",
+    "missing_policy": "Unlisted or unmatched players stay missing; never impute actual pick, rank61 or rank0"
+  },
+  "vcons_walter_rank": {
+    "unit": "mock rank position",
+    "definition": "Literal pre-draft prediction rank from the verified publisher snapshot; not actual draft selection",
+    "missing_policy": "Unlisted or unmatched players stay missing; never impute actual pick, rank61 or rank0"
+  }
+}

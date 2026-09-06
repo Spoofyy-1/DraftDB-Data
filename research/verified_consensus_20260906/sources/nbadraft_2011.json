@@ -1,0 +1,22 @@
+{
+  "publisher": "nbadraft",
+  "draft_year": 2011,
+  "draft_date": "2011-06-23",
+  "cutoff_utc": "2011-06-23T04:00:00+00:00",
+  "feature_eligible": false,
+  "status": "pending_body_validation",
+  "source": {
+    "urlkey": "net,nbadraft)/2011mock_draft",
+    "timestamp": "20110622173409",
+    "original": "http://www.nbadraft.net:80/2011mock_draft",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "BPTJA4MZZIIXC5O33AHUEBA7IG44JY24",
+    "length": "13517"
+  },
+  "archive_url": "https://web.archive.org/web/20110622173409id_/http://www.nbadraft.net:80/2011mock_draft",
+  "response_sha256": "f6fc23739841231b0529a2387baf04b13f7e9c8468fe3f728d499cfc7fdc365f",
+  "html_sha256": "f6fc23739841231b0529a2387baf04b13f7e9c8468fe3f728d499cfc7fdc365f",
+  "bytes": 78632,
+  "retrieved_at": "2026-09-06T11:41:35.075713+00:00"
+}

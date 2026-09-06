@@ -1,0 +1,11 @@
+{
+  "publisher": "nbadraft",
+  "draft_year": 2008,
+  "draft_date": "2008-06-26",
+  "cutoff_utc": "2008-06-26T04:00:00+00:00",
+  "query_url": "https://web.archive.org/cdx/search/cdx?url=www.nbadraft.net%2F2008mock_draft&matchType=prefix&from=20080101&to=20080626035959&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=250",
+  "feature_eligible": false,
+  "status": "discovery_only",
+  "retrieved_at": "2026-09-06T11:39:31.055708+00:00",
+  "records": []
+}

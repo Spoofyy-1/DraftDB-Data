@@ -1,0 +1,22 @@
+{
+  "publisher": "dx",
+  "draft_year": 2010,
+  "draft_date": "2010-06-24",
+  "cutoff_utc": "2010-06-24T04:00:00+00:00",
+  "feature_eligible": false,
+  "status": "pending_body_validation",
+  "source": {
+    "urlkey": "com,draftexpress)/nba-mock-draft/2010",
+    "timestamp": "20100622100523",
+    "original": "http://www.draftexpress.com/nba-mock-draft/2010/",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "3QPMNUHSCP7QV7CT36WBNSUCOX264X7E",
+    "length": "9644"
+  },
+  "archive_url": "https://web.archive.org/web/20100622100523id_/http://www.draftexpress.com/nba-mock-draft/2010/",
+  "response_sha256": "800b71119705395aa3ad89b178b736c4c787eba3b8f57be35396f2803d819513",
+  "html_sha256": "800b71119705395aa3ad89b178b736c4c787eba3b8f57be35396f2803d819513",
+  "bytes": 46989,
+  "retrieved_at": "2026-09-06T11:41:24.670121+00:00"
+}

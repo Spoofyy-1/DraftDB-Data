@@ -1,0 +1,51 @@
+{
+  "coverage": {
+    "2012": {
+      "source_local_candidates": 67,
+      "eligibility_status_counts": {
+        "eligible_final_early_entry": 56,
+        "withdrawn": 11
+      },
+      "crosswalk_status_counts": {
+        "unique_name_needs_identity_review": 45,
+        "source_only_no_exact_match": 17,
+        "ambiguous": 5
+      },
+      "automatic_eligibility_rows": 0,
+      "full_cohort_complete": false
+    },
+    "2013": {
+      "source_local_candidates": 80,
+      "eligibility_status_counts": {
+        "eligible_final_early_entry": 60,
+        "withdrawn": 18,
+        "declared_unresolved": 2
+      },
+      "crosswalk_status_counts": {
+        "unique_name_needs_identity_review": 54,
+        "source_only_no_exact_match": 25,
+        "ambiguous": 1
+      },
+      "automatic_eligibility_rows": 0,
+      "full_cohort_complete": false
+    },
+    "2014": {
+      "source_local_candidates": 75,
+      "eligibility_status_counts": {
+        "withdrawn": 18,
+        "eligible_final_early_entry": 57
+      },
+      "crosswalk_status_counts": {
+        "unique_name_needs_identity_review": 48,
+        "source_only_no_exact_match": 23,
+        "ambiguous": 4
+      },
+      "automatic_eligibility_rows": 0,
+      "full_cohort_complete": false
+    }
+  },
+  "event_rows": 372,
+  "registry_rows": 222,
+  "complete_predraft_universe": false,
+  "model_ready": false
+}

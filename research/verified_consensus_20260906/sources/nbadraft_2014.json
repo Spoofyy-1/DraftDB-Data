@@ -1,0 +1,22 @@
+{
+  "publisher": "nbadraft",
+  "draft_year": 2014,
+  "draft_date": "2014-06-26",
+  "cutoff_utc": "2014-06-26T04:00:00+00:00",
+  "feature_eligible": false,
+  "status": "pending_body_validation",
+  "source": {
+    "urlkey": "net,nbadraft)/2014mock_draft",
+    "timestamp": "20140624131006",
+    "original": "http://www.nbadraft.net/2014mock_draft",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "NWPM3FEW3XIVU4ZNZSMIVENHCAVPLO3H",
+    "length": "16162"
+  },
+  "archive_url": "https://web.archive.org/web/20140624131006id_/http://www.nbadraft.net/2014mock_draft",
+  "response_sha256": "106090b3959566bbf8804b88d8f530382e08241b061f208644f15ce95c9673b4",
+  "html_sha256": "106090b3959566bbf8804b88d8f530382e08241b061f208644f15ce95c9673b4",
+  "bytes": 86117,
+  "retrieved_at": "2026-09-06T11:41:39.618928+00:00"
+}

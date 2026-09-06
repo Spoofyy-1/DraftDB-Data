@@ -1,0 +1,525 @@
+{
+  "publisher": "nbadraft",
+  "draft_year": 2012,
+  "draft_date": "2012-06-28",
+  "cutoff_utc": "2012-06-28T04:00:00+00:00",
+  "query_url": "https://web.archive.org/cdx/search/cdx?url=www.nbadraft.net%2F2012mock_draft&matchType=prefix&from=20120101&to=20120628035959&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=250",
+  "feature_eligible": false,
+  "status": "discovery_only",
+  "retrieved_at": "2026-09-06T11:39:39.662625+00:00",
+  "records": [
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120103141305",
+      "original": "http://www.nbadraft.net/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "MOAR5PEDQCJG2RU5PT3U7VBVAYBFAV3E",
+      "length": "13533"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120103154848",
+      "original": "http://nbadraft.net/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "6DFFQFLZZULHGNQHGQGUPIJ2DYILEBRB",
+      "length": "13538"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120104035943",
+      "original": "http://nbadraft.net/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "36RUVXI3F56SMCFUT6MOZZPUH4ATYNYU",
+      "length": "13539"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120104100325",
+      "original": "http://nbadraft.net/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "VR7VLSZGVOUAEFICKENJIU6IV5M5QUPT",
+      "length": "13538"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120106050408",
+      "original": "http://www.nbadraft.net:80/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "HC6ER72AQLX5BV6BFWOHTECXAQMHF5BC",
+      "length": "13359"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120114082704",
+      "original": "http://www.nbadraft.net:80/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "AJFMDQVOEIIDTFPMFJLTFMHO47SVGYD6",
+      "length": "13381"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120114201435",
+      "original": "http://www.nbadraft.net/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "DG23VZCGQM5OWF32MVMFKSWQD3SYI7QB",
+      "length": "13535"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120119034143",
+      "original": "http://www.nbadraft.net:80/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "OCETTWI6TZE4QT46BVJ4UKXDIC2MVUHK",
+      "length": "13391"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120123160451",
+      "original": "http://www.nbadraft.net:80/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "OHCMJ5KYTI7ZMYEM2H7KKLKBJI3BH27J",
+      "length": "13388"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120128190758",
+      "original": "http://www.nbadraft.net:80/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "EO26YRUQTA6T4OQ7T6TEDVYHONPXQTJB",
+      "length": "13396"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120203035537",
+      "original": "http://www.nbadraft.net:80/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "U64J3N7KCUNFW37J7CSZTUZBH3VF4M5G",
+      "length": "13398"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120207124728",
+      "original": "http://www.nbadraft.net:80/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "LU65JILEQ4OBMONGKAVWWYOJQAWKNATA",
+      "length": "13404"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120209055008",
+      "original": "http://nbadraft.net/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "PENTDWKY3KWRHTLEFE4YTPYLOGK4F5IQ",
+      "length": "13562"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120219143307",
+      "original": "http://www.nbadraft.net:80/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "EMO6MWXGSEPSYDRXYDMHUJW2EWECTOK6",
+      "length": "13390"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120224202826",
+      "original": "http://www.nbadraft.net:80/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "XYQJHGAKA4TY4PXHO5YQ4CESDQQY7SPX",
+      "length": "13431"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120229123402",
+      "original": "http://www.nbadraft.net:80/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "BFHVOHFMJUK2J5C533XY6HJMOC73GQSC",
+      "length": "13431"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120305150503",
+      "original": "http://nbadraft.net:80/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QORDCVMDUHG3G6ZJDE4X5XFVKV24QA33",
+      "length": "13428"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120310063047",
+      "original": "http://www.nbadraft.net:80/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "USPE6MFB6XBVBC7LT4T2XN3SOIBTZSCH",
+      "length": "13472"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120314172115",
+      "original": "http://www.nbadraft.net:80/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7Z7764PJKZNZULOUL4HMNPXAUQ5AR7YC",
+      "length": "13375"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120320183030",
+      "original": "http://www.nbadraft.net:80/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "BOYCE5DCEMEUB76HHIFXXKLAJHRAJKN2",
+      "length": "13939"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120326153110",
+      "original": "http://www.nbadraft.net:80/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "XQFQDYWAPOUI3JPDJD3PMGNDXKXO4V42",
+      "length": "14047"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120402102940",
+      "original": "http://www.nbadraft.net:80/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "N7LRZYAKN2N7BXDHU37QWDNMBYFB4XBW",
+      "length": "14288"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120406145140",
+      "original": "http://www.nbadraft.net:80/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "CH3LK2Y7LMB3AUIHS37HCLD27S2KPYTK",
+      "length": "14322"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120410011319",
+      "original": "http://nbadraft.net:80/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "FIQFAMRFQKPBGMXJ6A22LAZA7K7SYQKN",
+      "length": "14320"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120413150250",
+      "original": "http://www.nbadraft.net:80/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "4OLYAG5BHSUVFL5QNWTRR5GQLIR7ZUS6",
+      "length": "14336"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120418003750",
+      "original": "http://www.nbadraft.net:80/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "FVMO56VTZOXMIJCJTFHZV2DR7DEWD3VM",
+      "length": "14311"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120421200332",
+      "original": "http://www.nbadraft.net:80/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "EHMVHFUKCNSDBFR2GVFNKJ2N5R22ID5G",
+      "length": "14339"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120426085155",
+      "original": "http://www.nbadraft.net:80/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "AMGDLETLK6G5Y3PFGICRQVLEYCKPNGBZ",
+      "length": "14343"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120430113813",
+      "original": "http://nbadraft.net:80/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "YZBH34JVYHZ7LAIPHFCVUFHFOBKP77BB",
+      "length": "14322"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120504035959",
+      "original": "http://nbadraft.net/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "OMUK72XKMBOAUFDH7JYTPFBHHUJGWEPF",
+      "length": "14456"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120510220454",
+      "original": "http://www.nbadraft.net:80/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ZFLICAY56R63K27SOSF4LQ2MR4CJGC3D",
+      "length": "14334"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120515000536",
+      "original": "http://www.nbadraft.net:80/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "MFR5JVV6KDCNYKWHQGCE2I76M3HCM65N",
+      "length": "14364"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120518060951",
+      "original": "http://www.nbadraft.net/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "6DIOSHTJI5PS5WUZCHONWUBZZ3V342FY",
+      "length": "14493"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120520050727",
+      "original": "http://www.nbadraft.net:80/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NTXPJ5YR7N3LNMWHXSZHQTL6NNHZVMJO",
+      "length": "14374"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120520220529",
+      "original": "http://www.nbadraft.net/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "IKDZTJBRC7PIZOLQ6NISDBLQ7VU53SIG",
+      "length": "14501"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120523125216",
+      "original": "http://www.nbadraft.net/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "55UZU4A5FBN5VVDCJGHRGTYDGYYGQ4OF",
+      "length": "14502"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120524234632",
+      "original": "http://www.nbadraft.net:80/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WG4FE6MMRNR2W4MEVOWVEUPWF5KMF6JF",
+      "length": "14375"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120528132844",
+      "original": "http://www.nbadraft.net/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "6K74PLJ3X5WV5NROGDGGSQQ67OIWPARK",
+      "length": "14202"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120529061134",
+      "original": "http://nbadraft.net:80/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "LOZICVHMRGDWX3GIZZ3DDKMVRNSKGKE3",
+      "length": "14082"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120530073646",
+      "original": "http://www.nbadraft.net/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "RGAPNFLIAVWWKQKBC3M6Z25YENOOA6BY",
+      "length": "14207"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120602104258",
+      "original": "http://www.nbadraft.net:80/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "5TYCLKUCEU5JLXMRE5GRCD7YKZX5YYN4",
+      "length": "14036"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120604004245",
+      "original": "http://www.nbadraft.net/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "5QWPIK74Y5OCAXGYPDGD4QVKPYGDJYGK",
+      "length": "14192"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120606021557",
+      "original": "http://www.nbadraft.net:80/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "HEZLA5LLWNVI722PKXBT4RFB76IPLNLK",
+      "length": "14068"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120606111907",
+      "original": "http://www.nbadraft.net/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "PZI6HD6UJZRD5LEXZEMH5QQ6P7GK7UUT",
+      "length": "14190"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120608195202",
+      "original": "http://www.nbadraft.net/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2O2MP5LQHQ3M7FMQ6XDXBCMS6MHVKRPP",
+      "length": "14192"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120610180432",
+      "original": "http://www.nbadraft.net/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "AGVDLOPNL2CDI7HOBYOWHO7EQMSRO7ZK",
+      "length": "14225"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120610204316",
+      "original": "http://www.nbadraft.net:80/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NV3FJ6YVZI2XOGGKN767BDET7I7M3N2L",
+      "length": "14097"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120614042325",
+      "original": "http://www.nbadraft.net:80/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3ZERPTVVD3ZLGLI5M2TFYZSDLAWHIRET",
+      "length": "14418"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120616162636",
+      "original": "http://www.nbadraft.net/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "UEUT5QROC4KSQIN4R37DAXPSBQ24RXVY",
+      "length": "14211"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120617142330",
+      "original": "http://www.nbadraft.net:80/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "MB4B2BPHSEM5ICFDQZBVL6HX6XUBB5GZ",
+      "length": "14052"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120618000537",
+      "original": "http://www.nbadraft.net/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "U3FJCIP7URISSFIDFP2MADLCOLSUFY5N",
+      "length": "14206"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120621040840",
+      "original": "http://www.nbadraft.net:80/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "RXQWUSIG6TJMCI4NYETYTH6EIZYC7XLF",
+      "length": "14082"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120623201848",
+      "original": "http://www.nbadraft.net/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "Y4JODDLVP2VU5MGRM6XKXF2DKC3BV6WF",
+      "length": "14261"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120624043258",
+      "original": "http://www.nbadraft.net:80/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "UYZ4SZORCWMDN7YM7Z4SM4XBI5HTR7A4",
+      "length": "14133"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120624192113",
+      "original": "http://www.nbadraft.net/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "SLMYKYZBZMJFKICOKL7VKRTELD4KLPBT",
+      "length": "14262"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120626202848",
+      "original": "http://www.nbadraft.net/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "HJ6YTQLIF3MYDYTB7BDMLSVBJS6ONLLM",
+      "length": "14302"
+    },
+    {
+      "urlkey": "net,nbadraft)/2012mock_draft",
+      "timestamp": "20120627071913",
+      "original": "http://www.nbadraft.net:80/2012mock_draft",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "OREDI4O2V3ITIK4DKVRLGQKLZ6655OWY",
+      "length": "14517"
+    }
+  ]
+}

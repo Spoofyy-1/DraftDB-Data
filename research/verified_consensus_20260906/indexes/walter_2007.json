@@ -1,0 +1,30 @@
+{
+  "publisher": "walter",
+  "draft_year": 2007,
+  "draft_date": "2007-06-28",
+  "cutoff_utc": "2007-06-28T04:00:00+00:00",
+  "query_url": "https://web.archive.org/cdx/search/cdx?url=www.walterfootball.com%2Fnbadraft2007.php&matchType=exact&from=20070301&to=20070628035959&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=250",
+  "feature_eligible": false,
+  "status": "discovery_only",
+  "retrieved_at": "2026-09-06T11:45:06.013800+00:00",
+  "records": [
+    {
+      "urlkey": "com,walterfootball)/nbadraft2007.php",
+      "timestamp": "20070503223315",
+      "original": "http://walterfootball.com:80/nbadraft2007.php",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7CGUCHPDMN7GHSRG3ILIORM4EO6WJPW2",
+      "length": "9458"
+    },
+    {
+      "urlkey": "com,walterfootball)/nbadraft2007.php",
+      "timestamp": "20070603151517",
+      "original": "http://walterfootball.com:80/nbadraft2007.php",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "XL7JKRA7DTTYCWXDVRUAUQROMAKVDSI4",
+      "length": "9826"
+    }
+  ]
+}

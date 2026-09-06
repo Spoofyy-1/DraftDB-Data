@@ -1,0 +1,22 @@
+{
+  "publisher": "dx",
+  "draft_year": 2014,
+  "draft_date": "2014-06-26",
+  "cutoff_utc": "2014-06-26T04:00:00+00:00",
+  "feature_eligible": false,
+  "status": "pending_body_validation",
+  "source": {
+    "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+    "timestamp": "20140625213744",
+    "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "TM4FPMBRZYKXHTA4ENWRFGG5JYXCKUXF",
+    "length": "14919"
+  },
+  "archive_url": "https://web.archive.org/web/20140625213744id_/http://www.draftexpress.com/nba-mock-draft/2014/",
+  "response_sha256": "1c03e143f124de7e80d25f98a71692c333d63d28cd049ed77ccb1c8c73e18d6f",
+  "html_sha256": "1c03e143f124de7e80d25f98a71692c333d63d28cd049ed77ccb1c8c73e18d6f",
+  "bytes": 166025,
+  "retrieved_at": "2026-09-06T11:41:30.728579+00:00"
+}

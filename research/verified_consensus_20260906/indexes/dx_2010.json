@@ -1,0 +1,174 @@
+{
+  "publisher": "dx",
+  "draft_year": 2010,
+  "draft_date": "2010-06-24",
+  "cutoff_utc": "2010-06-24T04:00:00+00:00",
+  "query_url": "https://web.archive.org/cdx/search/cdx?url=www.draftexpress.com%2Fnba-mock-draft%2F2010%2F&matchType=exact&from=20100101&to=20100624035959&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=250",
+  "feature_eligible": false,
+  "status": "discovery_only",
+  "retrieved_at": "2026-09-06T11:39:34.277433+00:00",
+  "records": [
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2010",
+      "timestamp": "20100208145810",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2010/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2CTKWX6DJT7AJZVOPRPXKKDKHFHP4F2X",
+      "length": "9423"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2010",
+      "timestamp": "20100301140619",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2010",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "SRRZZ62A7JGR6F24GNWKOM5IF7RHHQMB",
+      "length": "9204"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2010",
+      "timestamp": "20100309091621",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2010",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "UEAEXTM23MXS7GPUOV6ONVDEF6FPVAAS",
+      "length": "9179"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2010",
+      "timestamp": "20100316174650",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2010",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "RATPP6JUQ7NXOVRS7IAVHNEH3LNESUVH",
+      "length": "9194"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2010",
+      "timestamp": "20100324142553",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2010",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "53M4XF3IFBOWWTOBTTHHVGL4BTUPCVEZ",
+      "length": "9126"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2010",
+      "timestamp": "20100325075444",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2010/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "MLWFEL62CQRG53TMJJ3YRVTX5BUISPXJ",
+      "length": "9266"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2010",
+      "timestamp": "20100330151514",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2010",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "KFWIYF3QPNCSATFGQ46EAO7J5ZVLW7GN",
+      "length": "9113"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2010",
+      "timestamp": "20100406061609",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2010",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "5PNHECGMMFKWJ3UP523ZNUZTG6YGT6FI",
+      "length": "9294"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2010",
+      "timestamp": "20100412161505",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2010",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "U6AX6OJCZJHCD3CASLUIYWZJMDWTR6UM",
+      "length": "9194"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2010",
+      "timestamp": "20100418120404",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2010",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "JBCKGLWMXQ6CM5K4UPN5HFXTDXZF2CR3",
+      "length": "9236"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2010",
+      "timestamp": "20100427155924",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2010",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "LZKHAOFWN2H3YDGJRAJE25JLBXV4KMFU",
+      "length": "9301"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2010",
+      "timestamp": "20100504122201",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2010",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "C44VTT65BJGIIQVAFMHGQLBFBGSKKWAN",
+      "length": "9337"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2010",
+      "timestamp": "20100510121609",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2010",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "CNKZHB57DRAP6W5AVH3LI3J6U2XVQH7J",
+      "length": "9362"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2010",
+      "timestamp": "20100516111838",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2010",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NQ2GD5XHP6MYAWRZ4X5ZQ67BBCNGZQAI",
+      "length": "9370"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2010",
+      "timestamp": "20100526111422",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2010",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ZURXXQMJT7WBEKPMQ3VYALFAUPAM34IM",
+      "length": "9303"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2010",
+      "timestamp": "20100527195824",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2010",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3Z6NVRPUSVKO5ZBECSKARKBUQEGAOERD",
+      "length": "9342"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2010",
+      "timestamp": "20100618093055",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2010",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NTDE7AYGSEV6M4SO2QWP6MPKUWDJOHJ2",
+      "length": "9499"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2010",
+      "timestamp": "20100622100523",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2010/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3QPMNUHSCP7QV7CT36WBNSUCOX264X7E",
+      "length": "9644"
+    }
+  ]
+}

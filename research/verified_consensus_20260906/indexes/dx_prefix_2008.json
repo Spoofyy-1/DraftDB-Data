@@ -1,0 +1,219 @@
+{
+  "publisher": "dx_prefix",
+  "draft_year": 2008,
+  "draft_date": "2008-06-26",
+  "cutoff_utc": "2008-06-26T04:00:00+00:00",
+  "query_url": "https://web.archive.org/cdx/search/cdx?url=www.draftexpress.com%2Fnba-mock-draft%2F2008&matchType=prefix&from=20080301&to=20080626035959&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=250",
+  "feature_eligible": false,
+  "status": "discovery_only",
+  "retrieved_at": "2026-09-06T11:45:08.076988+00:00",
+  "records": [
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2008",
+      "timestamp": "20080409221826",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2008",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WUFGFJYMAELXP6ALDGWNJR3FSJXXITQP",
+      "length": "8848"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2008",
+      "timestamp": "20080509165425",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2008/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "YQXA2VQKIMBFWT23L4JVO5X3AJFPU3OW",
+      "length": "9060"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2008/archives/type/all",
+      "timestamp": "20080517085946",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2008/archives/type/all/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7GYCU6THKDJI2IRDFNAXSKWAMECRCTXY",
+      "length": "9167"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2008/archives/type/bracket-projections",
+      "timestamp": "20080516203631",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2008/archives/type/bracket-projections/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "FQ6NPO7J3BCTAHYCLLF53P5Y4NFTKMNQ",
+      "length": "9155"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2008/archives/type/general-draft-commentary",
+      "timestamp": "20080516100557",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2008/archives/type/general-draft-commentary/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "SLTAVEAQPBHM3GVSSKOZ6JSQGG36GH4S",
+      "length": "9131"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2008/archives/type/high-school",
+      "timestamp": "20080516203457",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2008/archives/type/high-school/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "FQ6NPO7J3BCTAHYCLLF53P5Y4NFTKMNQ",
+      "length": "9152"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2008/archives/type/nba-team-needs",
+      "timestamp": "20080516093415",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2008/archives/type/nba-team-needs/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "SLTAVEAQPBHM3GVSSKOZ6JSQGG36GH4S",
+      "length": "9127"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2008/archives/type/ncaa-commentary",
+      "timestamp": "20080516214852",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2008/archives/type/ncaa-commentary/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "FQ6NPO7J3BCTAHYCLLF53P5Y4NFTKMNQ",
+      "length": "9152"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2008/nba-mock-draft/2009",
+      "timestamp": "20080513125302",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2008/nba-mock-draft/2009/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GPZQCSQVWXSN4N4N5HIRO6B5L64C6IWQ",
+      "length": "8902"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2008/nba-mock-draft/2009",
+      "timestamp": "20080517012819",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2008/nba-mock-draft/2009/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "FQ6NPO7J3BCTAHYCLLF53P5Y4NFTKMNQ",
+      "length": "9148"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2008/nba-mock-draft/2009/aboutus.php",
+      "timestamp": "20080514143604",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2008/nba-mock-draft/2009/aboutus.php",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "EM4HK7FAMRPX7BP3BYZOQ23J24WQMBCB",
+      "length": "8966"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2008/nba-mock-draft/2009/contactus.php",
+      "timestamp": "20080514083119",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2008/nba-mock-draft/2009/contactus.php",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WXM7IJT32GR4Y52XQBMUGED6N5LOLXZX",
+      "length": "8963"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2008/nba-mock-draft/2009/dleague.php",
+      "timestamp": "20080514143010",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2008/nba-mock-draft/2009/dleague.php",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "EM4HK7FAMRPX7BP3BYZOQ23J24WQMBCB",
+      "length": "8961"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2008/nba-mock-draft/2009/nba-mock-draft/2009",
+      "timestamp": "20080513125307",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2008/nba-mock-draft/2009/nba-mock-draft/2009/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GPZQCSQVWXSN4N4N5HIRO6B5L64C6IWQ",
+      "length": "8905"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2008/nba-mock-draft/2009/nba-mock-draft/2009/aboutus.php",
+      "timestamp": "20080514143030",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2008/nba-mock-draft/2009/nba-mock-draft/2009/aboutus.php",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "EM4HK7FAMRPX7BP3BYZOQ23J24WQMBCB",
+      "length": "8966"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2008/nba-mock-draft/2009/nba-mock-draft/2009/contactus.php",
+      "timestamp": "20080514082223",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2008/nba-mock-draft/2009/nba-mock-draft/2009/contactus.php",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WXM7IJT32GR4Y52XQBMUGED6N5LOLXZX",
+      "length": "8965"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2008/nba-mock-draft/2009/nba-mock-draft/2009/dleague.php",
+      "timestamp": "20080514143638",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2008/nba-mock-draft/2009/nba-mock-draft/2009/dleague.php",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "EM4HK7FAMRPX7BP3BYZOQ23J24WQMBCB",
+      "length": "8963"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2008/nba-mock-draft/2009/nba-mock-draft/2009/nba-mock-draft/2009",
+      "timestamp": "20080513120408",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2008/nba-mock-draft/2009/nba-mock-draft/2009/nba-mock-draft/2009/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GPZQCSQVWXSN4N4N5HIRO6B5L64C6IWQ",
+      "length": "8951"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2008/nba-mock-draft/2009/nba-mock-draft/2009/nba-mock-draft/2009/aboutus.php",
+      "timestamp": "20080514083124",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2008/nba-mock-draft/2009/nba-mock-draft/2009/nba-mock-draft/2009/aboutus.php",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WXM7IJT32GR4Y52XQBMUGED6N5LOLXZX",
+      "length": "8966"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2008/nba-mock-draft/2009/nba-mock-draft/2009/nba-mock-draft/2009/contactus.php",
+      "timestamp": "20080513205619",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2008/nba-mock-draft/2009/nba-mock-draft/2009/nba-mock-draft/2009/contactus.php",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GPZQCSQVWXSN4N4N5HIRO6B5L64C6IWQ",
+      "length": "8910"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2008/nba-mock-draft/2009/nba-mock-draft/2009/nba-mock-draft/2009/dleague.php",
+      "timestamp": "20080514082228",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2008/nba-mock-draft/2009/nba-mock-draft/2009/nba-mock-draft/2009/dleague.php",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WXM7IJT32GR4Y52XQBMUGED6N5LOLXZX",
+      "length": "8963"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2008/nba-mock-draft/2009/nba-mock-draft/2009/nba.php",
+      "timestamp": "20080514143712",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2008/nba-mock-draft/2009/nba-mock-draft/2009/nba.php",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "EM4HK7FAMRPX7BP3BYZOQ23J24WQMBCB",
+      "length": "8963"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2008/nba.php",
+      "timestamp": "20080516222031",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2008/nba.php",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "FQ6NPO7J3BCTAHYCLLF53P5Y4NFTKMNQ",
+      "length": "9151"
+    }
+  ]
+}

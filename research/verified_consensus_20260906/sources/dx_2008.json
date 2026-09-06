@@ -1,0 +1,22 @@
+{
+  "publisher": "dx",
+  "draft_year": 2008,
+  "draft_date": "2008-06-26",
+  "cutoff_utc": "2008-06-26T04:00:00+00:00",
+  "feature_eligible": false,
+  "status": "pending_body_validation",
+  "source": {
+    "urlkey": "com,draftexpress)/nba-mock-draft/2008",
+    "timestamp": "20080509165425",
+    "original": "http://www.draftexpress.com/nba-mock-draft/2008/",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "YQXA2VQKIMBFWT23L4JVO5X3AJFPU3OW",
+    "length": "9060"
+  },
+  "archive_url": "https://web.archive.org/web/20080509165425id_/http://www.draftexpress.com/nba-mock-draft/2008/",
+  "response_sha256": "8cf72944963bfcdc444984fd04d9cc44871da3f1ba422925f1f2d38b369c299f",
+  "html_sha256": "8cf72944963bfcdc444984fd04d9cc44871da3f1ba422925f1f2d38b369c299f",
+  "bytes": 42959,
+  "retrieved_at": "2026-09-06T11:41:22.328030+00:00"
+}

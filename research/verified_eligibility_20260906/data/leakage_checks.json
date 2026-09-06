@@ -1,0 +1,25 @@
+{
+  "tests_run": 8,
+  "tests_failed": 0,
+  "tests_errors": 0,
+  "tests_skipped": 0,
+  "event_rows": 372,
+  "registry_rows": 222,
+  "all_registry_rows_have_crosswalk_result": true,
+  "no_nba_id_or_pick_or_outcome_columns": true,
+  "positive_evidence_only_explicit_final_rows": true,
+  "no_crosswalk_certified_from_names_only": true,
+  "all_rows_retained_without_identity_requirement": true,
+  "nba_ids_read": false,
+  "outcomes_read": false,
+  "models_fit": 0,
+  "test_scores_computed": 0,
+  "full_cohort_complete": false,
+  "model_ready": false,
+  "factual_file_sha256": {
+    "draft_discussed_only.csv": "35191c61b2967e655e474166b1a03ffd0b5071bd75df13e117fddb9390ed40d4",
+    "eligibility_registry.csv": "2095cea4c2ffb5d82c67351897dff608924d428095f93a91f2d0949c1e505ead",
+    "entry_events.csv": "674ba6b1ee837a43e14e5733a8ee67c2b362a462ec81749be1ae008a17b46177",
+    "identity_crosswalk_suggestions.csv": "03fd09d70584ab15bda2e7c9da3c5d1d6aa78dda5d98212a12220dc238f9e2f8"
+  }
+}

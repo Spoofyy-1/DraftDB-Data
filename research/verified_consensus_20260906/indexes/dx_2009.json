@@ -1,0 +1,57 @@
+{
+  "publisher": "dx",
+  "draft_year": 2009,
+  "draft_date": "2009-06-25",
+  "cutoff_utc": "2009-06-25T04:00:00+00:00",
+  "query_url": "https://web.archive.org/cdx/search/cdx?url=www.draftexpress.com%2Fnba-mock-draft%2F2009%2F&matchType=exact&from=20090101&to=20090625035959&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=250",
+  "feature_eligible": false,
+  "status": "discovery_only",
+  "retrieved_at": "2026-09-06T11:39:32.189321+00:00",
+  "records": [
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2009",
+      "timestamp": "20090109014006",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2009/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "LTVLICVV3IZK4QABHM2VIRHDC3P3EL63",
+      "length": "9553"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2009",
+      "timestamp": "20090130040118",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2009/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "YY656RYTB4272KJAEQVSDB5BDYGP52MC",
+      "length": "9566"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2009",
+      "timestamp": "20090206223601",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2009",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "B36ZU5KBAS2MPTYTA35ALXKUDD3OAB52",
+      "length": "9695"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2009",
+      "timestamp": "20090215000832",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2009",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "PZ326FMHXNGF5D5HEQ3INCPMWC7YH6VX",
+      "length": "9746"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2009",
+      "timestamp": "20090228193434",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2009",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "COVL74XCVMOC73ZP2AIAVRY2LO6JGBXF",
+      "length": "9510"
+    }
+  ]
+}

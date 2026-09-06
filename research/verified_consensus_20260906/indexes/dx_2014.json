@@ -1,0 +1,498 @@
+{
+  "publisher": "dx",
+  "draft_year": 2014,
+  "draft_date": "2014-06-26",
+  "cutoff_utc": "2014-06-26T04:00:00+00:00",
+  "query_url": "https://web.archive.org/cdx/search/cdx?url=www.draftexpress.com%2Fnba-mock-draft%2F2014%2F&matchType=exact&from=20140101&to=20140626035959&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=250",
+  "feature_eligible": false,
+  "status": "discovery_only",
+  "retrieved_at": "2026-09-06T11:39:42.883190+00:00",
+  "records": [
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140101114844",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "UST67BY5J6CKNNXV7M7VLK4O7YJ4QQI5",
+      "length": "9644"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140205095924",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "22PPJKU3EDOMCQYYHEVY44O5LINYWQRH",
+      "length": "10642"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140208022258",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "K6PUA4XQL4YBD55H2TTWMVLFB2TKLVKZ",
+      "length": "10622"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140301103711",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "DSXONFLZU3GRZVU4Q6CYUVKRMGTQASZ7",
+      "length": "10586"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140319043358",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "CZOJ2KF45RHQMQETWM77RMKYNRECM4D2",
+      "length": "10666"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140320092330",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "TQE6TD7R4QDFGE2DFEGA6WCZNYU34YZH",
+      "length": "10688"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140409014357",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "CSFG72JIG77MXWAF5FVZQ4HRK6WWWD6W",
+      "length": "10842"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140410064016",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "BVE7D44UDVAZN2Y4QQMLV26SYN6MAH6E",
+      "length": "10810"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140411054159",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "4LVILALVNQC7X7AI3OZRDAXIY5QONWJU",
+      "length": "10753"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140414091927",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "4NFHUGASYCPR63CRAXBV3ANN7TLPXBOK",
+      "length": "10623"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140415112843",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "KV3BUMAPVRNQFHUK3LWXWVO26SGVJ7ZX",
+      "length": "10285"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140416122340",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "TQKWRGMYIJYX2GABGTG6NAWNHPR5ZAAY",
+      "length": "10355"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140419163610",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ESTTPIFMR3AE34CSXL4PL5EZNIPJI2FW",
+      "length": "10438"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140423232048",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "M7C7UMU3ZLFPWOV6HJJLLJUXX5IPNYHV",
+      "length": "10346"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140425000446",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "R56PR7224MFYD7NRAWOO75U7LIFTBNIN",
+      "length": "10286"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140426014233",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "SCAJTD4RLTMCD6CEHP2C5NFUDC26I3XS",
+      "length": "10293"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140427032539",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "OMENW5STHZIC6D5CAYEXMUMZJMST6XQ5",
+      "length": "10328"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140428091025",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NMYBIRLDTKIUZ6L2DW7SROGNZSSAQIPM",
+      "length": "10338"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140429104602",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GOTDTVISPZNUNIME6A3WUIHJ7VIG4HAD",
+      "length": "10303"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140430115151",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "YXMNS7N6DLB4JK6F3VSXAHTVZEUOVP46",
+      "length": "10300"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140505201812",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "SX6ZAOSBWPYC4KIYU3L6CHS4AF3AGWAI",
+      "length": "10255"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140506221856",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GI4WNUAFVWX6PUZVLWRQ46PK4LVCDEAO",
+      "length": "10303"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140508000204",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "DR2D2FFPC4EUVIGZJ2SODG3K7ESCRJH2",
+      "length": "10268"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140509025227",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "4IA37VRVRPAT3264AIU7SIB7A5PSUHC5",
+      "length": "10217"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140510185205",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "5JIXZXIGNZJ4MRQLCQIA2PZ4UW655HLB",
+      "length": "10223"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140513090736",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ER5NURJR5OM442V27M6YJ7V4AVDQVGGU",
+      "length": "10243"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140514110517",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "MFRBHX77KVTZMPQUGFQ5YI7QARRTUHUD",
+      "length": "10279"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140520012622",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "5U54V6UCUPAIKLKILGNK3F5YI7XK4VIJ",
+      "length": "10574"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140521025331",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "BJTAXEFT5VBNUMDCMZGBTFUKSYR3QYFJ",
+      "length": "14793"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140522054229",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QIY2COTA4SXKQOPTZE2ZB7UR2FNHQXZT",
+      "length": "14671"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140524085727",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "UFE5KVX7SSCSTJKN7IFSPTKWJKR65HA5",
+      "length": "14689"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140525063613",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "IJDQEBHBQR42V343MJ6IY2T544CLKZ66",
+      "length": "14735"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140527062733",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "PKXIXMEQBJK57SFSBQTKRCIKIFSZMR6Z",
+      "length": "14691"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140528100136",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "U43TIEMC4ILWT66FWVPZRIEUOBQ42NYT",
+      "length": "14555"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140529141558",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "UM7ZFQRQAZHXEM4IIH733GCOQTOX4XGC",
+      "length": "14513"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140530163512",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2OXSM7C6E32FOXJXLPEAKKVPR2KBY6FV",
+      "length": "14422"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140601043243",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "BS6WJD5YC4FYE5KJ3JFBAFSGZQQXZUVJ",
+      "length": "14530"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140601235644",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7RWXBVKRKJU65DZDWPK6OEI6RYZECSAJ",
+      "length": "14499"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140605082706",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "X4A5UYEENQIZCOJM5YNEUB4UVIYMGINS",
+      "length": "14570"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140606102903",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ABCTN7C63Y4Q7MBVJC7PZTR54UKNJKZU",
+      "length": "14586"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140607130421",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "KP5GVPNEIO5V7KYGPR6YBWEWYOGRWV4T",
+      "length": "14565"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140610200226",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "BAODOUYP2NQ7MNXX6CQLJ2OW54MQWA2J",
+      "length": "14668"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140611221223",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QJX6XPLYR5L6V5DFZ5BMKOANGDBWVQDY",
+      "length": "14624"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140613003538",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "V7VL27NEQSNX3VB55AMM5XAZXI3B6POG",
+      "length": "14690"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140614045649",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "5FYMYUUE4B7OUCW6QFXTW2NDMGFXHQUO",
+      "length": "14712"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140615070703",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NTRC6DG3DBAN6W4P3HKKOQRABW4WYXTA",
+      "length": "14715"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140616093614",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2IP3IQBQBV7HCTYX5O2IRSKUO6T6GF57",
+      "length": "14724"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140619164706",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "PNXWLU4GKZJNZQOS4NB74XDSPPCLLQKA",
+      "length": "14868"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140620105346",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2014/?",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "TEVMTB63HEZ2KUBR46DGD2AMZNMQOLUY",
+      "length": "14761"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140620202405",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "5FOEPC4KXCEGIGZKQLILG7UQCNYJGPKO",
+      "length": "14895"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140622001843",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "THZI5GQPWIEL4WMOOVSCBFMRPFRZ5GMQ",
+      "length": "14834"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140623070550",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "HEDGIMFPYXWBWY3HTHOVCZUZMWHED4SV",
+      "length": "14880"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140624121737",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "5AEJ5ZVAAQZYPBB4GDM2FQ4245LPLPSA",
+      "length": "14871"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2014",
+      "timestamp": "20140625213744",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2014/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "TM4FPMBRZYKXHTA4ENWRFGG5JYXCKUXF",
+      "length": "14919"
+    }
+  ]
+}

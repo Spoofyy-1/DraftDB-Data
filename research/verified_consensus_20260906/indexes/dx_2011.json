@@ -1,0 +1,111 @@
+{
+  "publisher": "dx",
+  "draft_year": 2011,
+  "draft_date": "2011-06-23",
+  "cutoff_utc": "2011-06-23T04:00:00+00:00",
+  "query_url": "https://web.archive.org/cdx/search/cdx?url=www.draftexpress.com%2Fnba-mock-draft%2F2011%2F&matchType=exact&from=20110101&to=20110623035959&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=250",
+  "feature_eligible": false,
+  "status": "discovery_only",
+  "retrieved_at": "2026-09-06T11:39:36.122189+00:00",
+  "records": [
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2011",
+      "timestamp": "20110101033437",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2011/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "KUZSPYLSMNCNG72PPKL7TLK2DTNKDHHX",
+      "length": "8390"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2011",
+      "timestamp": "20110103070810",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2011/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "FDKYMYDNOZYEO2ES3DC4PC2C4VDAOTF5",
+      "length": "8675"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2011",
+      "timestamp": "20110105050850",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2011",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NOZDINR2WAYA352XWUKNUSFTQZTVNYAI",
+      "length": "8689"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2011",
+      "timestamp": "20110303081839",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2011/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "C4VERUOZ6XG5GLPSYN7T4STQ5KRKVJ4U",
+      "length": "8785"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2011",
+      "timestamp": "20110304114141",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2011/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "KGQ7I6IHD46IXQ6V57635MKYPDVZROCS",
+      "length": "8937"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2011",
+      "timestamp": "20110409002540",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2011/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "SF5QKTE5CYC6Z6KQ22UMWHECITE6NTVV",
+      "length": "9366"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2011",
+      "timestamp": "20110429230047",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2011/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "C7COMG2FFERWF7SJSKABJX2AJQ3R74H5",
+      "length": "9419"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2011",
+      "timestamp": "20110529025549",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2011/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "YII3OMS35AQL77FLFLUDZKWFFVE6WJXT",
+      "length": "9385"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2011",
+      "timestamp": "20110608070734",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2011/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "PUF2ERGAEMRJGAENMOG4EESSD73UJEVP",
+      "length": "9358"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2011",
+      "timestamp": "20110610201607",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2011/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "5OW76UXWYGEU3ZIQ4OAEFODGVE5PZ65F",
+      "length": "9359"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2011",
+      "timestamp": "20110622223842",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2011/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "LCZIGH7CNNK37LV22N4A4FTWXYUWXHU6",
+      "length": "9528"
+    }
+  ]
+}

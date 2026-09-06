@@ -1,0 +1,22 @@
+{
+  "publisher": "dx",
+  "draft_year": 2009,
+  "draft_date": "2009-06-25",
+  "cutoff_utc": "2009-06-25T04:00:00+00:00",
+  "feature_eligible": false,
+  "status": "pending_body_validation",
+  "source": {
+    "urlkey": "com,draftexpress)/nba-mock-draft/2009",
+    "timestamp": "20090228193434",
+    "original": "http://www.draftexpress.com:80/nba-mock-draft/2009",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "COVL74XCVMOC73ZP2AIAVRY2LO6JGBXF",
+    "length": "9510"
+  },
+  "archive_url": "https://web.archive.org/web/20090228193434id_/http://www.draftexpress.com:80/nba-mock-draft/2009",
+  "response_sha256": "162908eb1d70c12090849d51ff7df351d4b5857b70f540f5412453daf996dd3c",
+  "html_sha256": "162908eb1d70c12090849d51ff7df351d4b5857b70f540f5412453daf996dd3c",
+  "bytes": 44734,
+  "retrieved_at": "2026-09-06T11:41:24.064999+00:00"
+}

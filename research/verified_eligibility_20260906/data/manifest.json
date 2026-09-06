@@ -1,0 +1,225 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "source_id": "2012_initial",
+      "url": "https://pr.nba.com/entry-candidates-2012-nba-draft/",
+      "draft_year": 2012,
+      "claimed_published_date": "2012-05-03",
+      "independently_observed_at_utc": "2026-09-06T11:49:27.536647+00:00",
+      "capture_sha256": "d447660ffe87abfbeb74199d57ea289caaba721a14ad826ffb4ea2e54eadfc21",
+      "capture_representation": "web_tool_primary_page_text_view",
+      "raw_http_sha256": null,
+      "date_confidence": "publisher_historical_dateline_not_independent_archive_snapshot",
+      "release_kind": "initial",
+      "parsed_rows": 0,
+      "early_entry_list_only": true,
+      "source_file_private": "initial_web_response.txt",
+      "source_copyright_body_public": false
+    },
+    {
+      "source_id": "2014_initial",
+      "url": "https://pr.nba.com/2014-nba-draft-early-entry-candidates/",
+      "draft_year": 2014,
+      "claimed_published_date": "2014-04-30",
+      "independently_observed_at_utc": "2026-09-06T11:49:27.536647+00:00",
+      "capture_sha256": "280bf137c38f8d7c5b27969d668b7aab39cd1228114769cba14960ac4535139f",
+      "capture_representation": "web_tool_primary_page_text_view",
+      "raw_http_sha256": null,
+      "date_confidence": "publisher_historical_dateline_not_independent_archive_snapshot",
+      "release_kind": "initial",
+      "parsed_rows": 75,
+      "early_entry_list_only": true,
+      "source_file_private": "initial_web_response.txt",
+      "source_copyright_body_public": false
+    },
+    {
+      "source_id": "2013_initial",
+      "url": "https://pr.nba.com/nba-early-entry-candidates-2013-nba-draft/",
+      "draft_year": 2013,
+      "claimed_published_date": "2013-05-01",
+      "independently_observed_at_utc": "2026-09-06T11:49:27.536647+00:00",
+      "capture_sha256": "bfab68ec5aee4b136a539daa5faff269b2e4adf4b22c0b30b06dcc60d18bc1a1",
+      "capture_representation": "web_tool_primary_page_text_view",
+      "raw_http_sha256": null,
+      "date_confidence": "publisher_historical_dateline_not_independent_archive_snapshot",
+      "release_kind": "initial",
+      "parsed_rows": 77,
+      "early_entry_list_only": true,
+      "source_file_private": "initial_web_response.txt",
+      "source_copyright_body_public": false
+    },
+    {
+      "source_id": "2012_final",
+      "url": "https://pr.nba.com/2012-nba-draft-early-entry-candidates/",
+      "draft_year": 2012,
+      "claimed_published_date": "2012-06-19",
+      "independently_observed_at_utc": "2026-09-06T11:49:12.987051+00:00",
+      "capture_sha256": "206b4e1571f199a75f37e1589d35c0ab31fa7b00a7e09a22710915e4fdc494f5",
+      "capture_representation": "web_tool_primary_page_text_view",
+      "raw_http_sha256": null,
+      "date_confidence": "publisher_historical_dateline_not_independent_archive_snapshot",
+      "release_kind": "final",
+      "parsed_rows": 67,
+      "early_entry_list_only": true,
+      "source_file_private": "final_web_response.txt",
+      "source_copyright_body_public": false
+    },
+    {
+      "source_id": "2013_final",
+      "url": "https://pr.nba.com/early-entry-candidates-withdraw-2013-nba-draft/",
+      "draft_year": 2013,
+      "claimed_published_date": "2013-06-18",
+      "independently_observed_at_utc": "2026-09-06T11:49:12.987051+00:00",
+      "capture_sha256": "9be32581f4a849c591c316805cd7e5bc8c700db11a8558e405acfc64358e7fda",
+      "capture_representation": "web_tool_primary_page_text_view",
+      "raw_http_sha256": null,
+      "date_confidence": "publisher_historical_dateline_not_independent_archive_snapshot",
+      "release_kind": "final",
+      "parsed_rows": 78,
+      "early_entry_list_only": true,
+      "source_file_private": "final_web_response.txt",
+      "source_copyright_body_public": false
+    },
+    {
+      "source_id": "2014_final",
+      "url": "https://pr.nba.com/2014-nba-draft-withdrawals/",
+      "draft_year": 2014,
+      "claimed_published_date": "2014-06-17",
+      "independently_observed_at_utc": "2026-09-06T11:49:12.987051+00:00",
+      "capture_sha256": "68b64420741556304fe1850638b59e18ebf8ad4feafff5f43e85702ba96ea8c4",
+      "capture_representation": "web_tool_primary_page_text_view",
+      "raw_http_sha256": null,
+      "date_confidence": "publisher_historical_dateline_not_independent_archive_snapshot",
+      "release_kind": "final",
+      "parsed_rows": 75,
+      "early_entry_list_only": true,
+      "source_file_private": "final_web_response.txt",
+      "source_copyright_body_public": false
+    }
+  ],
+  "identity_source": {
+    "path_basename": "player_key.parquet",
+    "sha256": "95df799b786c69e28ae7fa889f0e7be9f0ded54c0b08a755df206407f9939922",
+    "columns_read": [
+      "pid",
+      "player_uid",
+      "player_name"
+    ],
+    "rows": 83977,
+    "purpose": "optional_crosswalk_only"
+  },
+  "cutoff_rules": {
+    "2012": {
+      "draft_date": "2012-06-28",
+      "draft_date_source": "2012_final",
+      "withdrawal_deadline": "2012-06-18T17:00:00-04:00",
+      "withdrawal_deadline_source": "2012_initial",
+      "registry_cutoff_date": "2012-06-19"
+    },
+    "2013": {
+      "draft_date": "2013-06-27",
+      "draft_date_source": "2013_final",
+      "withdrawal_deadline": "2013-06-17T17:00:00-04:00",
+      "withdrawal_deadline_source": "2013_initial",
+      "registry_cutoff_date": "2013-06-18"
+    },
+    "2014": {
+      "draft_date": "2014-06-26",
+      "draft_date_source": "2014_final",
+      "withdrawal_deadline": "2014-06-16T17:00:00-04:00",
+      "withdrawal_deadline_source": "2014_initial",
+      "registry_cutoff_date": "2014-06-17"
+    }
+  },
+  "years_requested": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014
+  ],
+  "years_with_pilot_facts": [
+    2012,
+    2013,
+    2014
+  ],
+  "years_not_collected": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "coverage": {
+    "2012": {
+      "source_local_candidates": 67,
+      "eligibility_status_counts": {
+        "eligible_final_early_entry": 56,
+        "withdrawn": 11
+      },
+      "crosswalk_status_counts": {
+        "unique_name_needs_identity_review": 45,
+        "source_only_no_exact_match": 17,
+        "ambiguous": 5
+      },
+      "automatic_eligibility_rows": 0,
+      "full_cohort_complete": false
+    },
+    "2013": {
+      "source_local_candidates": 80,
+      "eligibility_status_counts": {
+        "eligible_final_early_entry": 60,
+        "withdrawn": 18,
+        "declared_unresolved": 2
+      },
+      "crosswalk_status_counts": {
+        "unique_name_needs_identity_review": 54,
+        "source_only_no_exact_match": 25,
+        "ambiguous": 1
+      },
+      "automatic_eligibility_rows": 0,
+      "full_cohort_complete": false
+    },
+    "2014": {
+      "source_local_candidates": 75,
+      "eligibility_status_counts": {
+        "withdrawn": 18,
+        "eligible_final_early_entry": 57
+      },
+      "crosswalk_status_counts": {
+        "unique_name_needs_identity_review": 48,
+        "source_only_no_exact_match": 23,
+        "ambiguous": 4
+      },
+      "automatic_eligibility_rows": 0,
+      "full_cohort_complete": false
+    }
+  },
+  "event_rows": 372,
+  "registry_rows": 222,
+  "complete_predraft_universe": false,
+  "model_ready": false,
+  "models_fit": 0,
+  "outcome_sources_read": [],
+  "limitations": [
+    "Only NBA early-entry candidates; seniors and other automatic entrants are not collected.",
+    "Source-local IDs do not certify global person identity; do not fit until aliases/homonyms are resolved.",
+    "Initial declarations missing a name-matched final decision remain unresolved; no absence-based eligibility inference.",
+    "The 2012 initial attachment was not fetched; exact individual filing dates are not recovered.",
+    "2012 initial aggregate is 66 while the final named lists total 67; no invented reconciliation.",
+    "2013 initial aggregate is 77 while final lists total 78; changed name spellings remain unresolved separately.",
+    "Public publisher datelines are historical evidence but no independently timestamped archive snapshot was recovered.",
+    "No full copyrighted page bodies, height/birth-date columns or outcomes are exported."
+  ],
+  "acquisition": {
+    "direct_http_attempts": 1,
+    "direct_http_status": 403,
+    "direct_http_retries": 0,
+    "primary_page_access": "web tool source text views",
+    "further_source_collection": "bounded pilot stopped at three years"
+  }
+}

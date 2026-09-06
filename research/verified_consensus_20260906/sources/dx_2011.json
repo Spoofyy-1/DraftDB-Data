@@ -1,0 +1,22 @@
+{
+  "publisher": "dx",
+  "draft_year": 2011,
+  "draft_date": "2011-06-23",
+  "cutoff_utc": "2011-06-23T04:00:00+00:00",
+  "feature_eligible": false,
+  "status": "pending_body_validation",
+  "source": {
+    "urlkey": "com,draftexpress)/nba-mock-draft/2011",
+    "timestamp": "20110622223842",
+    "original": "http://www.draftexpress.com/nba-mock-draft/2011/",
+    "mimetype": "text/html",
+    "statuscode": "200",
+    "digest": "LCZIGH7CNNK37LV22N4A4FTWXYUWXHU6",
+    "length": "9528"
+  },
+  "archive_url": "https://web.archive.org/web/20110622223842id_/http://www.draftexpress.com/nba-mock-draft/2011/",
+  "response_sha256": "06c5566ba6dcb122895c756d02a61115a8de12d729169e150a434ef95ceaca5a",
+  "html_sha256": "06c5566ba6dcb122895c756d02a61115a8de12d729169e150a434ef95ceaca5a",
+  "bytes": 48125,
+  "retrieved_at": "2026-09-06T11:41:27.117712+00:00"
+}

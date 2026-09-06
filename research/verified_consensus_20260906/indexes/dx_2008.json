@@ -1,0 +1,39 @@
+{
+  "publisher": "dx",
+  "draft_year": 2008,
+  "draft_date": "2008-06-26",
+  "cutoff_utc": "2008-06-26T04:00:00+00:00",
+  "query_url": "https://web.archive.org/cdx/search/cdx?url=www.draftexpress.com%2Fnba-mock-draft%2F2008%2F&matchType=exact&from=20080101&to=20080626035959&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=250",
+  "feature_eligible": false,
+  "status": "discovery_only",
+  "retrieved_at": "2026-09-06T11:39:29.344827+00:00",
+  "records": [
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2008",
+      "timestamp": "20080202053543",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2008",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "N7RLIFDFE6PJLFM3T4KN6R5MONCPXVOF",
+      "length": "9051"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2008",
+      "timestamp": "20080409221826",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2008",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WUFGFJYMAELXP6ALDGWNJR3FSJXXITQP",
+      "length": "8848"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2008",
+      "timestamp": "20080509165425",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2008/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "YQXA2VQKIMBFWT23L4JVO5X3AJFPU3OW",
+      "length": "9060"
+    }
+  ]
+}

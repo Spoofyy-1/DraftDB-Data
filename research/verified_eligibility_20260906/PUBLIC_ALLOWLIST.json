@@ -1,0 +1,22 @@
+{
+  "base_directory": "work/verified_eligibility",
+  "files": [
+    "README.md",
+    "build.py",
+    "test_build.py",
+    "PUBLIC_ALLOWLIST.json",
+    "data/entry_events.csv",
+    "data/eligibility_registry.csv",
+    "data/identity_crosswalk_suggestions.csv",
+    "data/draft_discussed_only.csv",
+    "data/manifest.json",
+    "data/coverage.json",
+    "data/leakage_checks.json"
+  ],
+  "excluded": [
+    "private/**",
+    "__pycache__/**",
+    "all files not explicitly listed"
+  ],
+  "rationale": "Public outputs contain normalized historical eligibility facts and optional identity suggestions, not page bodies, broad identity catalogs, NBA outcome statistics, labels or model results."
+}

@@ -1,0 +1,84 @@
+{
+  "publisher": "dx",
+  "draft_year": 2013,
+  "draft_date": "2013-06-27",
+  "cutoff_utc": "2013-06-27T04:00:00+00:00",
+  "query_url": "https://web.archive.org/cdx/search/cdx?url=www.draftexpress.com%2Fnba-mock-draft%2F2013%2F&matchType=exact&from=20130101&to=20130627035959&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=250",
+  "feature_eligible": false,
+  "status": "discovery_only",
+  "retrieved_at": "2026-09-06T11:39:40.316760+00:00",
+  "records": [
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2013",
+      "timestamp": "20130116035842",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2013/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "BFJBNHCBBPUO4ARQT2LOU34T5XLMWK4S",
+      "length": "9659"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2013",
+      "timestamp": "20130328044841",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2013/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "X3SBWDXGTWW2S7AXOSZ4SE6BSFYJWGF6",
+      "length": "10376"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2013",
+      "timestamp": "20130331122657",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2013/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "HBIEFGHGYMVFVMYEHTW35B6GHD2BURM3",
+      "length": "10376"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2013",
+      "timestamp": "20130408213440",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2013/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "S5ENNCFQY7F7R6I7WJK4INECSAWPGCTY",
+      "length": "10588"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2013",
+      "timestamp": "20130420013356",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2013/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "RO5OE5MR4YNZFQKZPQRDMI6BZD2XUHSK",
+      "length": "10570"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2013",
+      "timestamp": "20130514103304",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2013/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "475NWBXGX6XOASWEWRCQMFNLTYBWCSVR",
+      "length": "10564"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2013",
+      "timestamp": "20130620091740",
+      "original": "http://www.draftexpress.com:80/nba-mock-draft/2013",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ORISESI3A3BVMPXJP2PPDKYOQ7COVI3X",
+      "length": "10515"
+    },
+    {
+      "urlkey": "com,draftexpress)/nba-mock-draft/2013",
+      "timestamp": "20130621015703",
+      "original": "http://www.draftexpress.com/nba-mock-draft/2013/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WRPK53VK36MQWWL6SW2WFMUDJA2VX5Y7",
+      "length": "10714"
+    }
+  ]
+}
