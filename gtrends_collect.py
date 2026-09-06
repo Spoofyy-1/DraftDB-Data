@@ -7,9 +7,15 @@ sys.path.insert(0,os.path.expanduser("~/Library/Python/3.9/lib/python/site-packa
 import warnings; warnings.filterwarnings("ignore")
 from pytrends.request import TrendReq
 H="/Users/kennakao/Downloads/nba_redraft_handoff"
-DRAFT={2010:"2010-06-24",2011:"2011-06-23",2012:"2012-06-28",2013:"2013-06-27",2014:"2014-06-26",2015:"2015-06-25",2016:"2016-06-23",2017:"2017-06-22",2018:"2018-06-21",2019:"2019-06-20",2020:"2020-11-18",2021:"2021-07-29",2022:"2022-06-23",2023:"2023-06-22",2024:"2024-06-26",2025:"2025-06-25",2026:"2026-06-24"}
-ids=[r for r in csv.DictReader(open(f"{H}/identity_KEEP_SEPARATE/tabular_names.csv")) if r.get("actual_pick") not in("","nan",None) and 2010<=int(float(r["draft_year"]))<=2026]
-ids.sort(key=lambda r:-int(float(r["draft_year"])))
+DRAFT={2004:"2004-06-24",2005:"2005-06-28",2006:"2006-06-28",2007:"2007-06-28",2008:"2008-06-26",2009:"2009-06-25",2010:"2010-06-24",2011:"2011-06-23",2012:"2012-06-28",2013:"2013-06-27",2014:"2014-06-26",2015:"2015-06-25",2016:"2016-06-23",2017:"2017-06-22",2018:"2018-06-21",2019:"2019-06-20",2020:"2020-11-18",2021:"2021-07-29",2022:"2022-06-23",2023:"2023-06-22",2024:"2024-06-26",2025:"2025-06-25",2026:"2026-06-24"}
+import glob,re
+split={}
+for r in csv.DictReader(open(f"{H}/data/train_2000_2018.csv")):
+    if 2004<=int(float(r["draft_year"]))<=2018: split[r["pid"]]="train"
+for fp in glob.glob(f"{H}/data/tests/test_*_inputs.csv"):
+    for r in csv.DictReader(open(fp)): split[r["pid"]]="test"
+ids=[r for r in csv.DictReader(open(f"{H}/identity_KEEP_SEPARATE/tabular_names.csv")) if r["pid"] in split and int(float(r["draft_year"])) in DRAFT]
+ids.sort(key=lambda r:(split[r["pid"]]!="test",-int(float(r["draft_year"]))))   # test classes first, then newest train years
 pt=TrendReq(hl="en-US",tz=0,timeout=(10,30)); print("players:",len(ids),flush=True)
 def day_before(d):
     import datetime as dt; return (dt.datetime.strptime(d,"%Y-%m-%d")-dt.timedelta(days=1)).strftime("%Y-%m-%d")
@@ -21,11 +27,6 @@ for r in ids:
     for attempt in range(4):
         try:
             term=name; kind="name"
-            try:
-                sug=pt.suggestions(name); ent=[s for s in sug if "basketball" in (s.get("type","")).lower()]
-                if ent: term=ent[0]["mid"]; kind="topic"; rec["topic_type"]=ent[0]["type"]
-            except Exception: pass
-            time.sleep(1.5+random.random())
             pt.build_payload([term,"NBA draft"],timeframe=f"{dy}-01-01 {day_before(DRAFT[dy])}",geo="US")
             df=pt.interest_over_time()
             if df is None or len(df)==0: rec.update(status="empty",kind=kind); break
