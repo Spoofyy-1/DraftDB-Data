@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T09:43:24.992834+00:00",
+  "lane": "news",
+  "pid": "P379acc01ca",
+  "draft_year": 2004,
+  "name": "Mark Jones",
+  "draft_date": "2004-06-24",
+  "status": "ok",
+  "query": "\"Mark Jones\" (draft OR scouting OR prospect OR basketball) after:2003-07-01 before:2004-06-24",
+  "query_url": "https://news.google.com/rss/search?q=%22Mark+Jones%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2003-07-01+before%3A2004-06-24&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Mr. Everything - Tampa Bay Buccaneers",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrdnZBOGFucjJEc0tTeG16SHRodFJMN2tPbnp4bGRtY0V0dU5XZnRxeU9ORk5DVEVOQ251Q3RNaFUtS2xFR0RZWFlaU05oaGVhYUI1NDJDa0RFUS10VFhfSkxoTQ?oc=5",
+      "published_date": "2004-04-24",
+      "source": "Tampa Bay Buccaneers",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jones Named SEC's Special Teams Player of the Week - utsports.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVjktdFdDVFBPaFZjMjZ1UkprSG0teEkycTVZcndaZGVSWHVTdmJfaURzNDFUNEVmMS1IWWN1M19iSXFlS2hzTjdYbXJyT1Q1RldWME9ST1hqVlJSUE1IQVBGb2JsZ1E0ZmVKb0JaSzFmVURfb3k4OUhQV0s1NGs0REFSXzc5QWZWa2g0bWVrcmg?oc=5",
+      "published_date": "2003-11-24",
+      "source": "utsports.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jones Adds a Slash to Vols - utsports.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5UcFJFZ0htdnN0T2hzUjFhb3ZjelViX2lTWEllTlVGQlVFTDlybUtHckZrclNQZGVVaXFNUEtsYkVLNlVMWnhndkhYenNpQVYzMVVhSXVadzZULVN2ODl3RUdobjB2NUdNMzk2OTNOOA?oc=5",
+      "published_date": "2003-08-12",
+      "source": "utsports.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Draft Capper: CB Lenny Williams - Tampa Bay Buccaneers",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDaS1XZldGUXNSTndVMUowMGFoV09HbHlrRkpUY1hKcmhEMGRncmxPaGF2OFlSWVM1UHhtZlpnUGlLb3YxTDdiVl9IWWczb0g5ZGNQbzNRc2lYOERSblNpTk1yQlhlM01udk5xOHhpN1F3NGdhUDNBczZR?oc=5",
+      "published_date": "2004-04-24",
+      "source": "Tampa Bay Buccaneers",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "823010b40f54356ad4a8496c63f85fa186a1bafed24290a81e3945e4263a12a3",
+  "feature_eligible": false
+}

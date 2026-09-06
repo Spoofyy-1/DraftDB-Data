@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:40:37.580102+00:00",
+  "lane": "news",
+  "pid": "P78dd3f3917",
+  "draft_year": 2003,
+  "name": "Matt Carroll",
+  "draft_date": "2003-06-26",
+  "status": "ok",
+  "query": "\"Matt Carroll\" (draft OR scouting OR prospect OR basketball) after:2002-07-01 before:2003-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Matt+Carroll%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2002-07-01+before%3A2003-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Notre Dame-Illinois Preview - Notre Dame Fighting Irish",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aRU1oOFlCZ3V6MnMzcFlhbVJ6MVNOeEwxenlyRU5pWDdIOEtNN0ozYlo4TmoweE5iU3FjQkNIZ3BXUXpLczlaR3NwTHdnbHh5MUdFNkNJanJWSmFudHpBQXd0NTNUZWw2SUVVWm5DQThKSkRBUWZDdw?oc=5",
+      "published_date": "2003-03-21",
+      "source": "Notre Dame Fighting Irish",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "No. 12 Syracuse Slips By No. 16 Irish, 92-88 - Notre Dame Fighting Irish",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaFlzUXJjWGh4RXlWUjhyd0RsNVB3Vk01QnAyUXZVUUJsZEFqRTR4N2pBWUkyd1YzdFpvd3dpRzJqbzNScThUQm82eHFrN2V1Nl9UTTRBR2N1SEVTM0FOQzV3R3ExZ21tR0RUZUpJSWxubkp0bjZzc0FwMDZwVng4UWpZT0wyVzQ5QmFz?oc=5",
+      "published_date": "2003-03-04",
+      "source": "Notre Dame Fighting Irish",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "7f1f086b55224ab728ca70507cffe3ee806cb8b3775eb0c986753cf36d524709",
+  "feature_eligible": false
+}

@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T09:40:27.826999+00:00",
+  "lane": "news",
+  "pid": "P64b1bc7766",
+  "draft_year": 2003,
+  "name": "Marcus Banks",
+  "draft_date": "2003-06-26",
+  "status": "ok",
+  "query": "\"Marcus Banks\" (draft OR scouting OR prospect OR basketball) after:2002-07-01 before:2003-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Marcus+Banks%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2002-07-01+before%3A2003-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Lamb Leaves Program Temporarily - University of Massachusetts Athletics",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3ZFF5eEVRc0Y3YVBzTnltR0w2SXVqVjNueGxoWU5RNHZKbHJSREVtd3NwTU1QSS1pVURKZXB6QVY2UkJiT2FJSXEtelBKbkJWYnYzaFNQb25xZlFmM3pqTVVOYWhBbmd6R3hBT1dKUld2QlVDaEFPMTRkdVFGdw?oc=5",
+      "published_date": "2003-02-23",
+      "source": "University of Massachusetts Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Eidson, Scott go camping - GoUpstate",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNemhUOVBNZXh6Yl9UZ0Y5RXFMVFl6ZXFjckgtdDZtYnpkR09vdmFXaWRLanpwMFZQNVJlQksxOU5DbjN6MXlFOGoxR3dkbFR1b3NXWXNNR2xxdUwwMXVJbWNHc2RXVmV4V2VvN2g2VGg2QmZraFhqbFBrSjVGT2oySzdEX3lhdldMVDZ5WA?oc=5",
+      "published_date": "2003-04-08",
+      "source": "GoUpstate",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Lasme To Transfer - University of Massachusetts Athletics",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VR0hTVTdBdy1fc3Y3Sllsa0cyZU1nUFIwU0VXdm43NTRJYkNoNG9sSzhWNEg4ODhUSWVZWXE0M01BbUViX3gtUWZsZmhvSENWcXV4WnlTOTYySXBSZVZIcnU1QWxWbXZTOWtB?oc=5",
+      "published_date": "2003-03-31",
+      "source": "University of Massachusetts Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Sophomore Guard Leaves UMass Program - University of Massachusetts Athletics",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZzVXVllvd0MyZUdySm5hN3NQd1lsdWJmMDFTOWVRQkh5dUZsbEVYZlQ4eERwMjduWW5VNHVVNEVqTXlfdmphUWtWNHpFWFBzeUhSZWp4UWRlNmp3WjN6Z2ZBcFNqRWNueGxGMER0MXEyNUI4dy1EYjBLWnBlbzVYZVIwRQ?oc=5",
+      "published_date": "2003-01-06",
+      "source": "University of Massachusetts Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Lappas Earns Contract Extension - University of Massachusetts Athletics",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DU1BFaDZGYTczUVJSekNMZ2YtdGdnRDBpb0drNGkyNjFYb3FzWW1MMG04QmQ0eGhBOEZhRllST3FJX1I5T2RTY3lzeTJjSVl6QnlNSVVzM2tFcVduS1lHTk5jXzF4RUF0MTYxa2c3WHV4QndsRTliSVZUaVpWdw?oc=5",
+      "published_date": "2002-09-30",
+      "source": "University of Massachusetts Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "2d66b5ac017e6c819d32477e702f32121d504f3ac9db4c830087551f33144919",
+  "feature_eligible": false
+}

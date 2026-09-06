@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:44:21.577824+00:00",
+  "lane": "news",
+  "pid": "P80665441e6",
+  "draft_year": 2004,
+  "name": "James Thomas",
+  "draft_date": "2004-06-24",
+  "status": "ok",
+  "query": "\"James Thomas\" (draft OR scouting OR prospect OR basketball) after:2003-07-01 before:2004-06-24",
+  "query_url": "https://news.google.com/rss/search?q=%22James+Thomas%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2003-07-01+before%3A2004-06-24&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "James Streible Obituary (2004) - Louisville, KY - Courier-Journal - Legacy obituary",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb04xNzJGYzdEeWdXWENGQlk2WDF5clkya3BUamh5TnN5Q3pKLVJmTTlMZHIwYnQyc0ZDRGJyZm9tbjU0RHdFY3llNUo0SkNSaU95bHVVSEEwSGdPVEF3aTBVdXplRzZZbHFsYkdwa3VvRjRnZldiVnp0blZ3UG9waXV6V3M0R0NFdmJ5eVFPdVdWdw?oc=5",
+      "published_date": "2004-01-30",
+      "source": "Legacy obituary",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "ae296d79cc25dc7c54e42566236bfa3c2a1900b71450e9a07469a1d27c1ccd1f",
+  "feature_eligible": false
+}

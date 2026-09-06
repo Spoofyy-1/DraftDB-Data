@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:39:51.918938+00:00",
+  "lane": "news",
+  "pid": "P47846f7398",
+  "draft_year": 2003,
+  "name": "Jason Kapono",
+  "draft_date": "2003-06-26",
+  "status": "ok",
+  "query": "\"Jason Kapono\" (draft OR scouting OR prospect OR basketball) after:2002-07-01 before:2003-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Jason+Kapono%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2002-07-01+before%3A2003-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Gator signee is Mr. Basketball - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYzhLWWFkb29FZ2RpN1lJY2JZekxWR1BvQ0pQU2lDTG16bVVNeHVHdGczazdtb0NXMTVzcDZtcDdXbks0UUtKRHJOb2JWRjRnYWpxejdYMmJYYTdCLW9jR0lWTUdUU0w5Y0JQZWtsb0JRR19UN3djWDNoLUd1blNzbFNUaXpZMWViUVVQSW45dU9Bc0FBRUtr?oc=5",
+      "published_date": "2003-04-10",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "d19a467073bea5d0bc164ac108e090e2d978ed90f69082fee90ef71ef4c28916",
+  "feature_eligible": false
+}

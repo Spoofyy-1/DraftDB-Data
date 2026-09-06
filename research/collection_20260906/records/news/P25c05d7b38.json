@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T09:43:05.183276+00:00",
+  "lane": "news",
+  "pid": "P25c05d7b38",
+  "draft_year": 2004,
+  "name": "Josh Smith",
+  "draft_date": "2004-06-24",
+  "status": "empty",
+  "query": "\"Josh Smith\" (draft OR scouting OR prospect OR basketball) after:2003-07-01 before:2004-06-24",
+  "query_url": "https://news.google.com/rss/search?q=%22Josh+Smith%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2003-07-01+before%3A2004-06-24&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "6ffe766f249c866a51f6671af409fcc5b240580fff70de2e8795ac28bcba8602",
+  "feature_eligible": false
+}

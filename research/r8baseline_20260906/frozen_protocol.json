@@ -1,0 +1,34 @@
+{
+  "protocol": "strict_2018_calendar_baseline",
+  "selection": "Fixed R8b incumbent without scout values; not selected from new test results",
+  "weights": {
+    "rich": [
+      0,
+      0.75,
+      0.25
+    ],
+    "thin": [
+      0.5,
+      0,
+      0.5
+    ]
+  },
+  "training_season_cutoff": 2018,
+  "training_cohort_max": 2017,
+  "horizons": {
+    "2019": 5,
+    "2020": 5,
+    "2021": 5,
+    "2022": 4,
+    "2023": 3,
+    "2024": 2,
+    "2025": 1
+  },
+  "created": 1788686985.692893,
+  "feature_provenance": "Inherited features remain uncertified; test benchmark previously reused",
+  "files": {
+    "inference_inputs.csv": "5dc6e519aba92fa48355fe65ecac41b9296c31868c7de849cc7bb1f9943ad3a1",
+    "features.csv": "d580ade8fb0afced687bf55a198fe7e7e27c54a68bd3d042b4f16d165b6e8545",
+    "labels.csv": "4afac2eced455cf7fc1f946c9d66fa4ac6fdd8d2febd909e5f71e4aed7a69d89"
+  }
+}

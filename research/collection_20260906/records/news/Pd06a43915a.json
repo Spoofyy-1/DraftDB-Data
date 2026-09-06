@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:37:47.083409+00:00",
+  "lane": "news",
+  "pid": "Pd06a43915a",
+  "draft_year": 2002,
+  "name": "Yao Ming",
+  "draft_date": "2002-06-26",
+  "status": "ok",
+  "query": "\"Yao Ming\" (draft OR scouting OR prospect OR basketball) after:2001-07-01 before:2002-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Yao+Ming%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2001-07-01+before%3A2002-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Yao Ming ready to mix it up with the NBA's best - Arizona Daily Sun",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ1F1YXljOHc4a0pSQlRESWpBcS1MSU92SDVsZEIxX2tTVlRDR1plNjZkZDVRV2hlUnBuYkNyLUJISXpxMC1MT3BGdDhNNV9HbWM1MmRLUVg2N2RQNnpsZU9PQl9iQ290R1RKMkJLWUNucE42cmNMcmt4QXlPSG94MFJBcHNaS19MSXI4MmlSMnF4dDZqTHJDRHZXbnJzbl9OWWt2bnVieEw2X1BWaXBpVVhJakZXdXFVdkJF?oc=5",
+      "published_date": "2002-04-27",
+      "source": "Arizona Daily Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "World Basketball Championship Preview - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DQnAxSUhGTkdGMExQNmhBMFMzdFhVY2xoV3hVc0kxcWN2bWI3VFZwNEJLMENZcVluSEZJcFBSS1ZZeHBBSWdaaUhHcjkzM2dETEoyaVpMRGo?oc=5",
+      "published_date": "2002-05-31",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Workout by China's 7-5 Yao is the height of NBA curiosity - SFGATE",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeGkxSzFjc1NDb1dhSTBENl9lcnV3dzdfWmRsNzNZdG9obHRxZ2UxSU9kR1F6b0NTaVNFNFFQSTBycThuX2dNMGJrRjJtRVdHZWI5MFloOVdaY1FqaUVDal9qektIUURjczdBUUtrQ0d6SE9ieHNXdkRwRG1hS0F2M1owRThzVThFcjFKVFphalAtdTdRRGVzVnVsR2wzQQ?oc=5",
+      "published_date": "2002-05-02",
+      "source": "SFGATE",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "688e051ef0e627376264c90c757f83a54d07814796f6ec2c76a82d36f916741d",
+  "feature_eligible": false
+}

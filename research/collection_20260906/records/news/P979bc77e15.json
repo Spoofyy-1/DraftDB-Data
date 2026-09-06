@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T09:37:10.442767+00:00",
+  "lane": "news",
+  "pid": "P979bc77e15",
+  "draft_year": 2002,
+  "name": "Drew Gooden",
+  "draft_date": "2002-06-26",
+  "status": "ok",
+  "query": "\"Drew Gooden\" (draft OR scouting OR prospect OR basketball) after:2001-07-01 before:2002-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Drew+Gooden%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2001-07-01+before%3A2002-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Zero hour for Gooden / After taking a long road to stardom, Kansas' leader knows it's his time - SFGATE",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNzJQMHZZQ0l2TTBwOGNXNVJGZzdaOENyREpRMTlmNUY2aWRxNmtKay0tX2RnNDJCX2lVVnIzM0ktNTdwRVMzamRmRk4yVkozb2k5WU5rbEZCNDhJUWxUQWdGc2VqSUFMZHRhZ0o4R3c0dnZTM0x1WURYWmpoODdPbWFvbXF1bl9JRjFiNTMtWkRWVG5UQ2tkeDV4TW5hUGZfVExvNGd3V3U?oc=5",
+      "published_date": "2002-03-12",
+      "source": "SFGATE",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Dixon, Terps Earn First Ever Trip Into Title Game With 97-88 Win Over Kansas - University of Maryland Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwOExoUVJJOXhxVVQ2akJDY0NZR0ZybnFfNkExQ3N0S0pTY0xCVjVfbF94M3hmNGt4Ym5HRkpNMWNFaVdrSDBkUDBvTWdyM3E3bGtCMllRZw?oc=5",
+      "published_date": "2002-03-30",
+      "source": "University of Maryland Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Illini Fall To Kansas, 73-69, In Sweet Sixteen - University of Illinois Athletics",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYmJyLVdBclpFSEdyMjNNWXNTaGMxMVVFa3c2TGllTVd6aUF0TmVBNVRpODc2NnpoTi1IODYxLTNGa2FGZWk2SjJjMC0wQnRZODhlbXJXdTdpUktPdlJielRZTDZNZUt2Q0daTzRYY0lMeS1lOEhlMm9yOWFXbVVmUG4tV3FJSG42Qm9sTUcwZw?oc=5",
+      "published_date": "2002-03-22",
+      "source": "University of Illinois Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Holy Cross well versed on Jayhawks - Lawrence Journal-World",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxUW9jVUJ2TzRFVmxXMTFjdW5iTGluUmVxdDA1ekdobjNMWkh3aG03ZkJFUVlJSXFlaWFuSDRVM2FTS3ZIQU1TVU5iNmxQcERYUWw1WG8ySk14U2J5TjRnY2luVExJNjk2dmc?oc=5",
+      "published_date": "2002-03-14",
+      "source": "Lawrence Journal-World",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "b81b38e4b1401ae51858b4e90fb911a52bd014b36412878127a931daf0983a1e",
+  "feature_eligible": false
+}

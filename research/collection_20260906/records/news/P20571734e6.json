@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:42:58.645412+00:00",
+  "lane": "news",
+  "pid": "P20571734e6",
+  "draft_year": 2004,
+  "name": "Trevor Ariza",
+  "draft_date": "2004-06-24",
+  "status": "ok",
+  "query": "\"Trevor Ariza\" (draft OR scouting OR prospect OR basketball) after:2003-07-01 before:2004-06-24",
+  "query_url": "https://news.google.com/rss/search?q=%22Trevor+Ariza%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2003-07-01+before%3A2004-06-24&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Freshman Trevor Ariza Will Enter Upcoming NBA Draft; Granted Release From UCLA - UCLA Bruins",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNckY4MVFUcnotT2tvQUIwdl9jUHFBRy1OdEZsUm4xdUR1RXAwRE9US0xZQmotdmE0d0tNX3U0YjhJMTVkT1hGZjVsOHJVNENxY2MzNGx0R1VIbl9HX3NId0RRVEhnYzU5bWtzaTMtZXJxVXR1cmtySTZQUzAyZkZqamUxZVdjUk54c1VSa3pOczg1ZDlCNzdzLURmOUNSdXVlekE?oc=5",
+      "published_date": "2004-04-14",
+      "source": "UCLA Bruins",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "3da3938dcc4e2dacc252ff7fa2a86f8937a55e57cb19dbf0f8f8b679b30e90e5",
+  "feature_eligible": false
+}

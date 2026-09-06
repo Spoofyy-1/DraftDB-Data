@@ -1,0 +1,72 @@
+{
+  "collected_at": "2026-09-06T09:43:28.251774+00:00",
+  "lane": "news",
+  "pid": "P391abc2490",
+  "draft_year": 2004,
+  "name": "John Edwards",
+  "draft_date": "2004-06-24",
+  "status": "ok",
+  "query": "\"John Edwards\" (draft OR scouting OR prospect OR basketball) after:2003-07-01 before:2004-06-24",
+  "query_url": "https://news.google.com/rss/search?q=%22John+Edwards%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2003-07-01+before%3A2004-06-24&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "The John Edwards Experience - Salon.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sck5MLWcyRERiYnRTN0taZ3VJeDlOamRla3c5SVd5WWdDbEktUjR3V001b1I5dFUyMmJSMlJqbExkanVubU5rcVlDcWhaWXd6UXZtcVNURQ?oc=5",
+      "published_date": "2004-01-31",
+      "source": "Salon.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Is John Edwards A Clinton Clone? - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhX1pYYkpEcjZfYnlac1Nvem5yRUhNWkxudnJncjdkOG92RXVOdmFiUjRZV0UtYS1XTkkycjVjamxNUkt1VXZnblJRMmozU0VBR0hmbkc2R0RzWDAzQS0xOWR5bkNfQWZVNmVPZE5B?oc=5",
+      "published_date": "2004-02-02",
+      "source": "CBS News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Edwards quits US presidential race - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tN0FYbE1DSm1OU0ZiVnJCZWNLa1RDVW8yeDRVR3BXTWJXNnVQckFLdk1vYzdxcGQxdFdDZ0lSMjZaRFFuS1hSYTRQbGpQMzNiN2pzY1g5NU5nTDY0dGo4cXZMekFETzZCNDA5TUJZdFRPSnA4M1l0X1FWS2k0WDDSAYQBQVVfeXFMTWJwNDM0RjBjMmYzczdFY1REZUVHSUtEME9odUJOMEJEMGhyY0NYcXJtZDBDYU9xZ2x1MVZUU3hJUUhpOE9GZ2hiT3V5U0NwczdIdDVSZGxNVUVSWFl1dVYyVHJrN1F5NzItbjdHN05yOFZqZkdLV2hmMDhxVUQ2alFFZDZS?oc=5",
+      "published_date": "2004-03-03",
+      "source": "Al Jazeera",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "The 2004 Presidential Primary Shakeout - The New Yorker",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2ZVhEa2lFZXV3LVk2UC1FTlhPcDFyeVFVSEdoaW5pRk9hZkUxdUdta0YzcnFJNnIwMXo2dVJvSFdBd2VsazcxeVNndzM0SUE1dzNfWU5iUUl1dExtVWRRQVBoZjV4cGhISEE?oc=5",
+      "published_date": "2004-02-02",
+      "source": "The New Yorker",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Kerry's VP List - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RcWFSQWZTVzlONElHeWhBS256WXc2amFBazNYNmwtclFRUGhQY2pRNnBSU21EaHRFMDBHb0NZbFhHZ0JnNWlWcmlaSG1WR2wtcGxoa3hsTQ?oc=5",
+      "published_date": "2004-03-02",
+      "source": "CBS News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Wesley Clark Bows Out - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxcS1zUklIZ1NhdmFxdFo0eVJVdjFYdnlUZzFaWUk0NmlmVmFMZ2pMSllpNndWbUVVWDE0WXJTeDROWG5iWkxyNjZFcVd5N0NZMFN1d29qUWI5T19fZ1lRNw?oc=5",
+      "published_date": "2004-02-11",
+      "source": "CBS News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "The Problem With Gephardt - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BUnVZUkFFREJ3b19fQ0twV1hfSklTNEdwVlZOQlhOS1ExcWI2blBRaXNQekwyU3JFUWpEZVRmTWE1SHJzaFNVcnc5R25jMnVybXUzdEpqTjVBdWpYOWN6OUs5aFB5QQ?oc=5",
+      "published_date": "2004-06-21",
+      "source": "CBS News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "d60a33ccc0b790a5f8238ffa39c53c63160a900436cfe94685b6c6b10e8ea1b9",
+  "feature_eligible": false
+}

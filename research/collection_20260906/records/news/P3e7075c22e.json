@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:39:42.164263+00:00",
+  "lane": "news",
+  "pid": "P3e7075c22e",
+  "draft_year": 2003,
+  "name": "Kyle Korver",
+  "draft_date": "2003-06-26",
+  "status": "ok",
+  "query": "\"Kyle Korver\" (draft OR scouting OR prospect OR basketball) after:2002-07-01 before:2003-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Kyle+Korver%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2002-07-01+before%3A2003-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "FINALISTS NAMED FOR NAISMITH COLLEGE BASKETBALL PLAYER OF THE YEAR AWARDS - utsports.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWU90ODdFS2QwNUNWMVgwbGVtQ2pkN3o5Qm4xcFRxQ3dSS2JsVDVDN3NrRmlSQWpyekRCS3lWbk55VjI1cXFCdng3elpTVi16WnFBWWdZWjNTM0JMblNNclFPNnZEdWIyTF9qOGxQTnZwUmU1ZXNmdDlQYzF4eGk4ZzZZTDkwQzQ1OVNfRm9BWTRScGNuWmVHRlUtZUpqSFM0bE5DNDdSaU0yd2FUNWc?oc=5",
+      "published_date": "2003-02-18",
+      "source": "utsports.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jason Gardner and Luke Walton Named Finalists for Naismith Award - University of Arizona Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCcGZvbjFjYzlGODZwWjYxSjR3NXItOEZRNmxYdzd0cTB2X2JURmItaHZhQmtOdmgySlVWN3Fzb3ZTTkx6a2hpVnlNdmlwVzZWUUZ1dmE5bFBlaGVqZXBUZ0RQaUE?oc=5",
+      "published_date": "2003-02-19",
+      "source": "University of Arizona Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Most agree the West is tougher than the rest - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSjZSSXpiVGstZHF2bWNTNG50QTljWnZmSUJEMlNKNzNFX2dJWFRBblNRRXJlWWNBaW0taGs1UE1HalVrMnd6TV9kbDNWbzhuMF9LTjR6T1Npa0l0TnVsNXBrUGQyQWJFSHBjMUNoM2V6cFNzR01BVU1FeE5GM19RYTN2SHRqWFZMMWwza0o0aUFpSEVmVExoSHREVG5IX3NmVHhmNEc4cGR0a0k?oc=5",
+      "published_date": "2003-03-19",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "d7a5d53491982fffe107ee8602c633b602ea466f5ce487094dcd8c3b94bfcd09",
+  "feature_eligible": false
+}

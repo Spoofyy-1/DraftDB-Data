@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T09:38:17.058140+00:00",
+  "lane": "news",
+  "pid": "Pe932df1062",
+  "draft_year": 2002,
+  "name": "Predrag Savovic",
+  "draft_date": "2002-06-26",
+  "status": "ok",
+  "query": "\"Predrag Savovic\" (draft OR scouting OR prospect OR basketball) after:2001-07-01 before:2002-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Predrag+Savovic%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2001-07-01+before%3A2002-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Honolulu Star-Bulletin Hawaii News - Honolulu Star-Advertiser",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xMzJlUmNGSUFqdWI1TmVTanhrdnRnLTlubWQ1VkFmdjMwUHdRWTU4d3RxSW5Mb2pISGo5aHpRdnA1SThYbVp5M1ZkTmJyUFZ3UmVpWlZiR09tSVJLU29WYUoyX2Q5WTBqZExsclh3?oc=5",
+      "published_date": "2002-03-10",
+      "source": "Honolulu Star-Advertiser",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Xavier 70, Hawaii 58 - upi.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tQXBOWUd5TDFXR29qUC0wZXZpYzlUeXZ5UVlRaTdZNXd0Y2ZsdThiODA2cjlLQXJvT3FSNmx5U3ktQ0F4RXNCZnRST0E2b21OSU1HelJ5T2l5WWpUbDZTQTBVQzYxYi1tRkpzLVdOeG1ncFd1ZmE3SURmYTk2VVHSAYQBQVVfeXFMTU4tMEs4SGpjLUZoeFEzMG1aRU5TeEpaa296UGxQU3c4VHlhazZMVmgzQnM5YjJhWjZNVnlfVmVuSjFIMmJsd0NUZWxDaUZzZUhNaHIwVHFfRWJQZm9QUzhiM1lsUExjcWNFVkxRWkgtdXhUZ1RERmNCbzlGanJJYXNyczda?oc=5",
+      "published_date": "2002-03-15",
+      "source": "upi.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Ely will be in Honolulu - Honolulu Star-Advertiser",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sY1owVFV1OXhlWFVWOTJjc0xzWm53aGhTY29IZ0Z3WndsakN2Vi11RnNReXBuZVRKZDN0djFNRVA5dzFBOW84dlYwbmp4U0JZSDhCM29zNTBfLUpDZE1iZ1dRQVg2VjljbzktUWZtOA?oc=5",
+      "published_date": "2001-12-25",
+      "source": "Honolulu Star-Advertiser",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Honolulu Star-Bulletin Sports - Honolulu Star-Advertiser",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tNXJCd0JHMUVRWHlYNTJSSkZNOFNTMUtOOG9LVzZSeTlDQ1RjWkFYXzJkejBIdWtrQzBaWERSWktSWEIwbnlscU1kV2NyTFJqOEszUUU5X2FyMm41N295VFBXTnJRYlZFanNYMUUzTXY?oc=5",
+      "published_date": "2002-01-18",
+      "source": "Honolulu Star-Advertiser",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "e1003f842903415b9dca86a22ac67605e4151be5a5e98d109555df1efb6b3919",
+  "feature_eligible": false
+}

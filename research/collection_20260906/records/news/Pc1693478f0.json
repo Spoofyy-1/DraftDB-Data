@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:41:46.380511+00:00",
+  "lane": "news",
+  "pid": "Pc1693478f0",
+  "draft_year": 2003,
+  "name": "Doug Wrenn",
+  "draft_date": "2003-06-26",
+  "status": "ok",
+  "query": "\"Doug Wrenn\" (draft OR scouting OR prospect OR basketball) after:2002-07-01 before:2003-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Doug+Wrenn%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2002-07-01+before%3A2003-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Doug Wrenn to Declare for NBA Draft - University of Washington Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kaEZ1QUtqY3ptbUUtX1phd251UTNhY1dkazVNVFFjazgyX05jMjc5UVBQeUUyMGVwelBaUzJ0dnE1cWhyX21lTmFMcVdQazRkXzJCbWVwMUg0dXdr?oc=5",
+      "published_date": "2003-04-10",
+      "source": "University of Washington Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Will Conroy Voted UW Men's Basketball MVP - University of Washington Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kU2piT1R6TlpuVzlsMHJZbGpzckhyMTNabURTUEtsN29SeVhDSkRPb2NoMmlFcWlpajdOellObE9EVDVJenRwQ0txVjIyOEdHb09BQ0R6TmhLcXBY?oc=5",
+      "published_date": "2003-04-10",
+      "source": "University of Washington Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "99e7c0ca3dc875292f10430f18d42b405f08d5dda23540eccfe067c4177577fd",
+  "feature_eligible": false
+}

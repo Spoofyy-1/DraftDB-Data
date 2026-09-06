@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:39:32.346059+00:00",
+  "lane": "news",
+  "pid": "P3c6c730bf2",
+  "draft_year": 2003,
+  "name": "Luke Ridnour",
+  "draft_date": "2003-06-26",
+  "status": "ok",
+  "query": "\"Luke Ridnour\" (draft OR scouting OR prospect OR basketball) after:2002-07-01 before:2003-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Luke+Ridnour%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2002-07-01+before%3A2003-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Oregon\u2019s Lukes standing tall - Lawrence Journal-World",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FOUlza0pETEJ0TlF4XzRSbHRMR0xsOTc5RWF5SXFReWdPejB5YnZpWFc3WXNxT0cydV82YnJOdVIxVUZLem1EMkJxNmp3eExRb2hnblhDMXVPOW5nWnZtMzNXZlNlNHR0SEsyS1RobWRKTG8?oc=5",
+      "published_date": "2002-12-17",
+      "source": "Lawrence Journal-World",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Duck's Dump Cal State Northridge - University of Oregon Athletics - goducks.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sMHc2OFdUSm0zWkNoMjNTSkFXdGZ2emhMOV9sT29CUk9ubmtzakxGUHNRbFBVZHVBc3l5U2cya3pUMzIwZE00NkU4dVVWQ3R6QW0w?oc=5",
+      "published_date": "2002-11-25",
+      "source": "goducks.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "161177c6a82f4f6cf2a60f1cf4e416f5a18972e348d9aad7f9b08894bf01f7b4",
+  "feature_eligible": false
+}

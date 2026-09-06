@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T09:43:08.453580+00:00",
+  "lane": "news",
+  "pid": "P269736d407",
+  "draft_year": 2004,
+  "name": "Dwight Howard",
+  "draft_date": "2004-06-24",
+  "status": "ok",
+  "query": "\"Dwight Howard\" (draft OR scouting OR prospect OR basketball) after:2003-07-01 before:2004-06-24",
+  "query_url": "https://news.google.com/rss/search?q=%22Dwight+Howard%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2003-07-01+before%3A2004-06-24&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Howard seems poised for NBA stardom - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmaUlHbTRsS3k4QzlPQlREbl9WbldpMTc5c1ltb05NR2liT1hOTzBxTURmdnVLdlVaTkVSYXhWYXloNUhRa1VJYVRxUmFNS0E?oc=5",
+      "published_date": "2004-02-21",
+      "source": "NBC News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Telfair skips college, to enter NBA Draft - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLXlYYXBIQk5weHk1bk5FbEZrTVBpak1ZcEFzcHJJQk9MdXBNc1dWNnVpZTQ4OFp0YmsxQUNpS19xb2NTOFhwZG4zV0tiR0lOTnRuWTRQekpQQTF1MDhfS0lFZXZNWGI2cXkzeW5IbmpzYmE4elRsVk1GbkttaG9talNycEJYZFI3dTlNVXEwc2RZNGxVaXhvN0cwNDFCTWhTajY3aTJn?oc=5",
+      "published_date": "2004-05-05",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "T-Mac Wants Out: The Magic Is Gone for McGrady - Lakeland Ledger",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdlZ2Vm5ydm9qZFhoZlIxb2hzd1JrVEJoby1USjQxNXE3bWF0T3JwNGdrUzNjaUlvMlYxMFgySHp1dkFvdERiSlhSUF83Z1FKMU81ZTRmbXA2SnczQ21pSVhXTC1OZklKOFU4cGtqTWtDWE0wOEpzRUNab1d3RjBrazFhQjFiU2hJaDJ4OEUtYWY4ZHVfaEQtcmt2a2ctbG9YM092eURsSmZ4QQ?oc=5",
+      "published_date": "2004-06-19",
+      "source": "Lakeland Ledger",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Which one to pick? - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMFY0dWEzcXlfWGhJZXhpMTRfbDJuTHFWbURnN0RtWFpQcGFVZERQVktsMzBkRlhRSVhyNVFoYmhmQkI0YzBPRXpaM0dlWFlvNWc1d19QR0ZISnlzMFdPUzk0Y01jM3Qzb1JJRjNta3hoMlozLVJTbHpvYTc0SjRLVktFbVhDX2s?oc=5",
+      "published_date": "2004-06-23",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 2,
+  "response_sha256": "480699c8826a960192c2fbe4f92c906c8ef72f11c31438f0f0eacc2d958448f4",
+  "feature_eligible": false
+}

@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:41:36.429339+00:00",
+  "lane": "news",
+  "pid": "Pb7edd3ead7",
+  "draft_year": 2003,
+  "name": "Dahntay Jones",
+  "draft_date": "2003-06-26",
+  "status": "ok",
+  "query": "\"Dahntay Jones\" (draft OR scouting OR prospect OR basketball) after:2002-07-01 before:2003-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Dahntay+Jones%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2002-07-01+before%3A2003-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Men\u2019s Basketball Drops One To No. 3 Duke, 91-71 - Georgia Tech Yellow Jackets",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbEJ5Y0tTcVpXSDc1ZzJXaVpxVEJ2aVFjUDRNOXZFN1o4eUthT0NpMEJDU1JjcUFLelhWWUdVamNnWE9ZYnhkWEE5TG11RlVGTFBEbW0xRGt3emoyRmpoYnJDY0lFMkUtSmpwblJvakMyZjJ2cFN1aFcyZHJZeTNqcmlYZ1BXYzBESE9odmVB?oc=5",
+      "published_date": "2003-01-24",
+      "source": "Georgia Tech Yellow Jackets",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "e6b55613bfcab84ea787eaca7d7396e771607fb2abfcf6561890e5d3359bfc41",
+  "feature_eligible": false
+}

@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:46:07.259191+00:00",
+  "lane": "news",
+  "pid": "Pff029e3151",
+  "draft_year": 2004,
+  "name": "Andre Iguodala",
+  "draft_date": "2004-06-24",
+  "status": "ok",
+  "query": "\"Andre Iguodala\" (draft OR scouting OR prospect OR basketball) after:2003-07-01 before:2004-06-24",
+  "query_url": "https://news.google.com/rss/search?q=%22Andre+Iguodala%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2003-07-01+before%3A2004-06-24&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Wildcats Fall To Seton Hall, 80-76, In NCAA Tournament - University of Arizona Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tc0YzSmtRelNDMjNqamVwOWs0WjN1blQ4YlpVaUJUbV9uNnRUX2J0RXRPdWVHdHdFbXFBTmp4LW5jb2JMS0ZhcXA5T1R4RzlhOTdPYnI4RjJjeW9uaG1sS21wcWZnOTF1?oc=5",
+      "published_date": "2004-03-18",
+      "source": "University of Arizona Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Olson has found sense of perspective - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQUszeTE2bFVlZmhkZjA0OUJ5cVU2TzJnY3pHbi1aWkxRNTBIeUlNYUZMVlhySUlKcVFtTGJOM09WNjBlVnhiSDNiNDZaTnJoV0tHQlgtS2hYMy14RUtZZ18tSG90X0hBUGE1SVN1OUZBRHBvVVBwaGlkWEMtNDVhVkhsZFJsOGJhV25tZF9hT3hJNjhzR3FibmxyQWRTaWU3?oc=5",
+      "published_date": "2003-11-26",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "d2cb2b0b7101fff8675df09ca30cede75e1a2b99f2951ababf7804005bbf57a4",
+  "feature_eligible": false
+}

@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:43:58.320176+00:00",
+  "lane": "news",
+  "pid": "P6547eb6540",
+  "draft_year": 2004,
+  "name": "Kevin Martin",
+  "draft_date": "2004-06-24",
+  "status": "ok",
+  "query": "\"Kevin Martin\" (draft OR scouting OR prospect OR basketball) after:2003-07-01 before:2004-06-24",
+  "query_url": "https://news.google.com/rss/search?q=%22Kevin+Martin%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2003-07-01+before%3A2004-06-24&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Kevin Franklin (Cub) Martin - Christian County Headliner News",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yblZQRzdDdHZXTVdMbEhjaXdFNER3M0dZdW5UQ2NLRFF1T3FwUVIteWplR25GWFV3RGhScmcyWUVxUkZZSVBYa2lxNkxqSmF5dFRtZ1VnY29vZUFWbUI0RXhHRXlTYnBPaGNpV2VIUkw?oc=5",
+      "published_date": "2004-05-23",
+      "source": "Christian County Headliner News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "WCU Men's Hoops Defeats Erskine (77-56) in Exhibition Game - catamountsports.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUy0xZ2VxTkpQcVRxRHJGa1lLVk8zSXhZLWt4Zzd3cTJRN256QlZaVEZLbHI2ZVdKX1FFc01ua181cXU0RnVjZ3lHcEszNS05RTNkc1pMcnhaaHBTSEVoTFJlVmxMbzVCcC14QkVYdGVoS05BdGtvY3JUZFZnSTdjZDB0V3ZuM245ZEl2NW1Oa2tVMkVTR1E?oc=5",
+      "published_date": "2003-11-07",
+      "source": "catamountsports.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Ashley Champion Named To Coaches All-SoCon Team - Chattanoogan.com Breaking News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQlBuc3Q4RS1haS10dUJhdFIyVXRuMjk5RU1PTUhjdmhUb2x3S0NCOU1adVQyeWN1eDRNVzBNVWIzNWZOQUkwc1pvYUpCdVNPT0tUeGhuajByYmNyd3RCenBjU1laRl9Yc0V3aEZuVkJDbWw2LTlpQUNiVDdFQUxxZl82TXlJMjl4?oc=5",
+      "published_date": "2004-03-02",
+      "source": "Chattanoogan.com Breaking News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "aac9bffa50b41597cb97e6e5e9d9b17478389994b99babd7d0a32868137601f1",
+  "feature_eligible": false
+}

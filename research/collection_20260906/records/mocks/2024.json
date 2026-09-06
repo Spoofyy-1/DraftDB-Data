@@ -1,0 +1,497 @@
+{
+  "collected_at": "2026-09-06T09:45:49.866695+00:00",
+  "lane": "mocks",
+  "status": "ok",
+  "draft_year": 2024,
+  "cutoff": "20240625",
+  "snapshots": [
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20231105201352",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "XTZP35SXGBINNXFK25JL3XTGXSUNEQCS",
+      "length": "21660"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20231113162404",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "TGZEKJ5DLF34B7MMGIABHZUEOIKJ25WV",
+      "length": "21762"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20231201071941",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "BAPGZDD2YPPRYZH7ASLHD7YR7UZUSCRG",
+      "length": "21769"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20231224200600",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QTIEMTTMKP6YLHXEGXIPPI7YZ436CWSS",
+      "length": "21620"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240106044030",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "Y2AWGHF4CPURHTKZ4GKSDAE5QBZWDZNK",
+      "length": "21540"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240119231202",
+      "original": "https://www.nbadraft.net/nba-mock-drafts",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "YBYIH6GQR4CHSBSX4QJXKBY2A7MHKSVU",
+      "length": "16317"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240121224402",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "L4OXDLZPJASOTFQ5NG7LG5FPRDABXFD5",
+      "length": "21741"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240228171502",
+      "original": "https://www.nbadraft.net/nba-mock-drafts",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "4CBNXZH4XQTZLSHFMYSETB4QBFBNXLPL",
+      "length": "21494"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240402225010",
+      "original": "https://www.nbadraft.net/nba-mock-drafts",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "D3LHKUD4VBUJ4GMW6JTEYQTDXJXK3YYZ",
+      "length": "21717"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240404220631",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WOQIKSG7FEYAWZG63FGW5QAAAV3BFTNN",
+      "length": "21476"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240410223807",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "K2FS7ZETFEBPA4SFHBGRMJP2QVC6ZQJG",
+      "length": "21566"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240413172242",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "FC2COFB6ESW3TRZBPOBGVXAGVSDMFZV2",
+      "length": "21407"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240416144953",
+      "original": "https://www.nbadraft.net/nba-mock-drafts",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "MRF53LU5TFLPED5OWOKX7RQV6OFI2DOZ",
+      "length": "21751"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240418011937",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "RHGRAZX7RY6TCHKMNYCNBKUJU5MUIDAW",
+      "length": "22066"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240423183951",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QV4LELN3UNODUEHSIB4B5Z7P7KL3BKWB",
+      "length": "21414"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240510144503",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3ZOYH4KD3G6CWDS4USUECQWNUD6OTY7L",
+      "length": "21354"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240513143710",
+      "original": "https://www.nbadraft.net/nba-mock-drafts",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "WXNOZJ2G3YEDKRXEFPS3UJEH33RF3WIG",
+      "length": "21625"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240514163324",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "C7VSO5G7E2AJEZVR5PUL42C6WT7R326Y",
+      "length": "21994"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240517011822",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "YQ6VZSSNCU3USS3HETUTMKT222IJW5XN",
+      "length": "21381"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240524024236",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "UQWAEVI2N6LB7TPUGAPJQ6TUL7RVLYE5",
+      "length": "21394"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240529150842",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "A3V6X3VJRRFJPTREUFYG6GSVDU2MLS4V",
+      "length": "21375"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240529201909",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "NYQ3SJCCY3JY5RCHFN5C6L6COES7AZSI",
+      "length": "21495"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240529202425",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GKDSKBHDNYWW6MPGWH43RJ5B6XWGAIGN",
+      "length": "21467"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240530230205",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2DKJT465CU353AHSCPFIEXVYBPV3IQIU",
+      "length": "21371"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240531034341",
+      "original": "https://www.nbadraft.net/nba-mock-drafts",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "O4AYKBOXL4WGDAJCM7IUYWECCYER7D26",
+      "length": "21644"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240531152448",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "R2AN5O6TXMU37GTM4STMNFNRIGHFOVX6",
+      "length": "21449"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240531200355",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "KZO6IO3IKL3Y4NE5D6YPPAVFH5KDUAWG",
+      "length": "21363"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240531200913",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "B37VKVJCNFCLJEVOAAVEKD7Q3FF6A3LL",
+      "length": "21456"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240601132620",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "53PEXE7JXL5AVRVPVZFTIDO4F7VLPBSC",
+      "length": "21447"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240602095143",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "D6RNW2HDQTILXZ4IBOC36JCNROOHB5AI",
+      "length": "21356"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240603081727",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "3N5GBW2HDWVYKLFASACUEIKJ32RIGBC6",
+      "length": "21351"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240603150641",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "DB3EXKRSTT7YBDZHTRULZG4OTELBH2K4",
+      "length": "21453"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240606195345",
+      "original": "https://www.nbadraft.net/nba-mock-drafts",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "DL7NKAX6SJFMDN4NEGTF2MDJCUPGDSUX",
+      "length": "21545"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240607000652",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "GEEUS5FBC56JYRKQEIIINIPC36EUTDAM",
+      "length": "21332"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240607022721",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "2RFX6RUPHNAJEK2SDW3QVICGX7BNN2FF",
+      "length": "21364"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240607133659",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "TDLD2UXDXW6YCFBJWJW6WMYIRCIZO2W3",
+      "length": "21435"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240609052042",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "U5AU3JH7IX6JO3MBSHLFAGQ3AHWQODRX",
+      "length": "21343"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240610110819",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "4ED5TYNYNDI3LQWNXQ4OCEVFG4SX6W36",
+      "length": "21361"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240610215153",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QMI6SXHC7AKGJQZPKNEDLDVVOEX5YUQU",
+      "length": "21347"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240611223143",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "OX724EVWLTTXLOBFP2G3OXTVWCZNSARC",
+      "length": "21350"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240612160330",
+      "original": "https://www.nbadraft.net/nba-mock-drafts",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "YRSVWI36ZKL5624HJD7B5VXSOSRJ3VCZ",
+      "length": "21574"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240612184847",
+      "original": "https://www.nbadraft.net/nba-mock-drafts",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "TP3ES63C55YDADAH6ZFJWJR5GB3OOXUJ",
+      "length": "21596"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240613070309",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "G2HLX3JO225GKJGQZFFPXPGDBDACQCPB",
+      "length": "21350"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240614002102",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "5RI3NBG55OTCZJHVT3ZCJJZV27PQ6HBK",
+      "length": "21353"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240614123334",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "OYBAIPJIQBPMDJ3DIENGUKODK4FUQPTW",
+      "length": "21371"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240615115137",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ND6MYNOJ5YIXFB44NPKIPFMDPOAHWFLZ",
+      "length": "21354"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240616113905",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "BUYDZZEJT4F7JI64GXIYHK33WJ55IZA6",
+      "length": "21359"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240617092335",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "OGSJGZ76XRPKF2J47H2JAYSXPWTK2E56",
+      "length": "21351"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240618150510",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "QOTLNPAMG4YJ7M3KBFTYGCCM2NL4O5QB",
+      "length": "21346"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240619141752",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "7ICZYHO75LKFWYLYGGH3ZHUS5ZR4DHG2",
+      "length": "21352"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240620142209",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "KCEKML7VZV2X5QPKA5TAR34VA6Y6WAI6",
+      "length": "21346"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240621011725",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "ZZK2YCZ5GDBWCA5T6UFVT3XUPTQG5WEO",
+      "length": "21346"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240621160434",
+      "original": "https://www.nbadraft.net/nba-mock-drafts",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "JGAARF3DUHHBFL3HORDG3U7TQK3357SJ",
+      "length": "21577"
+    },
+    {
+      "urlkey": "net,nbadraft)/nba-mock-drafts",
+      "timestamp": "20240624025349",
+      "original": "https://www.nbadraft.net/nba-mock-drafts/",
+      "mimetype": "text/html",
+      "statuscode": "200",
+      "digest": "BNA5QNCGVFFXWEAXLA4F5JTHHA2QJIRO",
+      "length": "21369"
+    }
+  ],
+  "feature_eligible": false,
+  "eligibility": "archive index only; parse and check captured mock table before use"
+}

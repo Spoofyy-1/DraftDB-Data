@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:43:11.798562+00:00",
+  "lane": "news",
+  "pid": "P27d4bedf9b",
+  "draft_year": 2004,
+  "name": "Tony Bobbitt",
+  "draft_date": "2004-06-24",
+  "status": "ok",
+  "query": "\"Tony Bobbitt\" (draft OR scouting OR prospect OR basketball) after:2003-07-01 before:2004-06-24",
+  "query_url": "https://news.google.com/rss/search?q=%22Tony+Bobbitt%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2003-07-01+before%3A2004-06-24&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "DAVID HAWKINS TO COMPETE IN NABC ALL-STAR GAME - owlsports.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CV3BHZEV0bE9XaXVpMXRJUXJIZ3FuOUFnODU3MnBvWHZ0VHJtSmNPY1ZXWkNGU2hIZDdtMEx6N3FvQ3IzR3BDQS1CZVhFWVMyUjJNc09YZG50YlVYbm9Z?oc=5",
+      "published_date": "2004-03-31",
+      "source": "owlsports.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "UAB's Mo Finley Named Third Team All-C-USA - UAB Athletics",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcS15dEJLX0FJLWhfbm9jSmVLMHZZbWUtemJLeFpuRGVJT20wTWh6WDJfVFdqZlU2MTZNMXlmWm4wXzJONkFuMFRkbEVNOHh6bDZIeGk5UFR4X2UtbFVsbFVqMjE3dUwxU1JkelNqcXN3Z0JObHNucTltVkdTTUJmRTZCY2g?oc=5",
+      "published_date": "2004-03-08",
+      "source": "UAB Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "5e412021ac3156366c49e6d8d275b884c16fa221ba86d7094d7ab7893f1bfac6",
+  "feature_eligible": false
+}

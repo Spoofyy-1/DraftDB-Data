@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:45:50.825434+00:00",
+  "lane": "news",
+  "pid": "Pe6c8b117c8",
+  "draft_year": 2004,
+  "name": "Tony Allen",
+  "draft_date": "2004-06-24",
+  "status": "ok",
+  "query": "\"Tony Allen\" (draft OR scouting OR prospect OR basketball) after:2003-07-01 before:2004-06-24",
+  "query_url": "https://news.google.com/rss/search?q=%22Tony+Allen%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2003-07-01+before%3A2004-06-24&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Tony Allen - Oklahoma State University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jZ1dtLVo5dkx3SUJUTnJjY2U0emVzYV9DdnUtTzhZcUl3SFpVTUFBRE5EZXI1VzRLSTA0eXdVajJQT0p6Ty1iRDY3S1B0R0pVVDBvYV8zRldDUQ?oc=5",
+      "published_date": "2003-10-27",
+      "source": "Oklahoma State University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Tony Allen Leads Team With Toughness - Oklahoma State University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE04UW9YamFjSDNjX2tyVUM3Um1lNm1lTURBUFBIVDVGTXZIejdvTVhOWjZITU1sM2dkWl8xU0xJT3pBQVpGRTVKaE4zTFFZeXNFY3hETUNPdVI3N2RaLW52V1RaRmhsRnd5ekhBenZVUThPcVRYTWxqbm9OVQ?oc=5",
+      "published_date": "2004-03-26",
+      "source": "Oklahoma State University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jackets Headed To Final Four With 79-71 OT Win Over Kansas - Georgia Tech Yellow Jackets",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYlNRYnBVT1ZtVlFoOGIxNnJvR091STBIOUw3UzJMdGRTSmdtaW9hcXhVU1d6UUp5WHlmaE9nSzFiVC02c2c5bkN2RWI1TGV1V0VWRlBNS21XRWNHYUlZVTVfWWVSU0dXejRSRGZDQ0pzV1VoRF9qT2w5TjB6aEpSTDk3NE1mR0JsaTVOLTc2N01RWnZMdlJ4LXFjTnBSVWJS?oc=5",
+      "published_date": "2004-03-28",
+      "source": "Georgia Tech Yellow Jackets",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "78f7d609eceebbf3794322909f6f362e3ece2313c2f0cb0849318ad0636a657f",
+  "feature_eligible": false
+}

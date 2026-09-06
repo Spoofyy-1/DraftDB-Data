@@ -1,0 +1,7 @@
+{
+  "collected_at": "2026-09-06T09:45:53.908475+00:00",
+  "lane": "mocks",
+  "status": "error",
+  "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /cdx/search/cdx?url=nbadraft.net%2Fnba-mock-drafts%2F&matchType=exact&output=json&filter=statuscode%3A200&collapse=digest&from=20241001&to=20250624&limit=100 (Cause",
+  "feature_eligible": false
+}

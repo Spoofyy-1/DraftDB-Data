@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:43:38.096656+00:00",
+  "lane": "news",
+  "pid": "P46af6c0052",
+  "draft_year": 2004,
+  "name": "Bernard Robinson",
+  "draft_date": "2004-06-24",
+  "status": "ok",
+  "query": "\"Bernard Robinson\" (draft OR scouting OR prospect OR basketball) after:2003-07-01 before:2004-06-24",
+  "query_url": "https://news.google.com/rss/search?q=%22Bernard+Robinson%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2003-07-01+before%3A2004-06-24&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Michigan tops Rutgers, 62-55, for NIT championship - Lawrence Journal-World",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WWXpKTzM5d3Q0aVI3elloTk1yRHM1eHVwc3d4cXkzSk8zRUh6WE41aG1TMkhSODBaNENqVkU2bHZzT1BacFV6OXUtbXdabWdlYWtsTFd0NUh1cVBydEVoR1hqNnhpOG1Wb3I0TjVaV2tqUQ?oc=5",
+      "published_date": "2004-04-02",
+      "source": "Lawrence Journal-World",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "The Family Guy - The Michigan Daily",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yc1htWFdubmE5SGJ6LXNwM0w2aEp3anNWNGc4VU9qOXEtN0IxTk9ZS0V4c0F1dEpwMncwdGthTnZ1WmFGdTQ4MlVBcXlDUHRYRDNWME1oOTJSRHU2WWxjMXB2NGxvZw?oc=5",
+      "published_date": "2004-03-10",
+      "source": "The Michigan Daily",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "070307d9934c8e17cc11bd15cd4ce7d6aa40be499484460cf8a54bbd020a8b8a",
+  "feature_eligible": false
+}

@@ -13,9 +13,10 @@ def save(path,obj):
     tmp=path.with_suffix('.tmp');tmp.write_text(json.dumps(obj,indent=2,allow_nan=False));tmp.replace(path)
 def get(url):
     r=requests.get(url,headers=UA,timeout=(10,35));r.raise_for_status();return r
-def news(p):
+def news(p,report_only=False):
     start=f"{p['draft_year']-1}-07-01";end=p['draft_date']
     query=f'"{p["name"]}" (draft OR scouting OR prospect OR basketball) after:{start} before:{end}'
+    if report_only:query=f'"{p["name"]}" ("scouting report" OR "draft profile" OR "mock draft") after:{start} before:{end}'
     url='https://news.google.com/rss/search?'+urllib.parse.urlencode(dict(q=query,hl='en-US',gl='US',ceid='US:en'))
     r=get(url);root=ET.fromstring(r.content);items=[];excluded=0
     for it in root.findall('.//item'):
@@ -26,6 +27,8 @@ def news(p):
         category='mock' if 'mock' in low else 'scouting' if any(w in low for w in ['scouting','strengths','weaknesses','draft profile']) else 'news'
         items.append(dict(title=title,url=it.findtext('link'),published_date=date,source=it.findtext('source'),kind=category,eligibility='quarantine: publication and identity need source verification'))
     return dict(status='ok' if items else 'empty',query=query,query_url=url,items=items,rejected_dates=excluded,response_sha256=hashlib.sha256(r.content).hexdigest(),feature_eligible=False)
+
+def reports(p):return news(p,report_only=True)
 
 def scouting(p):
     slug=re.sub(r'[^a-z0-9]+','-',p['name'].lower()).strip('-')
@@ -77,8 +80,8 @@ def mocks(year,players):
     return dict(status='ok' if out else 'empty',draft_year=year,cutoff=end,snapshots=out,feature_eligible=False,eligibility='archive index only; parse and check captured mock table before use')
 
 def main():
-    a=argparse.ArgumentParser();a.add_argument('lane',choices=['news','scouting','trends','mocks']);a.add_argument('--hours',type=float,default=8);a.add_argument('--limit',type=int,default=0);args=a.parse_args()
-    players=json.loads((ROOT/'players.json').read_text());out=ROOT/'records'/args.lane;out.mkdir(parents=True,exist_ok=True)
+    a=argparse.ArgumentParser();a.add_argument('lane',choices=['news','scouting','trends','mocks','reports']);a.add_argument('--hours',type=float,default=8);a.add_argument('--limit',type=int,default=0);args=a.parse_args()
+    players=json.loads((ROOT/'players.json').read_text());players.sort(key=lambda p:(p['draft_year'] not in [2012,2013,2014],p['draft_year']>=2019,p['draft_year'],p['pid']));out=ROOT/'records'/args.lane;out.mkdir(parents=True,exist_ok=True)
     jobs=sorted(set(p['draft_year'] for p in players)) if args.lane=='mocks' else players
     if args.limit:jobs=jobs[:args.limit]
     start=time.time();counts={};attempts=0;consecutive_errors=0

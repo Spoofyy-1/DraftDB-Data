@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:39:22.550607+00:00",
+  "lane": "news",
+  "pid": "P39c1b5b439",
+  "draft_year": 2003,
+  "name": "Dwyane Wade",
+  "draft_date": "2003-06-26",
+  "status": "ok",
+  "query": "\"Dwyane Wade\" (draft OR scouting OR prospect OR basketball) after:2002-07-01 before:2003-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Dwyane+Wade%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2002-07-01+before%3A2003-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Wade Marquette\u2019s big daddy - KU Sports",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zLUF1U1JLdEh1Z3JlWlBuaUtnaWI1UmN5YV9DRUp1cjE3a3BtTUx2XzlZRExLZVM2YlpMaGVKc3NDSFdXOWE0SnFWcUk1ZGlFWFFJa0Y5V05lRXZCMGdZbjhRRHB2elUtMmRNT0U3N1E?oc=5",
+      "published_date": "2003-04-04",
+      "source": "KU Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Massie Named All-Conference USA First Team - University of Memphis Athletics - University of Memphis Athletics",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOanRDLTk1UEd1Zm5takFndWNIbTU2NURnZmVCTDUtanBGOVZBVXBSNXQyTG5rYnNIWEZkQkgwbkVPWVJ3TElXNDk5Um14bXNxODlESUwzSWxtc1hBZTF2aWYtbE8zUkpUZXNDS3ktVWtCdllLOFN3YlR2MW5GbW9ZMHptT2IyNE0?oc=5",
+      "published_date": "2003-03-10",
+      "source": "University of Memphis Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "84436e4bfd2f7964a71a1ea11a009b256694248c7c69633d7ad60df31c76159d",
+  "feature_eligible": false
+}

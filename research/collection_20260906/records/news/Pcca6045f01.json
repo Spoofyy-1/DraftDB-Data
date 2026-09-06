@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:45:21.315018+00:00",
+  "lane": "news",
+  "pid": "Pcca6045f01",
+  "draft_year": 2004,
+  "name": "Kris Humphries",
+  "draft_date": "2004-06-24",
+  "status": "ok",
+  "query": "\"Kris Humphries\" (draft OR scouting OR prospect OR basketball) after:2003-07-01 before:2004-06-24",
+  "query_url": "https://news.google.com/rss/search?q=%22Kris+Humphries%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2003-07-01+before%3A2004-06-24&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Humphries leaves U of M to turn pro - MPR News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY1J1dzNTWmJheFl5NjYzRUFoVm91bWhVeW81QVFXeXFiY0pSYWw4TGpGamp3MkVhbFN4YXVNRnpaOHJRTUtxWk95Z255eVdjeEZQbWR6RWI1RU8tT2RuUE8zUUZTSjBLWWVjZXpxTndxb3RIRG9LTmplTWVYZWU1aUN6ZnQ?oc=5",
+      "published_date": "2004-04-08",
+      "source": "MPR News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Banks Named To Basketball Times National All-Freshman Team - University of Memphis Athletics - University of Memphis Athletics",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcV9UMWdCa1YzT2swaG5jOUhJdDJFcWRibGhCUjhzT0hFSHU2ejRNQmhVUUp2UDdOeW5tR21SZjNDT3NXZGdGSVBVTWRJaHMzekktelRYYVVYdWdCc21ZWGFocXlWYmliZ2lhV1Z6RWxDY0g2clZKazVrYTJxZE9HbkFBX1p2b1piQU51V1did0U5YkNYMWQ5U0hDT2Q?oc=5",
+      "published_date": "2004-03-25",
+      "source": "University of Memphis Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Pauls' sibling rivalry grows into respect - GoUpstate",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSGFVdTItdERFZnJhVXNRSS1BYWJDbzYyaHJCSzZPemNJVUREOTJtTzR5QjlsY2RGVHoyVGtoUHp3b2tuQ2s3VFJoajFBbWRUbnlYZ1ZYTWp6bjYxczdqSS1Ga1FtUDhNcDhDMGVuaEVGZEJtZVMxOHN5TlB1aEMyNjN6b0Q1UWZXU0VzZGtqV0tDNW14MllmSlQwQTl0cGpMczVN?oc=5",
+      "published_date": "2004-03-01",
+      "source": "GoUpstate",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "80d538bc43bdacc5fc522f800b01505fd03e10eeebf257db10dd9804d96ad39f",
+  "feature_eligible": false
+}

@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:46:53.348119+00:00",
+  "lane": "news",
+  "pid": "P17786d3599",
+  "draft_year": 2005,
+  "name": "Jason Maxiell",
+  "draft_date": "2005-06-28",
+  "status": "ok",
+  "query": "\"Jason Maxiell\" (draft OR scouting OR prospect OR basketball) after:2004-07-01 before:2005-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Jason+Maxiell%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2004-07-01+before%3A2005-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "\"Jason Maxiell: \"\"The Quiet Monster\"\"\" - The News Record",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZGNJaEE2ODVtN3F2Ymt2bGJSVUpEV2hVR3A0bHlwczZqUGNIcGZWc1gtRURCYnJSNU5zMmItRVV5V3NtTlJqODFEVGl5X2pZTmZyWU5QUnNkSDhwOG1oZXlJVUwtaks1emV0MExGYVM1VzNXcnJEQWhnRzFISTN0MkxYY0d0U0s3VzRpOUpqakFFNEdJMlpzRXRpdDNZQXkxNTF2VUotT0NwVnpX?oc=5",
+      "published_date": "2005-03-14",
+      "source": "The News Record",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Tigers Picked To Finish Second In Preseason Conference USA Basketball Poll - University of Memphis Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbnBmSC1KcTBtVFpXTWhIUkhuN04tRDNEbTNmeW1lSEI1c1lCWnkwZ0Jtcl9hbkJSdExyc3R1WUFUejAwVEdqUzJJR2RjYWFMOTlJZzZpeEZqYlIzckEzWncweHRrbWlkZHZRRmVZbWhOVFlKM0czVENDOWJKN2JzdkNrT2d5aGcwVjBUU19kRXpMVFNmQXZXRldEUzRnRHpfQVNBZGtGdE1aWGRQNEdIcWJpTQ?oc=5",
+      "published_date": "2004-10-26",
+      "source": "University of Memphis Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "c1ed46459207b1f052305ddb8c5f49ba65d598186e767c4c169f6902038902c9",
+  "feature_eligible": false
+}

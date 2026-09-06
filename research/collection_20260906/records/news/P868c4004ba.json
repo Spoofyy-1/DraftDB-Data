@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:44:31.628110+00:00",
+  "lane": "news",
+  "pid": "P868c4004ba",
+  "draft_year": 2004,
+  "name": "Damien Wilkins",
+  "draft_date": "2004-06-24",
+  "status": "ok",
+  "query": "\"Damien Wilkins\" (draft OR scouting OR prospect OR basketball) after:2003-07-01 before:2004-06-24",
+  "query_url": "https://news.google.com/rss/search?q=%22Damien+Wilkins%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2003-07-01+before%3A2004-06-24&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Gators bite back - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT2dHSV85R1o4cDdnQ1FSdzIzNzFQTlBEeTlLOXJvZlZfMm5KazVwMkZicUF1TTMtX1NYMVdqYUhKVmhNd3JGTXVoM3V5V2xGMmZ2cndSQU1Ta1NQWWQzc2pSRGo1U2N5R3FuLWFHTTZJYzFVNlNJdlhHdERMTHA0MWZPT0ZzUQ?oc=5",
+      "published_date": "2004-03-04",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "f5fce21889a9bd6134fe3a07fda8146e68a6eb94dd4341da4da0453f0b697fcc",
+  "feature_eligible": false
+}

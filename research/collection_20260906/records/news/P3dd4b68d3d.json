@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:43:31.542415+00:00",
+  "lane": "news",
+  "pid": "P3dd4b68d3d",
+  "draft_year": 2004,
+  "name": "David Harrison",
+  "draft_date": "2004-06-24",
+  "status": "ok",
+  "query": "\"David Harrison\" (draft OR scouting OR prospect OR basketball) after:2003-07-01 before:2004-06-24",
+  "query_url": "https://news.google.com/rss/search?q=%22David+Harrison%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2003-07-01+before%3A2004-06-24&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Araujo to show his stuff - Deseret News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PMlJNRVBxQnJjNHFXNWNiY1lQM01HaE8zWWU4dnVOeDAtYTc2VnV2Y2lfT3ctN2J1Z0ZnS09vazNrQnZJTEc3S3pZTzc0RTFFdkNIM2lkak1majRSeWJibVR1WHBsS2VZZjRPcXRsWW1sY1NYQlNv?oc=5",
+      "published_date": "2004-05-28",
+      "source": "Deseret News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "81faa26149cf3428f5cecacbaca7dce2eaed1594bfb76991cfba954409bee9a8",
+  "feature_eligible": false
+}

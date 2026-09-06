@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:44:51.725713+00:00",
+  "lane": "news",
+  "pid": "P984d62c606",
+  "draft_year": 2004,
+  "name": "Lionel Chalmers",
+  "draft_date": "2004-06-24",
+  "status": "ok",
+  "query": "\"Lionel Chalmers\" (draft OR scouting OR prospect OR basketball) after:2003-07-01 before:2004-06-24",
+  "query_url": "https://news.google.com/rss/search?q=%22Lionel+Chalmers%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2003-07-01+before%3A2004-06-24&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Cardinals Floored By Xavier In NCAA's - gocards.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9obTh0QnBJaUFFNTFtcFU5NWw4b05HYktCNktPaEFhMEcxUnYwMEdWM0NJN2Q2TWFGTHRWckQ0THRfNFdMZFhrQ1kyQ1U1VFNMZE5hMFhKbWpNd0pBQWFYZXdhRnhTVVNQSzBHcGFCaC15OXlvQlFEVE40RXg?oc=5",
+      "published_date": "2004-03-19",
+      "source": "gocards.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "MEN'S BASKETBALL HOPES TO MAKE HAWKINS' SENIOR DAY A SPECIAL ONE WITH WIN OVER XAVIER - owlsports.com",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oUWc5NlNpd3FralpiTnBpbnRhbHM5dkRIZkxxaTRWWG4yU3hPMm93QlpGZWxNT0NLVVZsYXBjbFJURU9hR2pjalUyaUVSa2N5QTZIX0pYdUhlR3JyLUE?oc=5",
+      "published_date": "2004-03-05",
+      "source": "owlsports.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Duke Ends Xavier's NCAA Run - Xavier University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14Y3RDbzBUcS14NUREVVJWdmR2amRmVklBV0E3aEtjNEpWX3NOQkN0UlE4aloyc1UzV29nSmRncHVmNXROM0l2YzFsUDZ1eEp6TzB0dlVEUkNBd3VudElBdkYxdXU3ZUxhS2RlR3JFdlE?oc=5",
+      "published_date": "2004-03-28",
+      "source": "Xavier University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "366c78a726c59dade278ba1fceb6d2ea86d5187643b151a719e53a0d4c5e5fb8",
+  "feature_eligible": false
+}

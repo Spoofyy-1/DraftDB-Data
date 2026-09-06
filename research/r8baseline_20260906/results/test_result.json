@@ -1,0 +1,72 @@
+{
+  "protocol": "strict_2018_calendar_baseline",
+  "score": 0.4253581352379928,
+  "rows": [
+    {
+      "season": 2019,
+      "k": 5,
+      "n": 58,
+      "stack": 0.3779743140223243,
+      "draft": 0.40213479344181613,
+      "cutoff": 2018
+    },
+    {
+      "season": 2020,
+      "k": 5,
+      "n": 58,
+      "stack": 0.34602842699510195,
+      "draft": 0.35021071088006406,
+      "cutoff": 2018
+    },
+    {
+      "season": 2021,
+      "k": 5,
+      "n": 56,
+      "stack": 0.6242031729933577,
+      "draft": 0.4084073820915926,
+      "cutoff": 2018
+    },
+    {
+      "season": 2022,
+      "k": 4,
+      "n": 52,
+      "stack": 0.4496819196447342,
+      "draft": 0.2623580636899172,
+      "cutoff": 2018
+    },
+    {
+      "season": 2023,
+      "k": 3,
+      "n": 56,
+      "stack": 0.5581379455033909,
+      "draft": 0.1106307353328877,
+      "cutoff": 2018
+    },
+    {
+      "season": 2024,
+      "k": 2,
+      "n": 55,
+      "stack": 0.31918309915169324,
+      "draft": 0.13403326556845988,
+      "cutoff": 2018
+    },
+    {
+      "season": 2025,
+      "k": 1,
+      "n": 57,
+      "stack": 0.30229806835534695,
+      "draft": 0.17640862779925506,
+      "cutoff": 2018
+    }
+  ],
+  "scored_at": 1788687444.0166516,
+  "freeze": {
+    "created": 1788687407.8030794,
+    "prediction_sha256": "e950c315bded7f3531d11a9e1e381d4024f821828e624b5d7b762393364297c2",
+    "protocol_sha256": "7f801b81dc29bc67fb464901d5e0d47aea7e019e55430d076124e3cd68e302ab",
+    "rows": 452
+  },
+  "provenance": "Inherited features remain uncertified; test benchmark previously reused",
+  "selection": "Never use this result to select the next development experiment",
+  "class2026": "prediction board only; no NBA outcomes"
+}

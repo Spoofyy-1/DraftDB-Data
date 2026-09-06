@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:37:30.306494+00:00",
+  "lane": "news",
+  "pid": "Pb7f87f6748",
+  "draft_year": 2002,
+  "name": "Marcus Haislip",
+  "draft_date": "2002-06-26",
+  "status": "ok",
+  "query": "\"Marcus Haislip\" (draft OR scouting OR prospect OR basketball) after:2001-07-01 before:2002-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Marcus+Haislip%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2001-07-01+before%3A2002-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Gaines' Three-Pointer Lifts Louisville Past Tennessee, 73-72 - gocards.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSzVlWEJ5a1E4cnBpLWFLSGlOS3VaVjctdFN1ZGhHVTU0RjliUUlZTl9qa2ZkRkQ3SWlFeER3SXN0ZGQxN3hHejFPU3NhSWQ5QjRvTzU3RWNIQnVCaEdEbFBVMW5HV21QbDV6S0lnMWF3bTN0cHQ3MzQ1THg2NG1PSTduS2RMcm94US1xdndLTWp1RUhHT2l2VUhn?oc=5",
+      "published_date": "2001-12-20",
+      "source": "gocards.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2001-02 Tennessee Basketball Outlook - utsports.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIb3RwaWJlMmlVbE5xcUd2REhoV3FaWE1ZZVRQWE4yd1JoR1VhTkxjTlh1WHZkZ0JkcVUxV0hZSC1CQVowS1R3a2tpemt4VEhlQ3F6cUh5S2gxSldyeHNGVGR4d1dYbTVzRl8w?oc=5",
+      "published_date": "2001-07-31",
+      "source": "utsports.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "bf89e567c05c6688ed91c0c4203b263e73e4d8e3721a1043bfd073c085c600b0",
+  "feature_eligible": false
+}

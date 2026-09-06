@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:45:47.542903+00:00",
+  "lane": "news",
+  "pid": "Pe4ea2d8948",
+  "draft_year": 2004,
+  "name": "Matt Freije",
+  "draft_date": "2004-06-24",
+  "status": "ok",
+  "query": "\"Matt Freije\" (draft OR scouting OR prospect OR basketball) after:2003-07-01 before:2004-06-24",
+  "query_url": "https://news.google.com/rss/search?q=%22Matt+Freije%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2003-07-01+before%3A2004-06-24&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "SEC Men's Basketball Tournament - The Tuscaloosa News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVnpfTjI4Q3Fzamg1UEJGLWlGb1RyQ05keDZPV1lXRmF6a3JlLXJpdVY0bmJXN3RWTVE3c29IR0cyd2sySngycHVpN1NIQkp4UGdhVGMwU0VUTWxSdjg3bmdDUkVoRFEzTmFFbVdPS2kyblRjbkc3QjNEUlFqSUlZZWY5WDRMUXd2VU1idi02ZC1XVjloRVNTYTA4eFgyMElveURqTElPZTNkdkNVZ0FNbg?oc=5",
+      "published_date": "2004-03-11",
+      "source": "The Tuscaloosa News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "DAVID HAWKINS TO COMPETE IN NABC ALL-STAR GAME - owlsports.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CV3BHZEV0bE9XaXVpMXRJUXJIZ3FuOUFnODU3MnBvWHZ0VHJtSmNPY1ZXWkNGU2hIZDdtMEx6N3FvQ3IzR3BDQS1CZVhFWVMyUjJNc09YZG50YlVYbm9Z?oc=5",
+      "published_date": "2004-03-31",
+      "source": "owlsports.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Luke Jackson Nominated As One Of The 10 Finalists For 2004 Bayer Advantage Senior CLASS Award - University of Oregon Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44WEVMN3N5VjJRVGhfa0tPTUpxeHpNUVl2UWV6M3ZUT1dUUVNJMzJWNTE5US1BWFJqRDR6TVNlY0pVcURram1hVkVrclRjeVFHWENVcA?oc=5",
+      "published_date": "2004-02-27",
+      "source": "University of Oregon Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "d4ac38b0e17a7f551138f92d2a9aa9769403fe7d4475e9b6a292450cc1a8639a",
+  "feature_eligible": false
+}

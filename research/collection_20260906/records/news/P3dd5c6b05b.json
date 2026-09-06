@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:39:38.880969+00:00",
+  "lane": "news",
+  "pid": "P3dd5c6b05b",
+  "draft_year": 2003,
+  "name": "Ndudi Ebi",
+  "draft_date": "2003-06-26",
+  "status": "ok",
+  "query": "\"Ndudi Ebi\" (draft OR scouting OR prospect OR basketball) after:2002-07-01 before:2003-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Ndudi+Ebi%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2002-07-01+before%3A2003-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "James Is on Course For the Capital Classic - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYXFSSTIxOGlZS3B0UzRoMVYtVHhWbHgycGNFdFhQTEVSa2l3N0E3U0lCQURHUXotVE5Dd2MtU1RXa2VDZkxyVk1vQlBwUy1UTHBOSFpUdUlvSHdvbzVoNDVIb3laMWlCUXR2UVNmdG9yektIRnNwdDUyekRJdkRneS1HcXZmQW5rZVlDQU1nem13NDA4X3V0N3Zfb2pxeXZzRE5wdkotVGp4QTBpR1o2aDNXZ29LUjlNeWxYcnJpclM1S1hONWtucVJoUk12LVNnZWdN?oc=5",
+      "published_date": "2003-03-04",
+      "source": "The Washington Post",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "d5c032af4c0467b57d19075fa19bb9eb0a43484c356cb59ca7a67b7dcf945c84",
+  "feature_eligible": false
+}

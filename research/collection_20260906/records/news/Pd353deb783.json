@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:45:31.212061+00:00",
+  "lane": "news",
+  "pid": "Pd353deb783",
+  "draft_year": 2004,
+  "name": "Shaun Livingston",
+  "draft_date": "2004-06-24",
+  "status": "ok",
+  "query": "\"Shaun Livingston\" (draft OR scouting OR prospect OR basketball) after:2003-07-01 before:2004-06-24",
+  "query_url": "https://news.google.com/rss/search?q=%22Shaun+Livingston%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2003-07-01+before%3A2004-06-24&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Which one to pick? - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMFY0dWEzcXlfWGhJZXhpMTRfbDJuTHFWbURnN0RtWFpQcGFVZERQVktsMzBkRlhRSVhyNVFoYmhmQkI0YzBPRXpaM0dlWFlvNWc1d19QR0ZISnlzMFdPUzk0Y01jM3Qzb1JJRjNta3hoMlozLVJTbHpvYTc0SjRLVktFbVhDX2s?oc=5",
+      "published_date": "2004-06-23",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "879949a01737e5be1ac85e4249a845be27ecab3931f4d5976de904233bcf0eac",
+  "feature_eligible": false
+}

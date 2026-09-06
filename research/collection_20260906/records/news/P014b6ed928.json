@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:38:36.716797+00:00",
+  "lane": "news",
+  "pid": "P014b6ed928",
+  "draft_year": 2003,
+  "name": "Darko Milicic",
+  "draft_date": "2003-06-26",
+  "status": "ok",
+  "query": "\"Darko Milicic\" (draft OR scouting OR prospect OR basketball) after:2002-07-01 before:2003-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Darko+Milicic%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2002-07-01+before%3A2003-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Milicic top power forward - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLTB5WU9pZUFDVVlKc2tocFRYeDNfS0xfWjA4QS1hYXJrcFd2Q3JIQ2NOUG5ManBkemZBcWt3WFkwLVltVVdpTUdzUm0xV0NCTEZPejhKQnBIZXlGYjNvOWg1amJiNV9tTllydDduUS1hdFBkdVltc29INFdhd0h3cENKR3RnaXNoWEhaU1dpOXRHdw?oc=5",
+      "published_date": "2003-06-25",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "b662f0fbfd50db591f5d4d37e1dd96b0f8a25638595af5fda0585ec79bd8189b",
+  "feature_eligible": false
+}

@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:44:54.978878+00:00",
+  "lane": "news",
+  "pid": "Paf7b3d5c90",
+  "draft_year": 2004,
+  "name": "Royal Ivey",
+  "draft_date": "2004-06-24",
+  "status": "ok",
+  "query": "\"Royal Ivey\" (draft OR scouting OR prospect OR basketball) after:2003-07-01 before:2004-06-24",
+  "query_url": "https://news.google.com/rss/search?q=%22Royal+Ivey%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2003-07-01+before%3A2004-06-24&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "UNC survives Air Force - Lawrence Journal-World",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NYXhRRkl2dko5TktiSk1scjBvMk9sUGRaWWdiZEw5a0FOWDFIQjN3TE5mZDMyaGZlWVp4TXA5dktybnNfU1Jsa1V6TzRUb0J3SWlXNGlUeUd1aHZZX3RfdG0wMElXWDdRdVdZ?oc=5",
+      "published_date": "2004-03-19",
+      "source": "Lawrence Journal-World",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "fcccf6263a042c1b272356741944a0b07f3283dadc215b6523fc41a7939f9a13",
+  "feature_eligible": false
+}

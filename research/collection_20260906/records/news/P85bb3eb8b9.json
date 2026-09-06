@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:40:50.722743+00:00",
+  "lane": "news",
+  "pid": "P85bb3eb8b9",
+  "draft_year": 2003,
+  "name": "Marquis Daniels",
+  "draft_date": "2003-06-26",
+  "status": "ok",
+  "query": "\"Marquis Daniels\" (draft OR scouting OR prospect OR basketball) after:2002-07-01 before:2003-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Marquis+Daniels%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2002-07-01+before%3A2003-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Daniels' play huge for Tigers - Gadsden Times",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbmFVZWFnd2RnTk5HeWExLTYtTFBDa1gwREMyaUNOTnJmNmozRlRfX1NVYnFSUXNmVWM1aHdnRERfbTZyWVA2a3htS2hfX0pjSTBickhnODlvOXdDcmVVMFdoczlhLUZEWmdUTWgzbGVSMUtzTXFkYml0RXE1Rjc1eWNqTHRfbmhsMlRwblExektjX0V2amYw?oc=5",
+      "published_date": "2003-01-29",
+      "source": "Gadsden Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Daniels burns USC - GoUpstate",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeXpJTnBfRjhtMXVKZmZJS0VvMkVjMi1kaHFHYmZoSmpkQTFCQ2VkeHhuaWhzazB2S1VaMnZROHdmb01ubWtrTkhkZkRRa1hlVDhGcUlPZ0d1RkVjUmI2VHcxUFpvdjlqQjdIT2laUHRtYldsb0FqNGZLZjBHQ1R0NTBfTm0?oc=5",
+      "published_date": "2003-01-15",
+      "source": "GoUpstate",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "f2c7dd2309a9a90535c8d39011ef8bd427449667da029d5dc0c27e6b0e8e664e",
+  "feature_eligible": false
+}

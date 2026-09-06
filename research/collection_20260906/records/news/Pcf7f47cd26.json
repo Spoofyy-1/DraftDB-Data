@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:37:43.835621+00:00",
+  "lane": "news",
+  "pid": "Pcf7f47cd26",
+  "draft_year": 2002,
+  "name": "Smush Parker",
+  "draft_date": "2002-06-26",
+  "status": "ok",
+  "query": "\"Smush Parker\" (draft OR scouting OR prospect OR basketball) after:2001-07-01 before:2002-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Smush+Parker%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2001-07-01+before%3A2002-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Clash Of The Rams Proves Fatal For Fordham - gorhody.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GVHE3SHI3RXhzb3hIQnd1enMyZDUxdUMwTUlkYkNZeHFOcmtocWdPcFBMM184aXJtelJSblB3SHhlLVpaNElUWm5fWDVHRXpRdXNOZTZLX1pKcmV2NGtuWUQybDA?oc=5",
+      "published_date": "2002-02-13",
+      "source": "gorhody.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "6f9105906468bad1f14dff1badd34b7d737d3cc2ea56b61bc7ff46aadb2f70d5",
+  "feature_eligible": false
+}

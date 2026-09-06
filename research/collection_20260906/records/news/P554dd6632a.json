@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:40:05.010535+00:00",
+  "lane": "news",
+  "pid": "P554dd6632a",
+  "draft_year": 2003,
+  "name": "Mo Williams",
+  "draft_date": "2003-06-26",
+  "status": "ok",
+  "query": "\"Mo Williams\" (draft OR scouting OR prospect OR basketball) after:2002-07-01 before:2003-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Mo+Williams%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2002-07-01+before%3A2003-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Williams' departure leaves hole to fill - Gadsden Times",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcnlUQ193M3RFLWE2NllXWEtaeDA3cEhjdUJKaEhVNjJzX3BveXcyQUpiWmFiWFprNUVpR2F2bEg5QXFuUVNkT052dS1Fcy14dmMzWlZUM0E2M0U5YVZiejVsNldNZnM4OHhfTVZRZ3d6ZEtuN3pMMGZmM09LVEhLU0xFRmliZFdubEE0ckg2S2o5aGwzSGFqd1B5am5ZVHJQS2xESQ?oc=5",
+      "published_date": "2003-06-21",
+      "source": "Gadsden Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Alabama preseason basketball - The Tuscaloosa News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT1h3bmVjaGlmX1ZRcDBqYjhMdnNKYXI1MVdPNFNlMEJ6b0V1ejI4eXpQTHpka280WHJmZ05DRGxrMXlQajJ5ZVZRUVUwWDJuRk90RHdnb3FSQ1FDdFI5TGVtTWJFbi1uakV4MVdPX1Zhc3dPM2laMDVzM3F6dkoybGFuQm1fcnFLZW42S0lTS3JrTXlDZW4wRHVWd1kwWkxGX1JfelZ3MzN0S1cz?oc=5",
+      "published_date": "2002-11-02",
+      "source": "The Tuscaloosa News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bama bows out - Gadsden Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeVA1LWRrNEo2OHhQN2gxWUlyYzJtY0s5MWRQRThJLS1VU2J5clRfZ1M0bVZZaWh0Z0k0cVZPNU9mYXVvUGF6T1lWdnNSdjY2ODk4T1lGbUU3X3RZTzBQTGZqbWtOWkMwZ1ZwQ1BmNkJqbzhCOUtScU9xZ1pxaUdvalJmRQ?oc=5",
+      "published_date": "2003-03-13",
+      "source": "Gadsden Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "88aff8735f8eb26af9439c8bbf9dc00b2a6537b5c0a9985b936cb21d9ccd1a3a",
+  "feature_eligible": false
+}

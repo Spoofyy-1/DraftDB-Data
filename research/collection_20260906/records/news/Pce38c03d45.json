@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T09:41:56.295173+00:00",
+  "lane": "news",
+  "pid": "Pce38c03d45",
+  "draft_year": 2003,
+  "name": "James Jones",
+  "draft_date": "2003-06-26",
+  "status": "ok",
+  "query": "\"James Jones\" (draft OR scouting OR prospect OR basketball) after:2002-07-01 before:2003-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22James+Jones%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2002-07-01+before%3A2003-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Men\u2019s Basketball Battles Georgetown Saturday - Miami Hurricanes",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSMlpncEpRUGhyTFdWN01hMEF2WjJfMENZV0JiSl9xRWYwNzh3eVdyUGFVQXBBVjBLZ2JWQmt0eGxBSnBRbHJBQl9vaVBveG8wdFAwWWM4REx4SlAyQVpVd3FlNUllUQ?oc=5",
+      "published_date": "2003-02-20",
+      "source": "Miami Hurricanes",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Men\u2019s Basketball Squares Off With St. John\u2019s Sunday - Miami Hurricanes",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92T28xSTB4MzR6U3NlOHp1eDJDRFA5RG1JTTVQRkFEcTduSUx2cVVMaERwV3BVNVRXZ2ZlVVlpdFF1UTRIdXplLVZ5a3hsUDdveDJOREFsNGVUUGp5TUxNWDBQVVczdw?oc=5",
+      "published_date": "2003-01-31",
+      "source": "Miami Hurricanes",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Florida Gators in the NFL Draft - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcmE3U3AzUlJab3VVWC1FbDBIcHhXMXVPQ3VuQm5fVzBONkQwb2dYWE1VcElVWjczZ1RnVzNlMjl3VzFOc1VQYXVUSVB4ZmdSTUMwNWlBMEVQVjJiN1h1WkZlLU1zZ195LW1taE1wSWRpTTA5TFVFTEg3MG1xWWJTcm1BeFRNcENJdUdkR0hJalFlZTJFRkhnNDFn?oc=5",
+      "published_date": "2003-04-25",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Men\u2019s Hoops Hosts Providence Wednesday - Miami Hurricanes",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fQ0Q4dlNxTDBwSURqSXhEOXg5S2J2M1dCTzRQNGR4Ym4teGRDYXFjVG5YR090VzhhaVY4SVIxU0piWWhkb25CdG9KY1B5aUFXYmpIMUIwcHYydXpQUm1FZjg3TVRhZw?oc=5",
+      "published_date": "2003-01-28",
+      "source": "Miami Hurricanes",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Canes Open Convocation Center With A Bang - Miami Hurricanes",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GYlB1OExXTmZNTlNyZXF5aDd0ZkIzTl9WU0JpM0Y3YkxxaHE5SUJYejE1SW9PN2dFdURJMHViVGllaDI0eGJWM3ljaU9MSFktVXhwRjZXVzVzYWFwNDJtTGRNUDVVUQ?oc=5",
+      "published_date": "2003-01-04",
+      "source": "Miami Hurricanes",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "547c64598f32113af5020bb207d4c1d840c4141fb07b6ec7929bba94774bb052",
+  "feature_eligible": false
+}

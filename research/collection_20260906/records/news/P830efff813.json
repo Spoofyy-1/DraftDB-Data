@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:36:57.176990+00:00",
+  "lane": "news",
+  "pid": "P830efff813",
+  "draft_year": 2002,
+  "name": "Darius Songaila",
+  "draft_date": "2002-06-26",
+  "status": "ok",
+  "query": "\"Darius Songaila\" (draft OR scouting OR prospect OR basketball) after:2001-07-01 before:2002-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Darius+Songaila%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2001-07-01+before%3A2002-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "19th-Ranked Wake Forest Downs Navy, 87-65 - Patriot League",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYWdEaVp2N1ZFWHdfWEU2TUdqUE5qYVZpdWd2T05MN3VhNDZyUDhxV1pIQW1LTTVDMm9KUUszM2ZBMWsyRTN3M2pjM29wNVNEelNzRHI4N2otT1NtM21vejJHQ1p1TUZtOGhPdWRzUzU0QXNIMXBWUGd1VTdyS29NazduMUFEOFVoZGttXzdn?oc=5",
+      "published_date": "2002-01-07",
+      "source": "Patriot League",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "315b4259eec67e4efc67e604d431d8ecf6f947dfe5706b51034fd47d55bb868a",
+  "feature_eligible": false
+}

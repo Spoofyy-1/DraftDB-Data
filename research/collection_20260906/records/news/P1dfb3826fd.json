@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:46:59.932419+00:00",
+  "lane": "news",
+  "pid": "P1dfb3826fd",
+  "draft_year": 2005,
+  "name": "Amir Johnson",
+  "draft_date": "2005-06-28",
+  "status": "ok",
+  "query": "\"Amir Johnson\" (draft OR scouting OR prospect OR basketball) after:2004-07-01 before:2005-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Amir+Johnson%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2004-07-01+before%3A2005-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Pitino remains optimistic about Amir Johnson - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOER0SzFiN0dDblA5bE5FY3FORmxUTmZKSEZ1UFdWVldUVm9rVHhlSVcwc3gxWGVtTmhpeDBrS1R4eTRNR2tRU0ozcGVyZkhNYzhKR2xwN280Q29WYXIteXJZQXR6Yk95dGZJcXY3djc0MmhqelJFZHd0NWpSQjBQTXhaS0NpMVkzX2VBUnJCTy0wZzFQRDZoaWhSMnBPTTBrRm9qM0tObw?oc=5",
+      "published_date": "2005-05-04",
+      "source": "247Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "73105ea9a6202658efe1d751fcaa21fb8304fa09d4dbafd4fa6b22091c286e53",
+  "feature_eligible": false
+}

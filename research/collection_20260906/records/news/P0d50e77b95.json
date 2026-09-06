@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:42:48.864756+00:00",
+  "lane": "news",
+  "pid": "P0d50e77b95",
+  "draft_year": 2004,
+  "name": "JR Smith",
+  "draft_date": "2004-06-24",
+  "status": "ok",
+  "query": "\"JR Smith\" (draft OR scouting OR prospect OR basketball) after:2003-07-01 before:2004-06-24",
+  "query_url": "https://news.google.com/rss/search?q=%22JR+Smith%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2003-07-01+before%3A2004-06-24&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Williams helps raise $36,000 - BlueRidgeNow.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdTVSSHZEMXdnUmlNV3dCd1FFbnRMQVBxVllHRFRWOUM3WFlFeW55Tl9HLTlvaXF4dWE1STQzMTBfTG4zZDBaeHJUY1k4RnJDdFlVUUhURTJmQzBNUlRtLWd6cXRSZHpleVM4S21qRGZzdENNNnVSM1FhcXR3LWowRUxtd1ZnZS0xbnE2bVhNODhxT1Nu?oc=5",
+      "published_date": "2004-06-05",
+      "source": "BlueRidgeNow.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "1a0a6d883ffdac079f18bf99d724c15920381287a32264a8ae952bc5abccce21",
+  "feature_eligible": false
+}

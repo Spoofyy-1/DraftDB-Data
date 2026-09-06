@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:44:08.282122+00:00",
+  "lane": "news",
+  "pid": "P6ce52469e7",
+  "draft_year": 2004,
+  "name": "Brandin Knight",
+  "draft_date": "2004-06-24",
+  "status": "ok",
+  "query": "\"Brandin Knight\" (draft OR scouting OR prospect OR basketball) after:2003-07-01 before:2004-06-24",
+  "query_url": "https://news.google.com/rss/search?q=%22Brandin+Knight%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2003-07-01+before%3A2004-06-24&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "UCONN Leads The Wave\u2019s Big East Preview - rockawave.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrbnBXUEVNMHFVOWFLS3J2YlpKTTVRdXpFWFhCWjFFbElNMVRLdFFFOTZRWUNpazl5WHBoaHNSaXNaYjZENW5OR2pjQW1VbFJUaXZ5OFlfSUNCeHRaWWpaTG9ERlpQVWFYVkduRU0tQ25nbUpyRnpsU1FVcG56MTQ?oc=5",
+      "published_date": "2003-12-05",
+      "source": "rockawave.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "1a641a9ae41fc0f2e1d187323c39eaa973ece4849b681253d54076feeb58933a",
+  "feature_eligible": false
+}

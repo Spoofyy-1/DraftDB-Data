@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T09:47:06.494244+00:00",
+  "lane": "news",
+  "pid": "P26b57d2aae",
+  "draft_year": 2005,
+  "name": "Sarunas Jasikevicius",
+  "draft_date": "2005-06-28",
+  "status": "ok",
+  "query": "\"Sarunas Jasikevicius\" (draft OR scouting OR prospect OR basketball) after:2004-07-01 before:2005-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Sarunas+Jasikevicius%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2004-07-01+before%3A2005-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Jasikevicius Named Player Of The Year In Europe - University of Maryland Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RcER4XzJyamVzVzFFWTZWTm1fdkRlREJzTHhWQ1lfUERUOEwzYlUxVm5vQjlPT1NMRldLRUZ2RXBqUlprekVxM3BLNF91eXE4RURxaE1aQ1A?oc=5",
+      "published_date": "2004-12-30",
+      "source": "University of Maryland Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "U.S. basketball team falls to Argentina - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYkhHSTIxRmNhZEhSZWdmSmprS1dMSTdBUFRaa2FQd3gxcDBkRVpBX1N3NGdmSUFNYnZmRC1IcjRrdmR4Ynl6S092cC1uNlUteUNjem9LYlZpOUlOUkE0aEJPQnlUckN2WVNtcExPTEw0cWIzbUh6clNSUnRLTmQtTUJZMTBMQXZrWTlDMkhuRHFfekRTbUx1ZWdDelZrazlUR2c?oc=5",
+      "published_date": "2004-08-27",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "After debacle, Duncan's done with USA hoops - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhY2ZOblNGMFdKZlhGX25yY3hnYXVZdUFVZTFpMGJ2d1pJNGhfeFpQR0RUQng0dmx5dkV0WXowMDBSZFRwWHBGUWJITHEyRkk?oc=5",
+      "published_date": "2004-08-28",
+      "source": "NBC News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Yao Ming takes anger out on New Zealand - China Daily",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kS2RCMFladUpYazNaQk1KS3Vrb0xYZE1fTnhBVGh6MWpwMVpYZnFVbEVyOWpINldvN1JBLXNOM2k5Tjd4aXI2bDVYR3pBQmIySnFZMnJZTHpQYU1zamFxRVNYUEo1UkNFOFZIRTR6bkR5V3E1cDM4dXdsYw?oc=5",
+      "published_date": "2004-08-18",
+      "source": "China Daily",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Oops, they did it again - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVFYzSkJrMGZpeURzZ0REVmVZMnBLTWF4TXZJQnQ1bFJzLUpZU3ZoYXdlWGMxZ0h3akFtajRtQm5HQnJ1UkYxc2E0MEs2ZGdvVUpkV0RlRTF3M1g1QUI1cnNNemdtS0ZKZHZ5Z1JRQXlVSV9QbkVaLU9FbWxGUVZJb3FJZEx6dnlUcXJyOWxR?oc=5",
+      "published_date": "2004-08-22",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "12fa475b8cda681c05aee63a0005600153a0410072bbcea24021b280298afd5b",
+  "feature_eligible": false
+}

@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:40:24.514233+00:00",
+  "lane": "news",
+  "pid": "P62fd3b7dd9",
+  "draft_year": 2003,
+  "name": "Steve Blake",
+  "draft_date": "2003-06-26",
+  "status": "ok",
+  "query": "\"Steve Blake\" (draft OR scouting OR prospect OR basketball) after:2002-07-01 before:2003-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Steve+Blake%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2002-07-01+before%3A2003-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Eidson, Scott go camping - GoUpstate",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNemhUOVBNZXh6Yl9UZ0Y5RXFMVFl6ZXFjckgtdDZtYnpkR09vdmFXaWRLanpwMFZQNVJlQksxOU5DbjN6MXlFOGoxR3dkbFR1b3NXWXNNR2xxdUwwMXVJbWNHc2RXVmV4V2VvN2g2VGg2QmZraFhqbFBrSjVGT2oySzdEX3lhdldMVDZ5WA?oc=5",
+      "published_date": "2003-04-08",
+      "source": "GoUpstate",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Hamilton draws Hurricanes' best - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMVNTR3NNZzMtOXVqZENwbjRHVm9QZnVndmhTbFY0Qjcxa3BQeXZoLVpuRk80RWN4OFdTNVRxSFF4Z2RQb0NiQ1RIQVRhRDloR0ZRWV9kWTBZRHBkRmdfbFJ2N0xkLVN5Z21aWERxS0JON01mQTF0TFRHYlhkb2E0MUxGcHgwUEtGZkFSLTZzeUZaMVI0WlR4bg?oc=5",
+      "published_date": "2002-12-21",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Today it's SEC's best with Hayes against Hamilton - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHB1V1pOMTU0Qm5rZ294VW9SQ09jRHhrYlJRYUN3bWhBQ1FIV2ZOcms3cTBBaVQtbnpUWU5DeGcxUFd0eEkxakYteWpOT1ZROXBFUkpHTG5DMnNLbmotOHVHRzlIZHo5OGhuQmVDVXVVN3hNTUtLU2VmU1JTZnZ1SXJJbjNNZmJjOER4U2RfQWhRLTVxMUJTaHdYU0tjNzAzd0tWRWhzVURQNTRLcnEw?oc=5",
+      "published_date": "2003-01-10",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 2,
+  "response_sha256": "0988663b682e6e94c552ca2681644870ca020ca84b645b1257f3dee1da4deb1f",
+  "feature_eligible": false
+}

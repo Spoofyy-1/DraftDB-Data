@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:39:02.873894+00:00",
+  "lane": "news",
+  "pid": "P26a739545e",
+  "draft_year": 2003,
+  "name": "Carl English",
+  "draft_date": "2003-06-26",
+  "status": "ok",
+  "query": "\"Carl English\" (draft OR scouting OR prospect OR basketball) after:2002-07-01 before:2003-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Carl+English%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2002-07-01+before%3A2003-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Honolulu Star-Bulletin Sports - Honolulu Star-Advertiser",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FQWlSbWVWUkdPWERCbFZ0UmdPMkdkdktqLTRKdEdsLUVScGVhMC0wNDY0NXdKWUEyd1JpOUJrNVJfNUVkNGdnQlJ0MmdHc1RBX1BqeG8xSHJEVkJzdXB3aTBUNFlXX2RzZ2lNT0F2aFA?oc=5",
+      "published_date": "2003-01-12",
+      "source": "Honolulu Star-Advertiser",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Honolulu Star-Bulletin Sports - Honolulu Star-Advertiser",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UcHdnWTg2cnZqWkw4dWhDLXhoeUVjNF9TeFd4VnNsckM4MFhSVmhscHpoN01RNHY0TFd6MG9NTG1UdzNPcXFVZWkzbXZjY09UVC1kaTZlaFdfcXRJODRLWEdsb0lyVkEtR05lbk1qcTk?oc=5",
+      "published_date": "2003-01-09",
+      "source": "Honolulu Star-Advertiser",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "b6d0ee4f56e28730ab5b45d51b1b14725f56861cdd21fbdd01dce632fc48d80d",
+  "feature_eligible": false
+}

@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T09:46:23.334863+00:00",
+  "lane": "reports",
+  "pid": "P093d3a11ad",
+  "draft_year": 2012,
+  "name": "Kevin Jones",
+  "draft_date": "2012-06-28",
+  "status": "empty",
+  "query": "\"Kevin Jones\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2011-07-01 before:2012-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Kevin+Jones%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2011-07-01+before%3A2012-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "322854f2232972d5de4813c77bed4fd610ad15d33898c1ccadc8035d405f70d0",
+  "feature_eligible": false
+}

@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:38:00.517241+00:00",
+  "lane": "news",
+  "pid": "Pd72acae20f",
+  "draft_year": 2002,
+  "name": "Reggie Evans",
+  "draft_date": "2002-06-26",
+  "status": "ok",
+  "query": "\"Reggie Evans\" (draft OR scouting OR prospect OR basketball) after:2001-07-01 before:2002-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Reggie+Evans%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2001-07-01+before%3A2002-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "No. 11 Illinois Upends No. 17 Iowa, 77-66 - University of Illinois Athletics - University of Illinois Athletics",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWF8ydEREcEE4bnRlQTlCcUJ4NDhIMkVTY2JzSk9jX0RaaWJhdUhHbVJiN2VKQXZ6d19RS1RabWZUMnBld0tBYlpGa1NZOFlXU05EOFI1NjhKbkFUaGQ2Y3JRRjRMbmpEanBrUVdERjlQRXFzVDhwWUFDSFJTbThYOHhQempqQlU?oc=5",
+      "published_date": "2002-01-15",
+      "source": "University of Illinois Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Odle, Hornsby help Hoosiers halt Hawkeyes, 79-51 - The Herald-Times",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZjRjRWxESHhsTlhpRnQzRGpIZFRMT0EzTTU5QUg5ZmR0NDhtZUY2MHZsMzJGWXBkc19CaDhac250SGM3bFdWcDY1MlpQOU5IcnlEX3lnZUcwc05NMW9TdmpsZGxjcGJMMmdpSGtrcW9FdEVYUF9XNXlZcWdmYWtzQkpVcWxDTWVsdFQ3MGczRGlXOXhFYVhicm5NaFRIUHNMV2ZNTXZxd2o4R3U0ZHhFWDhaUENTbzA?oc=5",
+      "published_date": "2002-02-06",
+      "source": "The Herald-Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "b8a56fe6f2754a596408962cbacc8b6ed0cf9f9cb3ae62f73ace2ea2b6fb64ca",
+  "feature_eligible": false
+}

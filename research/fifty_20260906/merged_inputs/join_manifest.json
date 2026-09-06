@@ -1,0 +1,56 @@
+[
+  {
+    "split": "train",
+    "rows": 1458,
+    "added_features": 50,
+    "matched": 671
+  },
+  {
+    "split": 2019,
+    "rows": 137,
+    "added_features": 50,
+    "matched": 112
+  },
+  {
+    "split": 2020,
+    "rows": 112,
+    "added_features": 50,
+    "matched": 84
+  },
+  {
+    "split": 2021,
+    "rows": 233,
+    "added_features": 50,
+    "matched": 199
+  },
+  {
+    "split": 2022,
+    "rows": 97,
+    "added_features": 50,
+    "matched": 76
+  },
+  {
+    "split": 2023,
+    "rows": 101,
+    "added_features": 50,
+    "matched": 77
+  },
+  {
+    "split": 2024,
+    "rows": 114,
+    "added_features": 50,
+    "matched": 85
+  },
+  {
+    "split": 2025,
+    "rows": 106,
+    "added_features": 50,
+    "matched": 87
+  },
+  {
+    "split": 2026,
+    "rows": 61,
+    "added_features": 50,
+    "matched": 55
+  }
+]

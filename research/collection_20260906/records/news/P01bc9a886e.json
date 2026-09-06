@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T09:46:13.793505+00:00",
+  "lane": "news",
+  "pid": "P01bc9a886e",
+  "draft_year": 2005,
+  "name": "Chris Taft",
+  "draft_date": "2005-06-28",
+  "status": "empty",
+  "query": "\"Chris Taft\" (draft OR scouting OR prospect OR basketball) after:2004-07-01 before:2005-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Chris+Taft%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2004-07-01+before%3A2005-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "22172b4dfc22228a03fda269c8ea23e13a3022f2f75eec9d26a329c0f819002f",
+  "feature_eligible": false
+}

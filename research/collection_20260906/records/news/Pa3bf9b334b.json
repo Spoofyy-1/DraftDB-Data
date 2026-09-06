@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:41:10.280760+00:00",
+  "lane": "news",
+  "pid": "Pa3bf9b334b",
+  "draft_year": 2003,
+  "name": "Jerome Beasley",
+  "draft_date": "2003-06-26",
+  "status": "ok",
+  "query": "\"Jerome Beasley\" (draft OR scouting OR prospect OR basketball) after:2002-07-01 before:2003-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Jerome+Beasley%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2002-07-01+before%3A2003-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Milicic top power forward - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLTB5WU9pZUFDVVlKc2tocFRYeDNfS0xfWjA4QS1hYXJrcFd2Q3JIQ2NOUG5ManBkemZBcWt3WFkwLVltVVdpTUdzUm0xV0NCTEZPejhKQnBIZXlGYjNvOWg1amJiNV9tTllydDduUS1hdFBkdVltc29INFdhd0h3cENKR3RnaXNoWEhaU1dpOXRHdw?oc=5",
+      "published_date": "2003-06-25",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "980c4af420bf07e8241b615dd777a952b429b0456430eba00afbf89ca942fa49",
+  "feature_eligible": false
+}

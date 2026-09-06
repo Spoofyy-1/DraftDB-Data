@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T09:44:11.573641+00:00",
+  "lane": "news",
+  "pid": "P6e6444ed0f",
+  "draft_year": 2004,
+  "name": "Sebastian Telfair",
+  "draft_date": "2004-06-24",
+  "status": "ok",
+  "query": "\"Sebastian Telfair\" (draft OR scouting OR prospect OR basketball) after:2003-07-01 before:2004-06-24",
+  "query_url": "https://news.google.com/rss/search?q=%22Sebastian+Telfair%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2003-07-01+before%3A2004-06-24&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "One-on-One with Sebastian Telfair - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TQ1ZXa1dISHU1SC1kZTU2ZVFFWjE5Z3ByQXlyUzM3N0FidVJGdlk0YjktbVgwYlRnNUMtWFZwNms4YnFCenU1TXhCelE3SE4wVU5GSW1xNktEaXpzbGZ1alFIMjdDRmFjbnZB?oc=5",
+      "published_date": "2004-06-07",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Telfair skips college, to enter NBA Draft - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLXlYYXBIQk5weHk1bk5FbEZrTVBpak1ZcEFzcHJJQk9MdXBNc1dWNnVpZTQ4OFp0YmsxQUNpS19xb2NTOFhwZG4zV0tiR0lOTnRuWTRQekpQQTF1MDhfS0lFZXZNWGI2cXkzeW5IbmpzYmE4elRsVk1GbkttaG9talNycEJYZFI3dTlNVXEwc2RZNGxVaXhvN0cwNDFCTWhTajY3aTJn?oc=5",
+      "published_date": "2004-05-05",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Gabriel Fuels Far Rockaway Seahorses\u2019 Fast Start - rockawave.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUG53MjFlTFA0UU8wOEpQLUpMdEVUTGsxcjlqNzd1bklucUFiTHdlbXZTLVZ0ZEJrUlc0b21OTVRzNjY0NGlqd0EzaE96X1o5MkJFU1RUQ0pRVFR1QVI0WXhIN3Y0RGV1RGR4c050TGVxQVJBYmVXOXc3Y0prdDZ5bGY4QmItczVrbUR3?oc=5",
+      "published_date": "2003-12-26",
+      "source": "rockawave.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Homecoming - The New Yorker",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RTG1oSTVBSl9zRFRVbkFFYzhNeDVnTHVWLWRBcThzS2N2V2t3eTRNOHlBYnVtWlY0TDBzZzUyc0NIUTlncUk2VEZZV0p0YVV2SUZhN3EtTEFEak9GM0RqN1Y4SWxBRGJEM1Y4?oc=5",
+      "published_date": "2004-01-12",
+      "source": "The New Yorker",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Which one to pick? - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMFY0dWEzcXlfWGhJZXhpMTRfbDJuTHFWbURnN0RtWFpQcGFVZERQVktsMzBkRlhRSVhyNVFoYmhmQkI0YzBPRXpaM0dlWFlvNWc1d19QR0ZISnlzMFdPUzk0Y01jM3Qzb1JJRjNta3hoMlozLVJTbHpvYTc0SjRLVktFbVhDX2s?oc=5",
+      "published_date": "2004-06-23",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "4cfd6f3f7b86c69807f20bbd802268389edf2131f49751ccdcb9a53678f34a86",
+  "feature_eligible": false
+}

@@ -1,0 +1,433 @@
+{
+  "trends": {
+    "status": "backoff",
+    "updated": 1788687119.203964,
+    "attempted": 273,
+    "existing": 282,
+    "total": 2560,
+    "counts": {
+      "unavailable_before_2004": 267,
+      "ok": 1,
+      "error": 5
+    }
+  },
+  "reports": {
+    "status": "running",
+    "updated": 1788688036.52354,
+    "attempted": 20,
+    "existing": 20,
+    "total": 2560,
+    "current": "P337ea84d5c",
+    "counts": {
+      "empty": 17,
+      "ok": 3
+    }
+  },
+  "scouting": {
+    "status": "backoff",
+    "updated": 1788686859.080595,
+    "attempted": 5,
+    "existing": 5,
+    "total": 2560,
+    "counts": {
+      "error": 5
+    }
+  },
+  "news": {
+    "status": "running",
+    "updated": 1788688036.637975,
+    "attempted": 362,
+    "existing": 362,
+    "total": 2560,
+    "current": "P311b5f6b41",
+    "counts": {
+      "ok": 192,
+      "empty": 170
+    }
+  },
+  "collection": {
+    "trends": {
+      "status": "backoff",
+      "updated": 1788687119.203964,
+      "attempted": 273,
+      "existing": 282,
+      "total": 2560,
+      "counts": {
+        "unavailable_before_2004": 267,
+        "ok": 1,
+        "error": 5
+      }
+    },
+    "scouting": {
+      "status": "backoff",
+      "updated": 1788686859.080595,
+      "attempted": 5,
+      "existing": 5,
+      "total": 2560,
+      "counts": {
+        "error": 5
+      }
+    },
+    "news": {
+      "status": "running",
+      "updated": 1788687970.785599,
+      "attempted": 342,
+      "existing": 342,
+      "total": 2560,
+      "current": "Pffd0721d82",
+      "counts": {
+        "ok": 183,
+        "empty": 159
+      }
+    },
+    "collection": {
+      "trends": {
+        "status": "backoff",
+        "updated": 1788687119.203964,
+        "attempted": 273,
+        "existing": 282,
+        "total": 2560,
+        "counts": {
+          "unavailable_before_2004": 267,
+          "ok": 1,
+          "error": 5
+        }
+      },
+      "scouting": {
+        "status": "backoff",
+        "updated": 1788686859.080595,
+        "attempted": 5,
+        "existing": 5,
+        "total": 2560,
+        "counts": {
+          "error": 5
+        }
+      },
+      "news": {
+        "status": "running",
+        "updated": 1788687970.785599,
+        "attempted": 342,
+        "existing": 342,
+        "total": 2560,
+        "current": "Pffd0721d82",
+        "counts": {
+          "ok": 183,
+          "empty": 159
+        }
+      },
+      "collection": {
+        "trends": {
+          "status": "backoff",
+          "updated": 1788687119.203964,
+          "attempted": 273,
+          "existing": 282,
+          "total": 2560,
+          "counts": {
+            "unavailable_before_2004": 267,
+            "ok": 1,
+            "error": 5
+          }
+        },
+        "scouting": {
+          "status": "backoff",
+          "updated": 1788686859.080595,
+          "attempted": 5,
+          "existing": 5,
+          "total": 2560,
+          "counts": {
+            "error": 5
+          }
+        },
+        "news": {
+          "status": "running",
+          "updated": 1788687905.175243,
+          "attempted": 322,
+          "existing": 322,
+          "total": 2560,
+          "current": "Pbc9cc4070d",
+          "counts": {
+            "ok": 173,
+            "empty": 149
+          }
+        },
+        "collection": {
+          "trends": {
+            "status": "backoff",
+            "updated": 1788687119.203964,
+            "attempted": 273,
+            "existing": 282,
+            "total": 2560,
+            "counts": {
+              "unavailable_before_2004": 267,
+              "ok": 1,
+              "error": 5
+            }
+          },
+          "scouting": {
+            "status": "backoff",
+            "updated": 1788686859.080595,
+            "attempted": 5,
+            "existing": 5,
+            "total": 2560,
+            "counts": {
+              "error": 5
+            }
+          },
+          "news": {
+            "status": "running",
+            "updated": 1788687838.5925472,
+            "attempted": 302,
+            "existing": 302,
+            "total": 2560,
+            "current": "P6547eb6540",
+            "counts": {
+              "ok": 163,
+              "empty": 139
+            }
+          },
+          "collection": {
+            "trends": {
+              "status": "backoff",
+              "updated": 1788687119.203964,
+              "attempted": 273,
+              "existing": 282,
+              "total": 2560,
+              "counts": {
+                "unavailable_before_2004": 267,
+                "ok": 1,
+                "error": 5
+              }
+            },
+            "scouting": {
+              "status": "backoff",
+              "updated": 1788686859.080595,
+              "attempted": 5,
+              "existing": 5,
+              "total": 2560,
+              "counts": {
+                "error": 5
+              }
+            },
+            "news": {
+              "status": "running",
+              "updated": 1788687775.639554,
+              "attempted": 283,
+              "existing": 283,
+              "total": 2560,
+              "current": "P1b3889c122",
+              "counts": {
+                "ok": 152,
+                "empty": 131
+              }
+            },
+            "collection": {
+              "trends": {
+                "status": "backoff",
+                "updated": 1788687119.203964,
+                "attempted": 273,
+                "existing": 282,
+                "total": 2560,
+                "counts": {
+                  "unavailable_before_2004": 267,
+                  "ok": 1,
+                  "error": 5
+                }
+              },
+              "scouting": {
+                "status": "backoff",
+                "updated": 1788686859.080595,
+                "attempted": 5,
+                "existing": 5,
+                "total": 2560,
+                "counts": {
+                  "error": 5
+                }
+              },
+              "news": {
+                "status": "running",
+                "updated": 1788687709.987682,
+                "attempted": 263,
+                "existing": 263,
+                "total": 2560,
+                "current": "Pc441e97a64",
+                "counts": {
+                  "ok": 145,
+                  "empty": 118
+                }
+              },
+              "collection": {
+                "trends": {
+                  "status": "backoff",
+                  "updated": 1788687119.203964,
+                  "attempted": 273,
+                  "existing": 282,
+                  "total": 2560,
+                  "counts": {
+                    "unavailable_before_2004": 267,
+                    "ok": 1,
+                    "error": 5
+                  }
+                },
+                "scouting": {
+                  "status": "backoff",
+                  "updated": 1788686859.080595,
+                  "attempted": 5,
+                  "existing": 5,
+                  "total": 2560,
+                  "counts": {
+                    "error": 5
+                  }
+                },
+                "news": {
+                  "status": "running",
+                  "updated": 1788687644.420216,
+                  "attempted": 243,
+                  "existing": 243,
+                  "total": 2560,
+                  "current": "P7feaaeffcb",
+                  "counts": {
+                    "ok": 134,
+                    "empty": 109
+                  }
+                },
+                "collection": {
+                  "trends": {
+                    "status": "backoff",
+                    "updated": 1788687119.203964,
+                    "attempted": 273,
+                    "existing": 282,
+                    "total": 2560,
+                    "counts": {
+                      "unavailable_before_2004": 267,
+                      "ok": 1,
+                      "error": 5
+                    }
+                  },
+                  "scouting": {
+                    "status": "backoff",
+                    "updated": 1788686859.080595,
+                    "attempted": 5,
+                    "existing": 5,
+                    "total": 2560,
+                    "counts": {
+                      "error": 5
+                    }
+                  },
+                  "news": {
+                    "status": "running",
+                    "updated": 1788687579.155509,
+                    "attempted": 223,
+                    "existing": 223,
+                    "total": 2560,
+                    "current": "P3dd5c6b05b",
+                    "counts": {
+                      "ok": 125,
+                      "empty": 98
+                    }
+                  },
+                  "mocks": {
+                    "status": "backoff",
+                    "updated": 1788686860.715144,
+                    "attempted": 5,
+                    "existing": 5,
+                    "total": 27,
+                    "counts": {
+                      "error": 5
+                    }
+                  }
+                },
+                "mocks": {
+                  "status": "backoff",
+                  "updated": 1788686860.715144,
+                  "attempted": 5,
+                  "existing": 5,
+                  "total": 27,
+                  "counts": {
+                    "error": 5
+                  }
+                }
+              },
+              "mocks": {
+                "status": "backoff",
+                "updated": 1788686860.715144,
+                "attempted": 5,
+                "existing": 5,
+                "total": 27,
+                "counts": {
+                  "error": 5
+                }
+              }
+            },
+            "mocks": {
+              "status": "backoff",
+              "updated": 1788686860.715144,
+              "attempted": 5,
+              "existing": 5,
+              "total": 27,
+              "counts": {
+                "error": 5
+              }
+            }
+          },
+          "mocks": {
+            "status": "backoff",
+            "updated": 1788686860.715144,
+            "attempted": 5,
+            "existing": 5,
+            "total": 27,
+            "counts": {
+              "error": 5
+            }
+          }
+        },
+        "mocks": {
+          "status": "running",
+          "updated": 1788687904.388781,
+          "attempted": 9,
+          "existing": 14,
+          "total": 27,
+          "current": "2013",
+          "counts": {
+            "empty": 9
+          }
+        }
+      },
+      "mocks": {
+        "status": "completed_or_time_limit",
+        "updated": 1788687960.310804,
+        "attempted": 22,
+        "existing": 27,
+        "total": 27,
+        "counts": {
+          "empty": 15,
+          "ok": 5,
+          "error": 2
+        }
+      }
+    },
+    "mocks": {
+      "status": "completed_or_time_limit",
+      "updated": 1788687960.310804,
+      "attempted": 22,
+      "existing": 27,
+      "total": 27,
+      "counts": {
+        "empty": 15,
+        "ok": 5,
+        "error": 2
+      }
+    }
+  },
+  "mocks": {
+    "status": "completed_or_time_limit",
+    "updated": 1788687960.310804,
+    "attempted": 22,
+    "existing": 27,
+    "total": 27,
+    "counts": {
+      "empty": 15,
+      "ok": 5,
+      "error": 2
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:46:56.660904+00:00",
+  "lane": "news",
+  "pid": "P19de9513b3",
+  "draft_year": 2005,
+  "name": "CJ Miles",
+  "draft_date": "2005-06-28",
+  "status": "ok",
+  "query": "\"CJ Miles\" (draft OR scouting OR prospect OR basketball) after:2004-07-01 before:2005-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22CJ+Miles%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2004-07-01+before%3A2005-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA, UT Options Open For C.J. Miles - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNXktbi1CWEt3a2pfdVhfUFhGUDdtMWdjMHRmSG5ZWGRYdV9yUTNYU1FsVld0amlmaFhrYU9FM0hFS01MZmxLdWVLcnhHTGozdm5JRXFLZUJqUlRTNVU3bndqZ2lVNzZmREs4Zzg5b0FmM1Jad3U2R2JrLTlPQnlmbEZnQ1FjZDVPRUczMDNZZkU?oc=5",
+      "published_date": "2005-04-29",
+      "source": "247Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Men's Basketball signs J.D. Lewis to National Letter of Intent - University of Texas Athletics - University of Texas Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1namVuM2YyV19WTjlHZm9vYVNpWk1VUzVKRXNBXzdDQ09oX3NRNmlxTVIyQm9qLXY1TlZpSHZfVDlaRlFxUW1RWFVEekZYT3pyc0ZLU0N4WXdZMnNXanBVY05xVWRXQQ?oc=5",
+      "published_date": "2005-04-19",
+      "source": "University of Texas Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "A hot commodity - Lawrence Journal-World",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JdTJjOEN4QXlqYUhKbC0xUFRtZ0tGbFRMN3NMQjlBSVd1blJqMHMtLW1yRWhPS2h6TDBFdkJJbWFLOEItQ3hUcEQ0NVNsMmJZalRnM2J2b2J1dHVSbVFKYlZ3aHduQ3NCUVE?oc=5",
+      "published_date": "2004-07-29",
+      "source": "Lawrence Journal-World",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "9b15ceb7dd3c8b3f809f2cdaec2de6ae0d5cba0763095e3c99c4a7e667dd734d",
+  "feature_eligible": false
+}

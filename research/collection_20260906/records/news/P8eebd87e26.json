@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:44:41.705106+00:00",
+  "lane": "news",
+  "pid": "P8eebd87e26",
+  "draft_year": 2004,
+  "name": "Andre Emmett",
+  "draft_date": "2004-06-24",
+  "status": "ok",
+  "query": "\"Andre Emmett\" (draft OR scouting OR prospect OR basketball) after:2003-07-01 before:2004-06-24",
+  "query_url": "https://news.google.com/rss/search?q=%22Andre+Emmett%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2003-07-01+before%3A2004-06-24&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Red Raiders Dominate UMass, 90-50 - Texas Tech Red Raiders",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wdXQwWG01MUpOMTNNc0dLd2ZIX1NxaDV5MjNxVERMR2pBRFR0aG5lckR0M0ZSRUlOVHFMX0x0MXpzdVhydjB3X2ZMSzZFYjBIOTZsdTAxR21lMThkcmp5bTEwRW1Ud0pndTdpNENTd3RCbW91ZHBMRUpn?oc=5",
+      "published_date": "2003-11-21",
+      "source": "Texas Tech Red Raiders",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "DAVID HAWKINS TO COMPETE IN NABC ALL-STAR GAME - owlsports.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CV3BHZEV0bE9XaXVpMXRJUXJIZ3FuOUFnODU3MnBvWHZ0VHJtSmNPY1ZXWkNGU2hIZDdtMEx6N3FvQ3IzR3BDQS1CZVhFWVMyUjJNc09YZG50YlVYbm9Z?oc=5",
+      "published_date": "2004-03-31",
+      "source": "owlsports.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Luke Jackson Nominated As One Of The 10 Finalists For 2004 Bayer Advantage Senior CLASS Award - University of Oregon Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44WEVMN3N5VjJRVGhfa0tPTUpxeHpNUVl2UWV6M3ZUT1dUUVNJMzJWNTE5US1BWFJqRDR6TVNlY0pVcURram1hVkVrclRjeVFHWENVcA?oc=5",
+      "published_date": "2004-02-27",
+      "source": "University of Oregon Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "2e4f5cd36aaceca351346e29749599bfe211fc32ba091df7b2aba09341a6e2c8",
+  "feature_eligible": false
+}

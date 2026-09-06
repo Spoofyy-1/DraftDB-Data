@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:37:03.742790+00:00",
+  "lane": "news",
+  "pid": "P85381afe4a",
+  "draft_year": 2002,
+  "name": "Paul Shirley",
+  "draft_date": "2002-06-26",
+  "status": "ok",
+  "query": "\"Paul Shirley\" (draft OR scouting OR prospect OR basketball) after:2001-07-01 before:2002-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Paul+Shirley%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2001-07-01+before%3A2002-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Hoop dreams meet hoop reality - Salon.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11SU1EckFRNVc3VjN0N0lSVnhwTkRBdkxoU2tPZGEyWEhIM2JVb1BCaV9GSHpaazFwUUFfbVFMOXVzbHB4MGdCUTNHUHhQRzZ3U09qNw?oc=5",
+      "published_date": "2002-04-17",
+      "source": "Salon.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "c734450d8d8bf2aeaabaae02fe3fc37c1a08f4a809780b228384f3f0f4ddaead",
+  "feature_eligible": false
+}

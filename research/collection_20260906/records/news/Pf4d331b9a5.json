@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:42:32.430762+00:00",
+  "lane": "news",
+  "pid": "Pf4d331b9a5",
+  "draft_year": 2003,
+  "name": "Maciej Lampe",
+  "draft_date": "2003-06-26",
+  "status": "ok",
+  "query": "\"Maciej Lampe\" (draft OR scouting OR prospect OR basketball) after:2002-07-01 before:2003-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Maciej+Lampe%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2002-07-01+before%3A2003-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Milicic top power forward - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLTB5WU9pZUFDVVlKc2tocFRYeDNfS0xfWjA4QS1hYXJrcFd2Q3JIQ2NOUG5ManBkemZBcWt3WFkwLVltVVdpTUdzUm0xV0NCTEZPejhKQnBIZXlGYjNvOWg1amJiNV9tTllydDduUS1hdFBkdVltc29INFdhd0h3cENKR3RnaXNoWEhaU1dpOXRHdw?oc=5",
+      "published_date": "2003-06-25",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "3b38fa6a7d0db2ba1b6e10a76d455c9f3e21b0ad38c3159bbd15e1829c1a7f61",
+  "feature_eligible": false
+}

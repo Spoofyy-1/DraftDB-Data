@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:37:50.386829+00:00",
+  "lane": "news",
+  "pid": "Pd2dc1d3e0e",
+  "draft_year": 2002,
+  "name": "Tayshaun Prince",
+  "draft_date": "2002-06-26",
+  "status": "ok",
+  "query": "\"Tayshaun Prince\" (draft OR scouting OR prospect OR basketball) after:2001-07-01 before:2002-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Tayshaun+Prince%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2001-07-01+before%3A2002-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2001-02 Men\u2019s Basketball Roster - ukathletics.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdkpDM2dZbVJaX05GU1NuTzMyUmN3aTEzM2Q4Wng3emd5TVIxOU1FX0dHTkRVMzZoVGw3UU9VQS1McVFCeEgyQ1c2RHpHaEg1bzF0cGxEaG0yUl96WDdtTnNzMWFSamptRmdlbG4xME1KSlJUU0hYQ1pheENwU05RTmlYdzVBZF9rVnA2YQ?oc=5",
+      "published_date": "2001-07-23",
+      "source": "ukathletics.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Men's Basketball Falls To No. 6 Kentucky, 82-62 - gocards.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb05XcWhCSUpwSFpFMXRtTlluVVd5QThqeHFiTmZXei1lRXVPYnN3Q0RmUmd0SF9sZ0RMdWdJWjl6VFVBOFFuRi00Qzk0UkFxUnJJV05tbzhMTzRTTGlaSjVjQUVsQjVUbkNwZGxKUFN0b0JXUlgyVVJ1MFU3ZXF2eGxPUDM3UnA1?oc=5",
+      "published_date": "2001-12-29",
+      "source": "gocards.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "0487e539ef66201c6e25f7787b6e413567f06b3d8bfa75047e3e6edcffcf2891",
+  "feature_eligible": false
+}

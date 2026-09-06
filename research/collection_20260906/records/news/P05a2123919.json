@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:38:39.997520+00:00",
+  "lane": "news",
+  "pid": "P05a2123919",
+  "draft_year": 2003,
+  "name": "Desmond Penigar",
+  "draft_date": "2003-06-26",
+  "status": "ok",
+  "query": "\"Desmond Penigar\" (draft OR scouting OR prospect OR basketball) after:2002-07-01 before:2003-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Desmond+Penigar%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2002-07-01+before%3A2003-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Penigar recieves kick from Gaucho; Butler breaks out of slumps - The Utah Statesman",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUndOc3U4SGtQQmhNMEwzZE5yYzZHVFdYSWg3ZV85SUpidHpxVjNlX1JnRm9hZkl5MS1CTlhaZ19EZi1vdlUya1RQQUxHT0VWY0xLT3pidlhjMlN5Z1VPdTFLcEhDZGV2NEJEendlb3daeTh5ZnF5dHlkdUVEOVRzbFpneTJzbnNNRlVUZDI0X04?oc=5",
+      "published_date": "2003-01-13",
+      "source": "The Utah Statesman",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Butler Hits Key Free Throws To Give Utah State the Win Against CS Fullerton - Utah State University",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON0ZFeFhFX0ZTV2gzSHdoWTFYTnlVakJON0ZIUEx2UnZnQ3J6V2c1MTFVN04wUm5pOV9ldk9PVGFWUldkZlMyWVh4cWh1ZmVkUFplN0xnc3lMSzFhaHMxY1JwZE9WZXZZZ0gzYkR5SWZjN3dNNjBQejMzR0c1UzlGcktONmt1dXFaZ3lheGFXTWhZM1NzMXlucVlQUVB5TUdyakJ2cFlkRWhtdEk?oc=5",
+      "published_date": "2003-01-28",
+      "source": "Utah State University",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "8a237092bd380114f93d275ac6d54e3008fd8513ec5c17f28906583705c4435e",
+  "feature_eligible": false
+}

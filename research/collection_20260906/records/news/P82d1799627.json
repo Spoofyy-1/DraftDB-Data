@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T09:40:47.427882+00:00",
+  "lane": "news",
+  "pid": "P82d1799627",
+  "draft_year": 2003,
+  "name": "Josh Howard",
+  "draft_date": "2003-06-26",
+  "status": "ok",
+  "query": "\"Josh Howard\" (draft OR scouting OR prospect OR basketball) after:2002-07-01 before:2003-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Josh+Howard%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2002-07-01+before%3A2003-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "FINALISTS NAMED FOR NAISMITH COLLEGE BASKETBALL PLAYER OF THE YEAR AWARDS - utsports.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWU90ODdFS2QwNUNWMVgwbGVtQ2pkN3o5Qm4xcFRxQ3dSS2JsVDVDN3NrRmlSQWpyekRCS3lWbk55VjI1cXFCdng3elpTVi16WnFBWWdZWjNTM0JMblNNclFPNnZEdWIyTF9qOGxQTnZwUmU1ZXNmdDlQYzF4eGk4ZzZZTDkwQzQ1OVNfRm9BWTRScGNuWmVHRlUtZUpqSFM0bE5DNDdSaU0yd2FUNWc?oc=5",
+      "published_date": "2003-02-18",
+      "source": "utsports.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jason Gardner and Luke Walton Named Finalists for Naismith Award - University of Arizona Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCcGZvbjFjYzlGODZwWjYxSjR3NXItOEZRNmxYdzd0cTB2X2JURmItaHZhQmtOdmgySlVWN3Fzb3ZTTkx6a2hpVnlNdmlwVzZWUUZ1dmE5bFBlaGVqZXBUZ0RQaUE?oc=5",
+      "published_date": "2003-02-19",
+      "source": "University of Arizona Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Strickland making ACC's best team a little better off the bench - BlueRidgeNow.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeVhUOWlLQkkwTkVOemxGUVZQcXlYVXFINHlsRnpHZlRCTkhuVldnYTZvaE1CRDhBXzhFMXFmc0F4U3ZPWENOb2FYSjNxQ2hMemlNZ0tjeUpjTndVVjhHdWp1ekFUeDlIX0NUc185a3RjcGx4MW80ZnFWQTJXaGR5WEczZjRCUzAzM1QtMFlfZkl5TGYzck51NW5PRUpjQ0MyOGV5a1JLSjM3SF93MHZicU0wNTZEeHUtdE55ZFl5ZEdiTURq?oc=5",
+      "published_date": "2003-02-24",
+      "source": "BlueRidgeNow.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "f86aea359b664fcfa95e237cb2508e74f2290ded3c9f6e11f4a549239d1d095c",
+  "feature_eligible": false
+}

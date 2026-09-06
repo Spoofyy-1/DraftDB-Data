@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T09:47:03.243283+00:00",
+  "lane": "news",
+  "pid": "P21b2b49a34",
+  "draft_year": 2005,
+  "name": "Deng Gai",
+  "draft_date": "2005-06-28",
+  "status": "ok",
+  "query": "\"Deng Gai\" (draft OR scouting OR prospect OR basketball) after:2004-07-01 before:2005-06-28",
+  "query_url": "https://news.google.com/rss/search?q=%22Deng+Gai%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2004-07-01+before%3A2005-06-28&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "From Sudan to Fairfield, Gai chasing NBA dream - Sudan Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyLVc2X3pGdm5tYzlmZEFtanBCWmpOM0hXc3hUQjhETVg4RkNGc0I3QnEyVlk0eng5Qzdram9JVXdhcHBOckc3eGRHR0tmUQ?oc=5",
+      "published_date": "2005-02-03",
+      "source": "Sudan Tribune",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Three Niagara Starters Named to All-MAAC Teams - Niagara University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85U0FoVWxsLTJSZnFWcnlyZVhvZVNjRHZld0FmNE5vSlZ2aFhtR3A0UXpwV0ZrMlU5QU9XdlF4cFVQYU82Z1N6OXFnQUZjOFA3NmJrZmR2dzQ0bG1rUkE?oc=5",
+      "published_date": "2005-02-28",
+      "source": "Niagara University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "3a2a9ba713ef221408c35b17186b88ed336a6f7fb6cf7af8e9c59a3e86c2180b",
+  "feature_eligible": false
+}

@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T09:39:45.433215+00:00",
+  "lane": "news",
+  "pid": "P42e64d32a8",
+  "draft_year": 2003,
+  "name": "Rick Rickert",
+  "draft_date": "2003-06-26",
+  "status": "ok",
+  "query": "\"Rick Rickert\" (draft OR scouting OR prospect OR basketball) after:2002-07-01 before:2003-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Rick+Rickert%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2002-07-01+before%3A2003-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Milicic top power forward - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLTB5WU9pZUFDVVlKc2tocFRYeDNfS0xfWjA4QS1hYXJrcFd2Q3JIQ2NOUG5ManBkemZBcWt3WFkwLVltVVdpTUdzUm0xV0NCTEZPejhKQnBIZXlGYjNvOWg1amJiNV9tTllydDduUS1hdFBkdVltc29INFdhd0h3cENKR3RnaXNoWEhaU1dpOXRHdw?oc=5",
+      "published_date": "2003-06-25",
+      "source": "Gainesville Sun",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "4541e7df898f2ac804c6813084ad78b95a5aafd84e4640326e500b5f78b78149",
+  "feature_eligible": false
+}
