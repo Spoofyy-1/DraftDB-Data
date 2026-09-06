@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:41:21.682957+00:00",
+  "lane": "reports",
+  "pid": "P3e1b393a8c",
+  "draft_year": 2022,
+  "name": "Jaden Shackelford",
+  "draft_date": "2022-06-23",
+  "status": "ok",
+  "query": "\"Jaden Shackelford\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2021-07-01 before:2022-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Jaden+Shackelford%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2021-07-01+before%3A2022-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Jaden Shackelford Declares For 2022 NBA Draft - Tide 100.9",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RSmhLX0k1UUw2ZTFXalYtckZ1bUtUWV9tTlYxYjZQMHUwcmdFcllwNWFIay1PSXpjUXNGOWwteHVEZ05HeUs0VE5kcEZ6OHNtMHZJVVI3WG9oNnNnUVh3Y1Z6RnRMc01lQmVVSjVuQXR5dVNnRWc?oc=5",
+      "published_date": "2022-04-03",
+      "source": "Tide 100.9",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA mock draft 2022: Where could Alabama basketball's JD Davison, Keon Ellis be selected? - The Tuscaloosa News",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOa2RYUHNIMDhBd2l2SElEMW5POWNLVjk0ZEtKRWlBdWcwSXZvblZVdngzNWpVVHY0N2dlOFVtMUVJemdZVFozc1dHWFBJRXRFWEl5QnFOYlN5T0dlbGppRV9jNHlRZ19HTXdta0ZaeTQtc2FScnVlSnd1dWwwenQ4ZU5XMTQwckNERlRnSm1BbWVvZ0Vzel9DTTMwazlESE4yb3NmeE5CQUIyXzN4b1M4WndGaHdnN214Q1N1ZGRpSjJ0OS1yaU9sclNpUzJmWmJYRG9rVzFmeU5QT2dZZWVtZFI4WWZEZGlu?oc=5",
+      "published_date": "2022-06-22",
+      "source": "The Tuscaloosa News",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "9b1cc18805c0a42459b14f81d8a2601c45b02c1bdcce086393acc926c8ae131f",
+  "feature_eligible": false
+}

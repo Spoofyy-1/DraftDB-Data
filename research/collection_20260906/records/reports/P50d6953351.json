@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:41:41.699342+00:00",
+  "lane": "reports",
+  "pid": "P50d6953351",
+  "draft_year": 2022,
+  "name": "Orlando Robinson",
+  "draft_date": "2022-06-23",
+  "status": "ok",
+  "query": "\"Orlando Robinson\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2021-07-01 before:2022-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Orlando+Robinson%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2021-07-01+before%3A2022-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Evaluating the 11 best NBA draft prospects in the Mountain West - nevadasportsnet.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSjR2UDBYdzVpRDhuM1lXc3FfZUxjSm5OSlZaRXdVaE9FOTUyQUJpemVuNDQ3REZ4Mk43UE1zajFUSzhtbVpjWFJjTmU4VjZTbXJadDk4Z0dvaVN1SFF5RWRqeE4zdHNlRGgzaWhlVjRNNHZYTElxbDNLOG5jNGwzd2hSQWYxb253eUJ1RndkMFI1b0wzY1FuUURxTndTVC1FWldZeWgxdjYzUQ?oc=5",
+      "published_date": "2022-03-03",
+      "source": "nevadasportsnet.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2022 NBA Draft Profile: Jalen Duren - The Strickland",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM0VWVzczc2RaVExOTEhkS3hvZk1NN3BtSlpnemE0VTRab1VLRnYzNjBmR2dPOXhRRmlHNUxhd3YzVzNvYVZ0ZVg3b3lLZG44OWxpTXpDR21SZW4zek9zQXJ2N2szOV95ZHo1eUNJcXlObXNjc0dZV0NRTVoyamtXTw?oc=5",
+      "published_date": "2022-06-03",
+      "source": "The Strickland",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "8fed65223e752d7bd108e24c33f26488ebf30d6023f60095c38eeffe4c6f75c9",
+  "feature_eligible": false
+}

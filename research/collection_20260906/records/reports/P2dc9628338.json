@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:46:39.932211+00:00",
+  "lane": "reports",
+  "pid": "P2dc9628338",
+  "draft_year": 2023,
+  "name": "Pat Spencer",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"Pat Spencer\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Pat+Spencer%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Pat Spencer Fantasy Basketball News, Rankings, Projections | Phoenix Suns - FantasyPros",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ndFVZV3A3aHlaNDFHWVJMdHNkYVEtRDJQMExuNzhlYjYzcGdhbFBJMkNnMl8yb2JFR0E5S3JmTUZZazl5YUtvUDFZeW5jaFY1VTRpTnQ5bHVZdnFveEh0aDhHME1Kdw?oc=5",
+      "published_date": "2023-02-13",
+      "source": "FantasyPros",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jimmy Butler fills stat sheet Wednesday against Pacers - FantasyPros",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONXlDbFRGc1Z4NUJXdXdhYWhkN19MczNjSFh2SXowSHVxclNQOTBPLWZWRFE3aGF5bkkzWmJzdUI4MWk1a3J2RTFXanlMcU1xU2FwX2k1UWpoQmVKb3JlN1hId0xEVS1uUHBDeVZOMWwyUXRQTTdGbGx2N3daa2pGcEZIQXdIMkdKeE1raHhIb0RxSDQ0VjN2Vk9MdWRQMDdUYXJuUdIBqgFBVV95cUxOaEQ3R1V6VEw1X3M2bG10NHAyRWItR3hhZ3FMUU1aYU1hakYxYksybVE5ODNMNlllNUdhMEhBX1d6WXBhMVRQZWRoYVdmb2oyRGpZM2lzVWZnbmtjdzh4eFFmdjJfZnMzTFhzQVpSc0pFWHhmcmx0WUtxM3dhZVhXdEJEbEtYSmZSdkc4WVdjd3R3ZG9wUW0zMkhORmVINXVlX0h0WnRWZnJ3UQ?oc=5",
+      "published_date": "2023-02-09",
+      "source": "FantasyPros",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "af9f92ccf241575ae6ebdcd4d23ed3efd0c6dccd858feb7c2dd3850f3b42a6e1",
+  "feature_eligible": false
+}

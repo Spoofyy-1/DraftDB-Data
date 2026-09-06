@@ -1,0 +1,64 @@
+{
+  "collected_at": "2026-09-06T11:46:12.722820+00:00",
+  "lane": "reports",
+  "pid": "P16bfe45561",
+  "draft_year": 2023,
+  "name": "Tosan Evbuomwan",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"Tosan Evbuomwan\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Tosan+Evbuomwan%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Evbuomwan - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jT0ZMQjlDZEdjdTJWLUF6dTc2ank2RExlQV9sZUpFb0U4Y0lObk8zOXFlNllfQVNSbnhVYVowMFNpOEdiajJHZzFMMEZodEotN3pFRlJkdjJ2b01ELWZSU1N1TS1qdUE?oc=5",
+      "published_date": "2023-06-05",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft Scouting Report: Princeton's Tosan Evbuomwan - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZEdPVGZJVHVaTXo3MDFhUmpFeFZWdkpmUHEtRUJYUTV0OXBXN3phMTVQUGU4NWtIWHZtaGJWaUkwbE56S3ZVVWx5OG52SlAyZ0ZXZWlNYWJodkUxYjRiZUdacVBMdHRlclMtWjhxLUhXNVBqdmVEdmN3OW9fSXlPRDlHVlpZMmgwZTJIYXNwWWNycEc4RFhHVHctckVLUVFM?oc=5",
+      "published_date": "2023-05-30",
+      "source": "Sports Illustrated",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "B/R's Final 2023 NBA Mock Draft: Full 2-Round Predictions - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZUxsWmZVY3B1d3NyVDRYTENxdGhhTmVNYTdSWUs5R21iakRHS2JvSVRCVkxUbzNEU09DUDdyazlnYjJ6WlljZ1Y3WGhsQkd1NzVxZGdqRFo2YmI2S2Z2R0g3VUlWQnlJZHNkbVNxZUVXM0ZJajcyblNMMHV2YXVlc01yVVlNUnZ3dmFkbWt3UHlrTms2MVNQcWRsQTdaaE5G?oc=5",
+      "published_date": "2023-06-21",
+      "source": "Bleacher Report",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bleacher Report: Final 2023 NBA Mock Draft and full 2-round predictions - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2VSUkphelpkaGJhWVkzTm5pQ0VqUVRyZjFKNGppOEM4SldKM0QtdFFxcWVCM2xTOVZpRHJPOTBEeHM3S0pMY0NRdlhRcF9iTDdBdElqU1FlRGo0M05XbWtBcDBCMUJ5RExIMFhtaGE2U1JjNDRnaU00S1UxTXpZX3dveFA2WXhPa3BwekFJSnNpa01Renc3Y1JOYWFkUQ?oc=5",
+      "published_date": "2023-06-21",
+      "source": "NBA.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Noah Clowney - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zbEZMNzVRdC1WUEphb1k2SEVkS09keDlwS1VDQ0pHZHdIY2FpNUtLczZXSkxRQzJVeE92ZTQxU0o4SzRMRjFLZjBSakQ5Qlk?oc=5",
+      "published_date": "2022-12-06",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "10 Best Cinderella Playoff Runs in NBA History - Last Word On Sports",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeXN5eE1vSm56VW9HYTJFOEJybmctdndtRFh2TUdOUzdvRG1yMlp6YUtBNFQ3c1p5Z0ZnQWFjeXduQzh1eDk4S1NZVVB4WHF5dTZWeXpLcmdVZzlsWGI4N1YzVTBJQXJ2aTBCSEs0N04xOTVoRzZTUVQzMU1BMjRibkVpaFAwTEtzSWVISmFrSXFkMjRlUm9yb0J6bjRKRTg?oc=5",
+      "published_date": "2023-06-04",
+      "source": "Last Word On Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "044df65ba5ee8ae61154df636045ad319826c09d4091bf54c854f466fb8433e0",
+  "feature_eligible": false
+}

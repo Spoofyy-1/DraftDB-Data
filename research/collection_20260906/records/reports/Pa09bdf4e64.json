@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:35:41.690766+00:00",
+  "lane": "reports",
+  "pid": "Pa09bdf4e64",
+  "draft_year": 2021,
+  "name": "Georgios Kalaitzakis",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Georgios Kalaitzakis\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Georgios+Kalaitzakis%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA 2021 Draft Prospects - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DZmloRHV5LVl1RUFyOGppRVBmdUZ3TTdhYU0zR21fNkNyekpVdEp4UmctbXBIVE93MXdpd2owdlF0dGg0YWFaWTNVSVdhRWJxTDR6UWhnaGpwNC1nSmVWMVNwT0hVcDZjUU9F?oc=5",
+      "published_date": "2021-07-07",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "6e957d8e260dcfc047c76af11eae7390ebbc471b0a36f9c0faf61ef0f5444a1c",
+  "feature_eligible": false
+}

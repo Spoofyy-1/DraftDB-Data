@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:21:32.812999+00:00",
+  "lane": "reports",
+  "pid": "P04282e0cbf",
+  "draft_year": 2020,
+  "name": "Robert Woodard II",
+  "draft_date": "2020-11-18",
+  "status": "ok",
+  "query": "\"Robert Woodard II\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2019-07-01 before:2020-11-18",
+  "query_url": "https://news.google.com/rss/search?q=%22Robert+Woodard+II%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2019-07-01+before%3A2020-11-18&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2020 NBA Draft scouting report: Robert Woodard II - Peachtree Hoops",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPejdTeEt2OXI4U1pyY1VkOGhuLVdjSmhZeFlvWG5mN0RQQUlLUjFNemEzNlgybXBCcXBqY0J6b253TklucGlTbTVQckVWR2J2RE5VblBCNDhuZUVZaFpkdloyanJ4dGNnU3YyQmstYzJTdldyZnVqd1hOU1RXZDFESGNSM3lPcHhKZnhhN2NPVXdrSENFelQ2ZEc4ZktlMklyazhkWU0xdC1QNnpJQkFUZ1NYOVVOVFhiNk5fZWpfd1I0ajFDdlU5MEtOT1RnVUFId0xfRg?oc=5",
+      "published_date": "2020-10-01",
+      "source": "Peachtree Hoops",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Mississippi State\u2019s Robert Woodard II jams on and off the court - Commercial Dispatch",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcUx2aUhsaEhaZU9UQ1NPTE1qMkJ3ZVdsYUNhZEpuQWpJU0xXdkUyMG9nQnBEajZFaVlmNzkyYlJTOUd5dHR2VmVjZnlhUnlkODJxYlJ2OGR6bzdhVXlMMWNCNWZTLThUc1BZMUdGeGNEeVVNWVdhV28zU2F4MGtsZnl0XzhkUFdRWkd6ZkFHU2lvUTMxU0xB?oc=5",
+      "published_date": "2020-05-04",
+      "source": "Commercial Dispatch",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Mock Draft 3.0: Will the Timberwolves take LaMelo Ball at No. 1? - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUEIzU3Q4SHZDaVpZTm9GWjRIRm1CT1I2cUpJNkdMS2REVWZLa3p6aEw5eWZCLVNvQVFaOFFRU3pvMk5CcFllQVNGenc4VWxjeXNsY19WY09pQWFHSFZTYXAyeVgzdnFHMGUyRTRjNjFsQmtCWTdybW1iZm1IYWlRUzVZTlNRdWw5S0NVT2hFYVV0b2RiSmc?oc=5",
+      "published_date": "2020-11-17",
+      "source": "Los Angeles Times",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bleacher Report's Final 2020 NBA Mock Draft - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTm5sbThuZlAzSWNnTnFWcHV5R0I0YmhMZW5zbnhsaVhmd1JTWTBwTGNLWmtSV01EMVdfSlhBSE9DUXp1N2hMOWtWSURfdnBkcS04bkx4emVGWWVNZzQ0enA4YldkVkFVdWM2RGwwbjc0b2FqV1BKY1pySUhSa0xVWl9GQmZiTnpiV25XVm1UQQ?oc=5",
+      "published_date": "2020-11-16",
+      "source": "Bleacher Report",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "b7d185d1ab6a5bbf0471df08dfcb4a256dd5a97d465db7a75da4523ada66741e",
+  "feature_eligible": false
+}

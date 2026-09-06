@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:33:18.657539+00:00",
+  "lane": "news",
+  "pid": "Paf63a5d230",
+  "draft_year": 2023,
+  "name": "Tarik Biberovic",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"Tarik Biberovic\" (draft OR scouting OR prospect OR basketball) after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Tarik+Biberovic%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA 2023 Draft Prospects - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WM0F3djFkVm4xb3N6cjZGUGkzeXVlclVoZnN4SF9lNFBVVXpMN1IteTNwdnU0YzBxY1lSaG04TUd1YklaaWpoVVFuUXhhUElURm1Wcm9DY182dmNEeldrX0sxcHBTM1JnN190SlJ4MEdEVENJSUE?oc=5",
+      "published_date": "2023-05-20",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Wilbekin remains out, Fenerbahce travel to Piraeus with 5 absentees - BasketNews.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUDJydHZkRGw0WnpDUzVlaGE0c1o2UWE2ZWpJWkI1YVpzTFJLcXRLTlJxdVM4U1hqWjRURGRocDkydmVmSldFNlpOTFhDV1JoUno3SUNobHJCZTNqekFPajJnVThqZVBqQWFaMFVzTkxHV1hlUTRFUWYwcFJ0TEdRblJCVWphSElMc2VsM2hvaU83UVBwYjRQR2tvd2VzeVNNc3FnYzdkQU9pUQ?oc=5",
+      "published_date": "2022-12-12",
+      "source": "BasketNews.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 4,
+  "response_sha256": "63b32213471dc38df1ef4bedf53ef1d70e0d9090d1ac099c076dcd9a44047a7d",
+  "feature_eligible": false
+}

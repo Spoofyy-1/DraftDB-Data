@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:45:58.963168+00:00",
+  "lane": "reports",
+  "pid": "P0e1f032d1f",
+  "draft_year": 2023,
+  "name": "Jalen Slawson",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"Jalen Slawson\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Jalen+Slawson%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft Scouting Report: Furman\u2019s Jalen Slawson - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVTAwWGFoejduRzNZU3Uwb1RzczNESklOeUhSbk00SFh5WlBQZkJMREZuSUExV0hsMXFnN0NDaG9odEJWQ25GZnp3MEFReUdCSWVTN09lZzRKRTRrWnIwNHgydU5VTHhIMkE0Yy0wMUR4MUQwZjhHekNWVkUwejl3YkRoUnFIcEJTX2Z2a2U3aFR1NXpoSkxuaUJB?oc=5",
+      "published_date": "2023-04-19",
+      "source": "Sports Illustrated",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jalen Slawson - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJcVZPWWIzblZhUmoyN3FONkVvSXp3ZUt6MmZaUmJRbjRDQ0k5ZFQzWDVvRy1INTllUlV3WVlia24wcEt3LXFOam50WERINExs?oc=5",
+      "published_date": "2023-03-17",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2023 NBA Draft - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZakZUMk9kaEFSRFp2cmxFVG1UY3RwY2JJY1Z0d1hiSVF2Q2NuNDFWODhNaWRCcmlNNjdLT0dSSkZGOUMtWGk3RDFlaW1Ec2FlcnlMNlJTc0l5bFd5QnVLN1dyU2FVeXU3Wk9IdFhoTGVEWlVr?oc=5",
+      "published_date": "2023-05-20",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "ad5636d04b655b336e0bf35c90b7131ce56d8ec8a01684135237629f003aa6c3",
+  "feature_eligible": false
+}

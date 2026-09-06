@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:44:10.776228+00:00",
+  "lane": "reports",
+  "pid": "Paee04abbe6",
+  "draft_year": 2022,
+  "name": "Karlo Matkovi\u0107",
+  "draft_date": "2022-06-23",
+  "status": "ok",
+  "query": "\"Karlo Matkovi\u0107\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2021-07-01 before:2022-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Karlo+Matkovi%C4%87%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2021-07-01+before%3A2022-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Jake LaRavia - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jRXRsQl8yNVVBaUY1VDZtNTJsMkgyYUNGM3hTc18zNE1rQUVjajhMM1U4amZMT1NNOWFzMEZjVk00YzFvcUVRWS1FQ0hrMWM?oc=5",
+      "published_date": "2022-04-03",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "59e8497e5edd75db3ec77ac7b389f3dc6facc6611f61e1e21d9af5fe97fc8dc9",
+  "feature_eligible": false
+}

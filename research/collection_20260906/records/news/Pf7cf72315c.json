@@ -1,0 +1,784 @@
+{
+  "collected_at": "2026-09-06T11:41:07.264221+00:00",
+  "lane": "news",
+  "pid": "Pf7cf72315c",
+  "draft_year": 2024,
+  "name": "Bronny James",
+  "draft_date": "2024-06-26",
+  "status": "ok",
+  "query": "\"Bronny James\" (draft OR scouting OR prospect OR basketball) after:2023-07-01 before:2024-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Bronny+James%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2023-07-01+before%3A2024-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "What scouts think of Bronny James' NBA prospects - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYkI2dEJYRlJERWJCWjVDWG9fdDhqaWhaaEJZQ1dCX3JNc0ZuajR6cVc2MkIwdHRQZXdLSnlWMUtDMjJLdWlDYVowQllaVmZ6OEpCYl9sQ3RpWTF5cE4tbXd1RHRpcHBZVGdNZTJKUWhZSXNCY0lIS2tlVnhpeTZKRE4tQzNNS2dmVTBIRnItQXo?oc=5",
+      "published_date": "2024-05-13",
+      "source": "Yahoo Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Agent says limited NBA draft workouts by Bronny James 'by design' - espn.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdXZIUjRRWVlqUk90UE5NaXRJenIyYloyRGotZmhJN292a3NRV0RsZldjRXF4dk1NUXg4NTRGOW1ublhRcXFteEdZM3lTNi1UNU9WVlRJQzhkRmd5bk5VUXc3dTBaNVMyUWlRUkowdHN1UTRmSDJ6X3IzS0tHdmFwNTNJNEFWRHhnMTlZMXdhR2c2c2UwN21jSWUyX1o4c3luN21ZMQ?oc=5",
+      "published_date": "2024-06-19",
+      "source": "espn.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Plaschke: Who will draft Bronny James? The Lakers should just say no - latimes.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTzZTU2VlZ2FELTRMTUUxVHFjdGY3RWtsRE8yNjRCTnpIZ2g1eDFBUkdKREtpTUdwUUl0OXk1TW1HUnV0X0k4QUNXaElpSW1SdnI5RmVwdFRkT3N6UlRncDRYY1NlX2ZrWXVZSW5JeWxQbVpfbjVMQklBbDVsUEgwal84SkQtZlZmdzlaS0Fia3NlcXQ5RElVWmdhVXJtR0E?oc=5",
+      "published_date": "2024-05-30",
+      "source": "latimes.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James declares for NBA Draft and enters transfer portal - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMzYwaHFXWVNDdVV3V1U0YUF1NmJwVkVpZ0YzZUstY3VDM2J6SlE0eFBKTmpxTFVyWkliSExXR25FekdtRG83TlNrcVl1R2FLM21QMENUNnB1b0VrbDhMeVZHOVM0bk9OTzAxQVhmelFadVNfZ3AzaWxzMzZhT0JiTGdzS2JBVHVDUDJV?oc=5",
+      "published_date": "2024-04-05",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James Declares for NBA Draft, Enters Transfer Portal - Sportico.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPanlKbVlLbnR0QkFlRThZZUNNOE1jWFc3SGZDSWRDNHlpNUlzMVJDR2JnQW9fMnU4cm1vcUNHM0lRU1dic21SbnlNcktOdXN0bWZMcWhtQUNsMDN5b0IxLWdmd2ZxeFpxV1R2QmY5OHNFckJPYUpyVUtKYVByQWRxNjlLaVUwejM0Y0RLSmN5OTNxWjlVR2pBZXp0NHZUdktjWlVJNHNPcHJybkpZ?oc=5",
+      "published_date": "2024-04-05",
+      "source": "Sportico.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James To Declare For NBA Draft, Enter Transfer Portal - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWG5TaWt1cF9td3NoSU83czhZMHdSeWpkWGZfc21XRlVxa1dyZHk5RHlzTGhPeWZvUG1zY2J0YlVpNFQ5cTF5ZGNJdzdJOFFYcWljS0U4Sk00MFRqM3ZKelBEOWplSnlSQlljbl9zVzc5ek1EblVydWJid2xOQ1BpVmRrM2pfeWFweFlXeG1DRkhaaWtOTGlCWTlxUjd3eExVTUF5MXdCa3dwQmcwRENvNFN3?oc=5",
+      "published_date": "2024-04-05",
+      "source": "Forbes",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James on NBA Draft: 'I just want to hear my name called' - FOX Sports",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaURKNXExQXBmVGZEU3ZXQ19fRVJJcVJIVWdrUmp0bmNibnRndDRGNHhnUXFvQWx2WjFWSHJUYjJ4X2MxbkV6WE1WeVJ3bm5MNldNTXo0VUJGZ0RlNklTUk5SbUFIeTg5X3hRQTJETU93V0c1NGdnTGJWYXBKNUtwd01yTW5sR1J6bzJUOXdyV3NUb2E3ajcteDVTONIBmwFBVV95cUxPRzhPTlBWQV9obGhFZ0lSZjY2R3dqXzFLaXRUYUU1RGtSbVZPeUtTVFp5NVFDR2ktN2VSRDh2Nkl6akJ0RmQxT0xsUWF5LU1FNVlsc1RhZFgzTVhGRDBYVDFaWGk2eGpQby1aMXN6eDFFNEdIQ0oyamFzcmVGakxwTGl5Yjh1UGp2bkRrZkdQOWx2TUpVS1dDcGdWUQ?oc=5",
+      "published_date": "2024-06-24",
+      "source": "FOX Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "An Honest Scouting Report of Bronny James - theringer.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa2w3Um1hNGdFTUJhamhzbllHZzZmVEpKb21iaEZ2SlV3UmxvQXUweTFJcThfdHJRd1JWM0JzQ1JRWXczYWc0UHhrSDFnc3VCc0xpbVZYank2VFJGbmNvRHR6VXdLQ0oxZWN0ejdhaHJLNmhLcUR4UUFKYWY4ZnRPY1pHUnJYQnR0TTZzN3VR?oc=5",
+      "published_date": "2024-04-10",
+      "source": "theringer.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James, son of Lakers star LeBron James, to declare for NBA Draft - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcDI5YjRHdm9pdEcxNkFiOS1ubkpvVTI3N19iUHVXMnlTUHktMDMwNVJBcjdPekExSDBiZXhWX3VsMEdzbjJRNG5lWmh0MHFhWC0yVWQtSFAtd082ZmExTTlnRU9iTk1JREZOQy1mWlZjb2VCM05uSjdLLVpWaTY0OUw0NlRVeEI5YmhrY2NpOTJtMHktN2EyZWpoRmtxZHZjd2x1cWtvTFRmZw?oc=5",
+      "published_date": "2024-04-05",
+      "source": "NBC News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James, son of LeBron James, declares for the NBA Draft - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1T2VGUnVHOTkxQTEwajNYNTFvTnhCQnAxazZYLXdueWNoSDZPTm1ham1RZDNiOTc3RDluUS00Mzhicjc3emFUbVdmVWF0VHE2TWI2eWQ5c3pQeW5GRUFLRzQ0Nnp3NjdMMERzbDlYcDRtRlXSAXhBVV95cUxQTGhoLWc5SDJKbFNDelQ3UG00STJ4MVZtZGJyamU5UGFlQWZHNnRNYldQSWNEbnNELXdpekpwLW02YjhlUDRGV1NxUWhGN09maEw3dGZWMTZobnVZbC03Yk1fSXo0d084TXhfcFV6eEYtNWFyTm5ycnc?oc=5",
+      "published_date": "2024-04-05",
+      "source": "CBS News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Where Does Bronny James Rank among the NBA Draft's Worst One-and-Done Players? - Neil\u2019s Substack",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WOVExa0ZVVlNIUDFDWGVfS0liZ25qNXpmc0JaM01pbHRjQnI3aktSZVJXbjE2TklNc0VwVW11QXVCZmRtV2ktT1hnVGZIcnM1UUdJS1JrMmswa2FIOW40SDNhWHR5anB1NUIxbEhfN3lPckdpT1E?oc=5",
+      "published_date": "2024-04-10",
+      "source": "Neil\u2019s Substack",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "How Bronny James improved his draft stock at the NBA combine - espn.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb3M2eDhoNWlaWFo2QmEyRTBTWFdyUHJJbW5Vall0SGFZNVh0dEhTc3EtdEkxd0NNdVFCcWFYZktUX19EUUlHWUdQcy02TjVmbkJEWUpQSzFJSmtTZTk2NkFQdGtnZWxvX3hZbUxoQ3RUbHVCTDZiMjFiZmVNUGZ3ZW0zRlV3eEplc1Y0LWZaRXQ?oc=5",
+      "published_date": "2024-05-17",
+      "source": "espn.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James declares for NBA draft, enters transfer portal - latimes.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUlpxc1Zid3h6ZGNEaVpkV2NDczZYSHZ6Z1dZdk94aV9jVklNT3I5NHlWdllfZEtpU1hiZ2pLYXMzSVB0eFZSdWxaQXc2Q0VMWkxwUXRiZDZzMWotX0s2c1kwME5pOFQ4QUdQSnB4bjctU2ZoZGh4UmcyZUFKTTFRM24zZ2Jjdm9RdjN5RllPbUtIN3BXbmJrQ1BfbmgxLXZrNGtFcWxKTUlKR3NNb21B?oc=5",
+      "published_date": "2024-04-05",
+      "source": "latimes.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bleacher Report: Bronny James makes cut in 2-round Mock Draft - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX205OUQyUTA1QVBkMVpHOVhxa25LQXFSbTF1WnJpOU9weF93RTRqSUVKS3R0ZWRmbndqZnkySmVGSmdGQXlPY0VyNjdJY0Npc2lEcTB0LVZzamJReWpnLTltNS00bDFWYzAyMW1zallPS3BfUjRFMlNPTlRDRWxPaWMxM3hzX3ZqakdSalNEc2Y?oc=5",
+      "published_date": "2024-05-31",
+      "source": "NBA.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Should a team draft Bronny for a chance to sign LeBron James in 2024? - FOX Sports",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSmRwYWJ4TDk4MVd2MWFWOGQ5VjItSmdMQTNVcGpuN3J2XzBmR2lxM0VMZnQtYThVYnZHem9ObDVTWGZERTRVSVBINGRfLThLVVlNTXZxRHFtam9za0tzM1hhb2NkVUdYM3NEcWRLcWFtVUFpY1l3dGRybGc4M2lnRUpkV01JRTl5M3ZHbF9pRm02NVh2MTM2Yl9VOGpsN2Frd2R1cXJaVFdnUdIBqgFBVV95cUxPYlBqenRFRkpVVWhYX1BfbVRLblkwczhfa1p1djFFSGNBMnBqN21kVVhQR1FVNERXWWdpTFkwd1FDMTF2bS1yYlN3cWtoclNjdmR2TmVJaHpMUHpIQUVpRXUxWVllVWtGS1EyWFlhbDNFQkdLNWRBN0dNSElTTjFhZDUwbmgyV3BWNmI2bXhuVUZsWFFrU2NPY0dqTk1Hdmo4SEtUbTl1ZmtTUQ?oc=5",
+      "published_date": "2024-02-13",
+      "source": "FOX Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "USC's Bronny James entering NBA draft, transfer portal - espn.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVnd1MS1TSXMxLS1fbFZSUkRNa2w1QXpOdlpzaUxHUDRmLXZVUHdMSng1RkNuMldtc0JnZkIyTE5WVjZVZDNHOW9IeEx3d0tVemZoN1Q5V3ZSWnpWeEdWc0ZVV2JtMWUxTVNLWjdaZUxwY3JHMHZmU1Y5Qk1JOC1uRnJXdzJrelpVb0ZPWFl2X2htMXh1dlYtdk9jdzY?oc=5",
+      "published_date": "2024-04-05",
+      "source": "espn.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2024 NBA Draft No. 1 pick odds: Bronny James remains most bet prospect - FOX Sports",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWHpxS19Gbl9uVkJJMWxvQ1JUa1BBX2Q1dTl1Smg0X0NTdExBUUFUX2h2d3NyangtUjE4MmpWNnVwN1ViUzdrY2tOekQ4NF9UWi1IV0RseHFPbGMxUXFmSjk1UTRab1V6blV6UDFlRWUzTnNhdldHcjF3YnVkTlVSaDF1V2F3amZLMWZBLU1Ja0NkUmxUVDcyU2ZzRWxDenpmNU5aU0pVUG5IdG5n0gGsAUFVX3lxTFAyLVl1bkt3MkxySy1aMDlncEpZZ2hxNG1NZG9oaGN3R0kzOXNCZUJsYXRoYjRLVjhUUWk3OXc5bEdGTUZLa0h2ZkJrYU4zY0FBTXhxUHliems4V0Vpb1FuX3RRUGNYTVdIYUxzUVlXQUdaWTE4UnlvRURVTzI1QVRsUkdZUjF3NGlqeUtNZW5wLWFoZGMwazdWcWNhYVpLYi0xdl9kVVlCNDZiNHo?oc=5",
+      "published_date": "2024-06-19",
+      "source": "FOX Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James staying in NBA draft, agent Rich Paul says - espn.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUWl3djcwQUpSUmVWQnkwMTZUeXg1X09JR1VXeVF6ZmhybHlGRk9NSFNnSTNjQi1ZdUJiR1ozYldpcGNQT3RuVkZpRF9NOUpiQkxibGZINWloS0g1RU94WDJkVkd4SUZPbXVYaHVJaEZpMUhSN2gxcVZZdUcyWEhvc1B0eW1YNHNfX2FEZ05LZjQxakhwVlQ5MnBsb3k?oc=5",
+      "published_date": "2024-05-29",
+      "source": "espn.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James attracting wagers to be No. 1 pick in NBA draft - espn.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONWQ2UFByNXNJQ1dOeXZGYTdUTWgyWDlDRjBxbGRYSndqaUtwQ051MFJRN185Q04xTk9rYmdpaFVnSjFGSG9GMjlJUjJCTDhMQzJkaV9QclR1S2owMGJmLUJKY3hXVkxXZjV4NTgxWGhENHJiaGF6OUc1czl4RHhjTzdCYnF3ei1fNGZiV3pIVDRFSXh0S0o3NzZiSWw2T3VY?oc=5",
+      "published_date": "2024-05-23",
+      "source": "espn.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "\u2018Make a name for myself': It's Bronny James, not LeBron James Jr. - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKZXJqeks1SGdfNzBDNjF5RUhhM1poMGhFeDZGWjItZlpidmRsMm5mbGI3Z1pxbU9FVEs5QVdUNnhkVEJidGllOTUzblJDblhVV3FVVEU2ZEVoOWJ3X3doV0hDX0dBa3R5bUFOaGkxNlRqbDNYZlU0?oc=5",
+      "published_date": "2024-05-15",
+      "source": "Yahoo Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "What NBA scouts have to say about Bronny James as a draft prospect - latimes.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSXhzY3BDZVZ3OFg4c1g4VWJ1RXlmVHd0OFFOZFFvMXdTQV9QTlhDWS1JWlpXMFRaRmNWYU1zZHR4NldDN2lPMGY3ZWNoOWR3U3pXMndzbDJzSUREanlRMVB4UExxcU56YzlrMkVVTU1hWkJrcmVMY2t1dHF1ZS1rUTNJWEgxVERKTjVrM1Q1cGpfM2dBSElxQjA3NVQ?oc=5",
+      "published_date": "2024-04-05",
+      "source": "latimes.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Inside Bronny James' 2024 NBA Draft Combine, and why he could follow path of another Hall of Famer's son - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNelNGak4ta2pFbzQ3WVptLXdLcFBReEpqc1VnZEViRXNIMVRHNkRWSFhhMElTVU1aNFRmX2pxRXJCR2xiQlp5V0lUcjhndkZBdTlXbk1sbWk1blRQcXVJbjdRV01sdDRueF9YUHd4RjBvZjJIVkVKd295S0lBU194bkdReDhhTUs3U1QySklZMTBYYVJwUFRBLTVyZDhqR2N3WVJERVJoMnNBMm1EWUl4SFN5QllvZjVWblBTMTlkUjM1UzhyWmFWWGpEY0IzZ1NSSk1v?oc=5",
+      "published_date": "2024-05-17",
+      "source": "CBS Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Report: Bronny James gets medical clearance to play in NBA - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LQzBHVEpocWs1TDA2djdUZUdHRVQ0OHZvZDFYTTRWcTcwVzFKemR6ZXhwVzNnYzROWURnX3NtUC15Vm9pMzZMdllKQ29HLW5za2Exa2tZcW5OWWh0MWc3UjhXclJ4dWRkc1BielVkTFV5elA1?oc=5",
+      "published_date": "2024-05-13",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Colorado vs. USC: The potential No. 1 overall NBA draft pick, Bronny James, and more - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeHhJVXVYZHppZHhkSzk4b2xMMFdrbDY0YjVWdDd4bnZHc1FpeGp5TnRoRGVYMnlpRy1PU1UxZjM4WkZZS0dwQ2RCQjFKTHl0ZF9HNWdFS1p2RzE4cGlnNEF6a184OFgybGNraFdCb2htQi1EUlNwUFVDa2MtTk5iN1lyOFkxQmdKWnpTZDRHc1VRLUpTRV9DU29qX0k1Z291UWZsaG9TTVVrZXktT3NvVTFJM1dnSUNLU0gtX19XOXdqaG5O?oc=5",
+      "published_date": "2024-01-13",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2024 NBA Draft: Bronny James elects to remain in draft as USC freshman will forfeit his college eligibility - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQWFUYmRtamNQaWFLaFRFSnNTWi1KVGZvdy1tcUJ0ODhXUGNNUUhxbmx5UTRrVm9aenUtOTBfdFM1d3p5amZRckNfcTN5WlFmMU5VMGlUVG1weTVuNmg1RU5UWGRYcFVSbk5OWEFLUFBjcld0ZkNHZVFQZ2xqeWdFSWVUVEgyelk5T2NOdUQ1c1FSQ0xrZWhxdDFGRVE1QldqaFJscVI2R2ZoNFdsZUVBV290WTZuY19rMmNVa1NvNVF3Y2JsN0RwYS1rVG9VMzJMUU9PZG13LTh0QQ?oc=5",
+      "published_date": "2024-05-29",
+      "source": "CBS Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "What's next for Bronny James after NBA draft, transfer announcement - espn.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYnhsekhxTU9qaklLRFNjOVdhX2F1NHg2YTZzV3FUekRLUWpiTVNHRC02VFh3cDlnRDQ3YzR1MmZ1UnA5NnppLTJ5Wm5mT1loN3pQNkNXUExMR1dwdWdlWGZGcjN2NFVES3FBQlpiMUlPNm8xTmc1bi1vdWFiZVVta19EMXREanpuamVacDI1MUluSmdEWHlSbmlVbnR3ZTJzQjJQdmZfSWJmSVl3b0xrWjhQM0FuM08tSUlseDdUYWxmTmRmQVVIUE5OOHRLNFZWTmswLWdncw?oc=5",
+      "published_date": "2024-04-05",
+      "source": "espn.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James Favored to Land with LeBron, Lakers in 2024 NBA Draft Odds; Knicks 2nd - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYko4c1VHMXhmblIyZUZVdjlPejhON25KejY0cEVJNzFyV3kzQTNYOXNucEZ5SFJzdm9GbkxzeUQtWndmU0VTQ3dOMy16VjJmZzREa2NoblQtYVozSGl6amJPTUhfMkhpMUxxLWZjYXlCYTlabVFCRU1LMEVULVFMM2RoVThmaUlrQUdmYmJ5THNNd3lnSVVoOXl5RGdtRTdIZERoN01OSHA2STM3dmNjWGpQczhIZUU3TzU4ZDhjTVIwWDE3?oc=5",
+      "published_date": "2024-04-11",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James draft projection: LeBron James shows up at combine to watch son play in scrimmage - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYWFCR0I1SUo5WW1aRDd3dl93alhKOFBtX0J5S19LaHU4REp6Zkw3Mk81dHZjU3puNGxEOE9MN1o5Mk0wM1pDbmZjSmdXVUJGSnREeUNPN19Sc3pMSmpWclJXWFpYSFIxXzZLUmtsTUJRS2tydzltX0FlVVZwSThVdExBY1hBeTlnQnBzYjNDYWdfTDJ6Ylk0b1pmajFVR2tGNEZTellzY0E2ZV81enB6TVVkS2t6TXRjblkwejBUekx3cDluaWpJV0VwY3N5Y2VCa1VIa0xTS2JTR0tt?oc=5",
+      "published_date": "2024-05-15",
+      "source": "CBS Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James focused on simply 'getting to the league' - espn.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTkpMU1NFdmpxdUoxR1BGdXZWZk9vZTJlT1plNGxySVdkLXhoYzZyVHpodXhiUVlHb2F4ZG1zZUszdzg0QUVhU2hyMHlZbWFoZFpRZXY2SDBaSHFzVmVwR2N3OWpTX3FFdHNONFI4c0pWdW81dWlDcW0wZHZSMTBtT3Z5Z1ZNRzFyNVQ5akZOZ3E?oc=5",
+      "published_date": "2024-05-14",
+      "source": "espn.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "What Bronny-to-Warriors NBA mock draft projection could mean - NBC Sports Bay Area & California",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNkUybEtXcUo2elFSSjdQekRpeFd4SkVXMThwSHRnTXgxUlV5UGZqajV4bVBlc0tmN2ZmQU1rMG5jZ2dlcy1JU0dnQVJTb0RQUkhuLVh6YjNGQ0FoOTlHbXlsbXU5SjZTNVJjTVE2VGxiTnJ1VERXaDZ2cVlOTk5uaWNudXd0SVR2d1VUMlE1S1FVRnU4S0lnakQ0d21fSkRYejF5M3dWNFU3U0ROb3JoNVhaZ9IBuwFBVV95cUxOQVNOQ3RxUGU1MEFrMFY4OEVjNFNkcE8xTUJnY2lyZ19YUWt5enBhbnFTU1hWVzNVd3BGZDk3WmVfRm1oMkU3eFZTOS1HR2RVVGlqWGd2NGNCU1FkNE9IX3NYcmt3SU52UUplaXN4YTYxd1dRWXVMNmR3dnR2ZGhpYWlZY0xzRUlPOTYxQy1YVm9DX09LblRLNVBKbllxRHVZR0hpRDFjYWt6N29EbG5HR0JiYm1YMFNvWl9v?oc=5",
+      "published_date": "2024-05-31",
+      "source": "NBC Sports Bay Area & California",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "LeBron James watches son Bronny at NBA Draft Combine - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRjBhUVRBaFFmeUQ0bmhvYlg4aHplTmRLQnpJeFlUVERKOU01SDVaMGNzeDZDUGVRM2s5SGZLZWFRUFdUR3lQLVdqM3lTZXRZa2NmOXh5aElTcEoyTHZQbjItY1VEcnNyRFR1dVFHRHoxSkRaWFpBU2JPckt3dGM3SGgxZw?oc=5",
+      "published_date": "2024-05-15",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2024 NBA Draft: How good of an NBA prospect is Bronny James? - Silver Screen and Roll",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYTlRd2JlVG1lZG56Wl9UeTIwb2FSTkI2cWlhVmpXcmttejVRLUl3UHNpN2NfNVZpcXFGa3I0NlNpcFRjVThJSy1vUEMyN2J2MnRHR0RRV2JORVFEQUNUMGRFZ0xISFZEWHY5YzNIS0xweHBlZGo5LXpKSlVxcTBVM1Z6ZTJKcWxab3VKUzZKak1BUzR3YmhHX25jZFMxUFZiMWR4ODZUSlBidw?oc=5",
+      "published_date": "2024-05-01",
+      "source": "Silver Screen and Roll",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James Declares for 2024 NBA Draft, per Report - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTHZucmZnYmo4OEFIS2M5b1p3T2gzbm1nTWFUWk0weGJtZWplalRNOHFzdHNna19yR29Nc0dlYVc0LXZzY1hoLTNLelVzWU9OVG1EZG5DVEpCTVJsMmJsaVpPUFc4WC1McUhuZE5rZUxZM1lQRkxXYzRRZUdfSUIyaTl4Y044dnFON1g5bmhjVmh2alU?oc=5",
+      "published_date": "2024-04-05",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James works out for Lakers ahead of NBA draft; other draft news, notes - NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVWhOMTUxay1HUDNnODZFaGdDV2o3MFp0ck1odEdLU2NNVnFsUi1veE5aM19QeVMtWHkyQTZfbGpqZkJCRDlTTlJOWDFqcFo4OEhvZTZmVjVzc1JZVWw2eXdKMTNDRzA0bkJDd0RkdmRTbUFwOGZhSmNDQ2dlWFlxZHBLTlR4ZTZLSFpqS3dtOWcyMUtnUjg2SkVVcUdnMjgtS3dQRC15aXcwQTVZajRj?oc=5",
+      "published_date": "2024-06-14",
+      "source": "NBC Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Rich Paul says Bronny James will not sign two-way NBA contract: 'Teams know that. I'm not doing that' - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPby1SOXQtZkhkYkktZHdvNzJGY3NWNFV0QXV4dzBzMVRwN1NPTnc0a1V3Z0ZOUFV0NUpxMUlKR284dWpJRXctOGQ5TjNSWTF6VlVBeHp3UEFhT2phdUNiQmhHYV9TcnFRT1R6QUhtZUE4UHpTUzA2bTBzT2hTMmFVU3Z6S1NEeDlGQnE1NmFaUXhaeC1qcUE5Y0JiSWYtRDlLOEFSOWhnekZBUlUydTBIWTNwdHhMek1qQk5LT0JyZ0kzRXFZallPMVY2bHZwT3JFOEE?oc=5",
+      "published_date": "2024-05-24",
+      "source": "Yahoo Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James Discussed by Execs Ahead of NBA Draft: USC Return Would Be 'Helpful' - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ05SOTBlWHJCdkxQVjFZcUN4QlFKbThaa245SVJ2MXVSbG50RHhSbzl6djR0MGVJSFBrR0ZrelZ2V0V2Tl8zTGdjeXFxeVhORG85dGtjMC1tVUFHdzlmZDB1VktSa3lGRUtTSU55RFQ2cEdmeGtQRDJHbW4yeEloeWdVeEZMdzVRbHFhRW1raUVzTFJnQmtWUjRHaGo3Z181WGpNX0lJMDZSVWR1eHI4ekFoSVk1aFpGZU9EVE1hTVg?oc=5",
+      "published_date": "2024-03-14",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James declares for NBA draft but keeps his college options open - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPXzljTDN3R2NkVmEwNXFuZGM0cnF2bTZhWmI4X1kzS09UTUNUbEFncVYtTEdoY09WdF90TnI3ZW4wbXlNdm9weUdRai1GU2NWYlh3ejlzMERmUUhBX3AwUmY1eWpjeVBpcXdWTkhLMWxhQmFBTk93YXgzTnpFX0ZORVhOQmdwTkRFbkRzUmNkUk42UQ?oc=5",
+      "published_date": "2024-04-05",
+      "source": "The Washington Post",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Should Sixers draft Bronny James to bait LeBron James away from Lakers in NBA free agency? - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVlU5SmJaRzNrZ1YtRFRkTVZTWmp3bWJpVXhZVU5zeHUtMko5TWZtSkgwbGx5YWpqV1puVFJJbVRhYzU1b0xST0hFbWxyUWdzLWFtOGVJTWF5ZGc4VC14OXc4X3lRWnk1YWhjaHB2V3p0ZHVSWTF6RUV0dTNYbWtzWlBpRTQxLW1wbklKc1BKcG9HNWRWV0J3QWVLdnJGZ9IBowFBVV95cUxONU1BR2l2TnF0Tnlta3RjNFhFZmN6YlZkcU5RU3Z3TGdIMU16ZTE4bm9FRjVsZE9aVUtpOWpMV2RJR2pSdkZqTXVaa2ZuSU55cHhZdzhOYlFrd1pCNkdMTTNCZFNkbG15QkVyVW8taVBBbzVxdDVWS1pleURINlp1MmNBXzBzSmZycUc1ejFpV1hFendlZnVEYTJ2dzVOcDNXaWlN?oc=5",
+      "published_date": "2024-05-30",
+      "source": "CBS News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James among 78 prospects invited to NBA draft combine - espn.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUnloS1lMYjRWZ3F6akZoemxZR1dwNmVtZV9oTEZ4QmpHRmRKdFhfRjhaOHBBemFSV08wbEt4eFhoeDN3Yi1ueEpYaHM3eW9WbFRoRWpZb2ZDTFowelBUV0d3Zm5MQnRhTG9ReS1Dc091eUt1RXBsM1BuOTBnc0JzNEdtSEVodkhvN3p3bU1lOUNVdzdqeEZHTjB4dDk?oc=5",
+      "published_date": "2024-05-03",
+      "source": "espn.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James is staying in the NBA draft, agent Rich Paul announces - AP News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRm5nRElDSmwzVnhIZENhVl9pT2FYanpXOTlSclI2WDYyZ0FxcGlIdWlhV3VOMHlnMk11MGZlMGh4MzRvenBNaUJ2Ry1rcDVhU2ZlTEloMkcxVkE0OHdqa1FJQzhnQW1MLXZPRW9hT2RIMW1JanVFNEtVQlpBRGxiQ0lDT2U?oc=5",
+      "published_date": "2024-05-29",
+      "source": "AP News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Rich Paul says LeBron James, Bronny aren't a package deal as NBA draft looms - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbTJQeWpzdERsMU9DeEpwNlJkTDA0SFR2QUtRQkZOdEJxT3dFa0Z4ZndNbVItOVpBV21sdzBERFVtcU9HT1VrLU1PSDZQMWMwMDEtQ1ZmaVNKMzRJS2czZG9BY0lfU1lWZHNlRENkRTZhbUUyemQzU0NiVDFNYjhSaDEya0ZsY0k1V01VSE5kZG4xbDdWTUlpckloVFdZdnZET1VONVhSNl90NW5SMk1USGhDbzQ?oc=5",
+      "published_date": "2024-06-19",
+      "source": "Yahoo Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Lakers reportedly 'very open' to idea of pairing LeBron James with Bronny - FOX Sports",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaU9QbE9xVzgyanJONjFoazZFUnV3UmZiMW16c1lsd3lWdi16TFZJV2c3TWthSldqSkM4RmdTNFJpc3lOclNoX3hiU3ZvSWVoOXZRUW9fSG12NWpleVJsdXluelkyN2RUaXRpdVB1QkRCNGJoNTB5TXNnMkZ6X2tTWUFqVDZYR0RRMDdrRE9mRkhXWW1CSXF6MlZmZ0NzYXVJNDdjY1k0alZHdW9QSVHSAa4BQVVfeXFMUGlnWlRXTjZEZ2FVWWtRUHRYVGRIaVN2NGIyeUpzWTdSRnU5bnRoNlhfYVZFSTBGeE1NUXU1UzQteEZaSEQ2S3A2MUthX3RPQW96Uk5DQXQ2UVF5dmZBbjJYaUo4OEllTzY4WlRKN2tidldGeTNQOWE3MjkzUXpqRnMwZU5qTTdCZlhyWEpVTVRmcmlfRjVkTTFuVzBwXzhQSGl3QldoaF9hek9odTVB?oc=5",
+      "published_date": "2024-04-30",
+      "source": "FOX Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "USC\u2019s Bronny James declares for NBA draft and enters transfer portal after 1 season - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNT3hvaWxlc0djLTZ0WU9RbjNYUTRheGpsaDR0Q1hhSFFtY2liVHpqR3UtX1AxRC1pRGp2MEV0cWhOR1VNZnhXRW5aUnJvSklVeHN0SF9zMVJNdzFqUzl5X2pPLWtNMUJhZ3F3bExkb25pS2lhMklGZlo3X3RVTUZ1TmRFNlNUcXMyNWc?oc=5",
+      "published_date": "2024-04-05",
+      "source": "AP News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "LeBron James takes forceful stand on son Bronny James' status in NBA mock drafts - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc2N4NWZJOEd6LUlpcHlyQXlZU0pQTXpPT1VyajZMUXVxdjVrNzhSSUI2dllzUC1VeFdmQVNZcmFyNFdxZ0Q1bWZDLWE1MDNFZi1wYnRhdzRNcDN4TXNhaTdDT3lVZndZbExsclJlSEFwZE92RnNQbkszaHRFYmtWWFNaTXVFUFk0SlVNU3V1QnNXeTVyM0xrS0FYd1huenkyZzRRNmxtNTZjVGJPdnZNT0F5YVJKX1dFcWhVYURmZE9mQzg?oc=5",
+      "published_date": "2024-02-27",
+      "source": "USA Today",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "5 Realistic NBA Player Comps for Bronny James - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNGJhbkRpTG9jU2NhWHgydHVGaFA0T1dob3B6U1VpSUg4eDJDbXd0d0dzY0pWS3ZkMGRaNnJjd2RzcmpMLUFyMzVocTNYcFI5RzVNcVRjT21yb29nbElvWW02SktIbzRYS0pydUwwWXZEVG5PRWtxS25zLTQxd192VzVtUHg0RHRxSnNOSmdTTlY0a2wt?oc=5",
+      "published_date": "2024-05-17",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James' NBA upside unclear despite 'likely' draft entrance: 'Doesn't look like a one-and-done' - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb0F4bXFIaUowejNLdGUzbjBWNTBuMUR5SnN2empoOXh5X2UzQTBKM2tyR2trc3BrUDNTSUQ5Skk0bklIeTl6eHAyUzRXZzFZS1paaHhEVHZ5REJYOFl3NTJJcXZXcEtzNWpLYU5hY29FWDZsZ2dhM2ROdkx0cmd3aEh2YkhoTjVJelA3VXkxQURWWWlQUkRpOHpZR1FDVUVQWGpOTkp1SklsRnRlMTdpTDZRVG1FZnI3MzhuMk5oNTNJM0hwOGV1V1ZNZlhVNjQ?oc=5",
+      "published_date": "2024-02-23",
+      "source": "247Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James, son of LeBron James, declares for 2024 NBA draft - CNN",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1odzRYNFlwWWp6bDc2TURtZDQ5X0ZBaVpyOFN6aVFOSVFVUi1TY1JFdzJLcm91X1BEUlQtRmtYX3F4aUo4cTRVZ1d2aHR0ZlF4UVhZZnQ5SG9VU3R2Y2h1bkFiZVRYNFZObHBNNWR3TnRsdnFkNnZN?oc=5",
+      "published_date": "2024-04-05",
+      "source": "CNN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "USC coach: Bronny James 'still getting back into basketball shape' - espn.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSmhtTldiMnVHR1didzUwdmNyQnU3OElRZ2pqcTdIMnlJUHpUWmJOZTJ6b1hXYjM5Vkx2dmJfajRMZ0dLYTZmUnhFNEFsUXNndEU5ZldERzZZVm8yTi0yMmdGZy1mbmRJOWc5ZDN2NnlSWlpYSFFpMFZYTnhGd2VvZ2JkTWdoTVpEaDR4NHNFaHFjWDVza1c2RnNicE9rUDdQU2NUZ2FVWWctdHFDdHVsRGpvZjJlNTBuWnBoQXFBRlU0MGRzTGl3cEJxODJmSUh2aFNYZUJDTVo5WnZBblV5QVU5Zw?oc=5",
+      "published_date": "2023-12-29",
+      "source": "espn.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "USC's Bronny James entering NBA draft, transfer portal - ABC7 Chicago",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxdHhGZ1pGdi11aTI1SnJhZUc5V2FWa2xRR0RsdE9sRDI5SHJtR1lSUUY2Q0ZlRl9BeEZZazAwdkNPX2NmWUduTnE5TEtkM0JBbkxkVEFMdFZ0aFpacmdLelZBNjlmNjNkWlZaVVlGU0dMc005SXVkYmdoMA?oc=5",
+      "published_date": "2024-04-05",
+      "source": "ABC7 Chicago",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James shows off his favorite sneakers and shares his thoughts on the NBA draft - latimes.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTzJ0eU1DUURIYXFXaDJlS09kS2dJTENNd3ZmcXZHMHlQUFktMGVnZnRaTjNSa2pFU1JLanhYWklKdFM4Y3NSWVhfcXVHQi1uU3pQMEJ3UlhWV1p4bF93UGRUUUl6UEpnazg1N2FwRDhHSUU1M0ctUGZvaUx2b0JZdzAzek1lZFloaS1Ed1dESk54UDZSRVc5dw?oc=5",
+      "published_date": "2024-06-25",
+      "source": "latimes.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2024 NBA Draft scouting report: Bronny James - FanSided",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12dEFGVWNPemZ6TFU5Ujc1Njh6ZUs5WFEwWHdnVDRtd0xKSEpTNS1IVUNTRHZGdWdsQllRN281ZG5TQ2hEWEhaLWp5YThmMjFJX0wtNTFWX0xCOEsxMUVTX2p3TFJPdHJrOVBjT3FMUkk3bzI4aUpuQVJR?oc=5",
+      "published_date": "2024-04-05",
+      "source": "FanSided",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "USC's Bronny James entering NBA draft, transfer portal - ABC7 Los Angeles",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HcVRpMXhCVWZxMTk5ZERRV0tIM0dLendRZE85RTY3MFdOLU1UVllOaFZFN2pSNWRTOGNWZXhPNGR2XzVmWmNnLTBsM3VWMTdUTXlFLTd4LTVqbFV0cTh0RFdiSTVfU0xHNW93WHB6VkhoQQ?oc=5",
+      "published_date": "2024-04-05",
+      "source": "ABC7 Los Angeles",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Agent says Bronny James staying in NBA draft: 'Lakers need to look at Bronny like everyone else' - latimes.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb3lQVFVIakwtUDZ3MDJTaXlIaUEzWWpGUzdtTU8tcDNFbjF2a2xwTUNRZWh2azUwSmFndVdwR1A2M250X25wY1loRjBnNHRkbjBxZ3gwYWVoZ3lSb09TWUhrS3lRYlBReVZIckV2akx6bVY1V1E3YmZNdjdwTnZuNGV5bXlfU0FEVGVEQ1BB?oc=5",
+      "published_date": "2024-05-29",
+      "source": "latimes.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "LeBron James to Phoenix Suns? Speculation swirls after Bronny James workout report - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS0FhWUYyQzZ6QW55STJXZkpmczNfUXBDYUJFbGxfdllsWVBSc2E0RXFmTTZCZEctZ01kUzluRlhfVU41U1owd1lrUGlCbUpJTFFGRUcxaWhELWpzMTlEd0YtdnZ3MlFtNHd1cHkySkIwVDNEQkJNbFl6X0JtU2NTdW1wUQ?oc=5",
+      "published_date": "2024-05-29",
+      "source": "Yahoo Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James' agent confirms he will remain in NBA draft - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb19kejdORkJHNXBvTWhJdk03aG15YU92ZThoQWVNeVUwSGpyVDVrdXVYYmVIRzJrbWNRMlBDYk5xRVgyMGc0czc0WUhTOW1kcWxsbXhPSS1LT2lxcElSYUNDNXI1S1ZIY0gzT1IxZXBvb3o4V21nX3dLRnRqYXRBZHRHQVV1dUpIdWUtMWN5bjY3MExuRFdjSkJMbTFmV082bEN3Vml3?oc=5",
+      "published_date": "2024-05-29",
+      "source": "NBC News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "LeBron James reportedly won't leave Lakers to join Bronny with another NBA team - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkFhWFhEQm1lWlJRYU52UVBZS180dEZSSEFnaWhXcHp2VzNHYnlNUVd2NEo2UnVwdXhiRFRPSkxpeHNGUjhpN1d4QnZLY1VfQmZVaGZoX0NCZ3JfamNWNmdoN1A5YlhxMERKdlR2VWVLN2ZrSGFBTWtVTnQ4b1J1WElraUpMd25TblkyMlp6aGRqdG5VQ1JFeTM1TFR2U2FRakd1TldveWo4RE5iaXBrZ3pfR1dNVnBHaGc?oc=5",
+      "published_date": "2024-05-17",
+      "source": "Yahoo Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "USC's Bronny James entering NBA draft, transfer portal - 6abc Philadelphia",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56ZFc3cHVyTEYteXIyUEZIQ2hBclJQQzNORzVHcndwc0JXZWFXYmJUd2o4XzM5NU9IQUdza0NmSkdUUGQ0T1Z2Z2hmdEZRQl9saHRVV1JPZm4xUHVHeXJjVnJnaG8tWkd1aHZRbS0yS0xJZw?oc=5",
+      "published_date": "2024-04-05",
+      "source": "6abc Philadelphia",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James medically cleared to play in NBA, sources say - espn.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeEhxTEl5NGJRSTUzQUlIT2dnTFFiV05SX2lOWHgxZmQ0bmpYX0JzRy1aTFNiUkJ4WkVTLWlUSldReklkVldtRWVOYXcyeW1LclJJNzIwZXJ3aEd6anBZMlROLVdWWVlTTG9Vb2hVMTR1N1VaU25RMUd0RmtEVndrVjllZDJTZ1pLRmZYUElEZlFnMTQzb3hZTzZRcEE?oc=5",
+      "published_date": "2024-05-13",
+      "source": "espn.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "What to know about Oregon Ducks men's basketball's matchup with USC Trojans - The Register-Guard",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOEh5dU9wU1dLVW9iQ2RiZk9UV21COWlMT1l5bUJvcy1NdDhJSldzTnVkdHAxckVUQjJGQzlYWGFoNE55ZXNyOGVndS1iSnloQXBOM0RGQzMzMHpmTTNHb3JVS2VfSVRtSENOME9xX1FySktIUm1mbkVScTBaRDB2SzFibzY1QVZGLXZXa2pBalpLY0IzUXYwaERTNWpDWlRnaGNfVEFOWlRvalFtNGpOXzN0RG9QMjFkMExFRXR2akVHNTE3Q2xaR0N2Y0dpajVRZm9QMk9PUGlSb1J0S05kb2pGMmhxVzc5Y2gwTW16bw?oc=5",
+      "published_date": "2023-12-29",
+      "source": "The Register-Guard",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James turns heads at NBA combine amid reports he's staying in draft - FOX Sports",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNTQ4d2Y1Qm03UTVaNzNYcXhVemR4OVBmQnp4Y212bmUxOUZUdDBMNEdiSV9wZ2Fkd1dWS3ZxbDJCZmN0R3p0MXFmU0RzQTNDbC1KRDRUTjJRWUtBd25GZ25NUUg3ZmFiZjFVcjNlTWZwYXZDMFVWVE5pZkl4V05DOGVxc3RYZEZVV3ZDSDdydEFTWUEyY0dNYUlua25EUzMtcHlqa050THNCMnBWVVg5VNIBsAFBVV95cUxQNWpwajFyQkpRaHY0a0VmZ2FrWXNXZFNSVi1WUE14U3Y3RkRDN2pWTFYyLWtlQnd0UHVQdmpYY1IxdXBNeFd5TTIyTm93UDFERk5iZFM1WWYzVFFwLUdUazM1U0xFa1M3UjAwZkNESXQ3QlR1Z2t1VE10MFg2U1BKcHdIRkdlbTA5QWtYU0xUVjk0cHFIOWVEbGpfdkphYXRPSVZObkV1Qjl5dEJ0bzBjcQ?oc=5",
+      "published_date": "2024-05-30",
+      "source": "FOX Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "5 Teams Desperate Enough to Reach for Bronny James in the 2024 NBA Draft - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcU01alc4V09EMTNCUW9VbUs4OWJ2endXT2g3OU90WUtJQWxMWGFMSG1YejI2U0ZrX0pnTGUyWFNtY0dVZmhSWHRLMVR2U0w0bHVpTGUtbnRncXowY0JZZEJZaHdncmYxVE9DeTlSQmdUWWJqMmVzczFmM2E0WnBIQXE0bU9nMGFOaEFqaTMzRE1GUWdDUGdLdk02VlBwYjNwUl9OUWhlSGRHRjBVelVhN3Y4UlN1V3dr?oc=5",
+      "published_date": "2024-06-14",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "What we learned \u2014 and didn\u2019t \u2014 about Bronny James on Day 1 of the NBA Draft Combine - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTzlsR29wNlB4QVFSd2xHUDlIa1JSZ2hOSU1pLUNCaHR5enBpeEZWT2d1bThiSHhCMDBKLVlFUF9Pd2R2STVqTXlEalpXV055Z1poc1o1bUJVSVZza1h5QmNTbVdOaWpDaU5oUmE4RUtCSk1IRi1KWlpqVDIxTXdMUXE5VGtNTVJkcm93c0p4R01mWGRPNEltSmxFTENqQQ?oc=5",
+      "published_date": "2024-05-14",
+      "source": "The New York Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James in stable condition after suffering cardiac arrest at USC practice, spokesman says - WHYY",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRHUzUE9RNzZxalpzR2VrWHNQWjN6eVFlQXlCdERZaXVpb0Q4NTJqeFgxWTBmZW0tMzhoSXc1T1pVdHJTdVpKWHlLMi1oM3BxWE1CbHVjNE9uSWxNTVZXby1tdHU2R1RFVWRQN0xjbXpIOEJiNldmNTBuVmg1U21YMnEwODQ1MUs3bmZLS241V0lqU1VhekRtQVEwMmg5S29KSHB3?oc=5",
+      "published_date": "2023-07-25",
+      "source": "WHYY",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James\u2019 USC performance shows he\u2019s not ready for the NBA. And that\u2019s OK - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcy1hRk9Bb1JQNzFDcGw4cHp5Qnc0dXlET1JUc2dMdWNQRWttTjJlSmdXR2tSdXN4ckpKOXZZd00wT3E4Ujgwa3BLZ3R2YThSS0stWHZaZFBBTjVQTlhlWmVyNW5sRmVOX1BjZXRmZnhCZ2Y0X2xqNVpwSk5Oay15SzJUOW81NDQ3VWUzakVwNU1VSTNPR3B6Sw?oc=5",
+      "published_date": "2024-02-18",
+      "source": "The New York Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James expected to consider transfer to Duquesne if he returns to college basketball - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNalgtb1FXcHJ0NWNMaDRGemhnT3IxZDFzaEE2Q1owNU45MG9aUlRDRGJmUGlTZEFrNU5lZFljRW1VcHYwb2RBbWdfMEpLbGdlWnBaeGY4c2NtWXBfMHRxa3NybldHNndiQ25LUlQyV2ZTRkQzQ2wzTW5aYUNub0R5R0NQZ3NuM3pGeWMzcGo4NUFHbTd1bDJTS1hyOHYxeEIyZFhLQS14c205UWNIaGwya1JRZjbSAboBQVVfeXFMTkZpVGJFMnZuTE9ieWN4MWc4M2NiM1RJOFhzeThhNW55dUoxTEE2N2tMQ0FfSEdmRjFLZUNiZGktYmhCRlNmSmtXb0lOVWtTaGV3Z3lNOXVSUkdzNzlzTmNDMmF3al83Wkg3QmpmVjhnRVBfcWNsSlpKckszQXpwLWpPbVFZT0FUZ0J0QUdseG45NkxGaGo3THEwcTJRSVRyVUJrQWdWMzNvdWhrZjJSdUpPVmZ4X3FNR3dR?oc=5",
+      "published_date": "2024-04-05",
+      "source": "CBS News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James NBA Combine 2024: Measurements, Analysis and Impressions - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb0l0QktGT2FpMGgzV2s0MEdrb29VOFU3Y0FXUjFKUEtrWkhzMzJSX0cxd3RQNTlmUVRJVWpmdjJ0OHR1eUZRSV80WFF5VGpWS01pejQ3dmpYSS04WE4wS08xNkE5RE1wLW1Sb0YwQm5lMWV3RVRBN09LdmtHXzZRSDhDdG42ZS1ZeFBnclNrTzdYa1VmZHQ0NUl3M1ZPSm42ZllkMnVjNFBtSlRzVVpKc3Vn?oc=5",
+      "published_date": "2024-05-13",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "USC\u2019s Bronny James, LeBron\u2019s son, declares for NBA draft and enters transfer portal - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN1ZGcHBSQWxkajlKUE9tanRCUW1MVzN6Y1p3VUVIdlNUWkVmX0dqVnRmSGVCUGdJSG4ySUd3WXlYZUF6M3V6bzR0YmxfeFE2aXF0MERZVXVRZEpKOFE1R0lnMmgwMlk1eEFpX2lLMll6b1M3WFYxNzVSbUl5UWNaNEhCQ24yS0xRVGV3Mw?oc=5",
+      "published_date": "2024-04-05",
+      "source": "The Guardian",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James Declares for the 2024 NBA Draft After 1 Season of College Basketball: 'Always Thankful' - People.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FMklyemk2NENSOFpGUWFEZ0JlamNEUlJCWTRfMFhuX2lfcno1TTVxcFR6TGo3V3RKOXNSUDFnT2JCRkZ1czJPeWlRY3pVNHR3NlVhUTlDdm1TVEZyN0pWTkhSbUNpNlBhYVdNaVU3aFQ?oc=5",
+      "published_date": "2024-04-05",
+      "source": "People.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James declares for 2024 NBA Draft, enters transfer portal - The Athletic - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRmc5V1E0X21UU1hnLWU5Ump1WURCa1Y5amhSOE5tYWowcEE2bVVRZVBMUFJGT2lBRDdhZGN5bEQ4WjNxdnRBdWYtODQ5NzNEUlA2d3NUZTh6RURUbmh2S0dHTjhORkRLV3J4TzdYSFpHel93VUJ3OFRtUXZjeUtwYmpwb3V3SkV5QzJtZ3BBTTJqQXBOeWY0VW50UHhJZDFFeERMc3p3?oc=5",
+      "published_date": "2024-05-24",
+      "source": "The New York Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "The Wait and Weight for Bronny James - theringer.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1BUGFaclZjelFRVVk4dGFMRF9rbnlyOG5yRmpHZE42dDFaVnNhbDYya2pnMjlyaXpkWEU4V0NpS2xrbWtUS2RJZ2ladEJrNzRfVVhQR0lhQWM0NW93bXM4UnUtNkVIbzhUVnc0ODBjbnBmZ3J6eHM5S0tYN1lTdw?oc=5",
+      "published_date": "2024-03-06",
+      "source": "theringer.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "How Bronny James changed his odds at the Combine: Will he stay at the NBA Draft? - MARCA",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWNscDFIYnVad1NCdFdGUTh0ME5WQVc4MW1DSXBnUDBLVVZudWluTG5CVkVSUERpUjhnUXAtV3dRUXl1OFhiRDY4dFJsMDFwRGRPUzB2aEp0aWtJY0wwcHoyX1VuZTVJQ2dkMFloRUQ0NDVmVnZLYVhvNV9hSmIxQkJPY3l6R0HSAYcBQVVfeXFMTWdRMmZFVVpqUjhDUlBaRzJEcVA4NmkxTTQ2ZnBmTjZ5RVAxUFV5Y2tua2gzNExKRGw0X2lUTU1LdWF3S0RHSWxhQk5iN3ZUMFlTNHdXMV9iOVVtb0kzb3RaQ2lTRG5aQ3VXa1k4Rm5rQldObTZjdFFWU3ZwUGtQZmtoX19uS1Q0?oc=5",
+      "published_date": "2024-05-15",
+      "source": "MARCA",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James Declares for NBA Draft and Enters Transfer Portal - Front Office Sports",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KMTBTYTJ1ZlRrbnc2M2FCYWNBUzhYeEZHdEhld3FGRS14a2lxRElYU2t3dDVycDI5SDdid3R5VUs2ZElnemE1VVpWYXZ0SVBXMHZ3OGE0eGd0RkVpNnJqdjRPRHE4VTdLNTBOTlhHUkNmVkk?oc=5",
+      "published_date": "2024-04-05",
+      "source": "Front Office Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Agent Rich Paul: Bronny James, LeBron aren't package deal to Lakers, Suns - FOX Sports",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcDFVdG9SMlZFeG9zQlM0RzdJVGVXTVVvY3NVUUcyVEhoRldaRDY3Z01Oc1d6a0dtTXFyQkVlNkM2eGdKejV3N2liOWpZUWUwRm1HVGx4cFliVHZnSFlNUGtncVEzdVNNTlBfRXJDXzZSeVVyODI3MWhnQUFGNnc3TTZad3d0OUxVYnkxVWJfc3R5a28wVDRhazM4eGZKVnhab3Bfc2FnQdIBpwFBVV95cUxQUXNLZWp6S1RKV1p2N2U4OVJ1ckREWXJxYk5xbFIwX3E4MzRrUmhad1ItU2wzYkRmRng1NHVBUmZHSkhtYlNMaEw2QWNQM3lmNXV2WFhTRGpGSVFIWXdDalh4blpDeU82ZVRLckEya2pUZzlYeWtaYnNhenRnNW1RcDFTOHNZbEtqWkFnRHYwZkN4OEFWeTNqUDQ0T2RhOVBzcmstbFVnZw?oc=5",
+      "published_date": "2024-06-19",
+      "source": "FOX Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Ohio State recruiting target Bronny James will reportedly stay in the NBA draft - The Columbus Dispatch",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZHBXaW5KSVFXclRTMWpHZnVtNTlKX1ZvbHVaWkdKUmVHU2JWNWJxUHNmUzMzbWFsY1NPOEJIQlJGams0MEwxdHhHU09TVUdIbGVBS3NKcFVmMzZ5bjREQlY5MjZsSWpjM19McV92UU00aUk2MUpGN3ROOVFEdHNWakFRdEpZM1FPZlhyd0tXNGt5Q0ltcDdTVWVUZl9oQUxaQXc3Rm5FdVpLRXNYamR6LWV5ZHBISnlIdXRsTnEyR0Q0MndFRGVTZXl3SXhDZFI0YU9iLTc4NFlHeXV4MklB?oc=5",
+      "published_date": "2024-05-13",
+      "source": "The Columbus Dispatch",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James' NBA future: Should he declare this year or is it best to wait? - FOX Sports",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMXZveGRjV3FPdXhCRmUzSEc0a21tNGhUS2MwV0ZfSlhnLV9rWTI1LXFTazJEMlBqMnFWMExWMk5xRFVJTnNKMWhLaXRoU0ZPQXJDWFVOS0dKZHVzX19IVHNUemtORkV6ZjZmUGJIcXlRZkd2OGMyX1FneEh0Rmp2ZEJzbzA2YW5yRnBpSVgtMWhSZjVxOUtlYk5NSHZZTlZwanNjRVlvQTdaZXhhX0dGYtIBsAFBVV95cUxOdmhhcVNtMnRMQzU0OG5xX09hNVQzaWpDMUkyZ19WUW9xVTV2U1NveUxmOWZOLVh2ZHRpME8yZkFKcFQwSUFLM29aaG93RGdPUFktdXhrMlZDQk9CWEltd0ZiZnRTSmxxY2lNNF96TG5MbWd1RTA3enFsQ2dwU3IzNDFXOG1zb29Gc0NrcVRpN3JzTUwzWVd1eVB4T19ta0xESjg4ODlYbzBtV1VMYWxISA?oc=5",
+      "published_date": "2024-04-05",
+      "source": "FOX Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James worked out only for Lakers, Suns, but won't be part of deal with LeBron, agent says - latimes.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQVF0NlZvSGNKQno2TS10RWRWa0JlLS1kVDhYWnJkbjJ6S2F0MHRhUGNFV19hWnpya3dzN2tuSHBhZGNQeFVhMEVaVVJXWmNlazhrcnlCbWp1SWZQa05Hc1BtdU84b0ZtT3pfdENxVjZsNDVrS1hoMHdjRmZPcmUwUXZPdklqb0ZVMzN1Nmgzb044UUpX?oc=5",
+      "published_date": "2024-06-19",
+      "source": "latimes.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James reportedly recovering from cardiac arrest, experts available for comment - www.heart.org",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaXowdmo5YXM0d21jMklGaTRRaVh3Y3FTdDBXNTR2Mk85SGJ1VmlJR19MNm5NQzFVb25FMUtHQkY4WGoyWkRiaFo5T0l1UHBLSnBCU0U4aXlrRXdpQ2F0YndjN0FCYnhwM3hYSTZoTHlEQktXZnhrWkc4Y0UtUzNrQl9JajV4Y3p3R2MzcmZEbXJDSDFCbTFVbzVhaEc5YjlYSjEyUVVDM3FKcmJ6b21udWdPa054Y2s?oc=5",
+      "published_date": "2023-07-25",
+      "source": "www.heart.org",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James enters transfer portal: Potential landing spots for LeBron James' son as he considers NBA Draft - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNXpiN1BFZ1o3aFVsV3luQzBzY3hqQUxKZU1NSmV6TW9RSjRDdlFOZi1IYlJuOXJtT2JoNDZBTUo1UmZKN3lwWEJGbXVOYU1VS2pkWEVxMWtWQThKdWx3cm5oTHVRbTg3UnR6cTNQaDRvbmVoeFNHUEpoQzlWZTE2Q3JiX0hWbFJ0Q180V1dCSWJrOHVhWGF5elNaa1hLZUp3alhTSFJBMjNXMFYyd0ZNQkp1Rm4zR3BHQlZYV2o0UmRsRV9IZ1gtQjNlUllxN2w2WG9JcE9JWm01RGpFMVpRTGpsUTU3QnBZbXZHMG9R?oc=5",
+      "published_date": "2024-04-05",
+      "source": "CBS Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James not thinking of playing with his dad, he\u2019d be happy getting to NBA - latimes.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc0FPUTZmZ1BvTEp3WXFfTVZMWXppUXZtVWxzYUkzeGZhTkFBUHA0aGJiVEx4NWdfZ2NlNm00NFhqZ1Fac1haSm1xMUFlWVMxSXdpbkxSdFFxc2tjTUQxR01BV0d2enMtNHNrUzVtRmoyTU5RcTdVU3NOZk5GM0VuSkVWbmd1NGFEdVoyUkQ1OVZwb2lxTFRvMDNIYUNJM2c?oc=5",
+      "published_date": "2024-05-14",
+      "source": "latimes.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James\u2014Lebron James' Son\u2014Entering NBA Draft And College Transfer Portal - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZlRET1VLODVDNUwtdUp3NV9WX01LT2lLOUhBQ2JTZGtwRFluS1J1aVlNVUhGekF3ZW1lLWhxX29oTEhkemxVRVNETGZIOFhJSV9wTkZ4dDQwbFRjRXlHaFZ0Y1I3UG1BMnhTYjFFRXZfOWh6WURFTTRubF9RVUhDV19YOHdOdFEtaGVyd0RNcFprUVpoQTMwdWJBbU5nR0U2dmxsa0xBZE9sYWpBbEtnN0huMVUxamQ0OWV4M2dPdmI0WDZ1SVE?oc=5",
+      "published_date": "2024-04-05",
+      "source": "Forbes",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "LeBron James reacts after son Bronny falls out of 2024 NBA mock draft - NBC Los Angeles",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOFlJVU1rMlhTRjFzYkQxdjZTUHFKUmtqVU9QVjdKR1l3VjZRcVMycjRfVUJtY05Mamc2QUpIRnJqbVplcDdIZVFkRktEZWRMcU0yY3lFOFdqVG5kWW5tTmdTaVluVTlQcHhxRTh5Z0xLcHpvalBlOE1LZG9aRHNzY0dQRmpLZGZVcXFB0gGTAUFVX3lxTE9kUWdNaXp3STdaTmVFcG9VeE5RQWFFTDBXTEt2V1ZpWkZaVXBiOHpyakQtTE9kTUFEaGFkZFZteXF4TkRNZGgxZFBHQVZrUy1DdHZQSDdFek0yX2xFRmV3SV9Bck4xcXExbzI1eHdjUzlWVmpLN3o1X2FzMXhfUzZMWGNGLWVlWnJWdWFQYmdXQTVCRQ?oc=5",
+      "published_date": "2024-02-26",
+      "source": "NBC Los Angeles",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "USC Basketball: Ryen Russillo Reacts To Changing NBA Draft Assessment Of Bronny James - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdjJkNUlkQjhpYTdZYndhQzBrSUgxUFRFQTVINnZsTzdSLXE3WEVFTzd3XzhsZzQtQW9Kcnh2QzdpbEw1eHBaakdxVDVVRjg1eXUzdl9DcGFSNU8xbXM4MzFNaktqd0VhRWxWNFREWDFYZEpmUUpFQ1dLdnVodmgtb19pUy04cThrZUxNVjY5NVlXUXpsbHdmbXVLTDJLbUIxUVRGSTJrOTVmaERxbUZ1QzNtS2ZTcFUydzZiSEYtU1ZQaGN0cnY0LWUzRDlIQQ?oc=5",
+      "published_date": "2024-03-09",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Don\u2019t feel bad for Bronny James, or root against him because of LeBron - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWWdBVmpuaVVuLW03V3RSSTB4amJpUnNOWkxaM1l1S0hKdGZFNUJvbDJMdm5hQWo5T2tVVnFqRi1YTE1jOHVlY3o5eWdZUG1qVzJySG8yaDlLRnNLMEVkd2dGcEx3d294LVlwY3ZZVk5NbWluX1V2QlE0a0NsWlBoOVFUSllZbTQ4dm9yRndtWEJEVVVE?oc=5",
+      "published_date": "2024-01-18",
+      "source": "The New York Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James is staying in the NBA draft, agent Rich Paul announces - Spectrum News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSm5XYnVJZ0Ryb0Q4cF90WEt1MHNleWNfbkVTb1VYd0NtZHVzaDlXQXRYazhVRmlWX3ZXZmxRelBpT1NmaDVBQVptN0dtQ2lTNHlKbnJ2Z2RWTjBDR0xOUzVYTE5ISjB6MHR2bFBJSnJORnIxeXF0eVBzMElVaEVzVHBzOVZSN0tGTDJ1NmFLTzY4VmRiM3pCZHJHMnJCQW1uRHpjYnF3X003WXMxTk9XXy1DVmtKamREVWl3eG94amY5clpQd1ZCeA?oc=5",
+      "published_date": "2024-05-29",
+      "source": "Spectrum News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James\u2019 strong second half helps USC defeat Alabama State - latimes.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWWxySFhiVlNMVGdzbmdIMlZ3MVlya1JpSHRtc1B6aC01MFRJd3djaDFMV1JybGc3Xy1kYUxZc0laME9Jak5PMXNtRnMweUtUR3lDcm0wQkF1bno0TnRFYXNSY2QySXJNNUwyMk5KS292Y1N6X0pIMWFFWjdMM05NVGlkcDRXVFNRd2RPMnFQeU5ZYUU?oc=5",
+      "published_date": "2023-12-19",
+      "source": "latimes.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James, son of LeBron, to enter 2024 NBA draft - olympics.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80SlRsZm9ZeGdBYW5iOHQ2UzNhRVJXY2p4a1VEOEwtVS1xeDJIOE9IeXpMMjM4M1pRVEpGV3gtOW9uQTN4VERucVVtZ3ZHbWl5VGE5RkdCbmlFQXlreGxrZkhVbWRkMHZHNUVwbXNlQ3J1OG0w?oc=5",
+      "published_date": "2024-04-06",
+      "source": "olympics.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James says he's 'grateful' to have NBA dream in reach after health scare last summer - AP News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVndtQ0NHTkRINGMxeGtaVXAtMWZyOHdhcENDWUd6eUstTDFScTN4SGU4d09ZSzhDRUNsNHdKYklJVjVGeFByVFZkZGFfTzY4LTIwbXZhZXhGdkVrWjhpd2FwNWpTM01OSzBMUUpEcFVPZllpZlJ1RnEtZHItUFV2eVhlSQ?oc=5",
+      "published_date": "2024-05-14",
+      "source": "AP News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James Scouting Report - edemirnba.substack.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sbGVod1U4akFGdk8tcVd1SkktNGdueVhLemFzOVR3WGFnbUw4eGZMdmRmTUhQczF4VmR2RkhUdFlaeG45ZnFKWm5SREdqZ2d0N3RHTlBvbU1UclF2X2pjdUFiWF9wV0VMalJOOC13?oc=5",
+      "published_date": "2024-05-30",
+      "source": "edemirnba.substack.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "LeBron James signs with Fanatics, debuts new trading card with son Bronny - FOX Sports",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcTRSQTJpMDh4WFJlZjVCNTFLa1dONjR0U2xsbW9MT0lKS3hvZFVtSnBCaGdJUEpNTzkyZ3FjZ3lnMDdYSm90alJrNFJLT2plcWVvMWM3di16aTVBS3hEaXU5XzBlbXh3eERPOTFjX1VsaEhHNGZBNjdtVl82Mm1aSFRzNTZ1bWZ6TzhJY282UjYtdnRfdWhfcTViVnlvYXJCLUJKY19DbUh2SERrOVJPYkFmNDhVNDdFdXNfbG9XbndkU3lQ0gHEAUFVX3lxTFB1S2J4Y1BZMWhjSUFBYkFSdlhhZHY0eU16MmNvWlJNRmFRZHpNNXJOLWlKeDlKMUgwUUVtLXZlM1hsUkNxbmZjQl84WkNVYk5GcTQwdGVQNVhzZks3ZlFqX3lzRTJNY0pvWFZwcFhjT2VDclBpNERERUVGUnNjNmVLeXdHQ2NIYzJBVUUwejBIZHR2dzl6bkdibGZWQk9IcTFNa1RNTzJEYlpsNnR6N2dXbXdqUmNIbDFtZjhVc09xdFN1dGg?oc=5",
+      "published_date": "2024-01-10",
+      "source": "FOX Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Is the pressure placed on Bronny James all LeBron\u2019s fault? Well, it\u2019s complicated. - Andscape",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13ZldfUUZEN2M3RVZOSEkwTFM1YV9rWE1wQXZ1aFZUWUJ3a0VQX2dKaFliLUVBc004QW1RTnhPQVNJVTNEMDVkcl9TZnRtVkFTNXliWjFmakpfTS0zYWZrT0hXbzVXNXpUQ1NuTlV1bjM4Um8?oc=5",
+      "published_date": "2024-02-29",
+      "source": "Andscape",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Photos: Bronny James starring at Sierra Canyon during his high school playing days - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaVdJYTZuT3luVEIyTzBXZTFvWmp3bElnWVRGVUEydnMyR2dRbVNNQ09QWElpNzZDYzFFN3VjZGoxNkJFQWhmMlZtbXF0bnZrc3ZWdVBhVEdXVkNfY2M1REhxZWNJY0lpN1VxNjU5XzBfdGNfaU14alBKM0lmVXVIYy1tVjhuNkFsLTFjOGFId1M0SDRxX1pDNDBraUtPYXBNTUgxeUw2MXMzQTUxWHZobF8xM1RiVkxiWTk1bEl6bGM0LU5JQUdOMkpSV0VoSGVZakktUXg4TFhoRHZzdnFj?oc=5",
+      "published_date": "2024-06-25",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James on playing basketball as LeBron's son: 'A lot of criticism gets thrown my way' - FOX Sports",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeHRwVUh5dElCSTRNY250bVlaZElwc21jS2VybVJ0dzBtTWFVb1hWcXBQTjR5RDhSWjNpd0VXN2M0NmZURFV1LTZZUHp0YVAzNTFFNEozcjNqRWV5ZEdjZjFCWi0yUzQ2UVc5dEtEZWZfWEhCMHlzVDUtN196RzQ4NW12SkhXVTEwUF8xUnBZNnN6NmlmeEpBUGl5Q0U3LXE0cUdQYUhidGZrVDhQNDRRS2QzeS1IQ1VqRjVZdGlkdHdaQ0HSAcMBQVVfeXFMTmx1Nko1QWJvNVlETFpKVXpvYVFzR2lyNDl0SV9zc2R5ZGFIdExzUi1UeFB6dWFsZm92LUF4eGpYMTkzZW9Eb3FOMU93eS1VdlNsQjdlYjk4VkljeEt6VmJtNWlZQ013T2l4YTdVcjRIV19ZMEoyLUJCVU1pRkp2ak14aWtBd01RNkR1dTFCbXVhX05zcHVlYjY1bHY0RTlGbEZYSHdhbDY0Zy1rLVMtRF84a1I2MXYxQUNRWF9JbjlBZ1Nr?oc=5",
+      "published_date": "2024-05-21",
+      "source": "FOX Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "The Timberwolves should panic about the Nuggets. Plus, Bronny James\u2019 NBA Draft update - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR25ZVU1Nd1kweFkwbTU0LXFJVDBNLS1JOUhoRFV1MWluQXFXdkZGTDNtbmloRXVUbHhnSTdNVVFORFlZUF8tUjN5d2hqMDVYUHVXNE1sMVM0MXFqR1BBNS1fWlJka2poeG96ODNyRVhQVXByZV8wcVEyUDNkQXhacVp1MGJpTUo4RGdiMllUTWRnNHRldTJ1d1FkTWlzbWlPUHRfeFRrcjB6Tnk5SUhDX2NHc21JQW15bl80YXFBUDI?oc=5",
+      "published_date": "2024-05-13",
+      "source": "The New York Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "LeBron James rips Bronny NBA mock draft talk: \u2018Let the kid be a kid\u2019 - nypost.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNGxGUUVlb28yQ3hGb1o2UTdQbExGaHh5Vy1vUzBwWEhmUS0tTHJKT293VWVrX3hDcEJfZTZvMUo2Z2ppam5waHBwb1RWS2Nma2d3X3hjQ000d3RWdEZjRF9EVUU2NERaS0hvZ0dWOTVWdHMzVEYwamRwbGxJdTIwc0hnX1QzMmJvZlQxNVRKSHN4TFliTWpMNnBxZmlSekwzTFRoRTd3?oc=5",
+      "published_date": "2024-02-26",
+      "source": "nypost.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James declares for NBA draft while keeping options open - Axios",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WWGc2NmNfc1FhdmdFekhvMmxoWnV6SmJ0OWtqOElST05TM2pRMGFmam5qN1pUYUVuYU9FenMxMVJkbFFNOVFhWFlVb0tEMUpXVUZFYlh3M3Y4a3lSanVHOVdPVUZPSllUWHlSbnc0aVFmTkxjY1E?oc=5",
+      "published_date": "2024-04-05",
+      "source": "Axios",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bronny James, Son Of LeBron, Has Los Angeles Lakers Workout As NBA Draft Looms - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd0E2RFI0bVdDdExiX0cxOTItaVBUSk5MeDR6Z0xRWVNXbkpNa3F0VVNSSGFNVlBqdjFuRFhzVHlHUFZNNXdsU2R0dy1US3FKREJSNHE0M2RjUHdzcmtoQ3RYZ2w3cnAzbG1FVDJFbHRFSzg5c0VMQmhTSXU5QjRQT21COEQxSE9jU3UtNXJzYW5uV0VndWZmWW13d0xKdw?oc=5",
+      "published_date": "2024-06-14",
+      "source": "Deadline",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 4,
+  "response_sha256": "6938a7d8f083e2d236d4eb437f79eb2adfee7f287638f9b2ec1aee5353662670",
+  "feature_eligible": false
+}

@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:39:10.866425+00:00",
+  "lane": "reports",
+  "pid": "Pe77b8e73a4",
+  "draft_year": 2021,
+  "name": "Anthony Tarke",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Anthony Tarke\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Anthony+Tarke%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Dreams Coming Into Focus For Coppin State's Anthony Tarke, Morgan State's Troy Baxter - PressBoxOnline.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTGtKV3UxYktxaEJSbG5VRnRMTHR1MWdPb2JaYWR0ZkFMdEF2WE5vWmN4VG9kS1BiQ2ZsOWExU3dZci1adlJfT0Z5SEk4Tmt0UHNxeFd1eTlFd2pra1FxUU5QelJuU2tPNjZYVDZMZTdxbXFibmIzNHhwNEEwX01Ma0JDdkVKaHZaVkxYdlJqSjgxLWUxMkFyVlRsb2tDVUdWTkdiV1hqV0Rqd3J2Z1FXOFdHM21rdDJqU3h5WG1wWnVOV3M?oc=5",
+      "published_date": "2021-07-14",
+      "source": "PressBoxOnline.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "ac3dde7a92253e41c84ed880f09b7a0cdc4cb71fcf2f01cba02dbddcee1735a7",
+  "feature_eligible": false
+}

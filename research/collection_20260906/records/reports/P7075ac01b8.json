@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:48:18.300963+00:00",
+  "lane": "reports",
+  "pid": "P7075ac01b8",
+  "draft_year": 2023,
+  "name": "Kobe Brown",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"Kobe Brown\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Kobe+Brown%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "The Prospect Overview: Kobe Brown, the Meaning of Shooting Leaps, and the Value of Versatility - noceilingsnba.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4UUcyYnRpbmYzSF9hWkhGWks1N3VkWUVTd3BWTnoybXptNWNHdXJkYUlYcnJmbEZNbFhzTTMxSTZ3eFhxRE40c0NRS0VsTWdTQy1zOGFTU3RsQm05Nm9VSUJmN3kzZS1BS04tZmZzR1BFQQ?oc=5",
+      "published_date": "2023-02-21",
+      "source": "noceilingsnba.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Missouri basketball: Where will Kobe Brown go in 2023 NBA Draft? Latest mock draft predictions - Columbia Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNOHAyWWlkN2l6NGIybXgwdmNYOVJ1RTR0REU3WTg0c195ZlhaUWthMXhOWEdHWlJHRERUMnBwa2lZQzdmeHRoaWFhVU9OQVZrNnZocFhOTWZhQUZpZVR2YkhqN1pncE5WZEh4M0FYRmczUFA2WmVfVEk4WFJZVVhhMGMycV9fTVRQT1ZGYzlMc0M2X2ZNQjV4RUJ6M1E4bldDUGZrZjJlTjBPWGcwNVpuYkJVVXRyakFCd2otU1hOOXM1LTRYVV9mZTFQMVlUZXFaUUFiNjJVSFJMUjJsWlhMbXc3TmpwZG1qcmY0Rm9iU1N0R2xqelNScA?oc=5",
+      "published_date": "2023-06-01",
+      "source": "Columbia Daily Tribune",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "B/R's Final 2023 NBA Mock Draft: Full 2-Round Predictions - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZUxsWmZVY3B1d3NyVDRYTENxdGhhTmVNYTdSWUs5R21iakRHS2JvSVRCVkxUbzNEU09DUDdyazlnYjJ6WlljZ1Y3WGhsQkd1NzVxZGdqRFo2YmI2S2Z2R0g3VUlWQnlJZHNkbVNxZUVXM0ZJajcyblNMMHV2YXVlc01yVVlNUnZ3dmFkbWt3UHlrTms2MVNQcWRsQTdaaE5G?oc=5",
+      "published_date": "2023-06-21",
+      "source": "Bleacher Report",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Missouri basketball: Kaleb Brown will exit transfer portal, return to Tigers - Columbia Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVVN5TEE0N0ptZ1hTcGYtd1RYQXZVcmhwcU9ENEtFWWljQWhkYXNTNWxNczN4czFKbzNpWjVwOXlwRnllSVZLSzZxczludk5VSzA5UWdvTnZhajVqXzh2ZnJUbm5DUy1MZ3VKSkJDWnZZOS15VWV6Y2tCeGdsdmNIMmhQTzg1X3gzNDJNT1dHMXB6YXdSeDd2bUg1SWl1UkQ5SF95c1g2UVBPeUxyNXNWakZfbzV0bmEwZEM4TWFQZDFCU0ozRWV2TW9paE02b0JCdlJ1U2sxZFl4a0VNZ3MyeU9IWEFudnh4VkE?oc=5",
+      "published_date": "2023-06-06",
+      "source": "Columbia Daily Tribune",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 6,
+  "response_sha256": "20ee453d8612a9c0abc529b17bf78dea4b0e39aadac272b9e4892586468ffa65",
+  "feature_eligible": false
+}

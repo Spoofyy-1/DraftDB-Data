@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:21:16.576875+00:00",
+  "lane": "reports",
+  "pid": "Pf6658be174",
+  "draft_year": 2019,
+  "name": "Malik Newman",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Malik Newman\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Malik+Newman%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Svi Mykhailiuk puts up 15 points in NBA summer debut; Newman has minor injury - Kansas City Star",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRl95eVlqMktTa0lia19OdVhleWd2YTl5ang4cDM4bFVjQkY3R2pfY2hFYk5kM3ppZnJqcTZ5enFaY3lXYVBFQzBnaVllMlU3ZEJhLWZmcEVqM2pBYXdyTWRoZ080cmx3OVp1SUdGel9wOUk2X2tVeG1vS2NHd2U2ellYY1JlUFByRzdnZDFVMG52aHh3QVHSAZYBQVVfeXFMTzRyN0tHX21YanBxLVBpUDJJN3VqSTB5ak9PQ3FVeENpVkhvcFRJR2ROakJFRHVpOEJnRHUzSnNxNHhYaG1wRFpIS1UzT0hWUnh2LXlkajFnTWN1R2hHUjVmRm5KeU81REN4X0hvbWZ3QkRzMnhDRnd1TDN0bVZlTUZuVTB3QjU3QVhuNHJDeGtkLXMyRnF3?oc=5",
+      "published_date": "2018-07-03",
+      "source": "Kansas City Star",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "a2c7b0ae3b7c0882af824263a0d213ce133e4ed5ea5a4f126aae3cc817c85e95",
+  "feature_eligible": false
+}

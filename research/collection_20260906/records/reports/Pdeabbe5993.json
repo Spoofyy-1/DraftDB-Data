@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T11:45:11.506208+00:00",
+  "lane": "reports",
+  "pid": "Pdeabbe5993",
+  "draft_year": 2022,
+  "name": "Alondes Williams",
+  "draft_date": "2022-06-23",
+  "status": "ok",
+  "query": "\"Alondes Williams\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2021-07-01 before:2022-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Alondes+Williams%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2021-07-01+before%3A2022-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Alondes Williams - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JUnMwbXlyOTFNZzc0MkoxSGpMc2FGRmJFaU5KWkk3V3dneFpGWW1PSXVOMVgzS1QtTkhnQk12UmF0cEJIZ1duMTR2c1ZaNzk5blh4UQ?oc=5",
+      "published_date": "2022-03-06",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2022 NBA Draft scouting report: Alondes Williams - Peachtree Hoops",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVmY3SmZWYVQ5RkxGcUpfRDNvRXNJdnhfU2o2RDgycV82Sm5NTlF6YWZjUjBzSnB3THFiU21iakNUU3cxM0RTRjQyUEFzaHRfWUprUU1pR0QzU0ZqMDZMeHB3SUljUnJZQXBuSFpOeTN6dGpmNmRpbzRtMS01QnZ4b3BoRmFCbUo3SGZ0NGUzcFhhdDVZMGdRclkzMlowY0VlVnBRajN3TnF6R09WNGRTU1pSM2FaSTRMTjRFZ2xnWkFBNlNUVFh1SGtnQWgxTlRIcjVsWnRkeHFqVWhLalVvM1BzUQ?oc=5",
+      "published_date": "2022-05-30",
+      "source": "Peachtree Hoops",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Sleeper Deep Dives: Alondes Williams - noceilingsnba.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2V0ozT1p2LUNUNVduN3RQVGxIOEhWSlk4cVJRRXVsUVBfTkMyMG9nSTFoX3F3cXlxQ2JKck01N1VXVEh2Rkc4Z0NVWmxhWG1YLTZIWXV5Y1NpNDRjMEE5cXpQT3lIUlVLX0tNaHZocm9acjBoQkE?oc=5",
+      "published_date": "2022-02-24",
+      "source": "noceilingsnba.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jalen Williams - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnMEhDLXM3bmZwcFFoUWc2aFZodmpBWnZOQkJwTnlzLWs5aVhUNHJVeUdicnc1bHVCQzFxUVRhOWhwVUFhX1VlTWZzMmZ5RzZRb1E?oc=5",
+      "published_date": "2022-03-25",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Blake Wesley - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53ekJXb1NUeTZYTWoyNU90Nzh2Y18ycG1abDlnQ3ZfVWFlTmZxc3hWdnBHYjhMcjQxS2Q4dmVLN21EbEpPR2R6aUpKd3ZHM1U?oc=5",
+      "published_date": "2021-12-16",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 2,
+  "response_sha256": "aa5dfcbc7292ef5f7726c84bccd2005fbac06301464a02b880dfd09d563feb40",
+  "feature_eligible": false
+}

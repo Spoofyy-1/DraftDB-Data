@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:30:44.039921+00:00",
+  "lane": "reports",
+  "pid": "P40d023c55e",
+  "draft_year": 2021,
+  "name": "Terry Taylor",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Terry Taylor\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Terry+Taylor%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA 2021 Draft Prospects | Santi Aldama - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0Q0xDSHZfcm5hSkhScGNfOVF6WUVKQmo1OXhSYjZ0MXFaV25kYWdmeEtXSWJrbTBZQ1RudVlNblE5UTNfQWthbzhpc3QzcVZpcC14WE91a2F0TzItemVwc3JITQ?oc=5",
+      "published_date": "2021-07-16",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "c7550c48df0e006fd7ea4519e04b3c33c6fd12695cd9550c311c429f16d184fb",
+  "feature_eligible": false
+}

@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T11:21:42.650584+00:00",
+  "lane": "reports",
+  "pid": "P051c4d4903",
+  "draft_year": 2020,
+  "name": "Nojel Eastern",
+  "draft_date": "2020-11-18",
+  "status": "empty",
+  "query": "\"Nojel Eastern\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2019-07-01 before:2020-11-18",
+  "query_url": "https://news.google.com/rss/search?q=%22Nojel+Eastern%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2019-07-01+before%3A2020-11-18&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "a9f377115b6408f10e3d7e8a65d438dcb0156a1a5f5e77f4fe4d070f59e42f46",
+  "feature_eligible": false
+}

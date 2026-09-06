@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:38:56.977987+00:00",
+  "lane": "news",
+  "pid": "Paed8dc8f7e",
+  "draft_year": 2024,
+  "name": "JZ Zaher",
+  "draft_date": "2024-06-26",
+  "status": "ok",
+  "query": "\"JZ Zaher\" (draft OR scouting OR prospect OR basketball) after:2023-07-01 before:2024-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22JZ+Zaher%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2023-07-01+before%3A2024-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "BGSU men\u2019s basketball\u2019s JZ Zaher declares for the 2024 NBA draft - BG Falcon Media",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY0V3TUJmVnhUb29obEl5dFZpeUpjcHpTNWZKUWl5UnJUUHFJeEI1UHp1WGE3T0E5UGJpQ3FNSUFQSUVFSWFjUWQ4VDZiRGhNTVVNUjY5N0J2QUFGbVlDdS1mSTVYZzd0eWdERmxyQXBMdDhHVU1nVTNVSXplRXd1cWJMVDZoN0M3SHhMV0Nyc2FvSE5oU1JzYWJYc1pIWnRiOFE1YUZn?oc=5",
+      "published_date": "2024-04-05",
+      "source": "BG Falcon Media",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "88c9c851e4bb3db6ead8500afeeff4df1073d3158614dccfea92d2bbf0cff193",
+  "feature_eligible": false
+}

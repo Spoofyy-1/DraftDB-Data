@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:40:17.584111+00:00",
+  "lane": "news",
+  "pid": "Pe083952d4c",
+  "draft_year": 2024,
+  "name": "Ronald Holland II",
+  "draft_date": "2024-06-26",
+  "status": "ok",
+  "query": "\"Ronald Holland II\" (draft OR scouting OR prospect OR basketball) after:2023-07-01 before:2024-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Ronald+Holland+II%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2023-07-01+before%3A2024-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Ronald Holland II Fantasy Basketball News, Rankings, Projections | Detroit Pistons - FantasyPros",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qcTRiRVZtb1N5Ylk0OFl0dktSV0lISlU3MXZQMGVxMmdFVzFabEx6RmF4ajVudl9wbFdmT3lhckZINExJRzhXRW5YeHJ5bllzSy1GemdKeFpjeXR2WGRVd0ticG5sZw?oc=5",
+      "published_date": "2024-06-08",
+      "source": "FantasyPros",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Ronald Holland II Fantasy Basketball Rankings | Detroit Pistons - FantasyPros",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15NTZTU1JCSnI4cFFCLUxWTWV1Y3MwajlNUEFYaXBvSHdBRjRQbklmLXVzNWU5czg2TWNORzZEdGhvN0ZuWlRzczVLLVFUSWJPREZZQ2t2a09PenZqR040M0ItTlQ1Wjg?oc=5",
+      "published_date": "2024-06-14",
+      "source": "FantasyPros",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "cbdc528afdfd96c95d7432657d2401459b80864e731e532ddf570076a4ba99c3",
+  "feature_eligible": false
+}

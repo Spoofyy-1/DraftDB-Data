@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:32:58.428711+00:00",
+  "lane": "news",
+  "pid": "P9d84442310",
+  "draft_year": 2023,
+  "name": "Javon Freeman-Liberty",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"Javon Freeman-Liberty\" (draft OR scouting OR prospect OR basketball) after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Javon+Freeman-Liberty%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Javon Freeman-Liberty | Guard | Toronto Raptors - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6M2lEQ2tMUXJwV3ZFcndKZ3Raa3AxRC1GYTRJXzg1YkFuaUtxNXViRjNQZXY2VFFFMmxhRG9paHJ6VWdlcElHai1pRWI3LXdnaVFOeWRQQ1h5YnRtd2dsblpGZFZSRG8?oc=5",
+      "published_date": "2022-07-08",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "DePaul's Tony Stubblefield Talks Javon Freeman-Liberty's Upcoming Summer League Stint With the Bulls - Bleacher Nation",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTkk0Sk5kenQ1QmNmVDRqcE5KVVpoV0xsSWpvS2djTWk3OXpDRGhhRkFNaGY1ZXF2MjBYZkp5cjRXSEp1M25uM1pXVXhrMENQcmVLYWE2ZFg3eGZfbEpoN2UxRHYtU0l4RnZRWlpGOFk4bUZwTmNzV1dZWWtpNUxwZ1FtTkJJbC1iWW5oc1MxUy11allKTk5zM3ZqUGg3V21keVE0Q0pfN0I2dGtCcW8yYnpPU3NvQloyQVdjZGRCRGdXcThoajFwVUc2RkZLcUpLRkxkQVFmdFVVMmlmUkFsag?oc=5",
+      "published_date": "2022-07-07",
+      "source": "Bleacher Nation",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NCAA Division I men's college basketball rosters, departures, newcomers for 2022-23 - espn.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZmNZUFFsTVA4TjAzcXFyMnk4T1ozaE1QaUxscExRdi1zRWg3Y1Axb0tfOHZ0Y0dld3JCbGhfQnpuMzYwRTYzQU5aT3hfTGE0UURIVW1faXdBN1UzSjFXV0hXaEh3Rl81YW0xSHBvb0lMRER1dTJmVnZLMVBFNTNJeE84alpVeEg5X0FCT2d2UFQ4X3l3c1R5R1lmWk1uTHh6VjZRMTNtMFJNbUMwSko5MmpNZHV1QTJoeUNsc2RoUnpsNWpnRUZDUXlFNGpjY0c3TnI2dA?oc=5",
+      "published_date": "2022-10-06",
+      "source": "espn.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "af21afd4012cd2fa4aeef438ec4420abba960cac7825619d007a9158a3144514",
+  "feature_eligible": false
+}

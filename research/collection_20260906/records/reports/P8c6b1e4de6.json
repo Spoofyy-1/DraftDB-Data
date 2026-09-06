@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:34:42.591640+00:00",
+  "lane": "reports",
+  "pid": "P8c6b1e4de6",
+  "draft_year": 2021,
+  "name": "Myles Powell",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Myles Powell\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Myles+Powell%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Former Seton Hall SG Myles Powell Sues School for Allegedly Misleading Him on Injury - bleacherreport.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWWhIbXYtZzZ1RGFwQXJQS1BGZHdIaDlucmJ6eE1faWtueHdiUHQxRnloSGtwT01SbzhRTGZSallqYVE0N2hibVBuZ0hhRHN3UzZMcG54TTczbmV0ZGhFVkhhdnVYZ05JQ2FlLWp4UXhzaEhaZENCNEliZlg0OTc5Y2s3X3lpR0xmWnczT2loclJKeWUzNVdpcDUwaXVkVi0wOFRfbk1XN1c5Zkt3Rm90TGREa0VYdzZ3MG9VNGNsRzl6R2IwcXVVcQ?oc=5",
+      "published_date": "2021-07-14",
+      "source": "bleacherreport.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "effcc7ffd583df9c9b6b46f337d02e0af61673461afadd02a11c3465b8579a00",
+  "feature_eligible": false
+}

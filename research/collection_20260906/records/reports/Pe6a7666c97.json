@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:39:00.960353+00:00",
+  "lane": "reports",
+  "pid": "Pe6a7666c97",
+  "draft_year": 2021,
+  "name": "Alan Griffin",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Alan Griffin\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Alan+Griffin%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA 2021 Draft Prospects | Alan Griffin - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqLVBVLUdscW42TzZXWURGTjNUeEk3TXJyemFvS2tyZU9QSlRhNmZBWjJLWGFjSEJCWlJkbnNFT2ZNYWVydWItV2RnX2Vua3o5RmJGOE9CdDVRZWFydjhhM1V4OA?oc=5",
+      "published_date": "2021-07-12",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Syracuse's Alan Griffin to enter NBA Draft - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84MDFmVnZXNmJ1d1p0aXctNzk5U0FQb1BJRTZmLUJtNGMzR1FQZWJFODJVUWFOaHFRUEpvOHdrZUpiMVduUjNCZmFiTkRoYkNScU9VeGE0OXRHcXg4WHh6Vk1tbEd1YVNGQmxXMUtGS0l6YmRI?oc=5",
+      "published_date": "2021-04-30",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Austin Reaves - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52bEZ5c29DWnZpRHRvT3JHMm01QkxXS2xOaGhDb3FXV2pVaGY0bkJLY1p4eHdpSlBERVYxWldyWjlWLUZZVHR1SW9wb1lwcERy?oc=5",
+      "published_date": "2021-06-14",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "366cc3684a45be4b995999adf24fc50dc36b4f1ec21f95bb6a0ed64e439d1ba8",
+  "feature_eligible": false
+}

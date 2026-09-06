@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T11:32:28.460639+00:00",
+  "lane": "reports",
+  "pid": "P624b2b5afe",
+  "draft_year": 2021,
+  "name": "Sandro Mamukelashvili",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Sandro Mamukelashvili\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Sandro+Mamukelashvili%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Mamukelashvili - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xSGZCTGRHOWZqcUJ0Z01FaHQ4VXRLcHdkQ05OblJHd08zRGpzX3dlQ1BNNlp4RkNzbXpiazlxX0lNbHFkbkRwbmctQnd3WE1NUEhHay1qZk5CRkJKQ3hoRGtvU0lHQndhUG5FdWVScw?oc=5",
+      "published_date": "2021-07-07",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Sandro Mamukelashvili - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jYzFQTnJ2d1E0bVgxOF9qNk9hUE44QjVMaW5tUE0xdGFvMjdzRmxPRzU5VkhqeGpWVG95eDVla3VYN3ltMXoySTNWSXk4N2o5Wm5CSHd3VC1DZTQ?oc=5",
+      "published_date": "2020-12-21",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft 2021: Mock projection has Seton Hall\u2019s \u2018Mamu\u2019 going to Knicks in 2nd round - NJ.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcktUdDZRcXZkRFI2dERPSzVkOGJZVHludElwdFhZMkdtZHB5SndQM0hFWWJnbTB2Ym1WM1NPaXlVdG05RzNPZUp2aHNVMU9BQzhnYjc3bGhsZFV0eG9YUWw1cVZSOHBZZVRWTnY3MXNZZWhCUmFpYzN2N0JlVjVHczd4VTc2eThGRm9aU3drM3l5TmFaU2xPNFZoUE5kck14dUxjeGRQZHVnb0lBbEFLb3Eyd3AzTURWel9zUnk5Qjc?oc=5",
+      "published_date": "2021-02-02",
+      "source": "NJ.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2021 NBA Draft Big Board: Top 60 prospects - The Sixer Sense",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hMGNCWXlMZUMwcm91M0R2azZyN2ZLNmdDZWhBZFRiQll0OWVhY2RNRlJrZDB3WjBsZTZycmdlQXVDS0VwbHpHYnRwMFR5V3R4b1BVZzZfUnV6Y3oyTlB4OEJLQmlKZklFTEZaWUNxWQ?oc=5",
+      "published_date": "2021-07-21",
+      "source": "The Sixer Sense",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Luka Garza - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53ZWFMZFpFaDFCQmdHMndHbW0xNVhIb0hfUVFWVzB3SWZLaEgybVFpTXYyY05QUTRGWGkwa3pfUDBJdFBwRGJZOEtQMno?oc=5",
+      "published_date": "2020-12-14",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "8be4f27e28b52428f1e2bdd3c53ed8b3a01fa9d59c64a3354949abf973a1bb72",
+  "feature_eligible": false
+}

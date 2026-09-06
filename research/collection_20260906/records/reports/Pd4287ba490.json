@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:44:57.798633+00:00",
+  "lane": "reports",
+  "pid": "Pd4287ba490",
+  "draft_year": 2022,
+  "name": "Luke Travers",
+  "draft_date": "2022-06-23",
+  "status": "ok",
+  "query": "\"Luke Travers\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2021-07-01 before:2022-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Luke+Travers%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2021-07-01+before%3A2022-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "At least SIX to make NBA jump; star enters GOAT debate: Bold NBL predictions - Fox Sports",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWkhkdzNWQm9jc0RPRGxhU0hnVDBha1FCbUV0TFlNT0lrVTlfeWJvUF9yZ2NJazA1VjFGU0VHMXEyaW5sQTYtOG5aeGJwZS1Wa3Z5X3AzQV9aX1gwNTZCWVRmTUhsYkFIc0VVTEtBeS1jb0xPX2U1QmdzSHFKWEJMOG0zaE40QjhPZHVZQ1l6dllnY1pXSlNDSEZrUTB6QjlzNW83MHRVM0N5dWRYTHN1THl1Ykl2M2RuWVBabmxKSVVQa2pKWXYwa0UxZzQ1aF9RRnNrV0xoaDdsWXhGQ0ZLbjlPaUs0QWI2dDZtS1dMSHREMXZv0gH0AUFVX3lxTE9aSGR3M1ZCb2NzRE9EbGFTSGdUMGFrUUJtRXRMWU1PSWtVOV95Ym9QX3JnY0lrMDVWMUZTRUcxcTJpbmxBNi04blp4YnBlLVZrdnlfcDNBX1pfWDA1NkJZVGZNSGxiQUhzRVVMS0F5LWNvTE9fZTVCZ3NIcUpYQkw4bTNoTjRCOE9kdVlDWXp2WWdjWldKU0NIRmtRMHpCOXM1bzcwdFUzQ3l1ZFhMc3VMeXViSXYzZG5ZUFpubEpJVVBrakpZdjBrRTFnNDVoX1FGc2tXTGhoN2xZeEZDRktuOU9pSzRBYjZ0Nm1LV0xIdEQxdm8?oc=5",
+      "published_date": "2021-12-03",
+      "source": "Fox Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "7697690496400ec9c76df1ef690912b7a1fbea9d701b916a04036f3d770224b1",
+  "feature_eligible": false
+}

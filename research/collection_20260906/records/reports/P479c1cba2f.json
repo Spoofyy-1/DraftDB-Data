@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:31:23.233114+00:00",
+  "lane": "reports",
+  "pid": "P479c1cba2f",
+  "draft_year": 2021,
+  "name": "Jay Huff",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Jay Huff\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Jay+Huff%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Jay Huff - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE16UE5FeWdGVUtXVU1taFF2aG1hS0JMdm90YkhBa2d5elVrNUdZMmQ1UURmaXMyOHo5Zk9FWTlvNlFXNnkweHFlcVZR?oc=5",
+      "published_date": "2021-06-14",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "be9b7451e437341413b3a4294c1ac42f8631d316bb31844e5b2280928afdc23b",
+  "feature_eligible": false
+}

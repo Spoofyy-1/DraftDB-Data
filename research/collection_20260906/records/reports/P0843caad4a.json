@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:28:13.527535+00:00",
+  "lane": "reports",
+  "pid": "P0843caad4a",
+  "draft_year": 2021,
+  "name": "Derrick Alston Jr.",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Derrick Alston Jr.\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Derrick+Alston+Jr.%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2021 NBA Mock Draft 3.0: Evan Mobley moves up, Ziaire Williams falls, plus coach and scout breakdowns - The Athletic - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTzcxYUozMzBGOWo2cDQtMU1zYnBGZEZxQWJyUi1RREtuQ3ZyR2FFM1ZnX2Y2ZEJjU0NZQ3ZmXzBPUWRGZDZDT0Y3cW5nMzhvVGppZlBJeC1CQnMzamYzbkNJZFRkTXlBSTZpSEdUNERjcDRrVmx3ZllQaERiR3dMVWFtaFh0djJJTUI5b19TaXdGZVBIM2E1aUh4UzJnVUN1QzdRbktIcU80Wjdjb29JR0QyN0FmbEZBUVVUSS1vM2FmWkZQZk50QVB2WGhGcHc2c2Y4amxGTGxBOU82ZUdPVFJtVHdhdw?oc=5",
+      "published_date": "2021-06-11",
+      "source": "The New York Times",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Trey Murphy III - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40NV81X05VYm13XzZ5RGZRQWZheWV3akMtV0RnckFxN0F1SXhadlYxLXNMWHlHb3VxaTA1YmcydFh2NnRNYWhaTnhmWTgtV19RUzk0?oc=5",
+      "published_date": "2021-01-05",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "f3caa94d921fffa6888112d4ebde8592882cddbf77d678b5a3fccc803b728c3b",
+  "feature_eligible": false
+}

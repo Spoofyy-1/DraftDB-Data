@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:28:55.905176+00:00",
+  "lane": "reports",
+  "pid": "P1f0712d029",
+  "draft_year": 2021,
+  "name": "Braxton Key",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Braxton Key\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Braxton+Key%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Florida State Basketball: 2020 NBA Draft Profile for wing Devin Vassell - Busting Brackets",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVWVjWXFVSUR5bGlyY1hGLS01VXowWld4aWVaNHlJWjQ0d3JoTVJZcDE4b1czZDl2cVVJWHJ3OEY2UXJ5V2hlazZuaU1ONTRaR0g1cXJGMkhrLUhwRGJNWE9CMFdONFJxZkdZaVNUUjBUdWRmSmRDUWFiUVlmdEJDSzZZMndzQVVvR0RMR0lnYVhHNkY3VFNCcW9tc3IwU2xLR0tXcklzNEdWdw?oc=5",
+      "published_date": "2020-10-09",
+      "source": "Busting Brackets",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "13601e6a4007d9f277310972669ba4e9c314da85afe714e00a7a73eb4eded825",
+  "feature_eligible": false
+}

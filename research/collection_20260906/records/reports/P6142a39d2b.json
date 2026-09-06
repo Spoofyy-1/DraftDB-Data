@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:24:04.807017+00:00",
+  "lane": "reports",
+  "pid": "P6142a39d2b",
+  "draft_year": 2020,
+  "name": "Mamadi Diakite",
+  "draft_date": "2020-11-18",
+  "status": "ok",
+  "query": "\"Mamadi Diakite\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2019-07-01 before:2020-11-18",
+  "query_url": "https://news.google.com/rss/search?q=%22Mamadi+Diakite%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2019-07-01+before%3A2020-11-18&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Josh Graham, Norcross Blue Devils, Athlete - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LSmRwVEhUM2hleE9WLUhDT3FwNUZfMWZDN0dMaDNhSkg2UUpHTlI4VmExY29OOE5jTnhkMnZmR2dsSzJtZ205ZEp6NFQwWjhpVzdMZmdhZThwNVpjQ2cw?oc=5",
+      "published_date": "2020-08-20",
+      "source": "247Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Houston Rockets All-Decade Team - Last Word On Sports",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVGxlbU1iVENvYUR5dVIwVmptUUVxTmlQcEdwX3pTNDFJeHdTM0xuNE0xVldHWkJQN0dhWHJZY3dFaU5VZXplTXhNRlc1ZkpQclZCeC00V3Z4ZXNVbmhQd0l1T1ZtRm80MmZYNGw2X0YwSHEzblQwSF94QzJQSmVXcTZ0bm5XY2RncTA0?oc=5",
+      "published_date": "2020-03-26",
+      "source": "Last Word On Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "e002bf7c1cb4582135d4702df08665bc241645c7fd5711603bc338aba68865c5",
+  "feature_eligible": false
+}

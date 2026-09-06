@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:47:38.291811+00:00",
+  "lane": "reports",
+  "pid": "P55fe66b9ce",
+  "draft_year": 2023,
+  "name": "Trey Jemison III",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"Trey Jemison III\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Trey+Jemison+III%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Mikal Bridges scores 33 points in win over the Hornets - FantasyPros",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb3dLMXZSRnVvYTBGLXNETjFNOVdhUHBETGhyeXIwVmVJbTFsRThfVllBYXJjWFd5SFBVeUx5bHJMLURSOG5oX0NON3hBWkpsRDFUVm80X25jT1JURHgyTDZIeGZjazVhVlh5dTNQSXlNSWZHWjJEb0tGOHJOb0c5cnpDdTI0OV8wWmo0SXVxeUxnLWNvdEZlS2did9IBoAFBVV95cUxNODJ4UDFXUWdQcU41U3FnSDJjam42OXR6TW13ODRYYW1sa3B1ZEhmUU9fVlVwZGVOU3FES1Y4SkxMMFVLS08yOHVKNC11YVIxYUtXbzg1LWdqaWZQNU8zVTYzT20yNGlWSkpQZkhCVXZsZWI5YVhUMUszN3YwS2N6YlBsbVpLNUZhTU1vYzlkZGRoWVpUalBMa29oNzZlcnBH?oc=5",
+      "published_date": "2023-03-06",
+      "source": "FantasyPros",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "644b05d134a343bde5a5ca52ac21362c3f36ba29f2e95bda7f2e7ef5558e9798",
+  "feature_eligible": false
+}

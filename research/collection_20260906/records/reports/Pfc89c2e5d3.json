@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T11:39:56.495847+00:00",
+  "lane": "reports",
+  "pid": "Pfc89c2e5d3",
+  "draft_year": 2021,
+  "name": "Chris Parker",
+  "draft_date": "2021-07-29",
+  "status": "empty",
+  "query": "\"Chris Parker\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Chris+Parker%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "16afc5d8401d8e212397205d6bf9fe5fdfc80b50eee2737b361b40796adc081c",
+  "feature_eligible": false
+}

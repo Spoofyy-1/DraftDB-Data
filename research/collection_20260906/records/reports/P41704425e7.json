@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:47:04.026822+00:00",
+  "lane": "reports",
+  "pid": "P41704425e7",
+  "draft_year": 2023,
+  "name": "Nathan Mensah",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"Nathan Mensah\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Nathan+Mensah%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Nathan Mensah || 2021-22 NCAA Division I Scouting Report - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAtcmpPZ1NNVEwtNkNmRTRTQXJldXg2Y3pMNGRsdUhxTkVIUlBGZkZoVXRKc25qQWRsV1RLQUFVaUgyODd4ZWhV?oc=5",
+      "published_date": "2022-10-16",
+      "source": "YouTube",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "08579d1c71ebc2c41736b1c9e167ccafde1550986f07ba100b25347f18591563",
+  "feature_eligible": false
+}

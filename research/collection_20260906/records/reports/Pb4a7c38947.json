@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T11:49:59.615720+00:00",
+  "lane": "reports",
+  "pid": "Pb4a7c38947",
+  "draft_year": 2023,
+  "name": "Nick Smith Jr.",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"Nick Smith Jr.\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Nick+Smith+Jr.%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA 2023 Draft Prospects | Nick Smith Jr. - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04eTZjVmRaM3k3Si1NLVBjS3ZfT05YVFZxRy1DV1AzUXlyVm5RQ0o5YWk1cmtxN1BZYzd4TlRXM3JRbEZ6VFEwRlZYYVBFSU0yRGVTTExyaGx2bEpUcUZZTjNaQWM?oc=5",
+      "published_date": "2023-06-01",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Nick Smith - NBADraft.net",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nLTRwZVcwZlFOQUd2STRYa3JoVnJsUzFaNjlkZ0k3c3dDOTB1VW5pM0JUbmk2SENwenVjc2o4RjNadWExbFZ0cXBFUGJCSGxSYWdoR01VYw?oc=5",
+      "published_date": "2023-04-17",
+      "source": "NBADraft.net",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Nick Smith Jr. sits out Arkansas' season-opening win - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTDk0T3RkdEk5akgzeEgyWWFZQmNsUmV2ZEpMdl83TUhLY0Y3LVdHUER4elcyVDBzMVFzeXBZaEdEdkJoclVxOU9CeDA0REIteEs4dV9yVlc3QUprUGZDSXdqVzNjZG1QV3ZHZkhXZG9la1lNZkpnbHBwQ1ZzUVBJeU5qeVZJNHNEYklsTnh6VFFyTHFKTGNnWjlRNnRzbVBQWFBBYzkzNU5GckhBVzBZ?oc=5",
+      "published_date": "2022-11-07",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Nick Smith, North Little Rock , Combo Guard - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DZnJrbXhQUk9LbmxqZTdzZzZUZXR2dGN6QUNlUE5Bd3hrbFRXMmhuRjZtazRQMVAxTmw0SUVsNmxkenFDYlF2X3hFTk5YV2pIemh5bklYSDREU0huZW1hZUZVZjJBTk9ZcjM4YXQ3Y0pUVy1JM3R3?oc=5",
+      "published_date": "2022-07-01",
+      "source": "247Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Anthony Black is Poised to Showcase All-Around Game - Last Word On Sports",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSERNVGJodGN2RjFJNGtJeUhqRUhlaC1jRC1DNjNUQU5aUGxYRUVwWFdVNmkxMXNxYzJJOFRKS2VQQ3Q5dlZ1dWJSbmJ4OGo2ZWJLaXIwYUZUTll4bENqTWJiTEY4dDdrMmozdkVtMGR5Q3U0dGpQNmxMWXBJdy1rcHVtanN4OW5sZ2Y5MllqSV9iQQ?oc=5",
+      "published_date": "2023-05-27",
+      "source": "Last Word On Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 5,
+  "response_sha256": "cf275429265764083ad19f9f5586a35fd6d9b9502a7ededae3ec03529af48ffe",
+  "feature_eligible": false
+}

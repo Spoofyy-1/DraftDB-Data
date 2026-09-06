@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:25:46.663609+00:00",
+  "lane": "reports",
+  "pid": "Pa8a4b42a31",
+  "draft_year": 2020,
+  "name": "Malik Fitts",
+  "draft_date": "2020-11-18",
+  "status": "ok",
+  "query": "\"Malik Fitts\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2019-07-01 before:2020-11-18",
+  "query_url": "https://news.google.com/rss/search?q=%22Malik+Fitts%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2019-07-01+before%3A2020-11-18&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA prospect Malik Fitts on being an underdog and board man getting paid - Rookie Wire",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNUNPYUJneGhjSHRpRWhBRmR4emFLMWd0Qi15QXNyRDByVjR6OVlGMXpRZkVuN2RzUVpvUjNKVUtIYnZHdlFwQ2M0T09Oem5YRVEyOGdvbVFKRnkzZGdHN0Z0d29YSUtTcHRIQUhVLVFpeUMxNXdXOVF1ZVFyN2tRYWF5UC1wek9jMzRZbXFiUkp5dW5r?oc=5",
+      "published_date": "2020-11-02",
+      "source": "Rookie Wire",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "b11d2a1f92417dfbde0716265ce5a91278d39520492daeb59d9be23c27caf5bf",
+  "feature_eligible": false
+}

@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:25:10.431483+00:00",
+  "lane": "reports",
+  "pid": "P9580c6ee97",
+  "draft_year": 2020,
+  "name": "Josh Hall",
+  "draft_date": "2020-11-18",
+  "status": "ok",
+  "query": "\"Josh Hall\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2019-07-01 before:2020-11-18",
+  "query_url": "https://news.google.com/rss/search?q=%22Josh+Hall%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2019-07-01+before%3A2020-11-18&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Josh Hall, Moravian Prep , Small Forward - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16Zl9LbzlZcDdHM2I5NmF3S0ZzcjNhYXVUTUEwQ2tCRC15NEd6QWJRRlIzZlN3NHA3alRWXzBpelpYQlVXbGRoYjVLTGxsSFg3TG9UVWVfcDJEcjJub3AxUkJucGpQMzZrOWlTOFpmcXdlVVcxWVE?oc=5",
+      "published_date": "2020-04-30",
+      "source": "247Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "8270953d4bc3cff827c03f87916f9b7af284fe00895c06613ed16199f3afc96a",
+  "feature_eligible": false
+}

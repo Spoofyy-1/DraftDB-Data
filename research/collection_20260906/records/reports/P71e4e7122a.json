@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:33:33.749171+00:00",
+  "lane": "reports",
+  "pid": "P71e4e7122a",
+  "draft_year": 2021,
+  "name": "Mac McClung",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Mac McClung\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Mac+McClung%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Texas Tech guard Mac McClung to sign with agent, remain in NBA draft - espn.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVlpWZFpaQW00YWlNT0MyLXN2LVE4SW5vSHZVeXZUX1lqTWRnSVlFcXAwRjdrTm9sMVo2X1JPczdudnBvYm1GZ0dXZmYxMnBlanZxMnRIVEFqY3dHMEpIM0VYLVpkanlqMDdDZ1pITkZmS3paWk1lajBPZm1sMWZQRElBdEdfV3NuWUVueTVsUkxmM1Ff?oc=5",
+      "published_date": "2021-05-17",
+      "source": "espn.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "McClung latest Tech player on way out - Lubbock Avalanche-Journal",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQnZNLTJ1MVZ1V2EycThjVldUTGNiNWVHb0d3Z2tPcUF6OWdqWFZqcHhVTmdiZVVpZTh1Y0xYSGNiZUtZLVRGelBlb1dZT1QtNVlPaXhuQk9GZnQ2VG9xRkIzVm40N2pybmhwcWwyRWt1RFhBUnFoQTNuWnlUR2VnYUpVT3ByZGY4RWk2dl9uWnNGRmt0QVhubDkwbVVoZjVVbV9iTjVkYXgyVGxBUlc0MkxneTlTd09PNFIwdFV4X1o?oc=5",
+      "published_date": "2021-04-11",
+      "source": "Lubbock Avalanche-Journal",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Mac McClung Confirms He's Entering 2021 NBA Draft, Won't Return to Texas Tech - bleacherreport.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQUNzVjB0M0wtSkp0MGxFbFNHaWktcFVUeDJ6YkVzRXdsLXc5dVphWmN3dUNUeFUzdUdYNVQ4aEI2ZkE5TmdzNlVnek96c3h5MWV6SUNzcHhNb1NzZENlTTNsc3g5SWVld1d4MXNyT1FFQWpXWW1yWklOSVhjVDA2dnBTOUlqRHNoM0dMLWZGTVc3cFhiTEExUHFfM1RWc2hOb1BYYk53STlBQ0loUkxCam8yZDJ3QWt0eU9V?oc=5",
+      "published_date": "2021-05-17",
+      "source": "bleacherreport.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Mac McClung leaving Texas Tech, to test NBA draft, transfer portal - espn.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSzhuN3ZCeHozZC1oeGNWVWU2emZVTXBodGR4OVNpVXk0UXFQNFk0dV9mM0l6Q193dEowVWNDMHJUVnpkREhSeTZjSUVjVkFEaGdRam1NaWd6ZllYWUctQUVJQXpQUEx1ZmgzRkJIa0x1WW56cUpjSmd5ZUFuY21wZlBWR2wzZG53M01CTmxPcXY3TEVPZWNVMlM1SXNQNnUxd0pwYWJTNnBLbzM1Q1I0ZDlMaFREMnI2M3lBOFVXb2FJVFJ1?oc=5",
+      "published_date": "2021-04-11",
+      "source": "espn.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "5ed7e8ab766ebdf541ca299b0f8bb521d7634edf12af1b168f31e30107f61260",
+  "feature_eligible": false
+}

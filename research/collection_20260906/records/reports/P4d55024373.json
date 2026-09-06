@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:47:14.323420+00:00",
+  "lane": "reports",
+  "pid": "P4d55024373",
+  "draft_year": 2023,
+  "name": "Mike Miles Jr.",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"Mike Miles Jr.\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Mike+Miles+Jr.%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA announces early entry candidates for NBA Draft 2023 - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwdGxlSFZYRnRPNVd3Q3pEZ1N1U0wzTXpLV3JaTVRKSlgxSGlQbE93RW1TSU9SbU9qVHZGOHV4N1NOcF9mSWJId3BCaG5ETnBzNUFFU3lZZlZ6aVlTbzZnTVNfVDNlSG93M3k5dXZ1NA?oc=5",
+      "published_date": "2023-04-25",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2023 NBA Group Mock Draft - NBA Scouting Live",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEYWFQRWFwcU5BUzBIS0dkbTFNMHhBR3plNFcxcklJeEdXVGFFcnZuRGVxbXg4REU3WDBtS3JLd3l0Wkg0cUV1NG52ckVEQ2lYb19EZ2hCOFBISjR6LVhDWGRxek9hUDFEWEE?oc=5",
+      "published_date": "2023-06-15",
+      "source": "NBA Scouting Live",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "92c01a107550cd0866d16222b778d61345ea9fcfe86636646e2b0fc19def2d5a",
+  "feature_eligible": false
+}

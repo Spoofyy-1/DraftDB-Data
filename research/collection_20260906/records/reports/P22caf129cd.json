@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:40:52.011324+00:00",
+  "lane": "reports",
+  "pid": "P22caf129cd",
+  "draft_year": 2022,
+  "name": "Dereon Seabron",
+  "draft_date": "2022-06-23",
+  "status": "ok",
+  "query": "\"Dereon Seabron\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2021-07-01 before:2022-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Dereon+Seabron%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2021-07-01+before%3A2022-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Orlando Magic pre-draft profile: N.C. State\u2019s Dereon Seabron - Orlando Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSUdRN2hfY000MFcyQnF2bUpJSzg3VFhyTW9RdVVXZnZnT3hNbHRxaWZFZVg0dktaUnpmVjFfLTlpNVZQalc1eG1rdnQ0QmQxcG94MDZ4Y2R3YWQ3cHlTMDRWcDFTSjJFMTFZczFIbXVHUHJaeUlIbVRENHFmVy1SaHpjdGl4aEY2d1d6WnJ5RzhkTU5MYnpYTno3TXNkbkpJU2c?oc=5",
+      "published_date": "2022-06-12",
+      "source": "Orlando Sentinel",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Dereon Seabron is going to the NBA. The only question is, will it be next year? - PackInsider",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRHYzMUZmQkRlU2xDTmRfLU9ja1ZvUjNoUTk2SWRLWmxlcXVPYjVTOEtUdnl2SmVIc2h5QW91VDRZcm8tWHQtcEg5TWtXcUFyZUNnbVo0WUlqUFlvT2JVanNUaF9rRTMtcHZoWkxMZ2RMWTFBdENwNTdlMXQ4VEt0ZFdUc2dyXzJybmE1QmFjMGRjbTFiaFAyMW1aX0hzZzBob2NmYURoRWJlS25ZbFkyYUR3?oc=5",
+      "published_date": "2022-01-06",
+      "source": "PackInsider",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Aggregate NBA mock draft 7.0: Ousmane Dieng moves into lottery, Jalen Williams top 20; trade talks - HoopsHype",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOVVhT3Y0WjR5elhBM0pLZVpMQWxCT1ZZandnZWJCa0o1Y1I4cFFqYWlqYV9qYWg0eFB6aHVzeHpzVWYxajVzV29udFlad2JhcURnUFV2YjdVUUotNHM3YlFnNGY1enIxN1VEajlVV3pGYWpzN1Eta2pOeUs4bGJPa0dpSFJfTWpVMjJtZ3NjY0tPVm9nVkdXVm1UNmJnV2hTVlFfS2VXb3ZKVnhOTnNuMFJtWG1BRWVsZFRPOXMxUVljVVZfSFRRYkt6a2hLSWQ3ZXNZbVpIYU5YTUJ0clg3TU1zSmd4c3NXeUpjbA?oc=5",
+      "published_date": "2022-06-18",
+      "source": "HoopsHype",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "be1636797329a9374a7034b15b7c3368bdfa6102f33bb64983ba41075022f724",
+  "feature_eligible": false
+}

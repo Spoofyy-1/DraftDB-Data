@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:37:06.568775+00:00",
+  "lane": "reports",
+  "pid": "Pc131e1ee6f",
+  "draft_year": 2021,
+  "name": "Aaron Wiggins",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Aaron Wiggins\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Aaron+Wiggins%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Aaron Wiggins - NBADraft.net",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mb1J5WlE1U0JhOFhkYmt3LURjLXdtWFNMUEhXS0QwbWtIdTQ3YnliUGw3eUgxd0R6dFFua3c4NlNZWkViM3lqd01OVnNmdVhnbmNTZFU0SHc3WUE?oc=5",
+      "published_date": "2021-07-22",
+      "source": "NBADraft.net",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA 2021 Draft Prospects | Aaron Wiggins - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PejNvZE9xLVoyTkJWWDNDSUoteEtDdTlfTGg3UWpkQmMzaTY0UDF5eXRXakVRY05CQnhtU2FXX1F4M3N5SURJMnZsV3NwR1lGVC0xMVZ5S2RONm9kQ2hLY05qYWY?oc=5",
+      "published_date": "2021-07-16",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Austin Reaves - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52bEZ5c29DWnZpRHRvT3JHMm01QkxXS2xOaGhDb3FXV2pVaGY0bkJLY1p4eHdpSlBERVYxWldyWjlWLUZZVHR1SW9wb1lwcERy?oc=5",
+      "published_date": "2021-06-14",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2021 NBA Draft: Most Common Mock Draft Picks 1-14 - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQekZhTVE5QzZESWd2Z1llOVczaVVLXzJMa3lnU2sxX2dHcTFwZW1yNHBwQ0NvSXJlNjRzR0l2V1lxSW12UExvQ1QtR1FTVHhCbWVCYjBJUFBFYWRSN0I3bjVwMk4zVmFhMWlBY2djWlQ2RVAtZWJmOEVvVkJuYklORk5taGtpNTBXZ1E?oc=5",
+      "published_date": "2021-07-26",
+      "source": "NBA.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 3,
+  "response_sha256": "36aff19e80c98cd24667410cdf1c5e04faed61cf0c9eb2b745e77c005087f14c",
+  "feature_eligible": false
+}

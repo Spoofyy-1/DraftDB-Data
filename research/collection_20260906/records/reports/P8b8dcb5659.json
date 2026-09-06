@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:34:39.298983+00:00",
+  "lane": "reports",
+  "pid": "P8b8dcb5659",
+  "draft_year": 2021,
+  "name": "Balsa Koprivica",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Balsa Koprivica\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Balsa+Koprivica%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA 2021 Draft Prospects - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XNXhGWXRDS2dKa1Y0ZmF0a1ZFWWxIQ1VsUTNyaXZLM2pIVlZybHBldVdXeWZPQmNoaV9FZ19BS0xaTklVSlMzekNtcXZKY1BiTVBFTTVpaTRYalM3MV8wMFpQSElLWWF5X1FfZQ?oc=5",
+      "published_date": "2021-07-07",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Luka Garza - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53ZWFMZFpFaDFCQmdHMndHbW0xNVhIb0hfUVFWVzB3SWZLaEgybVFpTXYyY05QUTRGWGkwa3pfUDBJdFBwRGJZOEtQMno?oc=5",
+      "published_date": "2020-12-14",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jay Huff - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE16UE5FeWdGVUtXVU1taFF2aG1hS0JMdm90YkhBa2d5elVrNUdZMmQ1UURmaXMyOHo5Zk9FWTlvNlFXNnkweHFlcVZR?oc=5",
+      "published_date": "2021-06-14",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "e0d78b3a01e752ce348ea22f1fd56d677fdea5ac26cae398bba32520c379dd8d",
+  "feature_eligible": false
+}

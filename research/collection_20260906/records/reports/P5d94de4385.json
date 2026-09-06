@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T11:47:51.578986+00:00",
+  "lane": "reports",
+  "pid": "P5d94de4385",
+  "draft_year": 2023,
+  "name": "Colin Castleton",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"Colin Castleton\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Colin+Castleton%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Castleton - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WWUZhTHBoYTZHR211dEVlSEFwWUxBeE1TMGd0aHFDQWJpaEhNdlVKUzk2dHhZaTZwbVlibW1YTmFJTTVEYWRTMkhBbDNJdG12VTFybXJaNWsxMU9leEVOT1N5SURiMVk?oc=5",
+      "published_date": "2023-06-09",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft Scouting Report: Florida's Colin Castleton - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSjMwREo4R01jSTlGQmhxX3o3X0o1NGg3Q3gzeFg2c0F1Y3lrU2piMnhjZmttNmxvYnVfX0Rzcnl1al9rbUpQWjdzNFJsMVZpY2hIZG5UazcyVTFqNjNqNENoSzdhRFhJc3NhbXJHT3FkOGNyUWRBUEZnSDN5cjF4NTZ4YU5RdjZ3QXFCYlRtTG9FLW9Benk5VzdLRkM4dw?oc=5",
+      "published_date": "2023-06-05",
+      "source": "Sports Illustrated",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2023 NBA Draft Big Board: Top 50 Prospects Ahead of the Combine - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLVVIVVB3MnpXdkZLZGc0bG5mMGZidU4wU2dqeWhrUzZJQlQyM0R2UFZUMUo2S1VPcVJTaWdBVXhiejFkVkl3Ri05MTRmVmh3OGtxdEVfbXJ0MXdNNWRWbmw0OGlSNVZTTTJsWTFkdFFvamlFRDlMYjNPRDd1N3BFT0xGREFwbkhsNFJYaHNUSFVOaDVPREdMeHgtekhQVXh0WmRydm1nMERLYkE?oc=5",
+      "published_date": "2023-05-15",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Alabama basketball vs. Florida: Score prediction, scouting report - The Tuscaloosa News",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMU9idjh6SUtkQ2l0ajlMR082MnBpTVdMNDBqWXFVdFdXWk1RU2UzTU1QMFhUTXZvLXJIVElpVnVjUldOcjhBX05qc3lPcTRjbGxyN1VTdmNnU0lScmkwRTg5QXNYMGFVU0F6LVhydG9sQzF0czQyUEt6Y2tPT3hVU0d6WWpqTnk0ZXBpTnJ1VjBKWm13d3dJQl9yQVh6aGw4RkxkYjI4WlJ1ZDVuVkQxMWptQkpnYUl0bWgyd04wRDN2bHJhTWFhT0lHQVBVYk1XNG5RY3VzX3BfQQ?oc=5",
+      "published_date": "2023-02-07",
+      "source": "The Tuscaloosa News",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "B/R's Final 2023 NBA Mock Draft: Full 2-Round Predictions - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZUxsWmZVY3B1d3NyVDRYTENxdGhhTmVNYTdSWUs5R21iakRHS2JvSVRCVkxUbzNEU09DUDdyazlnYjJ6WlljZ1Y3WGhsQkd1NzVxZGdqRFo2YmI2S2Z2R0g3VUlWQnlJZHNkbVNxZUVXM0ZJajcyblNMMHV2YXVlc01yVVlNUnZ3dmFkbWt3UHlrTms2MVNQcWRsQTdaaE5G?oc=5",
+      "published_date": "2023-06-21",
+      "source": "Bleacher Report",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "af363458fe0842c637255553ca75f70cd14b90d0cbdd19917dd56e8ed1f0a97a",
+  "feature_eligible": false
+}

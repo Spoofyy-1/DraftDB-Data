@@ -1,13 +1,26 @@
 {
-  "status": "running",
+  "status": "bounded_collection_complete",
   "requested_athletes": 300,
-  "completed_athletes": 148,
+  "completed_athletes": 300,
   "source": "ESPN explicit NBA played-season rows, regular season and postseason",
   "model_safe": false,
-  "request_count_this_run": 241,
-  "updated_at": 1788693950.624039,
-  "elapsed_seconds": 496.08831725,
-  "verified_timelines": 56,
-  "partial_timelines": 46,
-  "participation_rows": 362
+  "request_count_this_run": 620,
+  "updated_at": 1788694728.091881,
+  "elapsed_seconds": 1273.5344817080002,
+  "verified_timelines": 120,
+  "partial_timelines": 97,
+  "participation_rows": 774,
+  "collected_athletes": 216,
+  "crosswalk_historical_checks_passed": 125,
+  "crosswalks_needing_review": 92,
+  "seasons": [
+    2023,
+    2024,
+    2025
+  ],
+  "counts_by_season_type": {
+    "2": 524,
+    "3": 250
+  },
+  "league_calendar_complete": false
 }

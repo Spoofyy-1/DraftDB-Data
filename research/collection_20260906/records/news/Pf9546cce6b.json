@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:23:11.506602+00:00",
+  "lane": "news",
+  "pid": "Pf9546cce6b",
+  "draft_year": 2021,
+  "name": "Clay Mounce",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Clay Mounce\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Clay+Mounce%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA announces early entry candidates for 2021 NBA Draft - sportingnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGtCd05CUnBOaVg4bC1sa2Qwc0lsX2VrZjVPbDJ3RFdQZWJJcl9aZThWcFhZZUwxdm5mTmpfZloxTENnTHlOWkIwMUxBZmlEUGVzY3dHRjZoelJNZ1YxWGx6WlkyNkhvMDNobXpNZV9RT0hNWWxmdm55SS1pTnJ2Q25TaGFjWFdFWUViZHBuNnJnX1dtalNPdFh2V3V3eFp2TjE0VDZNM3lZNDk4ZGpMclpReHd5VzNyME8ybnFyNlc?oc=5",
+      "published_date": "2021-06-02",
+      "source": "sportingnews.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "8f42c9333a701f948e2fec6afdcfe5487a9f79a07d500511a8a9aa55dadcf074",
+  "feature_eligible": false
+}

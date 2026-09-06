@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:48:28.438585+00:00",
+  "lane": "reports",
+  "pid": "P7329b5e7c4",
+  "draft_year": 2023,
+  "name": "Justin Powell",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"Justin Powell\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Justin+Powell%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "SCOUTING REPORT: Meet Rueben Chinyelu, WSU\u2019s newest African big man - CougCenter",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRjZCcUFmbVdoUkFDZVRjLVRNby1qOFNLNUJlS2FwU1V2VHdVOTZ5ckJYbFY0dV9nWEN6TFBqV1NpdUhKcFBXUExUclhBemJhQlpjN0NNcnI4VzNRT296M1k4UXNZLWRFdjZjV2RZOGg0VW40UHFCYk5kM0J6WFhiUWVxYk5ncXpkbWhQSktVTUtGdGgweGMzQ1VUdE5pck0yUkZqZ2RvczJhbTgxLXNIRG5R?oc=5",
+      "published_date": "2022-11-14",
+      "source": "CougCenter",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "f0d8ebcfb6e439acad567cf2eefa6e055bf340df62dc48ee81894d6621f753ed",
+  "feature_eligible": false
+}

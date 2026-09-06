@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T11:32:41.523154+00:00",
+  "lane": "reports",
+  "pid": "P659829b9e5",
+  "draft_year": 2021,
+  "name": "Paris Bass",
+  "draft_date": "2021-07-29",
+  "status": "empty",
+  "query": "\"Paris Bass\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Paris+Bass%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "d08edd6af0d4a91477e4f3a3c749d9bef4cd072bc7e9eb16da07f701ade1e99c",
+  "feature_eligible": false
+}

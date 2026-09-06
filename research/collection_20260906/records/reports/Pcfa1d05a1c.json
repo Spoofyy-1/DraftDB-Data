@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:37:52.344247+00:00",
+  "lane": "reports",
+  "pid": "Pcfa1d05a1c",
+  "draft_year": 2021,
+  "name": "Carlik Jones",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Carlik Jones\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Carlik+Jones%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Carlik Jones 2021 NBA Draft Profile - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZDBtZDdSczhEYTFtQmJuZFhRZ0FYX0dLc2RIWjRrQU95SWM2VFBfRFJ6VkRMT0ExT3RCdXVqX3VXZmFETGpfSkJhRDhtVFNlaWNiSE02RlljellRWkozVDM0blBETlYtMzR5Vl9qa0xmX0VZY19LWkRZb0psRG1fd2ZsNXB3bjAtZU53MQ?oc=5",
+      "published_date": "2021-07-27",
+      "source": "Sports Illustrated",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "bb964fa8273d68c46b293626ff60470d3f7d1499d3f7d4e04afd7b20918d114e",
+  "feature_eligible": false
+}

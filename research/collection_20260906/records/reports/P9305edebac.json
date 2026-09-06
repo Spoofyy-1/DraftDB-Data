@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T11:49:12.039154+00:00",
+  "lane": "reports",
+  "pid": "P9305edebac",
+  "draft_year": 2023,
+  "name": "Kaiser Gates",
+  "draft_date": "2023-06-22",
+  "status": "empty",
+  "query": "\"Kaiser Gates\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Kaiser+Gates%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "9d2fdae55326b17e4421e89b96985dea8039e5efc18106f27b24eb583eab5388",
+  "feature_eligible": false
+}

@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:41:24.950582+00:00",
+  "lane": "reports",
+  "pid": "P3ebbedffb1",
+  "draft_year": 2022,
+  "name": "Justin Lewis",
+  "draft_date": "2022-06-23",
+  "status": "ok",
+  "query": "\"Justin Lewis\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2021-07-01 before:2022-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Justin+Lewis%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2021-07-01+before%3A2022-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2022 NFL Draft Profile: Snoop Conner - Red Cup Rebellion",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMDBtNUg3dGZ1T1NQbXl2U21iYjlLd0lSR3AxUnFfSHQ3QkNsU2ZfZnNSSm5YNk15Ql9ieU82OWVCQ1FNUjdvWWlSUzBCMGlfQ0kyRy1SaExQM3RCMkpqVkp4V2JrV3NRZC1KVy1ORHVTVVZMUU9sRDhWZGh1UFhJeXYxaTZtVGgyREo4Q3B6bGJEN2FoOGplR0RaUmN6enBEV3FiVGJZYm5uNU5qZEp4TDNNS1FwdjQxTHJjeEJUUEdmRm02RjN2NjJYSWJQNGY2YUFta0tDVXY2UFZMay1YZw?oc=5",
+      "published_date": "2022-04-27",
+      "source": "Red Cup Rebellion",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Is Justin Lewis the 3rd Big East player of the yr in 11 yrs? - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdXp1VFZ5Z0lTVnNkRDBwZ1FKOGFzSFFUeHhYU0c5MjJlWW45Q1N1cDZ1a2NEZlg1U0VaNkJvWmlLN28xamVvMnBqZ2cyRFgxVHU5SDNmbnhWMDdqejctaFRUUWtyYVVrdWRiWUIwUzk1ZUc0Z3JIWm1LTzNBZmRJQVVfUFQwWkp4Y3JOTGg3RUJiWWcwS2w1UWd4SXhnVkpwM25Kc2VHVEU2c1B1T3hNd21qTUVFcTJQd2RjSkM0MG9IM0k4UW52Q1FqZk1URHg4ejhLWFVVbVBZbkF2UVhvUg?oc=5",
+      "published_date": "2022-01-27",
+      "source": "247Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2022 NFL Draft Profile: Jerrion Ealy - Red Cup Rebellion",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcUZOVHh4WjN0OURJa2dwekpOWEs0emFmSWd3S2R2Vl92NUhhZkNxUXRHQlFBaGFWcmljZm9iOW1VY0hFd0FieHVBU1FEeUd5N04zbHNFRlVBdUZRdFgyWVBhWi11LVNVNHp0Z0JXV1BqT1BSVVpSbElxb282RXQydmQybk10Y1JIdW1xZ0VsOVQzb3haSGtEVzl4QzVybTZjOXczREtfNjhjRmo0OGI5OEpqNW5LVzFudHB6REY4OUhCZS1Td0t2VHBubVgzMjNZUEFjbTdQNXo?oc=5",
+      "published_date": "2022-04-27",
+      "source": "Red Cup Rebellion",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "0b92499b8257fff508ccfa24ab99d6fb29a31b48e98aad18d436e4c2556da3c9",
+  "feature_eligible": false
+}

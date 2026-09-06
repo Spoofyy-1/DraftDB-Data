@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:42:26.139457+00:00",
+  "lane": "news",
+  "pid": "P1a135db58f",
+  "draft_year": 2025,
+  "name": "Egor D\u00ebmin",
+  "draft_date": "2025-06-25",
+  "status": "ok",
+  "query": "\"Egor D\u00ebmin\" (draft OR scouting OR prospect OR basketball) after:2024-07-01 before:2025-06-25",
+  "query_url": "https://news.google.com/rss/search?q=%22Egor+D%C3%ABmin%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2024-07-01+before%3A2025-06-25&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Egor D\u00ebmin | Guard | Brooklyn Nets - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01YUlfQnJ5cTI1ZE9KYVRjRlRaRVlzZzNRUW8wc1BEaFVyWXFHOVVQMXlVcm9nVlNLbXdmVFk0RkxNM2wzYnZjZHRiaG5adnVubWc?oc=5",
+      "published_date": "2025-05-17",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Takeaways from Brooklyn Nets\u2019 Summer League, featuring Dariq Whitehead - NetsDaily",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcmZrX0hXek9fTGNJQVUwNHdCTWhqdTYtbHpmS2ZQLXJ5Z2xCeDU1d2dDZGVQSENvYjN1dEpwdHN2V3dGZ3lfZ0hHWERZaFJrZi1fekNraTRFSzlLS1poaFlLX3BBb0ZYcGRscEpsVEV3ZGdJcWZvU2U3a09LVEp6RGVxbXhUbDlpeGpDM2xrZndIXzd0MEN0aVZFTS1KVWIwZHFWelhPOXdqZTZZOTV5Z2EzYw?oc=5",
+      "published_date": "2024-07-22",
+      "source": "NetsDaily",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "ea7b72f22e0c08a141a9a69b6e89fcdcf2c3a4fef5499a35ba8eef344bd71826",
+  "feature_eligible": false
+}

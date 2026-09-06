@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:37:18.337698+00:00",
+  "lane": "news",
+  "pid": "P67a293c7ae",
+  "draft_year": 2024,
+  "name": "Keaton Wallace",
+  "draft_date": "2024-06-26",
+  "status": "ok",
+  "query": "\"Keaton Wallace\" (draft OR scouting OR prospect OR basketball) after:2023-07-01 before:2024-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Keaton+Wallace%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2023-07-01+before%3A2024-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Keaton Wallace Career Stats - NBA - espn.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1abFM3YTRicl9GZlE3Sy1vMGs0M3owZk00bldQN0c3bkk3RDNvR2hJY3VLUzBJZHVWTE9qYjdhQnF0ak0zVVZ3ZDNMUmt1Y29IODNxNlgwYkpaa0lKX1dqWHM0NGhwMER4empaWVhrUTFYdk0?oc=5",
+      "published_date": "2023-08-01",
+      "source": "espn.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Atlanta Hawks Sign Guards Jarkel Joiner and Keaton Wallace - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRWF6NGlUa25XX0MxSkpfRnFrTTNnR1dKQkNlUUZHb01ScG5aNmJGN3hKbDFJVGtUOWREVkZzYlJKUXBtOEtVUHc1d0tKUzlER1FvUzdnZDZrMXlBLXZ2dWFOUjJsOWdPSVlUMTNrX2NpcS1wanJhclJsVUlkRHVTcW9ic1BoempuVmRUa2c3MWtGVkE?oc=5",
+      "published_date": "2023-09-29",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "UCF basketball adds former UTSA assistant Adam Hood to coaching staff - Orlando Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUTI0NHJFaHRGeVdxUlM0Y3ViSmI5Wk1aN3N1aFFwSXV3aF9KWjZIb3JjQjNXaXNoazEyU2hTd3dZeldsaGdwdDBkbHlwTk1ZLXVfR1VhZ1hKaW1tZWpJWGJXLWdlWTV0NUN1MWxsb0FRclZrcVVqMnVoNERwSkFremlWTmticWp5LXVMTzZJcnAzRWhGbXlZTzQzdjJXbU01UENmTUw5WQ?oc=5",
+      "published_date": "2024-05-14",
+      "source": "Orlando Sentinel",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "854de2cbefccf033eca9c9ae60fd41362e78b80c3a30d18805383ca07ad49004",
+  "feature_eligible": false
+}

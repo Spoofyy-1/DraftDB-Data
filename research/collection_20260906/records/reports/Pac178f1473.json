@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:36:14.283125+00:00",
+  "lane": "reports",
+  "pid": "Pac178f1473",
+  "draft_year": 2021,
+  "name": "Joe Wieskamp",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Joe Wieskamp\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Joe+Wieskamp%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA 2021 Draft Prospects | Joe Wieskamp - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXdWVWZTB2RXVIclpFbkFTZ3AxS0plV3NLQ2VVTTBIdHpIdnlYb1RkWjA0dkZlamlLNWpQZHBnOEszc0ZyRlFDdUxfSmprSW52MlJRN24zeUUwc2lCSVZTUFMzYw?oc=5",
+      "published_date": "2021-07-16",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Combine: See how Joe Wieskamp, Luka Garza looked before the 2021 NBA draft - Hawk Central",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVXZ0UHdhalJvMzBIMUt0ZndKeDBpRGpIdHVxaFpNaGVXU2JiVHpaaFNFWGRwckZJZFpTRGNTUEo2RjB3MmZsVkhYdy1YaDFWN0NsajhoeGJFSTM3akZvZ1A4VEZ3SG1TUGVWUWJvMmFNUXFWTkUwb1JXcmo4RmZFak9MMndObVMtbUROeHRHWFVPOW0yd0JPZ0FKQXlqZ3ZMbW1rTlJjV0xmcy00LTFjODNrejUxczBfQ09zQmFHbGJVTVRJVDlvMnowcFZ2T0pSMWFqb1lkTWVDclgyZXNhRzk0ZnpWOXByQTRFZDk3Q1ZTZw?oc=5",
+      "published_date": "2021-06-24",
+      "source": "Hawk Central",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Joe Wieskamp - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sRGx0b3pqUVdCSlZzWTlGZXlkQnpsbGRoczU3SXBZbmFQSHJ5WkYzbkRNQk9rekdaMWllSjZFYU12aXJuXzNpYVlydHVZTWc?oc=5",
+      "published_date": "2021-03-01",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Austin Reaves - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52bEZ5c29DWnZpRHRvT3JHMm01QkxXS2xOaGhDb3FXV2pVaGY0bkJLY1p4eHdpSlBERVYxWldyWjlWLUZZVHR1SW9wb1lwcERy?oc=5",
+      "published_date": "2021-06-14",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "3094d0f7436034cb997044e5181ea998e4bea58854d07dfd4bb09e6635bd7dac",
+  "feature_eligible": false
+}

@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:45:38.886939+00:00",
+  "lane": "reports",
+  "pid": "Pfd5185bdf5",
+  "draft_year": 2022,
+  "name": "Stanley Umude",
+  "draft_date": "2022-06-23",
+  "status": "ok",
+  "query": "\"Stanley Umude\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2021-07-01 before:2022-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Stanley+Umude%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2021-07-01+before%3A2022-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Arkansas guard Stanley Umude's journey to becoming a key player in first NCAA Tournament - swtimes.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMGdGbXN0bnl6d2RLVlpmMk5kMjR3UWlGUVZuZU41bjkwTUwtbTBNWkhsTUNIMjYyZFRsV1JLbzJZOFJXOUtkeVJSYTVmQWhkU2hFZWkxYVBUWk9FMXA3enBYVXZZSE41RGlTMjU5TDdMdFlhVFc5N0JmVHJFZ2RqZE80LTcweW9hdHlYVUhCREN1WkxIcHF1ZWZiZDJaX1JobUJFelktYU1qRXhvR3d4QlEyZmhOYUIyQktCaEpNeVNrRU52?oc=5",
+      "published_date": "2022-03-23",
+      "source": "swtimes.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Stanley Umude announces plans for 2022 basketball season - On3",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdTNueUp4SlpPcGhuUnRtMWRPQXRvZHBIcGp3UFI4RWZnLTBhOHZkRDJFbmxYcEpaX2twbW5NSDhCOEE2aGR1T0o5VHNIVTFWVFNLc0pwQmNQblYtYXFIXzJCUlNidW96Y25tS0FxZy1CZWNPOHEtTktNZ29KdlU5LUZSN1BMa0JKOEFsR3hRU21idHZ3dElMOEhQQWE?oc=5",
+      "published_date": "2022-04-14",
+      "source": "On3",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "aa5c50f3ee20507addb9c54a533a7015e8e5b3c1d55d148524e84abc9c7e5c20",
+  "feature_eligible": false
+}

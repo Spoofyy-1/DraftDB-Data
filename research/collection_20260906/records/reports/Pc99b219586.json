@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:44:47.622968+00:00",
+  "lane": "reports",
+  "pid": "Pc99b219586",
+  "draft_year": 2022,
+  "name": "John Butler Jr.",
+  "draft_date": "2022-06-23",
+  "status": "ok",
+  "query": "\"John Butler Jr.\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2021-07-01 before:2022-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22John+Butler+Jr.%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2021-07-01+before%3A2022-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Updated 2022 NBA Mock Draft: Why Teams Are Nervous About Chet Holmgren - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUnc4RXM1OG40dzF3LXZVYnJvaTFqXzh1SHRyb0JHcVlzZjFETXlZb21hd0ROQnBpNjdwTXNQQXFPcGhjWUk4VlB0WE9XSUltSVhqWlk5R3lBUnBzZmR3MElfaVRNQnVTbHVSRW1YM3ktN0w5NTkzN0VsaGpPd21QeVE5VWJMd0wzbWplTC1USUk2Yi1pejhZMnFGTEhzWFVobUJLNURhc3dsQ0Uydml2X0EzWQ?oc=5",
+      "published_date": "2022-05-31",
+      "source": "Bleacher Report",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Aggregate NBA mock draft 7.0: Ousmane Dieng moves into lottery, Jalen Williams top 20; trade talks - HoopsHype",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOVVhT3Y0WjR5elhBM0pLZVpMQWxCT1ZZandnZWJCa0o1Y1I4cFFqYWlqYV9qYWg0eFB6aHVzeHpzVWYxajVzV29udFlad2JhcURnUFV2YjdVUUotNHM3YlFnNGY1enIxN1VEajlVV3pGYWpzN1Eta2pOeUs4bGJPa0dpSFJfTWpVMjJtZ3NjY0tPVm9nVkdXVm1UNmJnV2hTVlFfS2VXb3ZKVnhOTnNuMFJtWG1BRWVsZFRPOXMxUVljVVZfSFRRYkt6a2hLSWQ3ZXNZbVpIYU5YTUJ0clg3TU1zSmd4c3NXeUpjbA?oc=5",
+      "published_date": "2022-06-18",
+      "source": "HoopsHype",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "99e218dd38d7b3a14a1107c98303796577fed6b1ae777060188c2d93efb11c57",
+  "feature_eligible": false
+}

@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:21:49.685896+00:00",
+  "lane": "reports",
+  "pid": "P08bc96e9be",
+  "draft_year": 2020,
+  "name": "Udoka Azubuike",
+  "draft_date": "2020-11-18",
+  "status": "ok",
+  "query": "\"Udoka Azubuike\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2019-07-01 before:2020-11-18",
+  "query_url": "https://news.google.com/rss/search?q=%22Udoka+Azubuike%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2019-07-01+before%3A2020-11-18&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "No One Has an Answer for Udoka Azubuike - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ25wNW5KNzJlR0pqbFJ0TlNjSjVzVC1yeWpCMFdiUWtWQ1ZhcUhaX1ZjVHl5VkZpdE9sN2hNME16bE5TVTJQTG9oSHFUb3JnaXN2ZWltNmJCcU40cGt3Ny1ESnZoY3FJMmgtYXBzTUdrcXJaNk5fVmFnekpvU1d5UVlQRjUyTXpQNEtR?oc=5",
+      "published_date": "2020-03-10",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Lakers mock draft: Is Washington big Isaiah Stewart the right pick at No. 28? - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS2liSDJKbWtZODFjNU8xM095bUx4WHdFcmlyZHB5RnFKdWRDTE50R0RvWk1wWTJwdTlKRnI5UzZCajByTjdOTml0d0hqb3ZlbDFBbHl1VDBmWFU4YjZHTjZVcVM5LWk2cEtOWHB0U0JjbGIzSHQ3MjBjTWd0QThGMXREdk1tc2l5cGJ2cXdUVFF2dmdGSHRQY1o5c3lLVzNJ?oc=5",
+      "published_date": "2020-11-10",
+      "source": "The New York Times",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA draft deep dive: Our experts' perfect picks - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOXR3YTBlZENsZHcyZWRrcm5ucDBLQTFQTFFmUEVOaUpNX3RWYzN0dGtlYmRCUzhuT0ExYS1zX0FXc0FKLWdNU0c0SFdfNVByVnFpNmVoNW9vQkdJLXMzN1JlakZLa2xoWkdaaDYza3RPVDVZaGJlZUh5STFFQmNwN0ljeTlyMkFORGRwT0JOQ3E2cjBtZE0yazA5QUkyM25oOXo0U3RaT0U?oc=5",
+      "published_date": "2020-11-11",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Tale of the Tait | Former KU point guard Devon Dotson starting to see his NBA draft stock rise - Lawrence Journal-World",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaVJoOVNBMnRuX0hyWkJxMENaWnhTNFFWVDlxVU5CcVRPZXB3Vk1tTS1KR0dzdmFaVjFZZDVkR1V0WG1WZDByc2cwSjVwY2M0UUJYTWRYMmwzVUVCOTBnckdQVS1UUnN6QWRxM2VhdjI4WHVRQ2lvV3ZhMlFlT0pERl9BY2Q1ZV9JRU8ySGM4cmo1QnAwVldpSUZ1ZDI?oc=5",
+      "published_date": "2020-06-12",
+      "source": "Lawrence Journal-World",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "2d4f1458cc25a25bbf607a8df1c1f94164c8dde3dcfda5626acd99e27a5e696c",
+  "feature_eligible": false
+}

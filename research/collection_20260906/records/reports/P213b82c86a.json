@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:29:05.681654+00:00",
+  "lane": "reports",
+  "pid": "P213b82c86a",
+  "draft_year": 2021,
+  "name": "Santi Aldama",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Santi Aldama\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Santi+Aldama%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA 2021 Draft Prospects | Santi Aldama - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0Q0xDSHZfcm5hSkhScGNfOVF6WUVKQmo1OXhSYjZ0MXFaV25kYWdmeEtXSWJrbTBZQ1RudVlNblE5UTNfQWthbzhpc3QzcVZpcC14WE91a2F0TzItemVwc3JITQ?oc=5",
+      "published_date": "2021-07-16",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Scouting Santi Aldama - prospectiveinsight.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yc1JiY3dTaTg2bWRXcXZxMWpoM1oyamFwY2hmSTZQM1gteHRGWnpibXl2UVQwLW5tOU13RW1HMWxSTjJ1cGN3OUxHY1dCQkVINF9fVWVwNW5YcFJGUmVQcmwxQ3BBSmlkSURvQ0xB?oc=5",
+      "published_date": "2021-04-22",
+      "source": "prospectiveinsight.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Loyola Men\u2019s Basketball Aiming To Take Next Step Behind Sophomore Class - PressBoxOnline.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZzE2Q1hYWGM2V0RRSXIwLWRHMDJYeDhrS1h4OXZ4dUZrVWRwaXZXRUFXbERWX0dmUnZCOFNzdnJYSFR1X2JCRUpiYThUVXRLZDJNNDJyYTZlLU90eEpTdlV4QlNCWWpPemk4SmtoSkptZWdRX09aN1pxMXhwNHMtYUd6YW9XUmxWRzFmdmhaSkJ1TE1WcjRuNTZxVXhNY1dMOEt3Unh2ODkweVVOYmc?oc=5",
+      "published_date": "2020-11-30",
+      "source": "PressBoxOnline.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "5594a973066586d5a08358a74a1ed77d644faf6e28686ab6911753f495d9d043",
+  "feature_eligible": false
+}

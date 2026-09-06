@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:28:33.037705+00:00",
+  "lane": "reports",
+  "pid": "P130d4826ef",
+  "draft_year": 2021,
+  "name": "McKinley Wright IV",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"McKinley Wright IV\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22McKinley+Wright+IV%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2021 NBA Mock Draft (Final Version) - Hoops HD",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xVWFBZXdPb1Z5dm5LZzFtNTZMaTgxek1kTGEtblBXZ3RlT0hyUjVtWjBKMXZ1ZzFsWl9lbVpYRnVac0NmM1NaWGpuUjE2MDFJM0RDQmFmY2p3akp2UkkxUGZEdk45U2hqRHFIeTdFa0hSczg?oc=5",
+      "published_date": "2021-07-28",
+      "source": "Hoops HD",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Combine: See how Joe Wieskamp, Luka Garza looked before the 2021 NBA draft - Hawk Central",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVXZ0UHdhalJvMzBIMUt0ZndKeDBpRGpIdHVxaFpNaGVXU2JiVHpaaFNFWGRwckZJZFpTRGNTUEo2RjB3MmZsVkhYdy1YaDFWN0NsajhoeGJFSTM3akZvZ1A4VEZ3SG1TUGVWUWJvMmFNUXFWTkUwb1JXcmo4RmZFak9MMndObVMtbUROeHRHWFVPOW0yd0JPZ0FKQXlqZ3ZMbW1rTlJjV0xmcy00LTFjODNrejUxczBfQ09zQmFHbGJVTVRJVDlvMnowcFZ2T0pSMWFqb1lkTWVDclgyZXNhRzk0ZnpWOXByQTRFZDk3Q1ZTZw?oc=5",
+      "published_date": "2021-06-24",
+      "source": "Hawk Central",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "14c71a8f7034e08ce27a22f9ffd15121432b2e7604eb6ef31636324fcb2966c9",
+  "feature_eligible": false
+}

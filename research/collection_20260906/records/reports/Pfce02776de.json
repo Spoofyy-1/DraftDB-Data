@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T11:39:59.726276+00:00",
+  "lane": "reports",
+  "pid": "Pfce02776de",
+  "draft_year": 2021,
+  "name": "Tre Mann",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Tre Mann\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Tre+Mann%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA 2021 Draft Prospects | Tre Mann - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjaE5KbnUxOHotZVNIYi0yZHp3UGFSMkg1TVlJZmRfWEY5bVZkZU94aTM3MXV2b3pNc3NuakhtTGtZTUdWbFRQcGtfazdBYXVpQWNSUWlyeXR3MkQ0U1E?oc=5",
+      "published_date": "2021-07-07",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Scouting Tre Mann - prospectiveinsight.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SY01yMzdMMzFYX01vTUFzR0dPYThKVDJTaXhQX2k3WGpSSEViS2NNdHZRTjd5NEhfSmRvX0dWSE5PalFZTFdwOVhjcmd0OUhKalEtcXpsTmtGeU1yeEZKWi01bDJZM2Uy?oc=5",
+      "published_date": "2021-04-08",
+      "source": "prospectiveinsight.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Tre Mann considered a lottery pick in CBS Sports' latest mock draft - Gators Wire",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeHU4cDBubXFfMExUTjl1UlZ4UUk1cnphTy1FTTJDN3laeE1TeEJRczk4RXR0S09sYkFXd1c1SmY1b1V1ako1V1BWcS1ZX1BBYXBITTFjclV6NnVaeFY5SGRzZ2pzSlctRk5YdmZVVUJpX3dTWG5jNDdfTXMyNlQ2UWxXbVBaZ0xXYl9nRkstT2dlOU9LbGJXd3RaX2RYN1VreHFCZFhRa2RINnUyVlJkY29sWHpCOTI3M1B6R2RQak0wdGNKUXZJU1EtTGZoUTNNSl90VHRFSXZwRVV3SnAtTg?oc=5",
+      "published_date": "2021-05-19",
+      "source": "Gators Wire",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "OKC Thunder NBA draft profile: Tre Mann \u2013 the smooth shooter - Thunderous Intentions",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qdG1jcDIwTDBxSENIWEpGMGZOZk9PYWJfS0h3WmdqRmgwSUdhd0kwdm1Od3M1ODNsYWR2RjVFd3NXeVFGRlhQa1FObUNaNERTb09ueTBjR0pwTmxQdmd6OUwyZS0wWW5nLTFrbTFuLVdRUnBNcHlqRG1QUGp4QQ?oc=5",
+      "published_date": "2021-07-19",
+      "source": "Thunderous Intentions",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Tre Mann's height could boost his NBA draft stock - Gators Wire",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdW5rZi1HYWg5WkQ2bHFOYzc2UnhzQjN5MXVCWGlxem1JZWpjT3lRckpGdTFFdFZuQTY3SFo5bVhWUnhBdVN1MHZ2X3ZxckMwaV9WYTN4cEJRZTVkUk5lNjFMVXNaMVh2S0Jaa1d2Y1FaMnFqWlhVQW1OZzJtSU1YT256dVlSeFBJSm9MZWJCSE96WUV5RnFINE9UbFBhNFNja29JRG9DSnRBZFM1c3A0OXhHN2xKemRLcVpDcEhneTFrbmRnWmF6dm9rQmpBZw?oc=5",
+      "published_date": "2021-06-22",
+      "source": "Gators Wire",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 4,
+  "response_sha256": "c2a929c4b36ca7e5d85b996c8f883722be2f57141ba6fb2ee62dc1063e657d33",
+  "feature_eligible": false
+}

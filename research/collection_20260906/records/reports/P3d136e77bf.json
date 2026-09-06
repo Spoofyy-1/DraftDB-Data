@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:30:24.531740+00:00",
+  "lane": "reports",
+  "pid": "P3d136e77bf",
+  "draft_year": 2021,
+  "name": "Feron Hunt",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Feron Hunt\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Feron+Hunt%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Jeremiah Robinson-Earl - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82enZDdk1GWFp2U1FaZFlmSnFUUC00Q3ppUFFfZnNsc1FiMUtXVnd3N1lkQ2tZbVpNSjJBMUNodHIxM0VMeVQwVXczR2hyQURFckV3aS1Bc1lxR3NvbUpv?oc=5",
+      "published_date": "2020-07-03",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "ea8e3e3a2af2f97df63f9f394949e61d79dcaae87132ce003fe9d44e1e5c3479",
+  "feature_eligible": false
+}

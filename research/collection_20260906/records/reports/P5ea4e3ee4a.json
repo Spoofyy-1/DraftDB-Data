@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T11:32:08.903974+00:00",
+  "lane": "reports",
+  "pid": "P5ea4e3ee4a",
+  "draft_year": 2021,
+  "name": "Asante Gist",
+  "draft_date": "2021-07-29",
+  "status": "empty",
+  "query": "\"Asante Gist\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Asante+Gist%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "e8c09847e32baa8d6e73d1f7f3c3f180781c26e5d041ee689e280a9b6a702260",
+  "feature_eligible": false
+}

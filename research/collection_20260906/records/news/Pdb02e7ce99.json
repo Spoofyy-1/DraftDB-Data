@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:21:57.754334+00:00",
+  "lane": "news",
+  "pid": "Pdb02e7ce99",
+  "draft_year": 2021,
+  "name": "Trayvon Palmer",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Trayvon Palmer\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Trayvon+Palmer%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Trayvon Palmer - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JbEVhRklaMFNXcEhMczdhaDZhTjdLZi0zTXlkV0ZpYzZjTXpuS3F1cmxDdDVFcHZneUxQTmFxUVlLSmtBWVUzSzB6S1RxeGZJV2puMGZ5YWRtQTFPZlE?oc=5",
+      "published_date": "2020-10-27",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "ee540d4facc0d2cde120a69e5e1ba0f2623c30aff7b69bbeb6be5508401a20a5",
+  "feature_eligible": false
+}

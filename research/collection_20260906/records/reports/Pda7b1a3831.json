@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T11:38:28.349941+00:00",
+  "lane": "reports",
+  "pid": "Pda7b1a3831",
+  "draft_year": 2021,
+  "name": "Ian DuBose",
+  "draft_date": "2021-07-29",
+  "status": "empty",
+  "query": "\"Ian DuBose\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Ian+DuBose%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "17d7b33691e76e288e1a54627b669a7bc686679246bfbddc9547d5f774e0d355",
+  "feature_eligible": false
+}

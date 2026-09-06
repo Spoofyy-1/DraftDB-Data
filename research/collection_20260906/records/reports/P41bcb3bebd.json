@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T11:30:50.570773+00:00",
+  "lane": "reports",
+  "pid": "P41bcb3bebd",
+  "draft_year": 2021,
+  "name": "Austin Reaves",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Austin Reaves\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Austin+Reaves%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA 2021 Draft Prospects | Austin Reaves - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BSjZmZ0MtWmFpWGx4Q2g5VVd0MVc0ZUdpd1BFdXVZLXBBZEQ1QUZ4bXc3OXVWNUp4NVM3aExvNm96NkE3aVhSQ0s3N094U3hnSC1HUEpHYmlsZGM5N0Rab3JVekI?oc=5",
+      "published_date": "2021-07-07",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Charlotte Hornets NBA Draft Profile: Austin Reaves - Swarm and Sting",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM1FBb0N4Z1hHNl9vM2FrUE5pTDJOR01ULWo1a0RyMzJEWW90ZFl6a2RYZzVtSkNwcFJiRUtXbUR5RllDOGJudzhHMC1ZbFZtbDRnUlEtNkcwOEI4YzVNeHFUdWRsel9TWUdMeVNVOVoxMk1pbl9NSWdWNmRrUHBEVXRWTjRVb295c0QwWHJubUo?oc=5",
+      "published_date": "2021-07-22",
+      "source": "Swarm and Sting",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Austin Reaves - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52bEZ5c29DWnZpRHRvT3JHMm01QkxXS2xOaGhDb3FXV2pVaGY0bkJLY1p4eHdpSlBERVYxWldyWjlWLUZZVHR1SW9wb1lwcERy?oc=5",
+      "published_date": "2021-06-14",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Where does Austin Reaves land in the Rookie Wire\u2019s latest mock draft? - Sooners Wire",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONlR3MEpwWlo5bjZUeS16aGRfSlJaUENaV2tGb3FCc1IwVmkwRFRWaVVkaGw5Rms0b2xhamh0ZFJ2UWlBemxrUGMycVg3cDhQa01aNU5NZll1TGlGZ3pYc3dyZXR1dHBlaUdNaDN5aDN4clBSRF8yZUg2SlRlODZQaktpV1RhY2NNUDVYRXlZWFd2NDRKWlJ3OGt6SzM1c3pIUHV6NHNyZ1B5aFByckZTYUw0RzZOT0xZZzRTZGFqYVdNcU9LVlFqeDRfZWhybnRnSWJ6WG1HWjE2OW9ad0FwdU4yaUlEejl4bTJF?oc=5",
+      "published_date": "2021-07-10",
+      "source": "Sooners Wire",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Austin Reaves: 'My whole story is going to be different from the others' - HoopsHype",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcTNsSmkxVy1wUnY0NVkxbVBMU0VEd1JzM2UwQm5leFBtdGRDZXFYaWhKcmFKWGd3M214ZXFZQ0FpZXhnV1Y4M3ZkcE8tUGFBN1RKRTktdFlHVU9jdlltdllOV1BIaEpuS3NCT29kbWU1LWFvbFhnUDlrQi0xTXlvdHR0blV2bTk1a0cwc3ppZnBOSko0dXd0bU5rYWQzVzRHaXA4VFpKY2RyZkZzRm9sQmpaczdvT05ERFI0MnAyWHNSQQ?oc=5",
+      "published_date": "2021-07-15",
+      "source": "HoopsHype",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "349fdc8b285bb2b1d18b81c48ec4a34a6024ddbd7b42d6f6edb42c3fd73c7bf2",
+  "feature_eligible": false
+}

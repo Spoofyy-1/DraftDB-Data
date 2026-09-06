@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:38:25.077407+00:00",
+  "lane": "reports",
+  "pid": "Pd89d8db6f9",
+  "draft_year": 2021,
+  "name": "Jose Alvarado",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Jose Alvarado\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Jose+Alvarado%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2021 NBA Draft scouting report: Jose Alvarado - Peachtree Hoops",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdEE3ck83ZjJBRFNnRWJiRnlJMUhLcUdNcHo4c2JmZWNRQndSQWtvb1RLbjB2WUNSTW93ektVR29aZUpDaElmcm1sRHpGMXMtcjFCSVMtdFV2UURKcDg5OFZwX1N0WHB5UTAwVF9oYnR5bmhTc0hST1FqMktVSmEzcmxGVExVZVIxenRVUUZTV0w4cWd0YUdfTmU4QWIwWTcwcHNxMFFHRld3S2ZnRVV0MjdWaVlKOVpCNFVmZDBHb29WQnpnM0ZvRUYwZ3haclN5cGVIMWJ5MTNRQQ?oc=5",
+      "published_date": "2021-07-15",
+      "source": "Peachtree Hoops",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Draft night could play out fortuitously for Jose Alvarado, Moses Wright - AJC.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWk5RWWVkQVVJUG51LWdzb0RhM1JOclFXcHhEbnNpRHNRYzNYblRlRXh2Q3BwUTRLSDMtNjVKMjV2cjZvd05vOEVpcl9LMWpOdml1RnAxSldReXM5RDVHYzJHTEFYeUYwT0ZfLTdMVHcxWWdYOTdNS3JBTWtCYVE4NHFseEZudkhxcGpzbUtMMWJxYlZfaWJ3QkQ5UHQtdjV4d0xHWXBvYjNwcWdodFhfaWFyWVV0cDFZSWduaWdfNEwxUnZfOHhCT3V2QnpPVml5SElDRw?oc=5",
+      "published_date": "2021-07-28",
+      "source": "AJC.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "The Biggest NBA Draft Sleepers - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWJRTWJkbFkxRnU1VnFodDJhamZwNG95LV9fWHdMdnc5SDRkOTlocHROaWM1Smt0TC1McnlfYVhaYjZtdEZvUmhrell6YXB6SGtNYTBzU3dleFFFV0owRmRtNHZzX3NJOFpvMUxybWZVeUJua2h4bFBNMm5QTGh4V18xRnE2N3V5WnNiNQ?oc=5",
+      "published_date": "2021-06-14",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Could Georgia Tech\u2019s Moses Wright really go undrafted? - AJC.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY2hqZkN2VlNlR3ZJWjVqVFJsUllaYkM3b3ZnMjN4VllMVFlVeG1QX3M1X3M5OW02a0Q1TmVJNUhOZ2JVS21jN0ZPemlXc3NJRWFNYnNBUHpXX3VUdHo3TmluOU5MQmVicnRINkhvc1VWX01qdjVHTTdQVVJtbnZoaWdad29xdG1qd3Y4RWR1T0lVeTRCbnVqZ1c0eXJLellUNWVwV3VUMGlSanJ3NUZta1lBbElHTk9Y?oc=5",
+      "published_date": "2021-05-05",
+      "source": "AJC.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "145e8084d6eae4c85f800a173467689edcb50cef8f16e9c6f26fe35b08bd1fda",
+  "feature_eligible": false
+}

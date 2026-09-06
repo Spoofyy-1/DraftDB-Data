@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:38:18.528400+00:00",
+  "lane": "reports",
+  "pid": "Pd7c45f2e6c",
+  "draft_year": 2021,
+  "name": "Luca Vildoza",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Luca Vildoza\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Luca+Vildoza%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2021 NBA Draft Profile: Sharife Cooper - The Strickland",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3bHA4UGt0dmhaSldabTZ3ZmJpdF9oZE1OcHVsb2phY0c2UmhidndZTzZsTXBEZ2VIWFZFNHo4aDg0TzJlaUROSVcwcTlQVGdhU05KMkJyT05IYTFMNjZyZXJoY3NEOF9EWktXUDhKeUt1SjVDdkV6Z1pYOA?oc=5",
+      "published_date": "2021-07-05",
+      "source": "The Strickland",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "e960d469613ef2df8d512bef72a07bd8a9eb3ce165e1dc0cf7bdc7af38c95841",
+  "feature_eligible": false
+}

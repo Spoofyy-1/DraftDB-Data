@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:45:28.638491+00:00",
+  "lane": "reports",
+  "pid": "Pec93c68939",
+  "draft_year": 2022,
+  "name": "Aminu Mohammed",
+  "draft_date": "2022-06-23",
+  "status": "ok",
+  "query": "\"Aminu Mohammed\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2021-07-01 before:2022-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Aminu+Mohammed%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2021-07-01+before%3A2022-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Aminu Mohammed - NBA Big Board | Rafael Barlowe",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tU3djSHo3UjNfaFRFYnpJclFiT004Tm9GWWVWZ2VGVmxVUUI1OUNVNG9UTWwtT215UDVrZzFUajZEN09EaW43N3BMYWw4cjB2X01UOEJHdw?oc=5",
+      "published_date": "2021-12-14",
+      "source": "NBA Big Board | Rafael Barlowe",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Dalen Terry 2022 NBA Draft Profile - Last Word On Sports",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeHBvQmNrd1djNlNZZU1QWUdxdFRVSXVFWnBWM2hBVGhtcHoyWjZQWG9icFhnWnljODIxVnRscEh6Z1RrSHVzWmRNSEVvajZpV1NCQ3dVT1g4aDBKR3p6dURTN0drMVZfelV5TmE4Szg4MXV4cXBncm1YNzVyUGhPb1VfMVBnMHhydmk2SEVaVQ?oc=5",
+      "published_date": "2022-06-17",
+      "source": "Last Word On Sports",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "c027189917e864e82a979da55d5facf953298900072d3afd7ebc4575c6c3c37a",
+  "feature_eligible": false
+}

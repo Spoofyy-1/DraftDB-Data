@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:44:54.392523+00:00",
+  "lane": "reports",
+  "pid": "Pd3eb42d2a8",
+  "draft_year": 2022,
+  "name": "Gui Santos",
+  "draft_date": "2022-06-23",
+  "status": "ok",
+  "query": "\"Gui Santos\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2021-07-01 before:2022-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Gui+Santos%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2021-07-01+before%3A2022-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Gui Santos - NBADraft.net",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kMmVuUUprbEJCTjM3eHRLcnFyb3c0SU5zMmJuWlQwV3p6clpiWlZBYzUwNXcwdHlIajBWUFBDSGx4aHREcUVIcFhXRjNlcDVVaEpGcFlXMA?oc=5",
+      "published_date": "2022-06-20",
+      "source": "NBADraft.net",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "4d2a8ad7be8bfad2e811faab30773b1e08d8f23175879ff55d2a1007e24c7e9c",
+  "feature_eligible": false
+}

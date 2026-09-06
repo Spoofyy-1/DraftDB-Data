@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:25:16.943624+00:00",
+  "lane": "reports",
+  "pid": "P9b1073be42",
+  "draft_year": 2020,
+  "name": "Lamine Diane",
+  "draft_date": "2020-11-18",
+  "status": "ok",
+  "query": "\"Lamine Diane\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2019-07-01 before:2020-11-18",
+  "query_url": "https://news.google.com/rss/search?q=%22Lamine+Diane%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2019-07-01+before%3A2020-11-18&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Cal State Northridge\u2019s Lamine Diane hopes NBA will be next step in his journey from Senegal - Los Angeles Daily News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSG1ySnQxWk1Ic0YtMWJyVG5LT3RtTTRDbEdRdTNVcXhYU0h0NlJnNGQxNDBxYWltc2pUN2tlWkZNRnpod19nSzl3QVh0anNXX3lpbjVRODRualNiM1lRY01YRDJHTC1HanZHV0JFRVRoc3RLaUUzOFBqN1dGV3BVWnBkOWpXdFJKdklyMlBDY3dLNWlURUJGbGNrOEFzdzBNWnZqNWRFVHZFbkYxWjFjRU1waFJIRUsxdmlYaDJMLWRkQnFqaWNJ?oc=5",
+      "published_date": "2020-05-03",
+      "source": "Los Angeles Daily News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2020 NBA mock draft: Projecting every NBA draft pick, from Anthony Edwards to Yoeli Childs - azcentral.com and The Arizona Republic",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ1VFV1k5LXlQRFZ6RG5VOG9meU0za1NoYy1fR05wSDNrRV96TlpFZVZxN0RZaWhabkJxT2Vtb1hYcHR5RjFTU1ZNNjRaN3hMUER6TW5SVDYzd0RpbXVmdGVxc2dwTGY4eS1rbU5tQ1ZhRW4wV0RiVTJtLTktdjlrdjlLb2x3b0dLZXI3NE8xTExYVmhUUTdyOG95NW1TbTR6dEVEWmlmT1NhRUx2MUw3M1V1TDJ2UGNYdTg4REhYMmVFTXJYSmc?oc=5",
+      "published_date": "2020-04-02",
+      "source": "azcentral.com and The Arizona Republic",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2020 NBA Mock Draft 4.0: Latest intel for all 60 picks - Rookie Wire",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOFVhZnRYX0pHRHo4WVBOdmlnUDB3d1g0dWdsVk9BbFJ4dF8xS2dEclVmZnMwRDJvX2ZENnp3VzBlRk1OOXNVQVJMb3BUN3ZuWnMwVGJqcXhWa0hjWDNrdkl1TDVrSGY1QzdWUG1HY09iTXVGY2tqdU9CRFJ6TFRPX1MyQ0YyRmxTMUVDb3dtVkhXYS0wQjN4cFlMQjl4SURFT29qUTUtZXhjck8weUdvRF9tSVU1NEN5X3JZNW5JWVdDNFdBTXI5U2hfalpPc3FsbVJDOA?oc=5",
+      "published_date": "2020-06-16",
+      "source": "Rookie Wire",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "06970a6c41af80a691497dbe5297107236d880a6d47b4530fe5b05dc04897874",
+  "feature_eligible": false
+}

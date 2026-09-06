@@ -1,0 +1,64 @@
+{
+  "collected_at": "2026-09-06T11:49:18.666258+00:00",
+  "lane": "reports",
+  "pid": "P9a144a10c5",
+  "draft_year": 2023,
+  "name": "Noah Clowney",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"Noah Clowney\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Noah+Clowney%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft Scouting Report: Alabama's Noah Clowney - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdE5rZk1BQzlVX19FbHAwd0h5TEVMNzRqZVdDRk9FcUhkeEkwYllQdUpnNVVOV3ljTWl5NS01b3VhUmk3WkVPU1k3M0xfV0Nlb2gxMjk0OHVaQ3NBcUN0UUJ6N3VkM2U5SzFmdnZrVmRERGVaT0NQbEltbTlEdDEtelVuUUxCRzdHNG1jLWM1dkVXWnFDODlmYzJ3?oc=5",
+      "published_date": "2023-01-11",
+      "source": "Sports Illustrated",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Noah Clowney - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zbEZMNzVRdC1WUEphb1k2SEVkS09keDlwS1VDQ0pHZHdIY2FpNUtLczZXSkxRQzJVeE92ZTQxU0o4SzRMRjFLZjBSakQ5Qlk?oc=5",
+      "published_date": "2022-12-06",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2023 NBA Draft Profile: Noah Clowney - The Kings Herald",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5PNW1mdnpMUVhyQUprZU1SdFRjR1Rnam9FZDRpd0tHUUpNQmh3dHNTQWY0ZHFUd3A3RkJKYTcwcGNNeDVCVUlIY1FPMEFVLW9OVUhsNXJpWUY1cEo5TEc3MV83VzlYdVlSR3Vibm5DczFwQU1iVFZYMHh3?oc=5",
+      "published_date": "2023-06-01",
+      "source": "The Kings Herald",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Noah Clowney, Dorman , Power Forward - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmaHppeGVLb3hDeGMwWTBrcjJvT3NzX3FrcU9kNXAteEJwWnI5Tm9uMjVyRkh2RlJ4NmlSSmRLbUJtY1g4d3ZZUUpSX0lEdVZyalFZd1R4SE9PMHEzSmpuaWh3SVg5RVN3N1VWWFVDYjNadmYxLUpWaTFR?oc=5",
+      "published_date": "2022-07-01",
+      "source": "247Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Mock Draft: Ranking top 10 realistic picks for New York Knicks - Daily Knicks",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONzMteGp6cnVXaFNONkcwNW9HVnhrZnNEcnl6UU1EWXZnSk9TY2o5M2hhd2puNV80cFR6Y1IxT3pwSGdqTVE3ZkNyQ1dvblZRMm40bFVUMWtMQ0E1M3FoQ0c3cWlKN1VkcnRsbHNyZUg0QTE0YXBZa2J6U05yVFZDS1NyTGhvOGw3cE5hTlZJWHczQ2daVERLUW1UWThTUEsz?oc=5",
+      "published_date": "2023-03-23",
+      "source": "Daily Knicks",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Brandon Miller entering NBA draft after one season at Alabama - al.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa2duN29XYTFNbG1jdG80YzJIVzQ5RzZYLVN0QVk3QlBGRnk4SzlOandFMlhrVzVTUmN6QVVRY0NpdjBVemctSnRja1pmOURpRE8tNTVZUm1KY1cxQU8xSm9rS1drUG9sSkxOQXdIMF9LNmxkRnJ2U2taSFdCYjVPTWpEaTA4eU9qUHF2SzZXN1BKNnhPb1RMUmpMLVhZdXUxWXowR2tVb25zVFdZX0p5Rw?oc=5",
+      "published_date": "2023-03-31",
+      "source": "al.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 3,
+  "response_sha256": "20afb39e1fa812ba7d42d61870f68fdbc3d20f8c10cbe84f804eb9a8a59c33e9",
+  "feature_eligible": false
+}

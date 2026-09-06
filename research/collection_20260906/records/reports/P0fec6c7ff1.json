@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T11:21:59.562550+00:00",
+  "lane": "reports",
+  "pid": "P0fec6c7ff1",
+  "draft_year": 2020,
+  "name": "Robert Franks",
+  "draft_date": "2020-11-18",
+  "status": "empty",
+  "query": "\"Robert Franks\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2019-07-01 before:2020-11-18",
+  "query_url": "https://news.google.com/rss/search?q=%22Robert+Franks%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2019-07-01+before%3A2020-11-18&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "25ee97a21ae640434bc047bf04a95403864f3e505a933cf05261d03a0ef0bcbc",
+  "feature_eligible": false
+}

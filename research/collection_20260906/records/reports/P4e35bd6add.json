@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:31:36.352052+00:00",
+  "lane": "reports",
+  "pid": "P4e35bd6add",
+  "draft_year": 2021,
+  "name": "Joshua Primo",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Joshua Primo\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Joshua+Primo%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Joshua Primo - NBADraft.net",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hek5ELXVhVVhWTm9GWVhEVGtDT2dxQVBNVHVJRXY2Z0t5dXVvMzRESktVQVVJRzU1eU82Q01pTmV1OHRKcU9CeXZ2ZUtRcW4zSTVsNXpmNHk4dw?oc=5",
+      "published_date": "2021-07-15",
+      "source": "NBADraft.net",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Alabama's Joshua Primo, projected first-round pick, opts to stay in NBA draft - espn.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3NEX1RVRlFJWFl3SFh3TFN6WGR1azdxUWlxbUJpaVdtWXJpOGFhZFNjSjBoT1YxNlZGLVdoaTJuU3dRVUJSeDVTUnFvbVZNd2U2NEhBblBrdmRCZEpaYTB0N0lURkhpSXdyOGlIQTIwcEx1bXR5UUFzVDI3LXAzWHNSdV9FaXAxRTA4TWNCbXhUalRGLW5vX1hJOFhKaHJQTXJOMDRnWG1RMkx1Qi1nd0RB?oc=5",
+      "published_date": "2021-06-30",
+      "source": "espn.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Nuggets 2021 NBA mock draft tracker 3.0: What the national experts predict Denver will do - The Denver Post",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbGN4TEktbU9vT1IxRzJ6THIwVzdmVUFwTU1wdlJDN3pUeHdMSnZuOXdQNEZuaEdhMUdLN05hUHBtSmIyUXZtSlQwbFNDdjZsT0pCem1TUi1YcG0tVnE4cG5LMmJkS1h4eGtCQWIzaFROUE5wM1ctTFdDckZ1bU1iMGdB?oc=5",
+      "published_date": "2021-07-28",
+      "source": "The Denver Post",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA mock draft 2021: Cade Cunningham or Evan Mobley at No. 1? - latimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQmVRbkRYTlRhaUhvTkt0emdORGdZYVRzMG9ldzFfZEZEME5qckpDWkw0RlRDSVBDdThKNkZyeVgzelc3VGZveGx6S0dJemZZc2h6V0d0WE9SM2hBd2x5bDRZRDNzTWVuckQ4R2N3ZEIteWs3WUpDbkh6MFBZTUdDeTZ6YnhYN3dfN19ZN1Y2OUJWbG82UV9ZTEl6elR5eFd1ajBRWW9qN2xPN00?oc=5",
+      "published_date": "2021-07-27",
+      "source": "latimes.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "69d2c6e7b75fe9ad6cd17a0cf99f5cb2c2d634f761b57437fbb67ba7976dea79",
+  "feature_eligible": false
+}

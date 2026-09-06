@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:29:02.373941+00:00",
+  "lane": "reports",
+  "pid": "P21372aaded",
+  "draft_year": 2021,
+  "name": "Herbert Jones",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Herbert Jones\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Herbert+Jones%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA 2021 Draft Prospects | Herbert Jones - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xeE5xN1d2dlZNVVcwWUdxRWlxMG1zOGlmampDUThLUXk3azZkQ1NRay1LSWdueVJ5OU5zU0FZZExRVndCdXFrUHRIdURQcFEtWThaZFZ3c2RsbDlNN3JYQzh1d00?oc=5",
+      "published_date": "2021-07-07",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Herbert Jones: 'I don\u2019t care about how many points I score, I just want to have a long career' - HoopsHype",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZW1BZVhCMlFfcW9XTXZITlcyME0tZTZZR05vV3k2bTFGMDM2OE82N2VzUWI4cTB3d1VpMEJyX0hhS3hBVDQ0QWZvNnh6OU9mOUF0aE4zenk1VnFCWEsxcngtcWtKYkUxbGpEaUhCUXIyUGdZOWtfeHppTTJJMDY4OVZicnJxR2g0YzhLRThWTVBlcXRvYW1keko5d1hLajMwMnJPaGM4UVVxV2xaVUtudHZ1Mkc0X0IxX05zSEpsTlNNSXJMaEtOOQ?oc=5",
+      "published_date": "2021-07-16",
+      "source": "HoopsHype",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Who are the top NBA Draft prospects in Alabama basketball's NCAA Tournament bracket? - The Tuscaloosa News",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQTg1RXduLWh1Y092ckpNVHYtS3ZUTFkzOVZlTDJzd0xacW5aeFk5cEM5VmhMcVhaMVVIMzdtQUpiR2xHZXdPUVZGQ1c0ZTNsWlV0d3VZNThzM0NGOXpxb3FYeXFtclZNSHE1eDVSQV9YejloTlQ1Ql9SRjB1UHdRQ3dJWUIxRWp5RklNTFdiekl2NnZ6WlluTFpRTE9tZXJBVnltR2ZocHlXQ281bEpPVzRabkNaN1VNajlOcmZmRU5wT2JJZmhndUVsZFpRd3dJbUlTN0JheW16V1RPUDMzMGNoLU1nN0pP?oc=5",
+      "published_date": "2021-03-15",
+      "source": "The Tuscaloosa News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 4,
+  "response_sha256": "380118773c5241421ea80dc021a87cdb317120eae36d09f64acdf251275b9533",
+  "feature_eligible": false
+}

@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:26:55.307178+00:00",
+  "lane": "reports",
+  "pid": "Pdd324c8c3a",
+  "draft_year": 2020,
+  "name": "Cameron Oliver",
+  "draft_date": "2020-11-18",
+  "status": "ok",
+  "query": "\"Cameron Oliver\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2019-07-01 before:2020-11-18",
+  "query_url": "https://news.google.com/rss/search?q=%22Cameron+Oliver%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2019-07-01+before%3A2020-11-18&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Nevada's Jalen Harris enters NBA draft without hiring an agent - nevadasportsnet.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUjM1cEZjZFBnV0VtRzJUbVNiOTBfbktFMHhWb1dBSE1qODdKMUpSMTJ0R05jdml0clhYNThQNHhOZnpZR253c0dPVG5xWVR3N0lnUjM5OVdPS3BCYVZTNURKMnpZMlhJckV5VDZCUmxOVmJqUEU0OGtDb2Q2S2JZUE9ic0VobXZZSnE3RmJNRXp4cndFSzhkM3RBYlpuZE92bDJyd1RySQ?oc=5",
+      "published_date": "2020-04-11",
+      "source": "nevadasportsnet.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "1e86b637b16d84e38fe7eeac979c86d5b24ae313e0876e395e80cc341265ae69",
+  "feature_eligible": false
+}

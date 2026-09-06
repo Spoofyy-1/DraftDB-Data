@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:23:48.332693+00:00",
+  "lane": "reports",
+  "pid": "P539176b694",
+  "draft_year": 2020,
+  "name": "Kenyon Martin Jr.",
+  "draft_date": "2020-11-18",
+  "status": "ok",
+  "query": "\"Kenyon Martin Jr.\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2019-07-01 before:2020-11-18",
+  "query_url": "https://news.google.com/rss/search?q=%22Kenyon+Martin+Jr.%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2019-07-01+before%3A2020-11-18&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2020 NBA Draft scouting report: Kenyon Martin, Jr. - Peachtree Hoops",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdGJNbXkzVk5BN2ZxVXBGU1RfdmRmVEtKSkhpWFd5VG04bzlOQlJjd1BLRnozNTZraFN1MHJOdDJKYUhhbmJqazVISGxaLW9aalJodmJRQXhCRlJaOEVNNS1zdnh0N3dNSWNzR0YzdkNmRFRTRkh0Tms4TTgyMndyLUNfSnFQSDRQelFBSDJ4VTI1bGNkQ3hZRl9ZeW01OXNMVW9naWdkYXpOam1WYURmR19iOXVmSHZJQ3U2QlZnVlJVdS1VZERCR0lfcUFVM0dsTjd4c0NuV3EzR0cxNmc?oc=5",
+      "published_date": "2020-06-29",
+      "source": "Peachtree Hoops",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Former Sierra Canyon standouts Cassius Stanley, Kenyon Martin Jr. prospects in 2020 NBA Draft - Los Angeles Daily News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZTl2RFhDSmg2Q0NEeGFBbDhBcmZkR0t3SFdWcDNkNGFjV1otdFZwZWNrUXo3czhJclhzNndidThvejVNdTQyd01aNFQwWGp5SzBQc0ZEMFhYNnNPOFBNaWgwcjdmZ2xxZnJlWkNpbHQxcERKWGFIX2VweXNxanF6WDByNGh5UVY3cER2REFzZDVtZFQwMHNuZ1lVWEFjdFFFckVBRlVPRnpYTUVfREV3c2dhSkxvdXhQN3M4LU00ZWtta2c2MnBXXw?oc=5",
+      "published_date": "2020-11-16",
+      "source": "Los Angeles Daily News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "13e885d83b7bce77806ee672e2aafbe3c30d2debc539846f7999693f5846a364",
+  "feature_eligible": false
+}

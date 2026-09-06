@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:33:04.294541+00:00",
+  "lane": "reports",
+  "pid": "P6bb68789bc",
+  "draft_year": 2021,
+  "name": "Marcus Zegarowski",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Marcus Zegarowski\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Marcus+Zegarowski%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Marcus Zegarowski - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yZm1yZWJPZHFTSklsWDZzbjBGQ0FVekZOUU5jTXpVU0hieWxfYzVXVGZyQTJyb0pMNWhnOG1xd0RJeEhmLW4yOXRFZ0ZacFFTSUp6UWlDbkMwbzVVeWJ6WDVfclN4SGJadkE?oc=5",
+      "published_date": "2021-07-12",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "In thanking Creighton 'for making my college experience so special,' point guard Marcus Zegarowski declares for NBA draft - espn.com",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPNDJqc21OMGVVaDR5OXdQNGNQYXY2djBMRGJaZTgxQUpla3JQcHgxYklWaDVGNzdYSWRzTW1zcVV4LVpBNDJpZ29MYlRiVVA3T0hleXgzaVZqVkVaUkRyNE9tNjBGQmVLc1FpTnVkNDR2SHhGVUdlTGpHWUJjRlhQTUJUTHRwRDBfU0IwSzVhZFhNZV9LU3h1Umtja1NUN25OUXBjTi1oWTBfcnhmMjVZRmdSV1NnLW1OeUJGX0taWVVCWHVtSHM5UEJlNTZ4eTVURUtPUXA2cnZBWGhiNkp6MllVS25mS1YyaVlTU1A0Zk56TnFtMnc3eTdadnlrQWRRTmc?oc=5",
+      "published_date": "2021-04-13",
+      "source": "espn.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Austin Reaves - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52bEZ5c29DWnZpRHRvT3JHMm01QkxXS2xOaGhDb3FXV2pVaGY0bkJLY1p4eHdpSlBERVYxWldyWjlWLUZZVHR1SW9wb1lwcERy?oc=5",
+      "published_date": "2021-06-14",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "db53a003a8cd9c67b6a3b840f54377e5a6ea4ee476644ffe8b4acea618c522aa",
+  "feature_eligible": false
+}

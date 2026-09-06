@@ -1,0 +1,64 @@
+{
+  "collected_at": "2026-09-06T11:38:02.277463+00:00",
+  "lane": "reports",
+  "pid": "Pd1118f9ab3",
+  "draft_year": 2021,
+  "name": "Scottie Lewis",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Scottie Lewis\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Scottie+Lewis%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Ex-Ranney School star Scottie Lewis looks to represent Shore Conference in 2021 NBA Draft - NJ.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdU9JTFpaeGltSVc1Sk54VGtvMlkyWkNNWG11X2J6X2VZWVJXNVBZYlVIQXNxRFk5TUljLUdUODhrQWhSZmhzVlFhZ0xyX053YlViblRfNkJCVHhxSnB4clpUUXE5THRsUHBnaTBzUGUxMTVXdklyYmNIbkpPcTBaQWdWVEhJWnphOGJMSnRLSXZkMV9tX1dtWGU2RGhXSlREa3dFRE5xeVlPVjRVTGdZWmo1ekh3U1E0V2Uzam5Fa0U0US1FVmVQclV6Yw?oc=5",
+      "published_date": "2021-06-27",
+      "source": "NJ.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Nick Richards' Draft Scouting Report: Pro Comparison, Updated Hornets Roster - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeVI4WXpZNjZqcUlQdkVJR2NoOHdia0FoaUdOclY0bGdId1pEZ1BaYXFDTmN5YWtiVTVlWC1jT29rNmIxM2JJX1pGQmZsdFVla3RTZ0lZNDhMWUt5TDFXZWxHQXZoMVhrWkxFMjVRdHNBNUxJV0xCSUttc3NSdzdvelUxZ2ZtRTJRN1BoN3pWcVNVUkE2dVIzMDJqV0FBUW1STUJLeGF2MlQ4M0RBYWRsZFBVa0pUeTVf?oc=5",
+      "published_date": "2020-11-18",
+      "source": "Bleacher Report",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA mock draft: Loaded No. 1 pick race and a new top 60 - espn.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY1NGRTJTWmFoQ1pfbk93VU9qUUhWQzV6OWJvRE84TWM3bXNLWnFpZzV3ODQwU2NSSjJvR3NwY0t3WGJJUXRCTDN1b0FQNGNSWlFjVXJHYWhWcGhoZWgtMGMxRHM3cGVmWVFqUkJIVm9OSVp2SzJRYlJvNlZ5MU9Cd1M3ek9YYlhnaW5pZ1hiaXQzSmMzWnpj?oc=5",
+      "published_date": "2020-11-24",
+      "source": "espn.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Austin Reaves - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52bEZ5c29DWnZpRHRvT3JHMm01QkxXS2xOaGhDb3FXV2pVaGY0bkJLY1p4eHdpSlBERVYxWldyWjlWLUZZVHR1SW9wb1lwcERy?oc=5",
+      "published_date": "2021-06-14",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Way-Too-Soon 2021 NBA Mock Draft - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYXFJdExpQlBFb2RicFc1VDdjOGItdWdRekp1bXNvaFloZWdpWnh4aWp6dmZMS1BvRGdmT29UMHhaNDF6azZyb3ZYRExXclFpUHlFbERFTng5S0RCOEFScHVWM0FrM3RmbU9TNWJFMzktbFRSeGpnQ2xSdVN2QUdpalBn?oc=5",
+      "published_date": "2020-11-26",
+      "source": "Bleacher Report",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2021 NBA Mock Draft - NBA Scouting Live",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yUV95TjMycWpCdDU3Wk5sY1V2SUU5Q2dmc1ptS01CeEVIY0ZmN2EwSkRMTXczOGk0dzBLTHpKS3VGdTVDYnFnVHZ6M3l3SzlPZGVSRWlITFpzUDFheEhDd1JR?oc=5",
+      "published_date": "2021-07-24",
+      "source": "NBA Scouting Live",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 2,
+  "response_sha256": "8e66df002c1c14d50d52abdc8c9723bea815d977d18d9adce3d377223238937a",
+  "feature_eligible": false
+}

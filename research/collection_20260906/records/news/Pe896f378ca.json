@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:22:38.053392+00:00",
+  "lane": "news",
+  "pid": "Pe896f378ca",
+  "draft_year": 2021,
+  "name": "Ade Murkey",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Ade Murkey\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Ade+Murkey%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Ade Murkey - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ucFR5NDRtekxBcFhhcUE5QmRUTVQ3SU1QVXdtaXNyVW4yMHE2QTBINnE0d3NxR2xPU0RPLUdtaVk2c3lsQk9GX0JjTWJSX05rRDdPWFhQb0s?oc=5",
+      "published_date": "2021-01-06",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Ade Murkey - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43aEQ2Mk8wVXJaVXZGbzNNbUlOc0J2MmV0MWxHRTJCMV8zRWo3Wi02UnF4SGFYd2dkR0VjOXJ2SmpvWmZfSE1VXzlVbFlYS1E3Rlk0ZWlWRVdZTmpySWNKTFBkcUV3dw?oc=5",
+      "published_date": "2020-12-12",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Get To Know Ade Murkey | Minnesota Timberwolves - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aN3haVXN2RkVRbUJXOUpzX2FzOTYzUUl2MHdteV9BczM3LVNHUExVOXJObE5DR3lCOUhzN294NndBYXYyd3RjVlFVY3RmZE81a2k1MjJELWpxVEZ4ZVZYaHpleE5YWTVjSkNXcw?oc=5",
+      "published_date": "2020-12-11",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "The 2020-21 Projected Starting Lineup For The Minnesota Timberwolves - Fadeaway World",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaHFGdWtuczJmLWdhdk80RlZ5M3B5QXZNcEFCOWJERmtnSW9TWFB4VUFuRi1xOFJKTjRWWDVhRDdyOTVQeC1EbWdkSDMzeXUtY1FiZFFRcVBWNEY4cTN1ZEhlRG9fYlJFcUhheFlTVkZBUjNSWGpZZmgtR1haTHVtWDdEandZUWdSdkFIWEtRbVRuLXh6dS1mQTVB?oc=5",
+      "published_date": "2020-12-11",
+      "source": "Fadeaway World",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "ee54a4ca8fcbc442b089ed9cebb8ed187ae028b04198d0a3f2682142af2cb036",
+  "feature_eligible": false
+}

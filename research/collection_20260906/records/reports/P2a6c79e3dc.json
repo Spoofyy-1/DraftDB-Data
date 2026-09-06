@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:46:33.035974+00:00",
+  "lane": "reports",
+  "pid": "P2a6c79e3dc",
+  "draft_year": 2023,
+  "name": "Ben Sheppard",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"Ben Sheppard\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Ben+Sheppard%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Ben Sheppard - NBADraft.net",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01NVM2STZBTm5EaER0X093UzJKTDVGNFdQdG1fbmJuZTBkdG1aLWI1M25Va2lSUmJaeFUyOHhDWkMtTDZ5UkQ5TXhWZS1QRzhJUmFHWUFtU2gxdw?oc=5",
+      "published_date": "2023-06-15",
+      "source": "NBADraft.net",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Where will Belmont basketball's Ben Sheppard be selected in the NBA Draft? - The Tennessean",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUk5ZbVVIR0pIaDZDa0J2bkp4U1FaZkNwZG03d0V1NXBoblJPd2JYVG1HQ0FrWlpYT3ZpMzduOENUU2REYXBtcUZfdTZOc2lqZ0wzSi0yaEVTRFFqM29aeW93aFZUYVpzQ0xiSWtBajZPcGttSEgteWxEUGdPci1hZTBvQ215ZXRLbE1sSld2RGduQUxOTGJIVXkwZnkzU3pjR2dVRk5PdWZESDEyeGlZbHJmSTc1MnFyNU5LM1JTZUVjbWI2STUza0M5SjExanhHNVVGdFJBZlFjNkVuTWc?oc=5",
+      "published_date": "2023-05-23",
+      "source": "The Tennessean",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bleacher Report: Final 2023 NBA Mock Draft and full 2-round predictions - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2VSUkphelpkaGJhWVkzTm5pQ0VqUVRyZjFKNGppOEM4SldKM0QtdFFxcWVCM2xTOVZpRHJPOTBEeHM3S0pMY0NRdlhRcF9iTDdBdElqU1FlRGo0M05XbWtBcDBCMUJ5RExIMFhtaGE2U1JjNDRnaU00S1UxTXpZX3dveFA2WXhPa3BwekFJSnNpa01Renc3Y1JOYWFkUQ?oc=5",
+      "published_date": "2023-06-21",
+      "source": "NBA.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 7,
+  "response_sha256": "ef6122ffdc2e6d707b5f9868a1862f112ae10d1a95cf44894567ed45a4bdcf2a",
+  "feature_eligible": false
+}

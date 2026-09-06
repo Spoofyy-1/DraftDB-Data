@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:33:36.982556+00:00",
+  "lane": "reports",
+  "pid": "P72048f0a4a",
+  "draft_year": 2021,
+  "name": "MJ Walker",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"MJ Walker\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22MJ+Walker%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Austin Reaves - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52bEZ5c29DWnZpRHRvT3JHMm01QkxXS2xOaGhDb3FXV2pVaGY0bkJLY1p4eHdpSlBERVYxWldyWjlWLUZZVHR1SW9wb1lwcERy?oc=5",
+      "published_date": "2021-06-14",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "a1c29d53f036f54cd453e43f714fa0f379cd05b543f5198840e97471e9a2efae",
+  "feature_eligible": false
+}

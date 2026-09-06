@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:40:35.615359+00:00",
+  "lane": "reports",
+  "pid": "P13f00227af",
+  "draft_year": 2022,
+  "name": "Darius Days",
+  "draft_date": "2022-06-23",
+  "status": "ok",
+  "query": "\"Darius Days\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2021-07-01 before:2022-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Darius+Days%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2021-07-01+before%3A2022-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "LSU basketball 2022 NBA mock draft projections: Shareef O'Neal, Tari Eason, Darius Days - The Daily Advertiser | Lafayette, Louisiana",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb1lZVkhPS0RzNmp0V3h6NWRtcWFzQVpweXEwMVZXQlZfaENoLU90UHVtdjFPMGpOTE0tWFM5YnZVT1E3alllQ0ZjVnozdFlvWHh6VlVrYVRjNkJHOW9ocnRiOVVCOU9pLVIyWjVRbnZpM0d4TFFPMGxiVTBPWlJqRmk5MFVncXZEQTl0c2wyeFM5UjBJeUlUSG12SGxZeU4yYTJZSHFoX05OclAtZzJEMVFMRkxvdXM2TkJpQjlhaEE4WWFJTDdZLTJkZFUxWnJ2NFhxZE9QMVR3dmhZYjNUZkNn?oc=5",
+      "published_date": "2022-06-21",
+      "source": "The Daily Advertiser | Lafayette, Louisiana",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Dyson Daniels, out of Australia/G League, works out for Trail Blazers along with 5 other draft prospects - OregonLive.com",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPc1BnVVZKV1FvYzFldU0yT2JPcUtHQlhKT1luM1dMZFBKblB4Nk1QNzA4OTJraDQ4N2FuQUN6WnViNXJtUHRnUkJZMmFmYnRNSl84d3RtMGowcFNMcXlkZDE4bVZNU3hrdEFuZ251bHE5NVFSWGhwc2JzSXRPdGNDQmtXVXY2Qld4a3k3TkZaVkhsOE5sUlRuVnNmRVZydEdNaTVubVVpcVZQbEN3ckRzb0J3Mm5HVEItRHZwUmlmTW56a2hPWFk1S0tLOTliNUI4MUZGclVQejY2SW43UjdLeUVYSUR2dzItZ2JVbTRHcFM3SlR2SUJ1Z1gxNEhoR200?oc=5",
+      "published_date": "2022-05-31",
+      "source": "OregonLive.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "LSU forward Darius Days heads to locker room after apparent ankle injury - On3",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMEVNWDJHZjdBdy1SbTJZclhKbDJPNTZENWZtNTNOQWFoaGFVUVJmdWpyWUZQazBHb0F1elVfVVRFVjRlWU9xQ3FwVnFZcTVJaUhwNXhucDAtaG1pYk41dnpqUV92dHdUeWo3RFBQalI1eWpCMVJjRVJmOFBLYzJmelM1NmNDMU5MbXVTVVBXOE9zaVhHSXYxMHBkdUIwMmtNWU1J?oc=5",
+      "published_date": "2022-01-19",
+      "source": "On3",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "38e79dd389e4ed416cb1d301614983d84be67904b9961caf8d843b9d3994353a",
+  "feature_eligible": false
+}

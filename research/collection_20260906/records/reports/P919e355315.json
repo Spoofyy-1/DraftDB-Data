@@ -1,0 +1,80 @@
+{
+  "collected_at": "2026-09-06T11:43:00.621040+00:00",
+  "lane": "reports",
+  "pid": "P919e355315",
+  "draft_year": 2022,
+  "name": "Johnny Davis",
+  "draft_date": "2022-06-23",
+  "status": "ok",
+  "query": "\"Johnny Davis\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2021-07-01 before:2022-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Johnny+Davis%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2021-07-01+before%3A2022-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA 2022 Draft Prospects | Johnny Davis - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lMkhpclFReEJhX2RVbVpzdTJEUHRmTlNoNmNmcGhQWWUyT2FWeDFoMnVUendYdEJoMzl2WWZZNWVjU2pSRGJYdlZwX2MwY1NsQ3VWZi1qLWdMSWZmMDU2Vmg0NA?oc=5",
+      "published_date": "2022-06-01",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA draft profile: Johnny Davis, from 3-star recruit to projected lottery pick - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSzYwQ25CQXRJOFNtY05wbmE1ZkpOQk1JeC00V3RBUFF2VzhERTMxOElUM0RUSzZiVUlQNzVhN1hkajl1SElndmJ6RUViaG9nMWtnaTRvcEgwZHJhZXl3T3hQN0ZLWWp3TW1oRGN1OExvQnVibWd4cUI5ZDJBS1NacVRBclRDLW1UcFZURW9laVd2cW51MmViYmVQMXJiN1kwT3IxdkVHMV9kMHRuRjVrSTkxMjZWWE0?oc=5",
+      "published_date": "2022-06-16",
+      "source": "Yahoo Sports",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "ESNY\u2019s 2022 NBA Mock Draft: Pre-conference tournament edition - Elite Sports NY",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMDRKb3lVU3Zlb3lkeUNDcDFPeUVpcl94NFppS01SY0RZWWtmTERhRmloOTJHdEhGN25qVHZmenlCTEsyRnl1b3gtcjhVYkZqVEFEX3ZueXBfSGdoY3BENWpyUmg2UHQyalZmTjFLR2RKdUg1ZDYwdTdEalBOQXZnNklCX1RraWNnU3Z2SG94MEY5RUM2aUU4UnZWNlBwZw?oc=5",
+      "published_date": "2022-03-05",
+      "source": "Elite Sports NY",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Johnny Davis was on fire and Purdue got burned as Wisconsin sophomore has historic night - IndyStar",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeXhPdGFkVVNTWTF6azNiVzNVaVJPWC11TW8yUHBPTkx5d0JnV0VOcGljUTVCTFN3VTRfTVlqeTFKQlNMeGxXUXViWk40M2JQdXV6ZGt6YmNjaW5IcHJ2STVXd2IxS3QzT0xZYlFVWUgyc2VXd2NDUWFKMmR2WEtOVF9ZUkhyWWI4UHVuQmJnMkxzRl82RXdLTGpkUmx0XzFLanBSTS04dEVpVjFoWHVWZXBEYVhQd3hUanIweTdXcnV5Tkc0dUhhTkpzeE1qNHRIMW5ONmZpVlJPaGVmUGc?oc=5",
+      "published_date": "2022-01-04",
+      "source": "IndyStar",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Wisconsin guard Johnny Davis makes a major announcement - On3",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVlI2THRnV2xXTnlZbWFBUEwyYi1GdEFZSmJ5eXhrc01QRVNVTkxreEdhUGREVTlTdjV6UHBTZUlLelZCdDJva1JFNVVQTWFtSEhWLVFCdGVPbUkzUURsTGhhZExvS0ZrdGpUUzNwOTZGbkxkbVhFMTNhcWtqTUk5WElpOTBmUXlHZDlGaEs0d091dGVKZWc?oc=5",
+      "published_date": "2022-03-31",
+      "source": "On3",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2022 NBA Draft Profile: Jalen Duren - The Strickland",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM0VWVzczc2RaVExOTEhkS3hvZk1NN3BtSlpnemE0VTRab1VLRnYzNjBmR2dPOXhRRmlHNUxhd3YzVzNvYVZ0ZVg3b3lLZG44OWxpTXpDR21SZW4zek9zQXJ2N2szOV95ZHo1eUNJcXlObXNjc0dZV0NRTVoyamtXTw?oc=5",
+      "published_date": "2022-06-03",
+      "source": "The Strickland",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2022 NBA Mock Draft (Version 2.0) - Hoops HD",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VWXZ5NkFXYThCMTF3cDFTRUwtNTRCaW1fWDBzazBXWl9MN3FocS01OWI4cmhLenZkbFJ6UnF5SHBlQ0g1N01XQmR2ZGVmcTFkWVZUb1lsV1lnRXdQQlBGbWZ3ekcydmhxYXRocC0wM24?oc=5",
+      "published_date": "2022-06-03",
+      "source": "Hoops HD",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Consensus Mock Draft: Smith likely No. 1, Banchero a lock at No. 3? - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMUWRUc0U1TC0xYTdJV1hoT2N2bk9jazNpZDdjeVNDOWJVWHJqSWxRU1FHTWlBNjJ5WFB1UUxjN0F5M1NjRTVHTWxQQVdQd2VJbnNFRWZJdjNfenplYy1V?oc=5",
+      "published_date": "2022-05-18",
+      "source": "NBA.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 2,
+  "response_sha256": "6955a19afcb01eb68168e26712d0ef70d1104f39c602c4927c5d7917ae2cea2f",
+  "feature_eligible": false
+}

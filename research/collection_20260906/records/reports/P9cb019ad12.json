@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:35:25.144952+00:00",
+  "lane": "reports",
+  "pid": "P9cb019ad12",
+  "draft_year": 2021,
+  "name": "JaQuori McLaughlin",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"JaQuori McLaughlin\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22JaQuori+McLaughlin%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Youngest Antetokounmpo Hoping to Follow in Brothers' Footsteps | Indiana Pacers - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTjdoZlFvd0pzZWJyWGlTUUtlZGwwbzVva2xVaWdmcE9vRXRBTTlCUlRXemRjTDZuQWplX2NLMmRWOVhNMXQxaHFrWFFORzk0cmRXWlJTVklXbXpYR3lQanFNS2czMVU2WHBnTVlHS3VKWW1GZ3c2MjZBV2Q4a0taUjZsUjFiVlVrdkxTNXpKcjU?oc=5",
+      "published_date": "2021-07-27",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "f690176a4018fd58b89c191fb5085be5a1dec794f0504e5a8a28eac7b8e3cfa8",
+  "feature_eligible": false
+}

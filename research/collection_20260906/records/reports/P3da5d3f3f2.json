@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T11:30:27.815503+00:00",
+  "lane": "reports",
+  "pid": "P3da5d3f3f2",
+  "draft_year": 2021,
+  "name": "John Petty Jr.",
+  "draft_date": "2021-07-29",
+  "status": "empty",
+  "query": "\"John Petty Jr.\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22John+Petty+Jr.%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "2ed4148b886934a8668381c56108cb63c7f3e0ee0098e63442e280c9989db4d4",
+  "feature_eligible": false
+}

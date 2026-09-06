@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:48:11.648276+00:00",
+  "lane": "reports",
+  "pid": "P684bfaf734",
+  "draft_year": 2023,
+  "name": "Alex Fudge",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"Alex Fudge\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Alex+Fudge%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft Scouting Report: Florida\u2019s Alex Fudge - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSk1hZEFsVVZvb3ZHcVlvMjlZcEtiMGlxVlNCVWVQVDlLZ1RhWk9KQktKTE5SbENOUDVneXNnYTBrZlRza3NneFVnT0dacUxyYW96QnJXVXNOTV9TemU3Q2NJSWdXcnZmMGVsbGxYWUhqSHZ1U1ZiVzVNLU5GYlBEazNiNlU0aHNRZ2VGT1FzTE1mRUVLWTRR?oc=5",
+      "published_date": "2022-11-19",
+      "source": "Sports Illustrated",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Alabama basketball vs. Florida: Score prediction, scouting report - The Tuscaloosa News",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMU9idjh6SUtkQ2l0ajlMR082MnBpTVdMNDBqWXFVdFdXWk1RU2UzTU1QMFhUTXZvLXJIVElpVnVjUldOcjhBX05qc3lPcTRjbGxyN1VTdmNnU0lScmkwRTg5QXNYMGFVU0F6LVhydG9sQzF0czQyUEt6Y2tPT3hVU0d6WWpqTnk0ZXBpTnJ1VjBKWm13d3dJQl9yQVh6aGw4RkxkYjI4WlJ1ZDVuVkQxMWptQkpnYUl0bWgyd04wRDN2bHJhTWFhT0lHQVBVYk1XNG5RY3VzX3BfQQ?oc=5",
+      "published_date": "2023-02-07",
+      "source": "The Tuscaloosa News",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "College basketball insider reveals availability of Florida big man tonight vs. South Carolina - On3",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYV9yZHV3dENVQ281ZnpHZXd6bFVGNE5vaE0tTmNtbzd6REVrYVJaLVpaM1lYT1JULUVlQmwyYmlDUUpOSnFRcVZoQ0xleW5nTnNRVUZoVnFKaWF5Skp3RzNQVU9paUowaDVSQzR2dWRWYU5zekhDRnE5TldINGxiN0RLUlF0NUszTmVSRk5kMnRqYk96S1IxaGFn?oc=5",
+      "published_date": "2023-01-25",
+      "source": "On3",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "8fac265744eb9a8562c0dc5a7995e5aa0ee311bc4b4f0cbfb9f9fe32ef13b86c",
+  "feature_eligible": false
+}

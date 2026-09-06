@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:29:48.313799+00:00",
+  "lane": "reports",
+  "pid": "P30169adef4",
+  "draft_year": 2021,
+  "name": "Jason Preston",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Jason Preston\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Jason+Preston%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA mock draft: Loaded No. 1 pick race and a new top 60 - espn.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY1NGRTJTWmFoQ1pfbk93VU9qUUhWQzV6OWJvRE84TWM3bXNLWnFpZzV3ODQwU2NSSjJvR3NwY0t3WGJJUXRCTDN1b0FQNGNSWlFjVXJHYWhWcGhoZWgtMGMxRHM3cGVmWVFqUkJIVm9OSVp2SzJRYlJvNlZ5MU9Cd1M3ek9YYlhnaW5pZ1hiaXQzSmMzWnpj?oc=5",
+      "published_date": "2020-11-24",
+      "source": "espn.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "The Biggest NBA Draft Sleepers - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWJRTWJkbFkxRnU1VnFodDJhamZwNG95LV9fWHdMdnc5SDRkOTlocHROaWM1Smt0TC1McnlfYVhaYjZtdEZvUmhrell6YXB6SGtNYTBzU3dleFFFV0owRmRtNHZzX3NJOFpvMUxybWZVeUJua2h4bFBNMm5QTGh4V18xRnE2N3V5WnNiNQ?oc=5",
+      "published_date": "2021-06-14",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 4,
+  "response_sha256": "fb763cf988547e03186fb4281261574bab1c948e5eaacf790ae6dd3b340aed38",
+  "feature_eligible": false
+}

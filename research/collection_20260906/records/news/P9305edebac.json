@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:32:41.821235+00:00",
+  "lane": "news",
+  "pid": "P9305edebac",
+  "draft_year": 2023,
+  "name": "Kaiser Gates",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"Kaiser Gates\" (draft OR scouting OR prospect OR basketball) after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Kaiser+Gates%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "The Basketball Tournament (TBT) Releases Field and Matchups for 2023 Xavier Regional - Xavier University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNR2VDUDNzWEh5LVNpR2h0M0VCTnRGaEczZGhUVUFKX2doT0M0TnFZTHFBWTdFd0R0U2RDSGhQdEF6NVFIYW5GaW1kbUZVbmlXcmdrOUlId3pGR3ppZk1ucTdLNlVKT3FxSEd1S0pHZklRZGV6R0lwTzdnRVBqQU44NUlGTTZFalJBYS1GVkhRS3hKQVNiYVRHY25SRXN4dnpRYUMtbE10Ynd0MU9HbjRhanF4eHFiUm5Vb3BGbTV4M1lnOEpEZzU0TjhfUndva3c?oc=5",
+      "published_date": "2023-06-21",
+      "source": "Xavier University Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Nets Summer League roster features four rookies, five undrafted prospects - NetsDaily",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdkh2QXdJMXdLdTVFTGRiN19wdkF5ZkYwU1RIUHBiNkd2b0ZUcnZ1OEV1XzVNUTV0bXliUTdvNlFoR0tiZUl6dDhma3VOcEloMnpCRU9mcFBNZTlwYnIxRnh4OUJTaDBVUUE5dnVQNnlLbXpza2ZlX01KcHEzcWt5N3huSS0zY2g4UzVVcGJWREY3anp5LUcwSFpKeThTdkhCOUNRVm5tQWFyWEtLMkZsdDZjdkJYdTQ?oc=5",
+      "published_date": "2022-07-01",
+      "source": "NetsDaily",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "cc88fec13c57751616525f9e58d9b7e4c57136b6a130175c4aed67dbd1b0a580",
+  "feature_eligible": false
+}

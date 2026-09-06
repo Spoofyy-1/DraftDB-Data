@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:36:40.446480+00:00",
+  "lane": "reports",
+  "pid": "Pb463182292",
+  "draft_year": 2021,
+  "name": "Justin Turner",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Justin Turner\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Justin+Turner%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "The Sports Report: Cade Cunningham is first pick of our NBA mock draft - latimes.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa09VWXA4ejY2SmUzaEdlTm9DTXpMX2FJVFFOV2IxTWxYdWF2c0x3aWRmVnRoNU5yVFFWUlhWU2hILXBZeU82V1FIUEVlMW1BYm1QTlBXQUJOaS1yeFBtak50QU9qQWxlR2cxWlpSeFhiUU5RQTNSNHVyOEx3NHlvVUxGN3h5ZHU5Sm1NVG1pU19KczFTYTRIc1Y2Z2Q0QQ?oc=5",
+      "published_date": "2021-07-28",
+      "source": "latimes.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "f323a48152c3d87d657bf6318bbceed453e2ffd8d86d931e97dd73d67e51bc63",
+  "feature_eligible": false
+}

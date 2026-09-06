@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:38:15.286103+00:00",
+  "lane": "reports",
+  "pid": "Pd74e65b4cd",
+  "draft_year": 2021,
+  "name": "Mark Vital",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Mark Vital\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Mark+Vital%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA mock draft 2021: Cade Cunningham or Evan Mobley at No. 1? - latimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQmVRbkRYTlRhaUhvTkt0emdORGdZYVRzMG9ldzFfZEZEME5qckpDWkw0RlRDSVBDdThKNkZyeVgzelc3VGZveGx6S0dJemZZc2h6V0d0WE9SM2hBd2x5bDRZRDNzTWVuckQ4R2N3ZEIteWs3WUpDbkh6MFBZTUdDeTZ6YnhYN3dfN19ZN1Y2OUJWbG82UV9ZTEl6elR5eFd1ajBRWW9qN2xPN00?oc=5",
+      "published_date": "2021-07-27",
+      "source": "latimes.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "60ce27f5db448066faed5b482a8292ef1cfca8a1e873342da15ade8a0e18e5ca",
+  "feature_eligible": false
+}

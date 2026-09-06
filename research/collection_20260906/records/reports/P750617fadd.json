@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:42:14.767329+00:00",
+  "lane": "reports",
+  "pid": "P750617fadd",
+  "draft_year": 2022,
+  "name": "Donovan Williams",
+  "draft_date": "2022-06-23",
+  "status": "ok",
+  "query": "\"Donovan Williams\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2021-07-01 before:2022-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Donovan+Williams%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2021-07-01+before%3A2022-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Orlando Magic pre-draft profile: UNLV\u2019s Donovan Williams - Orlando Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYmRnTzVsTkVUd2p0RUtLdlVadmYyZnBKekxCaEZIUUFSZHFHQl9SZjE5VDlDLVhibG9BWWR5XzlDWXVKSW5GUHVnOU90U1hubU5zcE1rZEwxVDJlMndFT19yUjFaZ2xvQnBUTXczamtYem1tZ2JTZW5QMF9TVjQ5cHBOZ1dOQVdlMnZkbWxzbWxFTFB1ZlNNQ1BEcDlrZHc?oc=5",
+      "published_date": "2022-06-12",
+      "source": "Orlando Sentinel",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "ee70ca3b70539f71cc330d864f14858468afcef7e3d7ed274a08c77bdaa00d82",
+  "feature_eligible": false
+}

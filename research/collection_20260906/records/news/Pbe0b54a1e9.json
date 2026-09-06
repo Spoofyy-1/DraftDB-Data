@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T11:39:27.466500+00:00",
+  "lane": "news",
+  "pid": "Pbe0b54a1e9",
+  "draft_year": 2024,
+  "name": "Elijah Harkless",
+  "draft_date": "2024-06-26",
+  "status": "ok",
+  "query": "\"Elijah Harkless\" (draft OR scouting OR prospect OR basketball) after:2023-07-01 before:2024-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Elijah+Harkless%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2023-07-01+before%3A2024-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Clippers Guard Harkless Signs with the Saskatchewan Rattlers - Canadian Elite Basketball League (CEBL)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONnJSMW51eU9EaDNPUU4zenZySkMwTDk5TmZzcGFCc3ZkVnI1N3o2QTlHWktxOHJZMG9hbENscHNSR1E4SmpnNDZWOWVwT2ozMWJ1VkQxNVNNRUgtVDdCQkFpaGNXMC0wc3BxcF9qNllVTFRsbWVHaTVVWUZCWXNtRkpFWnhRUk0?oc=5",
+      "published_date": "2024-04-25",
+      "source": "Canadian Elite Basketball League (CEBL)",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA G League Up Next Game presented by AT&T - gleague.nba.com",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE04a3BhSmFTbTZ2cEZ0R1lHTXpJWU1teXk1ZHdURG9PRWdWM0hpNm53MTJ3eDBMN2pXMFduNWxxYnl6eWwwRVE?oc=5",
+      "published_date": "2023-12-21",
+      "source": "gleague.nba.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2023-24 Topps G-League Basketball Checklist, Team Set Lists and Details - Beckett",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BdmZtbjJOX1FWZHdhNUFydHJhZWd1dG1RcHRodW40My1tcVdSYjFsZTllY193V0VSUWNEQVIyZ3JLWmN6NWU1eXVBclJzZE54bkRtSDhzR1dmdndrX1NpUzhET1pyZmtSNkE4dVZPcXdRYm9EVXJNRA?oc=5",
+      "published_date": "2024-06-12",
+      "source": "Beckett",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Debut win: Saskatchewan Rattlers tame Winnipeg Sea Bears; Harris hits winning shot - thestarphoenix.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdW5DUmRsLTVCZEk0Z2pKRmVYc0Rya2lXMk9aZjdLR3BETjkzaVhxSDdzSzJtTjUxRHZoaVhma3NHOTBMT2s2LXp1N0JWRHVkSEZ0Z0gwdVE4LTFFUUV4RFNhVUpOSGVSTm9tdDQ1WHhKSmhSUXdoMmtfRWx1VjJSbU5POFY3WGQ2b3JTN2ZleFRnMV9EeEdRWFVzR01YSm02NEZDeHpCVXo5TnFIMzR6U1FKcEpmMDR2aUxNcjZEVXljQklH?oc=5",
+      "published_date": "2024-05-23",
+      "source": "thestarphoenix.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Experienced Forward Williams Signs with the Saskatchewan Rattlers - Canadian Elite Basketball League (CEBL)",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNak9fay0xNXhRaTJaTjIxTm95WlppNjlSM2ltUW1KSlJ5TDkwY192YVRmWXpRYXc2cGV0SnhQZDc2eDk1VjdHMWRyUEhkRGNCNlpvbDhTTDVMd2IxUXRZb0Y1UUFSdjBIY1BwU0ZUZG52R0h1SG51YzR4NzQ4d0FQUlJaQ0szTnFUem84TzNjczI3QU0?oc=5",
+      "published_date": "2024-05-01",
+      "source": "Canadian Elite Basketball League (CEBL)",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "b23291ca26f4ea823ccfe08d9e443c0177ea35ea0c4cbbc1951d0adce3be4783",
+  "feature_eligible": false
+}

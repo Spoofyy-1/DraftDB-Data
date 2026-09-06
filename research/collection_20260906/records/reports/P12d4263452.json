@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:22:02.810850+00:00",
+  "lane": "reports",
+  "pid": "P12d4263452",
+  "draft_year": 2020,
+  "name": "Jae'Sean Tate",
+  "draft_date": "2020-11-18",
+  "status": "ok",
+  "query": "\"Jae'Sean Tate\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2019-07-01 before:2020-11-18",
+  "query_url": "https://news.google.com/rss/search?q=%22Jae%27Sean+Tate%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2019-07-01+before%3A2020-11-18&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA coaching carousel: Will Weaver is the NBA\u2019s best-kept secret - Hoops Habit",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCdmN1SkFCUmlCTWxZa1llWEdEVDNMVzd3YnFJa25MLVV0VXRLYm5yZ2pWOURuS25JTGRPejdKOTBSQTlFUVdTdmFYYm96X2NfdEh0U2EtZlVqTC1iWnM0YUdTdFdvUzZWTUlPZnBWOV91WDNB?oc=5",
+      "published_date": "2020-10-21",
+      "source": "Hoops Habit",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "71b72436b465196e4a72ac5188ac8acbcb44d18427f3b66b4a162d9a07e50845",
+  "feature_eligible": false
+}

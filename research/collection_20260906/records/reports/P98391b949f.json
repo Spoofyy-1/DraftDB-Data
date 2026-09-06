@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T11:25:13.675666+00:00",
+  "lane": "reports",
+  "pid": "P98391b949f",
+  "draft_year": 2020,
+  "name": "Killian Tillie",
+  "draft_date": "2020-11-18",
+  "status": "ok",
+  "query": "\"Killian Tillie\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2019-07-01 before:2020-11-18",
+  "query_url": "https://news.google.com/rss/search?q=%22Killian+Tillie%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2019-07-01+before%3A2020-11-18&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2020 NBA Mock Draft: Timberwolves take Anthony Edwards with No. 1 pick after winning NBA Draft Lottery - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVkNvLS1ITVlRTDQ0QmFNMGVYYU1ZMm02UFF0S3c5ZGlNeGxYaElPMmJKbFFndWo1Ylc4Ym5xSjFFQm54MFV5NmQ4NENCZ0FMS08yTWpvUmhacFlJLUFHWWdWeHpIVHFzajA4SUxvUWxtMnEyM2g1Y0JkcjhzZjBNNThVZnR3eHRVcTRETHQ1SFJma01LSnZJYUJxRjhVSEt3RlpYd3Ixb1Jvb0pyRDRVNTYzVnlXWVFkdmRRd2R5dTI4V1JmVS1zR1JsYkU0QVhtQXc?oc=5",
+      "published_date": "2020-08-20",
+      "source": "CBS Sports",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Lakers mock draft: Is Washington big Isaiah Stewart the right pick at No. 28? - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS2liSDJKbWtZODFjNU8xM095bUx4WHdFcmlyZHB5RnFKdWRDTE50R0RvWk1wWTJwdTlKRnI5UzZCajByTjdOTml0d0hqb3ZlbDFBbHl1VDBmWFU4YjZHTjZVcVM5LWk2cEtOWHB0U0JjbGIzSHQ3MjBjTWd0QThGMXREdk1tc2l5cGJ2cXdUVFF2dmdGSHRQY1o5c3lLVzNJ?oc=5",
+      "published_date": "2020-11-10",
+      "source": "The New York Times",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Mock Draft 5.0: Projecting All 60 Picks - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nZERpQndDZ2ptd3FUX2Rlbm1uSjVfdFl5TXUxT2NhaloyTUxFdFlXbGVHY0xPdDZuT3VQQXZNSTY3QWlCTzUwb292NTNNQ2JHcEtTSGNTVmhweFliRFJabE9xWkZ6dkpsVG5GOUFwQm53bUFLUnc?oc=5",
+      "published_date": "2020-06-03",
+      "source": "Sports Illustrated",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "The Ringer\u2019s 2020 NBA Mock Draft 1.0 - theringer.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE83SmR3RENmaElybEthX2xYZGRINEJuVmJLdDh5aGotamNKNTBMaXZRQlZOYnI5X2h5cTRQLU5ieWlZV29xV0w1VXp3TXZ6aE5aaTcwQUVVQVYxQmw4Z0V0Ul9pb3dsQQ?oc=5",
+      "published_date": "2020-09-14",
+      "source": "theringer.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bleacher Report's Final 2020 NBA Mock Draft - bleacherreport.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTm5sbThuZlAzSWNnTnFWcHV5R0I0YmhMZW5zbnhsaVhmd1JTWTBwTGNLWmtSV01EMVdfSlhBSE9DUXp1N2hMOWtWSURfdnBkcS04bkx4emVGWWVNZzQ0enA4YldkVkFVdWM2RGwwbjc0b2FqV1BKY1pySUhSa0xVWl9GQmZiTnpiV25XVm1UQQ?oc=5",
+      "published_date": "2020-11-16",
+      "source": "bleacherreport.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "d595ac68aef309740770e9a328bf8e67297fdc31d97ae0b76b7dd52fcce158b0",
+  "feature_eligible": false
+}

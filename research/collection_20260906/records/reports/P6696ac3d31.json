@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T11:32:54.598798+00:00",
+  "lane": "reports",
+  "pid": "P6696ac3d31",
+  "draft_year": 2021,
+  "name": "Manny Camper",
+  "draft_date": "2021-07-29",
+  "status": "empty",
+  "query": "\"Manny Camper\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Manny+Camper%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "35c9436e926521784579172cba6b30194bd1917e555eb1374eea05128a9e178b",
+  "feature_eligible": false
+}

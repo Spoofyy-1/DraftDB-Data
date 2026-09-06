@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:27:54.012700+00:00",
+  "lane": "reports",
+  "pid": "P03a04d0174",
+  "draft_year": 2021,
+  "name": "Nahziah Carter",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Nahziah Carter\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Nahziah+Carter%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Austin Reaves - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52bEZ5c29DWnZpRHRvT3JHMm01QkxXS2xOaGhDb3FXV2pVaGY0bkJLY1p4eHdpSlBERVYxWldyWjlWLUZZVHR1SW9wb1lwcERy?oc=5",
+      "published_date": "2021-06-14",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "5de35cabd2d7ecd92d874a778565ebbebc637a95f180fb403376122a9e8fc9cc",
+  "feature_eligible": false
+}

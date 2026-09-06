@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:43:36.810087+00:00",
+  "lane": "reports",
+  "pid": "Pa06f6a14b5",
+  "draft_year": 2022,
+  "name": "Jamaree Bouyea",
+  "draft_date": "2022-06-23",
+  "status": "ok",
+  "query": "\"Jamaree Bouyea\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2021-07-01 before:2022-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Jamaree+Bouyea%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2021-07-01+before%3A2022-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Miami Heat 2022 Draft Board, with Historical Comparisons - Five Reasons Sports Network",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX3FXT21yNlY4U1lvakY3d3NIQS1ZbFdWYW5WRmVIdHMyb3JNRGZUazJrR21JeGN2dUltVkczVGZ1U3J0WXBuRmI2Z1JqS0d6NmpzZXJpQVhRYXkzMk13Y2o5VGpRck5YMkpEU3dDRTBBZEN2SDlBSndhMGsyTlNjaXdYbGdSamUwMm1ib2EzclBKVDJkZDZXbUkydXp3Zw?oc=5",
+      "published_date": "2022-06-22",
+      "source": "Five Reasons Sports Network",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "1bd44b3372859ceaa2217b98c3af3127794b1a1444daf7530236033bfee99395",
+  "feature_eligible": false
+}

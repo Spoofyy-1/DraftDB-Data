@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T11:49:35.459024+00:00",
+  "lane": "reports",
+  "pid": "Pa4e79c2199",
+  "draft_year": 2023,
+  "name": "Bilal Coulibaly",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"Bilal Coulibaly\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Bilal+Coulibaly%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Bilal Coulibaly - NBADraft.net",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6eHRNRG14RWhaNGhnTlpNNldzazlpZU5IRE0tRmxmd0NxRkxNMVZaeVl0NG04NkVyeTZFUnVIUEhwbkxQNXVDanlFLUtLY1pqX1MwN0J2bUI1QVEwV1E?oc=5",
+      "published_date": "2023-05-17",
+      "source": "NBADraft.net",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bilal Coulibaly - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2elFXTHBjeV9YRWlUNWc2cVNVbUtuakxCdWtROER3Q0xDcDdKcUg3ZE5CUW5nalUtUkdaNm4yRTM2RXR4dVpJUjZPdURiOVd4QjVV?oc=5",
+      "published_date": "2023-01-09",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bleacher Report: Final 2023 NBA Mock Draft and full 2-round predictions - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2VSUkphelpkaGJhWVkzTm5pQ0VqUVRyZjFKNGppOEM4SldKM0QtdFFxcWVCM2xTOVZpRHJPOTBEeHM3S0pMY0NRdlhRcF9iTDdBdElqU1FlRGo0M05XbWtBcDBCMUJ5RExIMFhtaGE2U1JjNDRnaU00S1UxTXpZX3dveFA2WXhPa3BwekFJSnNpa01Renc3Y1JOYWFkUQ?oc=5",
+      "published_date": "2023-06-21",
+      "source": "NBA.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA mock draft: Wembanyama\u2019s French teammate\u2019s draft stock on the rise - Orlando Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR19XelJGWGpfazZuWmkybGNKWm1jWWdSQVFKMF8zN0k4VHVEczNxbkVudW9Vckhtang2TnRMYS1NVFBhSURXVTN1ZGhzLW83U2RtVlhJRUxzSTNwT2hLWjdWMEFXUFFXLWhMY0FQTjJiNGdLWlp2RWwzbXlEb2ZaRVc2amdkeWR1RGFfdmhVSHdhMVVUNkxieGgyMEZDYUg2dXJUa0pWWXdQSUhPYXFtZg?oc=5",
+      "published_date": "2023-06-08",
+      "source": "Orlando Sentinel",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2023 NBA Mock Draft 10.0: Final predictions for all 58 picks - FanSided",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12WDFYdXJWWE9WdjFVQmNVWTQyLWpRczUwMlJkdUVqaGVQTmUwbVB6TVBJTEZnWVFIaFEzdm5SOHhVd3QyZWxoRXJHY190bFJJSnVfZVBmcFJZQUlmR3V2YmYwRlVsMENpUU9nVlJ1OWk4dHR1VS1uT0RR?oc=5",
+      "published_date": "2023-06-20",
+      "source": "FanSided",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 4,
+  "response_sha256": "d979a232c3cf42e3f861d2ce0f3ba518f3163b468ec419d7217e8fe020b24cac",
+  "feature_eligible": false
+}

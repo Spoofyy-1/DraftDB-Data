@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:30:00.280493+00:00",
+  "lane": "news",
+  "pid": "P2890042448",
+  "draft_year": 2023,
+  "name": "D.J. Carton",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"D.J. Carton\" (draft OR scouting OR prospect OR basketball) after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22D.J.+Carton%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Iowa Wolves Acquire Returning Rights to DJ Carton, Keandre Cooke - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdWtzVF9oMWR4OHB3aWU0djdsSHZieFNHaTBTeWxCMHVxRHF2QmdqejdmQVNRR2VoRURVTzRtd3Z5WDkyekdGeElfZHI5ZF95VUR1cUFxRV8tbTQ3M0VyWXlFRXVoMV94RzdxT3g2dkQ2TUZuSDdFM28ya3V6OUxBVkVXeDkwT0pOZk9ZOE1iT0hiSE54VGMw?oc=5",
+      "published_date": "2022-09-15",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Goodbye, scoreboard: Ohio State takes down iconic piece of St. John Arena - dispatch.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNC1mT09FdHV0dVFWREhaSmw3WkpJQUpYcmpOOE1pUjJQcGJyOWI4VFhXcnFWZWMwNHlISm9CVlhnWWx6cURlVUxmM0QydVNJeHVuX1NVdXcyRGozQTk4SzI2UXRuaEFBVElnd3VDNFNKYUpGRVE2N2dGQmdvS0paMUU2ckRnTDJsbUc0ZXFERHZKejBhUkstSTkwU1dhNm9kcEFZNTFERjNKUEdHUVEtWXRMMDRRQlQzZldnMElBNHZHMW04Vm9zTEZNMHlLMWtiejA0?oc=5",
+      "published_date": "2023-06-08",
+      "source": "dispatch.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "College basketball's Top 10 recruiting classes for 2023 - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPbDBHYm9GWDFaZVJUenNRanhmbHBYSk5GOVhRTzZIM3Q1eVN1ZVY1aWtKWEc4LTdNV0Z6cW1pNEhaMlVzQ3FZRWcxcWlGRHVwMXRpQjVhMm9kajdTYmVlNk9TU25YdHV1UHJoUUthX2c5M21MN0JXVTFNT0VUS01oZUM3eFhzZXNkeURHS1F6c2JsMXdzSUgwc19BcmxnQzFQQTNyNVhObEgwNWFTRmtrSlFfMlVXVHFjZl9SbVdPS3JVdHZCbnlSMDFockNtNGhJNWp1U0dzQi1PYjJ6clY3SE1EU3NydEFGN3Yza3ZBNHl6bTJ2U01vdzc0U0ZIbTU5MlhyY2tUZXpIcVN5ZkU1Y0NuaGp5d2xR?oc=5",
+      "published_date": "2022-08-18",
+      "source": "247Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "19e174706bdc53850abc0162893d6655c6fe1bfe46e9910a0b69fcd220bb3736",
+  "feature_eligible": false
+}

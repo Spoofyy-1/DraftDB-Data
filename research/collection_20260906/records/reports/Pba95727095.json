@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T11:36:56.704289+00:00",
+  "lane": "reports",
+  "pid": "Pba95727095",
+  "draft_year": 2021,
+  "name": "Jericho Sims",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Jericho Sims\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Jericho+Sims%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Jericho Sims - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aWnFia2lFMExKc0lQb0VGNFlGeW9ieUxsZ29KZ2hWR3RkbVFkWEJ4MTNfVWRqUEtFdkZmS1JCel9GM3JQR3FRRFREc2RKWTA?oc=5",
+      "published_date": "2021-03-30",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jericho Sims - NBA Big Board | Rafael Barlowe",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rbVJvaTA0dmhtVkZpRERFNkl3RHdCN2ptRndaeDJtZUZ0NEYxVnR4ZzZiNnZJZTVCd1NaMjhKZ2w1QWdHZDI4ZXN2a1RYdUh0bWJvNA?oc=5",
+      "published_date": "2021-06-27",
+      "source": "NBA Big Board | Rafael Barlowe",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bleacher Report has three Longhorns taken in final NBA mock draft - Longhorns Wire",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQRjBLSjNWNW54ME5ZdTk4d2RIdVJYTzZ5YVJLUEI4UVY2Vkh6M1lXaTZNTlFCNGphd1JaSWtnaG1vd09oNjBJX3VCTTB6UERGUzFaTzlsS2ZEc1VMUmtseS1hNUhGUi1NVFdteHo2LWVadWJXNC1hVXhNZEJyLTF1bWJnMWs0ZTFTVERWNWxzMWc5eU5USjNQY0syTHlNNlF4aUoyR1lIZGhiMndtOHJiWlQ2Y3ZtOXJSOEhlTlk1aXJGY0hNd2FMTjUyX2dNZGRQWWFUS05sRWNWZG9KdkZWaTFseGNNdEpLZFRscFJJTUJ4dVRtWDhFWVpxN0xRUFRzd0o1ZkRTMjJfbmZTQThneFZBaVA?oc=5",
+      "published_date": "2021-07-28",
+      "source": "Longhorns Wire",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jericho Sims jumped so high on a dunk he hit his head on the rim - Rookie Wire",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdEdJSXBybXd2VnZCXzdsUVRrdExwTVVoVzR6aU1JY0s1ZzdDUjlYZ1hfV2MyUUVkVHpVTGg1RFpFTWdreU1BdmZnZFNJUDJ1YnoxSWk4My16ZGwtZ3FFYVBhTkc5azVxSTcwSzhseEpxcS1yN2RaQWRCWUpPSGNYU2FSTElQekdiQUF1YWVrZkcwVHZjS3lnQndJb2JnMU5QelBOanlSa0JWNzBlZVctOGxHREVMdWQwTFk1anhRUGtjZE5ET1I4RUVR?oc=5",
+      "published_date": "2021-07-14",
+      "source": "Rookie Wire",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Updated NBA draft projections for Texas Longhorns prospects after lottery - Longhorns Wire",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOMER5NEJtVTRLbkM5ZW5lczg2V0FPamowanI5QWRLc1Ria3VmcDhnWFVEUEEtb3NSTFFZVXNKTl9xbzlLUTQ2R0xDaTBmS1ZWWVZMT0JjbGNpakYzc3Q5M1dScDAzWXkyV1pnbXJLT25yaDhKSVpENTN3ZUhxNmN2MHFPell6RGwybVNIQjZMOENIZlFHbE0xN3hvNzhJdko4SERXOENOOUhFWUloU2w5SlliX2x4V3UwZ3hzOXpBWlFZdTlnYkM2V2YwRmluZk1tZjFwbmQ4WFVLOHczN1N2a2NlcnpxQkVPYlFvWjVOYloxUUF1Ul9pV1poajVxbmtKX0NjbzdkeFNQVjRJS21rVTY3N3FKdzkxMG5lMnFOU28xeC1XaU56aDFYaw?oc=5",
+      "published_date": "2021-06-24",
+      "source": "Longhorns Wire",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 2,
+  "response_sha256": "cd48e2a2eed097dbf9c4e316dddeee4df514147828985487566807fd8d2af114",
+  "feature_eligible": false
+}

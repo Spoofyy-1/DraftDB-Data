@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:37:15.040836+00:00",
+  "lane": "news",
+  "pid": "P6696ce1e71",
+  "draft_year": 2024,
+  "name": "Armel Traore",
+  "draft_date": "2024-06-26",
+  "status": "ok",
+  "query": "\"Armel Traore\" (draft OR scouting OR prospect OR basketball) after:2023-07-01 before:2024-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Armel+Traore%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2023-07-01+before%3A2024-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Nikola Djurisic adds to early entries for the NBA draft - Eurohoops",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdGhwYVlmMXFXdDlyMlhUOElxLVltLTlGU1Zid3BSU0hsaVBQNnRIbTlJRTd5WTREMkNEZlc0RTFSZkhHSVNoMWJNamVpT0ZvaGh1aURHdE9jRzgtWkZseDB6V1dwMjBoMFZMakxkN1hlS1FKTEdsV0dES1o0blV4NUY5Qmk1Zw?oc=5",
+      "published_date": "2024-04-16",
+      "source": "Eurohoops",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 2,
+  "response_sha256": "025fc9eb99dda012b7ec0f6db32522e05993e99874a14d38d293e95577900379",
+  "feature_eligible": false
+}

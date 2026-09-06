@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:24:30.964237+00:00",
+  "lane": "reports",
+  "pid": "P72ce5af049",
+  "draft_year": 2020,
+  "name": "Devin Cannady",
+  "draft_date": "2020-11-18",
+  "status": "ok",
+  "query": "\"Devin Cannady\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2019-07-01 before:2020-11-18",
+  "query_url": "https://news.google.com/rss/search?q=%22Devin+Cannady%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2019-07-01+before%3A2020-11-18&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "How Devin Cannady completed his Princeton degree as a Nets\u2019 G League rookie - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ0N4UXJYakw0YWtGMFEzXy1iSm5zdjVhVXRFUXdRRUhjdVJmNGIzanB4SklmSFNheWxPV04wc0lOR0lTbDB5MEpoVElwZkJrb2VTcjVDZkxkTDNYQWUzcm9QSnltZi1RN21FdnVWeGt0U09mcWZ0bURscWxCeERjcW1iVFg4ZGdUaURZQTlDWjNiTVNDLUhlbVhUQ090VHNXMnl0X3pyS2hwV0lMSkQzajJnZVJ6b3FOMFlmMmdMeUVLN3pJZXc?oc=5",
+      "published_date": "2020-07-01",
+      "source": "The New York Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "8a162a1359e32d9076e53619b94c97086558d140ce85980d5d49e701bcc85e4a",
+  "feature_eligible": false
+}

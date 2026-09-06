@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:23:38.464087+00:00",
+  "lane": "reports",
+  "pid": "P4ddb9bf638",
+  "draft_year": 2020,
+  "name": "EJ Montgomery",
+  "draft_date": "2020-11-18",
+  "status": "ok",
+  "query": "\"EJ Montgomery\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2019-07-01 before:2020-11-18",
+  "query_url": "https://news.google.com/rss/search?q=%22EJ+Montgomery%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2019-07-01+before%3A2020-11-18&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "EJ leaving looking more likely; Calipari may have let it slip - A Sea Of Blue",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaXNiUGFIWkctbThzMU9nUDA0SEx4VzlKcElrb2tMdDBrR1NkZzlfWlliYTJHWDU5d0JiYmJmU0YxTFk5MHotYUJheFpPT1ZaNVcycVB6S1hvSXhHZlNNVlZDNTFGS050TzN1Mm4xZlpDdDJRaVNVS0V1SjJoVkdGVWRDQnNSVUd6bzBlZFJ5R0pSdk9DZ2YwVmctUlAwUnhDMllNZXlFV3Rnd2c2bERqV2VRdF9KN1lKRTlqag?oc=5",
+      "published_date": "2020-04-14",
+      "source": "A Sea Of Blue",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "5331ef87b1b12d249495578829fc5761281bfc21511cda5468aed161b020ce61",
+  "feature_eligible": false
+}

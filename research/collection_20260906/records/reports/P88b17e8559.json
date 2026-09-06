@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:48:51.912461+00:00",
+  "lane": "reports",
+  "pid": "P88b17e8559",
+  "draft_year": 2023,
+  "name": "Craig Porter Jr.",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"Craig Porter Jr.\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Craig+Porter+Jr.%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft Scouting Report: Wichita State's Craig Porter Jr. - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdnFWX2FSREpmc2N2SjVlWWhYUWNyWUtob0k2U2c5b2JDSkxKa1BYM0UxRWpxVzNIV2xERldWclM0ODhmOTRuTDY2ZktvdlJvemM0cU90VGdjcWlzM0s4OVdKVVZYY3VBOC1kN2QwejlWRU9FSkhxOUlpOFp0dzBsTDVPanZIdE1VNTFXMkhGb1pIQmxPbnVreEd0QkhWaEM0Q1g3TVB3?oc=5",
+      "published_date": "2023-06-17",
+      "source": "Sports Illustrated",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "cd94867b7f2e26cb59a219471bc74a848fd23cc3b740a447f30f931d68357e3f",
+  "feature_eligible": false
+}

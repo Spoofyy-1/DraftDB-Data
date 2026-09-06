@@ -1,25 +1,24 @@
 {
   "trends": {
     "status": "backoff",
-    "updated": 1788689800.459999,
-    "attempted": 2,
+    "updated": 1788695328.915315,
+    "attempted": 1,
     "existing": 284,
     "total": 2560,
     "counts": {
-      "ok": 1,
       "error": 1
     }
   },
   "reports": {
     "status": "running",
-    "updated": 1788693640.809003,
-    "attempted": 209,
-    "existing": 1722,
+    "updated": 1788695406.652292,
+    "attempted": 744,
+    "existing": 2257,
     "total": 2560,
-    "current": "Pd88f1bdac2",
+    "current": "Pbcdd20a9f9",
     "counts": {
-      "empty": 81,
-      "ok": 128
+      "empty": 276,
+      "ok": 468
     }
   },
   "scouting": {
@@ -34,14 +33,14 @@
   },
   "news": {
     "status": "running",
-    "updated": 1788693641.3687549,
-    "attempted": 204,
-    "existing": 2027,
+    "updated": 1788695404.4114308,
+    "attempted": 718,
+    "existing": 2541,
     "total": 2560,
-    "current": "Pc4eb6bb8ac",
+    "current": "Paae5adeebf",
     "counts": {
-      "ok": 202,
-      "empty": 2
+      "ok": 708,
+      "empty": 10
     }
   },
   "mocks": {

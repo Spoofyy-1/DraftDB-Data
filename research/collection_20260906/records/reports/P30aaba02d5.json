@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:29:55.060385+00:00",
+  "lane": "reports",
+  "pid": "P30aaba02d5",
+  "draft_year": 2021,
+  "name": "Filip Petrusev",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Filip Petrusev\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Filip+Petrusev%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "About Filip Petrusev - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rRXlIS3hsdFZNTlZtbUFyU1BiQXp2T0I2V000QmoxZGZvSlZNLWpPSFNvUHd2TFYyMllDYW0waThKNkRHemwyd0YyT2VFdWxYS0Z5bVJfT2tOWGJnSjcyNTBNZDN5QQ?oc=5",
+      "published_date": "2021-07-07",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA mock draft: Loaded No. 1 pick race and a new top 60 - espn.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY1NGRTJTWmFoQ1pfbk93VU9qUUhWQzV6OWJvRE84TWM3bXNLWnFpZzV3ODQwU2NSSjJvR3NwY0t3WGJJUXRCTDN1b0FQNGNSWlFjVXJHYWhWcGhoZWgtMGMxRHM3cGVmWVFqUkJIVm9OSVp2SzJRYlJvNlZ5MU9Cd1M3ek9YYlhnaW5pZ1hiaXQzSmMzWnpj?oc=5",
+      "published_date": "2020-11-24",
+      "source": "espn.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "bc3fc5fc469bffc11f6b5a2780133c200b704000466560dce6e3366c3a88297d",
+  "feature_eligible": false
+}

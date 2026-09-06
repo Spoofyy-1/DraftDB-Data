@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:37:10.020396+00:00",
+  "lane": "reports",
+  "pid": "Pc37129efde",
+  "draft_year": 2021,
+  "name": "Trendon Watford",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Trendon Watford\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Trendon+Watford%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "About Trendon Watford - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Ud241Z2R3QWhKM2lnQ3hYaGRCa1JyRTEtVUZDZE5MZlZHSXFpemMzYkJ4MWppclFzbl9kR1NDaUN0aE1wWU5ha0JDY3dBamtpcVNYMC1vVDFpQ0h1Wlh4WThzdXpUV2M?oc=5",
+      "published_date": "2021-07-07",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Draft Profile: TCU\u2019s Desmond Bane - 97.3 ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFRW5OSTUxVmdZNzZVZVlXS0R1N05QNDJxdm9iV29xRzNoLWVDVThGMEFkcTFWQTBxWTRTRTVGbk9vZ2J5NnlVMXdPbDdkUXpXeGE0Wl9ZU1gwSkU4YnB0VFpR?oc=5",
+      "published_date": "2020-10-13",
+      "source": "97.3 ESPN",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "88a761dea4c6ebf8ce15403b64b614c147a37fd0d590092d2011fab73ed2119a",
+  "feature_eligible": false
+}

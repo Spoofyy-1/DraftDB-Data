@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:30:17.955535+00:00",
+  "lane": "reports",
+  "pid": "P37de3fe8d7",
+  "draft_year": 2021,
+  "name": "Shaq Buchanan",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Shaq Buchanan\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Shaq+Buchanan%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Xavier Tillman's Draft Scouting Report: Pro Comparison, Updated Grizzlies Roster - bleacherreport.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVlBBalpOOEpOdVJMcU95NmFneHJlN083eFZnNVlnV2J0d1hVdElmckwtOEs1NF9XMGJJTnNuTUwxaGE5TlE0UzBwUXBMQWFkNlhCa0tKcy1MUDhlNjlOLXFnSklITDJMOE1xRC12MkNreXVqbHREWjhNcV9nUjJmaFJpS19FWG1ZbFUwWTdZLWZfUUpCdEtpSzh6dlc0cFo2SWVGZjFndTlaU0luUjFJR3lUNVFVaHVoV2tpeUZ3?oc=5",
+      "published_date": "2020-11-18",
+      "source": "bleacherreport.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Desmond Bane's Draft Scouting Report: Pro Comparison, Updated Grizzlies Roster - bleacherreport.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRmVDN0VYbVBjeHZHbHFlOUM2R1Yya2t5WVlYcEU0Z3M2ZVc4SVA3UDZKUVpfeHR4MmVwa0l2Uk5NdHQ3d200OS1XMlJSSjlmN2YxZ0pIXzdsNmxyOThUbno3SW5WN1gtYXEzWDVrT2FBdGNQQ3A1TVNtR1Nzcko2R2lTOTR5d19pVzRMXy04QUJGUW5HZ3B3SEoxTFEzOVNvaTRzc004SXg2UE8xcG01bmZQNFpqdFRPX3dZ?oc=5",
+      "published_date": "2020-11-18",
+      "source": "bleacherreport.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "f3c83972b9920fc50b122c018afb394ebd27afbfb83bdbf96073799814c093bd",
+  "feature_eligible": false
+}

@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:42:34.400164+00:00",
+  "lane": "reports",
+  "pid": "P821b19c2a1",
+  "draft_year": 2022,
+  "name": "Kenneth Lofton Jr.",
+  "draft_date": "2022-06-23",
+  "status": "ok",
+  "query": "\"Kenneth Lofton Jr.\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2021-07-01 before:2022-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Kenneth+Lofton+Jr.%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2021-07-01+before%3A2022-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Kenneth Lofton Jr. - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82UmVqM2ZJNFRDNGYzcEUyZjJTRHFrNDkzV3JZbG8yN1VTSGhjWGNJbnZ3bGJKVVdkcC1zMW4zSnJPVWk4d0NRSzN5cm5HaVhiNWNjbDd3?oc=5",
+      "published_date": "2021-07-11",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "LA Tech\u2019s Kenneth Lofton Jr. leads Team USA to gold - KTALnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdVowTUtFLWtwTTAzWkJMWFNCZ0JGYmswYk9wS2dOWEh5SlZBSE1IbWRLT1VpZHlzSWdnZkM2a0VWek1raHFRV3RlTTJfd2h6b1NXS0tIcGlpOFFQWUlZZll1WDVfOFN4cE1zWWhocUFWWndadi1qdWRjdHRSckc3YWVsSkVqb3ZWRVHSAY8BQVVfeXFMTVNabTQ3VW9QMnBwUmtrZFVYdmVxTzdyRTVhXzd1cXVncUVTb1Nzcnh1ZnRpWldDWjlXWlZTV3pFNEpUc29rcndIeDlVdDQxX3JFWnVHNEQtYk8zT0hMMk96c2ZkbGgtSDctTjNsdXo3amFzT2VJUGdzNXM1d1Z4cHB3bWtWWjRWZkJHSTF3QUE?oc=5",
+      "published_date": "2021-07-11",
+      "source": "KTALnews.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Christian Koloko - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUWG90NFpzN2lwQlI3MGZsSkRfejJWVVRwQUZpSnBvOFFkbVQ1blFxdWlXRmxzZ2M0emtBeW90ZzNrc2xDQ3BZdTMtR3RUSFEydVE5Zg?oc=5",
+      "published_date": "2021-12-05",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "ae81811867f507ff5192c77f998713b298ec7baafdd20154eff681fff6dc8b03",
+  "feature_eligible": false
+}

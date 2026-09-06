@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:42:24.669483+00:00",
+  "lane": "reports",
+  "pid": "P7c29e11a29",
+  "draft_year": 2022,
+  "name": "Isaiah Mobley",
+  "draft_date": "2022-06-23",
+  "status": "ok",
+  "query": "\"Isaiah Mobley\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2021-07-01 before:2022-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Isaiah+Mobley%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2021-07-01+before%3A2022-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft: 5 intriguing 2nd round picks - A Royal Pain",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GTUg5Rkl5STRaSUpSYWs0OEZOYzA2cTRkVl9jMTZSQVdUUmNIRmtUWnJGVzNpTDhpc3MtVXRJbDdyZ0J1YUZCSHI0NzJ0ZDlaa1g2SlktZ28yU1VIa3B0by1udVRqVkpQZkowVVRmZlV1MDdVNGY3UWxlQnplUQ?oc=5",
+      "published_date": "2022-06-21",
+      "source": "A Royal Pain",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Eastern Kentucky at No. 16 USC men\u2019s basketball: Scouting report and TV info - Orange County Register",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQnp6c1JITVNGd29LenROTXJsdUpEUlNRc1Noc09EcjdRVkJJZ0ZaemcxMUVjQTlSdDRNbmMwYUVRdXFpWGJ0cmtFbXVrZzhNRm5RMFJIT01ZbTJCaHd1Z0tScXNFdFhmVXpDQTU0VC1Kc3I4LVRTTnZhZzRkYnF5N1JYcUNDSTB0QUtJcHBKNUpJYl83ZERaT2tEMVgwa2N0RFM2alhvWTBuOUVuTG53ZURR?oc=5",
+      "published_date": "2021-12-06",
+      "source": "Orange County Register",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Seven men's basketball players from Big Ten feature on Wooden Award Top 20 list - ABC7 Los Angeles",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbkpYUy0zQ2JLNHhHN1l6TDkybmVfZHRZS25tNFcwZWk1MEdPSzdMV2RWclkzZjhYWlMzbVdjazJDR0gyWk9yZWtncWhxYlVCTUVRd2d6dVAwUjhfSEtOM2RDQ19ZNjFaOWpLa0V0TlIxUHRnNlVmVG1NLS11MDVEQU5VWUJtUVdwUWVkUWNWOWFsM21vYVo3eWxvQnRiSjQ?oc=5",
+      "published_date": "2022-02-08",
+      "source": "ABC7 Los Angeles",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jake LaRavia - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jRXRsQl8yNVVBaUY1VDZtNTJsMkgyYUNGM3hTc18zNE1rQUVjajhMM1U4amZMT1NNOWFzMEZjVk00YzFvcUVRWS1FQ0hrMWM?oc=5",
+      "published_date": "2022-04-03",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "0ba6e85a5f501604e3e88a6fcd4d1d5b3200a711c429e752a5c983401e0f864f",
+  "feature_eligible": false
+}

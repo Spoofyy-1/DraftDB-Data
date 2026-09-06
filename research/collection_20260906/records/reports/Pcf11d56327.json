@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:37:45.852003+00:00",
+  "lane": "reports",
+  "pid": "Pcf11d56327",
+  "draft_year": 2021,
+  "name": "Sam Hauser",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Sam Hauser\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Sam+Hauser%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA 2021 Draft Prospects | Sam Hauser - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RV2U3alB1WGxmX0oxZjNtdHdMdThucnp4TlNfT0NiaHBsazY2UFFNRnIzZ016Tk5ESHc3S2tRT3dmQ3I5NlMtNGlRZ0RYNmdlRlFDNy14QUhObElvanNjWA?oc=5",
+      "published_date": "2021-07-16",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "7a91386b7aa8afa06e7bd16ef6909a77eaefb204cfc152e25aba1214d7c10f4f",
+  "feature_eligible": false
+}

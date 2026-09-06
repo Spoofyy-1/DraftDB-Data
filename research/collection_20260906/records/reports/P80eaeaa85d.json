@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T11:24:40.824500+00:00",
+  "lane": "reports",
+  "pid": "P80eaeaa85d",
+  "draft_year": 2020,
+  "name": "Nate Hinton",
+  "draft_date": "2020-11-18",
+  "status": "ok",
+  "query": "\"Nate Hinton\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2019-07-01 before:2020-11-18",
+  "query_url": "https://news.google.com/rss/search?q=%22Nate+Hinton%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2019-07-01+before%3A2020-11-18&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2020 NBA Draft scouting report: Nate Hinton - Peachtree Hoops",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcEd5X2JUaWpid3lwNWp4NmhHczVibzI3a1ZkNFZIcnJZZmRpaDVwcVE5WlptN0syZ2lPSXF3QndqT2NvSm5QYkFKWWFXU0lERmRyYThCZnNSMHpzX0tGaEJXRjR5WkFLMmFIWF82cy1QM3BRUnFPc3BST2N4RlpyTjdmZzdsMEtaRXlYYUEtakhSbmUxWWQ2M1gyLXBPNUc4UWpNRTZiWnJDSGRyNEd2LXZYbVZud3hDVHdiLU03clBteVpxREM5RmN4OA?oc=5",
+      "published_date": "2020-08-25",
+      "source": "Peachtree Hoops",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2020 NBA Mock Draft 4.0: Latest intel for all 60 picks - Rookie Wire",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOFVhZnRYX0pHRHo4WVBOdmlnUDB3d1g0dWdsVk9BbFJ4dF8xS2dEclVmZnMwRDJvX2ZENnp3VzBlRk1OOXNVQVJMb3BUN3ZuWnMwVGJqcXhWa0hjWDNrdkl1TDVrSGY1QzdWUG1HY09iTXVGY2tqdU9CRFJ6TFRPX1MyQ0YyRmxTMUVDb3dtVkhXYS0wQjN4cFlMQjl4SURFT29qUTUtZXhjck8weUdvRF9tSVU1NEN5X3JZNW5JWVdDNFdBTXI5U2hfalpPc3FsbVJDOA?oc=5",
+      "published_date": "2020-06-16",
+      "source": "Rookie Wire",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Desmond Bane - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00SG02QXFRTHBnR2JmSkJtQ2doeTNuRTkydWFSdkpkWmhUTTlnbUVVRmVYdllnZnNScU54cThNaTFwaGdJNm9hOUxIb003OUgwQUE?oc=5",
+      "published_date": "2020-06-30",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Devin Vassell - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TUHZvVWd3d1Fkajh0ZW9sbVVXeklQRC1pTE1LcEhPQXhkS1dTczhSSzZFcWhZZFBpQTI5UG5ETm1ETTFlWTdkaUtvSGVFZGxKY3NV?oc=5",
+      "published_date": "2020-06-30",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Tyrese Maxey - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OLUM0aTZ5cHRISXhsRUduTC04czlxWWhadk95anlBMl9EdTNlSTFpWlIxdTc1b1lMYlU1eER3MFFkUEJ6aG0tbW5BUTR0LTdYOHc?oc=5",
+      "published_date": "2020-06-30",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "279eb1f5c252684bb632ea85e5088c0f1e3efb787c303ffa447c25b062281056",
+  "feature_eligible": false
+}

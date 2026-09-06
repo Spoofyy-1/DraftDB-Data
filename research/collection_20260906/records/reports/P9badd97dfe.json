@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:35:21.896234+00:00",
+  "lane": "reports",
+  "pid": "P9badd97dfe",
+  "draft_year": 2021,
+  "name": "Joel Ayayi",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Joel Ayayi\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Joel+Ayayi%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Charlotte Hornets NBA Draft Profile: Austin Reaves - Swarm and Sting",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM1FBb0N4Z1hHNl9vM2FrUE5pTDJOR01ULWo1a0RyMzJEWW90ZFl6a2RYZzVtSkNwcFJiRUtXbUR5RllDOGJudzhHMC1ZbFZtbDRnUlEtNkcwOEI4YzVNeHFUdWRsel9TWUdMeVNVOVoxMk1pbl9NSWdWNmRrUHBEVXRWTjRVb295c0QwWHJubUo?oc=5",
+      "published_date": "2021-07-22",
+      "source": "Swarm and Sting",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Mock Draft: Latest Projections After March Madness - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YRXpoYU9ITWR4aWxCblNkSUlfZV9LT0d1TnBLaUxpMmFubHVaZmZ1R2I2eUtkNHo0ekZvRUdCZkZwZW1MNmw0MDZOTVNKckQySmF2ZGdVRGEzRDF2clN2djIweHlkcmtUN1NkWnRELWljbk9MVTh1MWZ5VjA?oc=5",
+      "published_date": "2021-04-08",
+      "source": "Sports Illustrated",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "c878d7344c48f1675d0de02a1d2c48f29b5aee05bc1e225dffe850cd3c1708be",
+  "feature_eligible": false
+}

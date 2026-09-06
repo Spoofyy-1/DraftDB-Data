@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:44:40.883180+00:00",
+  "lane": "reports",
+  "pid": "Pc60f6451c1",
+  "draft_year": 2022,
+  "name": "Cole Swider",
+  "draft_date": "2022-06-23",
+  "status": "ok",
+  "query": "\"Cole Swider\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2021-07-01 before:2022-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Cole+Swider%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2021-07-01+before%3A2022-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Jay Wright, Collin Gillespie talk Cole Swider transfer, old Big East & preview Syracuse-Villanova - Troy Nunes Is An Absolute Magician",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUjBZRUVhWldHYWhkaVlya3hkRlRkQ0htalBDU2hMb29vZlM5QnQ5OG9SZjN5WmtVelM2WVlpM2NEcWstMDBaRkZlcTVjd2YwdE1tR1V4eE1RdUpLeW92cVJ5OFhrdmFSX2wweXN0ODhTNURXNkZDZkE2S2k4ZWNmeVpzM1BUTnZfbEZtZ3JrVWhMTWNGTkZKN2Z0Z0NoWWI5WUxNRlVlX0ZHS2x0dU14alVZeWxGUGtPQmJqUm9OLWk4ZjBCaVRCVnhMdmI0RmtraDlFbzM2Um9OTU1kcWhN?oc=5",
+      "published_date": "2021-12-07",
+      "source": "Troy Nunes Is An Absolute Magician",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "38da47d8e64fe4ee6cbd341246f2f601616611a3e2bd240dff0e2408f1fa4e48",
+  "feature_eligible": false
+}

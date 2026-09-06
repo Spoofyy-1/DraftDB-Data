@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:42:44.194147+00:00",
+  "lane": "reports",
+  "pid": "P868c7d320b",
+  "draft_year": 2022,
+  "name": "Jared Rhoden",
+  "draft_date": "2022-06-23",
+  "status": "ok",
+  "query": "\"Jared Rhoden\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2021-07-01 before:2022-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Jared+Rhoden%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2021-07-01+before%3A2022-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Celtics mock draft roundup: Potential picks at No. 53 - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSjM2ZnBqMUcxeUN1aXkzMXNDMFNTYTVIZ1h4WkNoOVhodFBIVmN3RmlEWVVJUmFDNG1ldkZvOVdrZmEyRTVrZ3NMUlVpZFZwTXk5OXlfQU9mSlJnRy1FRVMwTEhqdnpXTGtGM3NoYVNRejA0VWlTbHo5a1FNY1VaQ2dQR3k2NHlERFRaN1VPLWNnUS1lN1ZQYlQ2NGhYNEt6VnJlYjhTM2thT0pIVHV6VW1VUzR2MmFNckVkWU1yQ2xWcnhwa2hkSUd6N21DNzBxNkZVUkJpeWxHQXdOd0JQekxKc0d4cy00TDhxTTlhUDDSAfYBQVVfeXFMTmZkR09zVWNuUkp2cEp0UnFhWjNxb08wanJuM2tmcGw5MUxQZ0VPVDR5ZU1VZFJQcndPWTFxY2I1ZzlVUFJGRGdVNElZV0xmRnRscF9KaW5jV2VxRVZCNjRISUNaN2VXY21OSTRYTV9IcHBfRkE1cWtzY0NEN2hNa0RfUGxUNnJUVE5nX0p0bnRRbzZQMmNqRDlOcHllZUpTM2dpaGZFSHNjelBFdkhib3k4U2RSYUVBaWhhQjR2VDAzUEZHWnp1MGxzNWdYQXcxVk5FNURsU1AzY2wzOFFCX3NNWmJlTm5uajBPMk1UVk9jY2tsZHZR?oc=5",
+      "published_date": "2022-06-21",
+      "source": "CBS News",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Miami Heat 2022 Draft Board, with Historical Comparisons - Five Reasons Sports Network",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX3FXT21yNlY4U1lvakY3d3NIQS1ZbFdWYW5WRmVIdHMyb3JNRGZUazJrR21JeGN2dUltVkczVGZ1U3J0WXBuRmI2Z1JqS0d6NmpzZXJpQVhRYXkzMk13Y2o5VGpRck5YMkpEU3dDRTBBZEN2SDlBSndhMGsyTlNjaXdYbGdSamUwMm1ib2EzclBKVDJkZDZXbUkydXp3Zw?oc=5",
+      "published_date": "2022-06-22",
+      "source": "Five Reasons Sports Network",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "2c44379c03e80469c67095a91de825f8c590c7a32ee5b796834847531887493e",
+  "feature_eligible": false
+}

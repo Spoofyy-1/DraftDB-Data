@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T11:23:01.573385+00:00",
+  "lane": "news",
+  "pid": "Pf54b3f87be",
+  "draft_year": 2021,
+  "name": "Christian Terrell",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Christian Terrell\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Christian+Terrell%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Bryce Fowler, Christian Terrell lift Sacramento State past Idaho 73-57 - The Spokesman-Review",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOUw2ZEs4d0tHVFlWamhFNFptbXp0QkJpdlBITjBxa291MWg0YWFmZUducjU4RjgzV2dIWnNKdFhqZGZVZmM0a2xBaFY1T3dySllYeGo2cjFBX25LS3REdzRJVUxwOEV1SUpyUWF3LXI4ZDRNWURkRGYtM2JIRFg3ZmVucHJQZ3psaWtmeEI3VVAzLWxUUFVvRTU0UWZuZw?oc=5",
+      "published_date": "2020-12-05",
+      "source": "The Spokesman-Review",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA announces early entry candidates for NBA Draft 2021 - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZlhuYVM5Z3J3RTdhU3lVajd0MU9oeWtIQzFXOExpMjlPWVVKLTVMVUJXT1hvdFVmejVTbjBYZkVTM1Zvb0xDRk9zNG1hclhmMHdsNkpRUEtXdTd3eWg2dUF2bmE2M2dqRWdERnVyR0pTMGxibFZpWWVsNG90S2tJa2lTaXNFWVU?oc=5",
+      "published_date": "2021-06-01",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA announces early entry candidates for 2021 NBA Draft - sportingnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGtCd05CUnBOaVg4bC1sa2Qwc0lsX2VrZjVPbDJ3RFdQZWJJcl9aZThWcFhZZUwxdm5mTmpfZloxTENnTHlOWkIwMUxBZmlEUGVzY3dHRjZoelJNZ1YxWGx6WlkyNkhvMDNobXpNZV9RT0hNWWxmdm55SS1pTnJ2Q25TaGFjWFdFWUViZHBuNnJnX1dtalNPdFh2V3V3eFp2TjE0VDZNM3lZNDk4ZGpMclpReHd5VzNyME8ybnFyNlc?oc=5",
+      "published_date": "2021-06-02",
+      "source": "sportingnews.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Who's In and Who's Out of the NBA Draft? - NBA Big Board | Rafael Barlowe",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1idUk5bDQyb1Q2MTVnUzRCeHM4WFo0VHB2aHhXZkhjX0hVYzhzeVhuUUdQTDRTOW0tanVMMWtyc3M3N3pLOTZXVHFMMjlyMUxvZHozWHlpR1ZZWXAzeXpaNWU1NkRYcldkRVFqQkF1amhwbW55UlZpc2hmOA?oc=5",
+      "published_date": "2021-07-20",
+      "source": "NBA Big Board | Rafael Barlowe",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Eastern Washington erupts in the second half to sweep Sacramento State - The Spokesman-Review",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON211X2psYWVWbTVfUHFIb1F6ODBQZ0VZVFlINDlGUnEtVlRhNTVEdnExZk1nSVVkb3JoYi1KYjQ1bml2SFUtLTZoSHJOT2Z3czRLNmRueUN5TElEeDQ4QnUzQ0tFeVJOSDB4UVIwVGM4Mks2UUdNVWtJbm9zUjJwMXRxRXFFUi0zOUhaR29hbXczVmZDYnlRY1RfUXFaQQ?oc=5",
+      "published_date": "2021-02-01",
+      "source": "The Spokesman-Review",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "c8803dfdf74ad8c2682e5451942f4170281d7b462e0829a4a5f830b055122e8d",
+  "feature_eligible": false
+}

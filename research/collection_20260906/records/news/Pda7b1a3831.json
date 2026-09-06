@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T11:21:51.180122+00:00",
+  "lane": "news",
+  "pid": "Pda7b1a3831",
+  "draft_year": 2021,
+  "name": "Ian DuBose",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Ian DuBose\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Ian+DuBose%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Ultimate guide to the Wake Forest basketball season. Everything you\u2019d want to know. - Charlotte Observer",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MelluNDQtNF83MG40RGhqNEtLWGRIX1RETlYtZ1hrWnRqc3BiTjh5YXRweklucG8ycDg3ZEJGbnBEUjFaVXctd0xCb29hTGk1RWtVbVJwMERkMlF4RGpsWkY3OTZ3UmJJTzQ2dVdXONIBb0FVX3lxTE82ekVEZngwUzdhTkJod1ZvS2xvVjBjNmJEQ1lNLXI5N3p5NGtxa1Y3dFJuMGQ5REFDQ2hINVZqeThwYVdZaTgzV0paM1JUcEQ0eWRRUFV4NFVQVXVaNjAxRFQtWGdWWGxEWlVDNTNwaw?oc=5",
+      "published_date": "2020-11-27",
+      "source": "Charlotte Observer",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Navy's Cam Davis Earns CoSIDA Academic All-America Honors - Patriot League",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUFFzQmhfSjZ4S1pWN2hRaEtoa0pXTlpmY1hwaC1FQ1ZWN1RLTFg1TmlXaFNuSzZvN2xXS0NRTEVrV3A3ck1iWDVwenhRUUY1S3RvZTc4QTJvemJxTFd0WFRybjJpclBWUUkwZlJQQ24xeXpHS2YtNzVWLUpEMVg5MGpBZVNtX0oxTUdEOXI3OXdwMzJkSFZNcVNERnpORjRMcWV6Z2wzZXFNRmlRbXZkVTcxM1Y5SmQx?oc=5",
+      "published_date": "2021-06-01",
+      "source": "Patriot League",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Wagner Named to CoSIDA Academic All-America First Team - University of Michigan Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZlBnVHlIVHVWQUdoSmJuWlRQdUpIemQ0V2NiZElveUY4QndIV3Mwc1VsTms2OGZjVldBUVhJSVA3NTBXNHhfUU45b1lPMEdnZ3N0Mm41NDFHTGJ3aWg1RGZhcDVBdTVKanBrdWlZcU1yRGVVTFRucmVxOHNVZmRCSEhYVEtyZkc1eThXWEllWjdZaWRHNWJfWDNpanlYWEpfankzOGtWRWU?oc=5",
+      "published_date": "2021-05-28",
+      "source": "University of Michigan Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NC State rolls Wake Forest for third straight ACC road win - WRAL",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kUXRES2JYMFN4Q3JpM1d4M3djc0g1SHlubWhZN2VUd2JINExpSFdOTW5na1VsTzN4VE9nZ1ZfNUNtcGkxcG1BQUVqRGZaTm1mSlhwWmcyZXM?oc=5",
+      "published_date": "2021-02-20",
+      "source": "WRAL",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA announces early entry candidates for 2021 NBA Draft - sportingnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGtCd05CUnBOaVg4bC1sa2Qwc0lsX2VrZjVPbDJ3RFdQZWJJcl9aZThWcFhZZUwxdm5mTmpfZloxTENnTHlOWkIwMUxBZmlEUGVzY3dHRjZoelJNZ1YxWGx6WlkyNkhvMDNobXpNZV9RT0hNWWxmdm55SS1pTnJ2Q25TaGFjWFdFWUViZHBuNnJnX1dtalNPdFh2V3V3eFp2TjE0VDZNM3lZNDk4ZGpMclpReHd5VzNyME8ybnFyNlc?oc=5",
+      "published_date": "2021-06-02",
+      "source": "sportingnews.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "1715e15ce17aa83039068291e67ba0f318b407de3f05351067eef4d52f5bcfe5",
+  "feature_eligible": false
+}

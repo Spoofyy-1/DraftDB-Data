@@ -1,11 +1,10 @@
 {
   "status": "backoff",
-  "updated": 1788689800.459999,
-  "attempted": 2,
+  "updated": 1788695328.915315,
+  "attempted": 1,
   "existing": 284,
   "total": 2560,
   "counts": {
-    "ok": 1,
     "error": 1
   }
 }

@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T11:30:31.073606+00:00",
+  "lane": "reports",
+  "pid": "P3e86849b89",
+  "draft_year": 2021,
+  "name": "Eric Vila",
+  "draft_date": "2021-07-29",
+  "status": "empty",
+  "query": "\"Eric Vila\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Eric+Vila%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "a5407def1a359a758904b2874f88f5ab4377d8aca855a85a8f25dc175bd0f569",
+  "feature_eligible": false
+}

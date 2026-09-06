@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:26:12.771178+00:00",
+  "lane": "reports",
+  "pid": "Pc09cd8c6d0",
+  "draft_year": 2020,
+  "name": "Naji Marshall",
+  "draft_date": "2020-11-18",
+  "status": "ok",
+  "query": "\"Naji Marshall\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2019-07-01 before:2020-11-18",
+  "query_url": "https://news.google.com/rss/search?q=%22Naji+Marshall%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2019-07-01+before%3A2020-11-18&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2020 NBA Draft scouting report: Naji Marshall - Peachtree Hoops",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPU19SMnJMWk9zejFncXVPYU04T0tGY3Q0OXVfU3hZbmZ2dGRCby1DVUN2RDN6UnBRaGM1RXkwR0FWY2ozWGJTaHJkMWVKejlicGhzTElZSU5QbjNMUlB3Nl9SRVdiRG5ORmEzTVBCWnYyT3dPUXhWX1B5THhjb2ZpaEpNNUpkUmowaGxfNkNhRkNUelFWdWpya2o2ZWY5a3hrX0c4TDlhcUEyNVFpWGhPUmRDOXY5TXJUbmRYX2lfZXhxbkFNSDZ2bnFmR2t2TmE1?oc=5",
+      "published_date": "2020-06-22",
+      "source": "Peachtree Hoops",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Cooking with Jason Carter: How Xavier added a dangerous ingredient to its roster - Cincinnati Enquirer",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQ0tZZ1NRUmZMbHExNHc2RHFPcC1peXNZd3pxWWd0ZWdaVXkwQWRrNU05VHRablRYblVoNFE5ZUJDV0NKNk82alJYVzZaRFhNR1JLQ1V4bmJzRzMwU1RhRHJiRDVPQzFWaUhPSXhobzRXT25GOW42OU05eE9uUWdCSVBXeEhxVmkyZlV2RjM4ZWJCT0wzWGFGZnNXcmo2MlVVT1gyVktpdnU1VDJlWHpUWHM2Z01DMmJPZC1yczFud1hjLTNCbHg5NXNKUE9jeUx0X1hfMU1lRGM5SUJhQWdnRjVPaw?oc=5",
+      "published_date": "2019-09-16",
+      "source": "Cincinnati Enquirer",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "add82cc12d4b2006fda98bc05d724e1cecb0775335047499d2b1b18c22caf355",
+  "feature_eligible": false
+}

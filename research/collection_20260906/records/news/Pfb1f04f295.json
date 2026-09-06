@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:23:18.155821+00:00",
+  "lane": "news",
+  "pid": "Pfb1f04f295",
+  "draft_year": 2021,
+  "name": "Cat Barber",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Cat Barber\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Cat+Barber%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Cat Barber - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42cDZKQlpJYXRVNlhpZEdpbkRVY3hDS2xvUlhHOC1wZTlRT1BoV3pTYlBTSVVYWDNsQTgybVRxdGQ0NUV4am8tVENabE5SNGZGR2d3SE1jZEM?oc=5",
+      "published_date": "2020-10-30",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Thomas, Johnson headline US roster for AmeriCup qualifying - seattletimes.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOG9fSHhwb05PRDdEdUQzRFR6Q0FUSWJvbWhZLTlIZ01JN0ktOTEtaEswcHM2dzFnUC1ncDREUzJ3NVQwdm9GOHVhb1lKVEtFRGp4Z3JkaFdUVUdpa1F5OEp4THJ4MXhXcVNXRTBuWXd2SFdXWmUxY3NRRXpWcTFvVjRhbDB1SU9TMk42NkRCY3ZYdXBzdk5jTzRR?oc=5",
+      "published_date": "2021-02-02",
+      "source": "seattletimes.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "e2c4b2e3465831c51d8e88c6717a1d7c325bd54dae03056a6cae70e46d8a305f",
+  "feature_eligible": false
+}

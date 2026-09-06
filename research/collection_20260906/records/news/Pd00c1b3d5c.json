@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:21:17.797199+00:00",
+  "lane": "news",
+  "pid": "Pd00c1b3d5c",
+  "draft_year": 2021,
+  "name": "Cartier Diarra",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Cartier Diarra\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Cartier+Diarra%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "TBT Tournament: Cartier Diarra Back in Purple - bringonthecats.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcnpyRGhjekFlNlRuay0yODEyczMtRHVOb2tXY1k5ZDRuMElPOUFyUXZPanFaYVA1MlpTTjlWblJUQ2ZublhEb0NIdTJ0MUlTVVVlaUc0RU05S1BFTEptSHpmdkZlcnVDX2RjeU9fOFhmWXhBOUVSOGhyRWl3cmFTNnVmU3kyanA2ZDlpTy1aUUhfcklSeGpwN1djS3JULWdjdlQ1SGhjb3UyU0tsV25pRDNDNFNHTDd1MGNndkUwZkM?oc=5",
+      "published_date": "2021-07-15",
+      "source": "bringonthecats.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA announces early entry candidates for 2021 NBA Draft - sportingnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGtCd05CUnBOaVg4bC1sa2Qwc0lsX2VrZjVPbDJ3RFdQZWJJcl9aZThWcFhZZUwxdm5mTmpfZloxTENnTHlOWkIwMUxBZmlEUGVzY3dHRjZoelJNZ1YxWGx6WlkyNkhvMDNobXpNZV9RT0hNWWxmdm55SS1pTnJ2Q25TaGFjWFdFWUViZHBuNnJnX1dtalNPdFh2V3V3eFp2TjE0VDZNM3lZNDk4ZGpMclpReHd5VzNyME8ybnFyNlc?oc=5",
+      "published_date": "2021-06-02",
+      "source": "sportingnews.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "2df9ab9a1b8000d7dea79b94b8a11efdbed079da00c18d4c5d0ca891ec517af8",
+  "feature_eligible": false
+}

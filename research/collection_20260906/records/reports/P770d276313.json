@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:24:37.594416+00:00",
+  "lane": "reports",
+  "pid": "P770d276313",
+  "draft_year": 2020,
+  "name": "Niven Hart",
+  "draft_date": "2020-11-18",
+  "status": "ok",
+  "query": "\"Niven Hart\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2019-07-01 before:2020-11-18",
+  "query_url": "https://news.google.com/rss/search?q=%22Niven+Hart%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2019-07-01+before%3A2020-11-18&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Niven Hart, Oak Ridge , Shooting Guard - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WLUw1eDZYWkhTbUpkdWR5R2w5RGZNOWhjWjVwUXgwTmdKZnpXVkpwNVhLUWJWdGVha0p6cFpwNl9KdWtmOVUyQ1FNZHR0dVpTanVZcDRPcFZ1N09xYkE?oc=5",
+      "published_date": "2019-08-04",
+      "source": "247Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "49204d8c29a2d1dc3d0d50c32f82ff0374632299a158ef69979f9781a5ae00a2",
+  "feature_eligible": false
+}

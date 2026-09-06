@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T11:31:14.151909+00:00",
+  "lane": "news",
+  "pid": "P57690f53ec",
+  "draft_year": 2023,
+  "name": "Jalen Crutcher",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"Jalen Crutcher\" (draft OR scouting OR prospect OR basketball) after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Jalen+Crutcher%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Charlotte Hornets Sign Crutcher, Duruji, Sims And Whaley - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTmNlZ1RfbWx3N0RrWkQxbFFHel9NVTJMd0trSTlDMkVBNnh5WnY4OEZrQ0tidE8zRjJTT1U5eHlaeXcxSjZfblJ5MUFFMFJpVlpLbm5rd203dWx5VWxUQzNORC1ueUF6b0l2aEhUT1RsQUhCck9xcUEzSms2LTJKZlNaM2JRU2ZUX1NCaUJmM2w?oc=5",
+      "published_date": "2022-09-12",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Hornets finalizing roster and LiAngelo Ball isn\u2019t on it. What it means moving forward - charlotteobserver.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSUo1NldxVEpEaEtjTzA4UXhOZGhfMHV4c09HaEZreDBCNjVlYnNvTDhrT1VrbXg2M0VUeEpUV0pyNy1fTkhzSFNDVDhuMGlWZGNsSzVRc0w4RkpJYTJGWHp3YXdqZDJDbEZqWTNudXE1VGQ3Y1NOUnlzUTNRRXo2TV91bS1jd2fSAYcBQVVfeXFMTUlYZFZtSWtSb1p3T0U3c1RFMWJyUEktSDJtNlU1SU14dk95VjFRQmNiWm9uZ1ZGdndfOE5HLU9lSmVSbjlNek0tby1VcnpBVWQ2ZU1peWIzeW92R1pkNUk3dXFCbUNYOGNGNGtJVkZqLTdVRlNERXhHOHdidTMtNlpObVFwMDBN?oc=5",
+      "published_date": "2022-10-15",
+      "source": "charlotteobserver.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "College basketball's best international recruiting programs - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1BHZWV5UHo3cG5oUjZjOFJraDBuUWdxY001WXFlQkFodGkyTXNOUTJieHBaejVhZTFuek45MlE0T1lLRGN2STBLN2xUM0NNdWVndEZXVFZSMnJuOWwxTlgwY3ZsVDZiblRlTExORWtReDNtV1BzMjZERVEyWm16c3pLSFBDMjJra2dlNVlObXlOSUxZbExmMDhyYWltSnZiWUN3cjlJN2I5RGM?oc=5",
+      "published_date": "2022-08-10",
+      "source": "247Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Charlotte Hornets offseason recap: Grades, preseason tier, changes, end of 2022-23 goal - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNGRud0YzRGNubHhoeS16UkFxSDNib3dTNmZGMnVCMFo0UTNjV3NFMUpVbllnRkh4UEt5d1hRdGQySE1xSWhOMUtYdlpuQkJyM1VhNUluUWZheUVSR0QyZHR5Q25HUTZPOHVtb0NiN0NKdzA5S3RPU1JGUkZuSkh4NnZLdG04cXBNRDRreVJyZw?oc=5",
+      "published_date": "2022-10-02",
+      "source": "The New York Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "GREENSBORO SWARM ANNOUNCE 2022-23 OPENING NIGHT ROSTER - Greensboro Swarm",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX1lqcV8yMElBMEwybjM1amwxcjE2NE55MzZrQlI4ckNacGFRaUFTWGZicnpnc0dYdGFUSFlDYTJVS09vT19KVEpNejRncFhlUEIzTWRjdkpEdy1QSDRIZ3ZZcUxKN1FHbE5XRkpNMG5CY3ZmZmttNC1TcFViLW5oLU5JWDRLV2JRVl9RVkxYNFJyWDhkT0w2X0VR?oc=5",
+      "published_date": "2022-11-04",
+      "source": "Greensboro Swarm",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "38973fd31e5ff24435728393eb041b7c01883af0a562355241cb68f5b74ae5f0",
+  "feature_eligible": false
+}

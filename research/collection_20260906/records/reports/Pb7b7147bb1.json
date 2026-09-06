@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:50:03.049504+00:00",
+  "lane": "reports",
+  "pid": "Pb7b7147bb1",
+  "draft_year": 2023,
+  "name": "Drew Peterson",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"Drew Peterson\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Drew+Peterson%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Potential Philadelphia 76ers undrafted player profiles: Drew Peterson - Sixers Wire",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRWlyQnl0Z2JrMVJkTE9PS3pQaC1FTlVYQmtuRTM2Slp3bnF4a25kRG1VR1lHWjQySVo2aEZTS1JPNUZ5c2dVdEVrcTNVRzJYOUhNSEZObzJ1c0xrd1ZISzJGSVZ6Y213UXF3WWVkM0dpS3JHdDFQRFNEWVJveVkwWUVWQjJJcW82OGZCdy10X3poYXFLNDVSckNsSlRzRlNsTm85YlgwOVZBdWxCZEp5VDJOdjlWcm1DUTBuM2VMOUpwcVRHcThkMlRHaFJWN3ROYWlqQUVud202MHlZZDI3S3FR?oc=5",
+      "published_date": "2023-06-08",
+      "source": "Sixers Wire",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "889ab0142e0ab8b3ea5cd8e6d47ac942f887099c9e2f52f66105a1d693318cf9",
+  "feature_eligible": false
+}

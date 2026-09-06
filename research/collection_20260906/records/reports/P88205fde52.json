@@ -1,0 +1,64 @@
+{
+  "collected_at": "2026-09-06T11:34:29.457162+00:00",
+  "lane": "reports",
+  "pid": "P88205fde52",
+  "draft_year": 2021,
+  "name": "Quentin Grimes",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Quentin Grimes\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Quentin+Grimes%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA 2021 Draft Prospects | Quentin Grimes - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAySHp6V2Y4c3RQemk0b1h0Q1FYWWxSZ1lkdk9LdlhOUlNFUXFUTDZZTXozQVZ3QlEzUkE3NXlZNlh4REpfUWN3RUdRalF2RUNQUFVodHFnRjRQWWJDN0FnRWY2Q2M5Zw?oc=5",
+      "published_date": "2021-07-10",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Quentin Grimes set to become first NBA draft pick from College Park - Houston Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOampLZGNvZUszbmxSbGZNUFJtMFJEdnJxZDlxaUdVMDZpdmlSVUJaNXYteHotLUYtVXNNTmFBd2t6OUluWG15NHhNdmRKcUxfU0VoTjJkMjUxTmpaZkh3VldlRko0N3FrTzNmTERHNEVfUXlib1dmSDNRS1BGM0lCMUdnbHJRWkR3LWt4WjU0NXRWUFd0X0VIMFpKQTR3eHpWaFBmdDBNbkJXWC0wY1kyNk9MZ2pnakhab3NSWm5venktMVZ2QmhKNjBsNkVMdw?oc=5",
+      "published_date": "2021-07-28",
+      "source": "Houston Chronicle",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft 2021 Profile: Quentin Grimes intrigues with 3&D skillset | Denver Nuggets - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdnVCZXpSdFRRY3FxalRJZ1hJOWxHQjU0UW53Ulh0RnVXSF9VejZreVJlek51aWFXTmhPTWszR3NHRUxvZENlaXFCc0pCa1lPVE05ZUYteG9kSVZoWlZNbjBFa1NlcE5nMDZneVZmUS1zTHB0LW9ja1dWZUg2cE5Fa3Nn?oc=5",
+      "published_date": "2021-07-20",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "The Evolution of Quentin Grimes - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WZGFsekN1T25iYThnd3JwdEtlZm1XZ0FYQXRUUTZ6dS1UR3ZxQjhjcExPc1lZTWVfZTZaVWtRYVhSRU4tTGsxZzlwRjdJLXFwZHhObzQ0X2YwZWNhZWZ3UGh6ZzNUWG9za0tXM3RDa2trQQ?oc=5",
+      "published_date": "2021-07-28",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2021 NBA Mock Draft (Final Version) - Hoops HD",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xVWFBZXdPb1Z5dm5LZzFtNTZMaTgxek1kTGEtblBXZ3RlT0hyUjVtWjBKMXZ1ZzFsWl9lbVpYRnVac0NmM1NaWGpuUjE2MDFJM0RDQmFmY2p3akp2UkkxUGZEdk45U2hqRHFIeTdFa0hSczg?oc=5",
+      "published_date": "2021-07-28",
+      "source": "Hoops HD",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Austin Reaves - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52bEZ5c29DWnZpRHRvT3JHMm01QkxXS2xOaGhDb3FXV2pVaGY0bkJLY1p4eHdpSlBERVYxWldyWjlWLUZZVHR1SW9wb1lwcERy?oc=5",
+      "published_date": "2021-06-14",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 4,
+  "response_sha256": "73ef1287d01c207d7b6412c37f4ca500a3ab474c27b936dd55737ee68f77832b",
+  "feature_eligible": false
+}

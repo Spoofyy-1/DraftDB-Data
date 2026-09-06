@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T11:46:50.425586+00:00",
+  "lane": "reports",
+  "pid": "P3a22280810",
+  "draft_year": 2023,
+  "name": "Timmy Allen",
+  "draft_date": "2023-06-22",
+  "status": "empty",
+  "query": "\"Timmy Allen\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Timmy+Allen%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "a0f334d3072f0079782b4b35965a15e44992fbce83d132c533a0617373765000",
+  "feature_eligible": false
+}

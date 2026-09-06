@@ -1,0 +1,29 @@
+{
+  "status": "bounded_collection_complete",
+  "requested_athletes": 300,
+  "completed_athletes": 300,
+  "collected_athletes": 216,
+  "crosswalk_historical_checks_passed": 125,
+  "crosswalks_needing_review": 92,
+  "verified_timelines": 120,
+  "partial_timelines": 97,
+  "participation_rows": 774,
+  "seasons": [
+    2023,
+    2024,
+    2025
+  ],
+  "counts_by_season_type": {
+    "2": 524,
+    "3": 250
+  },
+  "league_calendar_complete": false,
+  "updated_at": 1788694728.091881,
+  "network_requests_total": 728,
+  "network_request_cap": 900,
+  "athlete_cap": 300,
+  "stopped_at_authorized_cap": true,
+  "no_automatic_broker_promotion": true,
+  "no_WAR_reads": true,
+  "request_log_sha256": "fe1722423d7a0e45412f5c419dbe26a16c02944033703da34cd1786343bf4b69"
+}

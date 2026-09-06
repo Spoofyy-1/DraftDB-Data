@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:41:44.949100+00:00",
+  "lane": "reports",
+  "pid": "P539be6c711",
+  "draft_year": 2022,
+  "name": "Hyunjung Lee",
+  "draft_date": "2022-06-23",
+  "status": "ok",
+  "query": "\"Hyunjung Lee\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2021-07-01 before:2022-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Hyunjung+Lee%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2021-07-01+before%3A2022-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft scouting report: Hyunjung Lee - midmajormadness.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeDM2UVNCSkFNVlk3ZG9aREJpQUpiUnVsNTU2Z19IdEUxYU8xRDZ5cVM4bjNCWUp4akhqa1RyZVpGQzZEa3ZkTFUyTHlsa1ZnQnljeGRRVFlOS0ZMZU1rM19BQ3JwTkdQWUw0cDJVM2VEcDh5ZEs5cWZfT1QtdW8wR3hCTXpzcWFZX090SUJYWEpWYzg?oc=5",
+      "published_date": "2022-06-21",
+      "source": "midmajormadness.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "'I think I can take that spot': Davidson's Hyunjung Lee wants to make history in the NBA - espn.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPc2ZUdWFXeklsMGUzeVN0ZjdUdndRWUM3X1lfeW50XzdMTEF1SjFqNVlsci1DT3c3X3pqZGNaUVdkMHZfM1M5MjlCdTFwRHFmaTVQLUdLOFVFOHdWbllnZnRvV2thSlk0TC12NUx3ajZQRjh1RzVhNVRGRFpaRjZZWld6c1M5QzA5dXkyQVpUMGZQdkp0cU1sdU1iSmlTWklCR0lvYXlrM2YtMXFhaGd0T0tGRWplekdka2RaSjAtN2hhOE4zRDlGMG1FVQ?oc=5",
+      "published_date": "2022-03-09",
+      "source": "espn.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "5 Asian Hopefuls in the NBA Draft - Canis Hoopus",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWHVqc2hIbWlYZ0pHYlFsckdialdBQUcwSE9JTGdzSU1vWWR5N0FBcl9GUXdudHJKOXNuVkE3M1R2VTFaVHZPVXpGNUxhYTk5MEZwWXBJUElmSXFXSHJEVHpPRGRqci1OcFh5ZS1kTXRyQ19FRU5DS2ZDT1pPTFJNeXpza1Z3c2c?oc=5",
+      "published_date": "2022-06-21",
+      "source": "Canis Hoopus",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "40d29a1e108d3d74e90b31c68ef3521358a80571da7c927d3d58a3e956762a2b",
+  "feature_eligible": false
+}

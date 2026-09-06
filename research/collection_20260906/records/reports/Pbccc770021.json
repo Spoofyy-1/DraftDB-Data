@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T11:44:20.767411+00:00",
+  "lane": "reports",
+  "pid": "Pbccc770021",
+  "draft_year": 2022,
+  "name": "Jordan Hall",
+  "draft_date": "2022-06-23",
+  "status": "ok",
+  "query": "\"Jordan Hall\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2021-07-01 before:2022-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Jordan+Hall%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2021-07-01+before%3A2022-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Scouting Report: Illinois' Ty Rodgers - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTktrVnllbnRNSU1KMmRfNE5wczl1TUJYbW5RY1o5dzVzbUJabGI1eXltZV90bk5UcEZvc21BcjI1dkpybXNPMlFwNlNvZ2pZb2gtREp3d1BoZHFTb0xaMUxtZkxiNkJtblFleEV4Y2FsX0NkTnZGOXJ3NzI5V1FaMDVn?oc=5",
+      "published_date": "2022-02-09",
+      "source": "247Sports",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Miami Heat 2022 Draft Board, with Historical Comparisons - Five Reasons Sports Network",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX3FXT21yNlY4U1lvakY3d3NIQS1ZbFdWYW5WRmVIdHMyb3JNRGZUazJrR21JeGN2dUltVkczVGZ1U3J0WXBuRmI2Z1JqS0d6NmpzZXJpQVhRYXkzMk13Y2o5VGpRck5YMkpEU3dDRTBBZEN2SDlBSndhMGsyTlNjaXdYbGdSamUwMm1ib2EzclBKVDJkZDZXbUkydXp3Zw?oc=5",
+      "published_date": "2022-06-22",
+      "source": "Five Reasons Sports Network",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Tari Eason - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xNjJ6SHlpRXhIR1lnb0F4Nm05b2dYRjVGN0YyYllrOFJVbS1vMzJ0cXFWMG53OV9XWDRVTlJpeV8wOWwzbUpSeU85ZzU?oc=5",
+      "published_date": "2022-01-20",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Updating the scouting report for No. 1-ranked safety Caleb Downs - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbHV2T1FNVk9KOVVhX3ZJWVMwZ0NPeFdrU1FLNUlUVkxsazV3NUtYTUxoa2JHTjZXekN0b2Flbi1PcjZweE1YY0d5ZnRsTEJIZGFCRnc4Mm5GR0NZck9FUTJxU2RSVGNwdTBBdTJpOUhON1NZeE5wNmNEQWtQdWphNllveXNtMlJXOWo1MzZsSFFRekNZdENORUdVVHo1Zm1TSU5ldnhrUDh1cnB2MHFoLVUwR1BrNUx1YndYMUpLTGtib1JnXzVpczJKM0puOC13SlowdkZJcnFFNVBqcFVfVjFVa2l3cE92cTlqdlFKRWZsREJsdmxhY2Z3MA?oc=5",
+      "published_date": "2022-03-03",
+      "source": "247Sports",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Scouting report on 2023 4-star Michigan commit LB- Raylen Wilson - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PeDVadHl1cVNmN0NEZWlsMjdxdXpmXzV5S09Sa21uejdLU2ROaHhqTW5CMEExTVN3U1FzSldtUGRyTi1FUmhoZTIxZzNPNy10NUNoOGpJS0lFZzdwaFY1b3k5OWdEczVGSC1GbU5BaWZBNGhjbndVaVBoWGdqQQ?oc=5",
+      "published_date": "2022-03-14",
+      "source": "247Sports",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "de196b384c197bb74fcab423b44d6360b9ad2c124f827c53adb4adb91f4a7808",
+  "feature_eligible": false
+}

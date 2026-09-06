@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T11:42:04.990448+00:00",
+  "lane": "reports",
+  "pid": "P6b997b8b4f",
+  "draft_year": 2022,
+  "name": "Jaden Jones",
+  "draft_date": "2022-06-23",
+  "status": "empty",
+  "query": "\"Jaden Jones\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2021-07-01 before:2022-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Jaden+Jones%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2021-07-01+before%3A2022-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "d7d1e92a6d0943d0ad809f6b22e774c77bfa822a64f398a6c482109f9ba60efd",
+  "feature_eligible": false
+}

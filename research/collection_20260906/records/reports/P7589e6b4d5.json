@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T11:48:35.214033+00:00",
+  "lane": "reports",
+  "pid": "P7589e6b4d5",
+  "draft_year": 2023,
+  "name": "Adam Flagler",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"Adam Flagler\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Adam+Flagler%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft Scouting Report: Baylor\u2019s Adam Flagler - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWkUwLW1yNkdfZ1hBLThJV3dvcUhseFVyeG5LcVBHQlVIMGFCLTJzM0liTVk3TG1Jb1h2UXFHYzdJRzMwUThCV0ZvSTU2UXJFdVllTlo5VEQ0alV2d25mWjJKNGtDbkZFZ1N4UTZSZmZDYnctc3VEdFVlWFBRbktXUVBrNGw2T3VCandLTzZRdkJTY21VWHlhbg?oc=5",
+      "published_date": "2023-04-26",
+      "source": "Sports Illustrated",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA 2023 Draft Prospects | Adam Flagler - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1IeFZKQ2ZMTWVpaW5IdzN2Z2RBOVVYVVhuOTc5dUJRUHk2VElKcmdZMnFTU2pyUVRTVXdxdVFlT2JBeEZ5WUpIdGs0U0V0MG9yVmN3VXZXY29MOHhrOHMyWDFnbw?oc=5",
+      "published_date": "2023-06-01",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Andre Jackson, Zach Edey Among Draft\u2019s Latest Early Entrants - Hoops Rumors",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY3JWOFRPdzJkdm5QdGRTRThfSWxPMTZTU2lkLWtTaWxvRnl0N2ttNUtiR0xoS2pVSC14cnJGV290M0lTZldUaWh2X1IydWRDU3BreDhLY3ZqWjRyYi1qLU9GRWVGMWdxVjJPa0ctZWdjQUdER1IxOUJxVUdMblFGeUduTFNrQktxdjhIdVgwZFRRUURENVZpX2tfcnhzZkh6bjk1X2k4Zmh2LWNHdWdoVmZoQS1KN0kzUUVz?oc=5",
+      "published_date": "2023-04-18",
+      "source": "Hoops Rumors",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Big 12 Basketball Well-Represented in ESPN Mock Draft - Heartland College Sports",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQTNEcElwOHZObUp4azFwN0U5Q3JEd0ZtZFkyQzBwQ3JmU2VKR3Rnc21YbmdmREZ2LWRkOTZlVkFjYUZMTDBZTWdVRkVWdm5ZYWQwRGI3RFVTalNqYzcyVVI0R1JVSDVNNldWdmxwRllseU81OWtRRVRiakZJel9tb0pqNVEwUzg1Rm14SHNNQU8ydjBFd2o4aXVIclhoZUY1SW9vdXJ6OA?oc=5",
+      "published_date": "2023-05-31",
+      "source": "Heartland College Sports",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Six Big 12 Players Listed on B/R 2023 NBA Full Two-Round Mock Draft - Heartland College Sports",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcXplR0FxS0Ywa2d6NFFBVmt1OVZqT0o0OG9QYks5ejZCZ3oyVVFrdzVsSEp1VFRMTWtxM1Uwa0wyRGJ2LVZtT2VKekZnNm9mbVN4Y3IwSG9QY2hqcDFCM0l0NVJyaHNVOXdFcGU5d3doZnRmbjVkUGFwRGt3bFBpQmFDZ0xlYzdDR2NWWDJMdERYTEtLOXlqdm9BdjExVDdpMTg1UGhEbDZNRnNxcXJFNFliMzJYeWZFOHc?oc=5",
+      "published_date": "2023-02-15",
+      "source": "Heartland College Sports",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "cdea616f861807582f61f288e175face6a8281e6c67e888023692d33c99e3ac6",
+  "feature_eligible": false
+}

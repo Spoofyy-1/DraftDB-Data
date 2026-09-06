@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:36:27.276546+00:00",
+  "lane": "reports",
+  "pid": "Pb149e1d8c2",
+  "draft_year": 2021,
+  "name": "Dalano Banton",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Dalano Banton\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Dalano+Banton%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA 2021 Draft Prospects - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUT0R5Yk1IY054aDhqSHRKYjRURnBSQmdSSVVJdWlJdUxaT0R2Y09XQ3N5dUtWOUx6WmlxVmJrdkE5QWViMU5md2VuY3lkZVNVZVdYUGg0WkNYVE1NVXB5NGhvOHdNNGhyZHp0RQ?oc=5",
+      "published_date": "2021-07-07",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "2f0346f59668b8bbda57eec3f9c3ffba96c5581cadd4ffcdb6e59d1d5c4ddfdb",
+  "feature_eligible": false
+}

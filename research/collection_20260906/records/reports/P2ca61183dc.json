@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:22:45.585751+00:00",
+  "lane": "reports",
+  "pid": "P2ca61183dc",
+  "draft_year": 2020,
+  "name": "Skylar Mays",
+  "draft_date": "2020-11-18",
+  "status": "ok",
+  "query": "\"Skylar Mays\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2019-07-01 before:2020-11-18",
+  "query_url": "https://news.google.com/rss/search?q=%22Skylar+Mays%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2019-07-01+before%3A2020-11-18&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Cassius Winston taken in first round of latest ESPN NBA mock draft - Spartans Wire",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTEZVZDNmbXFqQlhxaEtYSXJuMVBKYWpiaUVCMGI3SkNPUVVTWFFoYVdhbzJoTzR4UHZnUGM1b3Z4QUw2b3VnQTBJRkxHVkJNZkRYNnplQmRhMXptdG1vbjRPdDlvUEhMd2NIUEVCYnlVUnM1QVoyMkVlb0RwMmg3SVk2Q2ZOMl82U2FqS29MRm1GSDNzTmdQcFh4dkRjZHlXMFExZzZCcFNEVVZwa3lvMmFzQWN4M0NtZ1BRQXl4MUMyc2Z4bndNTHpnOEVWTG1Hc2g3blV2RXdNbGlwV05rVmQ5bV9YWXRBdTNrRjhLeFY3Z2NNMWFERm8wYVdoaTQ?oc=5",
+      "published_date": "2020-04-09",
+      "source": "Spartans Wire",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Desmond Bane - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00SG02QXFRTHBnR2JmSkJtQ2doeTNuRTkydWFSdkpkWmhUTTlnbUVVRmVYdllnZnNScU54cThNaTFwaGdJNm9hOUxIb003OUgwQUE?oc=5",
+      "published_date": "2020-06-30",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2020 NBA Mock Draft 4.0: Latest intel for all 60 picks - Rookie Wire",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOFVhZnRYX0pHRHo4WVBOdmlnUDB3d1g0dWdsVk9BbFJ4dF8xS2dEclVmZnMwRDJvX2ZENnp3VzBlRk1OOXNVQVJMb3BUN3ZuWnMwVGJqcXhWa0hjWDNrdkl1TDVrSGY1QzdWUG1HY09iTXVGY2tqdU9CRFJ6TFRPX1MyQ0YyRmxTMUVDb3dtVkhXYS0wQjN4cFlMQjl4SURFT29qUTUtZXhjck8weUdvRF9tSVU1NEN5X3JZNW5JWVdDNFdBTXI5U2hfalpPc3FsbVJDOA?oc=5",
+      "published_date": "2020-06-16",
+      "source": "Rookie Wire",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Tyrese Maxey - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OLUM0aTZ5cHRISXhsRUduTC04czlxWWhadk95anlBMl9EdTNlSTFpWlIxdTc1b1lMYlU1eER3MFFkUEJ6aG0tbW5BUTR0LTdYOHc?oc=5",
+      "published_date": "2020-06-30",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "fca2bac46148aa91a40091e24e7d8d78dc2fd142a93aa53d706b7c7dc8e6b435",
+  "feature_eligible": false
+}

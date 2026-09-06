@@ -1,0 +1,64 @@
+{
+  "collected_at": "2026-09-06T11:28:00.506894+00:00",
+  "lane": "reports",
+  "pid": "P05f9ca4653",
+  "draft_year": 2021,
+  "name": "Chris Duarte",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Chris Duarte\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Chris+Duarte%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA 2021 Draft Prospects | Chris Duarte - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Yam11QWtiRWRvY0tiUU0wMmhLZEZ1T2NCd2ZBaHBEaWZqYVprUExTUDZVenZIX0V0cUlSRGF4V0ItbzNDdzhnX1dvV3RGblNTX0dlaURfb21rbDA0cGI0N0lIYw?oc=5",
+      "published_date": "2021-07-07",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2021 NBA Draft Profile: Chris Duarte - The Strickland",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVHZwUlJ4cEV3bzg3Ry1ZTU42eUtvY0JPYkwxVjNLdHZsRlAtU041SUJwbHhGM0lFUU5wQnpENURQdGhVT0hhU2F0OFZYSm83MndING1jZVN3QWNjeHkwT2h6X3dCaG5VS0JKbzBwTjRKdWFsbXFjUU96UXhUR3NKNlp3?oc=5",
+      "published_date": "2021-07-25",
+      "source": "The Strickland",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2021 NBA Mock Draft (Final Version) - Hoops HD",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xVWFBZXdPb1Z5dm5LZzFtNTZMaTgxek1kTGEtblBXZ3RlT0hyUjVtWjBKMXZ1ZzFsWl9lbVpYRnVac0NmM1NaWGpuUjE2MDFJM0RDQmFmY2p3akp2UkkxUGZEdk45U2hqRHFIeTdFa0hSczg?oc=5",
+      "published_date": "2021-07-28",
+      "source": "Hoops HD",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Mock Draft 2021: Cade Cunningham goes No. 1 after lottery finalized - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQTE4U25sYV8yYy1FSDE1cnlraTNUNXlLNjlrdUpib25PTWdPZFZ6V3BFWllzeDRLOXRpS1RKZW1CbVpUYmNFVGJjN25VRVRLUzZlbHlfUTF0c0hFSzl4M1NtSzhIZUYxREtkTVdPOHotM0swUmZyZmJhZDFZamFBaDhhZk1vSlU3UzRtbnQ3MEstTURfMFZlRDZhZEJiT0JQeXBOTEZOamZ2cG1aYXdsRWNXQ0ZyNXc2T0E?oc=5",
+      "published_date": "2021-06-23",
+      "source": "247Sports",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Consensus Mock Draft: Top 3 seems clear in final look before Draft night - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0RU1Cb0xoYmF5SEdLVk9xaHRqeC01UG1KSlQ3T0t0eEg0a2lVZ3BkS3NPbGd2TjJnbTBWRmxXQUlMWkEzUEE3cWdWRHdwYzFSaTdReGFyNWM5UXBnbl9R?oc=5",
+      "published_date": "2021-07-28",
+      "source": "NBA.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2021 NBA Draft Profile: Isaiah Jackson - The Strickland",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWE1rdkxaWWFlQ1o3QTNqY2c3U2h1MkxxRUxvYWVnQnBLN2tlLW1BQkFTNU5wVXpZSFRfcWd2ZUt3MXZROW94U3hSOWNMRWo2YUlOa0F2T1drcURPNlMzWVZqWkw3Zi12Z0JEck1YVEg1eC1qWWdTLWJ4N2ZWV1ltNndER3I?oc=5",
+      "published_date": "2021-07-25",
+      "source": "The Strickland",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 3,
+  "response_sha256": "ae12c6c9365ffb2da4332cb8b7b630cb67933bff6376c8ca92d02f366e8e0b72",
+  "feature_eligible": false
+}

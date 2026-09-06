@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:45:35.509961+00:00",
+  "lane": "reports",
+  "pid": "Pfc4c07b799",
+  "draft_year": 2022,
+  "name": "Lester Quinones",
+  "draft_date": "2022-06-23",
+  "status": "ok",
+  "query": "\"Lester Quinones\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2021-07-01 before:2022-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Lester+Quinones%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2021-07-01+before%3A2022-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Orlando Magic pre-draft profile: Memphis\u2019 Lester Quinones - Orlando Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNFJwMERVRFl3QjZNcWJsLXRJc3JldC1zUFZLc2Vkb2x1Z1V0WGJ1U3RTNmVKREFSelpQZHdoZk5IMG1oa3ZXQW9OR2d4TF93VGc2UlV2SzVaS0Q2MDBOT0w4dnRiN25LZmxVSDJ4ank2V0JLRE1ubTA5bmZ6RXl5UkxMSHp4MDQxMTJ1ZUtuYXVHdFBPTGFYd01LVkxuanIz?oc=5",
+      "published_date": "2022-06-11",
+      "source": "Orlando Sentinel",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Memphis basketball registers season-defining win at Houston. 5 takeaways from Tigers' victory - The Commercial Appeal",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQZk9fajJ1TF9aTFVNT1ZFWThtYXRURVgwcVFjUkdOdkFQOTc0cEJoVlBHbUlnRGtQX1hXTUFQemV1V0kwSURFRURzTFVTR0d3MjNpSi1lNWtqN1piSWhXUzBva29KOTF3VW9lWkltcE5xZzZtRnB6cFdUN2xKLWx3bk5zMzdNTHlfWWdCejB1dWozTzFGZXNOZEVDdnU3RTgzT0ItUTh0T0FhNURRSW5pUkJQOUxXSzhiNl9UWktwWlotSTdWdUxpdGpsTXVrMUNVNUZMX0phRE9yWjFLTE5ieUdaZHhRZ2RMaDVVWUlnZFNUQXNVRmNKQnY3bi1IdlF3?oc=5",
+      "published_date": "2022-02-12",
+      "source": "The Commercial Appeal",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "12a2994c6c0b2f84c256ed9d8247154c4dae21c0716071bf8c8fd9bfa926c4ca",
+  "feature_eligible": false
+}

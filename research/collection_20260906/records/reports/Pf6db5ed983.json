@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:21:19.808814+00:00",
+  "lane": "reports",
+  "pid": "Pf6db5ed983",
+  "draft_year": 2019,
+  "name": "Tremont Waters",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Tremont Waters\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Tremont+Waters%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Tremont Waters NBA Draft Profile: Latest Projections & Stock - heavy.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORk1mckRVWHRFdHZBZHZFNFpTaGY0YXhlM2RVYjJ5MzM3SElyRnIwaHpCejdBVHFLcjFINzhtQm5wbG5VOElnYThZYTl2ZzFPTlRjWm5XZW5NUTJCN3VUdlMxNXdta1NTRjZSUEFHSjFVVXkxRUx2N0RYa1ZaZEQ3Tng5X3pTdkhISVE?oc=5",
+      "published_date": "2019-03-23",
+      "source": "heavy.com",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Tremont Waters announces his declaration for NBA Draft - TigerRag.com |",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaXo5a290UEZiV2d0cURvWlQ4V2UxWDM3YmNNNzduWTNBb3dLSmNYcFBnYkhzZ1pSS0hpQ29OTV9HOTdZZHJ4S0FpUl9IZEhWT24tWlA4TFcwUlNZN1RqRWNOSFAwME41TEF0QVFoVEJFNFdnNFl0R2dvNVB0Y3NYanFYTjZqcFU?oc=5",
+      "published_date": "2019-04-04",
+      "source": "TigerRag.com |",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "LSU Basketball: 2019 NBA Draft profile of Tigers forward Naz Reid - Busting Brackets",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZEdfcllJUEhDRVY0VXJkSHdVVEtySXE1bHBDN0w0VFBiMlpFS3RCM0w1MXBJU3dxYkVzc2NrX0xZY2M1ZGxPdDd3Vl90Tm14Vk9QS00wQ2U0QU9tZzlucU9GdkgyUlNucm9idzRIakh0a01WSndUVGVzUV9yX1paRHlGSWxZMEo2Wnd3Y0tFY005UF9QcGhwdzBPam9kRXBHai1n?oc=5",
+      "published_date": "2019-06-08",
+      "source": "Busting Brackets",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft Big Board 4.0: Ja Morant Takes Over No. 2 Spot, Zion Williamson Remains on Top - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOckxzdFloSXA5NnFJdTM4c1BwdDJoSW5IQURjY1AxWUZPQklhQUVkTzZZMk5EdEE0SVdYRF82UFk2THZuRzZMR0w3WWJvTXl2Q1ZnLVd4cnRKSGpHQy1pSndoZ05Md0FsdHllSXkxRDJYamZDYWVHNGt2bzU3OTdtSkVhLVY5SVFvcF84WGJzaWxORE0xTk1CMXcxSQ?oc=5",
+      "published_date": "2019-02-12",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "1597870a07896004fae6d7739086dbb4a0af36c49da73dda124c5cf7bba34c54",
+  "feature_eligible": false
+}

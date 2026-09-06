@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:33:30.490445+00:00",
+  "lane": "reports",
+  "pid": "P71a175d36d",
+  "draft_year": 2021,
+  "name": "Makur Maker",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Makur Maker\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Makur+Maker%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Makur Maker - NBADraft.net",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ycWZFZkFYLWw3YnA3YmI4UVZGM2tLcU5mcHdMS3BFSWMzSWdiRFRvb09FeXRDdFlGRFhuUVVJM3piZ0NWZmVEMHJkSVgyMjVzcUVFUUcxVHA?oc=5",
+      "published_date": "2020-11-25",
+      "source": "NBADraft.net",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Elite Center Makur Maker An Instant Trailblazer With Commitment to Howard - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNFBWZzVJTG9Fc0pKcVRTNmN3MFpjLVZNdmJlbmQxY3psR01DUGpaS0R5VFhaYWI3V21oV1pBcU4za3h2ZEdjNmpPZXhOcU1QRDhYa0t0d0ZGNGhTaWJyMTZ4Z1lGMnlJUHppbktVaS13dXlqT3A3UFdzWjQ2MTBfLWEzX0t1TkVvQllWSWpNWDdUbDZDTzA2MWxDMjRjQjhudl85VVNJQ0k0TUYy?oc=5",
+      "published_date": "2020-07-03",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Aussie freak\u2019s gamble blows up in face - News.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPd0RxMDVlYzhUMHZKNDZlVG5DOHFJWW4yQ1N5S0NYZTNCQk5vcWs2Q0VXa2l0WFMwa2Z1UjdMNGdCLXRXMDVyalVCYkJTVkVJZW9uSlJrb3R2anVkZ0VyZllITTNsMEhudmZZQjJLTWRDZWhWSlFfRWZJSlVBOE90YVZiSXZvSmM0VFA3cER1RWNNM00tRW5tWFppejdWdWd6SERBSnpsRU0tbWRYM2l2SzlyR21nOGpBV1EzQ0lGbU9XSDY5VFprQ19sUnEyb3AwYTlBb0ZHM1lLZHJsZWNYTtIB5gFBVV95cUxOR3FkS05IY1pmbF9qcUNaUTVyak1ZNGVkUTc1Uk9uNy1oOGxteGlaeEpTY1RRMS1EaTYtUEhrTTZGejJvLWYyaHFZcEw3dW1hY3RVTDcxcF9vY0hhUWh2elNCMkxSUFo5Mmg1UXdSV0d4V3dWa0h2R0V4RzdDOHZJZVg4YktCZXVqWERUa1NVQVRxSm1ld1Jza0pENElIY1UwU2txRS13UHZjdGtRWlVDNG9JUUpHWkN2VjFoS1VkaGh5MFJ6Z2JMU25VNVZLQjJxeUZuX3VubFdoMEs5c3JvLTZUbWJpUQ?oc=5",
+      "published_date": "2020-12-03",
+      "source": "News.com.au",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA mock draft: Loaded No. 1 pick race and a new top 60 - espn.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY1NGRTJTWmFoQ1pfbk93VU9qUUhWQzV6OWJvRE84TWM3bXNLWnFpZzV3ODQwU2NSSjJvR3NwY0t3WGJJUXRCTDN1b0FQNGNSWlFjVXJHYWhWcGhoZWgtMGMxRHM3cGVmWVFqUkJIVm9OSVp2SzJRYlJvNlZ5MU9Cd1M3ek9YYlhnaW5pZ1hiaXQzSmMzWnpj?oc=5",
+      "published_date": "2020-11-24",
+      "source": "espn.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "55a3d654ea90fdd5464122264051d62b986ed2fb49b6a5c291b9871ed552f386",
+  "feature_eligible": false
+}

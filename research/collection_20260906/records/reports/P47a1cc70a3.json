@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T11:47:10.709311+00:00",
+  "lane": "reports",
+  "pid": "P47a1cc70a3",
+  "draft_year": 2023,
+  "name": "Kris Murray",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"Kris Murray\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Kris+Murray%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Draft Scouting Report: Iowa's Kris Murray - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObzZsZmtjeWxGNlo1RDRTaDNSX2l6MjQ0VjBxaXZvMDVoN19aR3UyV21lSVFwdXlabVA0eG9MVHdpR3pnVjRCUkhnT0g0SVo2Z3FMRE1SY1k4eTAwWm1DRmhlWWpLNTM3aWxrZzZ5aWRTTGZRVDBEQjJLSzMzMFJSemVKQjFKa05pYkxZcUFwX3BKWVJl?oc=5",
+      "published_date": "2022-08-25",
+      "source": "Sports Illustrated",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Mock Draft Sees Warriors Pick First-Team All-Big Ten Forward at No. 19 - heavy.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS240R0c4d2NOS1lGMDRleGFGTk5DUkxGWUVZMGJscUUxZ3lxdGxoWVBqUGVnM3k2OTNtQ3g2VV9MWUR5Mm5UYXROV3lkcVBHYUlWLTJJY2d2ODJfUEZsREItTk9zMTgwUHJhT25ieEJxUFNER1JjVlpmVjZodUYtVERlUk9zTU1HMm1XNGpya1k?oc=5",
+      "published_date": "2023-05-24",
+      "source": "heavy.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bleacher Report: Final 2023 NBA Mock Draft and full 2-round predictions - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2VSUkphelpkaGJhWVkzTm5pQ0VqUVRyZjFKNGppOEM4SldKM0QtdFFxcWVCM2xTOVZpRHJPOTBEeHM3S0pMY0NRdlhRcF9iTDdBdElqU1FlRGo0M05XbWtBcDBCMUJ5RExIMFhtaGE2U1JjNDRnaU00S1UxTXpZX3dveFA2WXhPa3BwekFJSnNpa01Renc3Y1JOYWFkUQ?oc=5",
+      "published_date": "2023-06-21",
+      "source": "NBA.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2023 NBA Mock Draft (Version 1.0) - Hoops HD",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rdVN4VGFVb2NFeG9ndXhoeVdHSjE0dzMzb2pqNUpESURHd3hBRVJteW1tN3lpaEcwS3VHdzh3R0YxM1M4LXRyME5VMHRpS0dFa0o4TlRyYWYzRWlGbF9wVk5QUTdVUFdZeEpoenEybUI?oc=5",
+      "published_date": "2023-04-25",
+      "source": "Hoops HD",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Pelicans Slated To Take Hoosiers Swingman According to Latest Mock Draft - The Bird Writes",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRzIyaDQwb3FZNldNMlNsbzB6eHpEc0dBeWFQTkJvX2l6dTJnbks4a2xHQ1AtVkx4QkFzR1hBUWYydXpMMUVKYWRKUGJSQXhjVDB1UzZ3RlIwMWhJd3FwWmtId3ctWXlySDJNZ0NqTXpWbWJVeC1HSEpnV0JSVG5sSnNYZ3l4MkpiNkpaR1hfSXBlSXNUQVF4bG5KZEFVTThu?oc=5",
+      "published_date": "2023-06-20",
+      "source": "The Bird Writes",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 5,
+  "response_sha256": "46e4291d94a1849f4db47fcfee0c11d129e5e34bbd85db021587a381c42b1f08",
+  "feature_eligible": false
+}

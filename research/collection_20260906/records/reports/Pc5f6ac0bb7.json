@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:44:37.522858+00:00",
+  "lane": "reports",
+  "pid": "Pc5f6ac0bb7",
+  "draft_year": 2022,
+  "name": "Moussa Diabat\u00e9",
+  "draft_date": "2022-06-23",
+  "status": "ok",
+  "query": "\"Moussa Diabat\u00e9\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2021-07-01 before:2022-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Moussa+Diabat%C3%A9%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2021-07-01+before%3A2022-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA 2022 Draft Prospects | Moussa Diabate - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9abGNjR3lXZS1SQjNhU3FjSHVwOVhtUFA3aVh2N2JpMzU5X1E5cHo2MHA0WldhOWZEMUVMVld1SEFRbTNkUzVtUi1XZThzRXRBNU1pSFZ2NU01VkxfeThEcm5jX3QyUQ?oc=5",
+      "published_date": "2022-06-02",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Caleb Houstan and Moussa Diabate to stay in NBA draft and leave Michigan Wolverines - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZWxVNGdNcG03WFFaWXFGSUZDRVhQOFQ5ZkNZaHI4azY5WnZzS3dyUGZaQUJYOVItd3ZWaXR1eXhHTTcwVDNZVjFiUXN1N0lYMzREb2l4cGRmYzRsamhmY2UwamtLZ3psZVBVQTNRSWFNQTNjQnpieVZPa2ZzTS05Q3ZramtTNzJkZ3h6UGJvdk9hc29KdlU0UkhObXdlX0NxTW1ETzdIdHNyU0ZWckk3YjF1Qm4?oc=5",
+      "published_date": "2022-06-01",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Sleeper Deep Dives: Moussa Diabate - noceilingsnba.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTbVUtak5KRWFLU3A2V0VWTVh6RlI5cTN1ZWdkOUdvbHgtY1FsRXBUU0VSRERMQm96Zm9BcmdwQWYyb3pqMUhUTER0ME9WNjhHZWhGUnpPdjgtb2VZeFF6VndFSGM0T18zSWFfalpjZUFTa1k?oc=5",
+      "published_date": "2022-03-24",
+      "source": "noceilingsnba.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jake LaRavia - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jRXRsQl8yNVVBaUY1VDZtNTJsMkgyYUNGM3hTc18zNE1rQUVjajhMM1U4amZMT1NNOWFzMEZjVk00YzFvcUVRWS1FQ0hrMWM?oc=5",
+      "published_date": "2022-04-03",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "c21805f0310562c63b97b203151406306147324bbec12b76a05865795addfee9",
+  "feature_eligible": false
+}

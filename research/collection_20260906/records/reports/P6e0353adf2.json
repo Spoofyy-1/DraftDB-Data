@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:33:14.135345+00:00",
+  "lane": "reports",
+  "pid": "P6e0353adf2",
+  "draft_year": 2021,
+  "name": "Tyler Hall",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Tyler Hall\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Tyler+Hall%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Tyler Hall | Cleveland Browns CB - PFF",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tQnJ3Q2xFMEpuNHpTYXNHY3kxVzZUbkd2UDU2VjItRTdrZUZjMHozTzRLQmE2N2lKYkhlenBsRDh5XzlpMUtkVWRXNXl4cFZlNHZRZUJPX0gxQ2xR?oc=5",
+      "published_date": "2020-07-24",
+      "source": "PFF",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "1567a26313d9e030704eb39af448656dd55b052aadc510cb1beef68184abb2b4",
+  "feature_eligible": false
+}

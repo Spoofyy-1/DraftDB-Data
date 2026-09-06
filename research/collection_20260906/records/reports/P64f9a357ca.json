@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T11:32:38.242450+00:00",
+  "lane": "reports",
+  "pid": "P64f9a357ca",
+  "draft_year": 2021,
+  "name": "Jock Landale",
+  "draft_date": "2021-07-29",
+  "status": "empty",
+  "query": "\"Jock Landale\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Jock+Landale%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "f1788fa524383f03067f97e163161574174494239078f157bc11637bf86610da",
+  "feature_eligible": false
+}

@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:25:26.817718+00:00",
+  "lane": "reports",
+  "pid": "P9d5ce33ec0",
+  "draft_year": 2020,
+  "name": "Reggie Perry",
+  "draft_date": "2020-11-18",
+  "status": "ok",
+  "query": "\"Reggie Perry\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2019-07-01 before:2020-11-18",
+  "query_url": "https://news.google.com/rss/search?q=%22Reggie+Perry%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2019-07-01+before%3A2020-11-18&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA mock draft: LaMelo Ball is now a real No. 1 pick contender - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMk9xZGtyaFNiOThOaGNYTzZzdXVwbUlDZEdhWWFOLXQ3ZlRhTXYyVWt2TUloWVZBQlhpdkFHZ1BsdEFhUW03QWQwbF9tNEk2UEdXeHBiQkFsV0diVTYxeU5ENTQ2VURxQjIwZVdmejhwSHZMVGh2QTRyNG8yMjFjbEhKbk9tTF9wd2RxRWhOS0NQQ1FrbUJxM3k4LUtUNkh1UlE?oc=5",
+      "published_date": "2019-09-24",
+      "source": "ESPN",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Mock Draft Roundup: No Way Celtics Make Three First-Round Picks, Right? - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRy16SXhrOEl2U1l5M0habmRrTVNmRVB6V2gtcWxFbFdkc2k2WWdaQ1dxcjlybER4UGF4eEVwRHd3SzZfRlBRTDdXVW9WSVlZaVV4MFc0R3BjdFVrZ1BIcm10M24zVlV2U3otSkhwNDcwNmJYdlJQZzZobW9ldTZ2RjYzTWdWT0RaNzM5MWNlOE5xM1Bvb2JBZkJITDE1S0lldHhXcUFaaDZFSG5XOHRrcnYyX0c3b0JLbEk0UFZYYw?oc=5",
+      "published_date": "2020-10-28",
+      "source": "CBS News",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Iowa State guard Tyrese Haliburton could be match for Knicks at No. 8 - nydailynews.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbVlJdS1KZk5hbFBsTnU0UlVpZHE1YXZKYUlqcFNzbG93Rl96UGoyTWZhR2JfUVNubElzdU93S2FhYjJiWWlWWWxFWkYyT2ZmeTVyT2Q3RGo5MmJ2ZW1XcmJsQzdHWExpMHBRZkxDdC15TjlRUG5MMi1OY2p5UW53N19tQzRjNnJ0c2tZQ1VNeHBPRTU3TmpVampON0d3MWt3anJhZDRPb3NfYnpj?oc=5",
+      "published_date": "2020-10-21",
+      "source": "nydailynews.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2020 NBA Mock Draft 4.0: Latest intel for all 60 picks - Rookie Wire",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOFVhZnRYX0pHRHo4WVBOdmlnUDB3d1g0dWdsVk9BbFJ4dF8xS2dEclVmZnMwRDJvX2ZENnp3VzBlRk1OOXNVQVJMb3BUN3ZuWnMwVGJqcXhWa0hjWDNrdkl1TDVrSGY1QzdWUG1HY09iTXVGY2tqdU9CRFJ6TFRPX1MyQ0YyRmxTMUVDb3dtVkhXYS0wQjN4cFlMQjl4SURFT29qUTUtZXhjck8weUdvRF9tSVU1NEN5X3JZNW5JWVdDNFdBTXI5U2hfalpPc3FsbVJDOA?oc=5",
+      "published_date": "2020-06-16",
+      "source": "Rookie Wire",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "6c3f0ad723837329f928fb1853e23e86817fc8f6b157c7179f1f3d1238052885",
+  "feature_eligible": false
+}

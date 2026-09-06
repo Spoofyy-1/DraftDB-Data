@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:33:15.168345+00:00",
+  "lane": "news",
+  "pid": "Pae8a88e0e7",
+  "draft_year": 2023,
+  "name": "Jordan Ford",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"Jordan Ford\" (draft OR scouting OR prospect OR basketball) after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Jordan+Ford%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Get to Know Jordan Ford - Stockton Kings",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OdWRubDBjY0UtWEtuZV9pcHJxbS1fZ2dWUkJ0UzdkY0JhdWxodmUwUHZ6ZTVIUUlwWFl5UkRoal9DTWQxMk9IelZEUDdELUJmbk9SQ3l1S3NqY3BmdU1nY0hoTE5PZzhLTk5NNW13?oc=5",
+      "published_date": "2022-12-01",
+      "source": "Stockton Kings",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "The Updated Top 100 UNC Basketball Players: 1-10 - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSE5laE51MHhDN3dJS0htNGs1SERmMTFta3Bsb1ExQ0FsclhhaUVVbUNIeUdBNGNZVjJDYXNuWjl5cTc1WTA0VDJoN0JpTWlSRWFrRVY5emFhT0kzbGJmM1FKcjdqNGRuSFlLaTlsU3c4SXlxd0xJd1NrbV9VUExBT2g2bGdOQXZiN2JIWGdpMDl0Ynp4YTZZOF95RG5tR2VhaHZYVGI4OHpxS0J0dG5XNDFBRWl3ZlJN?oc=5",
+      "published_date": "2022-07-08",
+      "source": "247Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Stockton Kings coach Bobby Jackson on dropping the home opener to Salt Lake Stars 122-106 - FOX40",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaEVMSDhCVkJLczhEZ0FIeVkzalRpVHh4d3czR0Z2cTJSVHBnclBNLVo0LTU1ajREUU5kS2xteW51dDVYZjU4NHVOYUdtTGxheTdoN1kxeU5EamZBLUhkc0VkMlYwMFBZeGRPNGlYNlZ2Uk9NcG4wcnBnekY0c1A5YnBhTnloUjZ1VnJHc3NFemlmNVdacVpxN1ZxeER3ZENGRWJsamRmREFtRFpHRTM3RXpxUXA5OFdpcVZIVkh1cWpqOEtZV24yOWhZNTjSAdIBQVVfeXFMTllGWTBwSlNaU01vRFhnQUEtZ25SeFZUd2cyTUV3T0hUSTVfdkFseFo2clpXTjJGMVIxZFJRNnp2czB5ZmhXZXRmSFc2elBWbFRaMThnMFUzSkN6aExmaWMydmFNRjFVUmw0QU9NZDdHblFCM3N2TXZnb2dZdlVlckZYN0pMdjEydUJzVTlFcDV2Ul91Y0lfOHhueEZGaFh3VE5xc3R4Tjk2aF95bHByUWtVU2pmOGQwRHQ2eXZJNTUwcGliRkxnUW5mbDcwYXZtTGFB?oc=5",
+      "published_date": "2022-11-11",
+      "source": "FOX40",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "da1dc830cadeea463a349ab1b145fab622508a0d8e7cd42198310abd15828a59",
+  "feature_eligible": false
+}

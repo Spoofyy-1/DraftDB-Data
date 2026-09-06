@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:37:58.872025+00:00",
+  "lane": "reports",
+  "pid": "Pd0398785b7",
+  "draft_year": 2021,
+  "name": "Micah Potter",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Micah Potter\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Micah+Potter%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Kelly Oubre Jr. (foot) will see the court for Golden State on Friday - FantasyPros",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVHllS21vaWZrbi0wOEI0RGR2YnpjS0Y3dC1uRHUtV0l3VzEtam5YcmJMV1FDcFN6UXJXdTI2MjFxeHlKNVBMOVB1NE9UZ0JZNFkxTnVHNmltVWVsT0ZYZ3NzdUpoMmdyTXBMWTdUTDBSZ2hpaHg1TkNXVUFYdGNGS1pNQmZ2dU8zX0xLZGZiT0x1dGQzanY4RXhTbmJBd1MtRzZBb040MjfSAa4BQVVfeXFMTTU1cmk1QlZFNjl5OU5FVURra2E2VzhCMFdHaWZOeW04SmhmcWE0MENVZUhQS2QxQ2NJLVM0WTR6eWdUU29vc29JMm5hTTl5SnNzcmozNUxKcXRabl9ROC1iZXlJeVBudW9MOXlGOG1YQmxhaEg1TTBlNV9tV3lmeWlhQ3RPa2kwcUQwLVZrczN4bTI4NlhqUF9PaFdPSVpQd3lzTzdjanpPRWZEUjRR?oc=5",
+      "published_date": "2021-03-19",
+      "source": "FantasyPros",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "e198edcf1d6af00619d75af5104c9b69c173993b5a02c6479cdd6772e0ba9f50",
+  "feature_eligible": false
+}

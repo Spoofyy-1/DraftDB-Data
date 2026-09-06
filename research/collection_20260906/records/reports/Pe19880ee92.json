@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:20:47.024016+00:00",
+  "lane": "reports",
+  "pid": "Pe19880ee92",
+  "draft_year": 2019,
+  "name": "Dean Wade",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Dean Wade\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Dean+Wade%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2019 NBA Draft scouting report: Dean Wade - Peachtree Hoops",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbDd1Q3dfTmVxWEpfZld1NWNTMjlqaXAzYW44NFNaMGMyTkwyNzIxYkJNVXdpZ28yNnk0SVc5ekZiVDRsVUxONjV0aW1TQlFuQlFEc0R6S1JGUFVNb3ZYUFhHeXpacXc2OHl0YkJ1cDNmdWI2dldBOUdJbzJzQ1ZnSFEtTVZrMTNGSlpVLXY0dXcwUl9RRktlaEt5OE9WN2hERWR0VEQ5SWtfNHh4UHRydkctTHQwdVE?oc=5",
+      "published_date": "2019-05-03",
+      "source": "Peachtree Hoops",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2019 NBA draft prospect Dean Wade: 'I grew up in a farming community, the NBA was just a dream'' - HoopsHype",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNakRMS3hFTUs0b09jaktuRk92UmlaQXJneGVvZGZXQjNfMTROcDc1Ti1pQmhxaldlSEo0dXNHSEdBRXVJSktYWmFzdm1OazhjZUFMZ2Nib3NLSW1qWUV5WnlTZE9zT1lCeVJ1ZHhKYUxoenUzcmdrX0xONkc5ckFlUi0tNjZyOGdGX1lwODFWOFV3MGJLUF9mSXJ5Qm9DY1pIbERHamh1VFZjZmY4ejI0c3pXV1l1QTR2ZGo0c19Bb3hKZw?oc=5",
+      "published_date": "2019-06-19",
+      "source": "HoopsHype",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "75a73391debbaee5b838ceb2751c130fe596e8201192c26a9ae8c390ff9de282",
+  "feature_eligible": false
+}

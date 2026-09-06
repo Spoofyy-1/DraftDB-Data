@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:22:09.626953+00:00",
+  "lane": "reports",
+  "pid": "P16e9d60aa9",
+  "draft_year": 2020,
+  "name": "Trent Forrest",
+  "draft_date": "2020-11-18",
+  "status": "ok",
+  "query": "\"Trent Forrest\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2019-07-01 before:2020-11-18",
+  "query_url": "https://news.google.com/rss/search?q=%22Trent+Forrest%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2019-07-01+before%3A2020-11-18&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2020 NBA Draft scouting report: Trent Forrest - Peachtree Hoops",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ2tGcHNsRGZWeWNLeTFaRTRwVHVWbVNhVVlBVk9EZ244VjljYVB1T0JRTV9DeHZ6R1NtdjlEalJwUzE5cVNqUWxHSWtlVmFrRHZoOU0wb3JaZXRERVdjSE5pdlJyRGNTWG5hRDAwZi1TelZHckpCTFdlM3dhUl9aUkxVbF9uVkpOUjZ4UEx4X3BKeWR2Znl2MnhPOWVrbGRLaGJwYzJ6QTBjNWpTcHFEek51Y1YyQXozOXE0cGxrSmZzeWk0bjlhSEIyeFlUNlRRaE80akFaZ0Rrdw?oc=5",
+      "published_date": "2020-09-29",
+      "source": "Peachtree Hoops",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "d67b00960b3e7a37507ee00db1939088a8fd560c67aa0833ff6aa763c958a04d",
+  "feature_eligible": false
+}

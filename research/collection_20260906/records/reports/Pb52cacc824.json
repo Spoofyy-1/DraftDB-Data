@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:36:46.930197+00:00",
+  "lane": "reports",
+  "pid": "Pb52cacc824",
+  "draft_year": 2021,
+  "name": "Omer Yurtseven",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Omer Yurtseven\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Omer+Yurtseven%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2020 NBA Draft scouting report: \u00d6mer Yurtseven - Peachtree Hoops",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTDNGTnJsLWhROF9zbEdKbWdXWXFUS1lobE9WNndrQWVVLVNHQkN0S3ItOU9ybXJvZFJpYTVfVHhTXzFTZlhkWlhpTENPTlh0VUJBT3VzSmlRLXNoOXJ3WjVUU1d6dHAyWEhlVmN3ZHhfOFpPV3NhcGlla2l0RWR2OU9WblVNa2dtdTBlRlBkT3l6RkpxbHBJbm91a2JvQ0JwdExqNGt5SjdzVkVhY1Z1MVI1azM2VnRSSkRZWHVIb1g3b3kwNEpzNWZYMlhoNUY2THc?oc=5",
+      "published_date": "2020-08-18",
+      "source": "Peachtree Hoops",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Omer Yurtseven Fantasy Basketball News, Rankings, Projections | - FantasyPros",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Md3pHTkFleHRmcXpVb2FxOGpSOE9pOWRRTjZkd2Q5UHhfT05zOFJPaWNLUWhRZVZXSV9kTHplb1VPbkZZTGZTZ0hDT2wyVEV1X0tjbkp0ZW1nNnhqNTBVeml4TXkxRkppeXc?oc=5",
+      "published_date": "2020-12-11",
+      "source": "FantasyPros",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "55bfabf911ab7bbb180ba5f0b6d8bf7a5e81d00608b7ff53d0884828f1f63f7e",
+  "feature_eligible": false
+}

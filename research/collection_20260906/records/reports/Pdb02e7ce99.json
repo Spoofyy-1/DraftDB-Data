@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T11:38:34.800768+00:00",
+  "lane": "reports",
+  "pid": "Pdb02e7ce99",
+  "draft_year": 2021,
+  "name": "Trayvon Palmer",
+  "draft_date": "2021-07-29",
+  "status": "empty",
+  "query": "\"Trayvon Palmer\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Trayvon+Palmer%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "7738f1537cc2c2651befc8e0e3d0cd47d423d929c91e62c4a0af7a5ba99a8485",
+  "feature_eligible": false
+}

@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:47:00.697925+00:00",
+  "lane": "reports",
+  "pid": "P4048f3366a",
+  "draft_year": 2023,
+  "name": "Wendell Green Jr.",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"Wendell Green Jr.\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Wendell+Green+Jr.%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "They used to be college basketball standouts in Kentucky. They\u2019ll return as Auburn Tigers. - Lexington Herald Leader",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbUpIXzJURXBZemFfVzVSci1WRjVwTWowU3VYZDhDdi13YUZKQ0NWa0lkZUY3c3l1NTExeUdqSWQ1THlUS3NqNmdYZVVfYU9qczFjUXBzbXdrTXQ2bVc3djBXbzhjSkFacHo1clliRzBwalhNZXpodF9fYmN1bWo1RVdxYV80bkppNFVWZnEyeG9hdU5aTGNIQkNaZ9IBmwFBVV95cUxOb0paMEJneHZyTDNHQmM5WVBEaEZIOC1IMC02VFhSYUoyekloQkl4N0dkLXV0Vm5EeHVXUndScGs3c1FwNzBXcDVJalBkTUxoRVVrS0NzQ19jSmxlMkRLQ2JwbTRWWnQtdFJIOWd1YWUxTjhJSURPWEwzLUZHSnVfd1NHXzMydEV4OEhpX05OWjBXaVc0d0pFVnlkQQ?oc=5",
+      "published_date": "2023-02-23",
+      "source": "Lexington Herald Leader",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Alabama basketball vs. Auburn: Score prediction, scouting report for game at Coleman Coliseum - The Tuscaloosa News",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZ05GeEhOUmFPLXpyNW9CYmpIYUdnMFg2THRuLWJZQXR3bEp1bGJ6b05idThZaTAxRWYyaXZJX0EwbkpsN2YxWnY0elBCU25iZ2xTQUpicjcxYmpSa25tQlpacWR3b0JkTXF3bDFQYmRSX1pncnlfaXpSR3h4a1dnZUNQVmxHdWlIbzM5YzFYSWRmQUkyMjc1SEV6YzFuUGNnN3RpVzMycHdFMk42aFlfM0J6V1R0NlF3cTlGZkhJZHF0M3lwenlpRXYtcFBNYXBqWkRyVlpyaW9ETklaSXZtbFdsd3U3MjMxRFBTY0JZeXNfQQ?oc=5",
+      "published_date": "2023-02-28",
+      "source": "The Tuscaloosa News",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "0b72378d193785862e4cbf04f83ad5081209132246d7cc285bf83922e4a1c263",
+  "feature_eligible": false
+}

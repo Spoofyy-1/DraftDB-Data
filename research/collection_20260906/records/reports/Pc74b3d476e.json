@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:26:29.109116+00:00",
+  "lane": "reports",
+  "pid": "Pc74b3d476e",
+  "draft_year": 2020,
+  "name": "Lamar Stevens",
+  "draft_date": "2020-11-18",
+  "status": "ok",
+  "query": "\"Lamar Stevens\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2019-07-01 before:2020-11-18",
+  "query_url": "https://news.google.com/rss/search?q=%22Lamar+Stevens%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2019-07-01+before%3A2020-11-18&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2020 NBA Draft scouting report: Lamar Stevens - Peachtree Hoops",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMTdQUVVzTDBwV2kwNHVsdmZoMjRYV05CZV9pT1dGclUzVkFLdXczcHRSNmp5YjE0VTlKQ0t3S1FRSjNhNW5nS0czbUtPdEpnZEV2a28ybGU3OXYwY2p4TTRrRDg3bi05a3lWTnVDX1ctOE1oeXgza2NPMER3Ymk4a2R5TUh1V1pPSENVdnRYRFFyblYxaVNsWFV3YWp2Wmo0djZpMzJZbnJPanVUV0dfQW1FMXhabUt2RVNYWktERlV0WmtN?oc=5",
+      "published_date": "2020-04-02",
+      "source": "Peachtree Hoops",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "An Early Look At Lamar Stevens\u2019 NBA Draft Stock - onwardstate.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ2VQRF9JMFlnWXJFbGYxMXNNZTNFQUZySW5zYlZuTVk0ZkZUVnFZajRheFlPVHFnX3l5MUJ2WS1oVG41Uk56TWEwMHJ1OF9lUUdKcWZxVXgwc20zMC0wQkswVzNkU0pWdVA0bzJYSkxkRUZjNEE4SEtod1RoMlpIOGdIUVR5VG0ya0E?oc=5",
+      "published_date": "2020-02-26",
+      "source": "onwardstate.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Philadelphia 76ers 2020 NBA Draft profile: Lamar Stevens - The Sixer Sense",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdm4wSE9VV3JvanlMVDRZLWdqMXQyX2laemV2bEs0akxROHpmUFduN3N1aFVFQ3BORkhDWTltenlwaUluYTdrVDZpTUI5cjYtQ01CVGlReHdwTnVoOFlYbFNKSDU5R2JXZHZWdDhmdUZOU1NGTVhzT3RMM3phR0g2Rk9RTk1xS2hOTWJXMnFFajhKdEJFOFNYRQ?oc=5",
+      "published_date": "2020-07-20",
+      "source": "The Sixer Sense",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2020 NBA Mock Draft 4.0: Latest intel for all 60 picks - Rookie Wire",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOFVhZnRYX0pHRHo4WVBOdmlnUDB3d1g0dWdsVk9BbFJ4dF8xS2dEclVmZnMwRDJvX2ZENnp3VzBlRk1OOXNVQVJMb3BUN3ZuWnMwVGJqcXhWa0hjWDNrdkl1TDVrSGY1QzdWUG1HY09iTXVGY2tqdU9CRFJ6TFRPX1MyQ0YyRmxTMUVDb3dtVkhXYS0wQjN4cFlMQjl4SURFT29qUTUtZXhjck8weUdvRF9tSVU1NEN5X3JZNW5JWVdDNFdBTXI5U2hfalpPc3FsbVJDOA?oc=5",
+      "published_date": "2020-06-16",
+      "source": "Rookie Wire",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "2e198d39dcdd7555221375979f296bb105596296b350a7f2b199a2faa00ed314",
+  "feature_eligible": false
+}

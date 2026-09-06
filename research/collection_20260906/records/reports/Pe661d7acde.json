@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T11:20:50.322878+00:00",
+  "lane": "reports",
+  "pid": "Pe661d7acde",
+  "draft_year": 2019,
+  "name": "Nicolas Claxton",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"Nicolas Claxton\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22Nicolas+Claxton%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA Mock Draft | Mock This Way - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XTFY1VXk1VnV4QVloOVJGQ1F5aXBmX1oyVlRPZVZRWHViVUdlNzVkOVZ2Yy1uVzh1cjFITTJGWWdKWnFQLWxfMnQtTDlNVTc3VEpqSGlqUHVhNHNPX0gzUl9SNF9kOV81aGJsT013?oc=5",
+      "published_date": "2019-06-17",
+      "source": "NBA.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2019 NBA Mock Draft (Version 2.0) - Hoops HD",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03c0Z4eWcta241NmEzUmVQdnpObFlpMlpENkhVR0cySkJia0lsSnhISndXX0YtVzVzbDZpWUNFZURES0tnbzI3SEg0X1lkVThuRkQyMmhpdTBqdG9GRTE3eGU3blRoRmQwVWR4WVMwWkw?oc=5",
+      "published_date": "2019-06-07",
+      "source": "Hoops HD",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2019 NBA Mock Draft: Entire Draft (1.0) - FantasyPros",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EWlJZZkxWdVpyNDRzRk1fSkhPZ0kwaDNtVjRxUlhFODBLQVJDUDg4THM1RzVtaFg4MERjcDJybGpjTTFNZTVERWVNUFdCM0o3YmJ2TUQ2ei1qbnFvd2I0Y1lpelhnTGk4MlZaeXpqazhoQnpQVm5CeDVxcXp4d9IBgwFBVV95cUxOLVFiY0RiNjYtZGNWSjFETUZFZnBXOC11UDNjc01vcEVkX1pfaks4LUtrOUQteE1yTXJxWjNhQ25ybHZ5UXlISTBiWDMtOGliUWxoTVNISTBLU3Z5MmpyUVNZSklOejI4bjd0RmFWVHVScGdlTmJ6ZEFKdzY3dWU3TldVMA?oc=5",
+      "published_date": "2019-04-09",
+      "source": "FantasyPros",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA mock draft 2019: Zion Williamson No. 1; Trail Blazers add a scoring forward, Oregon Ducks\u2019 Bol Bol a lottery pick - OregonLive.com",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcG11VDhaT1pEY1BKOVZpekJRQVlEZ2JGRFlfZUtYRE53aVpkNFlzYlFreGhULUIzTDE4LTZ1R3lmYmFyenlTWnctMlNlVTFwTlRDOExYcHFIR0REMWF2OXBBZ0ZZQjJ1QWhOc0JEVTNobEZ0VnhHSXNoa2R1ajhySXZTdE5BY0NLcjQ3TGU1SHdGNENDZ1dobXhZbkJLWmxpSG0yRnR5ekctc3Y3UmxkalhRRXJhOHFyUkVMX2VZNUNnSXR5UEplSExia05EN09tWUpuMWd1NVhqSEUwWWtSVDczbXpJM2xTZDRvQkY1NA?oc=5",
+      "published_date": "2019-06-06",
+      "source": "OregonLive.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Nicolas Claxton Fantasy Outlook & Stats - FantasySP",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NQnp6dm9IVERINDllMUN5SXBIZE11VEhCNHowVnBrYm13bU9zNEhXRlZTWjBxYTAzeU8tdi16bl9sZk8xS2hlcngtT05WTGpSMDJkOE90azdPOFU2OUtWSTh3RHNuWW1LMEE?oc=5",
+      "published_date": "2019-05-28",
+      "source": "FantasySP",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "787b15bff7eb14bbfb19e6334507af7030577f4f7f127e06cc85c1a91e7c76af",
+  "feature_eligible": false
+}

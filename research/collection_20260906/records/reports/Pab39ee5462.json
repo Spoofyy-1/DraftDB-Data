@@ -1,0 +1,64 @@
+{
+  "collected_at": "2026-09-06T11:44:04.009972+00:00",
+  "lane": "reports",
+  "pid": "Pab39ee5462",
+  "draft_year": 2022,
+  "name": "Dyson Daniels",
+  "draft_date": "2022-06-23",
+  "status": "ok",
+  "query": "\"Dyson Daniels\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2021-07-01 before:2022-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Dyson+Daniels%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2021-07-01+before%3A2022-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Dyson Daniels - NBADraft.net",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UNE94UlNDUW55WGptRURSblpiYjJvek8yYzhEdGo1dkJMOHZfVGNMa253MDlqd01OdTQwSGw0cEQwRVBpRHVSSTdzVjFmMThQQ09SSHBXbW8zcDQ?oc=5",
+      "published_date": "2022-06-01",
+      "source": "NBADraft.net",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA 2022 Draft Prospects | Dyson Daniels - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11cldGVktlZWZ4bXV6UV9qZS16MmtiM3lKTm9hdjhGd0o4Tk5sTWQtR1pnOVU0MmlrZFhqbWtUaUlHQ1FWbHdscnlKSEpsU1ZxVllLNXpwX2lnZF9QM2Q0ZmVMb0k?oc=5",
+      "published_date": "2022-06-03",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA draft profile: Dyson Daniels looking to be the next great player from Australia - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQUp2VFhVQ0oxOHlDeUY1QVNFbmFNMHBEbURKNWZnQTNzckVTNlA4WlhucjVaR0wwbUNVbGU5TGNiYzQ5OHZrZ2lNRjFGTEFaM0wtMmUyYUppWkhFT3o0d0tmR3UzMF9VZUVicElkUnotYWJvaUhHOEk0VGdneUc4YlpTVjRtMk9LOHg4RFptaVpkOGpuVGh3Rk1USVJ4cnNmalo1RzNfak1TVVlHTWlfSl9zbWl3UnJrcW9va284MA?oc=5",
+      "published_date": "2022-06-14",
+      "source": "Yahoo Sports",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Dyson Daniels - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81dS1JTDlJV1Fsci1qWFhzNUhpeUlDUzQzLU1qMVZqOC1QUFhUS0o0TDRiU3VTbGFNSGRlVjA4R1AtVHl2cDYyREVLc08tT0la?oc=5",
+      "published_date": "2021-07-07",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2022 NBA Mock Draft 8.0: Dyson Daniels, Jalen Williams biggest first-round risers - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSVgyZHRpRGZoUlAzdmtJNE1ESkNHbkVwdmx6N3ZZOFFOWnh6bldkSEo5UUlLa3h4SDdkY29PRlppbWozQ2tybGZNT09hZFNwWjNtejZEdEd1S2k3T1FPcnplb2xqNENqU1ZXNENpOHpXSk1kbndCTmJZYXhiWDBmUEd4RTdMNF9Kc0dJR2MzaG5BNFBFU2NYUHpzeWhId0s0ZEY4SXRaZkp6TTVrbk9GclBXalVYVGRG?oc=5",
+      "published_date": "2022-06-07",
+      "source": "Yahoo Sports",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Dick Vitale's 2022 NBA mock draft - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV2xfU3JIcElGNGtDTUY1UXo1bUpYQWVoS1JlTDNkbWRqTjdvR3FhVUdNSTQycnVkbjlKZ19POUZSX21VR3ROVU5aV3VEVXJYaGxIeDlxdkhiSUtYVjlqYXl0amg1RkhPZmRkQWloaHNqbHhqdHpMZXY4TkxRUzJqY0g1WkFLVjZnZlAxUi1KQ0tpZw?oc=5",
+      "published_date": "2022-06-21",
+      "source": "ESPN",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 3,
+  "response_sha256": "8dfecc9ec8753d4ad679724aadf6db5701423d94c7e165a6b76c52a7419bd71d",
+  "feature_eligible": false
+}

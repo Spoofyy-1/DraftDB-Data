@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:32:31.749345+00:00",
+  "lane": "news",
+  "pid": "P8bf21cf88b",
+  "draft_year": 2023,
+  "name": "Malcolm Cazalon",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"Malcolm Cazalon\" (draft OR scouting OR prospect OR basketball) after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Malcolm+Cazalon%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Virginia Basketball Ends Italy Tour With Thrilling OT Win Over KK Mega Basket - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNkF5cjJwTlhkOFVaMFNxYTRGaXdPQ2RzcWY3QlpxdHN1M3ZGbFBhSVlTZ0tqaVBpOTZUY0lEcXZzd243VWNmY2JhRnNwejFZSlVwMXlSTGluTjgzUUF3VmY0b1k5aTliVU1GQ1dRc1N3VlJ5VlptVEx2aklVSFoxaV9BNjM2bGhGaGU5ZHM5Y0RJbVNoMWc1bUFDLXIzYlIzZ1V2RWxreExLQXBydEw1Wk1sbk1GR3N0?oc=5",
+      "published_date": "2022-08-19",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Victor Wembanyama is among France\u2019s call-ups for World Cup Qualifiers - Eurohoops",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNmdDWGRWMG83aGl2SnVQVkZKdlc5M2VVNll0bkQ0STZ5c0ZmNFZRMFVhRUlJcXpOa25pTUQxX3JhZFdySzRNVGxKX0NvbnlLa3NUWFFSV2RjUWhSajlHdkFDT0tKYVJfT3hfQktQRTNNTGFjQlhMQ0szaV9TbTkzUkIzVEpERWUxRkp6ejdLR3gyYmpCR0hGd2swNndqcWdkT0E5Y1NPbw?oc=5",
+      "published_date": "2023-01-23",
+      "source": "Eurohoops",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "791a0b7df5a0c1de6e9698f09c764cc980e183f3e0f2b25de51ea3702441fbad",
+  "feature_eligible": false
+}

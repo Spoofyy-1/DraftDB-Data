@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:29:22.204065+00:00",
+  "lane": "reports",
+  "pid": "P29e5d27062",
+  "draft_year": 2021,
+  "name": "Trevon Scott",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Trevon Scott\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Trevon+Scott%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Delaware Blue Coats face Austin Spurs in first-ever playoff game - Open Thread - Liberty Ballers",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUDd2LTRnVW4zbGNyVWJ2a2c2WERjVVdIX3lRUEpYaTZLRGJtako4cWtRVmhPUXdLQjQ3am1aYzhnRms4UTRSWXdLazVvQVgtaWV3QWQ4MU1fVDFDcEEtZnJfdjZ0OTE0ZHc2MmF1ajlZbTdDVWluaHRfSmxvNUtyUEd2TV9sYzRTd0hWU2tSanBOM3dub0tPa29mYmFHd1RBMHRaUEV2UHRrd3JiMk5GWVBRZ2ZEUktoWmhBdjBIRHljak9aQkpGTTY4Y0FDZUtOek5FaQ?oc=5",
+      "published_date": "2021-03-08",
+      "source": "Liberty Ballers",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "7bc9b78383ef8ddc5c6938bf7aed444e115bdf08ace2935126872fa885a5c861",
+  "feature_eligible": false
+}

@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T11:31:59.194521+00:00",
+  "lane": "reports",
+  "pid": "P588407dc89",
+  "draft_year": 2021,
+  "name": "Danny Pippen",
+  "draft_date": "2021-07-29",
+  "status": "empty",
+  "query": "\"Danny Pippen\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Danny+Pippen%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "4ebd1d3b12a455636fdd718df87a702245bb279a2343c5dcd007ed00df959575",
+  "feature_eligible": false
+}

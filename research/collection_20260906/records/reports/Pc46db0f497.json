@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:37:16.560378+00:00",
+  "lane": "reports",
+  "pid": "Pc46db0f497",
+  "draft_year": 2021,
+  "name": "Romeo Weems",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Romeo Weems\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Romeo+Weems%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA 2021 Draft Prospects | Romeo Weems - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TSnZkYWZSNGdBeU9vc2IyX3pIRWFnVUN1bEN2V1E5dnVPS0lNenNELUhQc2tiMkZrSng0aUNPZmF3ZkpHanJZQm1FblJIbjlhY0l4LTE1UGtSYllnQU9lOVB3?oc=5",
+      "published_date": "2021-07-12",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "02d87da773b17621f842c6338df8fb13f1cf2a72e5bf9e7d36be9788bd4476a9",
+  "feature_eligible": false
+}

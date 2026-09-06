@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:22:41.296459+00:00",
+  "lane": "news",
+  "pid": "Pe9bc98eac8",
+  "draft_year": 2021,
+  "name": "Kashaun Hicks",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Kashaun Hicks\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Kashaun+Hicks%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Norfolk St. beats Morgan St., back in NCAAs after nine years - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2J2ZlVob1JWTzNFVl9VMy1PVTFJRHJoZTVFemlRN19lam1adFVTLVhlMDdkek1TdGwyWlNwTUF3T3hsSkZsR3VweGtJeWRZRXE1NXVNcjZHVnEtcC1FOWdwT3Uway1GdUZPSmhpcXZwQkJyUXZvbnhGRzktYUcwUjhTcF9Rb1NKLXM4LWVIb0cxYkRQSUdJdkE5SjFpT2lJUHd0ajZxMWk5dDFNU3owWGJqUVJxclluZ2VVMkZzNXVpSjFWOXVUUw?oc=5",
+      "published_date": "2021-03-13",
+      "source": "AP News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Matthews with 18, Norfolk State powers past James Madison - 13newsnow.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVTAtcGJxSmxmb0Z1S2hIVG1fcFVTOFhSa1prTDlXUlRoSlNhdjB2T3hFNkc0cXRMWDBwdE56TDZIVzhmcG4ySzg3dWRSMVV3ZVFRUUNQc0YwMWZma01GUDV3akg3aUo2MS1KSDlMTC1CcjM1X0l6RjBpVjhHdnV4cUczV1pzNHA1aWpPTDZ6aGpYN000NXZ0bmVpNVpRQmxNclRhYWhsYno5a0hacmFSdGNWbjZHazRLQXM1RjNPNGs3Uzk4cjFVQmhCZExDRVRZenRxWg?oc=5",
+      "published_date": "2020-11-27",
+      "source": "13newsnow.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA announces early entry candidates for 2021 NBA Draft - sportingnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGtCd05CUnBOaVg4bC1sa2Qwc0lsX2VrZjVPbDJ3RFdQZWJJcl9aZThWcFhZZUwxdm5mTmpfZloxTENnTHlOWkIwMUxBZmlEUGVzY3dHRjZoelJNZ1YxWGx6WlkyNkhvMDNobXpNZV9RT0hNWWxmdm55SS1pTnJ2Q25TaGFjWFdFWUViZHBuNnJnX1dtalNPdFh2V3V3eFp2TjE0VDZNM3lZNDk4ZGpMclpReHd5VzNyME8ybnFyNlc?oc=5",
+      "published_date": "2021-06-02",
+      "source": "sportingnews.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "db418d86e58b74a93d4cb8f8bf5f21c60b4d8da2f670feb2da2836fa4132f7a6",
+  "feature_eligible": false
+}

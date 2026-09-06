@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T11:25:00.544573+00:00",
+  "lane": "reports",
+  "pid": "P8943f8c99a",
+  "draft_year": 2020,
+  "name": "Chris Smith",
+  "draft_date": "2020-11-18",
+  "status": "ok",
+  "query": "\"Chris Smith\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2019-07-01 before:2020-11-18",
+  "query_url": "https://news.google.com/rss/search?q=%22Chris+Smith%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2019-07-01+before%3A2020-11-18&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "How Chris Smith is turning tragedy into triumph - Carolina Panthers",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUGpyVFQ1alVqWmZvc29LV3J4UFYwamNObHVyUFpJaUdLU2xFSXpNaVJtLXhCLWRpZm5KS2RzRW9lQkczRkZaZnJRVDNQR0c0UXA5S1pCMUtjZzBPdzZFcWNYbkpjdmI2OTJkQndmbVNPbTVTX3c2RWtfOUxZazBfREV0WQ?oc=5",
+      "published_date": "2020-03-05",
+      "source": "Carolina Panthers",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "UCLA junior Chris Smith enters NBA draft - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaHN1NDljbkNyLUJ3Yml5ekVzaWFJREhwZ2ZIUzhyXzFEY1JPZVcyODJEOEpyMjRQZ2xKZFV3MUdEaXI4MmpFam5UUjlfUzZzUXBuOTVOM2xDcUZhZU54TE4wZ3NCdVZVd1ZYNGxhYTVpYmNGaGNMQkJHcHdMQ1lTam9XaG9VeVQ4UnJ3blBR?oc=5",
+      "published_date": "2020-04-07",
+      "source": "ESPN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Scouting Report: Jaylen Clark - Daily Bruin",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Reklpek5TQng2dTRuMkZMY2UtZm5Fc0NJbXBhM0U5RGk5QTlzcnctWDdJMDNheWQ1b0FjVER3VDNvYjdxaU43aFVPZkt5V3c4U3VONHF2M1lDd1JXbnFuN0txdkNhcjFiZkpTZE5yWQ?oc=5",
+      "published_date": "2020-06-04",
+      "source": "Daily Bruin",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2020 NBA Mock Draft 4.0: Latest intel for all 60 picks - Rookie Wire",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOFVhZnRYX0pHRHo4WVBOdmlnUDB3d1g0dWdsVk9BbFJ4dF8xS2dEclVmZnMwRDJvX2ZENnp3VzBlRk1OOXNVQVJMb3BUN3ZuWnMwVGJqcXhWa0hjWDNrdkl1TDVrSGY1QzdWUG1HY09iTXVGY2tqdU9CRFJ6TFRPX1MyQ0YyRmxTMUVDb3dtVkhXYS0wQjN4cFlMQjl4SURFT29qUTUtZXhjck8weUdvRF9tSVU1NEN5X3JZNW5JWVdDNFdBTXI5U2hfalpPc3FsbVJDOA?oc=5",
+      "published_date": "2020-06-16",
+      "source": "Rookie Wire",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Scouting Report: Johnny Juzang - Daily Bruin",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBQXZLa3A5bk8wYVJyaVRXbl9vdXdaU1Z2Yy1UM21Ib2NPOTFlVTlZSTQ4WGZveXMxWlI3SlNRWTRoblNQdzFHRjhWOW1Vb0dyUmRZcnBBakgtaWFPbEc2cEV1WnB1WU8wOVdqTG45Rmc?oc=5",
+      "published_date": "2020-05-27",
+      "source": "Daily Bruin",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "b3ae6e7ab7d4fc702cd6a82742f551ba7d8f77aa2e99c826b296b654e315f048",
+  "feature_eligible": false
+}

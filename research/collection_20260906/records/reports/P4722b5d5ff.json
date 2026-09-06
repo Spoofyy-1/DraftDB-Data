@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:23:28.613883+00:00",
+  "lane": "reports",
+  "pid": "P4722b5d5ff",
+  "draft_year": 2020,
+  "name": "Brendan Bailey",
+  "draft_date": "2020-11-18",
+  "status": "ok",
+  "query": "\"Brendan Bailey\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2019-07-01 before:2020-11-18",
+  "query_url": "https://news.google.com/rss/search?q=%22Brendan+Bailey%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2019-07-01+before%3A2020-11-18&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Part 3: Stan Johnson looks at Brendan Bailey - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeVA0RGxaMUdJd0JjSkllMFlnTXh3VHhJU0NTMnh3NUthS0V6N1V4UXVRczY0aUJvVTJ3Y3VZQzMtaHIyV1VJWmQyVTFWdzNNVjI1Um5yby1tZHNWMFlWUktfS3lUQ1ZBQmk1R0FuVDlBazlHU3Q3OTUtUExDQ1kta2RrSHE4NUJ1cHlYb2JPSQ?oc=5",
+      "published_date": "2019-11-04",
+      "source": "247Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "de18851047177b90ad5f7d5dd3bf9af9792e2ae0c9971609e997ec82f0910f80",
+  "feature_eligible": false
+}

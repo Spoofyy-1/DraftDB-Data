@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:47:41.546750+00:00",
+  "lane": "reports",
+  "pid": "P5698276a02",
+  "draft_year": 2023,
+  "name": "Julian Strawther",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"Julian Strawther\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Julian+Strawther%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Strawther - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FRS1ZZl94dDF5bzVRZmU3ZTgwOGpPTEhpR21sRHpicU1EdWJYWUdzVDJ0NDJUamtPdUZyYm5HRFcxLVhiSzBhYkVvdnFxOFlJX2FtWEc0eE92em1icGwwRGp5Nk14Z1Jt?oc=5",
+      "published_date": "2023-06-01",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Julian Strawther declares for NBA draft, says time at Gonzaga produced \u2018great memories\u2019 - Union-Bulletin",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPREpKQ1FBTFlPakFTMHRzTWxEM3RWLXQ5VXRGaEhtQ055MU9sbUhwWi1zMkt0QllEMTdGcFJocnlQX1BxVG9vNnFfdWNjU1RkX0RmS0p0ZUM4QXhJVFhKZEtoNEczRGpiMjZrTmxhdHV6eDhCMGhtWm5WNVh4d3FtLUhzY25xZUl3ek52aGk5ZUdha3o1LXRlaXllVW9kdktIMGU5XzNPWUk0QlVmcTRDY1dXYUYzUEtpLXRtMV9hdmd5MDVPWVpmOHd2eDFNS2t6WVZqVVZMaF9EWkFCUzRVWTVyUmpKRGdlVmVZUEVzNXFlNFhQMkE3ekhWeGRHRjNoNTZwWFFLcDlPTzdZYTAzTkd4Mm5ISTZBVHhKQmI5WS1BcXVNSUIzVHNCZGpMQlU?oc=5",
+      "published_date": "2023-04-10",
+      "source": "Union-Bulletin",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Scouting report: UCLA men\u2019s basketball vs Gonzaga - Daily Bruin",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSnl4T3E3R216LWh2UzRDeGQ0a3BJLWpGRmVKbG10UENJbzd6MkI4eDlUUEJyRnczSS1uRnBnWmF5YUM4Y0c4X19EcTdyS2xEWGo0cm9zeXpFdnpkTnF2S01QZmVhaTZHSTRlcVZKc1pRbjQ2aXZTSkJOakZsNVdEMUlCT0drRnZW?oc=5",
+      "published_date": "2023-03-23",
+      "source": "Daily Bruin",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2023 NBA Mock Draft (Version 1.0) - Hoops HD",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rdVN4VGFVb2NFeG9ndXhoeVdHSjE0dzMzb2pqNUpESURHd3hBRVJteW1tN3lpaEcwS3VHdzh3R0YxM1M4LXRyME5VMHRpS0dFa0o4TlRyYWYzRWlGbF9wVk5QUTdVUFdZeEpoenEybUI?oc=5",
+      "published_date": "2023-04-25",
+      "source": "Hoops HD",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 6,
+  "response_sha256": "359a7143c8ea4b4f879539f95e1119d4d46fddb331c015edbe336e187426d6e2",
+  "feature_eligible": false
+}

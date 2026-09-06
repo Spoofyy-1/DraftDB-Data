@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:22:10.956306+00:00",
+  "lane": "news",
+  "pid": "Pe0ef621774",
+  "draft_year": 2021,
+  "name": "Casdon Jardine",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Casdon Jardine\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Casdon+Jardine%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Men\u2019s Basketball Holds Of UC Davis; Ganot Hits 100 Wins - Hawaii Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQktrM2xIZGlFSk1FbXcxZkc2NFV0Yk1sSXlXMHdBcnotcnZGN0lJMHhBRUNCUjJmWnp0dkxBYlFKN1JnbnM2V19RVUtELVZhTmhTd1pIeFM3X1djNDBNbHdzWnZ4YVR5NTBNbGlRUkRDRDUtSDZpalJHTF9vai14WjNkN2dKSjJBaS1pVXczNlhuZkR5ZDFKTlpqVGhFdEs5Q2c?oc=5",
+      "published_date": "2021-05-03",
+      "source": "Hawaii Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA announces early entry candidates for 2021 NBA Draft - sportingnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGtCd05CUnBOaVg4bC1sa2Qwc0lsX2VrZjVPbDJ3RFdQZWJJcl9aZThWcFhZZUwxdm5mTmpfZloxTENnTHlOWkIwMUxBZmlEUGVzY3dHRjZoelJNZ1YxWGx6WlkyNkhvMDNobXpNZV9RT0hNWWxmdm55SS1pTnJ2Q25TaGFjWFdFWUViZHBuNnJnX1dtalNPdFh2V3V3eFp2TjE0VDZNM3lZNDk4ZGpMclpReHd5VzNyME8ybnFyNlc?oc=5",
+      "published_date": "2021-06-02",
+      "source": "sportingnews.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "c39391f98c1e6187a3782d3c7d0952c8d78dd1a2e834fd35cba733503aaec226",
+  "feature_eligible": false
+}

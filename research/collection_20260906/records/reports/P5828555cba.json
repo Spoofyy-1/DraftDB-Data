@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:31:55.910157+00:00",
+  "lane": "reports",
+  "pid": "P5828555cba",
+  "draft_year": 2021,
+  "name": "Mike Smith",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Mike Smith\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Mike+Smith%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Bleacher Report's Final 2021 NHL Mock Draft - bleacherreport.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdTdGNkUyTkNEVFUwYkJkOTRaR2xHSmljNWpEckpZd1M3VTFRZVZjY1Y1WlhoZXlLNWI4VWQtUy1ZR2VCQjRrVzlaVE5GUElHY0NPcGhKWmg1cUZ5M2RTcVFMUy1JMllpaUpvZS03QzJENERrdDNSRi01T2VtZlhfUHVXTDR4aVAwUFduWExiaw?oc=5",
+      "published_date": "2021-07-22",
+      "source": "bleacherreport.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Prospect for the Pack: Wake Forest edge rusher Carlos Basham Jr. - Packers Wire",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNOG9rdDBlMVFMUzVIWEZNVngzaU8yaF9rTExuUUF6TDBQUVRSM2hqak55U0VaSDVRdnlMWU5TTkJKLUdDdlBKRXd5ZnBscDZXS19wdUNNS1IwVXlScVFqeE1KUi14Z2hxR1Q4Y3NLOG05eE5pYTJ6aXpJcnlwNmhTZ0hBN29ZcVE1MHNTUzJraTdGWjY4WmhnNC1TQWkxQ21tcGJRTUJMYUNiTjVhcFp5TEpMSXVNaUZLVTJ1VUxBMXlIQmtTM3Q3cjBWaF9xeVNIOFJzblYtbktCT05pdXNRWWFYZ0xtc0ZoYUY4amd3LXk?oc=5",
+      "published_date": "2021-04-22",
+      "source": "Packers Wire",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Belmont Stakes international scouting report: Rebel's Romance - TwinSpires",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc1ZOSG1Kam5NQmR3Y2hjWEVVb1h4MWtub3BMcDV3TmxfdDVLR2pBWDM3UE94S3QzZmtoRUtGU25rODNXeHFJenA2YTFkY25oR1NhTGRYYS1PLXZ6UzYtWXhvenpObFhYWlZpYzRpNHhJR0ZVczBkZjFNM3lLMEdncXYtRDF0a2RnZEJnYWw1Qzd2Y2h5WGxPN3VtajJiUnZN?oc=5",
+      "published_date": "2021-05-23",
+      "source": "TwinSpires",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "fdd42b713e0314a20e2e44922c266f92a71573a86a750322f748729a063262fc",
+  "feature_eligible": false
+}

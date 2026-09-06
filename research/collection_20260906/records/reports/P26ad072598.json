@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:46:26.303759+00:00",
+  "lane": "reports",
+  "pid": "P26ad072598",
+  "draft_year": 2023,
+  "name": "Marcus Sasser",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"Marcus Sasser\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Marcus+Sasser%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "The Prospect Chemistry of Marcus Sasser - noceilingsnba.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkYkdXTkdyWk9MQ3daMm1CdWR4TkxvMTc1VHh1Q2kxRFVoVnVhY0t0NVUwZDUyMjZ0NWcyeVlQR0tnbVdIS1BqaDFHWUlMM3hvYWZOeXctYXVjLW9NSEVWaTlJOURGYXVSc016bl9EbXRyZw?oc=5",
+      "published_date": "2022-11-25",
+      "source": "noceilingsnba.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Draft Scouting Report: Houston's Marcus Sasser - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd3dFdnB2YmZybnVpNl9VZkZBaThlZmdVUXNjUU5RemNGNWw1R09rcjNNeDFuWmtua1Nldmd0dTNCOVJEcEx0S01yT1ZqSHZJa3ZJMTFlWXljUm5BZmcyNzFNZjdzeGpaa2QtOVl6V2FKd0NRaW82WmZOam82VXpCMEM1MVVnU3ZzczFEamdlRm14MEFRUkxxa3RIcw?oc=5",
+      "published_date": "2022-09-02",
+      "source": "Sports Illustrated",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2023 NBA Draft: Houston guard Marcus Sasser turns pro after winning AAC Player of the Year - CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcDA2Q0ZUbFk0WW13TEdmaVZYeG92VTI5ajdMYlA4M2JyUjQ0YUJlV2lYUm5rcWlzVlZrbGFBc1YzMjRPM1podTZjcUhDZjludmdrd3N0QjBoUXNNVVprZXN4OGtzbFpybG12TnBTSC10LWV1SmJDclNKSUZIcVNzT21SaThvdU91WllaWTBLYzZvUXNnclhmTXd0MXgwamE0VDZTQldnbnN4Y1ZHelAxT2NHdm8xS2FWU1dNWlgxdk03Qk1RdDlneEQ3dktwWmgycjhSVHctdw?oc=5",
+      "published_date": "2023-03-30",
+      "source": "CBS Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Big 12 Basketball Well-Represented in ESPN Mock Draft - Heartland College Sports",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQTNEcElwOHZObUp4azFwN0U5Q3JEd0ZtZFkyQzBwQ3JmU2VKR3Rnc21YbmdmREZ2LWRkOTZlVkFjYUZMTDBZTWdVRkVWdm5ZYWQwRGI3RFVTalNqYzcyVVI0R1JVSDVNNldWdmxwRllseU81OWtRRVRiakZJel9tb0pqNVEwUzg1Rm14SHNNQU8ydjBFd2o4aXVIclhoZUY1SW9vdXJ6OA?oc=5",
+      "published_date": "2023-05-31",
+      "source": "Heartland College Sports",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 6,
+  "response_sha256": "a2e3c108a7c4646823a98ec02eb4fda45015cb442101be823a25170f91c8ec81",
+  "feature_eligible": false
+}

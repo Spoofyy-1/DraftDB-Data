@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-06T10:16:40.261806+00:00",
+  "collected_at": "2026-09-06T11:48:47.292527+00:00",
   "lane": "trends",
   "pid": "P0f110bb83f",
   "draft_year": 2007,
@@ -7,5 +7,11 @@
   "draft_date": "2007-06-28",
   "status": "error",
   "error": "The request failed: Google returned a response with code 429",
-  "feature_eligible": false
+  "feature_eligible": false,
+  "previous_attempts": [
+    {
+      "collected_at": "2026-09-06T10:16:40.261806+00:00",
+      "error": "The request failed: Google returned a response with code 429"
+    }
+  ]
 }

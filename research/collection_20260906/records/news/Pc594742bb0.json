@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:20:44.385113+00:00",
+  "lane": "news",
+  "pid": "Pc594742bb0",
+  "draft_year": 2021,
+  "name": "Jonah Antonio",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Jonah Antonio\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Jonah+Antonio%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Ultimate guide to the Wake Forest basketball season. Everything you\u2019d want to know. - Charlotte Observer",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MelluNDQtNF83MG40RGhqNEtLWGRIX1RETlYtZ1hrWnRqc3BiTjh5YXRweklucG8ycDg3ZEJGbnBEUjFaVXctd0xCb29hTGk1RWtVbVJwMERkMlF4RGpsWkY3OTZ3UmJJTzQ2dVdXONIBb0FVX3lxTE82ekVEZngwUzdhTkJod1ZvS2xvVjBjNmJEQ1lNLXI5N3p5NGtxa1Y3dFJuMGQ5REFDQ2hINVZqeThwYVdZaTgzV0paM1JUcEQ0eWRRUFV4NFVQVXVaNjAxRFQtWGdWWGxEWlVDNTNwaw?oc=5",
+      "published_date": "2020-11-27",
+      "source": "Charlotte Observer",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "UNLV coach T.J. Otzelberger headed for Iowa State - Las Vegas Review-Journal",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd1h5Q20td0RWcTA2NUdVelM2YlljOHByWlBrUm1MYmFJVmJ2c0FKRFRETGViT3FhUHU4ZEJxWGFpQWZUQVFMMXl4Q3RVUUJ0Z0tPME9XSVA2RjBfS3VudXJNQm9GOWYxazFtTmVNbW5aTzlTRW92cUU2SjUzbndYT21uSjBqX09Jb3FMeDEwSWpXUXc1SzBlUUV5X0hXSmFHcG9ESDY1SmtKZEZaaXMyWTl6V1oyUQ?oc=5",
+      "published_date": "2021-03-16",
+      "source": "Las Vegas Review-Journal",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA announces early entry candidates for 2021 NBA Draft - sportingnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGtCd05CUnBOaVg4bC1sa2Qwc0lsX2VrZjVPbDJ3RFdQZWJJcl9aZThWcFhZZUwxdm5mTmpfZloxTENnTHlOWkIwMUxBZmlEUGVzY3dHRjZoelJNZ1YxWGx6WlkyNkhvMDNobXpNZV9RT0hNWWxmdm55SS1pTnJ2Q25TaGFjWFdFWUViZHBuNnJnX1dtalNPdFh2V3V3eFp2TjE0VDZNM3lZNDk4ZGpMclpReHd5VzNyME8ybnFyNlc?oc=5",
+      "published_date": "2021-06-02",
+      "source": "sportingnews.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Who's In and Who's Out of the NBA Draft? - NBA Big Board | Rafael Barlowe",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1idUk5bDQyb1Q2MTVnUzRCeHM4WFo0VHB2aHhXZkhjX0hVYzhzeVhuUUdQTDRTOW0tanVMMWtyc3M3N3pLOTZXVHFMMjlyMUxvZHozWHlpR1ZZWXAzeXpaNWU1NkRYcldkRVFqQkF1amhwbW55UlZpc2hmOA?oc=5",
+      "published_date": "2021-07-20",
+      "source": "NBA Big Board | Rafael Barlowe",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "1a2781e845f824dc746240da7ed7dedb2cb136d72eca2189ad7183e6fa4eca8a",
+  "feature_eligible": false
+}

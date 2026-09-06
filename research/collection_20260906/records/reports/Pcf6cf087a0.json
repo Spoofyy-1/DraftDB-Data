@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:37:49.086112+00:00",
+  "lane": "reports",
+  "pid": "Pcf6cf087a0",
+  "draft_year": 2021,
+  "name": "Matt Coleman III",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Matt Coleman III\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Matt+Coleman+III%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Bleacher Report has three Longhorns taken in final NBA mock draft - Longhorns Wire",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQRjBLSjNWNW54ME5ZdTk4d2RIdVJYTzZ5YVJLUEI4UVY2Vkh6M1lXaTZNTlFCNGphd1JaSWtnaG1vd09oNjBJX3VCTTB6UERGUzFaTzlsS2ZEc1VMUmtseS1hNUhGUi1NVFdteHo2LWVadWJXNC1hVXhNZEJyLTF1bWJnMWs0ZTFTVERWNWxzMWc5eU5USjNQY0syTHlNNlF4aUoyR1lIZGhiMndtOHJiWlQ2Y3ZtOXJSOEhlTlk1aXJGY0hNd2FMTjUyX2dNZGRQWWFUS05sRWNWZG9KdkZWaTFseGNNdEpLZFRscFJJTUJ4dVRtWDhFWVpxN0xRUFRzd0o1ZkRTMjJfbmZTQThneFZBaVA?oc=5",
+      "published_date": "2021-07-28",
+      "source": "Longhorns Wire",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "e7fb3c5bda3052672c845f333d6a1fc1c96d72d4c0d807816622d6ade6e8385e",
+  "feature_eligible": false
+}

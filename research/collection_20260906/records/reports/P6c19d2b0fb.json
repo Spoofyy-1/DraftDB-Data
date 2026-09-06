@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:33:07.535607+00:00",
+  "lane": "reports",
+  "pid": "P6c19d2b0fb",
+  "draft_year": 2021,
+  "name": "Matt Mitchell",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Matt Mitchell\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Matt+Mitchell%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA prospect Matt Mitchell: 'I\u2019m that junkyard dog that gets it done' - HoopsHype",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZXB3aGNwNmdUa3NYVl9HdFdOUjRVQ09EVG8yaWxxNUNPNDJYZWZJam1tQ3RFdjJURDZ1N0dYU0VsS2J0OVROQ1d0X2VnLUJiMVF6Q2FuUURWLXhwWjJVWjRxOHJieUdOVC16MzNfYklFdFA4MmotUldEVlItMXNROF91TmRaNEI3N0dvOW45N1JmSmItWmZTTmNmcW1VdjV4TmJLdlFZTlhWMnBoVGFpNzlsXzlleDc1?oc=5",
+      "published_date": "2021-05-25",
+      "source": "HoopsHype",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2021 NBA Mock Draft 3.0: Evan Mobley moves up, Ziaire Williams falls, plus coach and scout breakdowns - The Athletic - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTzcxYUozMzBGOWo2cDQtMU1zYnBGZEZxQWJyUi1RREtuQ3ZyR2FFM1ZnX2Y2ZEJjU0NZQ3ZmXzBPUWRGZDZDT0Y3cW5nMzhvVGppZlBJeC1CQnMzamYzbkNJZFRkTXlBSTZpSEdUNERjcDRrVmx3ZllQaERiR3dMVWFtaFh0djJJTUI5b19TaXdGZVBIM2E1aUh4UzJnVUN1QzdRbktIcU80Wjdjb29JR0QyN0FmbEZBUVVUSS1vM2FmWkZQZk50QVB2WGhGcHc2c2Y4amxGTGxBOU82ZUdPVFJtVHdhdw?oc=5",
+      "published_date": "2021-06-11",
+      "source": "The New York Times",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "890b2e5a9c43363ad6a9ce94e56410508010228073ab9a3bf7b0121b0ecc0897",
+  "feature_eligible": false
+}

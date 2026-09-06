@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:36:36.868993+00:00",
+  "lane": "news",
+  "pid": "P44f988dfdd",
+  "draft_year": 2024,
+  "name": "Kylor Kelley",
+  "draft_date": "2024-06-26",
+  "status": "ok",
+  "query": "\"Kylor Kelley\" (draft OR scouting OR prospect OR basketball) after:2023-07-01 before:2024-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Kylor+Kelley%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2023-07-01+before%3A2024-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Davison, Kelley Bring Home All-G League Honors - maine.gleague.nba.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HSWNTSEdRU1E0TjVsRmlhS3lSay1Ha1VVSmVtSUhPcFE4aVlqc0xUVjhRTjQ0ZnlEUWZkcXdNZzJGVUxQNndrbFhYd0E3Qk81MUQ5UHVjR1FMQWJ3S0J5c1pBWlJ6dGlWR3BobjR3?oc=5",
+      "published_date": "2024-04-18",
+      "source": "maine.gleague.nba.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "AMA: Evelyn Magley, The Basketball League CEO - Indianapolis Monthly",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTXdsXy1CekFSaWQyRXMzeU1NTkN1V21kNXZaNElGU3NYYjZ5Ui1fUDRSckRjV0ZlRUltNTZKQkxzU0l3c1NJNDZtUXFnLWhSLUlRcmtPVWlFSHdsbFZxNU5GVTlxaUdidzl5aUZqeVdlN2xYcGN1bVctZmNkbm5FcUhsMGRJeVc2Q1ljVnA1Qk1YUkJtdllwcHlvX2FlZy11RTJrWjhIUQ?oc=5",
+      "published_date": "2024-06-05",
+      "source": "Indianapolis Monthly",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Surge to start 2024 CEBL season in Dome - calgarysun.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Xa0R4MzhjOWFWWFVPTTcyLVMzZW9qbGJnUTZnTk4zVkc3MFV4SXlJQlhSM2FUNXh2WFlyTDhRUnRCZC1VTHIzYWI4akctVnBlSHMtNi1LNlh3azNOTV9JSEZsQkUwZjdzbjlMdm1UXzhWaEgwOW5mSg?oc=5",
+      "published_date": "2023-11-24",
+      "source": "calgarysun.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "6a8d65694806c9b076ef53aceadce6945ea8a933722b03499a5a090f943b6d56",
+  "feature_eligible": false
+}

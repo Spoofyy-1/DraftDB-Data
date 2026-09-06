@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:20:53.611665+00:00",
+  "lane": "reports",
+  "pid": "Ped12aa913a",
+  "draft_year": 2019,
+  "name": "John Konchar",
+  "draft_date": "2019-06-20",
+  "status": "ok",
+  "query": "\"John Konchar\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2018-07-01 before:2019-06-20",
+  "query_url": "https://news.google.com/rss/search?q=%22John+Konchar%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2018-07-01+before%3A2019-06-20&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA 2019 draft prospect John Konchar: 'I am a 3-and-D guy' - HoopsHype",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR0FWcGRLZVR5aFFiYWFDY1NxcUh3N0hkTVFnX3BmM3Rxby1UdmFjUXVwVElTNTZQMEptcE1WNHR2b2dBNTZxbDRGZmRmN01FRFdWRWtJZENDRlc3QThxYVc0a08wR2ktZkRyT2RKVEdvOUNFS25TMmhQdkhybXdocTNzQnVYOUR4WEZVeV9CMml0OHZ5bEdZVi1TMFVNd2NkQ1pPcUxBZ25XWmJoYUZEemZmVnNXN0hNRFVOYk9vaEx1bU0?oc=5",
+      "published_date": "2019-06-15",
+      "source": "HoopsHype",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Ranking Top 10 Shooting Guards in 2019 NBA Draft - Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWWxHcjB6MGJvSDRWcGt0cDZzQmtJRkgxcl9uaFRWeDhYcmdMOTZUMnFka3drSFd4V3lLYUJkRDhHVm9IVzRkQW9HNmNqd0psWXBDYUt0dGFlZDZTc3lGUDRPcVdjMGNkblBJd2NJOFZqVFBEQjRlRHhRUGJtOThmZ3BUbDlWUVdTUFJNWGR4SHV0Z3NoYmhr?oc=5",
+      "published_date": "2019-04-27",
+      "source": "Bleacher Report",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "814d5f219f4bf062b0d3677bc21d72314e3361494e8e9f29aed5967c918aec83",
+  "feature_eligible": false
+}

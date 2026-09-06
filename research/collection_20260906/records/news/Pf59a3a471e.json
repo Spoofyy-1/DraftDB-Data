@@ -1,0 +1,32 @@
+{
+  "collected_at": "2026-09-06T11:41:03.953403+00:00",
+  "lane": "news",
+  "pid": "Pf59a3a471e",
+  "draft_year": 2024,
+  "name": "Jason Spurgin",
+  "draft_date": "2024-06-26",
+  "status": "ok",
+  "query": "\"Jason Spurgin\" (draft OR scouting OR prospect OR basketball) after:2023-07-01 before:2024-06-26",
+  "query_url": "https://news.google.com/rss/search?q=%22Jason+Spurgin%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2023-07-01+before%3A2024-06-26&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Jason Spurgin Career Stats - NCAAM - espn.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS3FwcUhnS3hvTHJvVHh1LVdXUTNIdHVMbGZQemNRXy0zWFRrYTVHRkhNRlFSWS1UZ25kaUlKSTRGcWpuRjY4bHFZU3o5RW5TQ1pFdWphRHVmR2k3Y2NrZTFxR214ak41bURLbTJQZXp1NWI1d2FTR2kwRDZUTVZSNllacy1ycXpPTndRbw?oc=5",
+      "published_date": "2023-08-15",
+      "source": "espn.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bowling Green Men's Basketball Knocks Off Toledo Inside The Stroh Center, 76-68 - BCSNN",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTl9ZOWdpVnhncTc2NVh6OVpMWTdualRPb0lhcU5wNHBQVi1LT0tQSGh6d3NSVGtxVWd5T0M0N3lwYkROblNUYXh1QlZTdERaUHRvUDVHUDlVY3dtVWtSTlFaZkhITmRoeW42azBJb1FXSW5BWFQyWl9QdUZWYnpsOVVza2tJdjFVVGNSX2FhVXJLcEE2eTQ1cXJKX1pWbktiRldiODZST3ZYRjRIWDUyTEZ6Ul8?oc=5",
+      "published_date": "2024-02-24",
+      "source": "BCSNN",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "f66f35830031b4e0881642fffdc32d2a688416e1bebb6b7705b2185130ee275e",
+  "feature_eligible": false
+}

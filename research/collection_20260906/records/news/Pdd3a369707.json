@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:22:01.021218+00:00",
+  "lane": "news",
+  "pid": "Pdd3a369707",
+  "draft_year": 2021,
+  "name": "Craig Sword",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Craig Sword\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Craig+Sword%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Craig Sword - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBySW9nRmlDQTNPSkp0ZFU5LWp0SkhYYVJyVGhjb2dMNV9LSkJCLW1rOF9OTVV3a0RtWFhuS2tIbnU0Z3daVVJtS0hhMjlMdHNhODdYNG5XeC05QQ?oc=5",
+      "published_date": "2020-10-28",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Three-point shot lifts Team 23 over Herd That in TBT - WCHS",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd3pYek1WRUdfVEtESmlna2JlTjNWZzdOUWpONERUTmo0cWFFV2dVcXpvMUEwU0VZcE9TbndEak5KZmpERWFtWWNYbW1UdlI4ekFYYWVEQzBGT085Y05HaUlRU1A0WWkwc2ktR3pkaVdVbkVLN21mS21WNW9ucnNPVzJ2dnhaZnVYNWpzdGluRUFSY28?oc=5",
+      "published_date": "2021-07-20",
+      "source": "WCHS",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Erie BayHawks basketball: A look at 13 seasons of a G League franchise - Erie Times-News",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOGE1OFctN0JEamwtZFBvSnd2eVFRUFhsMWV6blNhQVhIRlF4SGplN0dkRS1KNlZJSXpPY0VlY0J2dDYzR0dXZXQ4TlZnZnhhUmRwVkJLeGR5ZmJXR1play1scVRGOTZwZ2MxN2VqWlFhTlU1bjliVW02YmpCTDFBbnllamJyYzhfZHFxLWY5UFNuejlaWkxRM0NqOFg4dVM3Q1kxSWRwaHhOeEw0d0poLXVtWVRnZU9lalRoNkUyM3owSnM0ZWJtb1R4YjJKdnZf?oc=5",
+      "published_date": "2021-04-11",
+      "source": "Erie Times-News",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "J.D. Davison Repeats, Named Mr. Basketball in Alabama for Second Straight Year - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLWVmVnlQVEFWQnhFZEdDc2ZLV3BkSUJGT2tOQ2g5UzFpaGJHRHRaMEpQamRVM24yTHhyRS1MYXc3SUZ5OXM4YkNqNlZrTlprajl2cjRBek92akxqNkg3M0g4eWZIaXBQRWp4RTR4cGQ5cEg3cGVxOVNJdlRvRXlIVVJuNk1BVUp4TU9yeQ?oc=5",
+      "published_date": "2021-04-11",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "55c3f32b44735ccbdf1e7ba66a636d3e5c482a11875126c9c192e5940c518c2e",
+  "feature_eligible": false
+}

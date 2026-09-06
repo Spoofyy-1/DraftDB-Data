@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T11:23:14.828997+00:00",
+  "lane": "news",
+  "pid": "Pfa7ab0de3c",
+  "draft_year": 2021,
+  "name": "Malcolm Hill",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Malcolm Hill\" (draft OR scouting OR prospect OR basketball) after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Malcolm+Hill%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Men's Basketball - Scoring - University of Illinois Athletics - University of Illinois Athletics",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zSmJXc2EzZzRGa3B4QWFjSlNzNVpVV2wzT3p5cm16d2h4bmpvbmFrOVJXYmc3QW1PLXRRbTJaX18temFfUC1qTG90b2lpWFVrd2IwRUVWRi1PdHFhemsxMEhzSUdTd2ZvVlcxT1kzZ3BYWENFTEE?oc=5",
+      "published_date": "2021-05-27",
+      "source": "University of Illinois Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Illinois Basketball: Top 5 Illini shooting guards of the 2010s - Writing Illini",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONl9SR1V3RkZob0ZCMFdUTEEtVGtpWERCOWNtOEN0LW9mSktQWjM1N2JCRHpiSlFuRUc0czhndmhBY0JINm9sc1F3RFFDa191eVJaZEtVdXlNNXd1RUg0QmJ0R3FRNDJDalptNU9zTTZtb1pwbWphb1FLWTNaT3FMa0k1cWgxOVJCQXZ0dTQxSzZ3OXY0aFA0?oc=5",
+      "published_date": "2021-06-11",
+      "source": "Writing Illini",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Good Morning, Illini Nation: Evaluating Alex Tchikou's top nine - The News-Gazette",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNWZRYmR1Ti1aakF2YkxHdzg3TUVSYVdvMXBqZVBjc2JqNjQtNWVvcklXbVJtLUpjY2F5YmdtVnNTRlRBTW5OZkpyTU9wVWJDRGhjQW9vaUFTVDZyMFZua1lXN0lSMF9sakJwUmVKeGUwSXlUVHV4UVQ5NmdDZ2NHQ2RWZl85bDg5ckVFVG9OejFsWkhTYzlub1E0YW5vbnhZR1JCemM0b3ZiXzA5QnJWTHQ0cEQtb1ZsN1dVQTFUUm5WcWQyU2o4SENRVnNTTWFJSjFlZk9Ic3ktWXlhblBz?oc=5",
+      "published_date": "2020-07-01",
+      "source": "The News-Gazette",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Men's Basketball - Free Throws - University of Illinois Athletics - University of Illinois Athletics",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0blIxYVlOTmVJdF8yUkVXa194cVpWQXloM0N1bDNRV0dWMHpUUV9uQzVWcTE0eGN2aWhkcEhsRE1TYVVSU0o5ZHFsQ2lQN2F4MU9IUWhRU1R0T0hmU3dQRlNmc0NaLUtpQ1lleUl0bUpick5HcE1BcjhMbw?oc=5",
+      "published_date": "2021-05-27",
+      "source": "University of Illinois Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "House of 'Paign Upsets No. 1 Seed, Advances to TBT Quarterfinals - University of Illinois Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWWhjQzMwNXloTnNoenpRQ1JldjVSdDNSTmpDZmpxTERPN0xNN1VFTjZCOXRmazNLT1Ywb0xiT3hXcjAwSmdlQnFzYXJjcXZJbXExWTlIcjVhSndldXM5REU4WEZST18xLUtBbzVFMzFYVVAzNGZwSG1ZNF93Q0JxVzRoaWhhREtfZ19ROWp6ZzRGZy1VSEtvWVdoZTlTRXVYaGc0YXBvdXRydFkxN0k1LThOZTVHYlk0M2c?oc=5",
+      "published_date": "2020-07-09",
+      "source": "University of Illinois Athletics",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "406f5160e80fe8a302bbf8a685c7ab64bf1c8965486ebb8983d3ceb0edde3436",
+  "feature_eligible": false
+}

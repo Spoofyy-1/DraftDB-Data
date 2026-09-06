@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:42:01.365795+00:00",
+  "lane": "reports",
+  "pid": "P6876f611cb",
+  "draft_year": 2022,
+  "name": "Vince Williams Jr.",
+  "draft_date": "2022-06-23",
+  "status": "ok",
+  "query": "\"Vince Williams Jr.\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2021-07-01 before:2022-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Vince+Williams+Jr.%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2021-07-01+before%3A2022-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2022 Draft Central | Indiana Pacers - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UQUE2YXlHTU5YOFVGM3I4d0d6dkU2VnNaMkNvTXJvcUFmck1pV1l5SkJJWnZrVEZPc0xMY0tMc3lnU2Zfbzluclc1OGlwNkNOLUJFSm5pRW8?oc=5",
+      "published_date": "2022-05-29",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Tari Eason - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xNjJ6SHlpRXhIR1lnb0F4Nm05b2dYRjVGN0YyYllrOFJVbS1vMzJ0cXFWMG53OV9XWDRVTlJpeV8wOWwzbUpSeU85ZzU?oc=5",
+      "published_date": "2022-01-20",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA 2022 Draft Prospects - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vMGpnSVpOYnctbHN2bFV5V2FLZFgyNmNMVHdvd1FlNFVOWmpncTdFSlNqbnNtLWM4QUcwanJsMG16NUYzUHplZ1ptRWRNbHYwUC1hNmJFVkQzVmphS3l6anBxTFF6ajczdFR1YnktOWlBcW9KdEE?oc=5",
+      "published_date": "2022-05-22",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "2353857fef46861d5257193df6a74091afccebd942bda5263ffbff899aa92dbf",
+  "feature_eligible": false
+}

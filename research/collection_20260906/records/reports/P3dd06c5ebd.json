@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T11:46:53.868044+00:00",
+  "lane": "reports",
+  "pid": "P3dd06c5ebd",
+  "draft_year": 2023,
+  "name": "Jaime Jaquez Jr.",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"Jaime Jaquez Jr.\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Jaime+Jaquez+Jr.%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA 2023 Draft Prospects | Jaime Jaquez Jr. - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40RlRiVDRqcXMtOFJVWXZqLXE1UkF6eFhqYXF6Zm93QXN0eFJBUTVvb3BwLUdrOE5BbFNRWE9sb1h0TnJJYkNvdmNlaEtJVWQ5WnR5c2t2S2EzcERzYk4zRV9vT01JYVU?oc=5",
+      "published_date": "2023-06-01",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA Mock Draft 2023: Where Jaime Jaquez Jr., Amari Bailey and other UCLA players could end up - Daily Bruin",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ0ltMU0xbnRPYzcxam1pWVNxamZCRkhzT3dnQlRNYXJUNEd0c0hrdENBbXBDWFVxLWY2Qm1GZGlvQzlxTE80U29tUTNMZk12UV9MazBXeGdRaFNkU25RSDBVbGE4RW85Z2JOT1R3dXZtNzhMbkJGS3pRZDRmTUMxZGFxenZEUXFmQXExWDJTODAwN3pIYWdMZkE2VGVGM2pycFFnMnpzTG9lWE5YcGstWjdZN1BrdmhkZ1lkczBvbXZ1Zw?oc=5",
+      "published_date": "2023-06-07",
+      "source": "Daily Bruin",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "UCLA wing Jaime Jaquez Jr. entering 2023 NBA Draft - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbmtKOS1FMmxrTFVZSVBkMllpS09qeHlhbHdmUEtqdDlUel9lZGpjZG55MUJHUG13NExjdDNqaDFOVUxud2QxSFd5MXYxODRYYTF1TFR2S19hZWZwbHc2TTRsMGcyczhMV2FBWVNCYXA4QkZTRkhLc29YVWU1RFZxcjVKUk5aeWs?oc=5",
+      "published_date": "2023-04-06",
+      "source": "The New York Times",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Report: UCLA's Jaime Jaquez Jr. works out for Warriors during pre-draft process - Warriors Wire",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdG55RmU5dEpFNjdNRVZEOFlmZVYwUjBrMjFoS0swc2xMeDNtQUpnVTQwa0JGMFo5MXQ5WE5HUGRSOWxBaUZvQjhmT1dmMDRGY3B0bHpFSTBhOFltZTdYUnBFX21zNjQzRTRBcXJNd3lXZENLVE0zalJ0aDlfVFBBSlMwYlNZZEVDendIRl8tV0FtR3QzUFNZam9TXzRKS1hGU3ZGdXJuSi1aVE41N21oRnZuQlpPNmxQcU9kWHgzM0RTU0FpWXBIYkpPQ01TQXM2SmFpZmo0dVd6N0tsaEttOHpEel9sNVRFOTM1OS1jNUt0dw?oc=5",
+      "published_date": "2023-05-31",
+      "source": "Warriors Wire",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2023 NBA Mock Draft (Version 1.0) - Hoops HD",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rdVN4VGFVb2NFeG9ndXhoeVdHSjE0dzMzb2pqNUpESURHd3hBRVJteW1tN3lpaEcwS3VHdzh3R0YxM1M4LXRyME5VMHRpS0dFa0o4TlRyYWYzRWlGbF9wVk5QUTdVUFdZeEpoenEybUI?oc=5",
+      "published_date": "2023-04-25",
+      "source": "Hoops HD",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 4,
+  "response_sha256": "929e884e2c361eefc306659ac82ace30c893bcd21943cd7aba00cccf8b188fb6",
+  "feature_eligible": false
+}

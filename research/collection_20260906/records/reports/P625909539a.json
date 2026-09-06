@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:24:11.385262+00:00",
+  "lane": "reports",
+  "pid": "P625909539a",
+  "draft_year": 2020,
+  "name": "KJ Martin",
+  "draft_date": "2020-11-18",
+  "status": "ok",
+  "query": "\"KJ Martin\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2019-07-01 before:2020-11-18",
+  "query_url": "https://news.google.com/rss/search?q=%22KJ+Martin%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2019-07-01+before%3A2020-11-18&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "2020 NBA Draft scouting report: Kenyon Martin, Jr. - Peachtree Hoops",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdGJNbXkzVk5BN2ZxVXBGU1RfdmRmVEtKSkhpWFd5VG04bzlOQlJjd1BLRnozNTZraFN1MHJOdDJKYUhhbmJqazVISGxaLW9aalJodmJRQXhCRlJaOEVNNS1zdnh0N3dNSWNzR0YzdkNmRFRTRkh0Tms4TTgyMndyLUNfSnFQSDRQelFBSDJ4VTI1bGNkQ3hZRl9ZeW01OXNMVW9naWdkYXpOam1WYURmR19iOXVmSHZJQ3U2QlZnVlJVdS1VZERCR0lfcUFVM0dsTjd4c0NuV3EzR0cxNmc?oc=5",
+      "published_date": "2020-06-29",
+      "source": "Peachtree Hoops",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "2fb267927d330e4440dd61347dc9c59a3ab312abcab0f9d237cc10db5298a5ac",
+  "feature_eligible": false
+}

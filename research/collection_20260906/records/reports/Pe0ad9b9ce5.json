@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-09-06T11:38:44.522145+00:00",
+  "lane": "reports",
+  "pid": "Pe0ad9b9ce5",
+  "draft_year": 2021,
+  "name": "Oscar da Silva",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Oscar da Silva\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Oscar+da+Silva%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Jeremiah Robinson-Earl - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82enZDdk1GWFp2U1FaZFlmSnFUUC00Q3ppUFFfZnNsc1FiMUtXVnd3N1lkQ2tZbVpNSjJBMUNodHIxM0VMeVQwVXczR2hyQURFckV3aS1Bc1lxR3NvbUpv?oc=5",
+      "published_date": "2020-07-03",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "67189e8bfcc61160c17339af0dbb7f647a3c53b4ad5d35a8a698346f9133c1d2",
+  "feature_eligible": false
+}

@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:35:18.641100+00:00",
+  "lane": "reports",
+  "pid": "P9adb5133bc",
+  "draft_year": 2021,
+  "name": "Matthew Hurt",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Matthew Hurt\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Matthew+Hurt%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Duke Blue Devils forward Matthew Hurt to declare for 2021 NBA draft, hire agent - espn.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVlJuQ1YxMnFDQXhuOUNPeThrQjBsZzBfeTZYMHBxSzVhMFZFQU5OaWh5Nl81WTdmSDNuaWhSblFUaGVkeWhyNVdkSTNqY2xablNTOXplcngwaC1zNGptMzhyZ3d5OV9zLVRpTW1vdWZpUVBUdGhIdWg2LXc3SjRreV9iclI5cUJNUTFsc3piMUFsa2FHUDNWRl9jdUVrcDZ6TW1reG10MC1TSkREdXlrcHRUWTNrNTNTNF8ydkJnRmI5ZFAzbmltOEdtWUVGTHo2ZGc?oc=5",
+      "published_date": "2021-04-14",
+      "source": "espn.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Duke Freshman Jalen Johnson Opts Out of 2020\u201321 Season - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM1kzZllqVXg2cHNlVGZybElUa0RKQk1SOVNLeDFJTThzYjI3THBKUGxDYTJJTTlra3MxbFZLcFJyc3I3QjhVbUNCVVRWeFhidDMwSGJzMUZKcG1WMS1BdTJ4a3NEempYVmVSa1N4cHBPSVotTjVTTGpiRzByWWNrbkxCSnVvLXpCVFE?oc=5",
+      "published_date": "2021-02-16",
+      "source": "Sports Illustrated",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jeremiah Robinson-Earl - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82enZDdk1GWFp2U1FaZFlmSnFUUC00Q3ppUFFfZnNsc1FiMUtXVnd3N1lkQ2tZbVpNSjJBMUNodHIxM0VMeVQwVXczR2hyQURFckV3aS1Bc1lxR3NvbUpv?oc=5",
+      "published_date": "2020-07-03",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA mock draft: Loaded No. 1 pick race and a new top 60 - espn.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY1NGRTJTWmFoQ1pfbk93VU9qUUhWQzV6OWJvRE84TWM3bXNLWnFpZzV3ODQwU2NSSjJvR3NwY0t3WGJJUXRCTDN1b0FQNGNSWlFjVXJHYWhWcGhoZWgtMGMxRHM3cGVmWVFqUkJIVm9OSVp2SzJRYlJvNlZ5MU9Cd1M3ek9YYlhnaW5pZ1hiaXQzSmMzWnpj?oc=5",
+      "published_date": "2020-11-24",
+      "source": "espn.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "08550bf2e827e32212e14c86a1677eab95392b14fd219c18c2a744f280cf6bab",
+  "feature_eligible": false
+}

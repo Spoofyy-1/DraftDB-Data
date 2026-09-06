@@ -1,0 +1,48 @@
+{
+  "collected_at": "2026-09-06T11:23:35.205479+00:00",
+  "lane": "reports",
+  "pid": "P4cd6438cc3",
+  "draft_year": 2020,
+  "name": "Karim Mane",
+  "draft_date": "2020-11-18",
+  "status": "ok",
+  "query": "\"Karim Mane\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2019-07-01 before:2020-11-18",
+  "query_url": "https://news.google.com/rss/search?q=%22Karim+Mane%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2019-07-01+before%3A2020-11-18&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Karim Mane, Vanier College Cheetahs, Combo Guard - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QQ1JkLTdtalNWeUYyQ3FfdS1PdkQ3RzBmemdLTTNNUGxGdGszWC1obVVRYUxOaWItM1hKNG4tSGw0bkpMRVY2dGJ3SWlRUzJsNEI1ODRBR2xyS2xDU2c?oc=5",
+      "published_date": "2020-07-16",
+      "source": "247Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA mock draft: LaMelo Ball is now a real No. 1 pick contender - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMk9xZGtyaFNiOThOaGNYTzZzdXVwbUlDZEdhWWFOLXQ3ZlRhTXYyVWt2TUloWVZBQlhpdkFHZ1BsdEFhUW03QWQwbF9tNEk2UEdXeHBiQkFsV0diVTYxeU5ENTQ2VURxQjIwZVdmejhwSHZMVGh2QTRyNG8yMjFjbEhKbk9tTF9wd2RxRWhOS0NQQ1FrbUJxM3k4LUtUNkh1UlE?oc=5",
+      "published_date": "2019-09-24",
+      "source": "ESPN",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Desmond Bane - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00SG02QXFRTHBnR2JmSkJtQ2doeTNuRTkydWFSdkpkWmhUTTlnbUVVRmVYdllnZnNScU54cThNaTFwaGdJNm9hOUxIb003OUgwQUE?oc=5",
+      "published_date": "2020-06-30",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Tyrese Maxey - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OLUM0aTZ5cHRISXhsRUduTC04czlxWWhadk95anlBMl9EdTNlSTFpWlIxdTc1b1lMYlU1eER3MFFkUEJ6aG0tbW5BUTR0LTdYOHc?oc=5",
+      "published_date": "2020-06-30",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "1c443bc13267d0d86f40f67270d93f31371cb34bdc42bd71b0f056ff5fa7f471",
+  "feature_eligible": false
+}

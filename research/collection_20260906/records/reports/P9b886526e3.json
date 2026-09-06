@@ -1,0 +1,80 @@
+{
+  "collected_at": "2026-09-06T11:49:25.416949+00:00",
+  "lane": "reports",
+  "pid": "P9b886526e3",
+  "draft_year": 2023,
+  "name": "Colby Jones",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"Colby Jones\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Colby+Jones%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Colby Jones, Xavier University guard, invited to NBA draft combine - Cincinnati Enquirer",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTTkyRGNqWEowQ2NKRlh5aF91MVZwaGJGVlBuREoyUnRiVkd0Qmxqa3RfUWx6WXg0Z2xvcEx1dHhkODFnOTk0Z3BJcUhUdERKZWZtV2c1Vmh0dzEwdVY3cHpvdzlTRlRtenlXNThPUER1VjlsMlQxaTU4azVvZzg5TEdiWDQ3MDdGdDRCMmFZZzRWRlE5OXRTWGhfX25OMk9BWU9FOHZlbHM1N21CSGJXcjdYbFpuRkVIbnNfVndZM1ZYWUF4ZHJ5RHM5RHh3MVdoaGNmTUMyODR0aWx5ZmlEVFh3?oc=5",
+      "published_date": "2023-05-10",
+      "source": "Cincinnati Enquirer",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Draft Experts Project Who Warriors May Select With 19th Pick - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRW9zT09aVmtfNWlkWnJoMEt3X2lzZWJZQzh3RWJRT1VPUzdBc2lmYWdTRzJTLUdUd1BWWm9oUktZVkhPbUNaQUFPSTZvcnJkWTR4ZkQ5MEF6S0JlMElyRzZuTEFYT3Ffd3ZqOEhKQkYtTnc0aGFJTGoydjViUFl3VDJ5cGhFWkNfQ0x2LUpiNzFxLXNxMF9kYUFmV0dabkRMeGhfUw?oc=5",
+      "published_date": "2023-06-06",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2023 NBA Mock Draft (Version 1.0) - Hoops HD",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rdVN4VGFVb2NFeG9ndXhoeVdHSjE0dzMzb2pqNUpESURHd3hBRVJteW1tN3lpaEcwS3VHdzh3R0YxM1M4LXRyME5VMHRpS0dFa0o4TlRyYWYzRWlGbF9wVk5QUTdVUFdZeEpoenEybUI?oc=5",
+      "published_date": "2023-04-25",
+      "source": "Hoops HD",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2023 NBA Draft Profile: Sidy Cissoko - The Kings Herald",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KOUJETFpkYUtKSXgzUk1qNWxmMy0wcXNlaFlxUHFVQjJKOWpUaGltYm9rSDlucGdZSjFlZ2JoakQyT1YtbWNxYlJNNjFza3FpQ0FVejNDY3o2UVFEVDBNdW5rOUk1RGRiQjktbUxEbWphVHlmVHE2YUl3?oc=5",
+      "published_date": "2023-06-15",
+      "source": "The Kings Herald",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2023 NBA mock draft: Will Brandon Miller or Scoot Henderson go No. 2? - Orange County Register",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSU51UEhwbDMxNTJ0VVBGNUUyUzFVdVpfdVFwVjNmMVFuV25XMXU2aWZFaThfck0ydENuak9PTnFVUHRWbkJTTGoyQV8zdUpKOTJaU3dNSE9lMF9ZU3IzZHpoM01QQUlBZnRRc1hlcTltQUoxYVg3c1c2VW4wUlltdkgwT0xRUUhqcERkZTJCNTBacG9PMVJwTFdONHVJVGtUYk5Ibl9VcUY?oc=5",
+      "published_date": "2023-06-20",
+      "source": "Orange County Register",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "2023 NBA Mock Draft: Round 1 Picks & Predictions - FantasyPros",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMlBTNUF3Mzc4VUhNRmhNNzZnWlBCLThHcVpESFJCX25YNF9GQ2JsVUdZbk9jejBzR3poVmZ6amxyN2hBT0ZybWNXRHRQbTRsbUZkSzk5ckdYM004M1RMOVk5RmZzbjdlNGxoNmxwR1VtMHg1cW93M0lVTzd1bnRBeDZkX1dUUERydkHSAY8BQVVfeXFMTVBmbWo4MlVVZTZNaWRtenhvaDBYaTZJdURsSWtpRGdEenIyTjNFRWppamw4UjFNR0xjT081LXQ5X2p1YktURlByMWdVZ1dnQjNJdUJKc0RLM2VyRnNlbDg3Ym9ldGVER1hNMTB3b3hsTzRsWExReDg2OHlmdFQ0MXZWckQ0LWV3NTRlc19YZnM?oc=5",
+      "published_date": "2023-05-20",
+      "source": "FantasyPros",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA mock draft: Wembanyama\u2019s French teammate\u2019s draft stock on the rise - Orlando Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR19XelJGWGpfazZuWmkybGNKWm1jWWdSQVFKMF8zN0k4VHVEczNxbkVudW9Vckhtang2TnRMYS1NVFBhSURXVTN1ZGhzLW83U2RtVlhJRUxzSTNwT2hLWjdWMEFXUFFXLWhMY0FQTjJiNGdLWlp2RWwzbXlEb2ZaRVc2amdkeWR1RGFfdmhVSHdhMVVUNkxieGgyMEZDYUg2dXJUa0pWWXdQSUhPYXFtZg?oc=5",
+      "published_date": "2023-06-08",
+      "source": "Orlando Sentinel",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Bleacher Report: Final 2023 NBA Mock Draft and full 2-round predictions - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2VSUkphelpkaGJhWVkzTm5pQ0VqUVRyZjFKNGppOEM4SldKM0QtdFFxcWVCM2xTOVZpRHJPOTBEeHM3S0pMY0NRdlhRcF9iTDdBdElqU1FlRGo0M05XbWtBcDBCMUJ5RExIMFhtaGE2U1JjNDRnaU00S1UxTXpZX3dveFA2WXhPa3BwekFJSnNpa01Renc3Y1JOYWFkUQ?oc=5",
+      "published_date": "2023-06-21",
+      "source": "NBA.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 1,
+  "response_sha256": "5e9c95884e743354a4f08b81e8da44a209a688d6e2ce5af45270ea8a21e98edf",
+  "feature_eligible": false
+}

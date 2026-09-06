@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T11:28:59.161317+00:00",
+  "lane": "reports",
+  "pid": "P1f2e422e9e",
+  "draft_year": 2021,
+  "name": "Quade Green",
+  "draft_date": "2021-07-29",
+  "status": "empty",
+  "query": "\"Quade Green\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Quade+Green%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "3cc4c6be2f501b3a19c0e3eb2c856ba692d72c4b0cd6d3a75a02158a55f04ace",
+  "feature_eligible": false
+}

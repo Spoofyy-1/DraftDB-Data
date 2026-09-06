@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-09-06T11:40:55.266358+00:00",
+  "lane": "reports",
+  "pid": "P2e38feab3a",
+  "draft_year": 2022,
+  "name": "Chance Comanche",
+  "draft_date": "2022-06-23",
+  "status": "empty",
+  "query": "\"Chance Comanche\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2021-07-01 before:2022-06-23",
+  "query_url": "https://news.google.com/rss/search?q=%22Chance+Comanche%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2021-07-01+before%3A2022-06-23&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [],
+  "rejected_dates": 0,
+  "response_sha256": "5378fe2c996798eac69e74bdea33509b8eeaf975c826a7ca9ed4ecda6f049e6c",
+  "feature_eligible": false
+}

@@ -1,0 +1,56 @@
+{
+  "collected_at": "2026-09-06T11:35:08.907812+00:00",
+  "lane": "reports",
+  "pid": "P969b4447cc",
+  "draft_year": 2021,
+  "name": "DJ Steward",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"DJ Steward\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22DJ+Steward%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "NBA 2021 Draft Prospects | DJ Steward - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzcTRqVEdUZEVyS3l0SmU1Q3dmOHdRODEwZWYtcDNtdFVJanBYcDV5eWZ2U1JKZ0szNi1jQXY0Y2dKUElZM2ZPSzFqbDF5MFVINWxKY2RPLU9UaS1IWE1GLQ?oc=5",
+      "published_date": "2021-07-16",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Blue Devils freshman DJ Steward declaring for NBA draft - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSS1vbVhBT2VQUE0yVVJkaUd6cVdjeUVCaVhwaW5vdl9zZlNIWlRFbUc3Y0lldWtlZmxvbXQwSlhjYWl2dHg4YnUxX283YjF4aXhQWWlJS2l4LV9ERnpXV2g3SGpLTDNwM0wzdk13aVI5bUhEbnZfWVRPSGlYQkZ0UU5yaHZGNTA?oc=5",
+      "published_date": "2021-04-01",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "NBA mock draft: Loaded No. 1 pick race and a new top 60 - espn.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY1NGRTJTWmFoQ1pfbk93VU9qUUhWQzV6OWJvRE84TWM3bXNLWnFpZzV3ODQwU2NSSjJvR3NwY0t3WGJJUXRCTDN1b0FQNGNSWlFjVXJHYWhWcGhoZWgtMGMxRHM3cGVmWVFqUkJIVm9OSVp2SzJRYlJvNlZ5MU9Cd1M3ek9YYlhnaW5pZ1hiaXQzSmMzWnpj?oc=5",
+      "published_date": "2020-11-24",
+      "source": "espn.com",
+      "kind": "mock",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "ESPN projects Chet Holmgren as No. 1 overall pick in 2022 NBA Draft, first round loaded with Duke commits - Zagsblog",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUkR2b09aMUlMUW1KRU9zNWhwYlBBTUg3UzhmdVo5Qmdma3Z4RVJvVWt6T2JYMzF4LUJvYy1lUmxLaXVZODN4MDdZRmtGZXVESnZob3lYZjZMeGEyNnJmbDc2Q1lzLV84bzliQmFtckYzMW5CV1M0YVZ0eVJBTHljTGdUYW5QOWhTTDN6MUE5ODkwRHpOSGZmYnVoVjA1YWREQ1RPR0lVbGg0WXMxTFk0MjFkT2t3TTNSdDMzQzhTdEZaQ09VS3k2bXpNdXhtYmF1dkxvOGR1bw?oc=5",
+      "published_date": "2020-12-29",
+      "source": "Zagsblog",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Austin Reaves - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52bEZ5c29DWnZpRHRvT3JHMm01QkxXS2xOaGhDb3FXV2pVaGY0bkJLY1p4eHdpSlBERVYxWldyWjlWLUZZVHR1SW9wb1lwcERy?oc=5",
+      "published_date": "2021-06-14",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "0135a51e330a8ebcdf790c488e74923c27d8613fe554b0e705b9aadc874d5547",
+  "feature_eligible": false
+}

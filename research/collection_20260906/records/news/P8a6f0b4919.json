@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:32:28.500619+00:00",
+  "lane": "news",
+  "pid": "P8a6f0b4919",
+  "draft_year": 2023,
+  "name": "Jermaine Samuels Jr.",
+  "draft_date": "2023-06-22",
+  "status": "ok",
+  "query": "\"Jermaine Samuels Jr.\" (draft OR scouting OR prospect OR basketball) after:2022-07-01 before:2023-06-22",
+  "query_url": "https://news.google.com/rss/search?q=%22Jermaine+Samuels+Jr.%22+%28draft+OR+scouting+OR+prospect+OR+basketball%29+after%3A2022-07-01+before%3A2023-06-22&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Jermaine Samuels Jr. | Forward | Houston Rockets - NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpMUcyMFRRRXRTZHNIc2R0b2tRYXRQRTBLdTBuaHg1OHdQclFjMHpHaVBDV2Q5UnRpSzZabUVwLUlycnRBU2dBc0V3U0hhUm1ud0g0Um1iRkxmam5UQm9GRHZzMGI?oc=5",
+      "published_date": "2022-10-15",
+      "source": "NBA.com",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jermaine Samuels Jr. (SF) Stats, News, Rumors, Bio, Video - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42dmlfZGYyWGJSNEkzR3FGcEV3RmQyaHl5TjhKWTBCNzAwY1hLWWprSy1zbnJZRDloNnVFUEx0YVhfUDk5RW9lUnZseGxwT0xpQ3FWaA?oc=5",
+      "published_date": "2022-10-18",
+      "source": "Yahoo Sports",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Pacers host first Summer League practice - IndyStar",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTTVXS1RuVWtqT2NyS012Mnp1NHJfQUFqUmRxMHNYRnB4cG41THdiMGF6Nk83dk9sSV9uMm8wbnFENWM2MzRDTnVjOE9sZVNsSkY5akoxQkFIZEVDUnJob1Z3bmFqVE1LZFpkXzRsNlUzbzBuWUxhRXc3VkY2SERGMjg5a3JoRDBUY0xaaEk5cHVOSU80S1A1dDBITVlZa1FIZEtfcHRkV2k2dk1yc3lyanUzS2dTZlU4RW5jdTBwUQ?oc=5",
+      "published_date": "2022-07-02",
+      "source": "IndyStar",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "93280832d8e958587b600df1554686c08d0f393799d775d2690fa32ce616b3c3",
+  "feature_eligible": false
+}

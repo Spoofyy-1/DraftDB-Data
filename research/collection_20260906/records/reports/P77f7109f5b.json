@@ -1,0 +1,40 @@
+{
+  "collected_at": "2026-09-06T11:33:50.036343+00:00",
+  "lane": "reports",
+  "pid": "P77f7109f5b",
+  "draft_year": 2021,
+  "name": "Duane Washington Jr.",
+  "draft_date": "2021-07-29",
+  "status": "ok",
+  "query": "\"Duane Washington Jr.\" (\"scouting report\" OR \"draft profile\" OR \"mock draft\") after:2020-07-01 before:2021-07-29",
+  "query_url": "https://news.google.com/rss/search?q=%22Duane+Washington+Jr.%22+%28%22scouting+report%22+OR+%22draft+profile%22+OR+%22mock+draft%22%29+after%3A2020-07-01+before%3A2021-07-29&hl=en-US&gl=US&ceid=US%3Aen",
+  "items": [
+    {
+      "title": "Ohio State's Duane Washington Jr. entering his name into NBA draft - The Columbus Dispatch",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN3hYbDg2ZzZkbGNaemlQQW9fNUVxU2ZJRzhjMkRXeS1KM0taWTAyVnl5SzFfWDZzaXBWRk5LU3lnem9kNFNBejBIVDFsVEw1YmpGd1NkMzE0XzE2QzBkTDJIUFZucE5NaEhnN2dtXzAwT2toSnFYTUtja2gxX2pVeU9CTGNTY0lHbW5wSXFCS2EydTBoczNhalhaQnBHOTdQQ3pXNjZxdkxIUnJOTUhtRlM4YWJPZDh0c2ltdA?oc=5",
+      "published_date": "2021-04-09",
+      "source": "The Columbus Dispatch",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Charlotte Hornets NBA Draft Profile: Neemias Queta - Swarm and Sting",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaHRUODRZU3NsNjdJNnR2LWR2dUZVYTUwZHJ4WW5nSm9YbjZXdWNCckFuN3A4SUpPQWJNUUpWbDRZcWkyZ0RQeVktNG04TW1TS2tjUGNfeGVxM2l3aXpTTDFlRGNpRi1IWDdOOFNpZlNibEdma2t6TS1FVENvT0p2YUcxb056S2x1MUx3bTF5b2g?oc=5",
+      "published_date": "2021-07-23",
+      "source": "Swarm and Sting",
+      "kind": "scouting",
+      "eligibility": "quarantine: publication and identity need source verification"
+    },
+    {
+      "title": "Jared Butler - NBA Draft Room",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Vc1ZxSTJtMHh6MUR4QTZuemZYVXVSMmgwWHEtb1B5dWkzbXBuVE5WZDN4TmJnbWFGVVpTMUVVWUxGOTc4NmYtTnp4MkQzbUk?oc=5",
+      "published_date": "2020-08-06",
+      "source": "NBA Draft Room",
+      "kind": "news",
+      "eligibility": "quarantine: publication and identity need source verification"
+    }
+  ],
+  "rejected_dates": 0,
+  "response_sha256": "12e2e265403d35f544d9fca932af5d2e4709f046032710b6916c4a1b437b6418",
+  "feature_eligible": false
+}
