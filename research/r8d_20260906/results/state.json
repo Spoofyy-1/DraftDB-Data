@@ -2436,16 +2436,2452 @@
       "seconds": 123.5,
       "task_id": "skill_win2003_uniform_icl128_seed202",
       "seed": 202
+    },
+    {
+      "config": {
+        "id": "base_win2007_disc85_icl32_seed0",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": null,
+        "drop": [
+          "scout_"
+        ],
+        "window": 2007,
+        "hw": "disc85",
+        "icl_n": 32
+      },
+      "score": 0.4305630261260536,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.5098124098124098,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.5034632034632036,
+            "tabicl": 0.5102453102453104,
+            "ridge": 0.39170274170274183
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.29719801204273544,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.2622328931572629,
+            "tabicl": 0.33685474189675874,
+            "ridge": 0.16648259303721488
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.4846786565230157,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.44525076600548297,
+            "tabicl": 0.5230607966457023,
+            "ridge": 0.43154329946782777
+          }
+        }
+      ],
+      "seconds": 83.9,
+      "task_id": "base_win2007_disc85_icl32_seed0",
+      "seed": 0
+    },
+    {
+      "config": {
+        "id": "base_win2007_disc85_icl32_seed101",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": null,
+        "drop": [
+          "scout_"
+        ],
+        "window": 2007,
+        "hw": "disc85",
+        "icl_n": 32
+      },
+      "score": 0.4337539175183198,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.5140249299515678,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.4813852813852814,
+            "tabicl": 0.5132034632034633,
+            "ridge": 0.39170274170274183
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.2996758335922566,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.27097238895558223,
+            "tabicl": 0.3381032412965186,
+            "ridge": 0.16648259303721488
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.48756098901113504,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.451298177713272,
+            "tabicl": 0.5273343009192065,
+            "ridge": 0.43154329946782777
+          }
+        }
+      ],
+      "seconds": 87.7,
+      "task_id": "base_win2007_disc85_icl32_seed101",
+      "seed": 101
+    },
+    {
+      "config": {
+        "id": "base_win2007_disc85_icl32_seed202",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": null,
+        "drop": [
+          "scout_"
+        ],
+        "window": 2007,
+        "hw": "disc85",
+        "icl_n": 32
+      },
+      "score": 0.4250704560680545,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.5003788018696893,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.4616883116883118,
+            "tabicl": 0.49855699855699864,
+            "ridge": 0.39170274170274183
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.29225191489612024,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.26050420168067223,
+            "tabicl": 0.3325330132052821,
+            "ridge": 0.16648259303721488
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.48258065143835394,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.46137719722625387,
+            "tabicl": 0.5237058538945332,
+            "ridge": 0.43154329946782777
+          }
+        }
+      ],
+      "seconds": 92.3,
+      "task_id": "base_win2007_disc85_icl32_seed202",
+      "seed": 202
+    },
+    {
+      "config": {
+        "id": "base_win2007_disc85_icl128_seed0",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": null,
+        "drop": [
+          "scout_"
+        ],
+        "window": 2007,
+        "hw": "disc85",
+        "icl_n": 128
+      },
+      "score": 0.4290657758036433,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.5070798536152045,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.47655122655122667,
+            "tabicl": 0.5065656565656567,
+            "ridge": 0.39170274170274183
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.2915386096331187,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.2573349339735894,
+            "tabicl": 0.3358943577430972,
+            "ridge": 0.16648259303721488
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.48857886416260665,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.4578293823576842,
+            "tabicl": 0.5197548782454443,
+            "ridge": 0.43154329946782777
+          }
+        }
+      ],
+      "seconds": 123.3,
+      "task_id": "base_win2007_disc85_icl128_seed0",
+      "seed": 0
+    },
+    {
+      "config": {
+        "id": "base_win2007_disc85_icl128_seed101",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": null,
+        "drop": [
+          "scout_"
+        ],
+        "window": 2007,
+        "hw": "disc85",
+        "icl_n": 128
+      },
+      "score": 0.43126037180894977,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.5070890006546759,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.46904761904761916,
+            "tabicl": 0.5062049062049063,
+            "ridge": 0.39170274170274183
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.301519844500943,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.26280912364945974,
+            "tabicl": 0.3332052821128451,
+            "ridge": 0.16648259303721488
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.4851722702712304,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.4538784067085953,
+            "tabicl": 0.529269472665699,
+            "ridge": 0.43154329946782777
+          }
+        }
+      ],
+      "seconds": 111.1,
+      "task_id": "base_win2007_disc85_icl128_seed101",
+      "seed": 101
+    },
+    {
+      "config": {
+        "id": "base_win2007_uniform_icl32_seed0",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": null,
+        "drop": [
+          "scout_"
+        ],
+        "window": 2007,
+        "hw": "uniform",
+        "icl_n": 32
+      },
+      "score": 0.44697056961896253,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.572912910070665,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.5461038961038962,
+            "tabicl": 0.5822510822510822,
+            "ridge": 0.39935064935064946
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.2886439538414404,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.2745258103241296,
+            "tabicl": 0.3439615846338535,
+            "ridge": 0.18031212484993997
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.4793548449447821,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.4377519754878245,
+            "tabicl": 0.5004031607805193,
+            "ridge": 0.4163038219641993
+          }
+        }
+      ],
+      "seconds": 96.0,
+      "task_id": "base_win2007_uniform_icl32_seed0",
+      "seed": 0
+    },
+    {
+      "config": {
+        "id": "base_win2007_disc85_icl128_seed202",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": null,
+        "drop": [
+          "scout_"
+        ],
+        "window": 2007,
+        "hw": "disc85",
+        "icl_n": 128
+      },
+      "score": 0.43011478079654974,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.5093257335830047,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.4733766233766235,
+            "tabicl": 0.5064213564213565,
+            "ridge": 0.39170274170274183
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.29584633853541414,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.2659783913565426,
+            "tabicl": 0.3333973589435774,
+            "ridge": 0.16648259303721488
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.4851722702712304,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.4597645541041767,
+            "tabicl": 0.5255603934849218,
+            "ridge": 0.43154329946782777
+          }
+        }
+      ],
+      "seconds": 114.1,
+      "task_id": "base_win2007_disc85_icl128_seed202",
+      "seed": 202
+    },
+    {
+      "config": {
+        "id": "base_win2007_uniform_icl32_seed101",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": null,
+        "drop": [
+          "scout_"
+        ],
+        "window": 2007,
+        "hw": "uniform",
+        "icl_n": 32
+      },
+      "score": 0.4452066825206112,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.5740673945242077,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.546897546897547,
+            "tabicl": 0.5845598845598847,
+            "ridge": 0.39935064935064946
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.2858652069301025,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.26761104441776706,
+            "tabicl": 0.3411764705882353,
+            "ridge": 0.18031212484993997
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.47568744610752345,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.4310595065312046,
+            "tabicl": 0.49758103531688436,
+            "ridge": 0.4163038219641993
+          }
+        }
+      ],
+      "seconds": 98.5,
+      "task_id": "base_win2007_uniform_icl32_seed101",
+      "seed": 101
+    },
+    {
+      "config": {
+        "id": "base_win2007_uniform_icl32_seed202",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": null,
+        "drop": [
+          "scout_"
+        ],
+        "window": 2007,
+        "hw": "uniform",
+        "icl_n": 32
+      },
+      "score": 0.4489105033645089,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.5674549496917609,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.5326839826839829,
+            "tabicl": 0.580808080808081,
+            "ridge": 0.39935064935064946
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.29049608739861993,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.26953181272509,
+            "tabicl": 0.3329171668667467,
+            "ridge": 0.18031212484993997
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.4887804730031458,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.4488792130301564,
+            "tabicl": 0.5047572972101274,
+            "ridge": 0.4163038219641993
+          }
+        }
+      ],
+      "seconds": 99.6,
+      "task_id": "base_win2007_uniform_icl32_seed202",
+      "seed": 202
+    },
+    {
+      "config": {
+        "id": "base_win2007_uniform_icl128_seed101",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": null,
+        "drop": [
+          "scout_"
+        ],
+        "window": 2007,
+        "hw": "uniform",
+        "icl_n": 128
+      },
+      "score": 0.44567673511750633,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.5686815672955196,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.5402597402597403,
+            "tabicl": 0.5811688311688312,
+            "ridge": 0.39935064935064946
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.28845830640502695,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.2665546218487395,
+            "tabicl": 0.32955582232893155,
+            "ridge": 0.18031212484993997
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.4798903316519724,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.42702789872601193,
+            "tabicl": 0.5036284470246735,
+            "ridge": 0.4163038219641993
+          }
+        }
+      ],
+      "seconds": 107.6,
+      "task_id": "base_win2007_uniform_icl128_seed101",
+      "seed": 101
+    },
+    {
+      "config": {
+        "id": "base_win2007_uniform_icl128_seed0",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": null,
+        "drop": [
+          "scout_"
+        ],
+        "window": 2007,
+        "hw": "uniform",
+        "icl_n": 128
+      },
+      "score": 0.4486788105360509,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.5714698045037363,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.5463203463203465,
+            "tabicl": 0.5821067821067821,
+            "ridge": 0.39935064935064946
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.28845830640502695,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.2805762304921969,
+            "tabicl": 0.34232893157262906,
+            "ridge": 0.18031212484993997
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.4861083206993894,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.444121915820029,
+            "tabicl": 0.5049991936784389,
+            "ridge": 0.4163038219641993
+          }
+        }
+      ],
+      "seconds": 117.7,
+      "task_id": "base_win2007_uniform_icl128_seed0",
+      "seed": 0
+    },
+    {
+      "config": {
+        "id": "base_win2007_uniform_icl128_seed202",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": null,
+        "drop": [
+          "scout_"
+        ],
+        "window": 2007,
+        "hw": "uniform",
+        "icl_n": 128
+      },
+      "score": 0.4500999341467293,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.5678620405864148,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.5213564213564215,
+            "tabicl": 0.5799422799422801,
+            "ridge": 0.39935064935064946
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.29110641600987736,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.26607442977190876,
+            "tabicl": 0.3387755102040816,
+            "ridge": 0.18031212484993997
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.4913313458438957,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.4490404773423641,
+            "tabicl": 0.5041122399612965,
+            "ridge": 0.4163038219641993
+          }
+        }
+      ],
+      "seconds": 107.3,
+      "task_id": "base_win2007_uniform_icl128_seed202",
+      "seed": 202
+    },
+    {
+      "config": {
+        "id": "projection_removed_win2007_disc85_icl32_seed0",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": null,
+        "drop": [
+          "scout_",
+          "col_bpm_pct_",
+          "col_usg_pct_",
+          "col_ts_pct_",
+          "col_ast_pct_",
+          "col_stl_pct_",
+          "col_blk_pct_",
+          "col_orb_pct_",
+          "col_shot_proj_"
+        ],
+        "window": 2007,
+        "hw": "disc85",
+        "icl_n": 32
+      },
+      "score": 0.4469914448594317,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.5492530979553683,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.5550505050505051,
+            "tabicl": 0.5614718614718617,
+            "ridge": 0.4037518037518038
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.3169419903769697,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.265594237695078,
+            "tabicl": 0.36432172869147655,
+            "ridge": 0.1787755102040816
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.4747792462459573,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.4761328817932592,
+            "tabicl": 0.5302370585389452,
+            "ridge": 0.43218835671665856
+          }
+        }
+      ],
+      "seconds": 96.3,
+      "task_id": "projection_removed_win2007_disc85_icl32_seed0",
+      "seed": 0
+    },
+    {
+      "config": {
+        "id": "projection_removed_win2007_disc85_icl32_seed101",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": null,
+        "drop": [
+          "scout_",
+          "col_bpm_pct_",
+          "col_usg_pct_",
+          "col_ts_pct_",
+          "col_ast_pct_",
+          "col_stl_pct_",
+          "col_blk_pct_",
+          "col_orb_pct_",
+          "col_shot_proj_"
+        ],
+        "window": 2007,
+        "hw": "disc85",
+        "icl_n": 32
+      },
+      "score": 0.4546451989178624,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.5474618497270015,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.5554112554112555,
+            "tabicl": 0.5650793650793652,
+            "ridge": 0.4037518037518038
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.3188224850397169,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.27442977190876344,
+            "tabicl": 0.3654741896758703,
+            "ridge": 0.1787755102040816
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.497651261986869,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.4969359780680535,
+            "tabicl": 0.5436219964521851,
+            "ridge": 0.43218835671665856
+          }
+        }
+      ],
+      "seconds": 97.4,
+      "task_id": "projection_removed_win2007_disc85_icl32_seed101",
+      "seed": 101
+    },
+    {
+      "config": {
+        "id": "projection_removed_win2007_disc85_icl32_seed202",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": null,
+        "drop": [
+          "scout_",
+          "col_bpm_pct_",
+          "col_usg_pct_",
+          "col_ts_pct_",
+          "col_ast_pct_",
+          "col_stl_pct_",
+          "col_blk_pct_",
+          "col_orb_pct_",
+          "col_shot_proj_"
+        ],
+        "window": 2007,
+        "hw": "disc85",
+        "icl_n": 32
+      },
+      "score": 0.45096803671242,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.5469043208926081,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.5616883116883118,
+            "tabicl": 0.5582972582972584,
+            "ridge": 0.4037518037518038
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.32399337328362193,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.2810564225690276,
+            "tabicl": 0.3734453781512605,
+            "ridge": 0.1787755102040816
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.4820064159610299,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.48435736171585225,
+            "tabicl": 0.5352362522173842,
+            "ridge": 0.43218835671665856
+          }
+        }
+      ],
+      "seconds": 97.4,
+      "task_id": "projection_removed_win2007_disc85_icl32_seed202",
+      "seed": 202
+    },
+    {
+      "config": {
+        "id": "projection_removed_win2007_disc85_icl128_seed0",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": null,
+        "drop": [
+          "scout_",
+          "col_bpm_pct_",
+          "col_usg_pct_",
+          "col_ts_pct_",
+          "col_ast_pct_",
+          "col_stl_pct_",
+          "col_blk_pct_",
+          "col_orb_pct_",
+          "col_shot_proj_"
+        ],
+        "window": 2007,
+        "hw": "disc85",
+        "icl_n": 128
+      },
+      "score": 0.44710658843869017,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.5372251228950278,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.5541125541125542,
+            "tabicl": 0.5559163059163061,
+            "ridge": 0.4037518037518038
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.31859002211976273,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.26261704681872744,
+            "tabicl": 0.36211284513805525,
+            "ridge": 0.1787755102040816
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.48550462030127994,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.4917755200774069,
+            "tabicl": 0.5368488953394615,
+            "ridge": 0.43218835671665856
+          }
+        }
+      ],
+      "seconds": 105.9,
+      "task_id": "projection_removed_win2007_disc85_icl128_seed0",
+      "seed": 0
+    },
+    {
+      "config": {
+        "id": "projection_removed_win2007_disc85_icl128_seed101",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": null,
+        "drop": [
+          "scout_",
+          "col_bpm_pct_",
+          "col_usg_pct_",
+          "col_ts_pct_",
+          "col_ast_pct_",
+          "col_stl_pct_",
+          "col_blk_pct_",
+          "col_orb_pct_",
+          "col_shot_proj_"
+        ],
+        "window": 2007,
+        "hw": "disc85",
+        "icl_n": 128
+      },
+      "score": 0.45282659663754493,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.5435292451652352,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.560966810966811,
+            "tabicl": 0.5606782106782108,
+            "ridge": 0.4037518037518038
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.31843830370513065,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.27135654261704684,
+            "tabicl": 0.3681632653061224,
+            "ridge": 0.1787755102040816
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.496512241042269,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.4904047734236413,
+            "tabicl": 0.5429769392033542,
+            "ridge": 0.43218835671665856
+          }
+        }
+      ],
+      "seconds": 114.2,
+      "task_id": "projection_removed_win2007_disc85_icl128_seed101",
+      "seed": 101
+    },
+    {
+      "config": {
+        "id": "projection_removed_win2007_disc85_icl128_seed202",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": null,
+        "drop": [
+          "scout_",
+          "col_bpm_pct_",
+          "col_usg_pct_",
+          "col_ts_pct_",
+          "col_ast_pct_",
+          "col_stl_pct_",
+          "col_blk_pct_",
+          "col_orb_pct_",
+          "col_shot_proj_"
+        ],
+        "window": 2007,
+        "hw": "disc85",
+        "icl_n": 128
+      },
+      "score": 0.44789704917066725,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.5376483777930523,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.5470418470418471,
+            "tabicl": 0.5551226551226552,
+            "ridge": 0.4037518037518038
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.32126392660938297,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.27519807923169265,
+            "tabicl": 0.3725810324129652,
+            "ridge": 0.1787755102040816
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.48477884310956637,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.4787937429446863,
+            "tabicl": 0.5387840670859538,
+            "ridge": 0.43218835671665856
+          }
+        }
+      ],
+      "seconds": 106.8,
+      "task_id": "projection_removed_win2007_disc85_icl128_seed202",
+      "seed": 202
+    },
+    {
+      "config": {
+        "id": "projection_removed_win2007_uniform_icl32_seed0",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": null,
+        "drop": [
+          "scout_",
+          "col_bpm_pct_",
+          "col_usg_pct_",
+          "col_ts_pct_",
+          "col_ast_pct_",
+          "col_stl_pct_",
+          "col_blk_pct_",
+          "col_orb_pct_",
+          "col_shot_proj_"
+        ],
+        "window": 2007,
+        "hw": "uniform",
+        "icl_n": 32
+      },
+      "score": 0.4651245310621263,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.5789995859624306,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.5779942279942281,
+            "tabicl": 0.5886002886002887,
+            "ridge": 0.4175324675324676
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.3435939304768513,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.3235054021608643,
+            "tabicl": 0.38189675870348133,
+            "ridge": 0.196734693877551
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.472780076747097,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.48984034833091433,
+            "tabicl": 0.5280599903241412,
+            "ridge": 0.4161425576519916
+          }
+        }
+      ],
+      "seconds": 102.2,
+      "task_id": "projection_removed_win2007_uniform_icl32_seed0",
+      "seed": 0
+    },
+    {
+      "config": {
+        "id": "projection_removed_win2007_uniform_icl32_seed101",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": null,
+        "drop": [
+          "scout_",
+          "col_bpm_pct_",
+          "col_usg_pct_",
+          "col_ts_pct_",
+          "col_ast_pct_",
+          "col_stl_pct_",
+          "col_blk_pct_",
+          "col_orb_pct_",
+          "col_shot_proj_"
+        ],
+        "window": 2007,
+        "hw": "uniform",
+        "icl_n": 32
+      },
+      "score": 0.46443346140578035,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.5814016439271192,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.5797258297258298,
+            "tabicl": 0.585858585858586,
+            "ridge": 0.4175324675324676
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.3428022596444755,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.3149579831932772,
+            "tabicl": 0.38160864345738293,
+            "ridge": 0.196734693877551
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.4690964806457463,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.47282696339300107,
+            "tabicl": 0.5227382680212869,
+            "ridge": 0.4161425576519916
+          }
+        }
+      ],
+      "seconds": 97.1,
+      "task_id": "projection_removed_win2007_uniform_icl32_seed101",
+      "seed": 101
+    },
+    {
+      "config": {
+        "id": "projection_removed_win2007_uniform_icl32_seed202",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": null,
+        "drop": [
+          "scout_",
+          "col_bpm_pct_",
+          "col_usg_pct_",
+          "col_ts_pct_",
+          "col_ast_pct_",
+          "col_stl_pct_",
+          "col_blk_pct_",
+          "col_orb_pct_",
+          "col_shot_proj_"
+        ],
+        "window": 2007,
+        "hw": "uniform",
+        "icl_n": 32
+      },
+      "score": 0.4634094572195268,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.5789739534517652,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.5660173160173161,
+            "tabicl": 0.5865800865800866,
+            "ridge": 0.4175324675324676
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.341105002445716,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.2969987995198079,
+            "tabicl": 0.375750300120048,
+            "ridge": 0.196734693877551
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.47014941576109914,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.47782615707144005,
+            "tabicl": 0.5262054507337526,
+            "ridge": 0.4161425576519916
+          }
+        }
+      ],
+      "seconds": 98.6,
+      "task_id": "projection_removed_win2007_uniform_icl32_seed202",
+      "seed": 202
+    },
+    {
+      "config": {
+        "id": "projection_removed_win2007_uniform_icl128_seed101",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": null,
+        "drop": [
+          "scout_",
+          "col_bpm_pct_",
+          "col_usg_pct_",
+          "col_ts_pct_",
+          "col_ast_pct_",
+          "col_stl_pct_",
+          "col_blk_pct_",
+          "col_orb_pct_",
+          "col_shot_proj_"
+        ],
+        "window": 2007,
+        "hw": "uniform",
+        "icl_n": 128
+      },
+      "score": 0.4652050305396213,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.583385949879089,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.5768398268398269,
+            "tabicl": 0.5895382395382396,
+            "ridge": 0.4175324675324676
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.3412092413567854,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.3055462184873949,
+            "tabicl": 0.37757503001200476,
+            "ridge": 0.196734693877551
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.47101990038298963,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.4674246089340429,
+            "tabicl": 0.5241896468311562,
+            "ridge": 0.4161425576519916
+          }
+        }
+      ],
+      "seconds": 108.3,
+      "task_id": "projection_removed_win2007_uniform_icl128_seed101",
+      "seed": 101
+    },
+    {
+      "config": {
+        "id": "projection_removed_win2007_uniform_icl128_seed0",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": null,
+        "drop": [
+          "scout_",
+          "col_bpm_pct_",
+          "col_usg_pct_",
+          "col_ts_pct_",
+          "col_ast_pct_",
+          "col_stl_pct_",
+          "col_blk_pct_",
+          "col_orb_pct_",
+          "col_shot_proj_"
+        ],
+        "window": 2007,
+        "hw": "uniform",
+        "icl_n": 128
+      },
+      "score": 0.46736836464560555,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.5850156126974924,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.5803751803751805,
+            "tabicl": 0.5867243867243869,
+            "ridge": 0.4175324675324676
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.3475400398000348,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.31188475390156056,
+            "tabicl": 0.38324129651860744,
+            "ridge": 0.196734693877551
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.46954944143928956,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.48371230446702146,
+            "tabicl": 0.5249959683921948,
+            "ridge": 0.4161425576519916
+          }
+        }
+      ],
+      "seconds": 112.8,
+      "task_id": "projection_removed_win2007_uniform_icl128_seed0",
+      "seed": 0
+    },
+    {
+      "config": {
+        "id": "projection_removed_win2007_uniform_icl128_seed202",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": null,
+        "drop": [
+          "scout_",
+          "col_bpm_pct_",
+          "col_usg_pct_",
+          "col_ts_pct_",
+          "col_ast_pct_",
+          "col_stl_pct_",
+          "col_blk_pct_",
+          "col_orb_pct_",
+          "col_shot_proj_"
+        ],
+        "window": 2007,
+        "hw": "uniform",
+        "icl_n": 128
+      },
+      "score": 0.4677529869055918,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.5878447902839952,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.5764790764790766,
+            "tabicl": 0.5881673881673883,
+            "ridge": 0.4175324675324676
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.3386477145664228,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.314093637454982,
+            "tabicl": 0.3820888355342137,
+            "ridge": 0.196734693877551
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.4767664558663574,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.4876632801161103,
+            "tabicl": 0.5288663118851799,
+            "ridge": 0.4161425576519916
+          }
+        }
+      ],
+      "seconds": 106.8,
+      "task_id": "projection_removed_win2007_uniform_icl128_seed202",
+      "seed": 202
+    },
+    {
+      "config": {
+        "id": "skill_win2007_disc85_icl32_seed0",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": "ctx_skill_",
+        "drop": [
+          "scout_"
+        ],
+        "window": 2007,
+        "hw": "disc85",
+        "icl_n": 32
+      },
+      "score": 0.4286264980852659,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.5108954483319071,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.4905483405483407,
+            "tabicl": 0.5194805194805195,
+            "ridge": 0.3839826839826841
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.28297719087635054,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.2657863145258103,
+            "tabicl": 0.31841536614645854,
+            "ridge": 0.16667466986794718
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.4920068550475399,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.4483954200935333,
+            "tabicl": 0.5216900499919368,
+            "ridge": 0.42735042735042733
+          }
+        }
+      ],
+      "seconds": 99.7,
+      "task_id": "skill_win2007_disc85_icl32_seed0",
+      "seed": 0
+    },
+    {
+      "config": {
+        "id": "skill_win2007_disc85_icl32_seed101",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": "ctx_skill_",
+        "drop": [
+          "scout_"
+        ],
+        "window": 2007,
+        "hw": "disc85",
+        "icl_n": 32
+      },
+      "score": 0.426486787932088,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.5000090190030402,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.4931457431457432,
+            "tabicl": 0.5168109668109669,
+            "ridge": 0.3839826839826841
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.2893706932573152,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.27442977190876344,
+            "tabicl": 0.3315726290516206,
+            "ridge": 0.16667466986794718
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.49008065153590863,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.43831640058055155,
+            "tabicl": 0.5271730366069989,
+            "ridge": 0.42735042735042733
+          }
+        }
+      ],
+      "seconds": 97.5,
+      "task_id": "skill_win2007_disc85_icl32_seed101",
+      "seed": 101
+    },
+    {
+      "config": {
+        "id": "skill_win2007_disc85_icl32_seed202",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": "ctx_skill_",
+        "drop": [
+          "scout_"
+        ],
+        "window": 2007,
+        "hw": "disc85",
+        "icl_n": 32
+      },
+      "score": 0.43261732222252336,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.5173707568574777,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.5062049062049063,
+            "tabicl": 0.5261183261183262,
+            "ridge": 0.3839826839826841
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.28367670495348785,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.2634813925570228,
+            "tabicl": 0.322641056422569,
+            "ridge": 0.16667466986794718
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.4968045048566045,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.4701661022415739,
+            "tabicl": 0.5317690695049185,
+            "ridge": 0.42735042735042733
+          }
+        }
+      ],
+      "seconds": 98.9,
+      "task_id": "skill_win2007_disc85_icl32_seed202",
+      "seed": 202
+    },
+    {
+      "config": {
+        "id": "skill_win2007_disc85_icl128_seed0",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": "ctx_skill_",
+        "drop": [
+          "scout_"
+        ],
+        "window": 2007,
+        "hw": "disc85",
+        "icl_n": 128
+      },
+      "score": 0.43065348055595215,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.5063405314339033,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.5066378066378068,
+            "tabicl": 0.517893217893218,
+            "ridge": 0.3839826839826841
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.2812552523080145,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.2571428571428571,
+            "tabicl": 0.31755102040816324,
+            "ridge": 0.16667466986794718
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.5043646579259388,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.46137719722625387,
+            "tabicl": 0.534833091436865,
+            "ridge": 0.42735042735042733
+          }
+        }
+      ],
+      "seconds": 106.9,
+      "task_id": "skill_win2007_disc85_icl128_seed0",
+      "seed": 0
+    },
+    {
+      "config": {
+        "id": "skill_win2007_disc85_icl128_seed101",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": "ctx_skill_",
+        "drop": [
+          "scout_"
+        ],
+        "window": 2007,
+        "hw": "disc85",
+        "icl_n": 128
+      },
+      "score": 0.42988519692521754,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.5040497900903372,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.503823953823954,
+            "tabicl": 0.5158730158730159,
+            "ridge": 0.3839826839826841
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.28616020009944887,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.27145258103241293,
+            "tabicl": 0.32216086434573826,
+            "ridge": 0.16667466986794718
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.49944560058586646,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.4471053055958716,
+            "tabicl": 0.5262054507337526,
+            "ridge": 0.42735042735042733
+          }
+        }
+      ],
+      "seconds": 110.1,
+      "task_id": "skill_win2007_disc85_icl128_seed101",
+      "seed": 101
+    },
+    {
+      "config": {
+        "id": "skill_win2007_uniform_icl32_seed0",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": "ctx_skill_",
+        "drop": [
+          "scout_"
+        ],
+        "window": 2007,
+        "hw": "uniform",
+        "icl_n": 32
+      },
+      "score": 0.43255497299206963,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.5551526966658286,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.5424242424242426,
+            "tabicl": 0.553823953823954,
+            "ridge": 0.4069985569985571
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.29049608739861993,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.25243697478991595,
+            "tabicl": 0.3420408163265306,
+            "ridge": 0.17704681872749098
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.45201613491176035,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.43436542493146263,
+            "tabicl": 0.5064505724883083,
+            "ridge": 0.4071923883244638
+          }
+        }
+      ],
+      "seconds": 102.1,
+      "task_id": "skill_win2007_uniform_icl32_seed0",
+      "seed": 0
+    },
+    {
+      "config": {
+        "id": "skill_win2007_disc85_icl128_seed202",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": "ctx_skill_",
+        "drop": [
+          "scout_"
+        ],
+        "window": 2007,
+        "hw": "disc85",
+        "icl_n": 128
+      },
+      "score": 0.4305088453121746,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.5014701380072145,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.49913419913419926,
+            "tabicl": 0.5212842712842713,
+            "ridge": 0.3839826839826841
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.28428053502875966,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.2684753901560624,
+            "tabicl": 0.3260984393757503,
+            "ridge": 0.16667466986794718
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.5057758629005497,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.4565392678600226,
+            "tabicl": 0.5327366553781648,
+            "ridge": 0.42735042735042733
+          }
+        }
+      ],
+      "seconds": 109.3,
+      "task_id": "skill_win2007_disc85_icl128_seed202",
+      "seed": 202
+    },
+    {
+      "config": {
+        "id": "skill_win2007_uniform_icl32_seed101",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": "ctx_skill_",
+        "drop": [
+          "scout_"
+        ],
+        "window": 2007,
+        "hw": "uniform",
+        "icl_n": 32
+      },
+      "score": 0.43602944607739097,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.5557559800146046,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.5426406926406928,
+            "tabicl": 0.5564213564213566,
+            "ridge": 0.4069985569985571
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.2997790829309157,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.24168067226890755,
+            "tabicl": 0.3281231242992424,
+            "ridge": 0.17704681872749098
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.45255327528665257,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.4233994517013385,
+            "tabicl": 0.5089501693275278,
+            "ridge": 0.4071923883244638
+          }
+        }
+      ],
+      "seconds": 99.7,
+      "task_id": "skill_win2007_uniform_icl32_seed101",
+      "seed": 101
+    },
+    {
+      "config": {
+        "id": "skill_win2007_uniform_icl32_seed202",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": "ctx_skill_",
+        "drop": [
+          "scout_"
+        ],
+        "window": 2007,
+        "hw": "uniform",
+        "icl_n": 32
+      },
+      "score": 0.42708974129788474,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.5544411588139785,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.5465367965367967,
+            "tabicl": 0.5580086580086581,
+            "ridge": 0.4069985569985571
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.28233881821937123,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.24484993997599036,
+            "tabicl": 0.32590636254501804,
+            "ridge": 0.17704681872749098
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.44448924686030444,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.4229156587647154,
+            "tabicl": 0.5005644250927269,
+            "ridge": 0.4071923883244638
+          }
+        }
+      ],
+      "seconds": 99.2,
+      "task_id": "skill_win2007_uniform_icl32_seed202",
+      "seed": 202
+    },
+    {
+      "config": {
+        "id": "skill_win2007_uniform_icl128_seed0",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": "ctx_skill_",
+        "drop": [
+          "scout_"
+        ],
+        "window": 2007,
+        "hw": "uniform",
+        "icl_n": 128
+      },
+      "score": 0.4329242656115342,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.5600591670808632,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.5422077922077924,
+            "tabicl": 0.5603174603174604,
+            "ridge": 0.4069985569985571
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.28771070583652375,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.24062424969987994,
+            "tabicl": 0.32686674669867943,
+            "ridge": 0.17704681872749098
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.4510029239172155,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.4328334139654894,
+            "tabicl": 0.5062893081761005,
+            "ridge": 0.4071923883244638
+          }
+        }
+      ],
+      "seconds": 101.6,
+      "task_id": "skill_win2007_uniform_icl128_seed0",
+      "seed": 0
+    },
+    {
+      "config": {
+        "id": "skill_win2007_uniform_icl128_seed101",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": "ctx_skill_",
+        "drop": [
+          "scout_"
+        ],
+        "window": 2007,
+        "hw": "uniform",
+        "icl_n": 128
+      },
+      "score": 0.4316069729514473,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.554749795795596,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.5471861471861472,
+            "tabicl": 0.5548340548340549,
+            "ridge": 0.4069985569985571
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.2856319634488206,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.24254501800720288,
+            "tabicl": 0.33464585834333727,
+            "ridge": 0.17704681872749098
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.45443915960992515,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.4211417513304305,
+            "tabicl": 0.5012901144976617,
+            "ridge": 0.4071923883244638
+          }
+        }
+      ],
+      "seconds": 101.4,
+      "task_id": "skill_win2007_uniform_icl128_seed101",
+      "seed": 101
+    },
+    {
+      "config": {
+        "id": "skill_win2007_uniform_icl128_seed202",
+        "noscout": 1,
+        "drafted_only": false,
+        "context": "ctx_skill_",
+        "drop": [
+          "scout_"
+        ],
+        "window": 2007,
+        "hw": "uniform",
+        "icl_n": 128
+      },
+      "score": 0.43258236740108713,
+      "rows": [
+        {
+          "season": 2012,
+          "k": 5,
+          "n": 55,
+          "ntrain": 251,
+          "cutoff": 2011,
+          "max_label_season": 2011,
+          "stack": 0.5595742784554527,
+          "draft": 0.35115440115440116,
+          "members": {
+            "xgb": 0.5604617604617605,
+            "tabicl": 0.5641414141414142,
+            "ridge": 0.4069985569985571
+          }
+        },
+        {
+          "season": 2013,
+          "k": 5,
+          "n": 50,
+          "ntrain": 329,
+          "cutoff": 2012,
+          "max_label_season": 2012,
+          "stack": 0.2888632775173911,
+          "draft": 0.48753901560624247,
+          "members": {
+            "xgb": 0.2506122448979592,
+            "tabicl": 0.33301320528211287,
+            "ridge": 0.17704681872749098
+          }
+        },
+        {
+          "season": 2014,
+          "k": 4,
+          "n": 53,
+          "ntrain": 403,
+          "cutoff": 2013,
+          "max_label_season": 2013,
+          "stack": 0.44930954623041747,
+          "draft": 0.22117400419287211,
+          "members": {
+            "xgb": 0.43186582809224316,
+            "tabicl": 0.5075794226737623,
+            "ridge": 0.4071923883244638
+          }
+        }
+      ],
+      "seconds": 67.5,
+      "task_id": "skill_win2007_uniform_icl128_seed202",
+      "seed": 202
     }
   ],
-  "status": "running",
-  "phase": "R8d \u00b7 parallel combinations",
+  "status": "completed",
+  "phase": "R8d \u00b7 combinations completed",
   "total": 72,
-  "completed": 36,
+  "completed": 72,
   "workers": 4,
   "best": {
     "config": {
-      "id": "projection_removed_win2003_disc85_icl32_seed202",
+      "id": "projection_removed_win2007_uniform_icl128_seed202",
       "noscout": 1,
       "drafted_only": false,
       "context": null,
@@ -2460,67 +4896,67 @@
         "col_orb_pct_",
         "col_shot_proj_"
       ],
-      "window": 2003,
-      "hw": "disc85",
-      "icl_n": 32
+      "window": 2007,
+      "hw": "uniform",
+      "icl_n": 128
     },
-    "score": 0.4472792612703755,
+    "score": 0.4677529869055918,
     "rows": [
       {
         "season": 2012,
         "k": 5,
         "n": 55,
-        "ntrain": 544,
+        "ntrain": 251,
         "cutoff": 2011,
         "max_label_season": 2011,
-        "stack": 0.5963595739645342,
+        "stack": 0.5878447902839952,
         "draft": 0.35115440115440116,
         "members": {
-          "xgb": 0.6395382395382397,
-          "tabicl": 0.6165945165945167,
-          "ridge": 0.46111111111111125
+          "xgb": 0.5764790764790766,
+          "tabicl": 0.5881673881673883,
+          "ridge": 0.4175324675324676
         }
       },
       {
         "season": 2013,
         "k": 5,
         "n": 50,
-        "ntrain": 622,
+        "ntrain": 329,
         "cutoff": 2012,
         "max_label_season": 2012,
-        "stack": 0.2144109102877385,
+        "stack": 0.3386477145664228,
         "draft": 0.48753901560624247,
         "members": {
-          "xgb": 0.24024009603841537,
-          "tabicl": 0.22545018007202883,
-          "ridge": 0.07947178871548619
+          "xgb": 0.314093637454982,
+          "tabicl": 0.3820888355342137,
+          "ridge": 0.196734693877551
         }
       },
       {
         "season": 2014,
         "k": 4,
         "n": 53,
-        "ntrain": 696,
+        "ntrain": 403,
         "cutoff": 2013,
         "max_label_season": 2013,
-        "stack": 0.5310672995588537,
+        "stack": 0.4767664558663574,
         "draft": 0.22117400419287211,
         "members": {
-          "xgb": 0.5467666505402354,
-          "tabicl": 0.5694242864054184,
-          "ridge": 0.45484599258184166
+          "xgb": 0.4876632801161103,
+          "tabicl": 0.5288663118851799,
+          "ridge": 0.4161425576519916
         }
       }
     ],
-    "seconds": 133.4,
-    "task_id": "projection_removed_win2003_disc85_icl32_seed202",
+    "seconds": 106.8,
+    "task_id": "projection_removed_win2007_uniform_icl128_seed202",
     "seed": 202
   },
   "confirmation": null,
   "test_result": null,
-  "message": "Fixed development combinations; test answers are inaccessible. Three independent seeds per configuration.",
-  "updated": 1788687870.1116035,
-  "current": "base_win2007_disc85_icl32 seed0 | base_win2007_disc85_icl32 seed101 | base_win2007_disc85_icl32 seed202 | base_win2007_disc85_icl128 seed0",
-  "elapsed_seconds": 1198.1,
-  "experiments_per_minute": 1.8
+  "message": "Compare configuration means across seeds, not the luckiest individual seed. No test-based selection.",
+  "updated": 1788688754.8348267,
+  "current": "Queue complete",
+  "elapsed_seconds": 2081.8,
+  "experiments_per_minute": 2.08
 }
