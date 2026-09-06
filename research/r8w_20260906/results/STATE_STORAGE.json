@@ -1,0 +1,10 @@
+{
+  "original_state_bytes": 94443089,
+  "original_state_sha256": "8dac36b3bbed501735cec57d3fa48ad5b77ac5e7f3f7428cec338c1e76b761ec",
+  "compression": "gzip;mtime0; no filename",
+  "gzip_sha256": "4c64d3a32d76cde95e84933ac729085830e88e86314419f2891af8ff3cb1694b",
+  "gzip_bytes": 16689976,
+  "lossless_round_trip_verified": true,
+  "compact_state": "Presentation copy excluding nested predictions/audits. Complete originals are preserved in state.json.gz.",
+  "restore": "gzip -dk state.json.gz"
+}

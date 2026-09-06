@@ -1,0 +1,32 @@
+{
+  "official_url": "https://ovcsports.com/stats.aspx?path=mbball&year=2017",
+  "publisher": "Ohio Valley Conference",
+  "page_heading": "2017-2018 Men's Basketball Overall Statistics",
+  "retrieval_method": "Web tool successfully returned official historical table headers and numeric rows. Direct HTTP returned403; its saved body is the error, not the statistics page.",
+  "retrieved_date_utc": "2026-09-06",
+  "original_publication_date": null,
+  "full_page_sha256": null,
+  "no_invented_source_hash": true,
+  "source_scope": "2017-2018 season only; later season choices ignored. Historical publication/revision date is not established by the season heading.",
+  "ovc_team_games": 33,
+  "ovc_team_all_games_counts": {"fgm":844,"fga":1924,"three_m":242,"three_a":697,"ft_m":483,"ft_a":710,"orb":338,"drb":836,"trb":1174,"ast":471,"stl":252,"blk":108,"tov":471,"points":2413},
+  "official_player_facts": [
+    {"source_annual_row_zero_based":0,"official_display_name":"MACK, Kajon","games":32,"minutes":1107,"fgm":132,"three_m":38,"ft_m":105,"ft_a":136,"points":407,"orb":38,"drb":125},
+    {"source_annual_row_zero_based":341,"official_display_name":"JUGOVIC, Aleksa","games":23,"minutes":685,"fgm":95,"three_m":46,"ft_m":48,"points":284},
+    {"source_annual_row_zero_based":2640,"official_display_name":"PHILLIPS, Curtis","games":33,"minutes":1011,"fgm":152,"three_m":61,"ft_m":107,"ft_a":149,"points":472,"orb":34,"drb":137}
+  ],
+  "official_player_alias_caveat": "Phillips is an audit comparison using source surname/given name/team/season, not an authorized new population identity join.",
+  "secondary_search_results": "Sports-Reference, FOX and RealGM also appeared in broad discovery results. Their values are not used as primary proof or candidate inputs.",
+  "reserve_source_hint_not_admitted": {"url":"https://goracers.com/documents/download/2018/1/15/_17__01_13_18_TTU_Notes.pdf","scope":"Primary historical game-notes search excerpt identifies Cade Crosland and early Midway/Boyce game rows; direct403 prevents complete page/body boundary verification in this bounded run. No values from that excerpt enter candidate data."},
+  "author_schema_evidence": {
+    "url":"https://adamcwisports.blogspot.com/p/data.html",
+    "retrieval":"Web search tool returned the author discussion and53-field player-game header; full raw page not captured and no page hash claimed.",
+    "player_game_endpoint_documented_date":"2021-08-06",
+    "gzip_suffix_documented_date":"2022-11-30",
+    "endpoint_template":"https://barttorvik.com/YEAR_all_advgames.json.gz",
+    "earlier_season_support":"Author documents a YEAR parameter/template. Only2018 accessibility and schema have been verified in this task; do not assert earlier endpoints exist without a separate bounded collection.",
+    "game_subset_comment_date":"2023-03-15",
+    "game_subset_comment_scope":"Author explains that a site's games count excludes non-Division-I games while unfiltered win-loss records include them. This is contextual evidence for the observed subset, not a universal player CSV specification.",
+    "header":"numdate datetext opstyle quality win1 opponent muid win2 Min_per ORtg Usage eFG TS_per ORB_per DRB_per AST_per TO_per dunksmade dunksatt rimmade rimatt midmade midatt twoPM twoPA TPM TPA FTM FTA bpm_rd Obpm Dbpm bpm_net pts ORB DRB AST TOV STL BLK stl_per blk_per PF possessions bpm sbpm loc tt pp inches cls pid year"
+  }
+}

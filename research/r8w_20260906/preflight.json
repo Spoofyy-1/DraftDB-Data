@@ -1,0 +1,3331 @@
+{
+  "passed": true,
+  "gpu_models_run": 0,
+  "cpu_selector_run": false,
+  "task_count": 603,
+  "source_file_hashes_checked": 16,
+  "shuffle_order_checks": 900,
+  "designs": 603,
+  "matched_single_summary_fixture": true,
+  "incomplete_results_withheld": true,
+  "tamper_rejections": [
+    "wrong_single_field",
+    "wrong_common_slot",
+    "changed_consensus",
+    "changed_mask",
+    "future_label_cutoff",
+    "constructor_seed",
+    "raw_prediction",
+    "duplicate_vector_hash"
+  ],
+  "exact_duplicate_ties_and_no_quantization": true,
+  "coverage": {
+    "2012": {
+      "f50_peer_sd_usage": {
+        "train": {
+          "observed_rows": 144,
+          "swappable_observed_rows": 144,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 141,
+            "18739": 141,
+            "28657": 141
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 46,
+            "18739": 46,
+            "28657": 46
+          }
+        }
+      },
+      "f50_peer_rank_usage": {
+        "train": {
+          "observed_rows": 144,
+          "swappable_observed_rows": 144,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 130,
+            "18739": 115,
+            "28657": 123
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 42,
+            "18739": 44,
+            "28657": 45
+          }
+        }
+      },
+      "f50_peer_sd_ts": {
+        "train": {
+          "observed_rows": 144,
+          "swappable_observed_rows": 144,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 140,
+            "18739": 143,
+            "28657": 142
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 47,
+            "18739": 45,
+            "28657": 46
+          }
+        }
+      },
+      "f50_peer_rank_ts": {
+        "train": {
+          "observed_rows": 144,
+          "swappable_observed_rows": 144,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 141,
+            "18739": 137,
+            "28657": 139
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 45,
+            "18739": 44,
+            "28657": 44
+          }
+        }
+      },
+      "f50_peer_sd_ast": {
+        "train": {
+          "observed_rows": 144,
+          "swappable_observed_rows": 144,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 140,
+            "18739": 142,
+            "28657": 144
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 46,
+            "18739": 46,
+            "28657": 46
+          }
+        }
+      },
+      "f50_peer_rank_ast": {
+        "train": {
+          "observed_rows": 144,
+          "swappable_observed_rows": 144,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 136,
+            "18739": 139,
+            "28657": 132
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 45,
+            "18739": 44,
+            "28657": 47
+          }
+        }
+      },
+      "f50_peer_sd_tov": {
+        "train": {
+          "observed_rows": 144,
+          "swappable_observed_rows": 144,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 143,
+            "18739": 138,
+            "28657": 144
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 46,
+            "18739": 44,
+            "28657": 46
+          }
+        }
+      },
+      "f50_peer_rank_tov": {
+        "train": {
+          "observed_rows": 144,
+          "swappable_observed_rows": 144,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 140,
+            "18739": 139,
+            "28657": 140
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 47,
+            "18739": 43,
+            "28657": 47
+          }
+        }
+      },
+      "f50_peer_sd_orb": {
+        "train": {
+          "observed_rows": 144,
+          "swappable_observed_rows": 144,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 141,
+            "18739": 141,
+            "28657": 140
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 47,
+            "18739": 47,
+            "28657": 46
+          }
+        }
+      },
+      "f50_peer_rank_orb": {
+        "train": {
+          "observed_rows": 144,
+          "swappable_observed_rows": 144,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 137,
+            "18739": 139,
+            "28657": 138
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 47,
+            "18739": 45,
+            "28657": 47
+          }
+        }
+      },
+      "f50_peer_sd_drb": {
+        "train": {
+          "observed_rows": 144,
+          "swappable_observed_rows": 144,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 142,
+            "18739": 138,
+            "28657": 142
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 45,
+            "18739": 47,
+            "28657": 47
+          }
+        }
+      },
+      "f50_peer_rank_drb": {
+        "train": {
+          "observed_rows": 144,
+          "swappable_observed_rows": 144,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 132,
+            "18739": 136,
+            "28657": 131
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 44,
+            "18739": 44,
+            "28657": 41
+          }
+        }
+      },
+      "f50_peer_sd_stl": {
+        "train": {
+          "observed_rows": 144,
+          "swappable_observed_rows": 144,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 141,
+            "18739": 141,
+            "28657": 143
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 46,
+            "18739": 46,
+            "28657": 47
+          }
+        }
+      },
+      "f50_peer_rank_stl": {
+        "train": {
+          "observed_rows": 144,
+          "swappable_observed_rows": 144,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 139,
+            "18739": 135,
+            "28657": 136
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 45,
+            "18739": 46,
+            "28657": 46
+          }
+        }
+      },
+      "f50_peer_sd_blk": {
+        "train": {
+          "observed_rows": 144,
+          "swappable_observed_rows": 144,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 143,
+            "18739": 137,
+            "28657": 142
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 46,
+            "18739": 47,
+            "28657": 44
+          }
+        }
+      },
+      "f50_peer_rank_blk": {
+        "train": {
+          "observed_rows": 144,
+          "swappable_observed_rows": 144,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 132,
+            "18739": 130,
+            "28657": 129
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 43,
+            "18739": 45,
+            "28657": 45
+          }
+        }
+      },
+      "f50_team_share_fta": {
+        "train": {
+          "observed_rows": 144,
+          "swappable_observed_rows": 144,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 142,
+            "18739": 143,
+            "28657": 141
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 47,
+            "18739": 45,
+            "28657": 45
+          }
+        }
+      },
+      "f50_team_share_three_a": {
+        "train": {
+          "observed_rows": 144,
+          "swappable_observed_rows": 144,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 138,
+            "18739": 140,
+            "28657": 136
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 47,
+            "18739": 45,
+            "28657": 45
+          }
+        }
+      },
+      "f50_team_share_rim_a": {
+        "train": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 41,
+            "18739": 41,
+            "28657": 40
+          }
+        },
+        "validation": {
+          "observed_rows": 37,
+          "swappable_observed_rows": 37,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 34,
+            "18739": 36,
+            "28657": 37
+          }
+        }
+      },
+      "f50_team_share_dunk_a": {
+        "train": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 40,
+            "18739": 40,
+            "28657": 39
+          }
+        },
+        "validation": {
+          "observed_rows": 37,
+          "swappable_observed_rows": 37,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 37,
+            "18739": 37,
+            "28657": 37
+          }
+        }
+      },
+      "f50_team_share_ftm": {
+        "train": {
+          "observed_rows": 144,
+          "swappable_observed_rows": 144,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 142,
+            "18739": 139,
+            "28657": 142
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 46,
+            "18739": 45,
+            "28657": 47
+          }
+        }
+      },
+      "f50_team_share_three_m": {
+        "train": {
+          "observed_rows": 144,
+          "swappable_observed_rows": 144,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 137,
+            "18739": 135,
+            "28657": 135
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 45,
+            "18739": 46,
+            "28657": 43
+          }
+        }
+      },
+      "f50_peer_three_diet": {
+        "train": {
+          "observed_rows": 144,
+          "swappable_observed_rows": 144,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 138,
+            "18739": 140,
+            "28657": 141
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 45,
+            "18739": 46,
+            "28657": 46
+          }
+        }
+      },
+      "f50_peer_rim_diet": {
+        "train": {
+          "observed_rows": 50,
+          "swappable_observed_rows": 50,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 48,
+            "18739": 50,
+            "28657": 50
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 47,
+            "18739": 46,
+            "28657": 44
+          }
+        }
+      },
+      "f50_peer_defense_density": {
+        "train": {
+          "observed_rows": 144,
+          "swappable_observed_rows": 144,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 139,
+            "18739": 140,
+            "28657": 142
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 47,
+            "18739": 43,
+            "28657": 47
+          }
+        }
+      },
+      "f50_peer_creation_density": {
+        "train": {
+          "observed_rows": 144,
+          "swappable_observed_rows": 144,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 142,
+            "18739": 141,
+            "28657": 141
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 47,
+            "18739": 47,
+            "28657": 46
+          }
+        }
+      },
+      "f50_minutes_concentration": {
+        "train": {
+          "observed_rows": 144,
+          "swappable_observed_rows": 144,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 140,
+            "18739": 132,
+            "28657": 140
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 44,
+            "18739": 45,
+            "28657": 46
+          }
+        }
+      },
+      "f50_usage_concentration": {
+        "train": {
+          "observed_rows": 144,
+          "swappable_observed_rows": 144,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 142,
+            "18739": 133,
+            "28657": 144
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 45,
+            "18739": 44,
+            "28657": 45
+          }
+        }
+      },
+      "f50_career_slope_two_p": {
+        "train": {
+          "observed_rows": 83,
+          "swappable_observed_rows": 83,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 79,
+            "18739": 80,
+            "28657": 81
+          }
+        },
+        "validation": {
+          "observed_rows": 38,
+          "swappable_observed_rows": 38,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 38,
+            "18739": 38,
+            "28657": 37
+          }
+        }
+      },
+      "f50_career_slope_three_p": {
+        "train": {
+          "observed_rows": 83,
+          "swappable_observed_rows": 83,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 79,
+            "18739": 80,
+            "28657": 77
+          }
+        },
+        "validation": {
+          "observed_rows": 38,
+          "swappable_observed_rows": 38,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 38,
+            "18739": 35,
+            "28657": 38
+          }
+        }
+      },
+      "f50_career_slope_ftp": {
+        "train": {
+          "observed_rows": 83,
+          "swappable_observed_rows": 83,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 81,
+            "18739": 83,
+            "28657": 82
+          }
+        },
+        "validation": {
+          "observed_rows": 38,
+          "swappable_observed_rows": 38,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 37,
+            "18739": 36,
+            "28657": 37
+          }
+        }
+      },
+      "f50_career_slope_ftr": {
+        "train": {
+          "observed_rows": 83,
+          "swappable_observed_rows": 83,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 83,
+            "18739": 82,
+            "28657": 82
+          }
+        },
+        "validation": {
+          "observed_rows": 38,
+          "swappable_observed_rows": 38,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 36,
+            "18739": 37,
+            "28657": 38
+          }
+        }
+      },
+      "f50_career_slope_ast_tov": {
+        "train": {
+          "observed_rows": 83,
+          "swappable_observed_rows": 83,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 82,
+            "18739": 82,
+            "28657": 82
+          }
+        },
+        "validation": {
+          "observed_rows": 38,
+          "swappable_observed_rows": 38,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 38,
+            "18739": 36,
+            "28657": 37
+          }
+        }
+      },
+      "f50_career_slope_orb": {
+        "train": {
+          "observed_rows": 83,
+          "swappable_observed_rows": 83,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 80,
+            "18739": 80,
+            "28657": 81
+          }
+        },
+        "validation": {
+          "observed_rows": 38,
+          "swappable_observed_rows": 38,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 36,
+            "18739": 37,
+            "28657": 36
+          }
+        }
+      },
+      "f50_career_slope_drb": {
+        "train": {
+          "observed_rows": 83,
+          "swappable_observed_rows": 83,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 82,
+            "18739": 81,
+            "28657": 81
+          }
+        },
+        "validation": {
+          "observed_rows": 38,
+          "swappable_observed_rows": 38,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 35,
+            "18739": 34,
+            "28657": 38
+          }
+        }
+      },
+      "f50_career_slope_minutes": {
+        "train": {
+          "observed_rows": 83,
+          "swappable_observed_rows": 83,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 81,
+            "18739": 82,
+            "28657": 82
+          }
+        },
+        "validation": {
+          "observed_rows": 38,
+          "swappable_observed_rows": 38,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 35,
+            "18739": 36,
+            "28657": 37
+          }
+        }
+      },
+      "f50_career_slope_ts": {
+        "train": {
+          "observed_rows": 83,
+          "swappable_observed_rows": 83,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 82,
+            "18739": 79,
+            "28657": 81
+          }
+        },
+        "validation": {
+          "observed_rows": 38,
+          "swappable_observed_rows": 38,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 35,
+            "18739": 37,
+            "28657": 38
+          }
+        }
+      },
+      "f50_career_slope_usage": {
+        "train": {
+          "observed_rows": 83,
+          "swappable_observed_rows": 83,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 83,
+            "18739": 82,
+            "28657": 81
+          }
+        },
+        "validation": {
+          "observed_rows": 38,
+          "swappable_observed_rows": 38,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 38,
+            "18739": 37,
+            "28657": 37
+          }
+        }
+      },
+      "f50_posterior_ft": {
+        "train": {
+          "observed_rows": 144,
+          "swappable_observed_rows": 144,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 142,
+            "18739": 142,
+            "28657": 140
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 46,
+            "18739": 47,
+            "28657": 47
+          }
+        }
+      },
+      "f50_posterior_three": {
+        "train": {
+          "observed_rows": 144,
+          "swappable_observed_rows": 144,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 142,
+            "18739": 140,
+            "28657": 140
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 47,
+            "18739": 45,
+            "28657": 44
+          }
+        }
+      },
+      "f50_posterior_rim": {
+        "train": {
+          "observed_rows": 50,
+          "swappable_observed_rows": 50,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 50,
+            "18739": 49,
+            "28657": 50
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 46,
+            "18739": 47,
+            "28657": 46
+          }
+        }
+      },
+      "f50_posterior_mid": {
+        "train": {
+          "observed_rows": 50,
+          "swappable_observed_rows": 50,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 49,
+            "18739": 50,
+            "28657": 49
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 47,
+            "18739": 46,
+            "28657": 47
+          }
+        }
+      },
+      "f50_posterior_dunk": {
+        "train": {
+          "observed_rows": 50,
+          "swappable_observed_rows": 50,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 49,
+            "18739": 49,
+            "28657": 50
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 45,
+            "18739": 45,
+            "28657": 44
+          }
+        }
+      },
+      "f50_posterior_two": {
+        "train": {
+          "observed_rows": 144,
+          "swappable_observed_rows": 144,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 141,
+            "18739": 143,
+            "28657": 142
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 45,
+            "18739": 46,
+            "28657": 47
+          }
+        }
+      },
+      "f50_nondunk_rim_pct": {
+        "train": {
+          "observed_rows": 50,
+          "swappable_observed_rows": 50,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 49,
+            "18739": 50,
+            "28657": 48
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 46,
+            "18739": 44,
+            "28657": 45
+          }
+        }
+      },
+      "f50_rim_ft_pressure": {
+        "train": {
+          "observed_rows": 50,
+          "swappable_observed_rows": 50,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 50,
+            "18739": 50,
+            "28657": 49
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 46,
+            "18739": 46,
+            "28657": 45
+          }
+        }
+      },
+      "f50_perimeter_ft_agreement": {
+        "train": {
+          "observed_rows": 144,
+          "swappable_observed_rows": 144,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 142,
+            "18739": 141,
+            "28657": 135
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 46,
+            "18739": 45,
+            "28657": 45
+          }
+        }
+      },
+      "f50_assist_usage_efficiency": {
+        "train": {
+          "observed_rows": 144,
+          "swappable_observed_rows": 144,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 142,
+            "18739": 143,
+            "28657": 144
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 47,
+            "18739": 43,
+            "28657": 46
+          }
+        }
+      },
+      "f50_balanced_stocks": {
+        "train": {
+          "observed_rows": 144,
+          "swappable_observed_rows": 144,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 142,
+            "18739": 143,
+            "28657": 141
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 47,
+            "18739": 47,
+            "28657": 46
+          }
+        }
+      },
+      "f50_foul_adjusted_rebounds": {
+        "train": {
+          "observed_rows": 144,
+          "swappable_observed_rows": 144,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 142,
+            "18739": 140,
+            "28657": 140
+          }
+        },
+        "validation": {
+          "observed_rows": 47,
+          "swappable_observed_rows": 47,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 46,
+            "18739": 47,
+            "28657": 45
+          }
+        }
+      }
+    },
+    "2013": {
+      "f50_peer_sd_usage": {
+        "train": {
+          "observed_rows": 200,
+          "swappable_observed_rows": 200,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 196,
+            "18739": 197,
+            "28657": 197
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 39,
+            "18739": 35,
+            "28657": 39
+          }
+        }
+      },
+      "f50_peer_rank_usage": {
+        "train": {
+          "observed_rows": 200,
+          "swappable_observed_rows": 200,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 178,
+            "18739": 161,
+            "28657": 172
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 32,
+            "18739": 34,
+            "28657": 34
+          }
+        }
+      },
+      "f50_peer_sd_ts": {
+        "train": {
+          "observed_rows": 200,
+          "swappable_observed_rows": 200,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 195,
+            "18739": 198,
+            "28657": 197
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 38,
+            "18739": 39,
+            "28657": 38
+          }
+        }
+      },
+      "f50_peer_rank_ts": {
+        "train": {
+          "observed_rows": 200,
+          "swappable_observed_rows": 200,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 192,
+            "18739": 193,
+            "28657": 194
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 37,
+            "18739": 35,
+            "28657": 37
+          }
+        }
+      },
+      "f50_peer_sd_ast": {
+        "train": {
+          "observed_rows": 200,
+          "swappable_observed_rows": 200,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 195,
+            "18739": 197,
+            "28657": 198
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 39,
+            "18739": 37,
+            "28657": 36
+          }
+        }
+      },
+      "f50_peer_rank_ast": {
+        "train": {
+          "observed_rows": 200,
+          "swappable_observed_rows": 200,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 188,
+            "18739": 191,
+            "28657": 184
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 34,
+            "18739": 37,
+            "28657": 36
+          }
+        }
+      },
+      "f50_peer_sd_tov": {
+        "train": {
+          "observed_rows": 200,
+          "swappable_observed_rows": 200,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 197,
+            "18739": 191,
+            "28657": 200
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 36,
+            "18739": 37,
+            "28657": 39
+          }
+        }
+      },
+      "f50_peer_rank_tov": {
+        "train": {
+          "observed_rows": 200,
+          "swappable_observed_rows": 200,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 193,
+            "18739": 194,
+            "28657": 196
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 38,
+            "18739": 38,
+            "28657": 37
+          }
+        }
+      },
+      "f50_peer_sd_orb": {
+        "train": {
+          "observed_rows": 200,
+          "swappable_observed_rows": 200,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 195,
+            "18739": 195,
+            "28657": 193
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 37,
+            "18739": 39,
+            "28657": 38
+          }
+        }
+      },
+      "f50_peer_rank_orb": {
+        "train": {
+          "observed_rows": 200,
+          "swappable_observed_rows": 200,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 192,
+            "18739": 193,
+            "28657": 192
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 37,
+            "18739": 39,
+            "28657": 38
+          }
+        }
+      },
+      "f50_peer_sd_drb": {
+        "train": {
+          "observed_rows": 200,
+          "swappable_observed_rows": 200,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 197,
+            "18739": 194,
+            "28657": 197
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 38,
+            "18739": 39,
+            "28657": 38
+          }
+        }
+      },
+      "f50_peer_rank_drb": {
+        "train": {
+          "observed_rows": 200,
+          "swappable_observed_rows": 200,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 187,
+            "18739": 190,
+            "28657": 186
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 35,
+            "18739": 34,
+            "28657": 36
+          }
+        }
+      },
+      "f50_peer_sd_stl": {
+        "train": {
+          "observed_rows": 200,
+          "swappable_observed_rows": 200,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 194,
+            "18739": 197,
+            "28657": 199
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 38,
+            "18739": 39,
+            "28657": 39
+          }
+        }
+      },
+      "f50_peer_rank_stl": {
+        "train": {
+          "observed_rows": 200,
+          "swappable_observed_rows": 200,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 193,
+            "18739": 188,
+            "28657": 190
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 36,
+            "18739": 35,
+            "28657": 38
+          }
+        }
+      },
+      "f50_peer_sd_blk": {
+        "train": {
+          "observed_rows": 200,
+          "swappable_observed_rows": 200,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 199,
+            "18739": 190,
+            "28657": 196
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 39,
+            "18739": 38,
+            "28657": 39
+          }
+        }
+      },
+      "f50_peer_rank_blk": {
+        "train": {
+          "observed_rows": 200,
+          "swappable_observed_rows": 200,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 184,
+            "18739": 182,
+            "28657": 181
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 36,
+            "18739": 39,
+            "28657": 34
+          }
+        }
+      },
+      "f50_team_share_fta": {
+        "train": {
+          "observed_rows": 200,
+          "swappable_observed_rows": 200,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 198,
+            "18739": 197,
+            "28657": 196
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 38,
+            "18739": 39,
+            "28657": 38
+          }
+        }
+      },
+      "f50_team_share_three_a": {
+        "train": {
+          "observed_rows": 200,
+          "swappable_observed_rows": 200,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 192,
+            "18739": 195,
+            "28657": 191
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 38,
+            "18739": 36,
+            "28657": 38
+          }
+        }
+      },
+      "f50_team_share_rim_a": {
+        "train": {
+          "observed_rows": 76,
+          "swappable_observed_rows": 76,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 72,
+            "18739": 76,
+            "28657": 74
+          }
+        },
+        "validation": {
+          "observed_rows": 31,
+          "swappable_observed_rows": 31,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 31,
+            "18739": 30,
+            "28657": 29
+          }
+        }
+      },
+      "f50_team_share_dunk_a": {
+        "train": {
+          "observed_rows": 76,
+          "swappable_observed_rows": 76,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 75,
+            "18739": 75,
+            "28657": 74
+          }
+        },
+        "validation": {
+          "observed_rows": 31,
+          "swappable_observed_rows": 31,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 30,
+            "18739": 29,
+            "28657": 30
+          }
+        }
+      },
+      "f50_team_share_ftm": {
+        "train": {
+          "observed_rows": 200,
+          "swappable_observed_rows": 200,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 197,
+            "18739": 194,
+            "28657": 196
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 38,
+            "18739": 39,
+            "28657": 38
+          }
+        }
+      },
+      "f50_team_share_three_m": {
+        "train": {
+          "observed_rows": 200,
+          "swappable_observed_rows": 200,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 191,
+            "18739": 191,
+            "28657": 191
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 38,
+            "18739": 38,
+            "28657": 39
+          }
+        }
+      },
+      "f50_peer_three_diet": {
+        "train": {
+          "observed_rows": 200,
+          "swappable_observed_rows": 200,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 192,
+            "18739": 196,
+            "28657": 196
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 38,
+            "18739": 39,
+            "28657": 39
+          }
+        }
+      },
+      "f50_peer_rim_diet": {
+        "train": {
+          "observed_rows": 106,
+          "swappable_observed_rows": 106,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 103,
+            "18739": 104,
+            "28657": 106
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 37,
+            "18739": 39,
+            "28657": 36
+          }
+        }
+      },
+      "f50_peer_defense_density": {
+        "train": {
+          "observed_rows": 200,
+          "swappable_observed_rows": 200,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 193,
+            "18739": 195,
+            "28657": 198
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 38,
+            "18739": 39,
+            "28657": 39
+          }
+        }
+      },
+      "f50_peer_creation_density": {
+        "train": {
+          "observed_rows": 200,
+          "swappable_observed_rows": 200,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 197,
+            "18739": 197,
+            "28657": 196
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 39,
+            "18739": 39,
+            "28657": 39
+          }
+        }
+      },
+      "f50_minutes_concentration": {
+        "train": {
+          "observed_rows": 200,
+          "swappable_observed_rows": 200,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 195,
+            "18739": 186,
+            "28657": 194
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 37,
+            "18739": 38,
+            "28657": 39
+          }
+        }
+      },
+      "f50_usage_concentration": {
+        "train": {
+          "observed_rows": 200,
+          "swappable_observed_rows": 200,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 197,
+            "18739": 188,
+            "28657": 200
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 37,
+            "18739": 38,
+            "28657": 37
+          }
+        }
+      },
+      "f50_career_slope_two_p": {
+        "train": {
+          "observed_rows": 133,
+          "swappable_observed_rows": 133,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 128,
+            "18739": 130,
+            "28657": 131
+          }
+        },
+        "validation": {
+          "observed_rows": 32,
+          "swappable_observed_rows": 32,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 32,
+            "18739": 31,
+            "28657": 32
+          }
+        }
+      },
+      "f50_career_slope_three_p": {
+        "train": {
+          "observed_rows": 133,
+          "swappable_observed_rows": 133,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 128,
+            "18739": 128,
+            "28657": 126
+          }
+        },
+        "validation": {
+          "observed_rows": 32,
+          "swappable_observed_rows": 32,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 31,
+            "18739": 32,
+            "28657": 31
+          }
+        }
+      },
+      "f50_career_slope_ftp": {
+        "train": {
+          "observed_rows": 133,
+          "swappable_observed_rows": 133,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 131,
+            "18739": 131,
+            "28657": 131
+          }
+        },
+        "validation": {
+          "observed_rows": 32,
+          "swappable_observed_rows": 32,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 31,
+            "18739": 32,
+            "28657": 32
+          }
+        }
+      },
+      "f50_career_slope_ftr": {
+        "train": {
+          "observed_rows": 133,
+          "swappable_observed_rows": 133,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 133,
+            "18739": 128,
+            "28657": 131
+          }
+        },
+        "validation": {
+          "observed_rows": 32,
+          "swappable_observed_rows": 32,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 30,
+            "18739": 31,
+            "28657": 31
+          }
+        }
+      },
+      "f50_career_slope_ast_tov": {
+        "train": {
+          "observed_rows": 133,
+          "swappable_observed_rows": 133,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 131,
+            "18739": 130,
+            "28657": 131
+          }
+        },
+        "validation": {
+          "observed_rows": 32,
+          "swappable_observed_rows": 32,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 30,
+            "18739": 32,
+            "28657": 31
+          }
+        }
+      },
+      "f50_career_slope_orb": {
+        "train": {
+          "observed_rows": 133,
+          "swappable_observed_rows": 133,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 130,
+            "18739": 129,
+            "28657": 130
+          }
+        },
+        "validation": {
+          "observed_rows": 32,
+          "swappable_observed_rows": 32,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 29,
+            "18739": 30,
+            "28657": 31
+          }
+        }
+      },
+      "f50_career_slope_drb": {
+        "train": {
+          "observed_rows": 133,
+          "swappable_observed_rows": 133,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 132,
+            "18739": 131,
+            "28657": 130
+          }
+        },
+        "validation": {
+          "observed_rows": 32,
+          "swappable_observed_rows": 32,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 32,
+            "18739": 32,
+            "28657": 31
+          }
+        }
+      },
+      "f50_career_slope_minutes": {
+        "train": {
+          "observed_rows": 133,
+          "swappable_observed_rows": 133,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 131,
+            "18739": 131,
+            "28657": 131
+          }
+        },
+        "validation": {
+          "observed_rows": 32,
+          "swappable_observed_rows": 32,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 30,
+            "18739": 31,
+            "28657": 31
+          }
+        }
+      },
+      "f50_career_slope_ts": {
+        "train": {
+          "observed_rows": 133,
+          "swappable_observed_rows": 133,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 131,
+            "18739": 127,
+            "28657": 130
+          }
+        },
+        "validation": {
+          "observed_rows": 32,
+          "swappable_observed_rows": 32,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 30,
+            "18739": 32,
+            "28657": 31
+          }
+        }
+      },
+      "f50_career_slope_usage": {
+        "train": {
+          "observed_rows": 133,
+          "swappable_observed_rows": 133,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 131,
+            "18739": 131,
+            "28657": 129
+          }
+        },
+        "validation": {
+          "observed_rows": 32,
+          "swappable_observed_rows": 32,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 32,
+            "18739": 32,
+            "28657": 30
+          }
+        }
+      },
+      "f50_posterior_ft": {
+        "train": {
+          "observed_rows": 200,
+          "swappable_observed_rows": 200,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 198,
+            "18739": 196,
+            "28657": 195
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 35,
+            "18739": 38,
+            "28657": 38
+          }
+        }
+      },
+      "f50_posterior_three": {
+        "train": {
+          "observed_rows": 200,
+          "swappable_observed_rows": 200,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 197,
+            "18739": 195,
+            "28657": 196
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 37,
+            "18739": 37,
+            "28657": 37
+          }
+        }
+      },
+      "f50_posterior_rim": {
+        "train": {
+          "observed_rows": 106,
+          "swappable_observed_rows": 106,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 103,
+            "18739": 105,
+            "28657": 106
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 37,
+            "18739": 38,
+            "28657": 39
+          }
+        }
+      },
+      "f50_posterior_mid": {
+        "train": {
+          "observed_rows": 106,
+          "swappable_observed_rows": 106,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 104,
+            "18739": 106,
+            "28657": 104
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 38,
+            "18739": 38,
+            "28657": 37
+          }
+        }
+      },
+      "f50_posterior_dunk": {
+        "train": {
+          "observed_rows": 106,
+          "swappable_observed_rows": 106,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 102,
+            "18739": 104,
+            "28657": 105
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 37,
+            "18739": 39,
+            "28657": 38
+          }
+        }
+      },
+      "f50_posterior_two": {
+        "train": {
+          "observed_rows": 200,
+          "swappable_observed_rows": 200,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 194,
+            "18739": 198,
+            "28657": 196
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 37,
+            "18739": 39,
+            "28657": 39
+          }
+        }
+      },
+      "f50_nondunk_rim_pct": {
+        "train": {
+          "observed_rows": 106,
+          "swappable_observed_rows": 106,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 105,
+            "18739": 105,
+            "28657": 101
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 39,
+            "18739": 39,
+            "28657": 38
+          }
+        }
+      },
+      "f50_rim_ft_pressure": {
+        "train": {
+          "observed_rows": 106,
+          "swappable_observed_rows": 106,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 103,
+            "18739": 106,
+            "28657": 104
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 38,
+            "18739": 37,
+            "28657": 39
+          }
+        }
+      },
+      "f50_perimeter_ft_agreement": {
+        "train": {
+          "observed_rows": 200,
+          "swappable_observed_rows": 200,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 197,
+            "18739": 197,
+            "28657": 191
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 37,
+            "18739": 38,
+            "28657": 39
+          }
+        }
+      },
+      "f50_assist_usage_efficiency": {
+        "train": {
+          "observed_rows": 200,
+          "swappable_observed_rows": 200,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 196,
+            "18739": 197,
+            "28657": 200
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 39,
+            "18739": 39,
+            "28657": 37
+          }
+        }
+      },
+      "f50_balanced_stocks": {
+        "train": {
+          "observed_rows": 200,
+          "swappable_observed_rows": 200,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 197,
+            "18739": 197,
+            "28657": 196
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 38,
+            "18739": 38,
+            "28657": 37
+          }
+        }
+      },
+      "f50_foul_adjusted_rebounds": {
+        "train": {
+          "observed_rows": 200,
+          "swappable_observed_rows": 200,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 198,
+            "18739": 195,
+            "28657": 194
+          }
+        },
+        "validation": {
+          "observed_rows": 39,
+          "swappable_observed_rows": 39,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 36,
+            "18739": 39,
+            "28657": 38
+          }
+        }
+      }
+    },
+    "2014": {
+      "f50_peer_sd_usage": {
+        "train": {
+          "observed_rows": 256,
+          "swappable_observed_rows": 256,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 252,
+            "18739": 253,
+            "28657": 252
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 40,
+            "18739": 40,
+            "28657": 41
+          }
+        }
+      },
+      "f50_peer_rank_usage": {
+        "train": {
+          "observed_rows": 256,
+          "swappable_observed_rows": 256,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 225,
+            "18739": 212,
+            "28657": 222
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 35,
+            "18739": 34,
+            "28657": 34
+          }
+        }
+      },
+      "f50_peer_sd_ts": {
+        "train": {
+          "observed_rows": 256,
+          "swappable_observed_rows": 256,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 248,
+            "18739": 252,
+            "28657": 251
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 41,
+            "18739": 41,
+            "28657": 40
+          }
+        }
+      },
+      "f50_peer_rank_ts": {
+        "train": {
+          "observed_rows": 256,
+          "swappable_observed_rows": 256,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 241,
+            "18739": 245,
+            "28657": 241
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 40,
+            "18739": 40,
+            "28657": 38
+          }
+        }
+      },
+      "f50_peer_sd_ast": {
+        "train": {
+          "observed_rows": 256,
+          "swappable_observed_rows": 256,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 250,
+            "18739": 253,
+            "28657": 254
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 39,
+            "18739": 38,
+            "28657": 41
+          }
+        }
+      },
+      "f50_peer_rank_ast": {
+        "train": {
+          "observed_rows": 256,
+          "swappable_observed_rows": 256,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 240,
+            "18739": 246,
+            "28657": 236
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 39,
+            "18739": 40,
+            "28657": 40
+          }
+        }
+      },
+      "f50_peer_sd_tov": {
+        "train": {
+          "observed_rows": 256,
+          "swappable_observed_rows": 256,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 251,
+            "18739": 247,
+            "28657": 255
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 41,
+            "18739": 40,
+            "28657": 40
+          }
+        }
+      },
+      "f50_peer_rank_tov": {
+        "train": {
+          "observed_rows": 256,
+          "swappable_observed_rows": 256,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 245,
+            "18739": 248,
+            "28657": 251
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 40,
+            "18739": 39,
+            "28657": 38
+          }
+        }
+      },
+      "f50_peer_sd_orb": {
+        "train": {
+          "observed_rows": 256,
+          "swappable_observed_rows": 256,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 250,
+            "18739": 249,
+            "28657": 248
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 39,
+            "18739": 40,
+            "28657": 40
+          }
+        }
+      },
+      "f50_peer_rank_orb": {
+        "train": {
+          "observed_rows": 256,
+          "swappable_observed_rows": 256,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 246,
+            "18739": 247,
+            "28657": 246
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 39,
+            "18739": 37,
+            "28657": 41
+          }
+        }
+      },
+      "f50_peer_sd_drb": {
+        "train": {
+          "observed_rows": 256,
+          "swappable_observed_rows": 256,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 251,
+            "18739": 250,
+            "28657": 252
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 41,
+            "18739": 41,
+            "28657": 41
+          }
+        }
+      },
+      "f50_peer_rank_drb": {
+        "train": {
+          "observed_rows": 256,
+          "swappable_observed_rows": 256,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 240,
+            "18739": 241,
+            "28657": 240
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 37,
+            "18739": 40,
+            "28657": 40
+          }
+        }
+      },
+      "f50_peer_sd_stl": {
+        "train": {
+          "observed_rows": 256,
+          "swappable_observed_rows": 256,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 249,
+            "18739": 252,
+            "28657": 254
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 40,
+            "18739": 41,
+            "28657": 40
+          }
+        }
+      },
+      "f50_peer_rank_stl": {
+        "train": {
+          "observed_rows": 256,
+          "swappable_observed_rows": 256,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 248,
+            "18739": 243,
+            "28657": 242
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 38,
+            "18739": 40,
+            "28657": 36
+          }
+        }
+      },
+      "f50_peer_sd_blk": {
+        "train": {
+          "observed_rows": 256,
+          "swappable_observed_rows": 256,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 253,
+            "18739": 245,
+            "28657": 252
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 39,
+            "18739": 41,
+            "28657": 41
+          }
+        }
+      },
+      "f50_peer_rank_blk": {
+        "train": {
+          "observed_rows": 256,
+          "swappable_observed_rows": 256,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 237,
+            "18739": 234,
+            "28657": 234
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 40,
+            "18739": 39,
+            "28657": 38
+          }
+        }
+      },
+      "f50_team_share_fta": {
+        "train": {
+          "observed_rows": 256,
+          "swappable_observed_rows": 256,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 253,
+            "18739": 250,
+            "28657": 250
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 40,
+            "18739": 39,
+            "28657": 41
+          }
+        }
+      },
+      "f50_team_share_three_a": {
+        "train": {
+          "observed_rows": 256,
+          "swappable_observed_rows": 256,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 245,
+            "18739": 249,
+            "28657": 245
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 40,
+            "18739": 41,
+            "28657": 40
+          }
+        }
+      },
+      "f50_team_share_rim_a": {
+        "train": {
+          "observed_rows": 120,
+          "swappable_observed_rows": 120,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 114,
+            "18739": 117,
+            "28657": 117
+          }
+        },
+        "validation": {
+          "observed_rows": 29,
+          "swappable_observed_rows": 29,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 28,
+            "18739": 27,
+            "28657": 29
+          }
+        }
+      },
+      "f50_team_share_dunk_a": {
+        "train": {
+          "observed_rows": 120,
+          "swappable_observed_rows": 120,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 118,
+            "18739": 118,
+            "28657": 116
+          }
+        },
+        "validation": {
+          "observed_rows": 29,
+          "swappable_observed_rows": 29,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 28,
+            "18739": 29,
+            "28657": 26
+          }
+        }
+      },
+      "f50_team_share_ftm": {
+        "train": {
+          "observed_rows": 256,
+          "swappable_observed_rows": 256,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 253,
+            "18739": 249,
+            "28657": 250
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 39,
+            "18739": 40,
+            "28657": 41
+          }
+        }
+      },
+      "f50_team_share_three_m": {
+        "train": {
+          "observed_rows": 256,
+          "swappable_observed_rows": 256,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 243,
+            "18739": 246,
+            "28657": 245
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 37,
+            "18739": 40,
+            "28657": 40
+          }
+        }
+      },
+      "f50_peer_three_diet": {
+        "train": {
+          "observed_rows": 256,
+          "swappable_observed_rows": 256,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 247,
+            "18739": 252,
+            "28657": 250
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 41,
+            "18739": 41,
+            "28657": 39
+          }
+        }
+      },
+      "f50_peer_rim_diet": {
+        "train": {
+          "observed_rows": 162,
+          "swappable_observed_rows": 162,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 156,
+            "18739": 158,
+            "28657": 159
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 41,
+            "18739": 41,
+            "28657": 40
+          }
+        }
+      },
+      "f50_peer_defense_density": {
+        "train": {
+          "observed_rows": 256,
+          "swappable_observed_rows": 256,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 249,
+            "18739": 249,
+            "28657": 254
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 40,
+            "18739": 40,
+            "28657": 40
+          }
+        }
+      },
+      "f50_peer_creation_density": {
+        "train": {
+          "observed_rows": 256,
+          "swappable_observed_rows": 256,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 251,
+            "18739": 251,
+            "28657": 251
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 40,
+            "18739": 40,
+            "28657": 39
+          }
+        }
+      },
+      "f50_minutes_concentration": {
+        "train": {
+          "observed_rows": 256,
+          "swappable_observed_rows": 256,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 249,
+            "18739": 242,
+            "28657": 246
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 39,
+            "18739": 39,
+            "28657": 38
+          }
+        }
+      },
+      "f50_usage_concentration": {
+        "train": {
+          "observed_rows": 256,
+          "swappable_observed_rows": 256,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 252,
+            "18739": 241,
+            "28657": 255
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 39,
+            "18739": 41,
+            "28657": 39
+          }
+        }
+      },
+      "f50_career_slope_two_p": {
+        "train": {
+          "observed_rows": 180,
+          "swappable_observed_rows": 180,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 174,
+            "18739": 176,
+            "28657": 177
+          }
+        },
+        "validation": {
+          "observed_rows": 32,
+          "swappable_observed_rows": 32,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 31,
+            "18739": 30,
+            "28657": 30
+          }
+        }
+      },
+      "f50_career_slope_three_p": {
+        "train": {
+          "observed_rows": 180,
+          "swappable_observed_rows": 180,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 174,
+            "18739": 174,
+            "28657": 171
+          }
+        },
+        "validation": {
+          "observed_rows": 32,
+          "swappable_observed_rows": 32,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 30,
+            "18739": 31,
+            "28657": 31
+          }
+        }
+      },
+      "f50_career_slope_ftp": {
+        "train": {
+          "observed_rows": 180,
+          "swappable_observed_rows": 180,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 177,
+            "18739": 177,
+            "28657": 177
+          }
+        },
+        "validation": {
+          "observed_rows": 32,
+          "swappable_observed_rows": 32,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 32,
+            "18739": 31,
+            "28657": 31
+          }
+        }
+      },
+      "f50_career_slope_ftr": {
+        "train": {
+          "observed_rows": 180,
+          "swappable_observed_rows": 180,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 180,
+            "18739": 173,
+            "28657": 178
+          }
+        },
+        "validation": {
+          "observed_rows": 32,
+          "swappable_observed_rows": 32,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 32,
+            "18739": 31,
+            "28657": 29
+          }
+        }
+      },
+      "f50_career_slope_ast_tov": {
+        "train": {
+          "observed_rows": 180,
+          "swappable_observed_rows": 180,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 178,
+            "18739": 176,
+            "28657": 177
+          }
+        },
+        "validation": {
+          "observed_rows": 32,
+          "swappable_observed_rows": 32,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 32,
+            "18739": 31,
+            "28657": 32
+          }
+        }
+      },
+      "f50_career_slope_orb": {
+        "train": {
+          "observed_rows": 180,
+          "swappable_observed_rows": 180,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 177,
+            "18739": 174,
+            "28657": 176
+          }
+        },
+        "validation": {
+          "observed_rows": 32,
+          "swappable_observed_rows": 32,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 31,
+            "18739": 31,
+            "28657": 32
+          }
+        }
+      },
+      "f50_career_slope_drb": {
+        "train": {
+          "observed_rows": 180,
+          "swappable_observed_rows": 180,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 178,
+            "18739": 178,
+            "28657": 177
+          }
+        },
+        "validation": {
+          "observed_rows": 32,
+          "swappable_observed_rows": 32,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 31,
+            "18739": 32,
+            "28657": 31
+          }
+        }
+      },
+      "f50_career_slope_minutes": {
+        "train": {
+          "observed_rows": 180,
+          "swappable_observed_rows": 180,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 177,
+            "18739": 178,
+            "28657": 176
+          }
+        },
+        "validation": {
+          "observed_rows": 32,
+          "swappable_observed_rows": 32,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 31,
+            "18739": 32,
+            "28657": 31
+          }
+        }
+      },
+      "f50_career_slope_ts": {
+        "train": {
+          "observed_rows": 180,
+          "swappable_observed_rows": 180,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 177,
+            "18739": 173,
+            "28657": 174
+          }
+        },
+        "validation": {
+          "observed_rows": 32,
+          "swappable_observed_rows": 32,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 31,
+            "18739": 32,
+            "28657": 32
+          }
+        }
+      },
+      "f50_career_slope_usage": {
+        "train": {
+          "observed_rows": 180,
+          "swappable_observed_rows": 180,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 177,
+            "18739": 177,
+            "28657": 175
+          }
+        },
+        "validation": {
+          "observed_rows": 32,
+          "swappable_observed_rows": 32,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 31,
+            "18739": 32,
+            "28657": 30
+          }
+        }
+      },
+      "f50_posterior_ft": {
+        "train": {
+          "observed_rows": 256,
+          "swappable_observed_rows": 256,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 254,
+            "18739": 251,
+            "28657": 250
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 40,
+            "18739": 39,
+            "28657": 40
+          }
+        }
+      },
+      "f50_posterior_three": {
+        "train": {
+          "observed_rows": 256,
+          "swappable_observed_rows": 256,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 252,
+            "18739": 251,
+            "28657": 252
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 38,
+            "18739": 40,
+            "28657": 39
+          }
+        }
+      },
+      "f50_posterior_rim": {
+        "train": {
+          "observed_rows": 162,
+          "swappable_observed_rows": 162,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 159,
+            "18739": 160,
+            "28657": 161
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 40,
+            "18739": 40,
+            "28657": 39
+          }
+        }
+      },
+      "f50_posterior_mid": {
+        "train": {
+          "observed_rows": 162,
+          "swappable_observed_rows": 162,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 159,
+            "18739": 162,
+            "28657": 157
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 41,
+            "18739": 40,
+            "28657": 41
+          }
+        }
+      },
+      "f50_posterior_dunk": {
+        "train": {
+          "observed_rows": 162,
+          "swappable_observed_rows": 162,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 156,
+            "18739": 159,
+            "28657": 158
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 40,
+            "18739": 40,
+            "28657": 39
+          }
+        }
+      },
+      "f50_posterior_two": {
+        "train": {
+          "observed_rows": 256,
+          "swappable_observed_rows": 256,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 249,
+            "18739": 253,
+            "28657": 252
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 41,
+            "18739": 41,
+            "28657": 41
+          }
+        }
+      },
+      "f50_nondunk_rim_pct": {
+        "train": {
+          "observed_rows": 162,
+          "swappable_observed_rows": 162,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 161,
+            "18739": 160,
+            "28657": 157
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 40,
+            "18739": 41,
+            "28657": 41
+          }
+        }
+      },
+      "f50_rim_ft_pressure": {
+        "train": {
+          "observed_rows": 162,
+          "swappable_observed_rows": 162,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 159,
+            "18739": 159,
+            "28657": 159
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 37,
+            "18739": 39,
+            "28657": 39
+          }
+        }
+      },
+      "f50_perimeter_ft_agreement": {
+        "train": {
+          "observed_rows": 256,
+          "swappable_observed_rows": 256,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 252,
+            "18739": 252,
+            "28657": 243
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 39,
+            "18739": 39,
+            "28657": 41
+          }
+        }
+      },
+      "f50_assist_usage_efficiency": {
+        "train": {
+          "observed_rows": 256,
+          "swappable_observed_rows": 256,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 248,
+            "18739": 249,
+            "28657": 256
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 41,
+            "18739": 40,
+            "28657": 40
+          }
+        }
+      },
+      "f50_balanced_stocks": {
+        "train": {
+          "observed_rows": 256,
+          "swappable_observed_rows": 256,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 252,
+            "18739": 253,
+            "28657": 250
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 41,
+            "18739": 40,
+            "28657": 37
+          }
+        }
+      },
+      "f50_foul_adjusted_rebounds": {
+        "train": {
+          "observed_rows": 256,
+          "swappable_observed_rows": 256,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 254,
+            "18739": 250,
+            "28657": 249
+          }
+        },
+        "validation": {
+          "observed_rows": 41,
+          "swappable_observed_rows": 41,
+          "immovable_observed_rows": 0,
+          "changed_values": {
+            "9317": 39,
+            "18739": 39,
+            "28657": 41
+          }
+        }
+      }
+    }
+  },
+  "server_preflight_required": "Both W and unchanged copied U CPU preparation must exactly match completed U baseline: full45-column matrices, labels, pids and columns. All3 baseline prediction/score replays must pass before interpretation."
+}

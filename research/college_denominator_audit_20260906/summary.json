@@ -1,0 +1,127 @@
+{
+  "fixed_sample_players": 12,
+  "limited_minutes_le15": 6,
+  "player_game_source_rows_total": 109978,
+  "source_compressed_bytes": 10407565,
+  "team_player_game_rows": 294,
+  "fixed_sample_player_game_rows": 285,
+  "team_game_cache_games": 33,
+  "player_game_source_distinct_team_games": 31,
+  "excluded_team_cache_games": [
+    {
+      "date": "2017-11-10",
+      "team": "Tennessee Tech",
+      "opponent": "Midway",
+      "source_row_zero_based": 79
+    },
+    {
+      "date": "2017-11-16",
+      "team": "Tennessee Tech",
+      "opponent": "Boyce",
+      "source_row_zero_based": 449
+    }
+  ],
+  "annual_GP_exact_matches": 12,
+  "annual_shooting_count_exact_matches": 72,
+  "appended_pg_checks": 72,
+  "appended_pg_mismatches": 67,
+  "official_all_game_pg_checks_matched": 10,
+  "candidate_numeric_columns": 14,
+  "all_sample_rows_retained": true,
+  "official_team_total_checks": [
+    {
+      "statistic": "fgm",
+      "cache_total": 844,
+      "official_total": 844,
+      "equal": true
+    },
+    {
+      "statistic": "fga",
+      "cache_total": 1924,
+      "official_total": 1924,
+      "equal": true
+    },
+    {
+      "statistic": "three_m",
+      "cache_total": 242,
+      "official_total": 242,
+      "equal": true
+    },
+    {
+      "statistic": "three_a",
+      "cache_total": 697,
+      "official_total": 697,
+      "equal": true
+    },
+    {
+      "statistic": "ft_m",
+      "cache_total": 483,
+      "official_total": 483,
+      "equal": true
+    },
+    {
+      "statistic": "ft_a",
+      "cache_total": 710,
+      "official_total": 710,
+      "equal": true
+    },
+    {
+      "statistic": "orb",
+      "cache_total": 338,
+      "official_total": 338,
+      "equal": true
+    },
+    {
+      "statistic": "drb",
+      "cache_total": 836,
+      "official_total": 836,
+      "equal": true
+    },
+    {
+      "statistic": "trb",
+      "cache_total": 1174,
+      "official_total": 1174,
+      "equal": true
+    },
+    {
+      "statistic": "ast",
+      "cache_total": 472,
+      "official_total": 471,
+      "equal": false
+    },
+    {
+      "statistic": "stl",
+      "cache_total": 252,
+      "official_total": 252,
+      "equal": true
+    },
+    {
+      "statistic": "blk",
+      "cache_total": 107,
+      "official_total": 108,
+      "equal": false
+    },
+    {
+      "statistic": "tov",
+      "cache_total": 471,
+      "official_total": 471,
+      "equal": true
+    },
+    {
+      "statistic": "points",
+      "cache_total": 2413,
+      "official_total": 2413,
+      "equal": true
+    }
+  ],
+  "model_eligible": false,
+  "reasons_excluded": [
+    "Historical source publication/revision vintage remains unverified.",
+    "2018 fixed-team pilot does not prove identical definitions in other source years.",
+    "Official comparison reveals AST/BLK count discrepancies with unresolved cause; no guessed replacement applied.",
+    "No exact player minute totals have been established; no per-minute statistics or Oliver ratings created."
+  ],
+  "requests_used": 10,
+  "heldout_data_or_models_used": false,
+  "annual_raw_pick_index45_read": false
+}

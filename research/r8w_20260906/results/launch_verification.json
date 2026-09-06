@@ -1,0 +1,16 @@
+{
+  "unit": "draftdb-r8w-20260906",
+  "invocation_id": "7288116b828b4c7493299b2a2e91cf31",
+  "live_unit_limits_observed": {
+    "RuntimeMaxUSec": "2h",
+    "CPUQuotaPerSecUSec": "22s",
+    "MemoryMax": 150323855360
+  },
+  "workers": 4,
+  "independent_review": {
+    "reviewer": "/root/source_validation",
+    "critical_blocker_found": false,
+    "reviewed": "Copied U baseline hashes, fixed real consensus, common slot, field-specific cohort/mask controls, training-only eligibility, pre2019 filters, exact three baseline replay gates.",
+    "caveat": "Retrospective Torvik inputs remain diagnostic; independent Oliver audit found some basic-count/per-game denominators disagree. No fully certified source claim."
+  }
+}

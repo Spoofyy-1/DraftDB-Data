@@ -1,0 +1,22 @@
+{
+  "study": "R8w",
+  "frozen_before_first_model": true,
+  "created_utc": "2026-09-06T13:49:51.300545+00:00",
+  "files": {
+    "worker.py": "96d95262ec8cdfb2353f46269069adcd0b5c70bbc94144bd564d86e891665c5a",
+    "plan.json": "a3ff7aea0f444dd010a0479c945f5d8cd233cb9063a90fc70e5403a23301432c",
+    "prepare_data.py": "fa2ed11298af64a9c56a3d6a1ecd390f70c64f43b2d22e3624688aa2e54cce12",
+    "preflight.py": "0e549835ad6a2d841b5574b01972ba0f8ff2432eafa8a6911e306abfd78c75df",
+    "preflight.json": "e6cdfc6958a433c1cb1c8979ef71145e0934cb2812bc53474b60468b8dfd6b1e",
+    "research.py": "b186a14cb471c15257986964eea0ef95f059d68a61d8905c8218676cbad6dd87",
+    "run_sandbox.sh": "edf26e66144d6687c3ea55b5f53b646f3935dbbeca1a6318d59c2655d8147f98",
+    "legacy_kernel.py": "ddc58666da0d784a1b67f6b8ee4763599bdce14bb91768893e6fb87af4620ee1",
+    "baseline_reference.json": "d18b2e4c623f552e3a9d0f43433c82dcfb9348830f4e92eb1a07a81453a2291c",
+    "data/manifest.json": "d2b56cce8dfd4d881744d86dba84fb0c32ea8528b2a9776ee76e76f0e16e1732",
+    "r8u_reference/worker.py": "a1e6e9af519949dbe874632b2eba439945aad8f9abbd227e82d585fd6941ec0c",
+    "r8u_reference/plan.json": "1be9b5a6f774560d9c9be4aa2ef5e3390e211f3be65e308c5b008d547ae6c359",
+    "r8u_reference/legacy_kernel.py": "ddc58666da0d784a1b67f6b8ee4763599bdce14bb91768893e6fb87af4620ee1",
+    "r8u_reference/data/manifest.json": "0c67887a6968b9a3dcea179bdfabe475ba7492137108c9594523062ec641f574",
+    "README.md": "d9b76ea395965a021f752cdbb5efa69778d408329bbc0690e0052f420ab94842"
+  }
+}

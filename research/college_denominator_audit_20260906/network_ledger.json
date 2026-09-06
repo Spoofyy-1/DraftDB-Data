@@ -1,0 +1,72 @@
+[
+  {
+    "type": "search",
+    "query": "site:ttusports.com 2017-18 basketball statistics pdf Tennessee Tech",
+    "note": "Search tool; no raw HTML capture or invented hash"
+  },
+  {
+    "type": "search",
+    "query": "site:adamcwisports.blogspot.com player stats non D1 games per game averages",
+    "note": "Search tool; no raw HTML capture or invented hash"
+  },
+  {
+    "type": "search",
+    "query": "site.ttusports.com 2017-18 Tennessee Tech basketball final statistics Kajon Mack 407",
+    "note": "Search tool; no raw HTML capture or invented hash"
+  },
+  {
+    "type": "search",
+    "query": "site:ovcsports.com 2017-18 Tennessee Tech final basketball statistics pdf",
+    "note": "Search tool; no raw HTML capture or invented hash"
+  },
+  {
+    "key": "player_games2018",
+    "url": "https://barttorvik.com/2018_all_advgames.json.gz",
+    "retrieved_at_utc": "2026-09-06T14:01:25.322658+00:00",
+    "error": "Response decoded content exceeded pre-registered40MiB safety cap; rejected before save. One retry preserves compressed transfer bytes, within10-request task cap."
+  },
+  {
+    "key": "ovc2018",
+    "url": "https://ovcsports.com/stats.aspx?path=mbball&year=2017",
+    "retrieved_at_utc": "2026-09-06T14:01:26.127899+00:00",
+    "status": 403,
+    "bytes": 859,
+    "sha256": "0d1a3febc53854b9127d0391d7476cd01cba8a49a54f9a290a0da47125db5d9b"
+  },
+  {
+    "type": "web_open",
+    "url": "https://ovcsports.com/stats.aspx?path=mbball&year=2017",
+    "note": "Tool retrieved full official historical statistics; no raw HTML hash"
+  },
+  {
+    "type": "search",
+    "query": "\"Tennessee Tech\" \"2017-18\" \"CROSLAND\" \"33\" stats cumulative"
+  },
+  {
+    "key": "player_games2018_compressed",
+    "url": "https://barttorvik.com/2018_all_advgames.json.gz",
+    "retrieved_at_utc": "2026-09-06T14:02:29.058424+00:00",
+    "status": 200,
+    "bytes": 10407565,
+    "sha256": "f61dcd425f3141019d253f4552a96aa68b040782386f7dba1b36716492c271bd",
+    "content_encoding": "gzip",
+    "content_type": "application/json",
+    "kind": "list",
+    "rows": 109978,
+    "sample_shape": [
+      53,
+      53,
+      53
+    ]
+  },
+  {
+    "key": "official_ttu_jan2018",
+    "url": "https://goracers.com/documents/download/2018/1/15/_17__01_13_18_TTU_Notes.pdf",
+    "retrieved_at_utc": "2026-09-06T14:02:29.861485+00:00",
+    "status": 403,
+    "bytes": 863,
+    "sha256": "80105c9ee008a393b23936118bd0e5e06614ff80f87de582f9c371a9a77fd527",
+    "content_encoding": null,
+    "content_type": "text/html"
+  }
+]

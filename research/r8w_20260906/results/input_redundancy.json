@@ -1,0 +1,91 @@
+{
+  "scope": "Label-free training-only redundancy descriptions; not feature selection or a causal importance claim. No query rows or outcome labels used.",
+  "threshold": 0.99,
+  "minimum_joint_observed": 30,
+  "folds": [
+    {
+      "fold": 2012,
+      "max_input_draft_year": 2010,
+      "training_rows": 251,
+      "near_monotone_duplicate_pairs": [
+        {
+          "extra": "f50_posterior_ft",
+          "base": "ctx_base_ft_pct",
+          "joint_observed": 144,
+          "spearman": 0.9984275200786806,
+          "missing_masks_equal": true
+        },
+        {
+          "extra": "f50_posterior_two",
+          "base": "ctx_base_fg2_pct",
+          "joint_observed": 144,
+          "spearman": 0.9984284506734026,
+          "missing_masks_equal": true
+        },
+        {
+          "extra": "f50_perimeter_ft_agreement",
+          "base": "ctx_base_three_share",
+          "joint_observed": 144,
+          "spearman": 0.9936114197381769,
+          "missing_masks_equal": true
+        }
+      ]
+    },
+    {
+      "fold": 2013,
+      "max_input_draft_year": 2011,
+      "training_rows": 329,
+      "near_monotone_duplicate_pairs": [
+        {
+          "extra": "f50_posterior_ft",
+          "base": "ctx_base_ft_pct",
+          "joint_observed": 200,
+          "spearman": 0.9985351756894578,
+          "missing_masks_equal": true
+        },
+        {
+          "extra": "f50_posterior_two",
+          "base": "ctx_base_fg2_pct",
+          "joint_observed": 200,
+          "spearman": 0.9985025025787491,
+          "missing_masks_equal": true
+        },
+        {
+          "extra": "f50_perimeter_ft_agreement",
+          "base": "ctx_base_three_share",
+          "joint_observed": 200,
+          "spearman": 0.9909532574957061,
+          "missing_masks_equal": true
+        }
+      ]
+    },
+    {
+      "fold": 2014,
+      "max_input_draft_year": 2012,
+      "training_rows": 403,
+      "near_monotone_duplicate_pairs": [
+        {
+          "extra": "f50_posterior_ft",
+          "base": "ctx_base_ft_pct",
+          "joint_observed": 256,
+          "spearman": 0.9986261193507845,
+          "missing_masks_equal": true
+        },
+        {
+          "extra": "f50_posterior_two",
+          "base": "ctx_base_fg2_pct",
+          "joint_observed": 256,
+          "spearman": 0.9986970887696129,
+          "missing_masks_equal": true
+        },
+        {
+          "extra": "f50_perimeter_ft_agreement",
+          "base": "ctx_base_three_share",
+          "joint_observed": 256,
+          "spearman": 0.9916526589378859,
+          "missing_masks_equal": true
+        }
+      ]
+    }
+  ]
+}

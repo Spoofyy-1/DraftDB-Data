@@ -100,7 +100,7 @@ def research_state():
     if not os.path.exists(path): return JSONResponse(dict(status="preparing",message="Calendar audit complete; preparing isolated worker."))
     try:
         s=json.load(open(path))
-        for key,extra in [('test_result','r8baseline/results/test_result.json'),('resources','telemetry/state.json'),('collection','collection_state.json')]:
+        for key,extra in [('test_result','r8baseline/results/test_result.json'),('resources','telemetry/state.json'),('collection','collection_state.json'),('performance','r8queuebench/results/progress.json')]:
             ep=f"{HERE}/{extra}"
             if os.path.exists(ep):
                 try: s[key]=json.load(open(ep))
@@ -112,6 +112,15 @@ def research_state():
                 job=json.load(open(other))
                 if job.get('status')=='running':s['background_experiments'].append({k:job.get(k) for k in ['phase','completed','total']})
             except Exception:pass
+        performance=s.get('performance') or {}
+        if performance.get('status')=='running':
+            s['background_experiments'].append(dict(phase='Runner speed check · '+str(performance.get('phase','running')),completed=performance.get('completed',0),total=performance.get('total',72)))
+            if performance.get('active_workers'):s['workers']=performance['active_workers']
+        queue_path=f'{HERE}/research_queue.json'
+        if os.path.exists(queue_path):
+            queue=json.load(open(queue_path))
+            current_study=os.path.basename(os.path.dirname(os.path.dirname(path)))
+            if queue.get('status')=='preparing' and queue.get('study')!=current_study:s['queued']=queue
         groups={}
         for record in s.get('candidates',[]):
             if 'score' not in record or 'task_id' not in record: continue

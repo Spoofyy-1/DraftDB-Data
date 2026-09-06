@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "scope": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "selection_basis": "all selected members in recovered prior draft sources; identity/feature/outcome availability never gates inclusion",
+  "source_row_population_complete": false,
+  "model_ready": false,
+  "outcomes_read": false,
+  "test_outcomes_read": false,
+  "mixed_year_actual_pick_column_read": false,
+  "model_runs": 0,
+  "production_modified": false,
+  "network_budget": 20,
+  "network_requests_initiated": 20,
+  "network_policy": "11 search queries, 3 web opens, 6 HTTP requests; no retries or redirects followed",
+  "research_comparison": "r8l frozen historical feature-table IDs/year only; exact-name suggestions are not full identity certification",
+  "identity_inputs": [
+    {
+      "basename": "player_key.parquet",
+      "sha256": "95df799b786c69e28ae7fa889f0e7be9f0ded54c0b08a755df206407f9939922",
+      "columns_read": [
+        "pid",
+        "player_name"
+      ]
+    },
+    {
+      "basename": "tabular_names.csv",
+      "sha256": "bc6636a31ce22748d68360771fa633a91879495f29160ce871da15392b55bb41",
+      "columns_read": [
+        "pid",
+        "draft_year",
+        "player_name"
+      ]
+    },
+    {
+      "basename": "features.csv",
+      "sha256": "ce432401e631f5ed5c9829f39707b4c2cd0a54dcb6578b26bfa50dbe2c81146f",
+      "columns_read": [
+        "pid",
+        "draft_year"
+      ]
+    }
+  ],
+  "limitations": [
+    "2007 and 2011 missing positions are enumerated only in protected source anomaly table; no member was invented to fill them",
+    "2007 syndicated list has unknown AP attribution in retained fragment and is provisional membership evidence pending primary corroboration",
+    "Contemporary datelines and official PDF issue metadata do not independently timestamp the historical body",
+    "2010 official source contains literal spelling errors; published variants preserved, no fuzzy-only joins",
+    "2011 AP trades create duplicate source entries and omit one selection",
+    "No labels/calendar/zero outcomes inferred; all unresolved members remain retained",
+    "Complete 2008/2009/2010 source lists need exact identity review before production joins"
+  ],
+  "coverage": {
+    "years": {
+      "2007": {
+        "source_records": 44,
+        "selected_members": 44,
+        "expected_members": 60,
+        "missing_members": 16,
+        "source_complete": false,
+        "identity_status_counts": {
+          "existing_research_exact_cohort_name_suggestion": 35,
+          "legacy_identity_absent_research": 2,
+          "no_exact_legacy_cohort_name": 7
+        },
+        "matched_existing_research_rows": 35,
+        "apparent_training_gaps": 9,
+        "primary_membership_evidence_rows": 1,
+        "provisional_source_attribution_rows": 43
+      },
+      "2008": {
+        "source_records": 60,
+        "selected_members": 60,
+        "expected_members": 60,
+        "missing_members": 0,
+        "source_complete": true,
+        "identity_status_counts": {
+          "existing_research_exact_cohort_name_suggestion": 49,
+          "no_exact_legacy_cohort_name": 9,
+          "legacy_identity_absent_research": 2
+        },
+        "matched_existing_research_rows": 49,
+        "apparent_training_gaps": 11,
+        "primary_membership_evidence_rows": 60,
+        "provisional_source_attribution_rows": 0
+      },
+      "2009": {
+        "source_records": 60,
+        "selected_members": 60,
+        "expected_members": 60,
+        "missing_members": 0,
+        "source_complete": true,
+        "identity_status_counts": {
+          "no_exact_legacy_cohort_name": 11,
+          "existing_research_exact_cohort_name_suggestion": 46,
+          "legacy_identity_absent_research": 3
+        },
+        "matched_existing_research_rows": 46,
+        "apparent_training_gaps": 14,
+        "primary_membership_evidence_rows": 60,
+        "provisional_source_attribution_rows": 0
+      },
+      "2010": {
+        "source_records": 60,
+        "selected_members": 60,
+        "expected_members": 60,
+        "missing_members": 0,
+        "source_complete": true,
+        "identity_status_counts": {
+          "existing_research_exact_cohort_name_suggestion": 51,
+          "no_exact_legacy_cohort_name": 6,
+          "legacy_identity_absent_research": 3
+        },
+        "matched_existing_research_rows": 51,
+        "apparent_training_gaps": 9,
+        "primary_membership_evidence_rows": 60,
+        "provisional_source_attribution_rows": 0
+      },
+      "2011": {
+        "source_records": 61,
+        "selected_members": 59,
+        "expected_members": 60,
+        "missing_members": 1,
+        "source_complete": false,
+        "identity_status_counts": {
+          "existing_research_exact_cohort_name_suggestion": 54,
+          "no_exact_legacy_cohort_name": 5
+        },
+        "matched_existing_research_rows": 54,
+        "apparent_training_gaps": 5,
+        "primary_membership_evidence_rows": 59,
+        "provisional_source_attribution_rows": 0
+      }
+    },
+    "expected_members": 300,
+    "recovered_source_members": 283,
+    "missing_source_members": 17,
+    "matched_existing_research_rows": 235,
+    "apparent_training_gaps": 48,
+    "all_cohorts_complete": false,
+    "model_ready": false
+  },
+  "verification_code_hashes": {
+    "build.py": "d112e93a4a25a7bece2198c7869739d2d2024eea956be59bda37e7dc3d73404a",
+    "project_identities.py": "fad3394c89a79c75629779b1588db71756a2134abdfd284c165e27b53d4cf1c5",
+    "test_build.py": "dbf7bfe8a7d4feb0b322a8efa2ab6e56c78422adb64e00aeb485796039bd672c"
+  },
+  "public_allowlist": [
+    "README.md",
+    "PUBLIC_ALLOWLIST.txt",
+    "data/membership_facts.csv",
+    "data/source_manifest.csv",
+    "data/coverage.json",
+    "data/manifest.json",
+    "data/validation.json"
+  ]
+}

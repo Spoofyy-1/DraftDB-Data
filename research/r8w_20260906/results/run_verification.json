@@ -1,0 +1,52 @@
+{
+  "status": "completed_verified",
+  "unit": "draftdb-r8w-20260906",
+  "invocation_id": "7288116b828b4c7493299b2a2e91cf31",
+  "tasks": 603,
+  "errors": 0,
+  "elapsed_seconds": 853.1,
+  "tasks_per_minute": 42.41,
+  "frozen_files_unchanged": 15,
+  "summary_recomputed_exact": true,
+  "baseline_replays": [
+    {
+      "seed": 0,
+      "score_and_raw_canonical_predictions_exact": true
+    },
+    {
+      "seed": 101,
+      "score_and_raw_canonical_predictions_exact": true
+    },
+    {
+      "seed": 202,
+      "score_and_raw_canonical_predictions_exact": true
+    }
+  ],
+  "direct_R8v_tabicl32_raw_canonical_score_replays": [
+    0,
+    101,
+    202
+  ],
+  "widths": [
+    45,
+    46
+  ],
+  "live_unit_limits_observed": {
+    "RuntimeMaxUSec": "2h",
+    "CPUQuotaPerSecUSec": "22s",
+    "MemoryMax": 150323855360
+  },
+  "heldout_or_confirmation_scoring": false,
+  "no_promotion_or_combinations": true,
+  "metric": "Pre2019 mean-fold Spearman, displayed times100; not classification accuracy",
+  "matched_positive_fields": 24,
+  "matched_and_baseline_positive_fields": 19,
+  "matched_and_baseline_positive_all_fold_and_seed_gains_positive": [
+    "f50_posterior_rim",
+    "f50_peer_rank_orb",
+    "f50_career_slope_ftp",
+    "f50_career_slope_usage",
+    "f50_nondunk_rim_pct"
+  ],
+  "report_script_sha256": "bcc1c3372ee7601d6731dad275c98d7b3cf5d0f149a14c885b3360acd6fbf05d"
+}

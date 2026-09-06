@@ -1,0 +1,90 @@
+{
+  "years": {
+    "2007": {
+      "source_records": 44,
+      "selected_members": 44,
+      "expected_members": 60,
+      "missing_members": 16,
+      "source_complete": false,
+      "identity_status_counts": {
+        "existing_research_exact_cohort_name_suggestion": 35,
+        "legacy_identity_absent_research": 2,
+        "no_exact_legacy_cohort_name": 7
+      },
+      "matched_existing_research_rows": 35,
+      "apparent_training_gaps": 9,
+      "primary_membership_evidence_rows": 1,
+      "provisional_source_attribution_rows": 43
+    },
+    "2008": {
+      "source_records": 60,
+      "selected_members": 60,
+      "expected_members": 60,
+      "missing_members": 0,
+      "source_complete": true,
+      "identity_status_counts": {
+        "existing_research_exact_cohort_name_suggestion": 49,
+        "no_exact_legacy_cohort_name": 9,
+        "legacy_identity_absent_research": 2
+      },
+      "matched_existing_research_rows": 49,
+      "apparent_training_gaps": 11,
+      "primary_membership_evidence_rows": 60,
+      "provisional_source_attribution_rows": 0
+    },
+    "2009": {
+      "source_records": 60,
+      "selected_members": 60,
+      "expected_members": 60,
+      "missing_members": 0,
+      "source_complete": true,
+      "identity_status_counts": {
+        "no_exact_legacy_cohort_name": 11,
+        "existing_research_exact_cohort_name_suggestion": 46,
+        "legacy_identity_absent_research": 3
+      },
+      "matched_existing_research_rows": 46,
+      "apparent_training_gaps": 14,
+      "primary_membership_evidence_rows": 60,
+      "provisional_source_attribution_rows": 0
+    },
+    "2010": {
+      "source_records": 60,
+      "selected_members": 60,
+      "expected_members": 60,
+      "missing_members": 0,
+      "source_complete": true,
+      "identity_status_counts": {
+        "existing_research_exact_cohort_name_suggestion": 51,
+        "no_exact_legacy_cohort_name": 6,
+        "legacy_identity_absent_research": 3
+      },
+      "matched_existing_research_rows": 51,
+      "apparent_training_gaps": 9,
+      "primary_membership_evidence_rows": 60,
+      "provisional_source_attribution_rows": 0
+    },
+    "2011": {
+      "source_records": 61,
+      "selected_members": 59,
+      "expected_members": 60,
+      "missing_members": 1,
+      "source_complete": false,
+      "identity_status_counts": {
+        "existing_research_exact_cohort_name_suggestion": 54,
+        "no_exact_legacy_cohort_name": 5
+      },
+      "matched_existing_research_rows": 54,
+      "apparent_training_gaps": 5,
+      "primary_membership_evidence_rows": 59,
+      "provisional_source_attribution_rows": 0
+    }
+  },
+  "expected_members": 300,
+  "recovered_source_members": 283,
+  "missing_source_members": 17,
+  "matched_existing_research_rows": 235,
+  "apparent_training_gaps": 48,
+  "all_cohorts_complete": false,
+  "model_ready": false
+}

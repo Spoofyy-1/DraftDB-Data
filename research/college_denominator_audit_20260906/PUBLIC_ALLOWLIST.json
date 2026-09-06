@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "files": {
+    "README.md": {
+      "sha256": "1d940f8b85e1dbcac0f3ef7b0f782085185666dba1a375ef1497cbd63cc5e53c",
+      "bytes": 6094
+    },
+    "build.py": {
+      "sha256": "1b6623be241afc708a98cebf21c364f4af0b873bcbfdcfb76f256759feea4c52",
+      "bytes": 9765
+    },
+    "tests.py": {
+      "sha256": "b728488a09b7264e6012a3de81a44df1f704a6a0ceb0bcaf3aa53611038db788",
+      "bytes": 4346
+    },
+    "sample_registration.json": {
+      "sha256": "3ee6a356f10281d71b31fb32dd7876e63f90f7232eaf6fc0e64364a92f5b4093",
+      "bytes": 935
+    },
+    "network_ledger.json": {
+      "sha256": "c5fbba1ecd01979f8e179fbfa9e45c1083bd27483c04d7afd34d1635f1a9c036",
+      "bytes": 2510
+    },
+    "official_evidence.json": {
+      "sha256": "97fd9287ea61d67765789744a8a53cfffb852fdda92480d018ec924d90e69703",
+      "bytes": 3417
+    },
+    "schema_manifest.json": {
+      "sha256": "e5efcb6e57e66e2f528e48bfb6103480a1b7057400aa6c04f0c93bcfeb832e1a",
+      "bytes": 2261
+    },
+    "same_subset_basics_candidate.csv": {
+      "sha256": "dd07b1715490c8b5386f8f3eff7f84b8d27b735a9f70fac33ff31422064d6aff",
+      "bytes": 3216
+    },
+    "same_subset_totals.csv": {
+      "sha256": "9144043bc7ebe6cd59b1a04e84dafc221f8601d685c0253045ba7d6454df2cb8",
+      "bytes": 1043
+    },
+    "annual_pg_comparison.csv": {
+      "sha256": "9b20dfd82339029dd8956e3959c936d528e4ef95944f171ba3dfad4d97803047",
+      "bytes": 5672
+    },
+    "official_pg_denominator_comparison.csv": {
+      "sha256": "9cf654017014ca25995237b55db295bc27f312a5f0ca51c8d8abc83533b215f0",
+      "bytes": 899
+    },
+    "game_lineage.csv": {
+      "sha256": "370f6ce45a69ea2bbbb54e396b955b57886e56dea3d09b255278a0e2523d021f",
+      "bytes": 53276
+    },
+    "summary.json": {
+      "sha256": "a54869a35b92bee0be778b440b3d5ebe6d65de66319231d7cbd0c7306ed06cdc",
+      "bytes": 3062
+    },
+    "verification.json": {
+      "sha256": "27ecb2b72086b0415cf57066bb8db3de8a2a8aa7a7c578d89aad7c66528c114d",
+      "bytes": 302
+    }
+  },
+  "private_excluded": [
+    "private/",
+    "__pycache__/"
+  ],
+  "public_files_contain_no_copied_full_articles": true,
+  "factual_numeric_projection_not_original_page_hash": true,
+  "model_eligible": false,
+  "no_labels_scores_or_actual_NBA_draft_positions": true
+}

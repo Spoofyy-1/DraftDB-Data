@@ -1,0 +1,85 @@
+{
+  "study": "R8x pair-complement screen",
+  "status": "Research design frozen; implementation/runtime registration pending orchestration benchmark",
+  "source_study": "R8w",
+  "source_state_sha256": "8dac36b3bbed501735cec57d3fa48ad5b77ac5e7f3f7428cec338c1e76b761ec",
+  "selection_rule": "Every W field with real mean above fixed45-column baseline and positive matched gains in each fold mean and each model-seed mean. Exploratory selection on pre2019 development only.",
+  "selected_features": [
+    "f50_career_slope_ftp",
+    "f50_career_slope_usage",
+    "f50_nondunk_rim_pct",
+    "f50_peer_rank_orb",
+    "f50_posterior_rim"
+  ],
+  "pairs": [
+    [
+      "f50_career_slope_ftp",
+      "f50_career_slope_usage"
+    ],
+    [
+      "f50_career_slope_ftp",
+      "f50_nondunk_rim_pct"
+    ],
+    [
+      "f50_career_slope_ftp",
+      "f50_peer_rank_orb"
+    ],
+    [
+      "f50_career_slope_ftp",
+      "f50_posterior_rim"
+    ],
+    [
+      "f50_career_slope_usage",
+      "f50_nondunk_rim_pct"
+    ],
+    [
+      "f50_career_slope_usage",
+      "f50_peer_rank_orb"
+    ],
+    [
+      "f50_career_slope_usage",
+      "f50_posterior_rim"
+    ],
+    [
+      "f50_nondunk_rim_pct",
+      "f50_peer_rank_orb"
+    ],
+    [
+      "f50_nondunk_rim_pct",
+      "f50_posterior_rim"
+    ],
+    [
+      "f50_peer_rank_orb",
+      "f50_posterior_rim"
+    ]
+  ],
+  "fixed_backbone": "R8w source-college41 + real dated consensus4; TabICL32, same source/labels/canonical order/tie handling",
+  "seeds": [
+    0,
+    101,
+    202
+  ],
+  "permutation_seeds": [
+    9317,
+    18739,
+    28657
+  ],
+  "arms_per_pair": {
+    "RR": "Both actual values,3 model seeds",
+    "RP": "A real; B shuffled within cohort/role/missingness,3x3",
+    "PR": "A shuffled; B real,3x3",
+    "PP": "Whole two-column vectors shuffled within cohort/role/joint missingness, preserving pair distribution,3x3"
+  },
+  "task_count": 318,
+  "task_breakdown": {
+    "baseline_replays": 3,
+    "W_single_feature_replays": 15,
+    "pair_tasks": 300
+  },
+  "mandatory_replay_gate": "All18 W reference tasks must exactly reproduce raw/canonical predictions and scores before interpretation.",
+  "slot_policy": "Singles use unchanged W slot041 and46 columns. Pairs use fixed slots041/042 and47 columns; alphabetical feature assignment. Real/control pair widths identical.",
+  "comparison": "Both RR-minus-RP and RR-minus-PR conditional gains, with joint RR-minus-PP separately. Report fold and seed variation and actual RR change relative to baseline and both unchanged single-feature means. Cross-feature dependence can be broken by conditional shuffles; these are usability diagnostics, not conditional-randomization significance tests.",
+  "exploratory_complement_candidate_rule": "Positive mean conditional gains for both features, positive means in every development fold, and actual pair mean exceeding each W single-feature mean. No automatic promotion; report all10 pairs, including failed gates.",
+  "no_new_test_or_confirmation_scoring": true,
+  "no_model_changes_for_speed": "Only the independently benchmarked scheduler/worker count may change; predictor/data/seed settings remain fixed."
+}
