@@ -1,0 +1,1025 @@
+{
+  "plan": {
+    "backbone": {
+      "icl_n": 32,
+      "topk": 60,
+      "M": 400,
+      "window": 2007,
+      "hw": "uniform",
+      "noscout": 1,
+      "drop": [
+        "scout_",
+        "col_bpm_pct_",
+        "col_usg_pct_",
+        "col_ts_pct_",
+        "col_ast_pct_",
+        "col_stl_pct_",
+        "col_blk_pct_",
+        "col_orb_pct_",
+        "col_shot_proj_"
+      ]
+    },
+    "folds": [
+      2012,
+      2013,
+      2014
+    ],
+    "seeds": [
+      0,
+      101,
+      202
+    ],
+    "permutation_seeds": [
+      9317,
+      18739,
+      28657
+    ],
+    "source_filter": {
+      "min_training_observed": 5,
+      "min_training_unique": 2,
+      "validation_coverage_used": false
+    },
+    "calendar_policy": "For predicted year Y, training only earlier cohorts and actual NBA season_end <=Y-1. Development scoring labels <=2018. No2019-2026 answers available.",
+    "confirmation_note": "Any later literal as-of outer-year confirmation must select inside its own season cutoff; selection using development truths through2018 cannot be called known at a2015-2017 decision date.",
+    "baseline_source_variant": {
+      "id": "dated_raw_college_source_control",
+      "input_source": "context",
+      "context_features": [
+        "ctx_base_gp",
+        "ctx_base_minutes_share",
+        "ctx_base_usage",
+        "ctx_base_efg",
+        "ctx_base_ts",
+        "ctx_base_orb",
+        "ctx_base_drb",
+        "ctx_base_ast_pct",
+        "ctx_base_tov_pct",
+        "ctx_base_ftm",
+        "ctx_base_fta",
+        "ctx_base_ft_pct",
+        "ctx_base_fg2m",
+        "ctx_base_fg2a",
+        "ctx_base_fg2_pct",
+        "ctx_base_fg3m",
+        "ctx_base_fg3a",
+        "ctx_base_fg3_pct",
+        "ctx_base_blk_pct",
+        "ctx_base_stl_pct",
+        "ctx_base_ftr",
+        "ctx_base_fouls40",
+        "ctx_base_ast_tov",
+        "ctx_base_rim_made",
+        "ctx_base_rim_attempts",
+        "ctx_base_mid_made",
+        "ctx_base_mid_attempts",
+        "ctx_base_dunk_made",
+        "ctx_base_dunk_attempts",
+        "ctx_base_mpg",
+        "ctx_base_oreb_pg",
+        "ctx_base_dreb_pg",
+        "ctx_base_ast_pg",
+        "ctx_base_stl_pg",
+        "ctx_base_blk_pg",
+        "ctx_base_pts_pg",
+        "ctx_base_three_share",
+        "ctx_skill_defense_discipline",
+        "ctx_skill_creation_control",
+        "ctx_skill_usage_efficiency",
+        "ctx_skill_ft_volume"
+      ]
+    },
+    "study": "R8v fixed model-family comparison",
+    "diagnostic_only": true,
+    "purpose": "Compare model families on identical canonical source-college+consensus data, with a fixed optional shooting-guard indicator.",
+    "no_confirmation_or_test_scoring": true,
+    "backgrounds": {
+      "college_consensus": false,
+      "college_consensus_sg": true
+    },
+    "variants": [
+      {
+        "id": "college_consensus_tabicl16",
+        "background": "college_consensus",
+        "model_id": "tabicl16",
+        "bio_arm": "absent",
+        "feature": null,
+        "arms": {
+          "consensus": "real"
+        },
+        "permutation_seed": null
+      },
+      {
+        "id": "college_consensus_tabicl32",
+        "background": "college_consensus",
+        "model_id": "tabicl32",
+        "bio_arm": "absent",
+        "feature": null,
+        "arms": {
+          "consensus": "real"
+        },
+        "permutation_seed": null
+      },
+      {
+        "id": "college_consensus_tabicl45",
+        "background": "college_consensus",
+        "model_id": "tabicl45",
+        "bio_arm": "absent",
+        "feature": null,
+        "arms": {
+          "consensus": "real"
+        },
+        "permutation_seed": null
+      },
+      {
+        "id": "college_consensus_ridge30",
+        "background": "college_consensus",
+        "model_id": "ridge30",
+        "bio_arm": "absent",
+        "feature": null,
+        "arms": {
+          "consensus": "real"
+        },
+        "permutation_seed": null
+      },
+      {
+        "id": "college_consensus_ridge300",
+        "background": "college_consensus",
+        "model_id": "ridge300",
+        "bio_arm": "absent",
+        "feature": null,
+        "arms": {
+          "consensus": "real"
+        },
+        "permutation_seed": null
+      },
+      {
+        "id": "college_consensus_ridge3000",
+        "background": "college_consensus",
+        "model_id": "ridge3000",
+        "bio_arm": "absent",
+        "feature": null,
+        "arms": {
+          "consensus": "real"
+        },
+        "permutation_seed": null
+      },
+      {
+        "id": "college_consensus_extratrees_leaf5",
+        "background": "college_consensus",
+        "model_id": "extratrees_leaf5",
+        "bio_arm": "absent",
+        "feature": null,
+        "arms": {
+          "consensus": "real"
+        },
+        "permutation_seed": null
+      },
+      {
+        "id": "college_consensus_extratrees_leaf15",
+        "background": "college_consensus",
+        "model_id": "extratrees_leaf15",
+        "bio_arm": "absent",
+        "feature": null,
+        "arms": {
+          "consensus": "real"
+        },
+        "permutation_seed": null
+      },
+      {
+        "id": "college_consensus_xgb_depth3",
+        "background": "college_consensus",
+        "model_id": "xgb_depth3",
+        "bio_arm": "absent",
+        "feature": null,
+        "arms": {
+          "consensus": "real"
+        },
+        "permutation_seed": null
+      },
+      {
+        "id": "college_consensus_xgb_depth5",
+        "background": "college_consensus",
+        "model_id": "xgb_depth5",
+        "bio_arm": "absent",
+        "feature": null,
+        "arms": {
+          "consensus": "real"
+        },
+        "permutation_seed": null
+      },
+      {
+        "id": "college_consensus_sg_tabicl16",
+        "background": "college_consensus_sg",
+        "model_id": "tabicl16",
+        "bio_arm": "real",
+        "feature": "vmb_position_sg",
+        "arms": {
+          "consensus": "real",
+          "bio": "real"
+        },
+        "permutation_seed": null
+      },
+      {
+        "id": "college_consensus_sg_tabicl32",
+        "background": "college_consensus_sg",
+        "model_id": "tabicl32",
+        "bio_arm": "real",
+        "feature": "vmb_position_sg",
+        "arms": {
+          "consensus": "real",
+          "bio": "real"
+        },
+        "permutation_seed": null
+      },
+      {
+        "id": "college_consensus_sg_tabicl45",
+        "background": "college_consensus_sg",
+        "model_id": "tabicl45",
+        "bio_arm": "real",
+        "feature": "vmb_position_sg",
+        "arms": {
+          "consensus": "real",
+          "bio": "real"
+        },
+        "permutation_seed": null
+      },
+      {
+        "id": "college_consensus_sg_ridge30",
+        "background": "college_consensus_sg",
+        "model_id": "ridge30",
+        "bio_arm": "real",
+        "feature": "vmb_position_sg",
+        "arms": {
+          "consensus": "real",
+          "bio": "real"
+        },
+        "permutation_seed": null
+      },
+      {
+        "id": "college_consensus_sg_ridge300",
+        "background": "college_consensus_sg",
+        "model_id": "ridge300",
+        "bio_arm": "real",
+        "feature": "vmb_position_sg",
+        "arms": {
+          "consensus": "real",
+          "bio": "real"
+        },
+        "permutation_seed": null
+      },
+      {
+        "id": "college_consensus_sg_ridge3000",
+        "background": "college_consensus_sg",
+        "model_id": "ridge3000",
+        "bio_arm": "real",
+        "feature": "vmb_position_sg",
+        "arms": {
+          "consensus": "real",
+          "bio": "real"
+        },
+        "permutation_seed": null
+      },
+      {
+        "id": "college_consensus_sg_extratrees_leaf5",
+        "background": "college_consensus_sg",
+        "model_id": "extratrees_leaf5",
+        "bio_arm": "real",
+        "feature": "vmb_position_sg",
+        "arms": {
+          "consensus": "real",
+          "bio": "real"
+        },
+        "permutation_seed": null
+      },
+      {
+        "id": "college_consensus_sg_extratrees_leaf15",
+        "background": "college_consensus_sg",
+        "model_id": "extratrees_leaf15",
+        "bio_arm": "real",
+        "feature": "vmb_position_sg",
+        "arms": {
+          "consensus": "real",
+          "bio": "real"
+        },
+        "permutation_seed": null
+      },
+      {
+        "id": "college_consensus_sg_xgb_depth3",
+        "background": "college_consensus_sg",
+        "model_id": "xgb_depth3",
+        "bio_arm": "real",
+        "feature": "vmb_position_sg",
+        "arms": {
+          "consensus": "real",
+          "bio": "real"
+        },
+        "permutation_seed": null
+      },
+      {
+        "id": "college_consensus_sg_xgb_depth5",
+        "background": "college_consensus_sg",
+        "model_id": "xgb_depth5",
+        "bio_arm": "real",
+        "feature": "vmb_position_sg",
+        "arms": {
+          "consensus": "real",
+          "bio": "real"
+        },
+        "permutation_seed": null
+      }
+    ],
+    "families": {
+      "combine": [
+        "vcmb_height_without_shoes_in",
+        "vcmb_height_with_shoes_in",
+        "vcmb_weight_lb",
+        "vcmb_wingspan_in",
+        "vcmb_standing_reach_in",
+        "vcmb_body_fat_pct",
+        "vcmb_hand_length_in",
+        "vcmb_hand_width_in",
+        "vcmb_bmi_kg_m2",
+        "vcmb_wingspan_minus_height_in",
+        "vcmb_standing_vertical_in",
+        "vcmb_max_vertical_in",
+        "vcmb_lane_agility_s",
+        "vcmb_modified_lane_agility_s",
+        "vcmb_three_quarter_sprint_s",
+        "vcmb_bench_press_reps",
+        "vcmb_spot_15ft_made",
+        "vcmb_spot_15ft_attempted",
+        "vcmb_spot_15ft_pct",
+        "vcmb_spot_college3_made",
+        "vcmb_spot_college3_attempted",
+        "vcmb_spot_college3_pct",
+        "vcmb_spot_nba3_made",
+        "vcmb_spot_nba3_attempted",
+        "vcmb_spot_nba3_pct",
+        "vcmb_off_dribble_15ft_made",
+        "vcmb_off_dribble_15ft_attempted",
+        "vcmb_off_dribble_15ft_pct",
+        "vcmb_off_dribble_college3_made",
+        "vcmb_off_dribble_college3_attempted",
+        "vcmb_off_dribble_college3_pct",
+        "vcmb_on_move_15ft_made",
+        "vcmb_on_move_15ft_attempted",
+        "vcmb_on_move_15ft_pct",
+        "vcmb_on_move_college3_made",
+        "vcmb_on_move_college3_attempted",
+        "vcmb_on_move_college3_pct"
+      ],
+      "consensus": [
+        "vcons_mock_mean_rank",
+        "vcons_mock_best_rank",
+        "vcons_mock_rank_range",
+        "vcons_mock_n_sources"
+      ],
+      "bio": [
+        "vmb_age_reported_years",
+        "vmb_listed_height_in",
+        "vmb_listed_weight_lb",
+        "vmb_listed_bmi",
+        "vmb_college_class_year",
+        "vmb_position_pg",
+        "vmb_position_sg",
+        "vmb_position_sf",
+        "vmb_position_pf",
+        "vmb_position_c"
+      ]
+    },
+    "baseline": "college_consensus_tabicl32",
+    "training_eligibility_registration": {
+      "2012": {
+        "combine": [
+          "vcmb_height_without_shoes_in",
+          "vcmb_height_with_shoes_in",
+          "vcmb_weight_lb",
+          "vcmb_wingspan_in",
+          "vcmb_standing_reach_in",
+          "vcmb_body_fat_pct",
+          "vcmb_hand_length_in",
+          "vcmb_hand_width_in",
+          "vcmb_bmi_kg_m2",
+          "vcmb_wingspan_minus_height_in",
+          "vcmb_standing_vertical_in",
+          "vcmb_max_vertical_in",
+          "vcmb_lane_agility_s",
+          "vcmb_three_quarter_sprint_s",
+          "vcmb_bench_press_reps"
+        ],
+        "consensus": [
+          "vcons_mock_mean_rank",
+          "vcons_mock_best_rank",
+          "vcons_mock_rank_range",
+          "vcons_mock_n_sources"
+        ],
+        "bio": [
+          "vmb_age_reported_years",
+          "vmb_listed_height_in",
+          "vmb_listed_weight_lb",
+          "vmb_listed_bmi",
+          "vmb_college_class_year",
+          "vmb_position_pg",
+          "vmb_position_sg",
+          "vmb_position_sf",
+          "vmb_position_pf",
+          "vmb_position_c"
+        ]
+      },
+      "2013": {
+        "combine": [
+          "vcmb_height_without_shoes_in",
+          "vcmb_height_with_shoes_in",
+          "vcmb_weight_lb",
+          "vcmb_wingspan_in",
+          "vcmb_standing_reach_in",
+          "vcmb_body_fat_pct",
+          "vcmb_hand_length_in",
+          "vcmb_hand_width_in",
+          "vcmb_bmi_kg_m2",
+          "vcmb_wingspan_minus_height_in",
+          "vcmb_standing_vertical_in",
+          "vcmb_max_vertical_in",
+          "vcmb_lane_agility_s",
+          "vcmb_three_quarter_sprint_s",
+          "vcmb_bench_press_reps"
+        ],
+        "consensus": [
+          "vcons_mock_mean_rank",
+          "vcons_mock_best_rank",
+          "vcons_mock_rank_range",
+          "vcons_mock_n_sources"
+        ],
+        "bio": [
+          "vmb_age_reported_years",
+          "vmb_listed_height_in",
+          "vmb_listed_weight_lb",
+          "vmb_listed_bmi",
+          "vmb_college_class_year",
+          "vmb_position_pg",
+          "vmb_position_sg",
+          "vmb_position_sf",
+          "vmb_position_pf",
+          "vmb_position_c"
+        ]
+      },
+      "2014": {
+        "combine": [
+          "vcmb_height_without_shoes_in",
+          "vcmb_height_with_shoes_in",
+          "vcmb_weight_lb",
+          "vcmb_wingspan_in",
+          "vcmb_standing_reach_in",
+          "vcmb_body_fat_pct",
+          "vcmb_hand_length_in",
+          "vcmb_hand_width_in",
+          "vcmb_bmi_kg_m2",
+          "vcmb_wingspan_minus_height_in",
+          "vcmb_standing_vertical_in",
+          "vcmb_max_vertical_in",
+          "vcmb_lane_agility_s",
+          "vcmb_three_quarter_sprint_s",
+          "vcmb_bench_press_reps"
+        ],
+        "consensus": [
+          "vcons_mock_mean_rank",
+          "vcons_mock_best_rank",
+          "vcons_mock_rank_range",
+          "vcons_mock_n_sources"
+        ],
+        "bio": [
+          "vmb_age_reported_years",
+          "vmb_listed_height_in",
+          "vmb_listed_weight_lb",
+          "vmb_listed_bmi",
+          "vmb_college_class_year",
+          "vmb_position_pg",
+          "vmb_position_sg",
+          "vmb_position_sf",
+          "vmb_position_pf",
+          "vmb_position_c"
+        ]
+      }
+    },
+    "model_constructor": {
+      "device": "cuda",
+      "n_estimators": 32,
+      "random_state": "task_seed",
+      "batch_size": 32,
+      "norm_methods": "none",
+      "outlier_threshold": 2.0
+    },
+    "slot_mapping": {
+      "vcmb_height_without_shoes_in": "slot_000",
+      "vcmb_height_with_shoes_in": "slot_001",
+      "vcmb_weight_lb": "slot_002",
+      "vcmb_wingspan_in": "slot_003",
+      "vcmb_standing_reach_in": "slot_004",
+      "vcmb_body_fat_pct": "slot_005",
+      "vcmb_hand_length_in": "slot_006",
+      "vcmb_hand_width_in": "slot_007",
+      "vcmb_bmi_kg_m2": "slot_008",
+      "vcmb_wingspan_minus_height_in": "slot_009",
+      "vcmb_standing_vertical_in": "slot_010",
+      "vcmb_max_vertical_in": "slot_011",
+      "vcmb_lane_agility_s": "slot_012",
+      "vcmb_modified_lane_agility_s": "slot_013",
+      "vcmb_three_quarter_sprint_s": "slot_014",
+      "vcmb_bench_press_reps": "slot_015",
+      "vcmb_spot_15ft_made": "slot_016",
+      "vcmb_spot_15ft_attempted": "slot_017",
+      "vcmb_spot_15ft_pct": "slot_018",
+      "vcmb_spot_college3_made": "slot_019",
+      "vcmb_spot_college3_attempted": "slot_020",
+      "vcmb_spot_college3_pct": "slot_021",
+      "vcmb_spot_nba3_made": "slot_022",
+      "vcmb_spot_nba3_attempted": "slot_023",
+      "vcmb_spot_nba3_pct": "slot_024",
+      "vcmb_off_dribble_15ft_made": "slot_025",
+      "vcmb_off_dribble_15ft_attempted": "slot_026",
+      "vcmb_off_dribble_15ft_pct": "slot_027",
+      "vcmb_off_dribble_college3_made": "slot_028",
+      "vcmb_off_dribble_college3_attempted": "slot_029",
+      "vcmb_off_dribble_college3_pct": "slot_030",
+      "vcmb_on_move_15ft_made": "slot_031",
+      "vcmb_on_move_15ft_attempted": "slot_032",
+      "vcmb_on_move_15ft_pct": "slot_033",
+      "vcmb_on_move_college3_made": "slot_034",
+      "vcmb_on_move_college3_attempted": "slot_035",
+      "vcmb_on_move_college3_pct": "slot_036",
+      "vcons_mock_mean_rank": "slot_037",
+      "vcons_mock_best_rank": "slot_038",
+      "vcons_mock_rank_range": "slot_039",
+      "vcons_mock_n_sources": "slot_040",
+      "vmb_age_reported_years": "slot_041",
+      "vmb_listed_height_in": "slot_042",
+      "vmb_listed_weight_lb": "slot_043",
+      "vmb_listed_bmi": "slot_044",
+      "vmb_college_class_year": "slot_045",
+      "vmb_position_pg": "slot_046",
+      "vmb_position_sg": "slot_047",
+      "vmb_position_sf": "slot_048",
+      "vmb_position_pf": "slot_049",
+      "vmb_position_c": "slot_050"
+    },
+    "selection": {
+      "base_features": 41,
+      "selector_seed": 11,
+      "scope": "Fit the unchanged CPU selector on the41 source columns after canonical training order; retain all41 in its importance ordering. Appended family eligibility uses training rows only."
+    },
+    "ordering_policy": {
+      "version": "sha256_pid_exact_vector_mean_v1",
+      "row_order": "Sort train and query rows by SHA256(UTF8(pid)), with pid as deterministic collision tiebreaker, before selection and prediction. Identity/order keys never become predictors.",
+      "input_equivalence": "All selected predictor values must be numerically identical. NaNs compare equal; positive/negative zero compare equal. Distinct vectors are never quantized or merged.",
+      "prediction_ties": "Within each query group of exactly identical full predictor vectors, assign every row the arithmetic mean of its raw predictions using math.fsum over sorted float64 values.",
+      "raw_preservation": "Save raw and canonical prediction for every pid, exact duplicate groups and policy hash. All scoring uses canonical predictions with Spearman average ranks.",
+      "registration_basis": "R8order numerical audit found8 all-missing duplicate inputs with floating-point score splitting; no outcome score was used to choose this policy.",
+      "new_baseline": "Every background baseline reruns under this policy. Do not pool these scores with raw-prediction R8s or earlier studies."
+    },
+    "summary": {
+      "primary": "Report every registered model/background mean and fold scores; model seeds are repeated diagnostics, not independent datasets.",
+      "baseline_replay": "Before interpreting, all six TabICL32 baseline/SG tasks must reproduce completed R8u scores and raw/canonical prediction vectors exactly.",
+      "automatic_promotion": false,
+      "blends": "No blends, combinations, hyperparameter extension or promotion."
+    },
+    "registration_basis": "Fixed model grid requested after completed pre2019 R8u study. SG is the sole optional background selected from that development study; no2019+ test or confirmation data used.",
+    "execution": {
+      "workers": 4,
+      "task_count": 48,
+      "xgboost_selector": "cpu",
+      "predictor": "Interleaved GPU TabICL and CPU Ridge/ExtraTrees/XGBoost",
+      "gpu_launch_performed": false,
+      "max_runtime_seconds": 7200,
+      "memory_max": "140G",
+      "cpu_quota": "2200%",
+      "queue_order": [
+        "tabicl16",
+        "ridge30",
+        "extratrees_leaf5",
+        "xgb_depth3",
+        "tabicl32",
+        "ridge300",
+        "extratrees_leaf15",
+        "xgb_depth5",
+        "tabicl45",
+        "ridge3000"
+      ]
+    },
+    "single_features": [
+      "vmb_position_sg"
+    ],
+    "common_bio_slot": "slot_041",
+    "models": {
+      "tabicl16": {
+        "family": "tabicl",
+        "seeds": [
+          0,
+          101,
+          202
+        ],
+        "resource": "gpu",
+        "parameters": {
+          "device": "cuda",
+          "n_estimators": 16,
+          "random_state": "task_seed",
+          "batch_size": 32,
+          "norm_methods": "none",
+          "outlier_threshold": 2.0
+        }
+      },
+      "tabicl32": {
+        "family": "tabicl",
+        "seeds": [
+          0,
+          101,
+          202
+        ],
+        "resource": "gpu",
+        "parameters": {
+          "device": "cuda",
+          "n_estimators": 32,
+          "random_state": "task_seed",
+          "batch_size": 32,
+          "norm_methods": "none",
+          "outlier_threshold": 2.0
+        }
+      },
+      "tabicl45": {
+        "family": "tabicl",
+        "seeds": [
+          0,
+          101,
+          202
+        ],
+        "resource": "gpu",
+        "parameters": {
+          "device": "cuda",
+          "n_estimators": 45,
+          "random_state": "task_seed",
+          "batch_size": 32,
+          "norm_methods": "none",
+          "outlier_threshold": 2.0
+        }
+      },
+      "ridge30": {
+        "family": "ridge",
+        "seeds": [
+          0
+        ],
+        "resource": "cpu",
+        "parameters": {
+          "alpha": 30,
+          "solver": "svd"
+        },
+        "preprocessing": {
+          "imputer": {
+            "strategy": "median",
+            "add_indicator": true,
+            "keep_empty_features": true
+          },
+          "scaler": {
+            "with_mean": true,
+            "with_std": true
+          },
+          "fit_scope": "training only; all-missing training columns retained as0; missing indicators created from training missingness only"
+        }
+      },
+      "ridge300": {
+        "family": "ridge",
+        "seeds": [
+          0
+        ],
+        "resource": "cpu",
+        "parameters": {
+          "alpha": 300,
+          "solver": "svd"
+        },
+        "preprocessing": {
+          "imputer": {
+            "strategy": "median",
+            "add_indicator": true,
+            "keep_empty_features": true
+          },
+          "scaler": {
+            "with_mean": true,
+            "with_std": true
+          },
+          "fit_scope": "training only; all-missing training columns retained as0; missing indicators created from training missingness only"
+        }
+      },
+      "ridge3000": {
+        "family": "ridge",
+        "seeds": [
+          0
+        ],
+        "resource": "cpu",
+        "parameters": {
+          "alpha": 3000,
+          "solver": "svd"
+        },
+        "preprocessing": {
+          "imputer": {
+            "strategy": "median",
+            "add_indicator": true,
+            "keep_empty_features": true
+          },
+          "scaler": {
+            "with_mean": true,
+            "with_std": true
+          },
+          "fit_scope": "training only; all-missing training columns retained as0; missing indicators created from training missingness only"
+        }
+      },
+      "extratrees_leaf5": {
+        "family": "extratrees",
+        "seeds": [
+          0,
+          101,
+          202
+        ],
+        "resource": "cpu",
+        "parameters": {
+          "n_estimators": 500,
+          "min_samples_leaf": 5,
+          "max_features": 0.7,
+          "n_jobs": 2,
+          "random_state": "task_seed"
+        }
+      },
+      "extratrees_leaf15": {
+        "family": "extratrees",
+        "seeds": [
+          0,
+          101,
+          202
+        ],
+        "resource": "cpu",
+        "parameters": {
+          "n_estimators": 500,
+          "min_samples_leaf": 15,
+          "max_features": 0.7,
+          "n_jobs": 2,
+          "random_state": "task_seed"
+        }
+      },
+      "xgb_depth3": {
+        "family": "xgb",
+        "seeds": [
+          0,
+          101,
+          202
+        ],
+        "resource": "cpu",
+        "parameters": {
+          "max_depth": 3,
+          "n_estimators": 300,
+          "learning_rate": 0.05,
+          "min_child_weight": 5,
+          "reg_lambda": 5,
+          "subsample": 0.8,
+          "colsample_bytree": 0.8,
+          "n_jobs": 2,
+          "device": "cpu",
+          "tree_method": "hist",
+          "objective": "reg:squarederror",
+          "random_state": "task_seed"
+        }
+      },
+      "xgb_depth5": {
+        "family": "xgb",
+        "seeds": [
+          0,
+          101,
+          202
+        ],
+        "resource": "cpu",
+        "parameters": {
+          "max_depth": 5,
+          "n_estimators": 300,
+          "learning_rate": 0.05,
+          "min_child_weight": 5,
+          "reg_lambda": 5,
+          "subsample": 0.8,
+          "colsample_bytree": 0.8,
+          "n_jobs": 2,
+          "device": "cpu",
+          "tree_method": "hist",
+          "objective": "reg:squarederror",
+          "random_state": "task_seed"
+        }
+      }
+    },
+    "tasks": [
+      {
+        "variant": "college_consensus_tabicl16",
+        "seed": 0
+      },
+      {
+        "variant": "college_consensus_sg_tabicl16",
+        "seed": 0
+      },
+      {
+        "variant": "college_consensus_ridge30",
+        "seed": 0
+      },
+      {
+        "variant": "college_consensus_sg_ridge30",
+        "seed": 0
+      },
+      {
+        "variant": "college_consensus_extratrees_leaf5",
+        "seed": 0
+      },
+      {
+        "variant": "college_consensus_sg_extratrees_leaf5",
+        "seed": 0
+      },
+      {
+        "variant": "college_consensus_xgb_depth3",
+        "seed": 0
+      },
+      {
+        "variant": "college_consensus_sg_xgb_depth3",
+        "seed": 0
+      },
+      {
+        "variant": "college_consensus_tabicl32",
+        "seed": 0
+      },
+      {
+        "variant": "college_consensus_sg_tabicl32",
+        "seed": 0
+      },
+      {
+        "variant": "college_consensus_ridge300",
+        "seed": 0
+      },
+      {
+        "variant": "college_consensus_sg_ridge300",
+        "seed": 0
+      },
+      {
+        "variant": "college_consensus_extratrees_leaf15",
+        "seed": 0
+      },
+      {
+        "variant": "college_consensus_sg_extratrees_leaf15",
+        "seed": 0
+      },
+      {
+        "variant": "college_consensus_xgb_depth5",
+        "seed": 0
+      },
+      {
+        "variant": "college_consensus_sg_xgb_depth5",
+        "seed": 0
+      },
+      {
+        "variant": "college_consensus_tabicl45",
+        "seed": 0
+      },
+      {
+        "variant": "college_consensus_sg_tabicl45",
+        "seed": 0
+      },
+      {
+        "variant": "college_consensus_ridge3000",
+        "seed": 0
+      },
+      {
+        "variant": "college_consensus_sg_ridge3000",
+        "seed": 0
+      },
+      {
+        "variant": "college_consensus_tabicl16",
+        "seed": 101
+      },
+      {
+        "variant": "college_consensus_sg_tabicl16",
+        "seed": 101
+      },
+      {
+        "variant": "college_consensus_extratrees_leaf5",
+        "seed": 101
+      },
+      {
+        "variant": "college_consensus_sg_extratrees_leaf5",
+        "seed": 101
+      },
+      {
+        "variant": "college_consensus_xgb_depth3",
+        "seed": 101
+      },
+      {
+        "variant": "college_consensus_sg_xgb_depth3",
+        "seed": 101
+      },
+      {
+        "variant": "college_consensus_tabicl32",
+        "seed": 101
+      },
+      {
+        "variant": "college_consensus_sg_tabicl32",
+        "seed": 101
+      },
+      {
+        "variant": "college_consensus_extratrees_leaf15",
+        "seed": 101
+      },
+      {
+        "variant": "college_consensus_sg_extratrees_leaf15",
+        "seed": 101
+      },
+      {
+        "variant": "college_consensus_xgb_depth5",
+        "seed": 101
+      },
+      {
+        "variant": "college_consensus_sg_xgb_depth5",
+        "seed": 101
+      },
+      {
+        "variant": "college_consensus_tabicl45",
+        "seed": 101
+      },
+      {
+        "variant": "college_consensus_sg_tabicl45",
+        "seed": 101
+      },
+      {
+        "variant": "college_consensus_tabicl16",
+        "seed": 202
+      },
+      {
+        "variant": "college_consensus_sg_tabicl16",
+        "seed": 202
+      },
+      {
+        "variant": "college_consensus_extratrees_leaf5",
+        "seed": 202
+      },
+      {
+        "variant": "college_consensus_sg_extratrees_leaf5",
+        "seed": 202
+      },
+      {
+        "variant": "college_consensus_xgb_depth3",
+        "seed": 202
+      },
+      {
+        "variant": "college_consensus_sg_xgb_depth3",
+        "seed": 202
+      },
+      {
+        "variant": "college_consensus_tabicl32",
+        "seed": 202
+      },
+      {
+        "variant": "college_consensus_sg_tabicl32",
+        "seed": 202
+      },
+      {
+        "variant": "college_consensus_extratrees_leaf15",
+        "seed": 202
+      },
+      {
+        "variant": "college_consensus_sg_extratrees_leaf15",
+        "seed": 202
+      },
+      {
+        "variant": "college_consensus_xgb_depth5",
+        "seed": 202
+      },
+      {
+        "variant": "college_consensus_sg_xgb_depth5",
+        "seed": 202
+      },
+      {
+        "variant": "college_consensus_tabicl45",
+        "seed": 202
+      },
+      {
+        "variant": "college_consensus_sg_tabicl45",
+        "seed": 202
+      }
+    ]
+  },
+  "sha256": "73b120a6569847298baa29c4dc1e3a0519d74aa18e960c654986c4ffee76d1d2",
+  "code_and_bundle_hashes": {
+    "worker.py": "4a654bc0947c6d98f766ecd23127f60e9b811fc5e0aa9666539271f2f772ba1c",
+    "plan.json": "73b120a6569847298baa29c4dc1e3a0519d74aa18e960c654986c4ffee76d1d2",
+    "prepare_data.py": "d1b2a71355415bd0990ee9adf7a6d3c42dba94e29c0268241926b680ac3a7c81",
+    "preflight.py": "584f8b75d155542206015febd7418478f99a2c97210a9b5f4391664250174068",
+    "preflight.json": "9dfcec11bda71ce1c7e36c1412050f5712bb2146dd28a081a9eab928aa7e8d9d",
+    "cpu_tests.py": "3bf7b4fcbb0682a3a07a2888f26824179edc40840844aa05ac116342ca613575",
+    "research.py": "28b8f5d1896f3049db8b62972740dd63974d0277401ee712fe5275c263eb8f7a",
+    "run_sandbox.sh": "2c6d312c88d8249d9544fa1198ae4479976653038723f05b1fb9229243d7b2a2",
+    "legacy_kernel.py": "ddc58666da0d784a1b67f6b8ee4763599bdce14bb91768893e6fb87af4620ee1",
+    "baseline_reference.json": "909707e2e8d46c49c8df51f0eee703e0d1ced62587d8992dcd0a8b888d78ba94",
+    "data/manifest.json": "9856bafd69e899a26cd387300d4145a5cd8cc2926c75a3a0971a0a385ecaa9d3",
+    "r8u_reference/worker.py": "a1e6e9af519949dbe874632b2eba439945aad8f9abbd227e82d585fd6941ec0c",
+    "r8u_reference/plan.json": "1be9b5a6f774560d9c9be4aa2ef5e3390e211f3be65e308c5b008d547ae6c359",
+    "r8u_reference/legacy_kernel.py": "ddc58666da0d784a1b67f6b8ee4763599bdce14bb91768893e6fb87af4620ee1"
+  },
+  "created": 1788701569.7319994
+}

@@ -1,0 +1,44 @@
+{
+  "scope": "Independent source audit only; no model or feature construction authorization",
+  "fields": 13,
+  "current_raw_fields_approved": 0,
+  "conditional_reconstruction_candidates": [
+    "ORtg",
+    "drtg",
+    "stops"
+  ],
+  "network_operations_including_cached_finds": 12,
+  "raw_player_rows_loaded": 0,
+  "raw_pick_values_read": false,
+  "existing_datasets_modified": false,
+  "files": {
+    "README.md": {
+      "sha256": "c30766cc287f2bedab342748dc8f3a7855b2649cd48af0b00be36929bec292cc",
+      "bytes": 6382
+    },
+    "build_audit.py": {
+      "sha256": "592ab0655cc613d68167c47393898b6756d59cda2f3a9eec52a27f417e8556a5",
+      "bytes": 11273
+    },
+    "field_decisions.csv": {
+      "sha256": "3a2a27b5e6ad4801e91cea3cf65dc4f4872310ef1c617832395890d9f5164e9a",
+      "bytes": 10291
+    },
+    "field_decisions.json": {
+      "sha256": "f67f43582d199395f4b19e5b5ecbef048c386d6a0795f303e34713bdefb533a5",
+      "bytes": 14080
+    },
+    "local_source_audit.json": {
+      "sha256": "ab7a38bb578a8e6e2ecfe4c3f0af9fc1c2c55675188891d8972c3e3cb6d57126",
+      "bytes": 1919
+    },
+    "network_ledger.json": {
+      "sha256": "ca6665dfa0c4eeb148f071f2f2f0e34311042215211338499a76bc6753e4966c",
+      "bytes": 2266
+    },
+    "sources.json": {
+      "sha256": "8000b23c4f13be91e8f11c63367007f6ddffb67db5e2c90004845bb2cf107d67",
+      "bytes": 3919
+    }
+  }
+}

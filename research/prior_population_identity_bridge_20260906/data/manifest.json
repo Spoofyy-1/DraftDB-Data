@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "created_at_utc": "2026-09-06T13:30:00.833599+00:00",
+  "scope": "Two historical identities and their four wrong-person caches only",
+  "crosswalk_input_sha256": "0027597bc3512eefaf2640ace1e091d6a486a1ab65f32bbebea03d89a331574c",
+  "prior_calendar_provenance_sha256": "441952c9084e85c1d25c193f51498cbdf942643c08c81c539605e39a993c4d3d",
+  "private_bridge_output_sha256": "7d90e6966a4369bade86b4c1f1df9f706c046c60c0c41aa8388780ffcc719a5b",
+  "private_wrong_cache_audit_sha256": "84221be1a839d1a7e240a8ab6c3374c36ef18babfd5fa88815f554a65d9afe4d",
+  "private_calendar_proposals_sha256": "13847c273870df27b540599c1bb23250f7d32a026d4a61d438f3e56f29ebcd2d",
+  "numeric_features_exported": 0,
+  "numeric_label_values_exported": 0,
+  "identities_exported_publicly": 0,
+  "initiated_network_requests": 7,
+  "network_request_cap": 12,
+  "existing_files_mutated": false,
+  "model_sandbox_allowlist": []
+}

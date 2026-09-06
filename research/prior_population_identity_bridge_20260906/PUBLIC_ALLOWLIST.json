@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "exhaustive": true,
+  "files": [
+    "README.md",
+    "PUBLIC_ALLOWLIST.json",
+    "verify.py",
+    "test_verify.py",
+    "data/verification.json",
+    "data/manifest.json",
+    "data/validation.json"
+  ],
+  "sha256": {
+    "README.md": "8f2d094aa30b058b31a30044e6061974619b52333d7e2121c80019e0b55c818a",
+    "verify.py": "4eb4698e56829bd819d908b7121eb9ab51c424e38b8f98c23a3318b8be67505d",
+    "test_verify.py": "606f40fda1d8b26f0d8480060dc53272750d13647034d89cfb383d55bc086bb5",
+    "data/verification.json": "79cb2019937a937fda5417c6f9d999278f35bd00e68e70fea7c9269e3f511c78",
+    "data/manifest.json": "b9329c648d07927d46823eff5791eb27fbdcbc3c926a93a7598d19d54e89fd04",
+    "data/validation.json": "382a5d1c4cb16361987a4092dbca53c445084cb2e88f6879f51412f6d38ad856"
+  },
+  "excluded": [
+    "private/**",
+    "all source/global/legacy identity crosswalks",
+    "all names, NBA IDs, Basketball-Reference IDs and birth dates",
+    "all original wrong-cache paths and private PID mappings",
+    "all per-player calendar proposals",
+    "all NBA statistics, outcomes, WAR and label values",
+    "all unspecified files"
+  ],
+  "model_sandbox_allowlist": [],
+  "publication_performed": false,
+  "public_scope": "aggregate verification and generic verification code only"
+}

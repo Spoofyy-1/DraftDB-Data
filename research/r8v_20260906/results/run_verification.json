@@ -1,0 +1,223 @@
+{
+  "status": "completed_verified",
+  "unit": "draftdb-r8v-20260906",
+  "invocation_id": "8a9d8d645fbb4e12b33d363446bda030",
+  "tasks": 48,
+  "errors": 0,
+  "elapsed_seconds": 34.1,
+  "tasks_per_minute": 84.46,
+  "frozen_files_unchanged": 14,
+  "summary_recomputed_exact": true,
+  "exact_baseline_replays": [
+    {
+      "background": "college_consensus",
+      "seed": 0,
+      "exact_score_and_predictions": true
+    },
+    {
+      "background": "college_consensus",
+      "seed": 101,
+      "exact_score_and_predictions": true
+    },
+    {
+      "background": "college_consensus",
+      "seed": 202,
+      "exact_score_and_predictions": true
+    },
+    {
+      "background": "college_consensus_sg",
+      "seed": 0,
+      "exact_score_and_predictions": true
+    },
+    {
+      "background": "college_consensus_sg",
+      "seed": 101,
+      "exact_score_and_predictions": true
+    },
+    {
+      "background": "college_consensus_sg",
+      "seed": 202,
+      "exact_score_and_predictions": true
+    }
+  ],
+  "effective_tabicl_counts": {
+    "tabicl16": [
+      16
+    ],
+    "tabicl32": [
+      32
+    ],
+    "tabicl45": [
+      45
+    ]
+  },
+  "effective_tabicl_feature_widths": {
+    "college_consensus": [
+      45
+    ],
+    "college_consensus_sg": [
+      46
+    ]
+  },
+  "installed_versions": [
+    {
+      "scikit-learn": "1.9.0",
+      "tabicl": "2.2.0",
+      "xgboost": "3.4.1"
+    }
+  ],
+  "ridge_preprocessing_audits": [
+    {
+      "task": "college_consensus_ridge30_seed0",
+      "year": 2012,
+      "training_samples": 251,
+      "input_width": 45,
+      "transformed_width": 90,
+      "missing_indicator_count": 45
+    },
+    {
+      "task": "college_consensus_ridge30_seed0",
+      "year": 2013,
+      "training_samples": 329,
+      "input_width": 45,
+      "transformed_width": 90,
+      "missing_indicator_count": 45
+    },
+    {
+      "task": "college_consensus_ridge30_seed0",
+      "year": 2014,
+      "training_samples": 403,
+      "input_width": 45,
+      "transformed_width": 90,
+      "missing_indicator_count": 45
+    },
+    {
+      "task": "college_consensus_sg_ridge30_seed0",
+      "year": 2012,
+      "training_samples": 251,
+      "input_width": 46,
+      "transformed_width": 92,
+      "missing_indicator_count": 46
+    },
+    {
+      "task": "college_consensus_sg_ridge30_seed0",
+      "year": 2013,
+      "training_samples": 329,
+      "input_width": 46,
+      "transformed_width": 92,
+      "missing_indicator_count": 46
+    },
+    {
+      "task": "college_consensus_sg_ridge30_seed0",
+      "year": 2014,
+      "training_samples": 403,
+      "input_width": 46,
+      "transformed_width": 92,
+      "missing_indicator_count": 46
+    },
+    {
+      "task": "college_consensus_ridge300_seed0",
+      "year": 2012,
+      "training_samples": 251,
+      "input_width": 45,
+      "transformed_width": 90,
+      "missing_indicator_count": 45
+    },
+    {
+      "task": "college_consensus_ridge300_seed0",
+      "year": 2013,
+      "training_samples": 329,
+      "input_width": 45,
+      "transformed_width": 90,
+      "missing_indicator_count": 45
+    },
+    {
+      "task": "college_consensus_ridge300_seed0",
+      "year": 2014,
+      "training_samples": 403,
+      "input_width": 45,
+      "transformed_width": 90,
+      "missing_indicator_count": 45
+    },
+    {
+      "task": "college_consensus_sg_ridge300_seed0",
+      "year": 2012,
+      "training_samples": 251,
+      "input_width": 46,
+      "transformed_width": 92,
+      "missing_indicator_count": 46
+    },
+    {
+      "task": "college_consensus_sg_ridge300_seed0",
+      "year": 2013,
+      "training_samples": 329,
+      "input_width": 46,
+      "transformed_width": 92,
+      "missing_indicator_count": 46
+    },
+    {
+      "task": "college_consensus_sg_ridge300_seed0",
+      "year": 2014,
+      "training_samples": 403,
+      "input_width": 46,
+      "transformed_width": 92,
+      "missing_indicator_count": 46
+    },
+    {
+      "task": "college_consensus_ridge3000_seed0",
+      "year": 2012,
+      "training_samples": 251,
+      "input_width": 45,
+      "transformed_width": 90,
+      "missing_indicator_count": 45
+    },
+    {
+      "task": "college_consensus_ridge3000_seed0",
+      "year": 2013,
+      "training_samples": 329,
+      "input_width": 45,
+      "transformed_width": 90,
+      "missing_indicator_count": 45
+    },
+    {
+      "task": "college_consensus_ridge3000_seed0",
+      "year": 2014,
+      "training_samples": 403,
+      "input_width": 45,
+      "transformed_width": 90,
+      "missing_indicator_count": 45
+    },
+    {
+      "task": "college_consensus_sg_ridge3000_seed0",
+      "year": 2012,
+      "training_samples": 251,
+      "input_width": 46,
+      "transformed_width": 92,
+      "missing_indicator_count": 46
+    },
+    {
+      "task": "college_consensus_sg_ridge3000_seed0",
+      "year": 2013,
+      "training_samples": 329,
+      "input_width": 46,
+      "transformed_width": 92,
+      "missing_indicator_count": 46
+    },
+    {
+      "task": "college_consensus_sg_ridge3000_seed0",
+      "year": 2014,
+      "training_samples": 403,
+      "input_width": 46,
+      "transformed_width": 92,
+      "missing_indicator_count": 46
+    }
+  ],
+  "live_unit_limits_observed": {
+    "RuntimeMaxUSec": "2h",
+    "CPUQuotaPerSecUSec": "22s",
+    "MemoryMax": 150323855360
+  },
+  "no_blends_or_promotion": true,
+  "heldout_or_confirmation_scoring": false,
+  "metric": "Pre2019 mean fold Spearman, displayed times100; not classification accuracy"
+}

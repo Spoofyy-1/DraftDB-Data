@@ -1,0 +1,2593 @@
+{
+  "passed": true,
+  "exact_completed_R8u_inputs_match": true,
+  "folds": [
+    {
+      "year": 2012,
+      "background": "college_consensus",
+      "completed_R8u_hashes_exact": true,
+      "full_training_matrix_hash": "ed71c4ce69950d4fab4208fb4169aac7aff75369b86952c6cc876f6d809ddea2",
+      "full_validation_matrix_hash": "1e1d012193c9e122c72d6a00d311f750a0a8a1651965554624c2dfe89648cbad",
+      "audit": {
+        "study_hash": "0a6696edb40bf5c5aea14d755007a80906a55c58fb18e8b2f954a68a3bf0562f",
+        "ordered_base_columns": [
+          "ctx_base_stl_pg",
+          "ctx_base_fta",
+          "ctx_base_dunk_attempts",
+          "ctx_base_fg2_pct",
+          "ctx_skill_defense_discipline",
+          "ctx_skill_creation_control",
+          "ctx_base_rim_made",
+          "ctx_skill_usage_efficiency",
+          "ctx_base_ftr",
+          "ctx_base_mid_attempts",
+          "ctx_base_fg2m",
+          "ctx_base_ast_tov",
+          "ctx_base_fg3a",
+          "ctx_base_ast_pg",
+          "ctx_base_dunk_made",
+          "ctx_skill_ft_volume",
+          "ctx_base_pts_pg",
+          "ctx_base_fg3m",
+          "ctx_base_ast_pct",
+          "ctx_base_fouls40",
+          "ctx_base_drb",
+          "ctx_base_mid_made",
+          "ctx_base_ftm",
+          "ctx_base_stl_pct",
+          "ctx_base_blk_pct",
+          "ctx_base_oreb_pg",
+          "ctx_base_three_share",
+          "ctx_base_orb",
+          "ctx_base_usage",
+          "ctx_base_dreb_pg",
+          "ctx_base_fg3_pct",
+          "ctx_base_blk_pg",
+          "ctx_base_gp",
+          "ctx_base_efg",
+          "ctx_base_rim_attempts",
+          "ctx_base_minutes_share",
+          "ctx_base_ft_pct",
+          "ctx_base_tov_pct",
+          "ctx_base_ts",
+          "ctx_base_fg2a",
+          "ctx_base_mpg"
+        ],
+        "base_columns_hash": "f35ba734cf74d6cef17ed6e25d3ffcb79614684e8bfded628280bbf89e0a1655",
+        "training_pid_hash": "942b832ebefe65ae1744f4b3f97b657400217df5af0b2df6e2579fdcaa17b07e",
+        "validation_pid_hash": "a45cd8b1dd63e13a3893134a181c328319d3e1eadeb55f4749529e2f545f0373",
+        "training_labels_hash": "aa36072210d1d3b80c0bcc1e328b5c28768f1a31f3ecd29cfd79a1435eead527",
+        "training_matrix_hash": "484b953de02ce4f572d1606221732e0a0913336da63dd70b4893fd4e3729aa81",
+        "validation_matrix_hash": "6659bf54f68be2fd86a1a8f6eab24fb324bcec9b8a337cfddc510452f1d56607",
+        "source_selection": {
+          "combine": [
+            {
+              "feature": "vcmb_height_without_shoes_in",
+              "observed": 138,
+              "unique": 52
+            },
+            {
+              "feature": "vcmb_height_with_shoes_in",
+              "observed": 138,
+              "unique": 49
+            },
+            {
+              "feature": "vcmb_weight_lb",
+              "observed": 138,
+              "unique": 111
+            },
+            {
+              "feature": "vcmb_wingspan_in",
+              "observed": 138,
+              "unique": 58
+            },
+            {
+              "feature": "vcmb_standing_reach_in",
+              "observed": 138,
+              "unique": 40
+            },
+            {
+              "feature": "vcmb_body_fat_pct",
+              "observed": 138,
+              "unique": 65
+            },
+            {
+              "feature": "vcmb_hand_length_in",
+              "observed": 41,
+              "unique": 10
+            },
+            {
+              "feature": "vcmb_hand_width_in",
+              "observed": 41,
+              "unique": 12
+            },
+            {
+              "feature": "vcmb_bmi_kg_m2",
+              "observed": 138,
+              "unique": 136
+            },
+            {
+              "feature": "vcmb_wingspan_minus_height_in",
+              "observed": 138,
+              "unique": 36
+            },
+            {
+              "feature": "vcmb_standing_vertical_in",
+              "observed": 130,
+              "unique": 27
+            },
+            {
+              "feature": "vcmb_max_vertical_in",
+              "observed": 129,
+              "unique": 28
+            },
+            {
+              "feature": "vcmb_lane_agility_s",
+              "observed": 129,
+              "unique": 93
+            },
+            {
+              "feature": "vcmb_modified_lane_agility_s",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_three_quarter_sprint_s",
+              "observed": 129,
+              "unique": 53
+            },
+            {
+              "feature": "vcmb_bench_press_reps",
+              "observed": 127,
+              "unique": 24
+            },
+            {
+              "feature": "vcmb_spot_15ft_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_15ft_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_15ft_pct",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_college3_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_college3_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_college3_pct",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_nba3_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_nba3_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_nba3_pct",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_off_dribble_15ft_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_off_dribble_15ft_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_off_dribble_15ft_pct",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_off_dribble_college3_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_off_dribble_college3_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_off_dribble_college3_pct",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_on_move_15ft_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_on_move_15ft_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_on_move_15ft_pct",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_on_move_college3_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_on_move_college3_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_on_move_college3_pct",
+              "observed": 0,
+              "unique": 0
+            }
+          ],
+          "consensus": [
+            {
+              "feature": "vcons_mock_mean_rank",
+              "observed": 173,
+              "unique": 81
+            },
+            {
+              "feature": "vcons_mock_best_rank",
+              "observed": 173,
+              "unique": 55
+            },
+            {
+              "feature": "vcons_mock_rank_range",
+              "observed": 131,
+              "unique": 22
+            },
+            {
+              "feature": "vcons_mock_n_sources",
+              "observed": 173,
+              "unique": 2
+            }
+          ],
+          "bio": [
+            {
+              "feature": "vmb_age_reported_years",
+              "observed": 163,
+              "unique": 7
+            },
+            {
+              "feature": "vmb_listed_height_in",
+              "observed": 163,
+              "unique": 17
+            },
+            {
+              "feature": "vmb_listed_weight_lb",
+              "observed": 163,
+              "unique": 57
+            },
+            {
+              "feature": "vmb_listed_bmi",
+              "observed": 163,
+              "unique": 129
+            },
+            {
+              "feature": "vmb_college_class_year",
+              "observed": 141,
+              "unique": 4
+            },
+            {
+              "feature": "vmb_position_pg",
+              "observed": 163,
+              "unique": 2
+            },
+            {
+              "feature": "vmb_position_sg",
+              "observed": 163,
+              "unique": 2
+            },
+            {
+              "feature": "vmb_position_sf",
+              "observed": 163,
+              "unique": 2
+            },
+            {
+              "feature": "vmb_position_pf",
+              "observed": 163,
+              "unique": 2
+            },
+            {
+              "feature": "vmb_position_c",
+              "observed": 163,
+              "unique": 2
+            }
+          ]
+        },
+        "source_selection_hash": "197079c8b14112e5b1ae79d595979468814100dfe660687eb30bdc8f227da2b2",
+        "training_max_draft_year": 2010,
+        "max_label_season": 2011,
+        "source_only_baseline": true,
+        "diagnostic_only": true,
+        "ordering_policy_hash": "3cbb3adae17abc202f682f63600b34765f7a0885033515ae805a2b8639120568",
+        "input_columns": [
+          "ctx_base_stl_pg",
+          "ctx_base_fta",
+          "ctx_base_dunk_attempts",
+          "ctx_base_fg2_pct",
+          "ctx_skill_defense_discipline",
+          "ctx_skill_creation_control",
+          "ctx_base_rim_made",
+          "ctx_skill_usage_efficiency",
+          "ctx_base_ftr",
+          "ctx_base_mid_attempts",
+          "ctx_base_fg2m",
+          "ctx_base_ast_tov",
+          "ctx_base_fg3a",
+          "ctx_base_ast_pg",
+          "ctx_base_dunk_made",
+          "ctx_skill_ft_volume",
+          "ctx_base_pts_pg",
+          "ctx_base_fg3m",
+          "ctx_base_ast_pct",
+          "ctx_base_fouls40",
+          "ctx_base_drb",
+          "ctx_base_mid_made",
+          "ctx_base_ftm",
+          "ctx_base_stl_pct",
+          "ctx_base_blk_pct",
+          "ctx_base_oreb_pg",
+          "ctx_base_three_share",
+          "ctx_base_orb",
+          "ctx_base_usage",
+          "ctx_base_dreb_pg",
+          "ctx_base_fg3_pct",
+          "ctx_base_blk_pg",
+          "ctx_base_gp",
+          "ctx_base_efg",
+          "ctx_base_rim_attempts",
+          "ctx_base_minutes_share",
+          "ctx_base_ft_pct",
+          "ctx_base_tov_pct",
+          "ctx_base_ts",
+          "ctx_base_fg2a",
+          "ctx_base_mpg",
+          "slot_037",
+          "slot_038",
+          "slot_039",
+          "slot_040"
+        ],
+        "raw_feature_count": 45,
+        "training_nonconstant_columns": 45
+      }
+    },
+    {
+      "year": 2012,
+      "background": "college_consensus_sg",
+      "completed_R8u_hashes_exact": true,
+      "full_training_matrix_hash": "ba187bc09119b424deffe99a839a0513e321e80171b0f9e219f1946218989359",
+      "full_validation_matrix_hash": "60269be4f51ca064bff3ef5fff6213899011c2d6a36e748ee74039f02903b852",
+      "audit": {
+        "study_hash": "0a6696edb40bf5c5aea14d755007a80906a55c58fb18e8b2f954a68a3bf0562f",
+        "ordered_base_columns": [
+          "ctx_base_stl_pg",
+          "ctx_base_fta",
+          "ctx_base_dunk_attempts",
+          "ctx_base_fg2_pct",
+          "ctx_skill_defense_discipline",
+          "ctx_skill_creation_control",
+          "ctx_base_rim_made",
+          "ctx_skill_usage_efficiency",
+          "ctx_base_ftr",
+          "ctx_base_mid_attempts",
+          "ctx_base_fg2m",
+          "ctx_base_ast_tov",
+          "ctx_base_fg3a",
+          "ctx_base_ast_pg",
+          "ctx_base_dunk_made",
+          "ctx_skill_ft_volume",
+          "ctx_base_pts_pg",
+          "ctx_base_fg3m",
+          "ctx_base_ast_pct",
+          "ctx_base_fouls40",
+          "ctx_base_drb",
+          "ctx_base_mid_made",
+          "ctx_base_ftm",
+          "ctx_base_stl_pct",
+          "ctx_base_blk_pct",
+          "ctx_base_oreb_pg",
+          "ctx_base_three_share",
+          "ctx_base_orb",
+          "ctx_base_usage",
+          "ctx_base_dreb_pg",
+          "ctx_base_fg3_pct",
+          "ctx_base_blk_pg",
+          "ctx_base_gp",
+          "ctx_base_efg",
+          "ctx_base_rim_attempts",
+          "ctx_base_minutes_share",
+          "ctx_base_ft_pct",
+          "ctx_base_tov_pct",
+          "ctx_base_ts",
+          "ctx_base_fg2a",
+          "ctx_base_mpg"
+        ],
+        "base_columns_hash": "f35ba734cf74d6cef17ed6e25d3ffcb79614684e8bfded628280bbf89e0a1655",
+        "training_pid_hash": "942b832ebefe65ae1744f4b3f97b657400217df5af0b2df6e2579fdcaa17b07e",
+        "validation_pid_hash": "a45cd8b1dd63e13a3893134a181c328319d3e1eadeb55f4749529e2f545f0373",
+        "training_labels_hash": "aa36072210d1d3b80c0bcc1e328b5c28768f1a31f3ecd29cfd79a1435eead527",
+        "training_matrix_hash": "484b953de02ce4f572d1606221732e0a0913336da63dd70b4893fd4e3729aa81",
+        "validation_matrix_hash": "6659bf54f68be2fd86a1a8f6eab24fb324bcec9b8a337cfddc510452f1d56607",
+        "source_selection": {
+          "combine": [
+            {
+              "feature": "vcmb_height_without_shoes_in",
+              "observed": 138,
+              "unique": 52
+            },
+            {
+              "feature": "vcmb_height_with_shoes_in",
+              "observed": 138,
+              "unique": 49
+            },
+            {
+              "feature": "vcmb_weight_lb",
+              "observed": 138,
+              "unique": 111
+            },
+            {
+              "feature": "vcmb_wingspan_in",
+              "observed": 138,
+              "unique": 58
+            },
+            {
+              "feature": "vcmb_standing_reach_in",
+              "observed": 138,
+              "unique": 40
+            },
+            {
+              "feature": "vcmb_body_fat_pct",
+              "observed": 138,
+              "unique": 65
+            },
+            {
+              "feature": "vcmb_hand_length_in",
+              "observed": 41,
+              "unique": 10
+            },
+            {
+              "feature": "vcmb_hand_width_in",
+              "observed": 41,
+              "unique": 12
+            },
+            {
+              "feature": "vcmb_bmi_kg_m2",
+              "observed": 138,
+              "unique": 136
+            },
+            {
+              "feature": "vcmb_wingspan_minus_height_in",
+              "observed": 138,
+              "unique": 36
+            },
+            {
+              "feature": "vcmb_standing_vertical_in",
+              "observed": 130,
+              "unique": 27
+            },
+            {
+              "feature": "vcmb_max_vertical_in",
+              "observed": 129,
+              "unique": 28
+            },
+            {
+              "feature": "vcmb_lane_agility_s",
+              "observed": 129,
+              "unique": 93
+            },
+            {
+              "feature": "vcmb_modified_lane_agility_s",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_three_quarter_sprint_s",
+              "observed": 129,
+              "unique": 53
+            },
+            {
+              "feature": "vcmb_bench_press_reps",
+              "observed": 127,
+              "unique": 24
+            },
+            {
+              "feature": "vcmb_spot_15ft_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_15ft_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_15ft_pct",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_college3_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_college3_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_college3_pct",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_nba3_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_nba3_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_nba3_pct",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_off_dribble_15ft_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_off_dribble_15ft_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_off_dribble_15ft_pct",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_off_dribble_college3_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_off_dribble_college3_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_off_dribble_college3_pct",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_on_move_15ft_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_on_move_15ft_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_on_move_15ft_pct",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_on_move_college3_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_on_move_college3_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_on_move_college3_pct",
+              "observed": 0,
+              "unique": 0
+            }
+          ],
+          "consensus": [
+            {
+              "feature": "vcons_mock_mean_rank",
+              "observed": 173,
+              "unique": 81
+            },
+            {
+              "feature": "vcons_mock_best_rank",
+              "observed": 173,
+              "unique": 55
+            },
+            {
+              "feature": "vcons_mock_rank_range",
+              "observed": 131,
+              "unique": 22
+            },
+            {
+              "feature": "vcons_mock_n_sources",
+              "observed": 173,
+              "unique": 2
+            }
+          ],
+          "bio": [
+            {
+              "feature": "vmb_age_reported_years",
+              "observed": 163,
+              "unique": 7
+            },
+            {
+              "feature": "vmb_listed_height_in",
+              "observed": 163,
+              "unique": 17
+            },
+            {
+              "feature": "vmb_listed_weight_lb",
+              "observed": 163,
+              "unique": 57
+            },
+            {
+              "feature": "vmb_listed_bmi",
+              "observed": 163,
+              "unique": 129
+            },
+            {
+              "feature": "vmb_college_class_year",
+              "observed": 141,
+              "unique": 4
+            },
+            {
+              "feature": "vmb_position_pg",
+              "observed": 163,
+              "unique": 2
+            },
+            {
+              "feature": "vmb_position_sg",
+              "observed": 163,
+              "unique": 2
+            },
+            {
+              "feature": "vmb_position_sf",
+              "observed": 163,
+              "unique": 2
+            },
+            {
+              "feature": "vmb_position_pf",
+              "observed": 163,
+              "unique": 2
+            },
+            {
+              "feature": "vmb_position_c",
+              "observed": 163,
+              "unique": 2
+            }
+          ]
+        },
+        "source_selection_hash": "197079c8b14112e5b1ae79d595979468814100dfe660687eb30bdc8f227da2b2",
+        "training_max_draft_year": 2010,
+        "max_label_season": 2011,
+        "source_only_baseline": true,
+        "diagnostic_only": true,
+        "ordering_policy_hash": "3cbb3adae17abc202f682f63600b34765f7a0885033515ae805a2b8639120568",
+        "input_columns": [
+          "ctx_base_stl_pg",
+          "ctx_base_fta",
+          "ctx_base_dunk_attempts",
+          "ctx_base_fg2_pct",
+          "ctx_skill_defense_discipline",
+          "ctx_skill_creation_control",
+          "ctx_base_rim_made",
+          "ctx_skill_usage_efficiency",
+          "ctx_base_ftr",
+          "ctx_base_mid_attempts",
+          "ctx_base_fg2m",
+          "ctx_base_ast_tov",
+          "ctx_base_fg3a",
+          "ctx_base_ast_pg",
+          "ctx_base_dunk_made",
+          "ctx_skill_ft_volume",
+          "ctx_base_pts_pg",
+          "ctx_base_fg3m",
+          "ctx_base_ast_pct",
+          "ctx_base_fouls40",
+          "ctx_base_drb",
+          "ctx_base_mid_made",
+          "ctx_base_ftm",
+          "ctx_base_stl_pct",
+          "ctx_base_blk_pct",
+          "ctx_base_oreb_pg",
+          "ctx_base_three_share",
+          "ctx_base_orb",
+          "ctx_base_usage",
+          "ctx_base_dreb_pg",
+          "ctx_base_fg3_pct",
+          "ctx_base_blk_pg",
+          "ctx_base_gp",
+          "ctx_base_efg",
+          "ctx_base_rim_attempts",
+          "ctx_base_minutes_share",
+          "ctx_base_ft_pct",
+          "ctx_base_tov_pct",
+          "ctx_base_ts",
+          "ctx_base_fg2a",
+          "ctx_base_mpg",
+          "slot_037",
+          "slot_038",
+          "slot_039",
+          "slot_040",
+          "slot_041"
+        ],
+        "raw_feature_count": 46,
+        "training_nonconstant_columns": 46
+      }
+    },
+    {
+      "year": 2013,
+      "background": "college_consensus",
+      "completed_R8u_hashes_exact": true,
+      "full_training_matrix_hash": "8a3b1db3e23e50497c9026994407cc7a79fff408c476c4c4db935665e14021d2",
+      "full_validation_matrix_hash": "1c98ab856cc97a13b34403fd15eca0dbabd7a00ccb8cd33cb944cf4316d6bc24",
+      "audit": {
+        "study_hash": "0a6696edb40bf5c5aea14d755007a80906a55c58fb18e8b2f954a68a3bf0562f",
+        "ordered_base_columns": [
+          "ctx_base_stl_pct",
+          "ctx_base_dunk_made",
+          "ctx_base_mid_made",
+          "ctx_skill_creation_control",
+          "ctx_base_dunk_attempts",
+          "ctx_base_fg2_pct",
+          "ctx_base_ast_tov",
+          "ctx_base_stl_pg",
+          "ctx_base_ast_pct",
+          "ctx_base_fta",
+          "ctx_base_fouls40",
+          "ctx_base_blk_pg",
+          "ctx_base_rim_made",
+          "ctx_base_ftr",
+          "ctx_base_mid_attempts",
+          "ctx_base_tov_pct",
+          "ctx_base_dreb_pg",
+          "ctx_base_fg2m",
+          "ctx_base_ftm",
+          "ctx_skill_defense_discipline",
+          "ctx_base_fg2a",
+          "ctx_base_three_share",
+          "ctx_base_ast_pg",
+          "ctx_base_mpg",
+          "ctx_skill_usage_efficiency",
+          "ctx_base_rim_attempts",
+          "ctx_base_efg",
+          "ctx_base_pts_pg",
+          "ctx_base_blk_pct",
+          "ctx_base_oreb_pg",
+          "ctx_skill_ft_volume",
+          "ctx_base_fg3_pct",
+          "ctx_base_orb",
+          "ctx_base_drb",
+          "ctx_base_fg3a",
+          "ctx_base_fg3m",
+          "ctx_base_usage",
+          "ctx_base_ts",
+          "ctx_base_ft_pct",
+          "ctx_base_minutes_share",
+          "ctx_base_gp"
+        ],
+        "base_columns_hash": "7aac28f209609f59950f62d7f62be20d6ef778feb5eb9fca81fca0b1bb83b785",
+        "training_pid_hash": "3e1ea99ada4f867213ffffce4002475f0d36a9923cd3b73ce84dd91b32e46d27",
+        "validation_pid_hash": "d8b6a5bec5cd9dad1f9be541908b7c97fd63471d927b07eb8107eb598f3e2dce",
+        "training_labels_hash": "e9f96c922633d6340a3c817cec1f254393fc9e8750b8c5337b5cd2731892ecd4",
+        "training_matrix_hash": "8cae815c72fa71bc4085c7e18e0e1ab4370d0e845c540a06a095f28684b77e6e",
+        "validation_matrix_hash": "124d52bd4728722303c73ab4b488636cdc56158c7402da3beb71bca75044a2bb",
+        "source_selection": {
+          "combine": [
+            {
+              "feature": "vcmb_height_without_shoes_in",
+              "observed": 180,
+              "unique": 55
+            },
+            {
+              "feature": "vcmb_height_with_shoes_in",
+              "observed": 180,
+              "unique": 55
+            },
+            {
+              "feature": "vcmb_weight_lb",
+              "observed": 180,
+              "unique": 142
+            },
+            {
+              "feature": "vcmb_wingspan_in",
+              "observed": 180,
+              "unique": 63
+            },
+            {
+              "feature": "vcmb_standing_reach_in",
+              "observed": 180,
+              "unique": 42
+            },
+            {
+              "feature": "vcmb_body_fat_pct",
+              "observed": 180,
+              "unique": 75
+            },
+            {
+              "feature": "vcmb_hand_length_in",
+              "observed": 83,
+              "unique": 10
+            },
+            {
+              "feature": "vcmb_hand_width_in",
+              "observed": 83,
+              "unique": 14
+            },
+            {
+              "feature": "vcmb_bmi_kg_m2",
+              "observed": 180,
+              "unique": 178
+            },
+            {
+              "feature": "vcmb_wingspan_minus_height_in",
+              "observed": 180,
+              "unique": 37
+            },
+            {
+              "feature": "vcmb_standing_vertical_in",
+              "observed": 171,
+              "unique": 29
+            },
+            {
+              "feature": "vcmb_max_vertical_in",
+              "observed": 170,
+              "unique": 30
+            },
+            {
+              "feature": "vcmb_lane_agility_s",
+              "observed": 167,
+              "unique": 108
+            },
+            {
+              "feature": "vcmb_modified_lane_agility_s",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_three_quarter_sprint_s",
+              "observed": 170,
+              "unique": 54
+            },
+            {
+              "feature": "vcmb_bench_press_reps",
+              "observed": 166,
+              "unique": 24
+            },
+            {
+              "feature": "vcmb_spot_15ft_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_15ft_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_15ft_pct",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_college3_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_college3_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_college3_pct",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_nba3_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_nba3_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_nba3_pct",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_off_dribble_15ft_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_off_dribble_15ft_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_off_dribble_15ft_pct",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_off_dribble_college3_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_off_dribble_college3_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_off_dribble_college3_pct",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_on_move_15ft_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_on_move_15ft_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_on_move_15ft_pct",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_on_move_college3_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_on_move_college3_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_on_move_college3_pct",
+              "observed": 0,
+              "unique": 0
+            }
+          ],
+          "consensus": [
+            {
+              "feature": "vcons_mock_mean_rank",
+              "observed": 227,
+              "unique": 94
+            },
+            {
+              "feature": "vcons_mock_best_rank",
+              "observed": 227,
+              "unique": 59
+            },
+            {
+              "feature": "vcons_mock_rank_range",
+              "observed": 182,
+              "unique": 22
+            },
+            {
+              "feature": "vcons_mock_n_sources",
+              "observed": 227,
+              "unique": 2
+            }
+          ],
+          "bio": [
+            {
+              "feature": "vmb_age_reported_years",
+              "observed": 215,
+              "unique": 7
+            },
+            {
+              "feature": "vmb_listed_height_in",
+              "observed": 215,
+              "unique": 18
+            },
+            {
+              "feature": "vmb_listed_weight_lb",
+              "observed": 215,
+              "unique": 60
+            },
+            {
+              "feature": "vmb_listed_bmi",
+              "observed": 215,
+              "unique": 148
+            },
+            {
+              "feature": "vmb_college_class_year",
+              "observed": 184,
+              "unique": 4
+            },
+            {
+              "feature": "vmb_position_pg",
+              "observed": 215,
+              "unique": 2
+            },
+            {
+              "feature": "vmb_position_sg",
+              "observed": 215,
+              "unique": 2
+            },
+            {
+              "feature": "vmb_position_sf",
+              "observed": 215,
+              "unique": 2
+            },
+            {
+              "feature": "vmb_position_pf",
+              "observed": 215,
+              "unique": 2
+            },
+            {
+              "feature": "vmb_position_c",
+              "observed": 215,
+              "unique": 2
+            }
+          ]
+        },
+        "source_selection_hash": "234d58ca55bf753c668bd21aee856e4acc9c80596fc706624431f799e8b07e2e",
+        "training_max_draft_year": 2011,
+        "max_label_season": 2012,
+        "source_only_baseline": true,
+        "diagnostic_only": true,
+        "ordering_policy_hash": "3cbb3adae17abc202f682f63600b34765f7a0885033515ae805a2b8639120568",
+        "input_columns": [
+          "ctx_base_stl_pct",
+          "ctx_base_dunk_made",
+          "ctx_base_mid_made",
+          "ctx_skill_creation_control",
+          "ctx_base_dunk_attempts",
+          "ctx_base_fg2_pct",
+          "ctx_base_ast_tov",
+          "ctx_base_stl_pg",
+          "ctx_base_ast_pct",
+          "ctx_base_fta",
+          "ctx_base_fouls40",
+          "ctx_base_blk_pg",
+          "ctx_base_rim_made",
+          "ctx_base_ftr",
+          "ctx_base_mid_attempts",
+          "ctx_base_tov_pct",
+          "ctx_base_dreb_pg",
+          "ctx_base_fg2m",
+          "ctx_base_ftm",
+          "ctx_skill_defense_discipline",
+          "ctx_base_fg2a",
+          "ctx_base_three_share",
+          "ctx_base_ast_pg",
+          "ctx_base_mpg",
+          "ctx_skill_usage_efficiency",
+          "ctx_base_rim_attempts",
+          "ctx_base_efg",
+          "ctx_base_pts_pg",
+          "ctx_base_blk_pct",
+          "ctx_base_oreb_pg",
+          "ctx_skill_ft_volume",
+          "ctx_base_fg3_pct",
+          "ctx_base_orb",
+          "ctx_base_drb",
+          "ctx_base_fg3a",
+          "ctx_base_fg3m",
+          "ctx_base_usage",
+          "ctx_base_ts",
+          "ctx_base_ft_pct",
+          "ctx_base_minutes_share",
+          "ctx_base_gp",
+          "slot_037",
+          "slot_038",
+          "slot_039",
+          "slot_040"
+        ],
+        "raw_feature_count": 45,
+        "training_nonconstant_columns": 45
+      }
+    },
+    {
+      "year": 2013,
+      "background": "college_consensus_sg",
+      "completed_R8u_hashes_exact": true,
+      "full_training_matrix_hash": "88c687d864a8c1125915634623699ee567f41c227a822111de8bfce7d80d316b",
+      "full_validation_matrix_hash": "aa02859660d6fff0b4e2f31ca8e33eb89149548f78a864531800bcd94776115c",
+      "audit": {
+        "study_hash": "0a6696edb40bf5c5aea14d755007a80906a55c58fb18e8b2f954a68a3bf0562f",
+        "ordered_base_columns": [
+          "ctx_base_stl_pct",
+          "ctx_base_dunk_made",
+          "ctx_base_mid_made",
+          "ctx_skill_creation_control",
+          "ctx_base_dunk_attempts",
+          "ctx_base_fg2_pct",
+          "ctx_base_ast_tov",
+          "ctx_base_stl_pg",
+          "ctx_base_ast_pct",
+          "ctx_base_fta",
+          "ctx_base_fouls40",
+          "ctx_base_blk_pg",
+          "ctx_base_rim_made",
+          "ctx_base_ftr",
+          "ctx_base_mid_attempts",
+          "ctx_base_tov_pct",
+          "ctx_base_dreb_pg",
+          "ctx_base_fg2m",
+          "ctx_base_ftm",
+          "ctx_skill_defense_discipline",
+          "ctx_base_fg2a",
+          "ctx_base_three_share",
+          "ctx_base_ast_pg",
+          "ctx_base_mpg",
+          "ctx_skill_usage_efficiency",
+          "ctx_base_rim_attempts",
+          "ctx_base_efg",
+          "ctx_base_pts_pg",
+          "ctx_base_blk_pct",
+          "ctx_base_oreb_pg",
+          "ctx_skill_ft_volume",
+          "ctx_base_fg3_pct",
+          "ctx_base_orb",
+          "ctx_base_drb",
+          "ctx_base_fg3a",
+          "ctx_base_fg3m",
+          "ctx_base_usage",
+          "ctx_base_ts",
+          "ctx_base_ft_pct",
+          "ctx_base_minutes_share",
+          "ctx_base_gp"
+        ],
+        "base_columns_hash": "7aac28f209609f59950f62d7f62be20d6ef778feb5eb9fca81fca0b1bb83b785",
+        "training_pid_hash": "3e1ea99ada4f867213ffffce4002475f0d36a9923cd3b73ce84dd91b32e46d27",
+        "validation_pid_hash": "d8b6a5bec5cd9dad1f9be541908b7c97fd63471d927b07eb8107eb598f3e2dce",
+        "training_labels_hash": "e9f96c922633d6340a3c817cec1f254393fc9e8750b8c5337b5cd2731892ecd4",
+        "training_matrix_hash": "8cae815c72fa71bc4085c7e18e0e1ab4370d0e845c540a06a095f28684b77e6e",
+        "validation_matrix_hash": "124d52bd4728722303c73ab4b488636cdc56158c7402da3beb71bca75044a2bb",
+        "source_selection": {
+          "combine": [
+            {
+              "feature": "vcmb_height_without_shoes_in",
+              "observed": 180,
+              "unique": 55
+            },
+            {
+              "feature": "vcmb_height_with_shoes_in",
+              "observed": 180,
+              "unique": 55
+            },
+            {
+              "feature": "vcmb_weight_lb",
+              "observed": 180,
+              "unique": 142
+            },
+            {
+              "feature": "vcmb_wingspan_in",
+              "observed": 180,
+              "unique": 63
+            },
+            {
+              "feature": "vcmb_standing_reach_in",
+              "observed": 180,
+              "unique": 42
+            },
+            {
+              "feature": "vcmb_body_fat_pct",
+              "observed": 180,
+              "unique": 75
+            },
+            {
+              "feature": "vcmb_hand_length_in",
+              "observed": 83,
+              "unique": 10
+            },
+            {
+              "feature": "vcmb_hand_width_in",
+              "observed": 83,
+              "unique": 14
+            },
+            {
+              "feature": "vcmb_bmi_kg_m2",
+              "observed": 180,
+              "unique": 178
+            },
+            {
+              "feature": "vcmb_wingspan_minus_height_in",
+              "observed": 180,
+              "unique": 37
+            },
+            {
+              "feature": "vcmb_standing_vertical_in",
+              "observed": 171,
+              "unique": 29
+            },
+            {
+              "feature": "vcmb_max_vertical_in",
+              "observed": 170,
+              "unique": 30
+            },
+            {
+              "feature": "vcmb_lane_agility_s",
+              "observed": 167,
+              "unique": 108
+            },
+            {
+              "feature": "vcmb_modified_lane_agility_s",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_three_quarter_sprint_s",
+              "observed": 170,
+              "unique": 54
+            },
+            {
+              "feature": "vcmb_bench_press_reps",
+              "observed": 166,
+              "unique": 24
+            },
+            {
+              "feature": "vcmb_spot_15ft_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_15ft_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_15ft_pct",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_college3_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_college3_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_college3_pct",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_nba3_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_nba3_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_nba3_pct",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_off_dribble_15ft_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_off_dribble_15ft_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_off_dribble_15ft_pct",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_off_dribble_college3_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_off_dribble_college3_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_off_dribble_college3_pct",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_on_move_15ft_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_on_move_15ft_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_on_move_15ft_pct",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_on_move_college3_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_on_move_college3_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_on_move_college3_pct",
+              "observed": 0,
+              "unique": 0
+            }
+          ],
+          "consensus": [
+            {
+              "feature": "vcons_mock_mean_rank",
+              "observed": 227,
+              "unique": 94
+            },
+            {
+              "feature": "vcons_mock_best_rank",
+              "observed": 227,
+              "unique": 59
+            },
+            {
+              "feature": "vcons_mock_rank_range",
+              "observed": 182,
+              "unique": 22
+            },
+            {
+              "feature": "vcons_mock_n_sources",
+              "observed": 227,
+              "unique": 2
+            }
+          ],
+          "bio": [
+            {
+              "feature": "vmb_age_reported_years",
+              "observed": 215,
+              "unique": 7
+            },
+            {
+              "feature": "vmb_listed_height_in",
+              "observed": 215,
+              "unique": 18
+            },
+            {
+              "feature": "vmb_listed_weight_lb",
+              "observed": 215,
+              "unique": 60
+            },
+            {
+              "feature": "vmb_listed_bmi",
+              "observed": 215,
+              "unique": 148
+            },
+            {
+              "feature": "vmb_college_class_year",
+              "observed": 184,
+              "unique": 4
+            },
+            {
+              "feature": "vmb_position_pg",
+              "observed": 215,
+              "unique": 2
+            },
+            {
+              "feature": "vmb_position_sg",
+              "observed": 215,
+              "unique": 2
+            },
+            {
+              "feature": "vmb_position_sf",
+              "observed": 215,
+              "unique": 2
+            },
+            {
+              "feature": "vmb_position_pf",
+              "observed": 215,
+              "unique": 2
+            },
+            {
+              "feature": "vmb_position_c",
+              "observed": 215,
+              "unique": 2
+            }
+          ]
+        },
+        "source_selection_hash": "234d58ca55bf753c668bd21aee856e4acc9c80596fc706624431f799e8b07e2e",
+        "training_max_draft_year": 2011,
+        "max_label_season": 2012,
+        "source_only_baseline": true,
+        "diagnostic_only": true,
+        "ordering_policy_hash": "3cbb3adae17abc202f682f63600b34765f7a0885033515ae805a2b8639120568",
+        "input_columns": [
+          "ctx_base_stl_pct",
+          "ctx_base_dunk_made",
+          "ctx_base_mid_made",
+          "ctx_skill_creation_control",
+          "ctx_base_dunk_attempts",
+          "ctx_base_fg2_pct",
+          "ctx_base_ast_tov",
+          "ctx_base_stl_pg",
+          "ctx_base_ast_pct",
+          "ctx_base_fta",
+          "ctx_base_fouls40",
+          "ctx_base_blk_pg",
+          "ctx_base_rim_made",
+          "ctx_base_ftr",
+          "ctx_base_mid_attempts",
+          "ctx_base_tov_pct",
+          "ctx_base_dreb_pg",
+          "ctx_base_fg2m",
+          "ctx_base_ftm",
+          "ctx_skill_defense_discipline",
+          "ctx_base_fg2a",
+          "ctx_base_three_share",
+          "ctx_base_ast_pg",
+          "ctx_base_mpg",
+          "ctx_skill_usage_efficiency",
+          "ctx_base_rim_attempts",
+          "ctx_base_efg",
+          "ctx_base_pts_pg",
+          "ctx_base_blk_pct",
+          "ctx_base_oreb_pg",
+          "ctx_skill_ft_volume",
+          "ctx_base_fg3_pct",
+          "ctx_base_orb",
+          "ctx_base_drb",
+          "ctx_base_fg3a",
+          "ctx_base_fg3m",
+          "ctx_base_usage",
+          "ctx_base_ts",
+          "ctx_base_ft_pct",
+          "ctx_base_minutes_share",
+          "ctx_base_gp",
+          "slot_037",
+          "slot_038",
+          "slot_039",
+          "slot_040",
+          "slot_041"
+        ],
+        "raw_feature_count": 46,
+        "training_nonconstant_columns": 46
+      }
+    },
+    {
+      "year": 2014,
+      "background": "college_consensus",
+      "completed_R8u_hashes_exact": true,
+      "full_training_matrix_hash": "b24c9b77c285f781e1551aa0648f77b0f4786032dae5cf2068e6daaf6b654557",
+      "full_validation_matrix_hash": "4106eed8654de4027034ba9278e8eee60011db713fef80924145dc631566f715",
+      "audit": {
+        "study_hash": "0a6696edb40bf5c5aea14d755007a80906a55c58fb18e8b2f954a68a3bf0562f",
+        "ordered_base_columns": [
+          "ctx_base_stl_pct",
+          "ctx_base_fg3a",
+          "ctx_base_mid_attempts",
+          "ctx_skill_defense_discipline",
+          "ctx_base_ast_pg",
+          "ctx_base_stl_pg",
+          "ctx_base_ast_tov",
+          "ctx_base_dunk_attempts",
+          "ctx_base_ftm",
+          "ctx_base_oreb_pg",
+          "ctx_base_fg2_pct",
+          "ctx_skill_usage_efficiency",
+          "ctx_base_dunk_made",
+          "ctx_base_fg2m",
+          "ctx_skill_creation_control",
+          "ctx_base_fg3m",
+          "ctx_base_tov_pct",
+          "ctx_base_fg2a",
+          "ctx_base_dreb_pg",
+          "ctx_base_mid_made",
+          "ctx_base_rim_attempts",
+          "ctx_base_rim_made",
+          "ctx_base_fta",
+          "ctx_base_ts",
+          "ctx_base_three_share",
+          "ctx_base_ftr",
+          "ctx_base_fg3_pct",
+          "ctx_base_mpg",
+          "ctx_base_ft_pct",
+          "ctx_skill_ft_volume",
+          "ctx_base_ast_pct",
+          "ctx_base_blk_pg",
+          "ctx_base_fouls40",
+          "ctx_base_drb",
+          "ctx_base_minutes_share",
+          "ctx_base_blk_pct",
+          "ctx_base_pts_pg",
+          "ctx_base_gp",
+          "ctx_base_usage",
+          "ctx_base_efg",
+          "ctx_base_orb"
+        ],
+        "base_columns_hash": "ad7d73e0363e4b692aacda2b9a520968640e947bd41ea012d53f8791b150f177",
+        "training_pid_hash": "87590a0c81687ff9c79ad38253a55de7e1c6fe9825534ec6fabf8eea346fb211",
+        "validation_pid_hash": "03eb0bc5d5dd11e2f295c90ba42f9ed183e52f26f7b7f48855b98245ede7061b",
+        "training_labels_hash": "5e054894fe84343ac87ce1c48c9abbd5759eee8a0c57f0c9736d10c593b10168",
+        "training_matrix_hash": "9283e49ebf41868c2688050eadfb45bf88032f35f05dad3f2ca5ac84ec7a38b9",
+        "validation_matrix_hash": "a5b73cac4e428fa55736b14009c930a03f9170ccc86b23a527dde0907927ffbb",
+        "source_selection": {
+          "combine": [
+            {
+              "feature": "vcmb_height_without_shoes_in",
+              "observed": 231,
+              "unique": 55
+            },
+            {
+              "feature": "vcmb_height_with_shoes_in",
+              "observed": 231,
+              "unique": 55
+            },
+            {
+              "feature": "vcmb_weight_lb",
+              "observed": 231,
+              "unique": 174
+            },
+            {
+              "feature": "vcmb_wingspan_in",
+              "observed": 231,
+              "unique": 64
+            },
+            {
+              "feature": "vcmb_standing_reach_in",
+              "observed": 231,
+              "unique": 42
+            },
+            {
+              "feature": "vcmb_body_fat_pct",
+              "observed": 231,
+              "unique": 83
+            },
+            {
+              "feature": "vcmb_hand_length_in",
+              "observed": 134,
+              "unique": 11
+            },
+            {
+              "feature": "vcmb_hand_width_in",
+              "observed": 134,
+              "unique": 16
+            },
+            {
+              "feature": "vcmb_bmi_kg_m2",
+              "observed": 231,
+              "unique": 229
+            },
+            {
+              "feature": "vcmb_wingspan_minus_height_in",
+              "observed": 231,
+              "unique": 38
+            },
+            {
+              "feature": "vcmb_standing_vertical_in",
+              "observed": 217,
+              "unique": 30
+            },
+            {
+              "feature": "vcmb_max_vertical_in",
+              "observed": 216,
+              "unique": 32
+            },
+            {
+              "feature": "vcmb_lane_agility_s",
+              "observed": 211,
+              "unique": 127
+            },
+            {
+              "feature": "vcmb_modified_lane_agility_s",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_three_quarter_sprint_s",
+              "observed": 215,
+              "unique": 60
+            },
+            {
+              "feature": "vcmb_bench_press_reps",
+              "observed": 210,
+              "unique": 25
+            },
+            {
+              "feature": "vcmb_spot_15ft_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_15ft_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_15ft_pct",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_college3_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_college3_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_college3_pct",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_nba3_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_nba3_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_nba3_pct",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_off_dribble_15ft_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_off_dribble_15ft_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_off_dribble_15ft_pct",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_off_dribble_college3_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_off_dribble_college3_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_off_dribble_college3_pct",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_on_move_15ft_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_on_move_15ft_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_on_move_15ft_pct",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_on_move_college3_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_on_move_college3_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_on_move_college3_pct",
+              "observed": 0,
+              "unique": 0
+            }
+          ],
+          "consensus": [
+            {
+              "feature": "vcons_mock_mean_rank",
+              "observed": 280,
+              "unique": 105
+            },
+            {
+              "feature": "vcons_mock_best_rank",
+              "observed": 280,
+              "unique": 60
+            },
+            {
+              "feature": "vcons_mock_rank_range",
+              "observed": 227,
+              "unique": 23
+            },
+            {
+              "feature": "vcons_mock_n_sources",
+              "observed": 280,
+              "unique": 2
+            }
+          ],
+          "bio": [
+            {
+              "feature": "vmb_age_reported_years",
+              "observed": 266,
+              "unique": 8
+            },
+            {
+              "feature": "vmb_listed_height_in",
+              "observed": 266,
+              "unique": 18
+            },
+            {
+              "feature": "vmb_listed_weight_lb",
+              "observed": 266,
+              "unique": 79
+            },
+            {
+              "feature": "vmb_listed_bmi",
+              "observed": 266,
+              "unique": 187
+            },
+            {
+              "feature": "vmb_college_class_year",
+              "observed": 230,
+              "unique": 4
+            },
+            {
+              "feature": "vmb_position_pg",
+              "observed": 266,
+              "unique": 2
+            },
+            {
+              "feature": "vmb_position_sg",
+              "observed": 266,
+              "unique": 2
+            },
+            {
+              "feature": "vmb_position_sf",
+              "observed": 266,
+              "unique": 2
+            },
+            {
+              "feature": "vmb_position_pf",
+              "observed": 266,
+              "unique": 2
+            },
+            {
+              "feature": "vmb_position_c",
+              "observed": 266,
+              "unique": 2
+            }
+          ]
+        },
+        "source_selection_hash": "5e3a2ccddde73f0db53fea452d91a30f08651ed047756aa851149f9b50024b7f",
+        "training_max_draft_year": 2012,
+        "max_label_season": 2013,
+        "source_only_baseline": true,
+        "diagnostic_only": true,
+        "ordering_policy_hash": "3cbb3adae17abc202f682f63600b34765f7a0885033515ae805a2b8639120568",
+        "input_columns": [
+          "ctx_base_stl_pct",
+          "ctx_base_fg3a",
+          "ctx_base_mid_attempts",
+          "ctx_skill_defense_discipline",
+          "ctx_base_ast_pg",
+          "ctx_base_stl_pg",
+          "ctx_base_ast_tov",
+          "ctx_base_dunk_attempts",
+          "ctx_base_ftm",
+          "ctx_base_oreb_pg",
+          "ctx_base_fg2_pct",
+          "ctx_skill_usage_efficiency",
+          "ctx_base_dunk_made",
+          "ctx_base_fg2m",
+          "ctx_skill_creation_control",
+          "ctx_base_fg3m",
+          "ctx_base_tov_pct",
+          "ctx_base_fg2a",
+          "ctx_base_dreb_pg",
+          "ctx_base_mid_made",
+          "ctx_base_rim_attempts",
+          "ctx_base_rim_made",
+          "ctx_base_fta",
+          "ctx_base_ts",
+          "ctx_base_three_share",
+          "ctx_base_ftr",
+          "ctx_base_fg3_pct",
+          "ctx_base_mpg",
+          "ctx_base_ft_pct",
+          "ctx_skill_ft_volume",
+          "ctx_base_ast_pct",
+          "ctx_base_blk_pg",
+          "ctx_base_fouls40",
+          "ctx_base_drb",
+          "ctx_base_minutes_share",
+          "ctx_base_blk_pct",
+          "ctx_base_pts_pg",
+          "ctx_base_gp",
+          "ctx_base_usage",
+          "ctx_base_efg",
+          "ctx_base_orb",
+          "slot_037",
+          "slot_038",
+          "slot_039",
+          "slot_040"
+        ],
+        "raw_feature_count": 45,
+        "training_nonconstant_columns": 45
+      }
+    },
+    {
+      "year": 2014,
+      "background": "college_consensus_sg",
+      "completed_R8u_hashes_exact": true,
+      "full_training_matrix_hash": "c1decac57361eb2033d1c574ac5850d098f0b5b29fa435cec9bbb32571592073",
+      "full_validation_matrix_hash": "44ad0ea12d1f4a2f32db6bdfa4d1bbf100273e828d19fbfd68ef0d93fb46d399",
+      "audit": {
+        "study_hash": "0a6696edb40bf5c5aea14d755007a80906a55c58fb18e8b2f954a68a3bf0562f",
+        "ordered_base_columns": [
+          "ctx_base_stl_pct",
+          "ctx_base_fg3a",
+          "ctx_base_mid_attempts",
+          "ctx_skill_defense_discipline",
+          "ctx_base_ast_pg",
+          "ctx_base_stl_pg",
+          "ctx_base_ast_tov",
+          "ctx_base_dunk_attempts",
+          "ctx_base_ftm",
+          "ctx_base_oreb_pg",
+          "ctx_base_fg2_pct",
+          "ctx_skill_usage_efficiency",
+          "ctx_base_dunk_made",
+          "ctx_base_fg2m",
+          "ctx_skill_creation_control",
+          "ctx_base_fg3m",
+          "ctx_base_tov_pct",
+          "ctx_base_fg2a",
+          "ctx_base_dreb_pg",
+          "ctx_base_mid_made",
+          "ctx_base_rim_attempts",
+          "ctx_base_rim_made",
+          "ctx_base_fta",
+          "ctx_base_ts",
+          "ctx_base_three_share",
+          "ctx_base_ftr",
+          "ctx_base_fg3_pct",
+          "ctx_base_mpg",
+          "ctx_base_ft_pct",
+          "ctx_skill_ft_volume",
+          "ctx_base_ast_pct",
+          "ctx_base_blk_pg",
+          "ctx_base_fouls40",
+          "ctx_base_drb",
+          "ctx_base_minutes_share",
+          "ctx_base_blk_pct",
+          "ctx_base_pts_pg",
+          "ctx_base_gp",
+          "ctx_base_usage",
+          "ctx_base_efg",
+          "ctx_base_orb"
+        ],
+        "base_columns_hash": "ad7d73e0363e4b692aacda2b9a520968640e947bd41ea012d53f8791b150f177",
+        "training_pid_hash": "87590a0c81687ff9c79ad38253a55de7e1c6fe9825534ec6fabf8eea346fb211",
+        "validation_pid_hash": "03eb0bc5d5dd11e2f295c90ba42f9ed183e52f26f7b7f48855b98245ede7061b",
+        "training_labels_hash": "5e054894fe84343ac87ce1c48c9abbd5759eee8a0c57f0c9736d10c593b10168",
+        "training_matrix_hash": "9283e49ebf41868c2688050eadfb45bf88032f35f05dad3f2ca5ac84ec7a38b9",
+        "validation_matrix_hash": "a5b73cac4e428fa55736b14009c930a03f9170ccc86b23a527dde0907927ffbb",
+        "source_selection": {
+          "combine": [
+            {
+              "feature": "vcmb_height_without_shoes_in",
+              "observed": 231,
+              "unique": 55
+            },
+            {
+              "feature": "vcmb_height_with_shoes_in",
+              "observed": 231,
+              "unique": 55
+            },
+            {
+              "feature": "vcmb_weight_lb",
+              "observed": 231,
+              "unique": 174
+            },
+            {
+              "feature": "vcmb_wingspan_in",
+              "observed": 231,
+              "unique": 64
+            },
+            {
+              "feature": "vcmb_standing_reach_in",
+              "observed": 231,
+              "unique": 42
+            },
+            {
+              "feature": "vcmb_body_fat_pct",
+              "observed": 231,
+              "unique": 83
+            },
+            {
+              "feature": "vcmb_hand_length_in",
+              "observed": 134,
+              "unique": 11
+            },
+            {
+              "feature": "vcmb_hand_width_in",
+              "observed": 134,
+              "unique": 16
+            },
+            {
+              "feature": "vcmb_bmi_kg_m2",
+              "observed": 231,
+              "unique": 229
+            },
+            {
+              "feature": "vcmb_wingspan_minus_height_in",
+              "observed": 231,
+              "unique": 38
+            },
+            {
+              "feature": "vcmb_standing_vertical_in",
+              "observed": 217,
+              "unique": 30
+            },
+            {
+              "feature": "vcmb_max_vertical_in",
+              "observed": 216,
+              "unique": 32
+            },
+            {
+              "feature": "vcmb_lane_agility_s",
+              "observed": 211,
+              "unique": 127
+            },
+            {
+              "feature": "vcmb_modified_lane_agility_s",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_three_quarter_sprint_s",
+              "observed": 215,
+              "unique": 60
+            },
+            {
+              "feature": "vcmb_bench_press_reps",
+              "observed": 210,
+              "unique": 25
+            },
+            {
+              "feature": "vcmb_spot_15ft_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_15ft_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_15ft_pct",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_college3_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_college3_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_college3_pct",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_nba3_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_nba3_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_spot_nba3_pct",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_off_dribble_15ft_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_off_dribble_15ft_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_off_dribble_15ft_pct",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_off_dribble_college3_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_off_dribble_college3_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_off_dribble_college3_pct",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_on_move_15ft_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_on_move_15ft_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_on_move_15ft_pct",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_on_move_college3_made",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_on_move_college3_attempted",
+              "observed": 0,
+              "unique": 0
+            },
+            {
+              "feature": "vcmb_on_move_college3_pct",
+              "observed": 0,
+              "unique": 0
+            }
+          ],
+          "consensus": [
+            {
+              "feature": "vcons_mock_mean_rank",
+              "observed": 280,
+              "unique": 105
+            },
+            {
+              "feature": "vcons_mock_best_rank",
+              "observed": 280,
+              "unique": 60
+            },
+            {
+              "feature": "vcons_mock_rank_range",
+              "observed": 227,
+              "unique": 23
+            },
+            {
+              "feature": "vcons_mock_n_sources",
+              "observed": 280,
+              "unique": 2
+            }
+          ],
+          "bio": [
+            {
+              "feature": "vmb_age_reported_years",
+              "observed": 266,
+              "unique": 8
+            },
+            {
+              "feature": "vmb_listed_height_in",
+              "observed": 266,
+              "unique": 18
+            },
+            {
+              "feature": "vmb_listed_weight_lb",
+              "observed": 266,
+              "unique": 79
+            },
+            {
+              "feature": "vmb_listed_bmi",
+              "observed": 266,
+              "unique": 187
+            },
+            {
+              "feature": "vmb_college_class_year",
+              "observed": 230,
+              "unique": 4
+            },
+            {
+              "feature": "vmb_position_pg",
+              "observed": 266,
+              "unique": 2
+            },
+            {
+              "feature": "vmb_position_sg",
+              "observed": 266,
+              "unique": 2
+            },
+            {
+              "feature": "vmb_position_sf",
+              "observed": 266,
+              "unique": 2
+            },
+            {
+              "feature": "vmb_position_pf",
+              "observed": 266,
+              "unique": 2
+            },
+            {
+              "feature": "vmb_position_c",
+              "observed": 266,
+              "unique": 2
+            }
+          ]
+        },
+        "source_selection_hash": "5e3a2ccddde73f0db53fea452d91a30f08651ed047756aa851149f9b50024b7f",
+        "training_max_draft_year": 2012,
+        "max_label_season": 2013,
+        "source_only_baseline": true,
+        "diagnostic_only": true,
+        "ordering_policy_hash": "3cbb3adae17abc202f682f63600b34765f7a0885033515ae805a2b8639120568",
+        "input_columns": [
+          "ctx_base_stl_pct",
+          "ctx_base_fg3a",
+          "ctx_base_mid_attempts",
+          "ctx_skill_defense_discipline",
+          "ctx_base_ast_pg",
+          "ctx_base_stl_pg",
+          "ctx_base_ast_tov",
+          "ctx_base_dunk_attempts",
+          "ctx_base_ftm",
+          "ctx_base_oreb_pg",
+          "ctx_base_fg2_pct",
+          "ctx_skill_usage_efficiency",
+          "ctx_base_dunk_made",
+          "ctx_base_fg2m",
+          "ctx_skill_creation_control",
+          "ctx_base_fg3m",
+          "ctx_base_tov_pct",
+          "ctx_base_fg2a",
+          "ctx_base_dreb_pg",
+          "ctx_base_mid_made",
+          "ctx_base_rim_attempts",
+          "ctx_base_rim_made",
+          "ctx_base_fta",
+          "ctx_base_ts",
+          "ctx_base_three_share",
+          "ctx_base_ftr",
+          "ctx_base_fg3_pct",
+          "ctx_base_mpg",
+          "ctx_base_ft_pct",
+          "ctx_skill_ft_volume",
+          "ctx_base_ast_pct",
+          "ctx_base_blk_pg",
+          "ctx_base_fouls40",
+          "ctx_base_drb",
+          "ctx_base_minutes_share",
+          "ctx_base_blk_pct",
+          "ctx_base_pts_pg",
+          "ctx_base_gp",
+          "ctx_base_usage",
+          "ctx_base_efg",
+          "ctx_base_orb",
+          "slot_037",
+          "slot_038",
+          "slot_039",
+          "slot_040",
+          "slot_041"
+        ],
+        "raw_feature_count": 46,
+        "training_nonconstant_columns": 46
+      }
+    }
+  ],
+  "constructor_checks": [
+    {
+      "model_id": "tabicl16",
+      "seed": 0,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 16,
+        "random_state": 0,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "model_id": "tabicl16",
+      "seed": 101,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 16,
+        "random_state": 101,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "model_id": "tabicl16",
+      "seed": 202,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 16,
+        "random_state": 202,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "model_id": "tabicl32",
+      "seed": 0,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 0,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "model_id": "tabicl32",
+      "seed": 101,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 101,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "model_id": "tabicl32",
+      "seed": 202,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 32,
+        "random_state": 202,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "model_id": "tabicl45",
+      "seed": 0,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 45,
+        "random_state": 0,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "model_id": "tabicl45",
+      "seed": 101,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 45,
+        "random_state": 101,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "model_id": "tabicl45",
+      "seed": 202,
+      "parameters": {
+        "device": "cuda",
+        "n_estimators": 45,
+        "random_state": 202,
+        "batch_size": 32,
+        "norm_methods": "none",
+        "outlier_threshold": 2.0
+      }
+    },
+    {
+      "model_id": "ridge30",
+      "seed": 0,
+      "parameters": {
+        "alpha": 30,
+        "solver": "svd"
+      }
+    },
+    {
+      "model_id": "ridge300",
+      "seed": 0,
+      "parameters": {
+        "alpha": 300,
+        "solver": "svd"
+      }
+    },
+    {
+      "model_id": "ridge3000",
+      "seed": 0,
+      "parameters": {
+        "alpha": 3000,
+        "solver": "svd"
+      }
+    },
+    {
+      "model_id": "extratrees_leaf5",
+      "seed": 0,
+      "parameters": {
+        "n_estimators": 500,
+        "min_samples_leaf": 5,
+        "max_features": 0.7,
+        "n_jobs": 2,
+        "random_state": 0
+      }
+    },
+    {
+      "model_id": "extratrees_leaf5",
+      "seed": 101,
+      "parameters": {
+        "n_estimators": 500,
+        "min_samples_leaf": 5,
+        "max_features": 0.7,
+        "n_jobs": 2,
+        "random_state": 101
+      }
+    },
+    {
+      "model_id": "extratrees_leaf5",
+      "seed": 202,
+      "parameters": {
+        "n_estimators": 500,
+        "min_samples_leaf": 5,
+        "max_features": 0.7,
+        "n_jobs": 2,
+        "random_state": 202
+      }
+    },
+    {
+      "model_id": "extratrees_leaf15",
+      "seed": 0,
+      "parameters": {
+        "n_estimators": 500,
+        "min_samples_leaf": 15,
+        "max_features": 0.7,
+        "n_jobs": 2,
+        "random_state": 0
+      }
+    },
+    {
+      "model_id": "extratrees_leaf15",
+      "seed": 101,
+      "parameters": {
+        "n_estimators": 500,
+        "min_samples_leaf": 15,
+        "max_features": 0.7,
+        "n_jobs": 2,
+        "random_state": 101
+      }
+    },
+    {
+      "model_id": "extratrees_leaf15",
+      "seed": 202,
+      "parameters": {
+        "n_estimators": 500,
+        "min_samples_leaf": 15,
+        "max_features": 0.7,
+        "n_jobs": 2,
+        "random_state": 202
+      }
+    },
+    {
+      "model_id": "xgb_depth3",
+      "seed": 0,
+      "parameters": {
+        "max_depth": 3,
+        "n_estimators": 300,
+        "learning_rate": 0.05,
+        "min_child_weight": 5,
+        "reg_lambda": 5,
+        "subsample": 0.8,
+        "colsample_bytree": 0.8,
+        "n_jobs": 2,
+        "device": "cpu",
+        "tree_method": "hist",
+        "objective": "reg:squarederror",
+        "random_state": 0
+      }
+    },
+    {
+      "model_id": "xgb_depth3",
+      "seed": 101,
+      "parameters": {
+        "max_depth": 3,
+        "n_estimators": 300,
+        "learning_rate": 0.05,
+        "min_child_weight": 5,
+        "reg_lambda": 5,
+        "subsample": 0.8,
+        "colsample_bytree": 0.8,
+        "n_jobs": 2,
+        "device": "cpu",
+        "tree_method": "hist",
+        "objective": "reg:squarederror",
+        "random_state": 101
+      }
+    },
+    {
+      "model_id": "xgb_depth3",
+      "seed": 202,
+      "parameters": {
+        "max_depth": 3,
+        "n_estimators": 300,
+        "learning_rate": 0.05,
+        "min_child_weight": 5,
+        "reg_lambda": 5,
+        "subsample": 0.8,
+        "colsample_bytree": 0.8,
+        "n_jobs": 2,
+        "device": "cpu",
+        "tree_method": "hist",
+        "objective": "reg:squarederror",
+        "random_state": 202
+      }
+    },
+    {
+      "model_id": "xgb_depth5",
+      "seed": 0,
+      "parameters": {
+        "max_depth": 5,
+        "n_estimators": 300,
+        "learning_rate": 0.05,
+        "min_child_weight": 5,
+        "reg_lambda": 5,
+        "subsample": 0.8,
+        "colsample_bytree": 0.8,
+        "n_jobs": 2,
+        "device": "cpu",
+        "tree_method": "hist",
+        "objective": "reg:squarederror",
+        "random_state": 0
+      }
+    },
+    {
+      "model_id": "xgb_depth5",
+      "seed": 101,
+      "parameters": {
+        "max_depth": 5,
+        "n_estimators": 300,
+        "learning_rate": 0.05,
+        "min_child_weight": 5,
+        "reg_lambda": 5,
+        "subsample": 0.8,
+        "colsample_bytree": 0.8,
+        "n_jobs": 2,
+        "device": "cpu",
+        "tree_method": "hist",
+        "objective": "reg:squarederror",
+        "random_state": 101
+      }
+    },
+    {
+      "model_id": "xgb_depth5",
+      "seed": 202,
+      "parameters": {
+        "max_depth": 5,
+        "n_estimators": 300,
+        "learning_rate": 0.05,
+        "min_child_weight": 5,
+        "reg_lambda": 5,
+        "subsample": 0.8,
+        "colsample_bytree": 0.8,
+        "n_jobs": 2,
+        "device": "cpu",
+        "tree_method": "hist",
+        "objective": "reg:squarederror",
+        "random_state": 202
+      }
+    }
+  ],
+  "cpu_tests": {
+    "passed": true,
+    "training_only_medians_missing_indicators_scaling": true,
+    "all_missing_columns_retained": true,
+    "validation_extremes_leave_fitted_statistics_unchanged": true,
+    "native_nan_extratrees_tags": true,
+    "cpu_xgb_configuration": true,
+    "research_estimators_fitted": 0,
+    "gpu_predictor_calls": 0
+  },
+  "plan_sha256": "73b120a6569847298baa29c4dc1e3a0519d74aa18e960c654986c4ffee76d1d2",
+  "worker_sha256": "4a654bc0947c6d98f766ecd23127f60e9b811fc5e0aa9666539271f2f772ba1c",
+  "gpu_predictor_calls": 0,
+  "fallback_permitted": false
+}

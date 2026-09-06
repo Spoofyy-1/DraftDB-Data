@@ -1,0 +1,194 @@
+[
+  {
+    "raw_zero_based_index": 5,
+    "field": "ORtg",
+    "admit_current_raw_column": false,
+    "decision": "conditional_reconstruction_candidate_current_raw_unverified",
+    "earliest_definition_evidence": "2004 Oliver definition; ORtg independently discussed in a dated2005 college primer",
+    "pre2018_formula_decision": "Established definition predates freeze; authorize only a pinned reconstruction or proven matching implementation after source dependencies pass",
+    "walkforward_2012_2013_2014_decision": "Definition predates all folds; each reconstruction must use only college player/team/opponent data available at that fold cutoff",
+    "dependencies": "College player/team/opponent box scores, minutes, possessions and fixed pre-cutoff Oliver coefficients; no newly fitted NBA coefficient model",
+    "proof_needed": "Verify field meaning/unit and exact Torvik implementation against a pinned original definition, including possession/free-throw constants and zero denominators. Establish complete historical team/opponent denominators and source cutoff/vintage; do not infer raw-column equivalence from the label.",
+    "sources": [
+      "oliver_ratings",
+      "kenpom_primer"
+    ]
+  },
+  {
+    "raw_zero_based_index": 28,
+    "field": "porpag",
+    "admit_current_raw_column": false,
+    "decision": "unresolved_exclude",
+    "earliest_definition_evidence": "No dated exact player-level formula established within the bounded primary-source audit",
+    "pre2018_formula_decision": "Unresolved; exclude",
+    "walkforward_2012_2013_2014_decision": "Unresolved for every fold; exclude",
+    "dependencies": "Unverified: player versus team adjusted-rating identity, opponent-strength adjustment, baseline/replacement value, usage/tempo/minutes transformations and estimation sample",
+    "proof_needed": "Obtain dated author formula and exact raw-field mapping. Trace all strength-of-schedule, replacement and calibration constants to college-only data ending before the relevant cutoff. Do not substitute current team ADJOE descriptions for player field29.",
+    "sources": [
+      "torvik_author"
+    ]
+  },
+  {
+    "raw_zero_based_index": 29,
+    "field": "adjoe",
+    "admit_current_raw_column": false,
+    "decision": "unresolved_exclude",
+    "earliest_definition_evidence": "No dated exact player-level formula established within the bounded primary-source audit",
+    "pre2018_formula_decision": "Unresolved; exclude",
+    "walkforward_2012_2013_2014_decision": "Unresolved for every fold; exclude",
+    "dependencies": "Unverified: player versus team adjusted-rating identity, opponent-strength adjustment, baseline/replacement value, usage/tempo/minutes transformations and estimation sample",
+    "proof_needed": "Obtain dated author formula and exact raw-field mapping. Trace all strength-of-schedule, replacement and calibration constants to college-only data ending before the relevant cutoff. Do not substitute current team ADJOE descriptions for player field29.",
+    "sources": [
+      "torvik_author"
+    ]
+  },
+  {
+    "raw_zero_based_index": 46,
+    "field": "drtg",
+    "admit_current_raw_column": false,
+    "decision": "conditional_reconstruction_candidate_current_raw_unverified",
+    "earliest_definition_evidence": "2004 Oliver definition; ORtg independently discussed in a dated2005 college primer",
+    "pre2018_formula_decision": "Established definition predates freeze; authorize only a pinned reconstruction or proven matching implementation after source dependencies pass",
+    "walkforward_2012_2013_2014_decision": "Definition predates all folds; each reconstruction must use only college player/team/opponent data available at that fold cutoff",
+    "dependencies": "College player/team/opponent box scores, minutes, possessions and fixed pre-cutoff Oliver coefficients; no newly fitted NBA coefficient model",
+    "proof_needed": "Verify field meaning/unit and exact Torvik implementation against a pinned original definition, including possession/free-throw constants and zero denominators. Establish complete historical team/opponent denominators and source cutoff/vintage; do not infer raw-column equivalence from the label.",
+    "sources": [
+      "oliver_ratings"
+    ]
+  },
+  {
+    "raw_zero_based_index": 47,
+    "field": "adrtg",
+    "admit_current_raw_column": false,
+    "decision": "unresolved_exclude",
+    "earliest_definition_evidence": "No dated exact player-level formula established within the bounded primary-source audit",
+    "pre2018_formula_decision": "Unresolved; exclude",
+    "walkforward_2012_2013_2014_decision": "Unresolved for every fold; exclude",
+    "dependencies": "Unverified: player versus team adjusted-rating identity, opponent-strength adjustment, baseline/replacement value, usage/tempo/minutes transformations and estimation sample",
+    "proof_needed": "Obtain dated author formula and exact raw-field mapping. Trace all strength-of-schedule, replacement and calibration constants to college-only data ending before the relevant cutoff. Do not substitute current team ADJOE descriptions for player field29.",
+    "sources": [
+      "torvik_author"
+    ]
+  },
+  {
+    "raw_zero_based_index": 48,
+    "field": "dporpag",
+    "admit_current_raw_column": false,
+    "decision": "unresolved_exclude",
+    "earliest_definition_evidence": "No dated exact player-level formula established within the bounded primary-source audit",
+    "pre2018_formula_decision": "Unresolved; exclude",
+    "walkforward_2012_2013_2014_decision": "Unresolved for every fold; exclude",
+    "dependencies": "Unverified: player versus team adjusted-rating identity, opponent-strength adjustment, baseline/replacement value, usage/tempo/minutes transformations and estimation sample",
+    "proof_needed": "Obtain dated author formula and exact raw-field mapping. Trace all strength-of-schedule, replacement and calibration constants to college-only data ending before the relevant cutoff. Do not substitute current team ADJOE descriptions for player field29.",
+    "sources": [
+      "torvik_author"
+    ]
+  },
+  {
+    "raw_zero_based_index": 49,
+    "field": "stops",
+    "admit_current_raw_column": false,
+    "decision": "conditional_reconstruction_candidate_current_raw_unverified",
+    "earliest_definition_evidence": "2004 Oliver definition; ORtg independently discussed in a dated2005 college primer",
+    "pre2018_formula_decision": "Established definition predates freeze; authorize only a pinned reconstruction or proven matching implementation after source dependencies pass",
+    "walkforward_2012_2013_2014_decision": "Definition predates all folds; each reconstruction must use only college player/team/opponent data available at that fold cutoff",
+    "dependencies": "College player/team/opponent box scores, minutes, possessions and fixed pre-cutoff Oliver coefficients; no newly fitted NBA coefficient model",
+    "proof_needed": "Verify field meaning/unit and exact Torvik implementation against a pinned original definition, including possession/free-throw constants and zero denominators. Establish complete historical team/opponent denominators and source cutoff/vintage; do not infer raw-column equivalence from the label.",
+    "sources": [
+      "oliver_ratings"
+    ]
+  },
+  {
+    "raw_zero_based_index": 50,
+    "field": "bpm",
+    "admit_current_raw_column": false,
+    "decision": "unresolved_exclude",
+    "earliest_definition_evidence": "Original Myers BPM released in2014; exact day and Torvik adaptation unverified",
+    "pre2018_formula_decision": "Original method predates2018 in principle; current Torvik version, adaptation and coefficient sample unverified, so exclude",
+    "walkforward_2012_2013_2014_decision": "2012/2013: original public method postdates these folds. 2014: exact release/cutoff and permitted calibration sample unverified; exclude all three folds.",
+    "dependencies": "A fitted NBA RAPM coefficient model plus player box scores and team context; offensive/defensive variant mapping in Torvik is not proven by the total-BPM comment",
+    "proof_needed": "Pin original release date, source code/coefficients and end date of NBA calibration sample; establish exact college adjustment and current raw-column equivalence. Even if legally available by2018, reuse in earlier folds needs a separate time-valid methodological rule.",
+    "sources": [
+      "bpm_methods",
+      "torvik_author"
+    ]
+  },
+  {
+    "raw_zero_based_index": 51,
+    "field": "obpm",
+    "admit_current_raw_column": false,
+    "decision": "unresolved_exclude",
+    "earliest_definition_evidence": "Original Myers BPM released in2014; exact day and Torvik adaptation unverified",
+    "pre2018_formula_decision": "Original method predates2018 in principle; current Torvik version, adaptation and coefficient sample unverified, so exclude",
+    "walkforward_2012_2013_2014_decision": "2012/2013: original public method postdates these folds. 2014: exact release/cutoff and permitted calibration sample unverified; exclude all three folds.",
+    "dependencies": "A fitted NBA RAPM coefficient model plus player box scores and team context; offensive/defensive variant mapping in Torvik is not proven by the total-BPM comment",
+    "proof_needed": "Pin original release date, source code/coefficients and end date of NBA calibration sample; establish exact college adjustment and current raw-column equivalence. Even if legally available by2018, reuse in earlier folds needs a separate time-valid methodological rule.",
+    "sources": [
+      "bpm_methods",
+      "torvik_author"
+    ]
+  },
+  {
+    "raw_zero_based_index": 52,
+    "field": "dbpm",
+    "admit_current_raw_column": false,
+    "decision": "unresolved_exclude",
+    "earliest_definition_evidence": "Original Myers BPM released in2014; exact day and Torvik adaptation unverified",
+    "pre2018_formula_decision": "Original method predates2018 in principle; current Torvik version, adaptation and coefficient sample unverified, so exclude",
+    "walkforward_2012_2013_2014_decision": "2012/2013: original public method postdates these folds. 2014: exact release/cutoff and permitted calibration sample unverified; exclude all three folds.",
+    "dependencies": "A fitted NBA RAPM coefficient model plus player box scores and team context; offensive/defensive variant mapping in Torvik is not proven by the total-BPM comment",
+    "proof_needed": "Pin original release date, source code/coefficients and end date of NBA calibration sample; establish exact college adjustment and current raw-column equivalence. Even if legally available by2018, reuse in earlier folds needs a separate time-valid methodological rule.",
+    "sources": [
+      "bpm_methods",
+      "torvik_author"
+    ]
+  },
+  {
+    "raw_zero_based_index": 53,
+    "field": "gbpm",
+    "admit_current_raw_column": false,
+    "decision": "exclude_later_formula_vintage_and_unverified_adaptation",
+    "earliest_definition_evidence": "BPM2 authored February2020; publisher rollout2020-02-25; Torvik author identifies gbpm with BPM2 in2022",
+    "pre2018_formula_decision": "Exclude: documented formula release follows2018",
+    "walkforward_2012_2013_2014_decision": "Exclude: formula follows all folds and NBA calibration through2015\u201316 includes later seasons relative to these folds",
+    "dependencies": "NBA-fitted BPM2 coefficients, position/role estimation and college team/player inputs; offensive/defensive raw variant mapping remains unverified",
+    "proof_needed": "A separately registered alternative using only pre-cutoff coefficients could be reconstructed, but it must receive a new feature name and cannot be labeled as validated current GBPM. Need exact Torvik adaptation and release evidence before any later-cutoff use.",
+    "sources": [
+      "bpm_methods",
+      "bpm_release",
+      "torvik_author"
+    ]
+  },
+  {
+    "raw_zero_based_index": 55,
+    "field": "ogbpm",
+    "admit_current_raw_column": false,
+    "decision": "exclude_later_formula_vintage_and_unverified_adaptation",
+    "earliest_definition_evidence": "BPM2 authored February2020; publisher rollout2020-02-25; Torvik author identifies gbpm with BPM2 in2022",
+    "pre2018_formula_decision": "Exclude: documented formula release follows2018",
+    "walkforward_2012_2013_2014_decision": "Exclude: formula follows all folds and NBA calibration through2015\u201316 includes later seasons relative to these folds",
+    "dependencies": "NBA-fitted BPM2 coefficients, position/role estimation and college team/player inputs; offensive/defensive raw variant mapping remains unverified",
+    "proof_needed": "A separately registered alternative using only pre-cutoff coefficients could be reconstructed, but it must receive a new feature name and cannot be labeled as validated current GBPM. Need exact Torvik adaptation and release evidence before any later-cutoff use.",
+    "sources": [
+      "bpm_methods",
+      "bpm_release",
+      "torvik_author"
+    ]
+  },
+  {
+    "raw_zero_based_index": 56,
+    "field": "dgbpm",
+    "admit_current_raw_column": false,
+    "decision": "exclude_later_formula_vintage_and_unverified_adaptation",
+    "earliest_definition_evidence": "BPM2 authored February2020; publisher rollout2020-02-25; Torvik author identifies gbpm with BPM2 in2022",
+    "pre2018_formula_decision": "Exclude: documented formula release follows2018",
+    "walkforward_2012_2013_2014_decision": "Exclude: formula follows all folds and NBA calibration through2015\u201316 includes later seasons relative to these folds",
+    "dependencies": "NBA-fitted BPM2 coefficients, position/role estimation and college team/player inputs; offensive/defensive raw variant mapping remains unverified",
+    "proof_needed": "A separately registered alternative using only pre-cutoff coefficients could be reconstructed, but it must receive a new feature name and cannot be labeled as validated current GBPM. Need exact Torvik adaptation and release evidence before any later-cutoff use.",
+    "sources": [
+      "bpm_methods",
+      "bpm_release",
+      "torvik_author"
+    ]
+  }
+]

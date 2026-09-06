@@ -1,0 +1,19 @@
+{
+  "tests_passed": 8,
+  "tests_failed": 0,
+  "test_command": "PYTHONDONTWRITEBYTECODE=1 python3 work/prior_population_identity_bridge/test_verify.py",
+  "source_ID_pairs_verified": 2,
+  "wrong_cache_files_verified_unchanged": 4,
+  "calendar_metadata_proposals": 5,
+  "WAR_values_read": 0,
+  "WAR_agreement_used_as_identity_proof": false,
+  "current_measurements_imported": false,
+  "current_test_outcomes_read": false,
+  "initiated_search_queries": 2,
+  "direct_HTTP_requests": 5,
+  "request_cap": 12,
+  "original_caches_modified": false,
+  "existing_bundles_modified": false,
+  "verify_code_sha256": "4eb4698e56829bd819d908b7121eb9ab51c424e38b8f98c23a3318b8be67505d",
+  "test_code_sha256": "606f40fda1d8b26f0d8480060dc53272750d13647034d89cfb383d55bc086bb5"
+}

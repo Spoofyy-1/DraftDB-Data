@@ -1,0 +1,29 @@
+{
+  "identities_requested": 2,
+  "exact_published_cross_system_bridges_verified": 2,
+  "official_historical_combine_IDs_corroborated": 2,
+  "father_homonyms_distinguished": 2,
+  "wrong_person_cache_subjects": 2,
+  "wrong_person_cache_files": 4,
+  "wrong_cached_revisions_predate_target_draft": true,
+  "proposed_calendar_metadata_entries": 5,
+  "proposed_calendar_entries_end_no_later_than": 2018,
+  "numeric_WAR_values_read": 0,
+  "numeric_WAR_values_used_as_identity_proof": 0,
+  "current_measurements_or_features_imported": 0,
+  "current_or_future_test_outcomes_read": 0,
+  "initiated_queries_and_HTTP_requests": 7,
+  "request_cap": 12,
+  "model_fits": 0,
+  "benchmark_scores": 0,
+  "existing_bundles_modified": false,
+  "original_caches_modified": false,
+  "automatic_calendar_or_label_promotion": false,
+  "public_output_scope": "aggregate counts and verification only; identities and proposed calendars private",
+  "limitations": [
+    "The exact published ID registry is community-maintained Wikidata; NBA-ID statements have no attached reference in these snapshots.",
+    "The NBA IDs independently match already verified official predraft combine records; WAR agreement is not identity evidence.",
+    "Current stable identity claims are used only for cross-system identity correction, never as model features.",
+    "This review resolves identity only. Parent must independently apply historical season cutoff and existing label definition when rebuilding bundles."
+  ]
+}

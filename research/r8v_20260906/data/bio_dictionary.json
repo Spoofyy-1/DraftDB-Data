@@ -1,0 +1,52 @@
+{
+  "vmb_age_reported_years": {
+    "source": "DraftExpress archived pre-draft mock player cell",
+    "note": "Age shown in the captured page, often integer-rounded; NOT exact age on draft night. No birthday inferred.",
+    "unit": "listed years"
+  },
+  "vmb_listed_height_in": {
+    "source": "DraftExpress archived pre-draft mock player cell",
+    "note": "Contemporaneously listed, not verified official measurement; no modern bios or post-draft fills",
+    "unit": "listed inches; shoe convention unknown"
+  },
+  "vmb_listed_weight_lb": {
+    "source": "DraftExpress archived pre-draft mock player cell",
+    "note": "Contemporaneously listed, not verified official measurement; no modern bios or post-draft fills",
+    "unit": "listed pounds"
+  },
+  "vmb_listed_bmi": {
+    "source": "DraftExpress archived pre-draft mock player cell",
+    "note": "Derived only from same-cell listed weight and listed height; shoes convention unknown. Kept separate from official combine BMI.",
+    "unit": "kg/m^2 from same-cell listed values"
+  },
+  "vmb_college_class_year": {
+    "source": "DraftExpress archived pre-draft mock player cell",
+    "note": "Freshman1, Sophomore2, Junior3, Senior4; high school/international/unspecified remain missing.",
+    "unit": "ordinal1-4; not inferred for international/high-school players"
+  },
+  "vmb_position_pg": {
+    "source": "DraftExpress archived pre-draft mock player cell",
+    "note": "Multi-position indicator from explicit listed position; all five stay missing if position unparsed.",
+    "unit": "indicator0/1; all missing when role unspecified"
+  },
+  "vmb_position_sg": {
+    "source": "DraftExpress archived pre-draft mock player cell",
+    "note": "Multi-position indicator from explicit listed position; all five stay missing if position unparsed.",
+    "unit": "indicator0/1; all missing when role unspecified"
+  },
+  "vmb_position_sf": {
+    "source": "DraftExpress archived pre-draft mock player cell",
+    "note": "Multi-position indicator from explicit listed position; all five stay missing if position unparsed.",
+    "unit": "indicator0/1; all missing when role unspecified"
+  },
+  "vmb_position_pf": {
+    "source": "DraftExpress archived pre-draft mock player cell",
+    "note": "Multi-position indicator from explicit listed position; all five stay missing if position unparsed.",
+    "unit": "indicator0/1; all missing when role unspecified"
+  },
+  "vmb_position_c": {
+    "source": "DraftExpress archived pre-draft mock player cell",
+    "note": "Multi-position indicator from explicit listed position; all five stay missing if position unparsed.",
+    "unit": "indicator0/1; all missing when role unspecified"
+  }
+}

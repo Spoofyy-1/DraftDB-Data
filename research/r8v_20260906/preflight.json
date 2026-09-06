@@ -1,0 +1,28 @@
+{
+  "passed": true,
+  "tasks": 48,
+  "model_specs": 10,
+  "backgrounds": 2,
+  "deterministic_ridge_tasks": 6,
+  "source_files_checked": 16,
+  "summary_fixture_variants": 20,
+  "six_reference_replays_required_before_interpretation": true,
+  "tamper_rejections": [
+    "gpu_xgboost_disallowed",
+    "changed_seed",
+    "changed_input_columns",
+    "changed_training_label_hash",
+    "future_training_season",
+    "validation_fitted_preprocessing",
+    "missing_effective_constructor",
+    "wrong_effective_ensemble_count",
+    "missing_ridge_preprocessing",
+    "wrong_scaler_training_count",
+    "changed_raw_reference_prediction",
+    "changed_reference_score"
+  ],
+  "TypeError_constructor_fails_closed": true,
+  "gpu_predictor_calls": 0,
+  "research_estimators_fitted": 0,
+  "server_tests_required": "Actual sklearn median/indicator/scaling train-only fixtures; native-NaN ExtraTrees tags; CPU XGB constructor; completed U exact input/hash replay for both backgrounds."
+}

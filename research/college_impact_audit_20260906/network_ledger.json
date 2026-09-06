@@ -1,0 +1,79 @@
+{
+  "limit": 12,
+  "operations_including_cached_finds": 12,
+  "additional_root_evidence": "Parent supplied existing primary-method retrieval; no extra network request by this agent",
+  "requests": [
+    {
+      "ordinal": 1,
+      "operation": "open",
+      "target_or_query": "https://adamcwisports.blogspot.com/p/data.html",
+      "result": "success"
+    },
+    {
+      "ordinal": 2,
+      "operation": "open",
+      "target_or_query": "https://www.basketball-reference.com/about/bpm2.html",
+      "result": "internal_error"
+    },
+    {
+      "ordinal": 3,
+      "operation": "find_cached",
+      "target_or_query": "gbpm",
+      "result": "success"
+    },
+    {
+      "ordinal": 4,
+      "operation": "find_cached",
+      "target_or_query": "PORPAG",
+      "result": "no_exact_case_match"
+    },
+    {
+      "ordinal": 5,
+      "operation": "find_cached",
+      "target_or_query": "stop",
+      "result": "no_match"
+    },
+    {
+      "ordinal": 6,
+      "operation": "search",
+      "target_or_query": "site.adamcwisports.blogspot.com PORPAGATU2016",
+      "result": "malformed_site_filter_no_formula"
+    },
+    {
+      "ordinal": 7,
+      "operation": "search",
+      "target_or_query": "site:basketball-reference.com/about/bpm2.html20141997",
+      "result": "irrelevant_results_ignored"
+    },
+    {
+      "ordinal": 8,
+      "operation": "search",
+      "target_or_query": "site:adamcwisports.blogspot.com PORPAGATU2016or2015or2014",
+      "result": "dated_backfill_found_no_exact_formula"
+    },
+    {
+      "ordinal": 9,
+      "operation": "search",
+      "target_or_query": "site:kenpom.com/blog individual offensive rating2004or2005",
+      "result": "2005_primary_primer"
+    },
+    {
+      "ordinal": 10,
+      "operation": "search",
+      "target_or_query": "PORPAGATU formula Bart Torvik; author_domains",
+      "result": "no_dated_exact_formula"
+    },
+    {
+      "ordinal": 11,
+      "operation": "search",
+      "target_or_query": "defensive rating stops Oliver; primary_domains",
+      "result": "primary_2004_definition_and_formulas"
+    },
+    {
+      "ordinal": 12,
+      "operation": "search",
+      "target_or_query": "Box Plus/Minus February20202014; publisher_domains",
+      "result": "primary_methods_and2020_announcement"
+    }
+  ]
+}

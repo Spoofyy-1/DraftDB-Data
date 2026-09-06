@@ -1,0 +1,72 @@
+[
+  {
+    "id": "torvik_author",
+    "url": "https://adamcwisports.blogspot.com/p/data.html",
+    "author": "Bart Torvik",
+    "relevant_statement_dates": [
+      "2020-11-05",
+      "2022-05-02",
+      "2022-06-06"
+    ],
+    "retrieval": "Web tool open and cached find; no local HTML capture",
+    "claim": "Author identifies internal bpm as original Myers BPM and gbpm as BPM2.0; warns that some internal statistics are superseded. Author says source layouts from 2010 onward share a layout; 2008/09 may omit blank play-by-play columns.",
+    "limitation": "A 2022 explanation does not establish the exact code/coefficients or historical output vintage of the current CSV."
+  },
+  {
+    "id": "kenpom_primer",
+    "url": "https://kenpom.com/blog/individual-stats-primer/",
+    "author": "Ken Pomeroy",
+    "relevant_statement_dates": [
+      "2005-09-21"
+    ],
+    "retrieval": "Primary page text returned by web search; no archival capture",
+    "claim": "Contemporaneous college-statistics primer attributes individual ORtg to Dean Oliver and Basketball on Paper.",
+    "limitation": "Confirms the established statistic, not that current Torvik field5 is an unchanged implementation."
+  },
+  {
+    "id": "oliver_ratings",
+    "url": "https://www.basketball-reference.com/about/ratings.html",
+    "author": "Basketball Reference, documenting Dean Oliver",
+    "relevant_statement_dates": [
+      "2004"
+    ],
+    "date_kind": "Publication year of the named originating book, as stated on the current primary methods page; page publication date unavailable",
+    "retrieval": "Primary methods text returned by web search",
+    "claim": "ORtg, individual DRtg and defensive Stops are documented box-score constructions from Basketball on Paper. Formula inputs are the player, team and opponents box-score totals and possession/minute estimates.",
+    "limitation": "This audit has no original-book pages or Torvik implementation hash; reconstructing these definitions requires all historical denominators and constants."
+  },
+  {
+    "id": "bpm_methods",
+    "url": "https://www.basketball-reference.com/about/bpm2.html",
+    "author": "Daniel Myers",
+    "relevant_statement_dates": [
+      "2014",
+      "2020-02"
+    ],
+    "retrieval": "Direct open failed; primary methods text returned by later web search. Root independently supplied its web-tool retrieval of Regression Basis and appendix; no raw HTML hash is claimed.",
+    "claim": "Original BPM appeared in 2014 using a long NBA RAPM regression basis. BPM2 is dated February2020; its regression basis comprises four five-year NBA RAPM datasets spanning1996\u201397 through2015\u201316. Position/role coefficients also derive from NBA samples.",
+    "limitation": "The precise original release day and Torvik college adaptation/version remain unverified. Root supplied calibration-section evidence beyond this agent\u2019s returned excerpt."
+  },
+  {
+    "id": "bpm_release",
+    "url": "https://www.sports-reference.com/blog/2020/02/introducing-bpm-2-0/",
+    "author": "Mike Lynch, Sports Reference",
+    "relevant_statement_dates": [
+      "2020-02-25"
+    ],
+    "retrieval": "Primary publisher announcement returned by web search",
+    "claim": "Publisher announces replacement of displayed BPM with BPM2.0 on February25,2020.",
+    "limitation": "Does not date Torvik adoption."
+  },
+  {
+    "id": "torvik_backfill",
+    "url": "https://adamcwisports.blogspot.com/2017/10/",
+    "author": "Bart Torvik",
+    "relevant_statement_dates": [
+      "2017-10"
+    ],
+    "retrieval": "Primary monthly archive text returned by web search",
+    "claim": "Author reports backfilling team/player advanced statistics through2008 by2017, with weaker older play-by-play coverage.",
+    "limitation": "Backfilled season year is not proof that a present-day formula or table existed in2012\u201314; no exact date/capture for the individual post was obtained."
+  }
+]

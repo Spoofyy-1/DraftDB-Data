@@ -1,0 +1,20 @@
+{
+  "study": "R8v",
+  "frozen_before_first_model": true,
+  "files": {
+    "worker.py": "4a654bc0947c6d98f766ecd23127f60e9b811fc5e0aa9666539271f2f772ba1c",
+    "plan.json": "73b120a6569847298baa29c4dc1e3a0519d74aa18e960c654986c4ffee76d1d2",
+    "prepare_data.py": "d1b2a71355415bd0990ee9adf7a6d3c42dba94e29c0268241926b680ac3a7c81",
+    "preflight.py": "584f8b75d155542206015febd7418478f99a2c97210a9b5f4391664250174068",
+    "preflight.json": "9dfcec11bda71ce1c7e36c1412050f5712bb2146dd28a081a9eab928aa7e8d9d",
+    "cpu_tests.py": "3bf7b4fcbb0682a3a07a2888f26824179edc40840844aa05ac116342ca613575",
+    "research.py": "28b8f5d1896f3049db8b62972740dd63974d0277401ee712fe5275c263eb8f7a",
+    "run_sandbox.sh": "2c6d312c88d8249d9544fa1198ae4479976653038723f05b1fb9229243d7b2a2",
+    "legacy_kernel.py": "ddc58666da0d784a1b67f6b8ee4763599bdce14bb91768893e6fb87af4620ee1",
+    "baseline_reference.json": "909707e2e8d46c49c8df51f0eee703e0d1ced62587d8992dcd0a8b888d78ba94",
+    "data/manifest.json": "9856bafd69e899a26cd387300d4145a5cd8cc2926c75a3a0971a0a385ecaa9d3",
+    "r8u_reference/worker.py": "a1e6e9af519949dbe874632b2eba439945aad8f9abbd227e82d585fd6941ec0c",
+    "r8u_reference/plan.json": "1be9b5a6f774560d9c9be4aa2ef5e3390e211f3be65e308c5b008d547ae6c359",
+    "r8u_reference/legacy_kernel.py": "ddc58666da0d784a1b67f6b8ee4763599bdce14bb91768893e6fb87af4620ee1"
+  }
+}
