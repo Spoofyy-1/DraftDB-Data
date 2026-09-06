@@ -1,0 +1,37 @@
+[
+  {
+    "kind": "fresh",
+    "intervening_other_training_context": false,
+    "seconds": 2.9771403819904663,
+    "max_prediction_difference": 0.0,
+    "same_order": true
+  },
+  {
+    "kind": "reuse",
+    "intervening_other_training_context": false,
+    "seconds": 1.4584458509925753,
+    "max_prediction_difference": 0.0,
+    "same_order": true
+  },
+  {
+    "kind": "reuse",
+    "intervening_other_training_context": true,
+    "seconds": 2.1792427109903656,
+    "max_prediction_difference": null,
+    "same_order": null
+  },
+  {
+    "kind": "reuse",
+    "intervening_other_training_context": false,
+    "seconds": 0.6002044630004093,
+    "max_prediction_difference": 0.0,
+    "same_order": true
+  },
+  {
+    "kind": "fresh",
+    "intervening_other_training_context": false,
+    "seconds": 0.8839595029712655,
+    "max_prediction_difference": 0.0,
+    "same_order": true
+  }
+]
