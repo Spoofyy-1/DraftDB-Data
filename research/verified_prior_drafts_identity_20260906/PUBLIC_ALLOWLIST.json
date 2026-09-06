@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "exhaustive": true,
+  "files": [
+    "README.md",
+    "PUBLIC_ALLOWLIST.json",
+    "audit.py",
+    "test_audit.py",
+    "data/coverage.json",
+    "data/gap_statuses.csv",
+    "data/all_membership_statuses.csv",
+    "data/manifest.json",
+    "data/validation.json"
+  ],
+  "excluded": [
+    "private/**",
+    "all identity catalogs and name/PID/NBA-ID crosswalks",
+    "all protected actual-position files",
+    "all full copyrighted source captures",
+    "all NBA outcome values, WAR, labels, test predictions and test results",
+    "all unspecified files"
+  ],
+  "model_sandbox_allowlist": [],
+  "notes": "Public factual source names inside reviewed alias code are from prior-draft/early-entry records; no private PID or key row is hardcoded. These audit files are not model inputs. No publication has been performed."
+}

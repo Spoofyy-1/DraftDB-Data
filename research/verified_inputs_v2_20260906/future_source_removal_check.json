@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "test": "Rebuild without reading2019\u20132026 profile/consensus feature CSVs; training bytes unchanged",
+  "training_sha256": "83f2923ad06f98f34f167f72772c74303a05ad2cd28ad657e208f16db468dfd6",
+  "existing_cells_preserved_as_exact_text": true,
+  "models_run": false
+}

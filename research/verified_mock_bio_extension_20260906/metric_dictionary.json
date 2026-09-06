@@ -1,0 +1,62 @@
+{
+  "vmb_age_reported_years": {
+    "source": "Verified archived DX, NBADraft, or serious Walter mock player cell/row; see selected_sources.csv",
+    "note": "Age shown in the captured page, often integer-rounded; NOT exact age on draft night. No birthday inferred.",
+    "unit": "listed years",
+    "extension_note": "Definitions unchanged; one whole source row chosen by fixed DX, NBADraft, serious Walter priority; no cross-source field filling."
+  },
+  "vmb_listed_height_in": {
+    "source": "Verified archived DX, NBADraft, or serious Walter mock player cell/row; see selected_sources.csv",
+    "note": "Contemporaneously listed, not verified official measurement; no modern bios or post-draft fills",
+    "unit": "listed inches; shoe convention unknown",
+    "extension_note": "Definitions unchanged; one whole source row chosen by fixed DX, NBADraft, serious Walter priority; no cross-source field filling."
+  },
+  "vmb_listed_weight_lb": {
+    "source": "Verified archived DX, NBADraft, or serious Walter mock player cell/row; see selected_sources.csv",
+    "note": "Contemporaneously listed, not verified official measurement; no modern bios or post-draft fills",
+    "unit": "listed pounds",
+    "extension_note": "Definitions unchanged; one whole source row chosen by fixed DX, NBADraft, serious Walter priority; no cross-source field filling."
+  },
+  "vmb_listed_bmi": {
+    "source": "Verified archived DX, NBADraft, or serious Walter mock player cell/row; see selected_sources.csv",
+    "note": "Derived only from same-cell listed weight and listed height; shoes convention unknown. Kept separate from official combine BMI.",
+    "unit": "kg/m^2 from same-cell listed values",
+    "extension_note": "Definitions unchanged; one whole source row chosen by fixed DX, NBADraft, serious Walter priority; no cross-source field filling."
+  },
+  "vmb_college_class_year": {
+    "source": "Verified archived DX, NBADraft, or serious Walter mock player cell/row; see selected_sources.csv",
+    "note": "Freshman1, Sophomore2, Junior3, Senior4; high school/international/unspecified remain missing.",
+    "unit": "ordinal1-4; not inferred for international/high-school players",
+    "extension_note": "Definitions unchanged; one whole source row chosen by fixed DX, NBADraft, serious Walter priority; no cross-source field filling."
+  },
+  "vmb_position_pg": {
+    "source": "Verified archived DX, NBADraft, or serious Walter mock player cell/row; see selected_sources.csv",
+    "note": "Multi-position indicator from explicit listed position; all five stay missing if position unparsed.",
+    "unit": "indicator0/1; all missing when role unspecified",
+    "extension_note": "Definitions unchanged; one whole source row chosen by fixed DX, NBADraft, serious Walter priority; no cross-source field filling."
+  },
+  "vmb_position_sg": {
+    "source": "Verified archived DX, NBADraft, or serious Walter mock player cell/row; see selected_sources.csv",
+    "note": "Multi-position indicator from explicit listed position; all five stay missing if position unparsed.",
+    "unit": "indicator0/1; all missing when role unspecified",
+    "extension_note": "Definitions unchanged; one whole source row chosen by fixed DX, NBADraft, serious Walter priority; no cross-source field filling."
+  },
+  "vmb_position_sf": {
+    "source": "Verified archived DX, NBADraft, or serious Walter mock player cell/row; see selected_sources.csv",
+    "note": "Multi-position indicator from explicit listed position; all five stay missing if position unparsed.",
+    "unit": "indicator0/1; all missing when role unspecified",
+    "extension_note": "Definitions unchanged; one whole source row chosen by fixed DX, NBADraft, serious Walter priority; no cross-source field filling."
+  },
+  "vmb_position_pf": {
+    "source": "Verified archived DX, NBADraft, or serious Walter mock player cell/row; see selected_sources.csv",
+    "note": "Multi-position indicator from explicit listed position; all five stay missing if position unparsed.",
+    "unit": "indicator0/1; all missing when role unspecified",
+    "extension_note": "Definitions unchanged; one whole source row chosen by fixed DX, NBADraft, serious Walter priority; no cross-source field filling."
+  },
+  "vmb_position_c": {
+    "source": "Verified archived DX, NBADraft, or serious Walter mock player cell/row; see selected_sources.csv",
+    "note": "Multi-position indicator from explicit listed position; all five stay missing if position unparsed.",
+    "unit": "indicator0/1; all missing when role unspecified",
+    "extension_note": "Definitions unchanged; one whole source row chosen by fixed DX, NBADraft, serious Walter priority; no cross-source field filling."
+  }
+}

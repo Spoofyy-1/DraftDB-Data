@@ -1,0 +1,14 @@
+{
+  "status": "local_preflight_passed_no_model_launch",
+  "files": {
+    "prepare_data.py": "94d1e67fb9614c8af3f5c03566c9cea072ac08fb4b82ed7fe7678c4f45caa551",
+    "worker.py": "cddec512827fe50b7a23d2b82d36b15b61cdb855c4d020130416cd3f66ae27c2",
+    "plan.json": "1f900277f41e40e8d811460a6e535d766232d991199216735fa30cdbe237c21f",
+    "preflight.py": "baceff9d11f65b9c749daa2afcaa4e5004b73c38510099596df7c20e0b2c1d08",
+    "preflight.json": "bcb0496fca6c79884bad4dabbad5ec4fbf16afae584caad939f8866bf15be1aa",
+    "README.md": "cbd779a07423800ff5a2ab68986f31f4c94b794de0244c03b474f0545052e3ca",
+    "legacy_kernel.py": "ddc58666da0d784a1b67f6b8ee4763599bdce14bb91768893e6fb87af4620ee1",
+    "data/manifest.json": "f44b664d94cbb9ee76b22caf129e0f1197b65125c3beb0b4481b99b8fcd17f90"
+  },
+  "tasks": 60
+}

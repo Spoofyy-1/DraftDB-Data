@@ -1,0 +1,161 @@
+{
+  "version": "verified_inputs_v2_20260906",
+  "files": [
+    {
+      "file": "2019_inputs.csv",
+      "rows": 137,
+      "coverage": {
+        "vcons_": 51,
+        "vmb_": 51
+      },
+      "base_sha256": "4b0254a282aad9a99b97a24f5a01e66fe54800d107c932a84c1e5c27694283d0",
+      "sha256": "bedb2b4462329fe4a5d55ab666b454e16bd5571be2ae2ebc5c3152f534f21ed9"
+    },
+    {
+      "file": "2020_inputs.csv",
+      "rows": 112,
+      "coverage": {
+        "vcons_": 54,
+        "vmb_": 54
+      },
+      "base_sha256": "47e54f73977bc8959af99abd70d69384a968bbd98ee44f352bbf641596a035ca",
+      "sha256": "21177684b19b66b52f8cab2390aab01365fb97c0eb2cebc75d3303fab04040f5"
+    },
+    {
+      "file": "2021_inputs.csv",
+      "rows": 233,
+      "coverage": {
+        "vcons_": 46,
+        "vmb_": 46
+      },
+      "base_sha256": "b86ea512e23ee08ff29d2d26d4107e36b7d8d74e79c8c7629e6fb4e9344a1683",
+      "sha256": "710bd5ec34874a1b3ae73f5a33254cc96baab96b0cd04b1fa6035a562d062f94"
+    },
+    {
+      "file": "2022_inputs.csv",
+      "rows": 97,
+      "coverage": {
+        "vcons_": 48,
+        "vmb_": 48
+      },
+      "base_sha256": "8bd9556912e44fcd4c6d53d29c569a3d1ffa9a9f80fba7a42c053094c037aa18",
+      "sha256": "a6954660b17178d8283be64751b5925f5f875f53f7726875701ca021901cd41e"
+    },
+    {
+      "file": "2023_inputs.csv",
+      "rows": 101,
+      "coverage": {
+        "vcons_": 48,
+        "vmb_": 48
+      },
+      "base_sha256": "1bce85e75e6cda4bf312426e3cc092decdf10ff92b08495487382a5527c84ede",
+      "sha256": "3f1e18c126601987a49387e422ea6ac0405228ac6149973994f432fd6801ae49"
+    },
+    {
+      "file": "2024_inputs.csv",
+      "rows": 114,
+      "coverage": {
+        "vcons_": 49,
+        "vmb_": 49
+      },
+      "base_sha256": "90170a4eac66ef9a783be1d5079a1d0cfdd0a514bcb20a4a735fca439fabc85c",
+      "sha256": "6a1d85a3c2f1d8fe095a366b219030fa0953214794eb27e3ab18f4d00bec6c29"
+    },
+    {
+      "file": "2025_inputs.csv",
+      "rows": 106,
+      "coverage": {
+        "vcons_": 47,
+        "vmb_": 47
+      },
+      "base_sha256": "1cde70d11a7fc3615fbbaf36906370716f68a7592f7bf437e8a53c1dbab1cbd5",
+      "sha256": "409be262b1cd46820cd86cd0b1de987caf6ff0a4a6c05a1f950f003680291885"
+    },
+    {
+      "file": "2026_inputs.csv",
+      "rows": 61,
+      "coverage": {
+        "vcons_": 45,
+        "vmb_": 45
+      },
+      "base_sha256": "54184fadc8b80f8ee4c424390f10aa681014d07b01f19b60902cbfe5af066306",
+      "sha256": "9141d1e5a12a87021bbc568f6409d442a101f0a471d4ab5587bccaf24055a01b"
+    },
+    {
+      "file": "train_inputs.csv",
+      "rows": 1458,
+      "coverage": {
+        "vcons_": 588,
+        "vmb_": 565
+      },
+      "base_sha256": "a0d1b932bde4cc7d7e7cdcb9fd6fd28e12a7932002bb4011c7450f6db94e835b",
+      "sha256": "83f2923ad06f98f34f167f72772c74303a05ad2cd28ad657e208f16db468dfd6"
+    }
+  ],
+  "sources": [
+    {
+      "package": "verified_consensus",
+      "file": "features_eligible.csv",
+      "sha256": "9219169c4f60804bac7ceef2dfa6f93882e153e563f138ca1dea040bfba1a970",
+      "publication_manifest_sha256": "34dcf8a9ae489ddbf9a89079d51cf50a39d9e85e4fd892ad7c15ceb291ee064b"
+    },
+    {
+      "package": "verified_consensus_extension",
+      "file": "features_training_2015_2018.csv",
+      "sha256": "c7ff575db077087744c3f5208e354969f743dd80050cc08e2e7d77c33ec1e46e",
+      "publication_manifest_sha256": "82e718e2d9bee68e39e4eca66386344310361471198d7fa0a6615ce51f632de3"
+    },
+    {
+      "package": "verified_consensus_extension",
+      "file": "features_inference_2019_2026.csv",
+      "sha256": "9692baab0b697c41c5229483dbc60bc212e62816d2bf005359abb8825e2d5cf7",
+      "publication_manifest_sha256": "82e718e2d9bee68e39e4eca66386344310361471198d7fa0a6615ce51f632de3"
+    },
+    {
+      "package": "verified_mock_bio",
+      "file": "features_eligible.csv",
+      "sha256": "5f06d269cab48df89f66d8d3def6fcd4be207971826a73adc70a6ca978b45b6b",
+      "publication_manifest_sha256": "4ff34e16c6f3f38acf7b46a37290dff2f490a2159dbefa363651838905ab1fce"
+    },
+    {
+      "package": "verified_mock_bio_extension",
+      "file": "features_training_2015_2018.csv",
+      "sha256": "266d02e1a0711273bca3fa12f6576517bdf2fea656de388cd463c21ee50651bc",
+      "publication_manifest_sha256": "20be91e096b181d6538b6b7210b3d1ca5e7a939da4ce7a90f484ca1090192328"
+    },
+    {
+      "package": "verified_mock_bio_extension",
+      "file": "features_inference_2019_2026.csv",
+      "sha256": "862ac97acc3fc084bcb4c510be3c132e724359b7a18c02c460eef3ca8b57193b",
+      "publication_manifest_sha256": "20be91e096b181d6538b6b7210b3d1ca5e7a939da4ce7a90f484ca1090192328"
+    }
+  ],
+  "source_cutoff": 2026,
+  "base_manifest_sha256": "c9221ddd3e69b203e3f5b74418b8316edfa9ec018865e34942c54be0a7df3f88",
+  "existing_cells_preserved_as_exact_text": true,
+  "newly_appended_columns": [
+    "vcons_mock_mean_rank",
+    "vcons_mock_best_rank",
+    "vcons_mock_rank_range",
+    "vcons_mock_n_sources",
+    "vmb_age_reported_years",
+    "vmb_listed_height_in",
+    "vmb_listed_weight_lb",
+    "vmb_listed_bmi",
+    "vmb_college_class_year",
+    "vmb_position_pg",
+    "vmb_position_sg",
+    "vmb_position_sf",
+    "vmb_position_pf",
+    "vmb_position_c"
+  ],
+  "new_research_feature_count": 101,
+  "status": "Partially audited inputs; not an approved model matrix or clean benchmark certification",
+  "policy": "Left joins preserve all original identities, row order, existing values and missingness. No outcomes, actual draft picks, imputation, model fitting or scoring.",
+  "limitations": [
+    "Original population selection and remaining inherited columns are uncertified.",
+    "Dated listed profiles are distinct from official combine measurements.",
+    "Reported snapshot age is missing in the later source tables; no birth dates inferred.",
+    "Mock rank lists may be partial or stale; this is not complete market consensus."
+  ]
+}

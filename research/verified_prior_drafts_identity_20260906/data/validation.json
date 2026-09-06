@@ -1,0 +1,39 @@
+{
+  "tests_passed": 9,
+  "tests_failed": 0,
+  "test_command": "PYTHONDONTWRITEBYTECODE=1 python3 work/verified_prior_drafts_identity/test_audit.py",
+  "source_memberships_preserved": 180,
+  "gap_rows_preserved": 24,
+  "per_year_source_rows": {
+    "2012": 60,
+    "2013": 60,
+    "2014": 60
+  },
+  "existing_research_rows_recovered": 2,
+  "remaining_absent_rows": 22,
+  "global_identity_links_not_automatically_promoted": true,
+  "legacy_and_broad_PID_namespaces_separate": true,
+  "actual_positions_in_public_CSVs": false,
+  "private_identity_crosswalks_excluded_from_allowlist": true,
+  "label_or_model_work_performed": false,
+  "official_combine_request_and_every_row_season_validated": [
+    2012,
+    2013,
+    2014
+  ],
+  "additional_identity_only_earlier_combine_check": {
+    "years": [
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014
+    ],
+    "four_provisional_names_found": 0,
+    "used_to_create_new_links": false
+  },
+  "audit_code_sha256": "86e3d6d118b7e2a2f35fa4de6ba77cc81e061453796dc7d53bd36cf0d698970a",
+  "test_code_sha256": "7dfd436fdbc6a7f92402f79ab760070858b868be5220e020ea9e456518773fe6"
+}

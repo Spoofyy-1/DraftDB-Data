@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "created_at_utc": "2026-09-06T12:47:02.770081+00:00",
+  "years": [
+    2012,
+    2013,
+    2014
+  ],
+  "scope": "24 apparent gaps only; preserve all 180 independently established prior selected memberships",
+  "inputs": [
+    {
+      "name": "membership_registry.csv",
+      "sha256": "ff30b4a5769a2874c1c6c81db013caff9f797e2de77e776253e57629e88a2091"
+    },
+    {
+      "name": "training_population_gaps.csv",
+      "sha256": "b65acb9cab64538ff3d2654c9c11e520a63a2f175545d1b906e9ab5640b9d706"
+    },
+    {
+      "name": "source_name_variants.csv",
+      "sha256": "2610e679e8d98909e0a2e03d81653730921c74e2a8ad26f5d19c0a8008e521af"
+    },
+    {
+      "name": "identity_crosswalk_suggestions.csv",
+      "sha256": "2436f05bea7c6f2144ae9bc424c9607a2f55f721cbc625581f456d00908c534d"
+    },
+    {
+      "name": "player_key.parquet",
+      "sha256": "95df799b786c69e28ae7fa889f0e7be9f0ded54c0b08a755df206407f9939922"
+    },
+    {
+      "name": "tabular_names.csv",
+      "sha256": "bc6636a31ce22748d68360771fa633a91879495f29160ce871da15392b55bb41"
+    },
+    {
+      "name": "features.csv",
+      "sha256": "ce432401e631f5ed5c9829f39707b4c2cd0a54dcb6578b26bfa50dbe2c81146f"
+    },
+    {
+      "name": "entry_events.csv",
+      "sha256": "674ba6b1ee837a43e14e5733a8ee67c2b362a462ec81749be1ae008a17b46177"
+    },
+    {
+      "name": "gl_base_2012-13.json",
+      "sha256": "260dd69286db72210cfdcf52e3a23ed51381532d79befbc6dfc237c1a92d130c"
+    },
+    {
+      "name": "combine_2012.json",
+      "sha256": "01a37f911e642c8b82f4db6c9c4566d2ade4be37647b0e77df85044ee08d6781"
+    },
+    {
+      "name": "combine_2013.json",
+      "sha256": "ca4ea61236b53503c194e831f972ffc72960fa7249ea8cb814d866582450d3ba"
+    },
+    {
+      "name": "combine_2014.json",
+      "sha256": "6a3191029b592cf20f95892a423720903f2871855de799ffdb5a5c3344075da3"
+    }
+  ],
+  "key_columns_parsed": [
+    "pid",
+    "player_uid",
+    "player_name",
+    "nba_id"
+  ],
+  "legacy_columns_parsed": [
+    "pid",
+    "draft_year",
+    "player_name",
+    "nba_id"
+  ],
+  "research_columns_parsed": [
+    "pid",
+    "draft_year"
+  ],
+  "official_combine_columns_parsed": [
+    "SEASON",
+    "PLAYER_ID",
+    "PLAYER_NAME"
+  ],
+  "NBA_outcome_values_inspected": false,
+  "WAR_values_inspected": false,
+  "actual_pick_fields_parsed": false,
+  "test_draft_sources_read": false,
+  "model_fits": 0,
+  "test_scores": 0,
+  "network_requests": 0,
+  "membership_filter_uses_NBA_participation": false,
+  "membership_filter_uses_key_match": false,
+  "source_packages_mutated": false,
+  "private_crosswalks_allowed_in_model_sandbox": false,
+  "broad_pid_equals_legacy_pid_assumed": false,
+  "no_automatic_identity_or_label_promotion": true,
+  "limitations": [
+    "Four exact-name links remain provisional without independent dated ID corroboration.",
+    "Ten source memberships have no accepted broad-key bridge; source-only IDs are preserved.",
+    "Original 156 non-gap name mappings are inherited, not certified by this bounded review.",
+    "Combine seasons identify historical records but independent historical snapshots are absent.",
+    "Membership, identity, historical feature coverage and season-censored labels remain separate requirements.",
+    "Missing NBA evidence must never be treated as a zero outcome."
+  ]
+}

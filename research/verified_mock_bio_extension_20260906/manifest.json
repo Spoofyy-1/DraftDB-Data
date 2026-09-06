@@ -1,0 +1,234 @@
+{
+  "status": "Dated listed biographies; not official measurements or model certification",
+  "features": [
+    "vmb_age_reported_years",
+    "vmb_listed_height_in",
+    "vmb_listed_weight_lb",
+    "vmb_listed_bmi",
+    "vmb_college_class_year",
+    "vmb_position_pg",
+    "vmb_position_sg",
+    "vmb_position_sf",
+    "vmb_position_pf",
+    "vmb_position_c"
+  ],
+  "source_priority": {
+    "dx": 0,
+    "nbadraft": 1,
+    "walter_serious": 2
+  },
+  "priority_unit": "Entire source row, never per feature",
+  "source_public_manifest_sha256": "82e718e2d9bee68e39e4eca66386344310361471198d7fa0a6615ce51f632de3",
+  "reviewed_public_allowlist_sha256": "4ff34e16c6f3f38acf7b46a37290dff2f490a2159dbefa363651838905ab1fce",
+  "reviewed_builder_sha256": "e344e59665b298c47902faf19fe88b1d906a52991d477f5818490851c3bb9b82",
+  "source_tables": [
+    {
+      "source_id": "dx_2015",
+      "publisher": "dx",
+      "draft_year": 2015,
+      "archive_url": "https://web.archive.org/web/20150623175013id_/http://www.draftexpress.com/nba-mock-draft/2015/",
+      "html_sha256": "715adc0f72355ac15e57b147fcb1621d2e7b9c338774522f08cbf78dcb056b79",
+      "table_sha256": "2ecc74d1bc6cda1ec60e9d905b7d9e28369b1bd84a9ac693a1b969eeba1032ea",
+      "rank_facts_sha256": "0a231e0576e7415e261451b526226f75e1762e60fb2fce1d95fe4310b3fde642",
+      "source_available_by_utc": "2015-06-23T17:50:13+00:00",
+      "draft_date": "2015-06-25"
+    },
+    {
+      "source_id": "dx_2016",
+      "publisher": "dx",
+      "draft_year": 2016,
+      "archive_url": "https://web.archive.org/web/20160621174050id_/http://www.draftexpress.com:80/nba-mock-draft/2016",
+      "html_sha256": "be6b016a6fd075da300696de95e03c46c08795b0090a2f97ba99a9c5dd3c1fd6",
+      "table_sha256": "4f0e63d057af268b94646df373faabc42baef97cf554c55c6593e2e28fc79522",
+      "rank_facts_sha256": "7cac22b511960927eb7bc99943a21c9789330c74f568982b18d502a5a967323c",
+      "source_available_by_utc": "2016-06-21T17:40:50+00:00",
+      "draft_date": "2016-06-23"
+    },
+    {
+      "source_id": "dx_2017",
+      "publisher": "dx",
+      "draft_year": 2017,
+      "archive_url": "https://web.archive.org/web/20170621152558id_/http://www.draftexpress.com/nba-mock-draft/2017/",
+      "html_sha256": "a33da22d6411b9f9ea4e75f46ef86bd84084a0e939f6e931d52f7cfe0ed5b868",
+      "table_sha256": "1e199914662a00b2dad618c3a9b809ced1257ec1d0a4a09e589b6349d492e856",
+      "rank_facts_sha256": "3b55795b0684b6f7a5cf5284510c8ecd0c43543686ff0f3a6129214a1805d87e",
+      "source_available_by_utc": "2017-06-21T15:25:58+00:00",
+      "draft_date": "2017-06-22"
+    },
+    {
+      "source_id": "nbadraft_2015",
+      "publisher": "nbadraft",
+      "draft_year": 2015,
+      "archive_url": "https://web.archive.org/web/20150624022313id_/http://www.nbadraft.net:80/2015mock_draft",
+      "html_sha256": "e1f5688afe86471892f35a36859dd7c37897f57ea7719c59b7bb016c0b534a86",
+      "table_sha256": "5b7e09faef50262025253c0889030bb12ea46be3f1773ca9bbf475e10e521c3e",
+      "rank_facts_sha256": "bb3c19252a65a8bab4dc79a034dffda6bee8386123af42e6446d2897bced8819",
+      "source_available_by_utc": "2015-06-24T02:23:13+00:00",
+      "draft_date": "2015-06-25"
+    },
+    {
+      "source_id": "nbadraft_2016_fallback",
+      "publisher": "nbadraft",
+      "draft_year": 2016,
+      "archive_url": "https://web.archive.org/web/20160620184522id_/http://www.nbadraft.net/2016mock_draft",
+      "html_sha256": "51d279537df75991b14305d05ab934a396734722593aaa15cd4ffbe7e52c9c79",
+      "table_sha256": "c08e0bc5c556bed4c1267385a1b9f22693a59a34128ca63ce383ce2e546edebb",
+      "rank_facts_sha256": "1f88c65101d4276466f8ab415afad7f87b0ff71229080dfa71fe5d4f53023129",
+      "source_available_by_utc": "2016-06-20T18:45:22+00:00",
+      "draft_date": "2016-06-23"
+    },
+    {
+      "source_id": "nbadraft_2017",
+      "publisher": "nbadraft",
+      "draft_year": 2017,
+      "archive_url": "https://web.archive.org/web/20170621031432id_/http://www.nbadraft.net:80/2017mock_draft",
+      "html_sha256": "5c6bf4291593684805c2de7a6150a9144a1af97b5357cd86c34ad684d33a6a3c",
+      "table_sha256": "aed622adb6221d7e747bd3dc34752b7984f1095541317d01a7368c95884a209f",
+      "rank_facts_sha256": "29ae778f1d07a6d5f35f3552459da02a62281028f287fd3e10956c6199243891",
+      "source_available_by_utc": "2017-06-21T03:14:32+00:00",
+      "draft_date": "2017-06-22"
+    },
+    {
+      "source_id": "nbadraft_2018",
+      "publisher": "nbadraft",
+      "draft_year": 2018,
+      "archive_url": "https://web.archive.org/web/20180619163210id_/http://www.nbadraft.net/2018mock_draft",
+      "html_sha256": "906d5624ba53919d42f0ce1d830fac99ab280bda920f64dd2b8dac62851f03a5",
+      "table_sha256": "4a66df3af9055e52e037e50f83ba896c54efe0254fdc7a49e614d92de0457008",
+      "rank_facts_sha256": "5c4cd64b1fd4c6ebcff1d8cc795fb2e42977b5980f478f9a7e620236cfaebb7e",
+      "source_available_by_utc": "2018-06-19T16:32:10+00:00",
+      "draft_date": "2018-06-21"
+    },
+    {
+      "source_id": "nbadraft_2019",
+      "publisher": "nbadraft",
+      "draft_year": 2019,
+      "archive_url": "https://web.archive.org/web/20190521150204id_/https://www.nbadraft.net/2019mock_draft",
+      "html_sha256": "b59fdfc8d7bba272ece80e7be8c76e9f4106327e31aa8d280a62a39b57232bad",
+      "table_sha256": "53f3093c806fbf622e7b1745b007fbde974774787924e838ead2f777523e228b",
+      "rank_facts_sha256": "af71379d9a7142321f715ce9b3c8a97e100bb128d8be5846b4ef20dc3e957b45",
+      "source_available_by_utc": "2019-05-21T15:02:04+00:00",
+      "draft_date": "2019-06-20"
+    },
+    {
+      "source_id": "nbadraft_2020_fallback",
+      "publisher": "nbadraft",
+      "draft_year": 2020,
+      "archive_url": "https://web.archive.org/web/20201101015440id_/https://www.nbadraft.net/nba-mock-drafts/",
+      "html_sha256": "31fdf8733d9c8919a18b65e87689eb69e695752ac5ef742ffba02cef98575a2c",
+      "table_sha256": "640d3b1ad5ccb0bb0752f476f0b4493c07c6426cfcda77c3f0d9332735c1cc0d",
+      "rank_facts_sha256": "321101752adaa99a66b04e8055eb3e972fcc02bc1f927c5a96fcc6be548bd34e",
+      "source_available_by_utc": "2020-11-01T01:54:40+00:00",
+      "draft_date": "2020-11-18"
+    },
+    {
+      "source_id": "nbadraft_2021",
+      "publisher": "nbadraft",
+      "draft_year": 2021,
+      "archive_url": "https://web.archive.org/web/20210722210648id_/https://www.nbadraft.net/nba-mock-drafts/",
+      "html_sha256": "fd8c8ae7f4eb1c020c2de3d119eb23ee5b486aadc9ded74b7f27fd8871e0498a",
+      "table_sha256": "c30f65bae062e6d9a4c2c38a56111316115e0b9a55442a5595bb4bc8c082c98b",
+      "rank_facts_sha256": "94d94c106fc1cfd438dc2a5292a14e32da6173e7addb0109766c841ea19b156e",
+      "source_available_by_utc": "2021-07-22T21:06:48+00:00",
+      "draft_date": "2021-07-29"
+    },
+    {
+      "source_id": "nbadraft_2022",
+      "publisher": "nbadraft",
+      "draft_year": 2022,
+      "archive_url": "https://web.archive.org/web/20220622150918id_/https://www.nbadraft.net/nba-mock-drafts/",
+      "html_sha256": "961adcc7de48d4068a5e4604b5248b70bc0065051fc69fdfef532a258019178a",
+      "table_sha256": "a46cc63a99c2de1b4663b8d8c7331ad05e79269eb2c35da538abaf0dc6cdf5a6",
+      "rank_facts_sha256": "3630b00e3feea0db99dcce779fefcc2583be2b8813e841a96649d7b9f0fa4444",
+      "source_available_by_utc": "2022-06-22T15:09:18+00:00",
+      "draft_date": "2022-06-23"
+    },
+    {
+      "source_id": "nbadraft_2023",
+      "publisher": "nbadraft",
+      "draft_year": 2023,
+      "archive_url": "https://web.archive.org/web/20230621061219id_/https://www.nbadraft.net/nba-mock-drafts/",
+      "html_sha256": "4e3a3f06dcf29627c05962c40ca94f381530e292226207f50d41b7e64c4d995f",
+      "table_sha256": "f0d1b7bbfd68326ae9c84677938391c7a9a7f49c31dad80b76fdcd3fdfe72b57",
+      "rank_facts_sha256": "d76bf9f5f94577ac3367b8e37975d30e0855a7d6bc15839c42f79c0613d97d6e",
+      "source_available_by_utc": "2023-06-21T06:12:19+00:00",
+      "draft_date": "2023-06-22"
+    },
+    {
+      "source_id": "nbadraft_2024",
+      "publisher": "nbadraft",
+      "draft_year": 2024,
+      "archive_url": "https://web.archive.org/web/20240624025349id_/https://www.nbadraft.net/nba-mock-drafts/",
+      "html_sha256": "874e10ca8fcedfdb48b55ffc0dbdbf5ff8963f5e8e00986cf7924f7fe0856246",
+      "table_sha256": "b1680499fa0b043a9ad8594f52ead33ba4b25258c7f5d3d8c3e54ed30b19fc4b",
+      "rank_facts_sha256": "7bc1163b045d1e9be028cf7b6017b871fcd5a452054f238bcdbb6eb4665e3dd6",
+      "source_available_by_utc": "2024-06-24T02:53:49+00:00",
+      "draft_date": "2024-06-26"
+    },
+    {
+      "source_id": "nbadraft_2025",
+      "publisher": "nbadraft",
+      "draft_year": 2025,
+      "archive_url": "https://web.archive.org/web/20250624175411id_/https://www.nbadraft.net/nba-mock-drafts/",
+      "html_sha256": "d814836bed1d1ba5a9db63b9cee601b925414d922f3fe8936802bccac1051c4b",
+      "table_sha256": "27d4e3181f0ba8690b8ec6f53fe3bea146520e5bb6a779f11a6e0c74aec64a62",
+      "rank_facts_sha256": "a7d5e6135a580643e1ae067f6b94d4635777810c62d5e7541304660d3f9bc44d",
+      "source_available_by_utc": "2025-06-24T17:54:11+00:00",
+      "draft_date": "2025-06-25"
+    },
+    {
+      "source_id": "nbadraft_2026_fallback",
+      "publisher": "nbadraft",
+      "draft_year": 2026,
+      "archive_url": "https://web.archive.org/web/20260508055636id_/https://www.nbadraft.net/nba-mock-drafts/",
+      "html_sha256": "50f5ee79133cdf9f01b682e1c73d25ec4c37d5c4b67661b9531cc39408c3b55c",
+      "table_sha256": "b1c1ab61ed609f14419aa1d89d64ed77f5f1b980a0ad967d064abc18e41b3ca9",
+      "rank_facts_sha256": "f4ca0622496b6f8773025fca8903b8560a64d7d66939aee36e34da8f01246755",
+      "source_available_by_utc": "2026-05-08T05:56:36+00:00",
+      "draft_date": "2026-06-23"
+    },
+    {
+      "source_id": "walter_serious_2018",
+      "publisher": "walter_serious",
+      "draft_year": 2018,
+      "archive_url": "https://web.archive.org/web/20180618125339id_/http://walterfootball.com/nbadraft2018mock.php",
+      "html_sha256": "1b70f8b620ddc27833fd9c8cad05383618397c41b0d001fee480417930c6e0ba",
+      "table_sha256": "976fe0d382e1002bf94d1209d6069f3002b40057d2c3adfb8935808b2930c5af",
+      "rank_facts_sha256": "6990295cd5f91b4f31ee4d68d8a6246a827c524d1ec14c31936cc966609cddc8",
+      "source_available_by_utc": "2018-06-18T12:53:39+00:00",
+      "draft_date": "2018-06-21"
+    },
+    {
+      "source_id": "walter_serious_2019",
+      "publisher": "walter_serious",
+      "draft_year": 2019,
+      "archive_url": "https://web.archive.org/web/20190518055238id_/http://walterfootball.com/nbadraft2019mock.php",
+      "html_sha256": "c5ff37669c84decbcbf6e7f5a38e461005967e5a4b38bbdef2a7674b349afbd2",
+      "table_sha256": "85c51b1d1660a8b79ab0c8e37755dd33070287cb0cdff28e81e76c7ed68492ff",
+      "rank_facts_sha256": "bcca14bd044c5a18d6e7caa6dae075224994de531103f344c2f7b943748c0c60",
+      "source_available_by_utc": "2019-05-18T05:52:38+00:00",
+      "draft_date": "2019-06-20"
+    },
+    {
+      "source_id": "walter_serious_2020",
+      "publisher": "walter_serious",
+      "draft_year": 2020,
+      "archive_url": "https://web.archive.org/web/20201028170012id_/https://walterfootball.com/nbadraft2020mock.php",
+      "html_sha256": "4c3444db9989fc941349434b3e6dc17237fa809371f8b442e44e46a1f89ba168",
+      "table_sha256": "f5e2e6c8e822577e5a57cd89651880c899931d913d1d4c1a650d8d02a0370919",
+      "rank_facts_sha256": "40a20cb33e26095a77b7a6c19dc1c04584d114d6329a9d9559597f8654485af4",
+      "source_available_by_utc": "2020-10-28T17:00:12+00:00",
+      "draft_date": "2020-11-18"
+    }
+  ],
+  "files": {
+    "source_observations.csv": "e4e6425b12c34c10b8624b78efbc2d079d7f666dcf4a9633d6406f0d4f707324",
+    "row_provenance.csv": "f344017b10a1ba98d5798ff82979af8d4f6c6b05ec635ec8dc5aff01b429f8d8",
+    "selected_sources.csv": "7c88434bc908e85b78693cb9f7cd95a99fb3b5dfb48204b3929e2aaa860a6c2f",
+    "features_training_2015_2018.csv": "266d02e1a0711273bca3fa12f6576517bdf2fea656de388cd463c21ee50651bc",
+    "features_inference_2019_2026.csv": "862ac97acc3fc084bcb4c510be3c132e724359b7a18c02c460eef3ca8b57193b",
+    "metric_dictionary.json": "386d2b91505e582c745ec79b381cec1829d0e7f9841708f5f9483400a7a21fd8",
+    "coverage.json": "6445577c13e4bb7fbf0e0fee9a27d42d3c6be5a504dd783b50fc74f95abc6fc0",
+    "missing_field_reasons.json": "e27d017a2786caf77fbef329d93d82df64aa4a82a7c5d0af861d423e8b327534"
+  }
+}

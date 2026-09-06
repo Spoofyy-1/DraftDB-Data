@@ -1,0 +1,44 @@
+{
+  "source_memberships": 180,
+  "original_apparent_gaps": 24,
+  "gap_mapping_status_counts": {
+    "unresolved_global_identity_source_membership_retained": 10,
+    "dated_combine_id_corroborated": 10,
+    "unique_exact_name_reviewed_provisional": 4
+  },
+  "gap_population_resolution_counts": {
+    "source_only_identity_research_row_absent": 10,
+    "broad_identity_only_research_row_absent": 7,
+    "legacy_identity_present_research_row_absent": 5,
+    "existing_research_row_recovered_by_alias": 2
+  },
+  "gaps_recovered_existing_research_rows": 2,
+  "selected_members_still_absent_from_research_rows": 22,
+  "total_source_members_matched_existing_research_rows": 158,
+  "inherited_non_gap_mappings_not_reaudited": 156,
+  "broad_key_rows": 83977,
+  "identity_ready_but_missing_research_row": 8,
+  "provisional_exact_name_links": 4,
+  "unresolved_source_only": 10,
+  "by_year": {
+    "2012": {
+      "source_memberships": 60,
+      "gap_rows": 5,
+      "recovered_existing": 0,
+      "still_absent": 5
+    },
+    "2013": {
+      "source_memberships": 60,
+      "gap_rows": 12,
+      "recovered_existing": 2,
+      "still_absent": 10
+    },
+    "2014": {
+      "source_memberships": 60,
+      "gap_rows": 7,
+      "recovered_existing": 0,
+      "still_absent": 7
+    }
+  },
+  "model_ready": false
+}

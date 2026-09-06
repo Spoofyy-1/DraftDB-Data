@@ -1,0 +1,352 @@
+{
+  "source_rows": 764,
+  "sources": 18,
+  "selected_players": 600,
+  "training_selected": 212,
+  "inference_selected": 388,
+  "selected_publisher_counts": {
+    "nbadraft": 445,
+    "dx": 149,
+    "walter_serious": 6
+  },
+  "pools": {
+    "train_2000_2018": {
+      "rows": 1458,
+      "covered": 200,
+      "identity_order_sha256": "7007246196b25e9cca451ed9bcff0ce43e75d7d4e4a0f94595a8e9da9c280a4d",
+      "nonmissing": {
+        "vmb_age_reported_years": 142,
+        "vmb_listed_height_in": 200,
+        "vmb_listed_weight_lb": 196,
+        "vmb_listed_bmi": 196,
+        "vmb_college_class_year": 128,
+        "vmb_position_pg": 200,
+        "vmb_position_sg": 200,
+        "vmb_position_sf": 200,
+        "vmb_position_pf": 200,
+        "vmb_position_c": 200
+      }
+    },
+    "test_2019_inputs": {
+      "rows": 137,
+      "covered": 51,
+      "identity_order_sha256": "2c0cf8e3d606c88b516898eb1302594772c5be9fb25a797735fad13bb0dcdce7",
+      "nonmissing": {
+        "vmb_age_reported_years": 0,
+        "vmb_listed_height_in": 51,
+        "vmb_listed_weight_lb": 50,
+        "vmb_listed_bmi": 50,
+        "vmb_college_class_year": 46,
+        "vmb_position_pg": 51,
+        "vmb_position_sg": 51,
+        "vmb_position_sf": 51,
+        "vmb_position_pf": 51,
+        "vmb_position_c": 51
+      }
+    },
+    "test_2020_inputs": {
+      "rows": 112,
+      "covered": 54,
+      "identity_order_sha256": "18a8390d2eaa63de1cfa352c4a169b4f246b5142b41dfb8c2dff1f43572f7842",
+      "nonmissing": {
+        "vmb_age_reported_years": 0,
+        "vmb_listed_height_in": 54,
+        "vmb_listed_weight_lb": 53,
+        "vmb_listed_bmi": 53,
+        "vmb_college_class_year": 47,
+        "vmb_position_pg": 54,
+        "vmb_position_sg": 54,
+        "vmb_position_sf": 54,
+        "vmb_position_pf": 54,
+        "vmb_position_c": 54
+      }
+    },
+    "test_2021_inputs": {
+      "rows": 233,
+      "covered": 46,
+      "identity_order_sha256": "f05749cebc1532ce10002afddc6cab60b8a608243420a05ba26a637a9758647b",
+      "nonmissing": {
+        "vmb_age_reported_years": 0,
+        "vmb_listed_height_in": 46,
+        "vmb_listed_weight_lb": 46,
+        "vmb_listed_bmi": 46,
+        "vmb_college_class_year": 42,
+        "vmb_position_pg": 46,
+        "vmb_position_sg": 46,
+        "vmb_position_sf": 46,
+        "vmb_position_pf": 46,
+        "vmb_position_c": 46
+      }
+    },
+    "test_2022_inputs": {
+      "rows": 97,
+      "covered": 48,
+      "identity_order_sha256": "607f3257dde59ca7f0437ae0d08a4ee8948513d1f34e5193a76745e80af0f82d",
+      "nonmissing": {
+        "vmb_age_reported_years": 0,
+        "vmb_listed_height_in": 48,
+        "vmb_listed_weight_lb": 48,
+        "vmb_listed_bmi": 48,
+        "vmb_college_class_year": 45,
+        "vmb_position_pg": 48,
+        "vmb_position_sg": 48,
+        "vmb_position_sf": 48,
+        "vmb_position_pf": 48,
+        "vmb_position_c": 48
+      }
+    },
+    "test_2023_inputs": {
+      "rows": 101,
+      "covered": 48,
+      "identity_order_sha256": "1b2f1d9e9bb43367e05dd35a1eca11f91b7ec78824148835e8dd792a4c8ce6b2",
+      "nonmissing": {
+        "vmb_age_reported_years": 0,
+        "vmb_listed_height_in": 48,
+        "vmb_listed_weight_lb": 48,
+        "vmb_listed_bmi": 48,
+        "vmb_college_class_year": 43,
+        "vmb_position_pg": 48,
+        "vmb_position_sg": 48,
+        "vmb_position_sf": 48,
+        "vmb_position_pf": 48,
+        "vmb_position_c": 48
+      }
+    },
+    "test_2024_inputs": {
+      "rows": 114,
+      "covered": 49,
+      "identity_order_sha256": "3fc3aa06700f392d9424a7237c66d847cc686ac9044e9b6c1d8df23d81c99f79",
+      "nonmissing": {
+        "vmb_age_reported_years": 0,
+        "vmb_listed_height_in": 49,
+        "vmb_listed_weight_lb": 49,
+        "vmb_listed_bmi": 49,
+        "vmb_college_class_year": 41,
+        "vmb_position_pg": 49,
+        "vmb_position_sg": 49,
+        "vmb_position_sf": 49,
+        "vmb_position_pf": 49,
+        "vmb_position_c": 49
+      }
+    },
+    "test_2025_inputs": {
+      "rows": 106,
+      "covered": 47,
+      "identity_order_sha256": "5c19485c5b37e783650aea51c5fb496dedb0367775741d370dc3748453c52b9e",
+      "nonmissing": {
+        "vmb_age_reported_years": 0,
+        "vmb_listed_height_in": 47,
+        "vmb_listed_weight_lb": 47,
+        "vmb_listed_bmi": 47,
+        "vmb_college_class_year": 37,
+        "vmb_position_pg": 47,
+        "vmb_position_sg": 47,
+        "vmb_position_sf": 47,
+        "vmb_position_pf": 47,
+        "vmb_position_c": 47
+      }
+    },
+    "test_2026_inputs": {
+      "rows": 61,
+      "covered": 45,
+      "identity_order_sha256": "d13058a6f089ece09aead53a8b76df0adad32c7654ba1a4eef76dda51a597dde",
+      "nonmissing": {
+        "vmb_age_reported_years": 0,
+        "vmb_listed_height_in": 45,
+        "vmb_listed_weight_lb": 45,
+        "vmb_listed_bmi": 45,
+        "vmb_college_class_year": 43,
+        "vmb_position_pg": 45,
+        "vmb_position_sg": 45,
+        "vmb_position_sf": 45,
+        "vmb_position_pf": 45,
+        "vmb_position_c": 45
+      }
+    }
+  },
+  "per_year": {
+    "2015": {
+      "players": 50,
+      "nonmissing": {
+        "vmb_age_reported_years": 45,
+        "vmb_listed_height_in": 50,
+        "vmb_listed_weight_lb": 50,
+        "vmb_listed_bmi": 50,
+        "vmb_college_class_year": 46,
+        "vmb_position_pg": 50,
+        "vmb_position_sg": 50,
+        "vmb_position_sf": 50,
+        "vmb_position_pf": 50,
+        "vmb_position_c": 50
+      }
+    },
+    "2016": {
+      "players": 57,
+      "nonmissing": {
+        "vmb_age_reported_years": 52,
+        "vmb_listed_height_in": 57,
+        "vmb_listed_weight_lb": 57,
+        "vmb_listed_bmi": 57,
+        "vmb_college_class_year": 48,
+        "vmb_position_pg": 57,
+        "vmb_position_sg": 57,
+        "vmb_position_sf": 57,
+        "vmb_position_pf": 57,
+        "vmb_position_c": 57
+      }
+    },
+    "2017": {
+      "players": 56,
+      "nonmissing": {
+        "vmb_age_reported_years": 52,
+        "vmb_listed_height_in": 56,
+        "vmb_listed_weight_lb": 56,
+        "vmb_listed_bmi": 56,
+        "vmb_college_class_year": 4,
+        "vmb_position_pg": 56,
+        "vmb_position_sg": 56,
+        "vmb_position_sf": 56,
+        "vmb_position_pf": 56,
+        "vmb_position_c": 56
+      }
+    },
+    "2018": {
+      "players": 49,
+      "nonmissing": {
+        "vmb_age_reported_years": 0,
+        "vmb_listed_height_in": 49,
+        "vmb_listed_weight_lb": 45,
+        "vmb_listed_bmi": 45,
+        "vmb_college_class_year": 42,
+        "vmb_position_pg": 49,
+        "vmb_position_sg": 49,
+        "vmb_position_sf": 49,
+        "vmb_position_pf": 49,
+        "vmb_position_c": 49
+      }
+    },
+    "2019": {
+      "players": 51,
+      "nonmissing": {
+        "vmb_age_reported_years": 0,
+        "vmb_listed_height_in": 51,
+        "vmb_listed_weight_lb": 50,
+        "vmb_listed_bmi": 50,
+        "vmb_college_class_year": 46,
+        "vmb_position_pg": 51,
+        "vmb_position_sg": 51,
+        "vmb_position_sf": 51,
+        "vmb_position_pf": 51,
+        "vmb_position_c": 51
+      }
+    },
+    "2020": {
+      "players": 54,
+      "nonmissing": {
+        "vmb_age_reported_years": 0,
+        "vmb_listed_height_in": 54,
+        "vmb_listed_weight_lb": 53,
+        "vmb_listed_bmi": 53,
+        "vmb_college_class_year": 47,
+        "vmb_position_pg": 54,
+        "vmb_position_sg": 54,
+        "vmb_position_sf": 54,
+        "vmb_position_pf": 54,
+        "vmb_position_c": 54
+      }
+    },
+    "2021": {
+      "players": 46,
+      "nonmissing": {
+        "vmb_age_reported_years": 0,
+        "vmb_listed_height_in": 46,
+        "vmb_listed_weight_lb": 46,
+        "vmb_listed_bmi": 46,
+        "vmb_college_class_year": 42,
+        "vmb_position_pg": 46,
+        "vmb_position_sg": 46,
+        "vmb_position_sf": 46,
+        "vmb_position_pf": 46,
+        "vmb_position_c": 46
+      }
+    },
+    "2022": {
+      "players": 48,
+      "nonmissing": {
+        "vmb_age_reported_years": 0,
+        "vmb_listed_height_in": 48,
+        "vmb_listed_weight_lb": 48,
+        "vmb_listed_bmi": 48,
+        "vmb_college_class_year": 45,
+        "vmb_position_pg": 48,
+        "vmb_position_sg": 48,
+        "vmb_position_sf": 48,
+        "vmb_position_pf": 48,
+        "vmb_position_c": 48
+      }
+    },
+    "2023": {
+      "players": 48,
+      "nonmissing": {
+        "vmb_age_reported_years": 0,
+        "vmb_listed_height_in": 48,
+        "vmb_listed_weight_lb": 48,
+        "vmb_listed_bmi": 48,
+        "vmb_college_class_year": 43,
+        "vmb_position_pg": 48,
+        "vmb_position_sg": 48,
+        "vmb_position_sf": 48,
+        "vmb_position_pf": 48,
+        "vmb_position_c": 48
+      }
+    },
+    "2024": {
+      "players": 49,
+      "nonmissing": {
+        "vmb_age_reported_years": 0,
+        "vmb_listed_height_in": 49,
+        "vmb_listed_weight_lb": 49,
+        "vmb_listed_bmi": 49,
+        "vmb_college_class_year": 41,
+        "vmb_position_pg": 49,
+        "vmb_position_sg": 49,
+        "vmb_position_sf": 49,
+        "vmb_position_pf": 49,
+        "vmb_position_c": 49
+      }
+    },
+    "2025": {
+      "players": 47,
+      "nonmissing": {
+        "vmb_age_reported_years": 0,
+        "vmb_listed_height_in": 47,
+        "vmb_listed_weight_lb": 47,
+        "vmb_listed_bmi": 47,
+        "vmb_college_class_year": 37,
+        "vmb_position_pg": 47,
+        "vmb_position_sg": 47,
+        "vmb_position_sf": 47,
+        "vmb_position_pf": 47,
+        "vmb_position_c": 47
+      }
+    },
+    "2026": {
+      "players": 45,
+      "nonmissing": {
+        "vmb_age_reported_years": 0,
+        "vmb_listed_height_in": 45,
+        "vmb_listed_weight_lb": 45,
+        "vmb_listed_bmi": 45,
+        "vmb_college_class_year": 43,
+        "vmb_position_pg": 45,
+        "vmb_position_sg": 45,
+        "vmb_position_sf": 45,
+        "vmb_position_pf": 45,
+        "vmb_position_c": 45
+      }
+    }
+  },
+  "rows_with_recorded_missing_reasons": 12,
+  "network_calls": 0,
+  "models_or_outcomes_used": false
+}
