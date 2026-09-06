@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "files": {
+    "README.md": {
+      "sha256": "4d3f97a540dc20e6e30a37d6459476369f5eaffe7a3757004f68f3ada403b980",
+      "bytes": 5298
+    },
+    "build.py": {
+      "sha256": "5d031b14aaf6b0faed89c9c2a4ca550451d777d203ba387b95e1bea5947fb550",
+      "bytes": 14991
+    },
+    "tests.py": {
+      "sha256": "ca96a957c26b27b201f08b8886033215b5828327886666d0ab30ed31077335b5",
+      "bytes": 4469
+    },
+    "candidate_inputs.csv": {
+      "sha256": "98f485709f136b5e4f716b6e15c877649fc48a7bb80fe38e9d9876317bebf596",
+      "bytes": 436734
+    },
+    "coverage.json": {
+      "sha256": "a1c608e8016229f8d734c7e9b0695ab553f9f7d3345044c2b73628708fc717ba",
+      "bytes": 2598
+    },
+    "excluded_reasons.json": {
+      "sha256": "7d88967abfef9b21c0cf27bfba18b3eb15e721f27a648bc5dae35b1223b35497",
+      "bytes": 240
+    },
+    "overlap_with_source41.json": {
+      "sha256": "188d11f49f7cb626a5bf14f257986aabf79f1544cd251414198a75283a29a20d",
+      "bytes": 4945
+    },
+    "input_pins.json": {
+      "sha256": "c7afbaad90fc2e1456de555207bcf2a9080118f7efe06d2c0c4a01fe94cacee9",
+      "bytes": 2091
+    },
+    "consumed_game_files.json": {
+      "sha256": "d41c963ab254a6fe37936709faf31036c9d5532c9e4f5ac13883ca19eeda59cd",
+      "bytes": 2147
+    },
+    "summary.json": {
+      "sha256": "269470f794c65cf4e79245b863eebfad9a136b8b80a1441bc4ba00b76d07cef6",
+      "bytes": 434
+    },
+    "verification.json": {
+      "sha256": "fd1b607e124b2542ce6f614a9a6429ce42a2976ab3d92e772bf564fc26bfcf83",
+      "bytes": 580
+    }
+  },
+  "model_eligible": false,
+  "public_policy": "Pseudonymous numeric candidate projection, code and source/aggregate metadata only. No source identity crosswalk, original inherited input values, raw responses, labels, outcomes or actual NBA pick fields.",
+  "excluded": [
+    "private/",
+    "__pycache__/",
+    "RESUME.md",
+    "checkpoint.json",
+    "join_provenance.json"
+  ]
+}

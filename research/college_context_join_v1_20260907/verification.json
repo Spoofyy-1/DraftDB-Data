@@ -1,0 +1,17 @@
+{
+  "tests_passed": 7,
+  "test_command": "python3 work/college_context_join_v1/tests.py",
+  "completed_at_utc": "2026-09-06T18:49:11.894692+00:00",
+  "full_pool_rows": 1458,
+  "original_columns_preserved_as_exact_strings": 539,
+  "full_pool_pid_order_preserved": true,
+  "future_source_removal_through2014_passed": true,
+  "player_game_source_year_gap_counts": {
+    "0": 614,
+    "1": 56
+  },
+  "root_read_only_review": "No critical join/leakage blocker reported before final packaging",
+  "model_eligible": false,
+  "models_or_results_used": false,
+  "new_network_requests": 0
+}

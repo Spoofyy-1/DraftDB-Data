@@ -1,0 +1,21 @@
+{
+  "verified_inputs_v2/train_inputs.csv": "83f2923ad06f98f34f167f72772c74303a05ad2cd28ad657e208f16db468dfd6",
+  "verified_inputs_v2/manifest.json": "5a596395287c0a40ff1e424ec113b65174aebb5d8452ded76562aeab4253e1b5",
+  "r8w/data/features.csv": "1c20a30b28498526713cf8a3d41259f5568cb96a696d2b0acedc351889810ec4",
+  "college_player_games_v1/PUBLIC_ALLOWLIST.json": "3b588782d358de4e22e0833ce0370ac768d25fea1ae9ab7728aaf629e5142747",
+  "college_player_games_v1/source_manifest.json": "7906cf17ebc2189ea44eb009c4435f8b67294abf258b42abaa5b27076815b029",
+  "college_player_games_v1/schema_manifest.json": "3cd74f40d0c96aac8be42b14064418a580aad30ca81f949e1a7ebefdd710c00d",
+  "team_context_v1/PUBLIC_ALLOWLIST.json": "bace3c8d341bce59f92d6cc8c7277159da14e812c44df373ed815e7ddefac5be",
+  "team_context_v1/team_context_train_candidates.csv": "f2e47de72c418a9d71db6eb9d8ee49a9e2d9408ed901c8b5e907b02aef94d757",
+  "team_context_v1/provenance.csv": "d79f9c795969f388149bffe578dac4b095134556bf5b632aae70b0d7945c7357",
+  "team_context_v1/quarantine.csv": "2a91d32cda740d6384fa3d73cfcdd01aec141f0f00000be8f46855b4483e8158",
+  "team_context_v1/summary.json": "97bd5821a603d210b5a16d77b35e224d8d33b436b52375272bea326a7197a60c",
+  "team_context_v1/feature_dictionary.json": "4893ce60dcf29fc78ee402c0b0978250dbb9c8b3423a6bd955285a0fb3efca4f",
+  "verified_mock_bio/PUBLIC_ALLOWLIST.json": "4ff34e16c6f3f38acf7b46a37290dff2f490a2159dbefa363651838905ab1fce",
+  "verified_mock_bio/manifest.json": "46e029333c626865206fe3fb705416001931562640679a36ec9292e1dea9dccd",
+  "verified_mock_bio_extension/PUBLIC_ALLOWLIST.json": "20be91e096b181d6538b6b7210b3d1ca5e7a939da4ce7a90f484ca1090192328",
+  "verified_mock_bio_extension/manifest.json": "35dedbe442e944c2d6b78922b1586dab531f8d3f6911aa143c86c7b4421da38c",
+  "fifty_audit/source_row_lineage.json": "2e790af9efbdbf54e4ed1b1fe9c5c308e760544ed7bede64d83a2e1eac2b388c",
+  "fifty_audit/lineage_audit.json": "dbff019d21eb3667b9e843c20adf5f3826d57571a70f0d704cf86f9d2685e33c",
+  "r8/context_manifest.json": "6ce30cbe16dd1455918c10c05f98e77c00a6a3731928f5cf0cc6e063789aa188"
+}
