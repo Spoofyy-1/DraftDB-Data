@@ -1,0 +1,106 @@
+{
+  "statistics": [
+    {
+      "id": "f50_career_slope_ast_tov",
+      "real_score": 0.5069966100820706,
+      "matched_control_score": 0.5001907859196938,
+      "gain": 0.006805824162376843,
+      "fold_gains": {
+        "2012": 0.01264229597562927,
+        "2013": 0.007587034813925549,
+        "2014": 0.00018814169757571295
+      },
+      "passes": true
+    },
+    {
+      "id": "f50_nondunk_rim_pct",
+      "real_score": 0.5031252818964885,
+      "matched_control_score": 0.49679850553641575,
+      "gain": 0.006326776360072746,
+      "fold_gains": {
+        "2012": 0.008722142055475465,
+        "2013": 0.005975723622782443,
+        "2014": 0.004282463401960331
+      },
+      "passes": true
+    },
+    {
+      "id": "f50_peer_rank_usage",
+      "real_score": 0.5005558416942594,
+      "matched_control_score": 0.5000387034284116,
+      "gain": 0.0005171382658477977,
+      "fold_gains": {
+        "2012": -0.0032467532467532387,
+        "2013": 0.008408696812058136,
+        "2014": -0.003610528767761504
+      },
+      "passes": false
+    },
+    {
+      "id": "f50_peer_rank_ts",
+      "real_score": 0.4966664249080613,
+      "matched_control_score": 0.4965541000558529,
+      "gain": 0.00011232485220828298,
+      "fold_gains": {
+        "2012": 0.005058521725188503,
+        "2013": -0.01647592370281444,
+        "2014": 0.011754376534250785
+      },
+      "passes": false
+    },
+    {
+      "id": "f50_career_slope_ts",
+      "real_score": 0.5019901280553466,
+      "matched_control_score": 0.5026317719443524,
+      "gain": -0.0006416438890057396,
+      "fold_gains": {
+        "2012": 0.011904761904761862,
+        "2013": -0.00042683740162735573,
+        "2014": -0.013402856170151725
+      },
+      "passes": false
+    },
+    {
+      "id": "f50_career_slope_orb",
+      "real_score": 0.49704144008250556,
+      "matched_control_score": 0.4990395698725069,
+      "gain": -0.001998129790001283,
+      "fold_gains": {
+        "2012": -0.0037918871252205313,
+        "2013": -0.001387221555288735,
+        "2014": -0.0008152806894945833
+      },
+      "passes": false
+    },
+    {
+      "id": "f50_career_slope_three_p",
+      "real_score": 0.4992883549455613,
+      "matched_control_score": 0.5035852530346685,
+      "gain": -0.0042968980891072575,
+      "fold_gains": {
+        "2012": -0.013468013468013481,
+        "2013": -0.004855275443510758,
+        "2014": 0.005432594644202464
+      },
+      "passes": false
+    },
+    {
+      "id": "f50_assist_usage_efficiency",
+      "real_score": 0.4978619961078605,
+      "matched_control_score": 0.5045860266442337,
+      "gain": -0.00672403053637308,
+      "fold_gains": {
+        "2012": -0.012105178771845434,
+        "2013": -0.005719621181806041,
+        "2014": -0.0023472916554677647
+      },
+      "passes": false
+    }
+  ],
+  "provisional_candidates": [
+    "f50_career_slope_ast_tov",
+    "f50_nondunk_rim_pct"
+  ],
+  "interpretation": "Pre-2019 development; paired real-minus-shuffled feature effect only. No test selection or confirmed discovery.",
+  "pair_phase_enabled": false
+}

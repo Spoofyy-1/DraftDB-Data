@@ -1,0 +1,154 @@
+[
+  {
+    "source_id": "dx2007camp",
+    "source_url": "http://www.draftexpress.com/viewarticle.php?a=2085",
+    "cutoff": "20070627",
+    "query_url": "https://web.archive.org/cdx/search/cdx?url=http%3A%2F%2Fwww.draftexpress.com%2Fviewarticle.php%3Fa%3D2085&to=20070627&output=json&filter=statuscode%3A200&collapse=digest&limit=3&matchType=exact",
+    "retrieved_at": 1788691119.544808,
+    "archive_verified": false,
+    "response_sha256": "222440bc8eca3b052dc85dc58033b2f10059f1f8854240f9a4ef94d05b7cc5b6",
+    "snapshots": [
+      {
+        "urlkey": "com,draftexpress)/viewarticle.php?a=2085",
+        "timestamp": "20070601155858",
+        "original": "http://www.draftexpress.com:80/viewarticle.php?a=2085",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "MOZ73XUVX3BVUMPTSOSY4R6WYXIJ3G7T",
+        "length": "17115"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "source_id": "dx2008agents",
+    "source_url": "http://www.draftexpress.com/article/2008-NBA-Draft-Prospects-Agent-Listings-2684/",
+    "cutoff": "20080625",
+    "query_url": "https://web.archive.org/cdx/search/cdx?url=http%3A%2F%2Fwww.draftexpress.com%2Farticle%2F2008-NBA-Draft-Prospects-Agent-Listings-2684%2F&to=20080625&output=json&filter=statuscode%3A200&collapse=digest&limit=3&matchType=exact",
+    "retrieved_at": 1788691119.544953,
+    "archive_verified": false,
+    "response_sha256": "9740e8c5974ac6f08c85c8f1f15a9a20c32582279e8168a150c222115153515e",
+    "snapshots": [
+      {
+        "urlkey": "com,draftexpress)/article/2008-nba-draft-prospects-agent-listings-2684",
+        "timestamp": "20080607081107",
+        "original": "http://www.draftexpress.com:80/article/2008-NBA-Draft-Prospects-Agent-Listings-2684/",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "NXI65DHYPTOVFXEPCMJ7MEP5FYK3CSCZ",
+        "length": "23873"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "source_id": "dx2009guards",
+    "source_url": "http://www.draftexpress.com/article/Situational-Statistics-This-Years-Point-Guard-Crop-3209/",
+    "cutoff": "20090624",
+    "query_url": "https://web.archive.org/cdx/search/cdx?url=http%3A%2F%2Fwww.draftexpress.com%2Farticle%2FSituational-Statistics-This-Years-Point-Guard-Crop-3209%2F&to=20090624&output=json&filter=statuscode%3A200&collapse=digest&limit=3&matchType=exact",
+    "retrieved_at": 1788691120.596124,
+    "archive_verified": false,
+    "response_sha256": "7833a9d2e3b5429cbd40953185e5ca0f078c1da2024dbcac2c3142865db7e4d1",
+    "snapshots": [
+      {
+        "urlkey": "com,draftexpress)/article/situational-statistics-this-years-point-guard-crop-3209",
+        "timestamp": "20090512100833",
+        "original": "http://www.draftexpress.com:80/article/Situational-Statistics-This-Years-Point-Guard-Crop-3209/",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "RXNX7FGRNEK7YTLXZYH5HTUYBXQV5YC6",
+        "length": "15740"
+      },
+      {
+        "urlkey": "com,draftexpress)/article/situational-statistics-this-years-point-guard-crop-3209",
+        "timestamp": "20090513101527",
+        "original": "http://www.draftexpress.com:80/article/Situational-Statistics-This-Years-Point-Guard-Crop-3209",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "RRLD5PK7JVM2UA2BCKIEOO4NGOMK7MNV",
+        "length": "15691"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "source_id": "dx2010sf",
+    "source_url": "http://www.draftexpress.com/article/Situational-Statistics-This-Yearas-Small-Forward-Crop-3503/",
+    "cutoff": "20100623",
+    "query_url": "https://web.archive.org/cdx/search/cdx?url=http%3A%2F%2Fwww.draftexpress.com%2Farticle%2FSituational-Statistics-This-Yearas-Small-Forward-Crop-3503%2F&to=20100623&output=json&filter=statuscode%3A200&collapse=digest&limit=3&matchType=exact",
+    "retrieved_at": 1788691122.427007,
+    "archive_verified": false,
+    "response_sha256": "c683ee788b1bd0322ae4caedcdf46e5cf73a1fed7a2ec783a98bfbc13cfb0db6",
+    "snapshots": [
+      {
+        "urlkey": "com,draftexpress)/article/situational-statistics-this-yearas-small-forward-crop-3503",
+        "timestamp": "20100615143232",
+        "original": "http://www.draftexpress.com:80/article/Situational-Statistics-This-Yearas-Small-Forward-Crop-3503",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "G4Z5HJLFUWVRDSPF4TZGGOZ2KCB2KXDG",
+        "length": "15359"
+      },
+      {
+        "urlkey": "com,draftexpress)/article/situational-statistics-this-yearas-small-forward-crop-3503",
+        "timestamp": "20100620001203",
+        "original": "http://www.draftexpress.com:80/article/Situational-Statistics-This-Yearas-Small-Forward-Crop-3503/",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "VHKOVY23XMEED73PIALTUPJEODZ2DJCS",
+        "length": "15392"
+      },
+      {
+        "urlkey": "com,draftexpress)/article/situational-statistics-this-yearas-small-forward-crop-3503",
+        "timestamp": "20100621035023",
+        "original": "http://www.draftexpress.com:80/article/Situational-Statistics-This-Yearas-Small-Forward-Crop-3503/",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "EWQ227LS6DVFXQLZSL6XM3NOOO65RKBB",
+        "length": "15381"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "source_id": "dx2010pf",
+    "source_url": "http://www.draftexpress.com/article/Situational-Statistics-This-Yearas-Power-Forward-Crop-3505/",
+    "cutoff": "20100623",
+    "query_url": "https://web.archive.org/cdx/search/cdx?url=http%3A%2F%2Fwww.draftexpress.com%2Farticle%2FSituational-Statistics-This-Yearas-Power-Forward-Crop-3505%2F&to=20100623&output=json&filter=statuscode%3A200&collapse=digest&limit=3&matchType=exact",
+    "retrieved_at": 1788691123.280791,
+    "archive_verified": false,
+    "response_sha256": "130974fd7825d6a9a24e681a37579ce316619c2801afb841ad07a18cef14a36a",
+    "snapshots": [
+      {
+        "urlkey": "com,draftexpress)/article/situational-statistics-this-yearas-power-forward-crop-3505",
+        "timestamp": "20100617150549",
+        "original": "http://www.draftexpress.com:80/article/Situational-Statistics-This-Yearas-Power-Forward-Crop-3505",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "N4ZQEBMDGFOUOAPSJP3FIOWFJDLJ2HAQ",
+        "length": "14786"
+      },
+      {
+        "urlkey": "com,draftexpress)/article/situational-statistics-this-yearas-power-forward-crop-3505",
+        "timestamp": "20100620001157",
+        "original": "http://www.draftexpress.com:80/article/Situational-Statistics-This-Yearas-Power-Forward-Crop-3505/",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "EMLTDVACAZVCN6NXURWMZNKMLFGZD6FS",
+        "length": "14824"
+      }
+    ],
+    "status": "ok"
+  },
+  {
+    "source_id": "dx2011fw",
+    "source_url": "http://www.draftexpress.com/article/Situational-Statistics-the-2011-Forward-Crop-3762/",
+    "cutoff": "20110622",
+    "query_url": "https://web.archive.org/cdx/search/cdx?url=http%3A%2F%2Fwww.draftexpress.com%2Farticle%2FSituational-Statistics-the-2011-Forward-Crop-3762%2F&to=20110622&output=json&filter=statuscode%3A200&collapse=digest&limit=3&matchType=exact",
+    "retrieved_at": 1788691123.511532,
+    "archive_verified": false,
+    "response_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "snapshots": [],
+    "status": "ok"
+  }
+]

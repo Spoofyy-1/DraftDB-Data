@@ -1,0 +1,25 @@
+{
+  "observations": 480,
+  "players": 128,
+  "candidate_metrics": 73,
+  "eligible_model_rows": 0,
+  "date_and_body_verified_rows": 480,
+  "per_year": {
+    "2007": 34,
+    "2008": 55,
+    "2009": 12,
+    "2010": 17,
+    "2011": 10
+  },
+  "unmatched_identity_records": 174,
+  "reason": "Factual pilot extracted; archival authenticity and broader coverage still gate training integration",
+  "excluded_conflict": {
+    "player": "Damion James",
+    "metric": "finish_ppp",
+    "reason": "Same article reports both1.25 and1.2; omitted rather than choosing"
+  },
+  "artifact_sha256": {
+    "pilot_features_quarantined.csv": "289c26381846358e8bbce1317e25166098286e96b07a2edb4fd1a73ed63b3612",
+    "pilot_observations_quarantined.csv": "b566093c03fbb261097e1b97ea51bd5020445a2577e56ff751802d1a966e3dfe"
+  }
+}

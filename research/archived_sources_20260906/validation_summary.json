@@ -1,0 +1,23 @@
+{
+  "eligible_observations": 434,
+  "eligible_players": 118,
+  "eligible_metrics": 67,
+  "per_year": {
+    "2010": 17,
+    "2007": 34,
+    "2009": 12,
+    "2008": 55
+  },
+  "pending_or_failed_observations": 46,
+  "failed_associations": [],
+  "archive_sources_validated": [
+    "dx2007camp",
+    "dx2008agents",
+    "dx2009guards",
+    "dx2010pf",
+    "dx2010sf"
+  ],
+  "labels_or_draft_results_read": false,
+  "integration_status": "Source-safe sparse pilot; not yet used in training or scored",
+  "source_files_publishable": false
+}

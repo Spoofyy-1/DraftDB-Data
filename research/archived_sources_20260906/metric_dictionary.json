@@ -1,0 +1,404 @@
+{
+  "report_agent_named_in_listing": {
+    "unit": "binary observed status",
+    "denominator": "positive invitation roster entries or explicit representation listing; missing player is NaN",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "agent_reporting"
+  },
+  "report_camp_invited": {
+    "unit": "binary observed status",
+    "denominator": "positive invitation roster entries or explicit representation listing; missing player is NaN",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "camp_reporting"
+  },
+  "report_catchshoot_fg_pct": {
+    "unit": "percent (0..100)",
+    "denominator": "field-goal attempts of the named play type",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_catchshoot_fga_pg": {
+    "unit": "field-goal attempts per game",
+    "denominator": "logged games",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_catchshoot_poss_pg": {
+    "unit": "possessions per game",
+    "denominator": "logged games",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_cut_poss_pct": {
+    "unit": "percent (0..100)",
+    "denominator": "named possession or shot denominator; shots_fouled differs from free_throw_poss",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_cut_poss_pg": {
+    "unit": "possessions per game",
+    "denominator": "logged games",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_finish_fga_pg": {
+    "unit": "field-goal attempts per game",
+    "denominator": "logged games",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_finish_poss_pg": {
+    "unit": "possessions per game",
+    "denominator": "logged games",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_finish_ppp": {
+    "unit": "points per possession",
+    "denominator": "possessions of the named play type",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_finish_pps": {
+    "unit": "points per shot",
+    "denominator": "shots of the named play type; do not merge with PPP",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_free_throw_poss_pct": {
+    "unit": "percent (0..100)",
+    "denominator": "named possession or shot denominator; shots_fouled differs from free_throw_poss",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_guarded_catchshoot_ppp": {
+    "unit": "points per possession",
+    "denominator": "possessions of the named play type",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_guarded_catchshoot_pps": {
+    "unit": "points per shot",
+    "denominator": "shots of the named play type; do not merge with PPP",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_halfcourt_poss_pg": {
+    "unit": "possessions per game",
+    "denominator": "logged games",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_halfcourt_ppp": {
+    "unit": "points per possession",
+    "denominator": "possessions of the named play type",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_halfcourt_shots_fouled_pct": {
+    "unit": "percent (0..100)",
+    "denominator": "named possession or shot denominator; shots_fouled differs from free_throw_poss",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_halfcourt_turnover_pct": {
+    "unit": "percent (0..100)",
+    "denominator": "named possession or shot denominator; shots_fouled differs from free_throw_poss",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_isolation_fg_pct": {
+    "unit": "percent (0..100)",
+    "denominator": "field-goal attempts of the named play type",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_isolation_poss_pg": {
+    "unit": "possessions per game",
+    "denominator": "logged games",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_isolation_ppp": {
+    "unit": "points per possession",
+    "denominator": "possessions of the named play type",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_isolation_shots_fouled_pct": {
+    "unit": "percent (0..100)",
+    "denominator": "named possession or shot denominator; shots_fouled differs from free_throw_poss",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_isolation_turnover_pct": {
+    "unit": "percent (0..100)",
+    "denominator": "named possession or shot denominator; shots_fouled differs from free_throw_poss",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_jump_fg_pct": {
+    "unit": "percent (0..100)",
+    "denominator": "field-goal attempts of the named play type",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_jump_fga_pg": {
+    "unit": "field-goal attempts per game",
+    "denominator": "logged games",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_jump_ppp": {
+    "unit": "points per possession",
+    "denominator": "possessions of the named play type",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_listed_testing_waters": {
+    "unit": "binary observed status",
+    "denominator": "positive invitation roster entries or explicit representation listing; missing player is NaN",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "agent_reporting"
+  },
+  "report_listed_withdrawn": {
+    "unit": "binary observed status",
+    "denominator": "positive invitation roster entries or explicit representation listing; missing player is NaN",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "agent_reporting"
+  },
+  "report_media_invited": {
+    "unit": "binary observed status",
+    "denominator": "positive invitation roster entries or explicit representation listing; missing player is NaN",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "camp_reporting"
+  },
+  "report_offscreen_poss_pg": {
+    "unit": "possessions per game",
+    "denominator": "logged games",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_offscreen_ppp": {
+    "unit": "points per possession",
+    "denominator": "possessions of the named play type",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_open_catchshoot_fg_pct": {
+    "unit": "percent (0..100)",
+    "denominator": "field-goal attempts of the named play type",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_open_catchshoot_ppp": {
+    "unit": "points per possession",
+    "denominator": "possessions of the named play type",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_open_catchshoot_pps": {
+    "unit": "points per shot",
+    "denominator": "shots of the named play type; do not merge with PPP",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_overall_ppp": {
+    "unit": "points per possession",
+    "denominator": "possessions of the named play type",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_physical_only_invited": {
+    "unit": "binary observed status",
+    "denominator": "positive invitation roster entries or explicit representation listing; missing player is NaN",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "camp_reporting"
+  },
+  "report_pickroll_poss_pct": {
+    "unit": "percent (0..100)",
+    "denominator": "named possession or shot denominator; shots_fouled differs from free_throw_poss",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_pickroll_poss_pg": {
+    "unit": "possessions per game",
+    "denominator": "logged games",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_pickroll_ppp": {
+    "unit": "points per possession",
+    "denominator": "possessions of the named play type",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_poss_pg": {
+    "unit": "possessions per game",
+    "denominator": "logged games",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_post_fg_pct": {
+    "unit": "percent (0..100)",
+    "denominator": "field-goal attempts of the named play type",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_post_poss_pct": {
+    "unit": "percent (0..100)",
+    "denominator": "named possession or shot denominator; shots_fouled differs from free_throw_poss",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_post_poss_pg": {
+    "unit": "possessions per game",
+    "denominator": "logged games",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_post_ppp": {
+    "unit": "points per possession",
+    "denominator": "possessions of the named play type",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_post_turnover_pct": {
+    "unit": "percent (0..100)",
+    "denominator": "named possession or shot denominator; shots_fouled differs from free_throw_poss",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_pullup_fg_pct": {
+    "unit": "percent (0..100)",
+    "denominator": "field-goal attempts of the named play type",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_pullup_fga_pg": {
+    "unit": "field-goal attempts per game",
+    "denominator": "logged games",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_pullup_fga_total": {
+    "unit": "field-goal attempts",
+    "denominator": "entire reported season sample",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_pullup_fgm_total": {
+    "unit": "field-goals made",
+    "denominator": "entire reported season sample",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_pullup_ppp": {
+    "unit": "points per possession",
+    "denominator": "possessions of the named play type",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_pullup_pps": {
+    "unit": "points per shot",
+    "denominator": "shots of the named play type; do not merge with PPP",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_putback_poss_pct": {
+    "unit": "percent (0..100)",
+    "denominator": "named possession or shot denominator; shots_fouled differs from free_throw_poss",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_putback_poss_pg": {
+    "unit": "possessions per game",
+    "denominator": "logged games",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_putback_ppp": {
+    "unit": "points per possession",
+    "denominator": "possessions of the named play type",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_rim_fg_pct": {
+    "unit": "percent (0..100)",
+    "denominator": "field-goal attempts of the named play type",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_same_agent_listed_client_count": {
+    "unit": "count",
+    "denominator": "all contemporaneously listed clients with identical source agent spelling",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "agent_reporting"
+  },
+  "report_scoring_poss_pct": {
+    "unit": "percent (0..100)",
+    "denominator": "named possession or shot denominator; shots_fouled differs from free_throw_poss",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_shots_fouled_pct": {
+    "unit": "percent (0..100)",
+    "denominator": "named possession or shot denominator; shots_fouled differs from free_throw_poss",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_spotup_fga_pg": {
+    "unit": "field-goal attempts per game",
+    "denominator": "logged games",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_spotup_poss_pct": {
+    "unit": "percent (0..100)",
+    "denominator": "named possession or shot denominator; shots_fouled differs from free_throw_poss",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_spotup_ppp": {
+    "unit": "points per possession",
+    "denominator": "possessions of the named play type",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_transition_fg_pct": {
+    "unit": "percent (0..100)",
+    "denominator": "field-goal attempts of the named play type",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_transition_poss_pct": {
+    "unit": "percent (0..100)",
+    "denominator": "named possession or shot denominator; shots_fouled differs from free_throw_poss",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_transition_poss_pg": {
+    "unit": "possessions per game",
+    "denominator": "logged games",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_transition_ppp": {
+    "unit": "points per possession",
+    "denominator": "possessions of the named play type",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_transition_turnover_pct": {
+    "unit": "percent (0..100)",
+    "denominator": "named possession or shot denominator; shots_fouled differs from free_throw_poss",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  },
+  "report_turnover_pct": {
+    "unit": "percent (0..100)",
+    "denominator": "named possession or shot denominator; shots_fouled differs from free_throw_poss",
+    "missing": "NaN, never zero-filled before fold-specific model preprocessing",
+    "source_family": "situational_stats"
+  }
+}

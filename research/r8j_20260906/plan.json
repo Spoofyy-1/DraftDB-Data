@@ -1,0 +1,1789 @@
+{
+  "study": "R8j matched-feature remainder",
+  "purpose": "Apply the corrected fixed-selection matched-slot screen to all42 remaining new statistics. R8i separately tested the first8. No test-basedselection.",
+  "variants": [
+    {
+      "id": "f50_balanced_stocks__real",
+      "features": [
+        "f50_balanced_stocks"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_balanced_stocks__perm9317",
+      "features": [
+        "f50_balanced_stocks"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_balanced_stocks__perm18739",
+      "features": [
+        "f50_balanced_stocks"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_balanced_stocks__perm28657",
+      "features": [
+        "f50_balanced_stocks"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_career_slope_drb__real",
+      "features": [
+        "f50_career_slope_drb"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_career_slope_drb__perm9317",
+      "features": [
+        "f50_career_slope_drb"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_career_slope_drb__perm18739",
+      "features": [
+        "f50_career_slope_drb"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_career_slope_drb__perm28657",
+      "features": [
+        "f50_career_slope_drb"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_career_slope_ftp__real",
+      "features": [
+        "f50_career_slope_ftp"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_career_slope_ftp__perm9317",
+      "features": [
+        "f50_career_slope_ftp"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_career_slope_ftp__perm18739",
+      "features": [
+        "f50_career_slope_ftp"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_career_slope_ftp__perm28657",
+      "features": [
+        "f50_career_slope_ftp"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_career_slope_ftr__real",
+      "features": [
+        "f50_career_slope_ftr"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_career_slope_ftr__perm9317",
+      "features": [
+        "f50_career_slope_ftr"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_career_slope_ftr__perm18739",
+      "features": [
+        "f50_career_slope_ftr"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_career_slope_ftr__perm28657",
+      "features": [
+        "f50_career_slope_ftr"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_career_slope_minutes__real",
+      "features": [
+        "f50_career_slope_minutes"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_career_slope_minutes__perm9317",
+      "features": [
+        "f50_career_slope_minutes"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_career_slope_minutes__perm18739",
+      "features": [
+        "f50_career_slope_minutes"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_career_slope_minutes__perm28657",
+      "features": [
+        "f50_career_slope_minutes"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_career_slope_two_p__real",
+      "features": [
+        "f50_career_slope_two_p"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_career_slope_two_p__perm9317",
+      "features": [
+        "f50_career_slope_two_p"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_career_slope_two_p__perm18739",
+      "features": [
+        "f50_career_slope_two_p"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_career_slope_two_p__perm28657",
+      "features": [
+        "f50_career_slope_two_p"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_career_slope_usage__real",
+      "features": [
+        "f50_career_slope_usage"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_career_slope_usage__perm9317",
+      "features": [
+        "f50_career_slope_usage"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_career_slope_usage__perm18739",
+      "features": [
+        "f50_career_slope_usage"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_career_slope_usage__perm28657",
+      "features": [
+        "f50_career_slope_usage"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_foul_adjusted_rebounds__real",
+      "features": [
+        "f50_foul_adjusted_rebounds"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_foul_adjusted_rebounds__perm9317",
+      "features": [
+        "f50_foul_adjusted_rebounds"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_foul_adjusted_rebounds__perm18739",
+      "features": [
+        "f50_foul_adjusted_rebounds"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_foul_adjusted_rebounds__perm28657",
+      "features": [
+        "f50_foul_adjusted_rebounds"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_minutes_concentration__real",
+      "features": [
+        "f50_minutes_concentration"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_minutes_concentration__perm9317",
+      "features": [
+        "f50_minutes_concentration"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_minutes_concentration__perm18739",
+      "features": [
+        "f50_minutes_concentration"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_minutes_concentration__perm28657",
+      "features": [
+        "f50_minutes_concentration"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_creation_density__real",
+      "features": [
+        "f50_peer_creation_density"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_creation_density__perm9317",
+      "features": [
+        "f50_peer_creation_density"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_creation_density__perm18739",
+      "features": [
+        "f50_peer_creation_density"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_creation_density__perm28657",
+      "features": [
+        "f50_peer_creation_density"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_defense_density__real",
+      "features": [
+        "f50_peer_defense_density"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_defense_density__perm9317",
+      "features": [
+        "f50_peer_defense_density"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_defense_density__perm18739",
+      "features": [
+        "f50_peer_defense_density"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_defense_density__perm28657",
+      "features": [
+        "f50_peer_defense_density"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_rank_ast__real",
+      "features": [
+        "f50_peer_rank_ast"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_rank_ast__perm9317",
+      "features": [
+        "f50_peer_rank_ast"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_rank_ast__perm18739",
+      "features": [
+        "f50_peer_rank_ast"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_rank_ast__perm28657",
+      "features": [
+        "f50_peer_rank_ast"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_rank_blk__real",
+      "features": [
+        "f50_peer_rank_blk"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_rank_blk__perm9317",
+      "features": [
+        "f50_peer_rank_blk"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_rank_blk__perm18739",
+      "features": [
+        "f50_peer_rank_blk"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_rank_blk__perm28657",
+      "features": [
+        "f50_peer_rank_blk"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_rank_drb__real",
+      "features": [
+        "f50_peer_rank_drb"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_rank_drb__perm9317",
+      "features": [
+        "f50_peer_rank_drb"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_rank_drb__perm18739",
+      "features": [
+        "f50_peer_rank_drb"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_rank_drb__perm28657",
+      "features": [
+        "f50_peer_rank_drb"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_rank_orb__real",
+      "features": [
+        "f50_peer_rank_orb"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_rank_orb__perm9317",
+      "features": [
+        "f50_peer_rank_orb"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_rank_orb__perm18739",
+      "features": [
+        "f50_peer_rank_orb"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_rank_orb__perm28657",
+      "features": [
+        "f50_peer_rank_orb"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_rank_stl__real",
+      "features": [
+        "f50_peer_rank_stl"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_rank_stl__perm9317",
+      "features": [
+        "f50_peer_rank_stl"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_rank_stl__perm18739",
+      "features": [
+        "f50_peer_rank_stl"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_rank_stl__perm28657",
+      "features": [
+        "f50_peer_rank_stl"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_rank_tov__real",
+      "features": [
+        "f50_peer_rank_tov"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_rank_tov__perm9317",
+      "features": [
+        "f50_peer_rank_tov"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_rank_tov__perm18739",
+      "features": [
+        "f50_peer_rank_tov"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_rank_tov__perm28657",
+      "features": [
+        "f50_peer_rank_tov"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_rim_diet__real",
+      "features": [
+        "f50_peer_rim_diet"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_rim_diet__perm9317",
+      "features": [
+        "f50_peer_rim_diet"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_rim_diet__perm18739",
+      "features": [
+        "f50_peer_rim_diet"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_rim_diet__perm28657",
+      "features": [
+        "f50_peer_rim_diet"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_sd_ast__real",
+      "features": [
+        "f50_peer_sd_ast"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_sd_ast__perm9317",
+      "features": [
+        "f50_peer_sd_ast"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_sd_ast__perm18739",
+      "features": [
+        "f50_peer_sd_ast"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_sd_ast__perm28657",
+      "features": [
+        "f50_peer_sd_ast"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_sd_blk__real",
+      "features": [
+        "f50_peer_sd_blk"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_sd_blk__perm9317",
+      "features": [
+        "f50_peer_sd_blk"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_sd_blk__perm18739",
+      "features": [
+        "f50_peer_sd_blk"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_sd_blk__perm28657",
+      "features": [
+        "f50_peer_sd_blk"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_sd_drb__real",
+      "features": [
+        "f50_peer_sd_drb"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_sd_drb__perm9317",
+      "features": [
+        "f50_peer_sd_drb"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_sd_drb__perm18739",
+      "features": [
+        "f50_peer_sd_drb"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_sd_drb__perm28657",
+      "features": [
+        "f50_peer_sd_drb"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_sd_orb__real",
+      "features": [
+        "f50_peer_sd_orb"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_sd_orb__perm9317",
+      "features": [
+        "f50_peer_sd_orb"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_sd_orb__perm18739",
+      "features": [
+        "f50_peer_sd_orb"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_sd_orb__perm28657",
+      "features": [
+        "f50_peer_sd_orb"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_sd_stl__real",
+      "features": [
+        "f50_peer_sd_stl"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_sd_stl__perm9317",
+      "features": [
+        "f50_peer_sd_stl"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_sd_stl__perm18739",
+      "features": [
+        "f50_peer_sd_stl"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_sd_stl__perm28657",
+      "features": [
+        "f50_peer_sd_stl"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_sd_tov__real",
+      "features": [
+        "f50_peer_sd_tov"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_sd_tov__perm9317",
+      "features": [
+        "f50_peer_sd_tov"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_sd_tov__perm18739",
+      "features": [
+        "f50_peer_sd_tov"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_sd_tov__perm28657",
+      "features": [
+        "f50_peer_sd_tov"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_sd_ts__real",
+      "features": [
+        "f50_peer_sd_ts"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_sd_ts__perm9317",
+      "features": [
+        "f50_peer_sd_ts"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_sd_ts__perm18739",
+      "features": [
+        "f50_peer_sd_ts"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_sd_ts__perm28657",
+      "features": [
+        "f50_peer_sd_ts"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_sd_usage__real",
+      "features": [
+        "f50_peer_sd_usage"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_sd_usage__perm9317",
+      "features": [
+        "f50_peer_sd_usage"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_sd_usage__perm18739",
+      "features": [
+        "f50_peer_sd_usage"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_sd_usage__perm28657",
+      "features": [
+        "f50_peer_sd_usage"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_peer_three_diet__real",
+      "features": [
+        "f50_peer_three_diet"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_peer_three_diet__perm9317",
+      "features": [
+        "f50_peer_three_diet"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_peer_three_diet__perm18739",
+      "features": [
+        "f50_peer_three_diet"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_peer_three_diet__perm28657",
+      "features": [
+        "f50_peer_three_diet"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_perimeter_ft_agreement__real",
+      "features": [
+        "f50_perimeter_ft_agreement"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_perimeter_ft_agreement__perm9317",
+      "features": [
+        "f50_perimeter_ft_agreement"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_perimeter_ft_agreement__perm18739",
+      "features": [
+        "f50_perimeter_ft_agreement"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_perimeter_ft_agreement__perm28657",
+      "features": [
+        "f50_perimeter_ft_agreement"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_posterior_dunk__real",
+      "features": [
+        "f50_posterior_dunk"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_posterior_dunk__perm9317",
+      "features": [
+        "f50_posterior_dunk"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_posterior_dunk__perm18739",
+      "features": [
+        "f50_posterior_dunk"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_posterior_dunk__perm28657",
+      "features": [
+        "f50_posterior_dunk"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_posterior_ft__real",
+      "features": [
+        "f50_posterior_ft"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_posterior_ft__perm9317",
+      "features": [
+        "f50_posterior_ft"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_posterior_ft__perm18739",
+      "features": [
+        "f50_posterior_ft"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_posterior_ft__perm28657",
+      "features": [
+        "f50_posterior_ft"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_posterior_mid__real",
+      "features": [
+        "f50_posterior_mid"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_posterior_mid__perm9317",
+      "features": [
+        "f50_posterior_mid"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_posterior_mid__perm18739",
+      "features": [
+        "f50_posterior_mid"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_posterior_mid__perm28657",
+      "features": [
+        "f50_posterior_mid"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_posterior_rim__real",
+      "features": [
+        "f50_posterior_rim"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_posterior_rim__perm9317",
+      "features": [
+        "f50_posterior_rim"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_posterior_rim__perm18739",
+      "features": [
+        "f50_posterior_rim"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_posterior_rim__perm28657",
+      "features": [
+        "f50_posterior_rim"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_posterior_three__real",
+      "features": [
+        "f50_posterior_three"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_posterior_three__perm9317",
+      "features": [
+        "f50_posterior_three"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_posterior_three__perm18739",
+      "features": [
+        "f50_posterior_three"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_posterior_three__perm28657",
+      "features": [
+        "f50_posterior_three"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_posterior_two__real",
+      "features": [
+        "f50_posterior_two"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_posterior_two__perm9317",
+      "features": [
+        "f50_posterior_two"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_posterior_two__perm18739",
+      "features": [
+        "f50_posterior_two"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_posterior_two__perm28657",
+      "features": [
+        "f50_posterior_two"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_rim_ft_pressure__real",
+      "features": [
+        "f50_rim_ft_pressure"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_rim_ft_pressure__perm9317",
+      "features": [
+        "f50_rim_ft_pressure"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_rim_ft_pressure__perm18739",
+      "features": [
+        "f50_rim_ft_pressure"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_rim_ft_pressure__perm28657",
+      "features": [
+        "f50_rim_ft_pressure"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_team_share_dunk_a__real",
+      "features": [
+        "f50_team_share_dunk_a"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_team_share_dunk_a__perm9317",
+      "features": [
+        "f50_team_share_dunk_a"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_team_share_dunk_a__perm18739",
+      "features": [
+        "f50_team_share_dunk_a"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_team_share_dunk_a__perm28657",
+      "features": [
+        "f50_team_share_dunk_a"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_team_share_fta__real",
+      "features": [
+        "f50_team_share_fta"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_team_share_fta__perm9317",
+      "features": [
+        "f50_team_share_fta"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_team_share_fta__perm18739",
+      "features": [
+        "f50_team_share_fta"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_team_share_fta__perm28657",
+      "features": [
+        "f50_team_share_fta"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_team_share_ftm__real",
+      "features": [
+        "f50_team_share_ftm"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_team_share_ftm__perm9317",
+      "features": [
+        "f50_team_share_ftm"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_team_share_ftm__perm18739",
+      "features": [
+        "f50_team_share_ftm"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_team_share_ftm__perm28657",
+      "features": [
+        "f50_team_share_ftm"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_team_share_rim_a__real",
+      "features": [
+        "f50_team_share_rim_a"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_team_share_rim_a__perm9317",
+      "features": [
+        "f50_team_share_rim_a"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_team_share_rim_a__perm18739",
+      "features": [
+        "f50_team_share_rim_a"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_team_share_rim_a__perm28657",
+      "features": [
+        "f50_team_share_rim_a"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_team_share_three_a__real",
+      "features": [
+        "f50_team_share_three_a"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_team_share_three_a__perm9317",
+      "features": [
+        "f50_team_share_three_a"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_team_share_three_a__perm18739",
+      "features": [
+        "f50_team_share_three_a"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_team_share_three_a__perm28657",
+      "features": [
+        "f50_team_share_three_a"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_team_share_three_m__real",
+      "features": [
+        "f50_team_share_three_m"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_team_share_three_m__perm9317",
+      "features": [
+        "f50_team_share_three_m"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_team_share_three_m__perm18739",
+      "features": [
+        "f50_team_share_three_m"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_team_share_three_m__perm28657",
+      "features": [
+        "f50_team_share_three_m"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    },
+    {
+      "id": "f50_usage_concentration__real",
+      "features": [
+        "f50_usage_concentration"
+      ],
+      "arms": [
+        "real"
+      ],
+      "permutation_seed": null
+    },
+    {
+      "id": "f50_usage_concentration__perm9317",
+      "features": [
+        "f50_usage_concentration"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 9317
+    },
+    {
+      "id": "f50_usage_concentration__perm18739",
+      "features": [
+        "f50_usage_concentration"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 18739
+    },
+    {
+      "id": "f50_usage_concentration__perm28657",
+      "features": [
+        "f50_usage_concentration"
+      ],
+      "arms": [
+        "permuted"
+      ],
+      "permutation_seed": 28657
+    }
+  ],
+  "folds": [
+    2012,
+    2013,
+    2014
+  ],
+  "seeds": [
+    0,
+    101,
+    202
+  ],
+  "permutation_seeds": [
+    9317,
+    18739,
+    28657
+  ],
+  "source_selection": {
+    "rule": "All42realF50features notalreadyexaminedbyR8i; no score-based inclusion."
+  },
+  "backbone": {
+    "icl_n": 32,
+    "topk": 60,
+    "M": 400,
+    "window": 2007,
+    "hw": "uniform",
+    "noscout": 1,
+    "drop": [
+      "scout_",
+      "col_bpm_pct_",
+      "col_usg_pct_",
+      "col_ts_pct_",
+      "col_ast_pct_",
+      "col_stl_pct_",
+      "col_blk_pct_",
+      "col_orb_pct_",
+      "col_shot_proj_"
+    ]
+  },
+  "model": "Standalone GPU TabICL; CPU selector trained on base features only, fixed once per fold and reused across feature arms.",
+  "selection": {
+    "selector_seed": 11,
+    "selector_input": "base columns only; no F50 or reserved slots",
+    "cache": "per fold/process; verify identical ordered column hashes across every arm",
+    "slot_names": [
+      "slot_0",
+      "slot_1"
+    ],
+    "coverage": "base features only, computed before slots are appended"
+  },
+  "controls": {
+    "shuffle": "Only observed values within each draft cohort; preserve per-player NaN mask exactly. Training and validation randomizations separate. Stable PID order.",
+    "seed_stream": "SHA256 of feature, permutation seed, role, cohort; no outcome values",
+    "shape": "Same reserved slot name/order for every real and shuffled arm. Verify identical masks, cardinalities and column sets."
+  },
+  "provisional_gate": {
+    "min_mean_gain": 0.005,
+    "min_improved_folds": 2,
+    "max_fold_regression": 0.01,
+    "maximum_single_candidates": 3,
+    "comparison": "Real seed-mean minus mean of all three matched permutations with the same model seeds; no baseline differences enter the gate.",
+    "interpretation": "Exploratory eligibility for later confirmation; not a significance test or test-goal achievement.",
+    "global_selection_note": "AfterR8i+R8jcomplete, selectmax3acrossbothstudies bymatchedgain thenid; separatehashesexpected, butsamebase-feature/traininghashesmustmatch."
+  },
+  "pair_phase": {
+    "enabled": false,
+    "maximum_pairs": 3,
+    "selection_rule": "At most three pairs among at most three provisionally gated singles. Register exact pairs before execution.",
+    "arms": [
+      [
+        "real",
+        "real"
+      ],
+      [
+        "real",
+        "permuted"
+      ],
+      [
+        "permuted",
+        "real"
+      ],
+      [
+        "permuted",
+        "permuted"
+      ]
+    ],
+    "slot_count": 2,
+    "permutation_seeds": [
+      9317,
+      18739,
+      28657
+    ],
+    "independent_feature_streams": true,
+    "comparison": "Joint real must improve both one-real matched arms; report RR-RP, RR-PR and RR-RP-PR+PP. This is exploratory representation complementarity. No pair jobs are registered in this batch."
+  },
+  "no_confirmation_or_test_scoring": true,
+  "calendar_policy": "For predicted year Y, training only earlier cohorts and actual NBA season_end <=Y-1. Development scoring labels <=2018. No2019-2026 answers available.",
+  "confirmation_note": "Any later literal as-of outer-year confirmation must select inside its own season cutoff; selection using development truths through2018 cannot be called known at a2015-2017 decision date.",
+  "execution": {
+    "workers": 4,
+    "xgboost_selector": "cpu",
+    "predictor": "GPU TabICL only",
+    "batch_size": 32,
+    "task_count": 504
+  }
+}

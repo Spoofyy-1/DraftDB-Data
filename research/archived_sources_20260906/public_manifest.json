@@ -1,0 +1,79 @@
+{
+  "publish_exclude": [
+    "private/"
+  ],
+  "files": {
+    "pilot_observations_pending.csv": {
+      "sha256": "dce66c5a883c126b1bdc28f0f06b798b849d9268952e2217388eb58b0a7aadba",
+      "bytes": 12438
+    },
+    "summary.json": {
+      "sha256": "4310fa68e724043ff0a7495094bd2499b9593ada481608c28032f0583a90cea8",
+      "bytes": 802
+    },
+    "sources.json": {
+      "sha256": "9f8539e90286e0f5b8c302613d873cf6b5ee9dafd04a9085a2feec675ca8dc86",
+      "bytes": 4777
+    },
+    "validated_sources.json": {
+      "sha256": "9fe9e072894765f1de6a6569baae8c6624754269704db887c0d04130902bb545",
+      "bytes": 8700
+    },
+    "pilot_observations_eligible.csv": {
+      "sha256": "953b448d93bae37494b2b8e9e089c71c0836aaf871a8a0b05d5753a0681f470a",
+      "bytes": 195304
+    },
+    "check_archive.py": {
+      "sha256": "8f5b64e392339215f97613d0a51219faece97cb3fbb3e31c7bd035ed72dd0816",
+      "bytes": 1747
+    },
+    "archive_body_validation.json": {
+      "sha256": "9f80abd389e79c605c93cfeeec47ae0f44ff1a2e9873a36e41a3ef0fb868d570",
+      "bytes": 3679
+    },
+    "build_pilot.py": {
+      "sha256": "01521d9f47b33df4988b8ef0911a84e3947587b8dbf2dbc914a3d2d855927291",
+      "bytes": 14635
+    },
+    "validation_summary.json": {
+      "sha256": "78c175ab2a9694893d97f267c1810b7c35300aa16b653e798f9d6e0731363c21",
+      "bytes": 533
+    },
+    "validate_pilot.py": {
+      "sha256": "b625a1c51f8dcbd1908d45319839f0e2e1d084c0e3d6a59e40c41a9400087c39",
+      "bytes": 6409
+    },
+    "pilot_features_eligible.csv": {
+      "sha256": "bcc7eee73cc95ada81a0f42a73a4b508f69d0e5629a90749bd6325e5b8e32ffe",
+      "bytes": 13083
+    },
+    "pilot_features_quarantined.csv": {
+      "sha256": "289c26381846358e8bbce1317e25166098286e96b07a2edb4fd1a73ed63b3612",
+      "bytes": 14996
+    },
+    "fetch_archives.py": {
+      "sha256": "9cb11c6f0a80d535afb5840a5f7f7e3880fecdec204e72981e59fe0b155a373a",
+      "bytes": 1107
+    },
+    "README.md": {
+      "sha256": "206146ac514836f2ebfb3fccdec34a9fd164159f5c158a92bffd1e0bc6188af2",
+      "bytes": 3478
+    },
+    "archive_index_validation.json": {
+      "sha256": "54306bcee09f9190a6e53853e559748a39125b4625284025bebb8a31d90f09f6",
+      "bytes": 7438
+    },
+    "unmatched_identity.json": {
+      "sha256": "f91465ac4a783ba15423b7e3043d085d5ba720059958d0ecae72ea64b8a7fcb5",
+      "bytes": 28621
+    },
+    "metric_dictionary.json": {
+      "sha256": "bd0c653aea86b48e4267074659730fcdb4d8d719624c1953bf66fa59aa02b539",
+      "bytes": 17643
+    },
+    "pilot_observations_quarantined.csv": {
+      "sha256": "b566093c03fbb261097e1b97ea51bd5020445a2577e56ff751802d1a966e3dfe",
+      "bytes": 100004
+    }
+  }
+}
