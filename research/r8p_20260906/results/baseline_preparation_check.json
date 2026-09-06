@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "fields": [
+    "base_columns_hash",
+    "training_pid_hash",
+    "training_labels_hash",
+    "training_matrix_hash"
+  ],
+  "folds": [
+    2012,
+    2013,
+    2014
+  ]
+}

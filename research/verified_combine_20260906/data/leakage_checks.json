@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "training_identical_when_all_post2018_source_files_are_removed": true,
+  "training_sha256": "27f777fcec6c9eb66fa51c22248f3412d83c15010809bd76e550f5849b1cbc4b",
+  "all_2026_features_missing_without_2026_source": true,
+  "original_pools_retained": true,
+  "feature_count": 37,
+  "no_network_or_WAR_reads": true,
+  "unit_checks": [
+    "request_year_mismatch",
+    "individual_row_year_mismatch",
+    "missing_height_BMI",
+    "partial_drill_no_imputation",
+    "zero_attempt_rate_missing",
+    "future_identity_invariance",
+    "conflicting_ID_rejection"
+  ]
+}

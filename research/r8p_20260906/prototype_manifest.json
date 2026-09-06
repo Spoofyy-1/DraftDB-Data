@@ -1,0 +1,12 @@
+{
+  "status": "completed_39_diagnostic_tasks",
+  "files": {
+    "worker.py": "0500ae729a99da1ffc67ea5dceb5892208cdd88dbc5799b5ad14c4d492489dbf",
+    "plan.json": "aecb543d6c9b63d28dcc455e40ee58dbe27d15494851658a2dd292c18d95f2db",
+    "legacy_kernel.py": "ddc58666da0d784a1b67f6b8ee4763599bdce14bb91768893e6fb87af4620ee1",
+    "data/manifest.json": "ce7980606e51f248160dc306af3ab5ad0c540053d0a959985a5c632578d57a97",
+    "preflight.json": "83738170b2e03cc3cd88de5fdb4df71d2064211a86f6d1ca1f757e8fbd7c58b3",
+    "README.md": "04c4895a28041034880ed1b623da74ca9a709eb63f597ffc221b50ad942aaab2"
+  },
+  "compatibility_correction": "Explicit dropna after stack; no values or experimental policy changed; before launch."
+}

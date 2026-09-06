@@ -1,0 +1,406 @@
+{
+  "scope": "Pre-2019 training feature values only; no outcome columns loaded.",
+  "source_training_sha256": "4173c3782cdf37898b1200ffea17fdfafd9b1bd6ac10307270cde32ca2511403",
+  "current_features_sha256": "ce432401e631f5ed5c9829f39707b4c2cd0a54dcb6578b26bfa50dbe2c81146f",
+  "matched_rows": 1428,
+  "features": [
+    {
+      "feature": "bio_bmi_proxy",
+      "selected_folds": [
+        "2013"
+      ],
+      "current_nonmissing": 1418,
+      "changed_cells_vs_original": 0
+    },
+    {
+      "feature": "col_bpm_delta",
+      "selected_folds": [
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "current_nonmissing": 599,
+      "changed_cells_vs_original": 0
+    },
+    {
+      "feature": "col_bpm_max",
+      "selected_folds": [
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "current_nonmissing": 708,
+      "changed_cells_vs_original": 0
+    },
+    {
+      "feature": "col_bpm_mean",
+      "selected_folds": [
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "current_nonmissing": 708,
+      "changed_cells_vs_original": 0
+    },
+    {
+      "feature": "col_bpm_rank_team",
+      "selected_folds": [
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "current_nonmissing": 704,
+      "changed_cells_vs_original": 0
+    },
+    {
+      "feature": "col_first_bpm",
+      "selected_folds": [
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "current_nonmissing": 599,
+      "changed_cells_vs_original": 0
+    },
+    {
+      "feature": "col_lu_drapm",
+      "selected_folds": [
+        "2013"
+      ],
+      "current_nonmissing": 502,
+      "changed_cells_vs_original": 0
+    },
+    {
+      "feature": "col_lu_on_net",
+      "selected_folds": [
+        "2014"
+      ],
+      "current_nonmissing": 502,
+      "changed_cells_vs_original": 0
+    },
+    {
+      "feature": "col_lu_orapm",
+      "selected_folds": [
+        "2013",
+        "2014"
+      ],
+      "current_nonmissing": 502,
+      "changed_cells_vs_original": 0
+    },
+    {
+      "feature": "col_lu_rapm",
+      "selected_folds": [
+        "2013",
+        "2014"
+      ],
+      "current_nonmissing": 502,
+      "changed_cells_vs_original": 0
+    },
+    {
+      "feature": "col_z_ast_pct",
+      "selected_folds": [
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "current_nonmissing": 883,
+      "changed_cells_vs_original": 0
+    },
+    {
+      "feature": "col_z_blk_pct",
+      "selected_folds": [
+        "2013",
+        "2014"
+      ],
+      "current_nonmissing": 883,
+      "changed_cells_vs_original": 0
+    },
+    {
+      "feature": "col_z_fg3ar",
+      "selected_folds": [
+        "2013"
+      ],
+      "current_nonmissing": 884,
+      "changed_cells_vs_original": 0
+    },
+    {
+      "feature": "col_z_impact",
+      "selected_folds": [
+        "2013",
+        "2014"
+      ],
+      "current_nonmissing": 708,
+      "changed_cells_vs_original": 0
+    },
+    {
+      "feature": "col_z_stl_pct",
+      "selected_folds": [
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "current_nonmissing": 883,
+      "changed_cells_vs_original": 0
+    },
+    {
+      "feature": "col_z_ts_pct",
+      "selected_folds": [
+        "2012",
+        "2013"
+      ],
+      "current_nonmissing": 883,
+      "changed_cells_vs_original": 0
+    },
+    {
+      "feature": "col_z_usg_pct",
+      "selected_folds": [
+        "2013",
+        "2014"
+      ],
+      "current_nonmissing": 782,
+      "changed_cells_vs_original": 0
+    },
+    {
+      "feature": "cons_bigboard_consensus_rank",
+      "selected_folds": [
+        "2014"
+      ],
+      "current_nonmissing": 494,
+      "changed_cells_vs_original": 0
+    },
+    {
+      "feature": "cons_mock_best_rank",
+      "selected_folds": [
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "current_nonmissing": 674,
+      "changed_cells_vs_original": 0
+    },
+    {
+      "feature": "cons_mock_consensus_rank",
+      "selected_folds": [
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "current_nonmissing": 674,
+      "changed_cells_vs_original": 0
+    },
+    {
+      "feature": "cons_mock_n_sources",
+      "selected_folds": [
+        "2012"
+      ],
+      "current_nonmissing": 682,
+      "changed_cells_vs_original": 0
+    },
+    {
+      "feature": "med_months_since_injury",
+      "selected_folds": [
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "current_nonmissing": 70,
+      "changed_cells_vs_original": 0
+    },
+    {
+      "feature": "med_n_injuries",
+      "selected_folds": [
+        "2012"
+      ],
+      "current_nonmissing": 1428,
+      "changed_cells_vs_original": 0
+    }
+  ],
+  "selected_fold_columns": {
+    "2012": [
+      "col_value",
+      "cs_spot_attempts",
+      "col_stl_pg",
+      "shr_col_stl_pct",
+      "col_bpm_mean",
+      "col_first_bpm",
+      "adj_intl_stl36",
+      "med_n_injuries",
+      "col_gl_late_minus_early_mpg",
+      "col_fg3a_per40",
+      "cons_mock_consensus_rank",
+      "shr_col_ortg",
+      "col_z_stl_pct",
+      "hs_recruit_rank_final",
+      "shr_col_ast_pct",
+      "col_gl_best5_game_score",
+      "col_gl_top50_games",
+      "col_fg2_pct",
+      "x_vol_eff",
+      "pre_green_room_invite",
+      "intl_stl36",
+      "hs_mcdonalds_aa",
+      "col_z_ast_pct",
+      "col_orb_pct",
+      "col_bpm_max",
+      "col_bpm_delta",
+      "intl_fg3ar",
+      "col_gl_top50_pts40",
+      "col_ast_pg",
+      "col_gl_top50_gap_pts40",
+      "shr_col_fg2_pct",
+      "col_adj_ortg",
+      "cons_mock_best_rank",
+      "col_gl_game_score_cv",
+      "col_ast_pct",
+      "col_ortg",
+      "shr_col_stl36",
+      "col_ast36",
+      "col_drtg",
+      "col_mid_fg_pct",
+      "hs_rsci_rank",
+      "shr_col_impact",
+      "col_ftar",
+      "col_z_ts_pct",
+      "bio_combine_hand_length_in",
+      "bio_combine_sprint_s",
+      "cons_mock_n_sources",
+      "intl_minutes",
+      "shr_col_drtg",
+      "med_months_since_injury",
+      "col_gl_ncaa_ts",
+      "intl_gp",
+      "col_stl36",
+      "col_bpm_rank_team",
+      "col_n_seasons",
+      "intl_pts36",
+      "bio_combine_body_fat_pct",
+      "col_recruit_score",
+      "col_gl_top50_ts",
+      "shr_col_blk_pct"
+    ],
+    "2013": [
+      "col_impact",
+      "col_first_bpm",
+      "col_bpm_mean",
+      "shr_col_impact",
+      "col_lu_rapm",
+      "intl_stl36",
+      "col_z_stl_pct",
+      "col_gl_worst5_game_score",
+      "col_bpm_rank_team",
+      "col_mid_fga_share",
+      "col_bpm_delta",
+      "col_bpm_max",
+      "shr_col_stl_pct",
+      "hs_rsci_rank",
+      "col_usg_pct",
+      "adj_intl_stl36",
+      "sample_reliability",
+      "col_lu_orapm",
+      "col_gl_top50_gap_pts40",
+      "col_z_impact",
+      "cons_mock_consensus_rank",
+      "col_recruit_score",
+      "shr_col_drtg",
+      "col_gl_ncaa_ts",
+      "col_ast_pg",
+      "x_rim",
+      "shr_col_usg_pct",
+      "col_stl_pct",
+      "pre_green_room_invite",
+      "col_pts_pg",
+      "med_months_since_injury",
+      "intl_ts_pct",
+      "col_ast_pct",
+      "shr_col_drb_pct",
+      "col_z_fg3ar",
+      "col_rim_fg_pct",
+      "shr_col_fg2_pct",
+      "adj_intl_ast36",
+      "col_drb_pct",
+      "cons_mock_best_rank",
+      "col_z_usg_pct",
+      "col_n_seasons",
+      "shr_col_blk36",
+      "bio_bmi_proxy",
+      "col_lu_drapm",
+      "bio_combine_hand_width_in",
+      "hs_recruit_rank_final",
+      "col_orb_pct",
+      "col_ast36",
+      "shr_col_pts36",
+      "x_vol_eff",
+      "intl_last_level",
+      "col_gl_team_rank",
+      "col_gl_mean_opp_rank",
+      "intl_impact",
+      "col_z_ts_pct",
+      "col_z_blk_pct",
+      "bio_combine_sprint_s",
+      "col_reb_pg",
+      "col_z_ast_pct"
+    ],
+    "2014": [
+      "col_first_bpm",
+      "col_z_stl_pct",
+      "col_bpm_mean",
+      "col_value",
+      "hs_recruit_rank_final",
+      "col_z_impact",
+      "col_lu_rapm",
+      "col_lu_on_net",
+      "cons_mock_consensus_rank",
+      "col_impact",
+      "col_blk36",
+      "adj_intl_stl36",
+      "col_bpm_rank_team",
+      "col_gl_mean_opp_rank",
+      "col_ast_pg",
+      "intl_stl36",
+      "x_rim",
+      "col_bpm_max",
+      "col_z_usg_pct",
+      "cons_mock_best_rank",
+      "col_mid_fg_pct",
+      "col_z_blk_pct",
+      "shr_col_stl36",
+      "col_stl_pct",
+      "col_drtg",
+      "intl_gp",
+      "pre_green_room_invite",
+      "adj_intl_pts36",
+      "col_dunks_per40",
+      "shr_col_reb36",
+      "col_ft_pct",
+      "adj_intl_ast36",
+      "intl_efg_pct",
+      "col_orb_pct",
+      "col_mid_fga_share",
+      "sample_reliability",
+      "shr_col_ast36",
+      "col_gl_top50_pts40",
+      "col_recruit_score",
+      "intl_ast36",
+      "shr_col_ast_pct",
+      "col_drb_pct",
+      "col_blk_pct",
+      "col_lu_orapm",
+      "col_gl_top50_gap_pts40",
+      "col_ts_pct",
+      "col_bpm_delta",
+      "col_fg3a_per40",
+      "col_gl_top50_ts",
+      "col_minutes_total",
+      "bio_combine_wingspan_minus_height_in",
+      "col_z_ast_pct",
+      "col_games_missed",
+      "col_gl_game_score_sd",
+      "col_tov_pct",
+      "col_n_seasons",
+      "col_impact_off",
+      "cons_bigboard_consensus_rank",
+      "col_gl_ncaa_pts40",
+      "med_months_since_injury"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "root": "work/verified_combine",
+  "copy_only_these_files": [
+    "build.py",
+    "test_build.py",
+    "README.md",
+    "PUBLIC_ALLOWLIST.json",
+    "data/train_inputs.csv",
+    "data/2019_inputs.csv",
+    "data/2020_inputs.csv",
+    "data/2021_inputs.csv",
+    "data/2022_inputs.csv",
+    "data/2023_inputs.csv",
+    "data/2024_inputs.csv",
+    "data/2025_inputs.csv",
+    "data/2026_inputs.csv",
+    "data/feature_dictionary.json",
+    "data/row_provenance.csv",
+    "data/manifest.json",
+    "data/leakage_checks.json"
+  ],
+  "never_recursive_copy": true,
+  "exclude_all_other_files": true,
+  "contents": "PID-keyed actual pre-draft combine features, provenance, code and aggregate checks only; no WAR or NBA outcome statistics"
+}

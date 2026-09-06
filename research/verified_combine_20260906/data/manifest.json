@@ -1,0 +1,851 @@
+{
+  "protocol": "vcmb_official_same_cohort_cache_v1",
+  "features": [
+    "vcmb_height_without_shoes_in",
+    "vcmb_height_with_shoes_in",
+    "vcmb_weight_lb",
+    "vcmb_wingspan_in",
+    "vcmb_standing_reach_in",
+    "vcmb_body_fat_pct",
+    "vcmb_hand_length_in",
+    "vcmb_hand_width_in",
+    "vcmb_standing_vertical_in",
+    "vcmb_max_vertical_in",
+    "vcmb_lane_agility_s",
+    "vcmb_modified_lane_agility_s",
+    "vcmb_three_quarter_sprint_s",
+    "vcmb_bench_press_reps",
+    "vcmb_bmi_kg_m2",
+    "vcmb_wingspan_minus_height_in",
+    "vcmb_spot_15ft_made",
+    "vcmb_spot_15ft_attempted",
+    "vcmb_spot_15ft_pct",
+    "vcmb_spot_college3_made",
+    "vcmb_spot_college3_attempted",
+    "vcmb_spot_college3_pct",
+    "vcmb_spot_nba3_made",
+    "vcmb_spot_nba3_attempted",
+    "vcmb_spot_nba3_pct",
+    "vcmb_off_dribble_15ft_made",
+    "vcmb_off_dribble_15ft_attempted",
+    "vcmb_off_dribble_15ft_pct",
+    "vcmb_off_dribble_college3_made",
+    "vcmb_off_dribble_college3_attempted",
+    "vcmb_off_dribble_college3_pct",
+    "vcmb_on_move_15ft_made",
+    "vcmb_on_move_15ft_attempted",
+    "vcmb_on_move_15ft_pct",
+    "vcmb_on_move_college3_made",
+    "vcmb_on_move_college3_attempted",
+    "vcmb_on_move_college3_pct"
+  ],
+  "feature_count": 37,
+  "source_files": [
+    {
+      "filename": "combine_2000.json",
+      "sha256": "0001b862347a20dbc019c4941e4df964e74a6c7e57dda4c566020addb238a8a1",
+      "source_year": 2000,
+      "parameters": {
+        "LeagueID": "00",
+        "SeasonYear": "2000-01"
+      },
+      "all_row_seasons_verified": true,
+      "rows": 65,
+      "source_url": "https://stats.gleague.nba.com/stats/draftcombinestats?LeagueID=00&SeasonYear=2000-01"
+    },
+    {
+      "filename": "combine_2001.json",
+      "sha256": "5dd3690a1746cfa3e68714bf5ac3c441bc54f9c0ac6f7bedc60edc5541a839f8",
+      "source_year": 2001,
+      "parameters": {
+        "LeagueID": "00",
+        "SeasonYear": "2001-02"
+      },
+      "all_row_seasons_verified": true,
+      "rows": 78,
+      "source_url": "https://stats.gleague.nba.com/stats/draftcombinestats?LeagueID=00&SeasonYear=2001-02"
+    },
+    {
+      "filename": "combine_2002.json",
+      "sha256": "1b8eea6ff9dc6594982b65b05f63fdd727d1ccb6b652c11327a19294ac7a72ce",
+      "source_year": 2002,
+      "parameters": {
+        "LeagueID": "00",
+        "SeasonYear": "2002-03"
+      },
+      "all_row_seasons_verified": true,
+      "rows": 82,
+      "source_url": "https://stats.gleague.nba.com/stats/draftcombinestats?LeagueID=00&SeasonYear=2002-03"
+    },
+    {
+      "filename": "combine_2003.json",
+      "sha256": "368a224e57543b012d9f3a4c6c3903d9197a79ebea94b3a4a9b9f62621def48d",
+      "source_year": 2003,
+      "parameters": {
+        "LeagueID": "00",
+        "SeasonYear": "2003-04"
+      },
+      "all_row_seasons_verified": true,
+      "rows": 78,
+      "source_url": "https://stats.gleague.nba.com/stats/draftcombinestats?LeagueID=00&SeasonYear=2003-04"
+    },
+    {
+      "filename": "combine_2004.json",
+      "sha256": "f65549aaba6799baa6cfdb9969cbf7f700c5d0c5dfb0956aeda0289aa62c6f0f",
+      "source_year": 2004,
+      "parameters": {
+        "LeagueID": "00",
+        "SeasonYear": "2004-05"
+      },
+      "all_row_seasons_verified": true,
+      "rows": 81,
+      "source_url": "https://stats.gleague.nba.com/stats/draftcombinestats?LeagueID=00&SeasonYear=2004-05"
+    },
+    {
+      "filename": "combine_2005.json",
+      "sha256": "fd848d11516cef2492a4d5a15337774bcf16b611f6212856b586caecfe7d3e05",
+      "source_year": 2005,
+      "parameters": {
+        "LeagueID": "00",
+        "SeasonYear": "2005-06"
+      },
+      "all_row_seasons_verified": true,
+      "rows": 81,
+      "source_url": "https://stats.gleague.nba.com/stats/draftcombinestats?LeagueID=00&SeasonYear=2005-06"
+    },
+    {
+      "filename": "combine_2006.json",
+      "sha256": "05fc510b85fb416eff4bdb067a23dae67339d4caf24ca816bf77468c549c12cd",
+      "source_year": 2006,
+      "parameters": {
+        "LeagueID": "00",
+        "SeasonYear": "2006-07"
+      },
+      "all_row_seasons_verified": true,
+      "rows": 76,
+      "source_url": "https://stats.gleague.nba.com/stats/draftcombinestats?LeagueID=00&SeasonYear=2006-07"
+    },
+    {
+      "filename": "combine_2007.json",
+      "sha256": "11c856a5d1f6ef245e2ab0636a06829732dd96c72f024b524e86b1778a10ec33",
+      "source_year": 2007,
+      "parameters": {
+        "LeagueID": "00",
+        "SeasonYear": "2007-08"
+      },
+      "all_row_seasons_verified": true,
+      "rows": 77,
+      "source_url": "https://stats.gleague.nba.com/stats/draftcombinestats?LeagueID=00&SeasonYear=2007-08"
+    },
+    {
+      "filename": "combine_2008.json",
+      "sha256": "6c890720b6276784621b45b79d6fc145d74d20a753976a51df4c9006ac6b558f",
+      "source_year": 2008,
+      "parameters": {
+        "LeagueID": "00",
+        "SeasonYear": "2008-09"
+      },
+      "all_row_seasons_verified": true,
+      "rows": 76,
+      "source_url": "https://stats.gleague.nba.com/stats/draftcombinestats?LeagueID=00&SeasonYear=2008-09"
+    },
+    {
+      "filename": "combine_2009.json",
+      "sha256": "f6ad44e6c0bd56abebfb0177b9d43e59a2cbc83f26180a8bc7bf6fdd4fbef456",
+      "source_year": 2009,
+      "parameters": {
+        "LeagueID": "00",
+        "SeasonYear": "2009-10"
+      },
+      "all_row_seasons_verified": true,
+      "rows": 46,
+      "source_url": "https://stats.gleague.nba.com/stats/draftcombinestats?LeagueID=00&SeasonYear=2009-10"
+    },
+    {
+      "filename": "combine_2010.json",
+      "sha256": "1a0a04c7eeecd22b65e907cb80ed82ab8bf0499cc7e86c06441054e5eebbd8c0",
+      "source_year": 2010,
+      "parameters": {
+        "LeagueID": "00",
+        "SeasonYear": "2010-11"
+      },
+      "all_row_seasons_verified": true,
+      "rows": 52,
+      "source_url": "https://stats.gleague.nba.com/stats/draftcombinestats?LeagueID=00&SeasonYear=2010-11"
+    },
+    {
+      "filename": "combine_2011.json",
+      "sha256": "ab8f32f63920199312b5138d5069551f77aaf389090f2aea6a812c37a0aa97b6",
+      "source_year": 2011,
+      "parameters": {
+        "LeagueID": "00",
+        "SeasonYear": "2011-12"
+      },
+      "all_row_seasons_verified": true,
+      "rows": 54,
+      "source_url": "https://stats.gleague.nba.com/stats/draftcombinestats?LeagueID=00&SeasonYear=2011-12"
+    },
+    {
+      "filename": "combine_2012.json",
+      "sha256": "01a37f911e642c8b82f4db6c9c4566d2ade4be37647b0e77df85044ee08d6781",
+      "source_year": 2012,
+      "parameters": {
+        "LeagueID": "00",
+        "SeasonYear": "2012-13"
+      },
+      "all_row_seasons_verified": true,
+      "rows": 61,
+      "source_url": "https://stats.gleague.nba.com/stats/draftcombinestats?LeagueID=00&SeasonYear=2012-13"
+    },
+    {
+      "filename": "combine_2013.json",
+      "sha256": "ca4ea61236b53503c194e831f972ffc72960fa7249ea8cb814d866582450d3ba",
+      "source_year": 2013,
+      "parameters": {
+        "LeagueID": "00",
+        "SeasonYear": "2013-14"
+      },
+      "all_row_seasons_verified": true,
+      "rows": 63,
+      "source_url": "https://stats.gleague.nba.com/stats/draftcombinestats?LeagueID=00&SeasonYear=2013-14"
+    },
+    {
+      "filename": "combine_2014.json",
+      "sha256": "6a3191029b592cf20f95892a423720903f2871855de799ffdb5a5c3344075da3",
+      "source_year": 2014,
+      "parameters": {
+        "LeagueID": "00",
+        "SeasonYear": "2014-15"
+      },
+      "all_row_seasons_verified": true,
+      "rows": 56,
+      "source_url": "https://stats.gleague.nba.com/stats/draftcombinestats?LeagueID=00&SeasonYear=2014-15"
+    },
+    {
+      "filename": "combine_2015.json",
+      "sha256": "cb62c56a5e5795aee98c4df295665041700b16e10d7d8304d4ea6ecba8d321ef",
+      "source_year": 2015,
+      "parameters": {
+        "LeagueID": "00",
+        "SeasonYear": "2015-16"
+      },
+      "all_row_seasons_verified": true,
+      "rows": 58,
+      "source_url": "https://stats.gleague.nba.com/stats/draftcombinestats?LeagueID=00&SeasonYear=2015-16"
+    },
+    {
+      "filename": "combine_2016.json",
+      "sha256": "19de1372999760a5bdcd28f7e36e6bff55b9b7f0f1e2f55ed36f71565f6dff1a",
+      "source_year": 2016,
+      "parameters": {
+        "LeagueID": "00",
+        "SeasonYear": "2016-17"
+      },
+      "all_row_seasons_verified": true,
+      "rows": 56,
+      "source_url": "https://stats.gleague.nba.com/stats/draftcombinestats?LeagueID=00&SeasonYear=2016-17"
+    },
+    {
+      "filename": "combine_2017.json",
+      "sha256": "1533a650f3d3cce90b16d5c5475f1e523aa27fb16da9e52640d20a2b63bc94c1",
+      "source_year": 2017,
+      "parameters": {
+        "LeagueID": "00",
+        "SeasonYear": "2017-18"
+      },
+      "all_row_seasons_verified": true,
+      "rows": 64,
+      "source_url": "https://stats.gleague.nba.com/stats/draftcombinestats?LeagueID=00&SeasonYear=2017-18"
+    },
+    {
+      "filename": "combine_2018.json",
+      "sha256": "fc1e6866d2bf11b7fd7e99ce25f37ab3dac68a92848c5f53d261448b3cb17e51",
+      "source_year": 2018,
+      "parameters": {
+        "LeagueID": "00",
+        "SeasonYear": "2018-19"
+      },
+      "all_row_seasons_verified": true,
+      "rows": 69,
+      "source_url": "https://stats.gleague.nba.com/stats/draftcombinestats?LeagueID=00&SeasonYear=2018-19"
+    },
+    {
+      "filename": "combine_2019.json",
+      "sha256": "bcee9f648c30302bc3e405ad45fb8a8c4cb640e2ccf24bf331dc5fc43a3eb189",
+      "source_year": 2019,
+      "parameters": {
+        "LeagueID": "00",
+        "SeasonYear": "2019-20"
+      },
+      "all_row_seasons_verified": true,
+      "rows": 77,
+      "source_url": "https://stats.gleague.nba.com/stats/draftcombinestats?LeagueID=00&SeasonYear=2019-20"
+    },
+    {
+      "filename": "combine_2020.json",
+      "sha256": "41922ac9a66d1d625483cba4ee74731bde7dcd731f92dbe5ecd31fa9c6337d1c",
+      "source_year": 2020,
+      "parameters": {
+        "LeagueID": "00",
+        "SeasonYear": "2020-21"
+      },
+      "all_row_seasons_verified": true,
+      "rows": 45,
+      "source_url": "https://stats.gleague.nba.com/stats/draftcombinestats?LeagueID=00&SeasonYear=2020-21"
+    },
+    {
+      "filename": "combine_2021.json",
+      "sha256": "c93920cdba752e047f778bb9f2d849aa7303966f1e78f49ac42a040d597d8478",
+      "source_year": 2021,
+      "parameters": {
+        "LeagueID": "00",
+        "SeasonYear": "2021-22"
+      },
+      "all_row_seasons_verified": true,
+      "rows": 74,
+      "source_url": "https://stats.gleague.nba.com/stats/draftcombinestats?LeagueID=00&SeasonYear=2021-22"
+    },
+    {
+      "filename": "combine_2022.json",
+      "sha256": "b6f82fe90da662ee3b82fc55fd392b99991fbdcb08488ee66599275b7ebf4202",
+      "source_year": 2022,
+      "parameters": {
+        "LeagueID": "00",
+        "SeasonYear": "2022-23"
+      },
+      "all_row_seasons_verified": true,
+      "rows": 83,
+      "source_url": "https://stats.gleague.nba.com/stats/draftcombinestats?LeagueID=00&SeasonYear=2022-23"
+    },
+    {
+      "filename": "combine_2023.json",
+      "sha256": "7f96606ab8d4b2741417e06c0ad423c8b0adc74ba458eca74ad1cf46ad5af6e3",
+      "source_year": 2023,
+      "parameters": {
+        "LeagueID": "00",
+        "SeasonYear": "2023-24"
+      },
+      "all_row_seasons_verified": true,
+      "rows": 81,
+      "source_url": "https://stats.gleague.nba.com/stats/draftcombinestats?LeagueID=00&SeasonYear=2023-24"
+    },
+    {
+      "filename": "combine_2024.json",
+      "sha256": "535909a0c5712c7fd96b272ce959c723de1e0c4ad8af22166298cc47b0628898",
+      "source_year": 2024,
+      "parameters": {
+        "LeagueID": "00",
+        "SeasonYear": "2024-25"
+      },
+      "all_row_seasons_verified": true,
+      "rows": 83,
+      "source_url": "https://stats.gleague.nba.com/stats/draftcombinestats?LeagueID=00&SeasonYear=2024-25"
+    },
+    {
+      "filename": "combine_2025.json",
+      "sha256": "a9b3729f4fbeb4cad3140639908530e28769a642f2e705c0e07cb4b91a646b89",
+      "source_year": 2025,
+      "parameters": {
+        "LeagueID": "00",
+        "SeasonYear": "2025-26"
+      },
+      "all_row_seasons_verified": true,
+      "rows": 79,
+      "source_url": "https://stats.gleague.nba.com/stats/draftcombinestats?LeagueID=00&SeasonYear=2025-26"
+    }
+  ],
+  "rejected_source_files": [],
+  "datasets": [
+    {
+      "cohort": "train",
+      "rows": 1458,
+      "matched_players": 763,
+      "identity_match_counts": {
+        "unique_exact_same_cohort_name": 1,
+        "no_unique_same_cohort_name": 685,
+        "unique_nba_id": 764,
+        "conflicting_nba_ids": 8
+      },
+      "column_coverage": {
+        "vcmb_height_without_shoes_in": 761,
+        "vcmb_height_with_shoes_in": 629,
+        "vcmb_weight_lb": 760,
+        "vcmb_wingspan_in": 762,
+        "vcmb_standing_reach_in": 761,
+        "vcmb_body_fat_pct": 653,
+        "vcmb_hand_length_in": 410,
+        "vcmb_hand_width_in": 410,
+        "vcmb_standing_vertical_in": 677,
+        "vcmb_max_vertical_in": 675,
+        "vcmb_lane_agility_s": 666,
+        "vcmb_modified_lane_agility_s": 213,
+        "vcmb_three_quarter_sprint_s": 671,
+        "vcmb_bench_press_reps": 595,
+        "vcmb_bmi_kg_m2": 760,
+        "vcmb_wingspan_minus_height_in": 761,
+        "vcmb_spot_15ft_made": 63,
+        "vcmb_spot_15ft_attempted": 63,
+        "vcmb_spot_15ft_pct": 63,
+        "vcmb_spot_college3_made": 87,
+        "vcmb_spot_college3_attempted": 87,
+        "vcmb_spot_college3_pct": 87,
+        "vcmb_spot_nba3_made": 141,
+        "vcmb_spot_nba3_attempted": 141,
+        "vcmb_spot_nba3_pct": 141,
+        "vcmb_off_dribble_15ft_made": 105,
+        "vcmb_off_dribble_15ft_attempted": 105,
+        "vcmb_off_dribble_15ft_pct": 105,
+        "vcmb_off_dribble_college3_made": 14,
+        "vcmb_off_dribble_college3_attempted": 14,
+        "vcmb_off_dribble_college3_pct": 14,
+        "vcmb_on_move_15ft_made": 95,
+        "vcmb_on_move_15ft_attempted": 95,
+        "vcmb_on_move_15ft_pct": 94,
+        "vcmb_on_move_college3_made": 28,
+        "vcmb_on_move_college3_attempted": 28,
+        "vcmb_on_move_college3_pct": 28
+      },
+      "source_pool_filename": "train_inputs.csv",
+      "source_pool_sha256": "491d248759aca109a270d05dd581929d4f776b4f11ec1699a78069fa5e62d2f7",
+      "output_sha256": "27f777fcec6c9eb66fa51c22248f3412d83c15010809bd76e550f5849b1cbc4b"
+    },
+    {
+      "cohort": 2019,
+      "rows": 137,
+      "matched_players": 61,
+      "identity_match_counts": {
+        "no_unique_same_cohort_name": 69,
+        "unique_nba_id": 63,
+        "conflicting_nba_ids": 1,
+        "unique_exact_same_cohort_name": 4
+      },
+      "column_coverage": {
+        "vcmb_height_without_shoes_in": 61,
+        "vcmb_height_with_shoes_in": 61,
+        "vcmb_weight_lb": 60,
+        "vcmb_wingspan_in": 61,
+        "vcmb_standing_reach_in": 61,
+        "vcmb_body_fat_pct": 60,
+        "vcmb_hand_length_in": 61,
+        "vcmb_hand_width_in": 61,
+        "vcmb_standing_vertical_in": 51,
+        "vcmb_max_vertical_in": 51,
+        "vcmb_lane_agility_s": 51,
+        "vcmb_modified_lane_agility_s": 51,
+        "vcmb_three_quarter_sprint_s": 51,
+        "vcmb_bench_press_reps": 46,
+        "vcmb_bmi_kg_m2": 60,
+        "vcmb_wingspan_minus_height_in": 61,
+        "vcmb_spot_15ft_made": 6,
+        "vcmb_spot_15ft_attempted": 6,
+        "vcmb_spot_15ft_pct": 6,
+        "vcmb_spot_college3_made": 29,
+        "vcmb_spot_college3_attempted": 29,
+        "vcmb_spot_college3_pct": 29,
+        "vcmb_spot_nba3_made": 36,
+        "vcmb_spot_nba3_attempted": 36,
+        "vcmb_spot_nba3_pct": 36,
+        "vcmb_off_dribble_15ft_made": 33,
+        "vcmb_off_dribble_15ft_attempted": 33,
+        "vcmb_off_dribble_15ft_pct": 33,
+        "vcmb_off_dribble_college3_made": 5,
+        "vcmb_off_dribble_college3_attempted": 5,
+        "vcmb_off_dribble_college3_pct": 5,
+        "vcmb_on_move_15ft_made": 38,
+        "vcmb_on_move_15ft_attempted": 38,
+        "vcmb_on_move_15ft_pct": 38,
+        "vcmb_on_move_college3_made": 3,
+        "vcmb_on_move_college3_attempted": 3,
+        "vcmb_on_move_college3_pct": 3
+      },
+      "source_pool_filename": "2019_inputs.csv",
+      "source_pool_sha256": "c5c1c59f917497178ba657c191fadbb7b5c227edb45a084ea1d65733edc9aab5",
+      "output_sha256": "394f23656bf55e292325d3aed04466f8b53e4de839d8d7c11ed678b5ee62d2c4"
+    },
+    {
+      "cohort": 2020,
+      "rows": 112,
+      "matched_players": 43,
+      "identity_match_counts": {
+        "unique_exact_same_cohort_name": 3,
+        "no_unique_same_cohort_name": 69,
+        "unique_nba_id": 40
+      },
+      "column_coverage": {
+        "vcmb_height_without_shoes_in": 43,
+        "vcmb_height_with_shoes_in": 43,
+        "vcmb_weight_lb": 43,
+        "vcmb_wingspan_in": 43,
+        "vcmb_standing_reach_in": 43,
+        "vcmb_body_fat_pct": 43,
+        "vcmb_hand_length_in": 43,
+        "vcmb_hand_width_in": 43,
+        "vcmb_standing_vertical_in": 35,
+        "vcmb_max_vertical_in": 35,
+        "vcmb_lane_agility_s": 35,
+        "vcmb_modified_lane_agility_s": 35,
+        "vcmb_three_quarter_sprint_s": 35,
+        "vcmb_bench_press_reps": 0,
+        "vcmb_bmi_kg_m2": 43,
+        "vcmb_wingspan_minus_height_in": 43,
+        "vcmb_spot_15ft_made": 0,
+        "vcmb_spot_15ft_attempted": 0,
+        "vcmb_spot_15ft_pct": 0,
+        "vcmb_spot_college3_made": 0,
+        "vcmb_spot_college3_attempted": 0,
+        "vcmb_spot_college3_pct": 0,
+        "vcmb_spot_nba3_made": 0,
+        "vcmb_spot_nba3_attempted": 0,
+        "vcmb_spot_nba3_pct": 0,
+        "vcmb_off_dribble_15ft_made": 0,
+        "vcmb_off_dribble_15ft_attempted": 0,
+        "vcmb_off_dribble_15ft_pct": 0,
+        "vcmb_off_dribble_college3_made": 0,
+        "vcmb_off_dribble_college3_attempted": 0,
+        "vcmb_off_dribble_college3_pct": 0,
+        "vcmb_on_move_15ft_made": 0,
+        "vcmb_on_move_15ft_attempted": 0,
+        "vcmb_on_move_15ft_pct": 0,
+        "vcmb_on_move_college3_made": 0,
+        "vcmb_on_move_college3_attempted": 0,
+        "vcmb_on_move_college3_pct": 0
+      },
+      "source_pool_filename": "2020_inputs.csv",
+      "source_pool_sha256": "cdaf1a0d036f8785ae6ad043e8353d5420d777a16dce5a65417874d588408d1c",
+      "output_sha256": "6bc64a6d0f6e5944ffafe55130d70dffa23f312ebac4a736b8b5d07db1f653d3"
+    },
+    {
+      "cohort": 2021,
+      "rows": 233,
+      "matched_players": 54,
+      "identity_match_counts": {
+        "no_unique_same_cohort_name": 171,
+        "unique_nba_id": 58,
+        "unique_exact_same_cohort_name": 4
+      },
+      "column_coverage": {
+        "vcmb_height_without_shoes_in": 54,
+        "vcmb_height_with_shoes_in": 54,
+        "vcmb_weight_lb": 54,
+        "vcmb_wingspan_in": 54,
+        "vcmb_standing_reach_in": 54,
+        "vcmb_body_fat_pct": 54,
+        "vcmb_hand_length_in": 54,
+        "vcmb_hand_width_in": 54,
+        "vcmb_standing_vertical_in": 45,
+        "vcmb_max_vertical_in": 45,
+        "vcmb_lane_agility_s": 45,
+        "vcmb_modified_lane_agility_s": 45,
+        "vcmb_three_quarter_sprint_s": 45,
+        "vcmb_bench_press_reps": 0,
+        "vcmb_bmi_kg_m2": 54,
+        "vcmb_wingspan_minus_height_in": 54,
+        "vcmb_spot_15ft_made": 0,
+        "vcmb_spot_15ft_attempted": 0,
+        "vcmb_spot_15ft_pct": 0,
+        "vcmb_spot_college3_made": 0,
+        "vcmb_spot_college3_attempted": 0,
+        "vcmb_spot_college3_pct": 0,
+        "vcmb_spot_nba3_made": 0,
+        "vcmb_spot_nba3_attempted": 0,
+        "vcmb_spot_nba3_pct": 0,
+        "vcmb_off_dribble_15ft_made": 0,
+        "vcmb_off_dribble_15ft_attempted": 0,
+        "vcmb_off_dribble_15ft_pct": 0,
+        "vcmb_off_dribble_college3_made": 0,
+        "vcmb_off_dribble_college3_attempted": 0,
+        "vcmb_off_dribble_college3_pct": 0,
+        "vcmb_on_move_15ft_made": 0,
+        "vcmb_on_move_15ft_attempted": 0,
+        "vcmb_on_move_15ft_pct": 0,
+        "vcmb_on_move_college3_made": 31,
+        "vcmb_on_move_college3_attempted": 31,
+        "vcmb_on_move_college3_pct": 31
+      },
+      "source_pool_filename": "2021_inputs.csv",
+      "source_pool_sha256": "481ca621e908dd9b52ab3e3a092d111f3167cfe8aae5df3801c80167a4d1bc17",
+      "output_sha256": "c13efc63b5a0942d3c4aa6ff657099aad5fe9c956e2620ed7f502552c5e47333"
+    },
+    {
+      "cohort": 2022,
+      "rows": 97,
+      "matched_players": 49,
+      "identity_match_counts": {
+        "no_unique_same_cohort_name": 34,
+        "unique_nba_id": 59,
+        "unique_exact_same_cohort_name": 4
+      },
+      "column_coverage": {
+        "vcmb_height_without_shoes_in": 49,
+        "vcmb_height_with_shoes_in": 49,
+        "vcmb_weight_lb": 49,
+        "vcmb_wingspan_in": 49,
+        "vcmb_standing_reach_in": 49,
+        "vcmb_body_fat_pct": 49,
+        "vcmb_hand_length_in": 49,
+        "vcmb_hand_width_in": 49,
+        "vcmb_standing_vertical_in": 39,
+        "vcmb_max_vertical_in": 39,
+        "vcmb_lane_agility_s": 39,
+        "vcmb_modified_lane_agility_s": 39,
+        "vcmb_three_quarter_sprint_s": 38,
+        "vcmb_bench_press_reps": 0,
+        "vcmb_bmi_kg_m2": 49,
+        "vcmb_wingspan_minus_height_in": 49,
+        "vcmb_spot_15ft_made": 0,
+        "vcmb_spot_15ft_attempted": 0,
+        "vcmb_spot_15ft_pct": 0,
+        "vcmb_spot_college3_made": 0,
+        "vcmb_spot_college3_attempted": 0,
+        "vcmb_spot_college3_pct": 0,
+        "vcmb_spot_nba3_made": 0,
+        "vcmb_spot_nba3_attempted": 0,
+        "vcmb_spot_nba3_pct": 0,
+        "vcmb_off_dribble_15ft_made": 0,
+        "vcmb_off_dribble_15ft_attempted": 0,
+        "vcmb_off_dribble_15ft_pct": 0,
+        "vcmb_off_dribble_college3_made": 0,
+        "vcmb_off_dribble_college3_attempted": 0,
+        "vcmb_off_dribble_college3_pct": 0,
+        "vcmb_on_move_15ft_made": 0,
+        "vcmb_on_move_15ft_attempted": 0,
+        "vcmb_on_move_15ft_pct": 0,
+        "vcmb_on_move_college3_made": 25,
+        "vcmb_on_move_college3_attempted": 25,
+        "vcmb_on_move_college3_pct": 25
+      },
+      "source_pool_filename": "2022_inputs.csv",
+      "source_pool_sha256": "3819ef53ee8025151743ee0294c43e857903c8682fcf8eac10827fff8f95dfa6",
+      "output_sha256": "561b9d56d84f72b8d356f854d0298467b7db0a5ee6f4d216a363c81788c4c110"
+    },
+    {
+      "cohort": 2023,
+      "rows": 101,
+      "matched_players": 51,
+      "identity_match_counts": {
+        "no_unique_same_cohort_name": 40,
+        "unique_nba_id": 59,
+        "unique_exact_same_cohort_name": 2
+      },
+      "column_coverage": {
+        "vcmb_height_without_shoes_in": 51,
+        "vcmb_height_with_shoes_in": 0,
+        "vcmb_weight_lb": 51,
+        "vcmb_wingspan_in": 51,
+        "vcmb_standing_reach_in": 51,
+        "vcmb_body_fat_pct": 0,
+        "vcmb_hand_length_in": 51,
+        "vcmb_hand_width_in": 51,
+        "vcmb_standing_vertical_in": 43,
+        "vcmb_max_vertical_in": 43,
+        "vcmb_lane_agility_s": 43,
+        "vcmb_modified_lane_agility_s": 16,
+        "vcmb_three_quarter_sprint_s": 43,
+        "vcmb_bench_press_reps": 0,
+        "vcmb_bmi_kg_m2": 51,
+        "vcmb_wingspan_minus_height_in": 51,
+        "vcmb_spot_15ft_made": 0,
+        "vcmb_spot_15ft_attempted": 0,
+        "vcmb_spot_15ft_pct": 0,
+        "vcmb_spot_college3_made": 0,
+        "vcmb_spot_college3_attempted": 0,
+        "vcmb_spot_college3_pct": 0,
+        "vcmb_spot_nba3_made": 0,
+        "vcmb_spot_nba3_attempted": 0,
+        "vcmb_spot_nba3_pct": 0,
+        "vcmb_off_dribble_15ft_made": 0,
+        "vcmb_off_dribble_15ft_attempted": 0,
+        "vcmb_off_dribble_15ft_pct": 0,
+        "vcmb_off_dribble_college3_made": 0,
+        "vcmb_off_dribble_college3_attempted": 0,
+        "vcmb_off_dribble_college3_pct": 0,
+        "vcmb_on_move_15ft_made": 0,
+        "vcmb_on_move_15ft_attempted": 0,
+        "vcmb_on_move_15ft_pct": 0,
+        "vcmb_on_move_college3_made": 30,
+        "vcmb_on_move_college3_attempted": 30,
+        "vcmb_on_move_college3_pct": 30
+      },
+      "source_pool_filename": "2023_inputs.csv",
+      "source_pool_sha256": "2aa77c1bb6227087ceacc1fffc9325c5f89dcf7562c9d93c07321afb389aa23d",
+      "output_sha256": "0baf8b4dcbd4f3375d9061b334392ca5170ce496cb9bea980ec7f32f3cca3b23"
+    },
+    {
+      "cohort": 2024,
+      "rows": 114,
+      "matched_players": 66,
+      "identity_match_counts": {
+        "no_unique_same_cohort_name": 48,
+        "unique_nba_id": 65,
+        "unique_exact_same_cohort_name": 1
+      },
+      "column_coverage": {
+        "vcmb_height_without_shoes_in": 66,
+        "vcmb_height_with_shoes_in": 0,
+        "vcmb_weight_lb": 66,
+        "vcmb_wingspan_in": 66,
+        "vcmb_standing_reach_in": 66,
+        "vcmb_body_fat_pct": 0,
+        "vcmb_hand_length_in": 66,
+        "vcmb_hand_width_in": 66,
+        "vcmb_standing_vertical_in": 61,
+        "vcmb_max_vertical_in": 61,
+        "vcmb_lane_agility_s": 61,
+        "vcmb_modified_lane_agility_s": 61,
+        "vcmb_three_quarter_sprint_s": 61,
+        "vcmb_bench_press_reps": 0,
+        "vcmb_bmi_kg_m2": 66,
+        "vcmb_wingspan_minus_height_in": 66,
+        "vcmb_spot_15ft_made": 0,
+        "vcmb_spot_15ft_attempted": 0,
+        "vcmb_spot_15ft_pct": 0,
+        "vcmb_spot_college3_made": 0,
+        "vcmb_spot_college3_attempted": 0,
+        "vcmb_spot_college3_pct": 0,
+        "vcmb_spot_nba3_made": 0,
+        "vcmb_spot_nba3_attempted": 0,
+        "vcmb_spot_nba3_pct": 0,
+        "vcmb_off_dribble_15ft_made": 0,
+        "vcmb_off_dribble_15ft_attempted": 0,
+        "vcmb_off_dribble_15ft_pct": 0,
+        "vcmb_off_dribble_college3_made": 0,
+        "vcmb_off_dribble_college3_attempted": 0,
+        "vcmb_off_dribble_college3_pct": 0,
+        "vcmb_on_move_15ft_made": 0,
+        "vcmb_on_move_15ft_attempted": 0,
+        "vcmb_on_move_15ft_pct": 0,
+        "vcmb_on_move_college3_made": 56,
+        "vcmb_on_move_college3_attempted": 56,
+        "vcmb_on_move_college3_pct": 56
+      },
+      "source_pool_filename": "2024_inputs.csv",
+      "source_pool_sha256": "3c490df73af9e40317d965ee999569d922db55bcb901c135c89b26ad96f6b3b7",
+      "output_sha256": "87d7dfead0691b914ee99d6c25322db694817ac1a695682e2026a50d9814c41e"
+    },
+    {
+      "cohort": 2025,
+      "rows": 106,
+      "matched_players": 57,
+      "identity_match_counts": {
+        "no_unique_same_cohort_name": 49,
+        "unique_nba_id": 56,
+        "unique_exact_same_cohort_name": 1
+      },
+      "column_coverage": {
+        "vcmb_height_without_shoes_in": 57,
+        "vcmb_height_with_shoes_in": 0,
+        "vcmb_weight_lb": 57,
+        "vcmb_wingspan_in": 57,
+        "vcmb_standing_reach_in": 57,
+        "vcmb_body_fat_pct": 0,
+        "vcmb_hand_length_in": 57,
+        "vcmb_hand_width_in": 57,
+        "vcmb_standing_vertical_in": 52,
+        "vcmb_max_vertical_in": 52,
+        "vcmb_lane_agility_s": 55,
+        "vcmb_modified_lane_agility_s": 52,
+        "vcmb_three_quarter_sprint_s": 55,
+        "vcmb_bench_press_reps": 0,
+        "vcmb_bmi_kg_m2": 57,
+        "vcmb_wingspan_minus_height_in": 57,
+        "vcmb_spot_15ft_made": 0,
+        "vcmb_spot_15ft_attempted": 0,
+        "vcmb_spot_15ft_pct": 0,
+        "vcmb_spot_college3_made": 0,
+        "vcmb_spot_college3_attempted": 0,
+        "vcmb_spot_college3_pct": 0,
+        "vcmb_spot_nba3_made": 0,
+        "vcmb_spot_nba3_attempted": 0,
+        "vcmb_spot_nba3_pct": 0,
+        "vcmb_off_dribble_15ft_made": 0,
+        "vcmb_off_dribble_15ft_attempted": 0,
+        "vcmb_off_dribble_15ft_pct": 0,
+        "vcmb_off_dribble_college3_made": 0,
+        "vcmb_off_dribble_college3_attempted": 0,
+        "vcmb_off_dribble_college3_pct": 0,
+        "vcmb_on_move_15ft_made": 0,
+        "vcmb_on_move_15ft_attempted": 0,
+        "vcmb_on_move_15ft_pct": 0,
+        "vcmb_on_move_college3_made": 45,
+        "vcmb_on_move_college3_attempted": 45,
+        "vcmb_on_move_college3_pct": 45
+      },
+      "source_pool_filename": "2025_inputs.csv",
+      "source_pool_sha256": "5e7a82d7e0083ba2dfe639b2ec2e634801f2f4cdeafee49f81dac8f45fcfa4f5",
+      "output_sha256": "15e50fe51748dde92fd2b92e56f20e56b1580e612d67a485daa90c8c85c94493"
+    },
+    {
+      "cohort": 2026,
+      "rows": 61,
+      "matched_players": 0,
+      "identity_match_counts": {
+        "no_verified_same_year_cache": 61
+      },
+      "column_coverage": {
+        "vcmb_height_without_shoes_in": 0,
+        "vcmb_height_with_shoes_in": 0,
+        "vcmb_weight_lb": 0,
+        "vcmb_wingspan_in": 0,
+        "vcmb_standing_reach_in": 0,
+        "vcmb_body_fat_pct": 0,
+        "vcmb_hand_length_in": 0,
+        "vcmb_hand_width_in": 0,
+        "vcmb_standing_vertical_in": 0,
+        "vcmb_max_vertical_in": 0,
+        "vcmb_lane_agility_s": 0,
+        "vcmb_modified_lane_agility_s": 0,
+        "vcmb_three_quarter_sprint_s": 0,
+        "vcmb_bench_press_reps": 0,
+        "vcmb_bmi_kg_m2": 0,
+        "vcmb_wingspan_minus_height_in": 0,
+        "vcmb_spot_15ft_made": 0,
+        "vcmb_spot_15ft_attempted": 0,
+        "vcmb_spot_15ft_pct": 0,
+        "vcmb_spot_college3_made": 0,
+        "vcmb_spot_college3_attempted": 0,
+        "vcmb_spot_college3_pct": 0,
+        "vcmb_spot_nba3_made": 0,
+        "vcmb_spot_nba3_attempted": 0,
+        "vcmb_spot_nba3_pct": 0,
+        "vcmb_off_dribble_15ft_made": 0,
+        "vcmb_off_dribble_15ft_attempted": 0,
+        "vcmb_off_dribble_15ft_pct": 0,
+        "vcmb_off_dribble_college3_made": 0,
+        "vcmb_off_dribble_college3_attempted": 0,
+        "vcmb_off_dribble_college3_pct": 0,
+        "vcmb_on_move_15ft_made": 0,
+        "vcmb_on_move_15ft_attempted": 0,
+        "vcmb_on_move_15ft_pct": 0,
+        "vcmb_on_move_college3_made": 0,
+        "vcmb_on_move_college3_attempted": 0,
+        "vcmb_on_move_college3_pct": 0
+      },
+      "source_pool_filename": "2026_inputs.csv",
+      "source_pool_sha256": "83bc253375c721193875cf113873c3b2cbd3a8d1ea7d6aeef66927b5926b2117",
+      "output_sha256": "0d5c78ebd2607d061c86a8a03023060708975b216dd481ceca166a7c0807885e"
+    }
+  ],
+  "identity_sha256": "bc6636a31ce22748d68360771fa633a91879495f29160ce871da15392b55bb41",
+  "builder_sha256": "59824cb7266e1aa391a8329ba82b2d05fa1165c982b7e6e9b4fbd19f98e90bb3",
+  "source_cutoff": null,
+  "output_files": {
+    "train_inputs.csv": "27f777fcec6c9eb66fa51c22248f3412d83c15010809bd76e550f5849b1cbc4b",
+    "2019_inputs.csv": "394f23656bf55e292325d3aed04466f8b53e4de839d8d7c11ed678b5ee62d2c4",
+    "2020_inputs.csv": "6bc64a6d0f6e5944ffafe55130d70dffa23f312ebac4a736b8b5d07db1f653d3",
+    "2021_inputs.csv": "c13efc63b5a0942d3c4aa6ff657099aad5fe9c956e2620ed7f502552c5e47333",
+    "2022_inputs.csv": "561b9d56d84f72b8d356f854d0298467b7db0a5ee6f4d216a363c81788c4c110",
+    "2023_inputs.csv": "0baf8b4dcbd4f3375d9061b334392ca5170ce496cb9bea980ec7f32f3cca3b23",
+    "2024_inputs.csv": "87d7dfead0691b914ee99d6c25322db694817ac1a695682e2026a50d9814c41e",
+    "2025_inputs.csv": "15e50fe51748dde92fd2b92e56f20e56b1580e612d67a485daa90c8c85c94493",
+    "2026_inputs.csv": "0d5c78ebd2607d061c86a8a03023060708975b216dd481ceca166a7c0807885e"
+  },
+  "policy": {
+    "source_year": "Strict equality to draft cohort (stronger than <= draft-year cutoff)",
+    "join": "Unique NBA ID preferred; exact unique normalized same-cohort name only without conflicting NBA IDs",
+    "imputation": "None; missing source fields and unmatched players remain NaN",
+    "BMI": "Actual combine weight and height without shoes from the same row; no alternate-height or NBA-bio fallback",
+    "drills": "Each aggregate requires every expected source station; zero attempts are not 0% shooting",
+    "source_absent_2026": "All features NaN unless a verified same-year cache is supplied",
+    "forbidden": "No age, current NBA bio, biomedical/research fills, legacy collector import, network or WAR"
+  }
+}

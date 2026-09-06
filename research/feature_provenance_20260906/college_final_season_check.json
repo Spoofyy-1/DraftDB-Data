@@ -1,0 +1,72 @@
+[
+  {
+    "file": "work/r8/train_source.csv",
+    "rows": 1458,
+    "college_dates": 1034,
+    "post_draft_college_last_rows": 0,
+    "bad_pid_years": []
+  },
+  {
+    "file": "work/fifty/merged_inputs/2019_inputs.csv",
+    "rows": 137,
+    "college_dates": 117,
+    "post_draft_college_last_rows": 0,
+    "bad_pid_years": []
+  },
+  {
+    "file": "work/fifty/merged_inputs/2020_inputs.csv",
+    "rows": 112,
+    "college_dates": 93,
+    "post_draft_college_last_rows": 0,
+    "bad_pid_years": []
+  },
+  {
+    "file": "work/fifty/merged_inputs/2021_inputs.csv",
+    "rows": 233,
+    "college_dates": 209,
+    "post_draft_college_last_rows": 0,
+    "bad_pid_years": []
+  },
+  {
+    "file": "work/fifty/merged_inputs/2022_inputs.csv",
+    "rows": 97,
+    "college_dates": 79,
+    "post_draft_college_last_rows": 0,
+    "bad_pid_years": []
+  },
+  {
+    "file": "work/fifty/merged_inputs/2023_inputs.csv",
+    "rows": 101,
+    "college_dates": 81,
+    "post_draft_college_last_rows": 0,
+    "bad_pid_years": []
+  },
+  {
+    "file": "work/fifty/merged_inputs/2024_inputs.csv",
+    "rows": 114,
+    "college_dates": 92,
+    "post_draft_college_last_rows": 0,
+    "bad_pid_years": []
+  },
+  {
+    "file": "work/fifty/merged_inputs/2025_inputs.csv",
+    "rows": 106,
+    "college_dates": 91,
+    "post_draft_college_last_rows": 0,
+    "bad_pid_years": []
+  },
+  {
+    "file": "work/fifty/merged_inputs/2026_inputs.csv",
+    "rows": 61,
+    "college_dates": 55,
+    "post_draft_college_last_rows": 0,
+    "bad_pid_years": []
+  },
+  {
+    "file": "work/fifty/merged_inputs/train_inputs.csv",
+    "rows": 1458,
+    "college_dates": 1034,
+    "post_draft_college_last_rows": 0,
+    "bad_pid_years": []
+  }
+]

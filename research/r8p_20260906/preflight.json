@@ -1,0 +1,340 @@
+{
+  "status": "passed_without_model_execution",
+  "tasks": 39,
+  "model_universe_rows": 1428,
+  "source_observations": 2390,
+  "unmatched_source_identities_excluded": [
+    {
+      "pid": "Pc781d37e72",
+      "draft_year": 2010
+    },
+    {
+      "pid": "Pf1615243ab",
+      "draft_year": 2013
+    },
+    {
+      "pid": "P488064c36d",
+      "draft_year": 2013
+    },
+    {
+      "pid": "P607c704c53",
+      "draft_year": 2013
+    },
+    {
+      "pid": "Pbed27928bf",
+      "draft_year": 2014
+    },
+    {
+      "pid": "P8c2c5e7b71",
+      "draft_year": 2014
+    },
+    {
+      "pid": "Pd35ff11e6d",
+      "draft_year": 2014
+    }
+  ],
+  "cohort_permutation_reorder_checks": 1272,
+  "paired_summary_fixture_passed": true,
+  "incomplete_family_withheld": true,
+  "mask_tamper_rejected": true,
+  "cpu_top60_selector_executed": false,
+  "gpu_model_executed": false,
+  "folds": [
+    {
+      "season": 2012,
+      "training_rows": 251,
+      "validation_rows": 55,
+      "training_max_draft_year": 2010,
+      "max_label_season": 2011,
+      "coverage": {
+        "numeric": {
+          "columns": 10,
+          "training_covered": 28,
+          "validation_covered": 7
+        },
+        "text": {
+          "columns": 19,
+          "training_covered": 27,
+          "validation_covered": 9
+        }
+      },
+      "features": {
+        "numeric": [
+          "report_finish_ppp",
+          "report_isolation_ppp",
+          "report_open_catchshoot_ppp",
+          "report_overall_ppp",
+          "report_poss_pg",
+          "report_post_ppp",
+          "report_pullup_fg_pct",
+          "report_pullup_ppp",
+          "report_spotup_ppp",
+          "report_turnover_pct"
+        ],
+        "text": [
+          "report_text_athleticism_per1k",
+          "report_text_catchshoot_per1k",
+          "report_text_creation_per1k",
+          "report_text_decisions_per1k",
+          "report_text_defense_per1k",
+          "report_text_development_per1k",
+          "report_text_efficiency_per1k",
+          "report_text_effort_per1k",
+          "report_text_finishing_per1k",
+          "report_text_injury_per1k",
+          "report_text_length_per1k",
+          "report_text_limitations_per1k",
+          "report_text_passing_per1k",
+          "report_text_pickroll_per1k",
+          "report_text_pullup_per1k",
+          "report_text_rebounding_per1k",
+          "report_text_shooting_per1k",
+          "report_text_strength_per1k",
+          "report_text_words"
+        ],
+        "joint": [
+          "report_finish_ppp",
+          "report_isolation_ppp",
+          "report_open_catchshoot_ppp",
+          "report_overall_ppp",
+          "report_poss_pg",
+          "report_post_ppp",
+          "report_pullup_fg_pct",
+          "report_pullup_ppp",
+          "report_spotup_ppp",
+          "report_turnover_pct",
+          "report_text_athleticism_per1k",
+          "report_text_catchshoot_per1k",
+          "report_text_creation_per1k",
+          "report_text_decisions_per1k",
+          "report_text_defense_per1k",
+          "report_text_development_per1k",
+          "report_text_efficiency_per1k",
+          "report_text_effort_per1k",
+          "report_text_finishing_per1k",
+          "report_text_injury_per1k",
+          "report_text_length_per1k",
+          "report_text_limitations_per1k",
+          "report_text_passing_per1k",
+          "report_text_pickroll_per1k",
+          "report_text_pullup_per1k",
+          "report_text_rebounding_per1k",
+          "report_text_shooting_per1k",
+          "report_text_strength_per1k",
+          "report_text_words"
+        ],
+        "baseline": []
+      }
+    },
+    {
+      "season": 2013,
+      "training_rows": 329,
+      "validation_rows": 50,
+      "training_max_draft_year": 2011,
+      "max_label_season": 2012,
+      "coverage": {
+        "numeric": {
+          "columns": 19,
+          "training_covered": 45,
+          "validation_covered": 15
+        },
+        "text": {
+          "columns": 19,
+          "training_covered": 38,
+          "validation_covered": 20
+        }
+      },
+      "features": {
+        "numeric": [
+          "report_catchshoot_fg_pct",
+          "report_finish_ppp",
+          "report_halfcourt_turnover_pct",
+          "report_isolation_ppp",
+          "report_jump_fg_pct",
+          "report_jump_ppp",
+          "report_jump_pps",
+          "report_open_catchshoot_ppp",
+          "report_overall_ppp",
+          "report_pickroll_ppp",
+          "report_poss_pg",
+          "report_post_ppp",
+          "report_pullup_fg_pct",
+          "report_pullup_fga_pg",
+          "report_pullup_ppp",
+          "report_spotup_poss_pct",
+          "report_spotup_ppp",
+          "report_transition_ppp",
+          "report_turnover_pct"
+        ],
+        "text": [
+          "report_text_athleticism_per1k",
+          "report_text_catchshoot_per1k",
+          "report_text_creation_per1k",
+          "report_text_decisions_per1k",
+          "report_text_defense_per1k",
+          "report_text_development_per1k",
+          "report_text_efficiency_per1k",
+          "report_text_effort_per1k",
+          "report_text_finishing_per1k",
+          "report_text_injury_per1k",
+          "report_text_length_per1k",
+          "report_text_limitations_per1k",
+          "report_text_passing_per1k",
+          "report_text_pickroll_per1k",
+          "report_text_pullup_per1k",
+          "report_text_rebounding_per1k",
+          "report_text_shooting_per1k",
+          "report_text_strength_per1k",
+          "report_text_words"
+        ],
+        "joint": [
+          "report_catchshoot_fg_pct",
+          "report_finish_ppp",
+          "report_halfcourt_turnover_pct",
+          "report_isolation_ppp",
+          "report_jump_fg_pct",
+          "report_jump_ppp",
+          "report_jump_pps",
+          "report_open_catchshoot_ppp",
+          "report_overall_ppp",
+          "report_pickroll_ppp",
+          "report_poss_pg",
+          "report_post_ppp",
+          "report_pullup_fg_pct",
+          "report_pullup_fga_pg",
+          "report_pullup_ppp",
+          "report_spotup_poss_pct",
+          "report_spotup_ppp",
+          "report_transition_ppp",
+          "report_turnover_pct",
+          "report_text_athleticism_per1k",
+          "report_text_catchshoot_per1k",
+          "report_text_creation_per1k",
+          "report_text_decisions_per1k",
+          "report_text_defense_per1k",
+          "report_text_development_per1k",
+          "report_text_efficiency_per1k",
+          "report_text_effort_per1k",
+          "report_text_finishing_per1k",
+          "report_text_injury_per1k",
+          "report_text_length_per1k",
+          "report_text_limitations_per1k",
+          "report_text_passing_per1k",
+          "report_text_pickroll_per1k",
+          "report_text_pullup_per1k",
+          "report_text_rebounding_per1k",
+          "report_text_shooting_per1k",
+          "report_text_strength_per1k",
+          "report_text_words"
+        ],
+        "baseline": []
+      }
+    },
+    {
+      "season": 2014,
+      "training_rows": 403,
+      "validation_rows": 53,
+      "training_max_draft_year": 2012,
+      "max_label_season": 2013,
+      "coverage": {
+        "numeric": {
+          "columns": 20,
+          "training_covered": 53,
+          "validation_covered": 23
+        },
+        "text": {
+          "columns": 19,
+          "training_covered": 48,
+          "validation_covered": 32
+        }
+      },
+      "features": {
+        "numeric": [
+          "report_catchshoot_fg_pct",
+          "report_finish_ppp",
+          "report_halfcourt_turnover_pct",
+          "report_isolation_ppp",
+          "report_jump_fg_pct",
+          "report_jump_ppp",
+          "report_jump_pps",
+          "report_open_catchshoot_ppp",
+          "report_overall_ppp",
+          "report_pickroll_ppp",
+          "report_poss_pg",
+          "report_post_poss_pg",
+          "report_post_ppp",
+          "report_pullup_fg_pct",
+          "report_pullup_fga_pg",
+          "report_pullup_ppp",
+          "report_spotup_poss_pct",
+          "report_spotup_ppp",
+          "report_transition_ppp",
+          "report_turnover_pct"
+        ],
+        "text": [
+          "report_text_athleticism_per1k",
+          "report_text_catchshoot_per1k",
+          "report_text_creation_per1k",
+          "report_text_decisions_per1k",
+          "report_text_defense_per1k",
+          "report_text_development_per1k",
+          "report_text_efficiency_per1k",
+          "report_text_effort_per1k",
+          "report_text_finishing_per1k",
+          "report_text_injury_per1k",
+          "report_text_length_per1k",
+          "report_text_limitations_per1k",
+          "report_text_passing_per1k",
+          "report_text_pickroll_per1k",
+          "report_text_pullup_per1k",
+          "report_text_rebounding_per1k",
+          "report_text_shooting_per1k",
+          "report_text_strength_per1k",
+          "report_text_words"
+        ],
+        "joint": [
+          "report_catchshoot_fg_pct",
+          "report_finish_ppp",
+          "report_halfcourt_turnover_pct",
+          "report_isolation_ppp",
+          "report_jump_fg_pct",
+          "report_jump_ppp",
+          "report_jump_pps",
+          "report_open_catchshoot_ppp",
+          "report_overall_ppp",
+          "report_pickroll_ppp",
+          "report_poss_pg",
+          "report_post_poss_pg",
+          "report_post_ppp",
+          "report_pullup_fg_pct",
+          "report_pullup_fga_pg",
+          "report_pullup_ppp",
+          "report_spotup_poss_pct",
+          "report_spotup_ppp",
+          "report_transition_ppp",
+          "report_turnover_pct",
+          "report_text_athleticism_per1k",
+          "report_text_catchshoot_per1k",
+          "report_text_creation_per1k",
+          "report_text_decisions_per1k",
+          "report_text_defense_per1k",
+          "report_text_development_per1k",
+          "report_text_efficiency_per1k",
+          "report_text_effort_per1k",
+          "report_text_finishing_per1k",
+          "report_text_injury_per1k",
+          "report_text_length_per1k",
+          "report_text_limitations_per1k",
+          "report_text_passing_per1k",
+          "report_text_pickroll_per1k",
+          "report_text_pullup_per1k",
+          "report_text_rebounding_per1k",
+          "report_text_shooting_per1k",
+          "report_text_strength_per1k",
+          "report_text_words"
+        ],
+        "baseline": []
+      }
+    }
+  ]
+}
