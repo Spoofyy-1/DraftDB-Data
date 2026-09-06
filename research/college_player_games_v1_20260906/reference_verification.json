@@ -1,0 +1,10 @@
+{
+  "reference_package": "../college_denominator_audit",
+  "verified_prior_public_files": {
+    "network_ledger.json": "c5fbba1ecd01979f8e179fbfa9e45c1083bd27483c04d7afd34d1635f1a9c036",
+    "schema_manifest.json": "e5efcb6e57e66e2f528e48bfb6103480a1b7057400aa6c04f0c93bcfeb832e1a",
+    "official_evidence.json": "97fd9287ea61d67765789744a8a53cfffb852fdda92480d018ec924d90e69703"
+  },
+  "reused2018_response_hash": "f61dcd425f3141019d253f4552a96aa68b040782386f7dba1b36716492c271bd",
+  "original_package_mutated": false
+}

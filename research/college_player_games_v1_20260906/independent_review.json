@@ -1,0 +1,22 @@
+{
+  "reviewer": "calendar_broker",
+  "scope": "Read-only independent basic/identity projection, source cutoff, missingness, duplicate keys and output integrity review",
+  "reported_results": {
+    "parsed_games_audited": 1203590,
+    "source_groups_audited": 51327,
+    "consistent_groups": 50940,
+    "duplicate_subject_game_keys": 0,
+    "duplicate_semantic_subject_date_opponent_keys": 0,
+    "shared_game_id_date_team_conflicts": 0,
+    "subject_team_year_inconsistencies": 0,
+    "raw_player_ids_spanning_multiple_team_groups_within_year": 0
+  },
+  "documentation_checks": [
+    "ObservedGP is source records, not independent DNP certification.",
+    "Valid game projections from quarantined groups require the group audit gate.",
+    "Original vintage and nonuniform source-game scope remain unresolved."
+  ],
+  "resolved_latent_issue": "Malformed annual duplicate beside a valid row now quarantines that identity; unassignable malformed annual rows block the season. Actual malformed annual rows=0.",
+  "model_admission_granted": false,
+  "reviewed_build_sha256": "306af33d1c9b307e851cede40455716b98da3513756213cd5bc6d9d7d1b2c1ec"
+}

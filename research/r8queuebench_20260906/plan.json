@@ -1,0 +1,129 @@
+{
+  "study": "R8 queue orchestration benchmark",
+  "no_model_selection": true,
+  "task_selection": "Last24 tasks in frozen W variant/seed plan order; chosen before timing. Other579 saved records preload progress only, never training inputs.",
+  "tasks": [
+    [
+      "f50_balanced_stocks_real",
+      0
+    ],
+    [
+      "f50_balanced_stocks_real",
+      101
+    ],
+    [
+      "f50_balanced_stocks_real",
+      202
+    ],
+    [
+      "f50_balanced_stocks_shuffle9317",
+      0
+    ],
+    [
+      "f50_balanced_stocks_shuffle9317",
+      101
+    ],
+    [
+      "f50_balanced_stocks_shuffle9317",
+      202
+    ],
+    [
+      "f50_balanced_stocks_shuffle18739",
+      0
+    ],
+    [
+      "f50_balanced_stocks_shuffle18739",
+      101
+    ],
+    [
+      "f50_balanced_stocks_shuffle18739",
+      202
+    ],
+    [
+      "f50_balanced_stocks_shuffle28657",
+      0
+    ],
+    [
+      "f50_balanced_stocks_shuffle28657",
+      101
+    ],
+    [
+      "f50_balanced_stocks_shuffle28657",
+      202
+    ],
+    [
+      "f50_foul_adjusted_rebounds_real",
+      0
+    ],
+    [
+      "f50_foul_adjusted_rebounds_real",
+      101
+    ],
+    [
+      "f50_foul_adjusted_rebounds_real",
+      202
+    ],
+    [
+      "f50_foul_adjusted_rebounds_shuffle9317",
+      0
+    ],
+    [
+      "f50_foul_adjusted_rebounds_shuffle9317",
+      101
+    ],
+    [
+      "f50_foul_adjusted_rebounds_shuffle9317",
+      202
+    ],
+    [
+      "f50_foul_adjusted_rebounds_shuffle18739",
+      0
+    ],
+    [
+      "f50_foul_adjusted_rebounds_shuffle18739",
+      101
+    ],
+    [
+      "f50_foul_adjusted_rebounds_shuffle18739",
+      202
+    ],
+    [
+      "f50_foul_adjusted_rebounds_shuffle28657",
+      0
+    ],
+    [
+      "f50_foul_adjusted_rebounds_shuffle28657",
+      101
+    ],
+    [
+      "f50_foul_adjusted_rebounds_shuffle28657",
+      202
+    ]
+  ],
+  "arms": [
+    {
+      "id": "old4",
+      "scheduler": "old",
+      "workers": 4
+    },
+    {
+      "id": "refill4",
+      "scheduler": "immediate_refill",
+      "workers": 4
+    },
+    {
+      "id": "refill6",
+      "scheduler": "immediate_refill",
+      "workers": 6
+    }
+  ],
+  "invariance": "Every replay must exactly match W raw/canonical predictions, score, config, all input/constructor/tie audits. Fail closed; no tolerances or altered model settings.",
+  "limits": {
+    "runtime_seconds": 1800,
+    "memory": "140G",
+    "cpu_quota": "2200%"
+  },
+  "snapshot_seconds": 3,
+  "summary_seconds": 20,
+  "timing_caveat": "One sequential run per arm, including fresh worker startup and progress writes. Same fixed tasks and data; not a repeated randomized performance trial. No model/checkpoint reuse patch."
+}

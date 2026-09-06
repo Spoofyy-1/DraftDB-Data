@@ -1,0 +1,192 @@
+[
+  {
+    "source_season": 2017,
+    "url": "https://barttorvik.com/2017_all_advgames.json.gz",
+    "retrieved_at_utc": "2026-09-06T14:14:06.590034+00:00",
+    "original_publication_date": null,
+    "model_eligible": false,
+    "status": 200,
+    "content_type": "application/json",
+    "content_encoding": "gzip",
+    "bytes": 10554062,
+    "sha256": "129bb4d3fc79df92541da88e0323629081aab66d17120019f6c9a34169765cc1",
+    "private_file": "private/games2017.bin",
+    "decoded_bytes": 42964468,
+    "rows": 111928,
+    "row_width_counts": {
+      "53": 111928
+    },
+    "decoded_success": true
+  },
+  {
+    "source_season": 2016,
+    "url": "https://barttorvik.com/2016_all_advgames.json.gz",
+    "retrieved_at_utc": "2026-09-06T14:14:08.532796+00:00",
+    "original_publication_date": null,
+    "model_eligible": false,
+    "status": 200,
+    "content_type": "application/json",
+    "content_encoding": "gzip",
+    "bytes": 10511349,
+    "sha256": "7faae0bc746627be9593d406fa41c35832b642151d30be5b522c0a9d530709ce",
+    "private_file": "private/games2016.bin",
+    "decoded_bytes": 42777767,
+    "rows": 111455,
+    "row_width_counts": {
+      "53": 111455
+    },
+    "decoded_success": true
+  },
+  {
+    "source_season": 2015,
+    "url": "https://barttorvik.com/2015_all_advgames.json.gz",
+    "retrieved_at_utc": "2026-09-06T14:14:11.031135+00:00",
+    "original_publication_date": null,
+    "model_eligible": false,
+    "status": 200,
+    "content_type": "application/json",
+    "content_encoding": "gzip",
+    "bytes": 10188424,
+    "sha256": "c59f93b0774e186d693f18a29967485a2b9a5a9aa74d2195a4c0de484ab1e929",
+    "private_file": "private/games2015.bin",
+    "decoded_bytes": 42424875,
+    "rows": 110905,
+    "row_width_counts": {
+      "53": 110905
+    },
+    "decoded_success": true
+  },
+  {
+    "source_season": 2014,
+    "url": "https://barttorvik.com/2014_all_advgames.json.gz",
+    "retrieved_at_utc": "2026-09-06T14:14:13.209630+00:00",
+    "original_publication_date": null,
+    "model_eligible": false,
+    "status": 200,
+    "content_type": "application/json",
+    "content_encoding": "gzip",
+    "bytes": 10150948,
+    "sha256": "eb5c2b5c8b22587b06e29692be68bdb78fed6efdd51a5280f6a3eaaad5243ab4",
+    "private_file": "private/games2014.bin",
+    "decoded_bytes": 40961197,
+    "rows": 111386,
+    "row_width_counts": {
+      "53": 111386
+    },
+    "decoded_success": true
+  },
+  {
+    "source_season": 2013,
+    "url": "https://barttorvik.com/2013_all_advgames.json.gz",
+    "retrieved_at_utc": "2026-09-06T14:14:15.239299+00:00",
+    "original_publication_date": null,
+    "model_eligible": false,
+    "status": 200,
+    "content_type": "application/json",
+    "content_encoding": "gzip",
+    "bytes": 9989350,
+    "sha256": "b830084d2090387e5d6f254f3402d436a4495e6fe0936e1ae1aab1e8ffec9165",
+    "private_file": "private/games2013.bin",
+    "decoded_bytes": 40062407,
+    "rows": 109005,
+    "row_width_counts": {
+      "53": 109005
+    },
+    "decoded_success": true
+  },
+  {
+    "source_season": 2012,
+    "url": "https://barttorvik.com/2012_all_advgames.json.gz",
+    "retrieved_at_utc": "2026-09-06T14:14:17.745450+00:00",
+    "original_publication_date": null,
+    "model_eligible": false,
+    "status": 200,
+    "content_type": "application/json",
+    "content_encoding": "gzip",
+    "bytes": 10380443,
+    "sha256": "61e2275720da652fa0439c294fbaa69401f91b42317eca4ba9fa4fcf15e3bd77",
+    "private_file": "private/games2012.bin",
+    "decoded_bytes": 39772467,
+    "rows": 108263,
+    "row_width_counts": {
+      "53": 108263
+    },
+    "decoded_success": true
+  },
+  {
+    "source_season": 2011,
+    "url": "https://barttorvik.com/2011_all_advgames.json.gz",
+    "retrieved_at_utc": "2026-09-06T14:14:19.449489+00:00",
+    "original_publication_date": null,
+    "model_eligible": false,
+    "status": 200,
+    "content_type": "application/json",
+    "content_encoding": "gzip",
+    "bytes": 9905743,
+    "sha256": "8db536bc8a7bff95be66086864f4a64695880daecff991344cb56b38d0fc276b",
+    "private_file": "private/games2011.bin",
+    "decoded_bytes": 39726496,
+    "rows": 108186,
+    "row_width_counts": {
+      "53": 108186
+    },
+    "decoded_success": true
+  },
+  {
+    "source_season": 2010,
+    "url": "https://barttorvik.com/2010_all_advgames.json.gz",
+    "retrieved_at_utc": "2026-09-06T14:14:21.171344+00:00",
+    "original_publication_date": null,
+    "model_eligible": false,
+    "status": 200,
+    "content_type": "application/json",
+    "content_encoding": "gzip",
+    "bytes": 10020121,
+    "sha256": "db72e58057ef4e5dcab0fe21c02e4a02df6e14864cf49a1af6d3112898ac9694",
+    "private_file": "private/games2010.bin",
+    "decoded_bytes": 40186341,
+    "rows": 109511,
+    "row_width_counts": {
+      "53": 109511
+    },
+    "decoded_success": true
+  },
+  {
+    "source_season": 2009,
+    "url": "https://barttorvik.com/2009_all_advgames.json.gz",
+    "retrieved_at_utc": "2026-09-06T14:14:23.470479+00:00",
+    "original_publication_date": null,
+    "model_eligible": false,
+    "status": 200,
+    "content_type": "application/json",
+    "content_encoding": "gzip",
+    "bytes": 9715806,
+    "sha256": "f9943a00e8ffd625ae9080f450be1859391e4847ed15a8203a5c41a17a232a46",
+    "private_file": "private/games2009.bin",
+    "decoded_bytes": 39189024,
+    "rows": 106922,
+    "row_width_counts": {
+      "53": 106922
+    },
+    "decoded_success": true
+  },
+  {
+    "source_season": 2008,
+    "url": "https://barttorvik.com/2008_all_advgames.json.gz",
+    "retrieved_at_utc": "2026-09-06T14:14:26.159058+00:00",
+    "original_publication_date": null,
+    "model_eligible": false,
+    "status": 200,
+    "content_type": "application/json",
+    "content_encoding": "gzip",
+    "bytes": 9663828,
+    "sha256": "11ed03df6ba5c54b3c64a571095f70408b89c4413690afbc6940000ddd651423",
+    "private_file": "private/games2008.bin",
+    "decoded_bytes": 38881353,
+    "rows": 106122,
+    "row_width_counts": {
+      "53": 106122
+    },
+    "decoded_success": true
+  }
+]

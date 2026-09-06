@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "models_fitted": 0,
+  "fixture_tasks": 8,
+  "immutable_raw_records_exact": true,
+  "refill_before_persistence": true,
+  "completed_tasks_not_reexecuted": true,
+  "published_but_unlogged_record_recovered": true,
+  "snapshot_and_summary_throttling": true,
+  "directory_fsync_after_publish": true,
+  "tamper_rejections": [
+    "changed_registration",
+    "changed_initial_records",
+    "conflicting_immutable",
+    "changed_record_or_log_hash",
+    "partial_log_fails_closed",
+    "raw_prediction",
+    "score",
+    "audit"
+  ],
+  "partial_log_policy": "Fail closed; explicit repair required. Never silently discard a partial tail."
+}

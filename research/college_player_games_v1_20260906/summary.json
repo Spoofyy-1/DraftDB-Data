@@ -1,0 +1,35 @@
+{
+  "source_rows": 1203661,
+  "valid_parsed_game_rows": 1203590,
+  "invalid_game_rows": 71,
+  "annual_source_rows": 51203,
+  "source_player_team_seasons": 51327,
+  "source_consistent_player_team_seasons": 50940,
+  "quarantined_player_team_seasons": 387,
+  "all_zero_basic_game_rows": 48293,
+  "source_years": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "new_requests": 10,
+  "new_compressed_source_bytes": 101080074,
+  "reused_source_years": [
+    2018
+  ],
+  "numeric_candidate_columns": 15,
+  "source_consistency_fraction": 0.9924601087147116,
+  "generated_data_files_reproduced_byte_identically": 55,
+  "model_eligible": false,
+  "original_frozen_data_changed": false,
+  "models_or_outcomes_used": false,
+  "completed_build_at_utc": "2026-09-06T14:31:41.564397+00:00"
+}

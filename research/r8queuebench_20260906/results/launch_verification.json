@@ -1,0 +1,17 @@
+{
+  "unit": "draftdb-r8queuebench-20260906",
+  "invocation_id": "48478ec16535409ebc7c493b66fdc968",
+  "live_limits": {
+    "RuntimeMaxUSec": "30min",
+    "CPUQuotaPerSecUSec": "22s",
+    "MemoryMax": 150323855360
+  },
+  "registered_arms": [
+    "old4",
+    "refill4",
+    "refill6"
+  ],
+  "registered_replays": 72,
+  "critical_wrapper_review": "Parent reviewed source/reference/24-task/all-arm/config/prediction/audit/summary gates and found no launch blocker.",
+  "scheduler_review": "Source-validation agent found no silent overwrite or data-loss blocker; requested directory fsync and initial-record pinning were implemented and tested."
+}

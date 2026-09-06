@@ -1,0 +1,129 @@
+{
+  "passed": true,
+  "models_fitted": 0,
+  "tasks": [
+    {
+      "task": "f50_balanced_stocks_real_seed0",
+      "all_input_label_id_column_audits_exact": true
+    },
+    {
+      "task": "f50_balanced_stocks_real_seed101",
+      "all_input_label_id_column_audits_exact": true
+    },
+    {
+      "task": "f50_balanced_stocks_real_seed202",
+      "all_input_label_id_column_audits_exact": true
+    },
+    {
+      "task": "f50_balanced_stocks_shuffle9317_seed0",
+      "all_input_label_id_column_audits_exact": true
+    },
+    {
+      "task": "f50_balanced_stocks_shuffle9317_seed101",
+      "all_input_label_id_column_audits_exact": true
+    },
+    {
+      "task": "f50_balanced_stocks_shuffle9317_seed202",
+      "all_input_label_id_column_audits_exact": true
+    },
+    {
+      "task": "f50_balanced_stocks_shuffle18739_seed0",
+      "all_input_label_id_column_audits_exact": true
+    },
+    {
+      "task": "f50_balanced_stocks_shuffle18739_seed101",
+      "all_input_label_id_column_audits_exact": true
+    },
+    {
+      "task": "f50_balanced_stocks_shuffle18739_seed202",
+      "all_input_label_id_column_audits_exact": true
+    },
+    {
+      "task": "f50_balanced_stocks_shuffle28657_seed0",
+      "all_input_label_id_column_audits_exact": true
+    },
+    {
+      "task": "f50_balanced_stocks_shuffle28657_seed101",
+      "all_input_label_id_column_audits_exact": true
+    },
+    {
+      "task": "f50_balanced_stocks_shuffle28657_seed202",
+      "all_input_label_id_column_audits_exact": true
+    },
+    {
+      "task": "f50_foul_adjusted_rebounds_real_seed0",
+      "all_input_label_id_column_audits_exact": true
+    },
+    {
+      "task": "f50_foul_adjusted_rebounds_real_seed101",
+      "all_input_label_id_column_audits_exact": true
+    },
+    {
+      "task": "f50_foul_adjusted_rebounds_real_seed202",
+      "all_input_label_id_column_audits_exact": true
+    },
+    {
+      "task": "f50_foul_adjusted_rebounds_shuffle9317_seed0",
+      "all_input_label_id_column_audits_exact": true
+    },
+    {
+      "task": "f50_foul_adjusted_rebounds_shuffle9317_seed101",
+      "all_input_label_id_column_audits_exact": true
+    },
+    {
+      "task": "f50_foul_adjusted_rebounds_shuffle9317_seed202",
+      "all_input_label_id_column_audits_exact": true
+    },
+    {
+      "task": "f50_foul_adjusted_rebounds_shuffle18739_seed0",
+      "all_input_label_id_column_audits_exact": true
+    },
+    {
+      "task": "f50_foul_adjusted_rebounds_shuffle18739_seed101",
+      "all_input_label_id_column_audits_exact": true
+    },
+    {
+      "task": "f50_foul_adjusted_rebounds_shuffle18739_seed202",
+      "all_input_label_id_column_audits_exact": true
+    },
+    {
+      "task": "f50_foul_adjusted_rebounds_shuffle28657_seed0",
+      "all_input_label_id_column_audits_exact": true
+    },
+    {
+      "task": "f50_foul_adjusted_rebounds_shuffle28657_seed101",
+      "all_input_label_id_column_audits_exact": true
+    },
+    {
+      "task": "f50_foul_adjusted_rebounds_shuffle28657_seed202",
+      "all_input_label_id_column_audits_exact": true
+    }
+  ],
+  "constructors": [
+    {
+      "device": "cuda",
+      "n_estimators": 32,
+      "random_state": 0,
+      "batch_size": 32,
+      "norm_methods": "none",
+      "outlier_threshold": 2.0
+    },
+    {
+      "device": "cuda",
+      "n_estimators": 32,
+      "random_state": 101,
+      "batch_size": 32,
+      "norm_methods": "none",
+      "outlier_threshold": 2.0
+    },
+    {
+      "device": "cuda",
+      "n_estimators": 32,
+      "random_state": 202,
+      "batch_size": 32,
+      "norm_methods": "none",
+      "outlier_threshold": 2.0
+    }
+  ],
+  "frozen_manifest_sha256": "d48bb9b0e722521e910b22427ce85d0914faff2f1d312c2e781fc4036be595b3"
+}

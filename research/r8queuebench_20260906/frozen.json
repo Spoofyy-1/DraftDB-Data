@@ -1,0 +1,22 @@
+{
+  "study": "Identical-task queue performance benchmark",
+  "frozen_before_first_replay": true,
+  "created_utc": "2026-09-06T14:21:25.200228+00:00",
+  "files": {
+    "benchmark.py": "2252bf27b18364f356b7eb47e3bc2785a294948413f2e76163abd8fb10098055",
+    "queue_runtime.py": "ae7e266b9655b0278532bc96c2ab24bb1bdc6b8a63706e64d9e77c0b49b792f3",
+    "profile.py": "8d5bdec1b573224f6079aa7f7c9f1c554a2c4011410e56002e3e054689b7d271",
+    "plan.json": "908b23e041b5cbf20e2108e4fd922ec7f9eb544ea91adda12106cf20ee9bcdf8",
+    "test_queue.py": "a2137d58e25a3698b4a218a093685207a7e5b92030e23c46d135fcbb5a10ce15",
+    "tests.json": "d79704775ba80235e2d8f7b3e73893e3b15716fef8658ec2957ef25315c70df1",
+    "run_sandbox.sh": "681515dc70e932a01b97251e4300f0d65e6ba87c9d3656ac8a008f37a073268b",
+    "README.md": "82ddc4b847f7a20b58bdc1ee7cba170107333d5bc73c44cff3bd9b844b5dc547",
+    "reference_manifest.json": "6d3d847eb51155230390278380e48a7fea5346d35ee6cd5c7c75913f3f024b83",
+    "reference_state.json": "8dac36b3bbed501735cec57d3fa48ad5b77ac5e7f3f7428cec338c1e76b761ec",
+    "model/worker.py": "96d95262ec8cdfb2353f46269069adcd0b5c70bbc94144bd564d86e891665c5a",
+    "model/legacy_kernel.py": "ddc58666da0d784a1b67f6b8ee4763599bdce14bb91768893e6fb87af4620ee1",
+    "model/plan.json": "a3ff7aea0f444dd010a0479c945f5d8cd233cb9063a90fc70e5403a23301432c",
+    "model/baseline_reference.json": "d18b2e4c623f552e3a9d0f43433c82dcfb9348830f4e92eb1a07a81453a2291c",
+    "model/data/manifest.json": "d2b56cce8dfd4d881744d86dba84fb0c32ea8528b2a9776ee76e76f0e16e1732"
+  }
+}

@@ -1,0 +1,463 @@
+{
+  "sources": [
+    {
+      "source_season": 2008,
+      "url": "https://barttorvik.com/2008_all_advgames.json.gz",
+      "retrieved_at_utc": "2026-09-06T14:14:26.159058+00:00",
+      "original_publication_date": null,
+      "model_eligible": false,
+      "status": 200,
+      "content_type": "application/json",
+      "content_encoding": "gzip",
+      "bytes": 9663828,
+      "sha256": "11ed03df6ba5c54b3c64a571095f70408b89c4413690afbc6940000ddd651423",
+      "private_file": "private/games2008.bin",
+      "decoded_bytes": 38881353,
+      "rows": 106122,
+      "row_width_counts": {
+        "53": 106122
+      },
+      "decoded_success": true,
+      "path": "private/games2008.bin",
+      "reused": false,
+      "annual_source": {
+        "filename": "torvik_2008.csv.gz",
+        "sha256": "ae13ed06b098667fb65ac4bb7a2adbfb595b1c0d0d1f762d0cc54536d498a45d",
+        "allowed_indices": [
+          0,
+          1,
+          3,
+          13,
+          14,
+          16,
+          17,
+          19,
+          20,
+          31,
+          32
+        ],
+        "forbidden_index45_used": false
+      }
+    },
+    {
+      "source_season": 2009,
+      "url": "https://barttorvik.com/2009_all_advgames.json.gz",
+      "retrieved_at_utc": "2026-09-06T14:14:23.470479+00:00",
+      "original_publication_date": null,
+      "model_eligible": false,
+      "status": 200,
+      "content_type": "application/json",
+      "content_encoding": "gzip",
+      "bytes": 9715806,
+      "sha256": "f9943a00e8ffd625ae9080f450be1859391e4847ed15a8203a5c41a17a232a46",
+      "private_file": "private/games2009.bin",
+      "decoded_bytes": 39189024,
+      "rows": 106922,
+      "row_width_counts": {
+        "53": 106922
+      },
+      "decoded_success": true,
+      "path": "private/games2009.bin",
+      "reused": false,
+      "annual_source": {
+        "filename": "torvik_2009.csv.gz",
+        "sha256": "d87f39f287de012820f2bdc39320c42fae4a257f12e6d0b7992dcc90d0038cca",
+        "allowed_indices": [
+          0,
+          1,
+          3,
+          13,
+          14,
+          16,
+          17,
+          19,
+          20,
+          31,
+          32
+        ],
+        "forbidden_index45_used": false
+      }
+    },
+    {
+      "source_season": 2010,
+      "url": "https://barttorvik.com/2010_all_advgames.json.gz",
+      "retrieved_at_utc": "2026-09-06T14:14:21.171344+00:00",
+      "original_publication_date": null,
+      "model_eligible": false,
+      "status": 200,
+      "content_type": "application/json",
+      "content_encoding": "gzip",
+      "bytes": 10020121,
+      "sha256": "db72e58057ef4e5dcab0fe21c02e4a02df6e14864cf49a1af6d3112898ac9694",
+      "private_file": "private/games2010.bin",
+      "decoded_bytes": 40186341,
+      "rows": 109511,
+      "row_width_counts": {
+        "53": 109511
+      },
+      "decoded_success": true,
+      "path": "private/games2010.bin",
+      "reused": false,
+      "annual_source": {
+        "filename": "torvik_2010.csv.gz",
+        "sha256": "cf5a33076eb46eca58f266897ad7493eb05d4e71e5ac6282b468be51a7ffa86b",
+        "allowed_indices": [
+          0,
+          1,
+          3,
+          13,
+          14,
+          16,
+          17,
+          19,
+          20,
+          31,
+          32
+        ],
+        "forbidden_index45_used": false
+      }
+    },
+    {
+      "source_season": 2011,
+      "url": "https://barttorvik.com/2011_all_advgames.json.gz",
+      "retrieved_at_utc": "2026-09-06T14:14:19.449489+00:00",
+      "original_publication_date": null,
+      "model_eligible": false,
+      "status": 200,
+      "content_type": "application/json",
+      "content_encoding": "gzip",
+      "bytes": 9905743,
+      "sha256": "8db536bc8a7bff95be66086864f4a64695880daecff991344cb56b38d0fc276b",
+      "private_file": "private/games2011.bin",
+      "decoded_bytes": 39726496,
+      "rows": 108186,
+      "row_width_counts": {
+        "53": 108186
+      },
+      "decoded_success": true,
+      "path": "private/games2011.bin",
+      "reused": false,
+      "annual_source": {
+        "filename": "torvik_2011.csv.gz",
+        "sha256": "f78d0a3783a2b8a74638ad415271ddbde00738d224b20c97cb94341e57400a26",
+        "allowed_indices": [
+          0,
+          1,
+          3,
+          13,
+          14,
+          16,
+          17,
+          19,
+          20,
+          31,
+          32
+        ],
+        "forbidden_index45_used": false
+      }
+    },
+    {
+      "source_season": 2012,
+      "url": "https://barttorvik.com/2012_all_advgames.json.gz",
+      "retrieved_at_utc": "2026-09-06T14:14:17.745450+00:00",
+      "original_publication_date": null,
+      "model_eligible": false,
+      "status": 200,
+      "content_type": "application/json",
+      "content_encoding": "gzip",
+      "bytes": 10380443,
+      "sha256": "61e2275720da652fa0439c294fbaa69401f91b42317eca4ba9fa4fcf15e3bd77",
+      "private_file": "private/games2012.bin",
+      "decoded_bytes": 39772467,
+      "rows": 108263,
+      "row_width_counts": {
+        "53": 108263
+      },
+      "decoded_success": true,
+      "path": "private/games2012.bin",
+      "reused": false,
+      "annual_source": {
+        "filename": "torvik_2012.csv.gz",
+        "sha256": "f75d8bc4bc0a9d9a44d1a61c3420b94c8790961143c7145a8c8e58adc8fa3cb8",
+        "allowed_indices": [
+          0,
+          1,
+          3,
+          13,
+          14,
+          16,
+          17,
+          19,
+          20,
+          31,
+          32
+        ],
+        "forbidden_index45_used": false
+      }
+    },
+    {
+      "source_season": 2013,
+      "url": "https://barttorvik.com/2013_all_advgames.json.gz",
+      "retrieved_at_utc": "2026-09-06T14:14:15.239299+00:00",
+      "original_publication_date": null,
+      "model_eligible": false,
+      "status": 200,
+      "content_type": "application/json",
+      "content_encoding": "gzip",
+      "bytes": 9989350,
+      "sha256": "b830084d2090387e5d6f254f3402d436a4495e6fe0936e1ae1aab1e8ffec9165",
+      "private_file": "private/games2013.bin",
+      "decoded_bytes": 40062407,
+      "rows": 109005,
+      "row_width_counts": {
+        "53": 109005
+      },
+      "decoded_success": true,
+      "path": "private/games2013.bin",
+      "reused": false,
+      "annual_source": {
+        "filename": "torvik_2013.csv.gz",
+        "sha256": "f13a7e619c35ac25ac5063b6d9c43214c47daafebba0c5b5741267ff20f33b8a",
+        "allowed_indices": [
+          0,
+          1,
+          3,
+          13,
+          14,
+          16,
+          17,
+          19,
+          20,
+          31,
+          32
+        ],
+        "forbidden_index45_used": false
+      }
+    },
+    {
+      "source_season": 2014,
+      "url": "https://barttorvik.com/2014_all_advgames.json.gz",
+      "retrieved_at_utc": "2026-09-06T14:14:13.209630+00:00",
+      "original_publication_date": null,
+      "model_eligible": false,
+      "status": 200,
+      "content_type": "application/json",
+      "content_encoding": "gzip",
+      "bytes": 10150948,
+      "sha256": "eb5c2b5c8b22587b06e29692be68bdb78fed6efdd51a5280f6a3eaaad5243ab4",
+      "private_file": "private/games2014.bin",
+      "decoded_bytes": 40961197,
+      "rows": 111386,
+      "row_width_counts": {
+        "53": 111386
+      },
+      "decoded_success": true,
+      "path": "private/games2014.bin",
+      "reused": false,
+      "annual_source": {
+        "filename": "torvik_2014.csv.gz",
+        "sha256": "375433f02c42538589b551ce89ba3762c3cdf835205274c1fb8981bc064679f0",
+        "allowed_indices": [
+          0,
+          1,
+          3,
+          13,
+          14,
+          16,
+          17,
+          19,
+          20,
+          31,
+          32
+        ],
+        "forbidden_index45_used": false
+      }
+    },
+    {
+      "source_season": 2015,
+      "url": "https://barttorvik.com/2015_all_advgames.json.gz",
+      "retrieved_at_utc": "2026-09-06T14:14:11.031135+00:00",
+      "original_publication_date": null,
+      "model_eligible": false,
+      "status": 200,
+      "content_type": "application/json",
+      "content_encoding": "gzip",
+      "bytes": 10188424,
+      "sha256": "c59f93b0774e186d693f18a29967485a2b9a5a9aa74d2195a4c0de484ab1e929",
+      "private_file": "private/games2015.bin",
+      "decoded_bytes": 42424875,
+      "rows": 110905,
+      "row_width_counts": {
+        "53": 110905
+      },
+      "decoded_success": true,
+      "path": "private/games2015.bin",
+      "reused": false,
+      "annual_source": {
+        "filename": "torvik_2015.csv.gz",
+        "sha256": "e403cdada4d9b0290b36a4e2e440b771007cc2a12a56d1d71c02674b84a1fa82",
+        "allowed_indices": [
+          0,
+          1,
+          3,
+          13,
+          14,
+          16,
+          17,
+          19,
+          20,
+          31,
+          32
+        ],
+        "forbidden_index45_used": false
+      }
+    },
+    {
+      "source_season": 2016,
+      "url": "https://barttorvik.com/2016_all_advgames.json.gz",
+      "retrieved_at_utc": "2026-09-06T14:14:08.532796+00:00",
+      "original_publication_date": null,
+      "model_eligible": false,
+      "status": 200,
+      "content_type": "application/json",
+      "content_encoding": "gzip",
+      "bytes": 10511349,
+      "sha256": "7faae0bc746627be9593d406fa41c35832b642151d30be5b522c0a9d530709ce",
+      "private_file": "private/games2016.bin",
+      "decoded_bytes": 42777767,
+      "rows": 111455,
+      "row_width_counts": {
+        "53": 111455
+      },
+      "decoded_success": true,
+      "path": "private/games2016.bin",
+      "reused": false,
+      "annual_source": {
+        "filename": "torvik_2016.csv.gz",
+        "sha256": "646b1845623ed5819bbbb011eab9ebeacc8e2161e05760663f486d1cb4a0de69",
+        "allowed_indices": [
+          0,
+          1,
+          3,
+          13,
+          14,
+          16,
+          17,
+          19,
+          20,
+          31,
+          32
+        ],
+        "forbidden_index45_used": false
+      }
+    },
+    {
+      "source_season": 2017,
+      "url": "https://barttorvik.com/2017_all_advgames.json.gz",
+      "retrieved_at_utc": "2026-09-06T14:14:06.590034+00:00",
+      "original_publication_date": null,
+      "model_eligible": false,
+      "status": 200,
+      "content_type": "application/json",
+      "content_encoding": "gzip",
+      "bytes": 10554062,
+      "sha256": "129bb4d3fc79df92541da88e0323629081aab66d17120019f6c9a34169765cc1",
+      "private_file": "private/games2017.bin",
+      "decoded_bytes": 42964468,
+      "rows": 111928,
+      "row_width_counts": {
+        "53": 111928
+      },
+      "decoded_success": true,
+      "path": "private/games2017.bin",
+      "reused": false,
+      "annual_source": {
+        "filename": "torvik_2017.csv.gz",
+        "sha256": "eb248ddc42e4447a5e9b8298c830a4f88d1da6493d40d3d3e4de476668ca677a",
+        "allowed_indices": [
+          0,
+          1,
+          3,
+          13,
+          14,
+          16,
+          17,
+          19,
+          20,
+          31,
+          32
+        ],
+        "forbidden_index45_used": false
+      }
+    },
+    {
+      "source_season": 2018,
+      "url": "https://barttorvik.com/2018_all_advgames.json.gz",
+      "path": "../college_denominator_audit/private/player_games2018_compressed.bin",
+      "sha256": "f61dcd425f3141019d253f4552a96aa68b040782386f7dba1b36716492c271bd",
+      "bytes": 10407565,
+      "rows": 109978,
+      "reused": true,
+      "status": 200,
+      "retrieved_at_utc": "2026-09-06T14:02:29.058424+00:00",
+      "original_publication_date": null,
+      "model_eligible": false,
+      "annual_source": {
+        "filename": "torvik_2018.csv.gz",
+        "sha256": "d8f238e8e982f74a4265895e0e7ca5cdbf7aec61b81e515bd688ede4777417a0",
+        "allowed_indices": [
+          0,
+          1,
+          3,
+          13,
+          14,
+          16,
+          17,
+          19,
+          20,
+          31,
+          32
+        ],
+        "forbidden_index45_used": false
+      }
+    }
+  ],
+  "game_read_indices": [
+    0,
+    5,
+    6,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    42,
+    47,
+    48,
+    51,
+    52
+  ],
+  "annual_read_indices": [
+    0,
+    1,
+    3,
+    13,
+    14,
+    16,
+    17,
+    19,
+    20,
+    31,
+    32
+  ],
+  "model_eligible": false,
+  "frozen_before_per_player_comparisons": true
+}

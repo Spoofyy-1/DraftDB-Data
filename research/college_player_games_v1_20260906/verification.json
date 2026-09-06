@@ -1,0 +1,16 @@
+{
+  "completed_at_utc": "2026-09-06T14:33:21.825483+00:00",
+  "test_command": "python3 work/college_player_games_v1/tests.py",
+  "tests_passed": 11,
+  "failures": 0,
+  "full_game_projection_rows_checked": 1203590,
+  "full_source_groups_checked": 51327,
+  "source_consistent_groups": 50940,
+  "generated_numeric_audit_files_reproduced_byte_identically": 55,
+  "final_build_sha256": "306af33d1c9b307e851cede40455716b98da3513756213cd5bc6d9d7d1b2c1ec",
+  "final_tests_sha256": "0b68add6d4168f100e23547a7cb7aa5fe011348cd0b2156b235cd6f13607bb4e",
+  "new_network_requests": 10,
+  "original_frozen_source_packages_modified": false,
+  "model_admission_granted": false,
+  "free_disk_bytes_after_build": 1870954496
+}

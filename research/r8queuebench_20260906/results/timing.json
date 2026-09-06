@@ -1,0 +1,143 @@
+{
+  "status": "completed",
+  "arms": [
+    {
+      "arm": {
+        "id": "old4",
+        "scheduler": "old",
+        "workers": 4
+      },
+      "elapsed_seconds": 74.4381061749882,
+      "scheduler_internal_seconds": 74.43777464400046,
+      "replays": 24,
+      "trials_per_minute": 19.344930627531888,
+      "all_raw_canonical_scores_and_audits_exact": true,
+      "full_summary_exact": true,
+      "counts": {
+        "snapshots": 26,
+        "summaries": 26
+      },
+      "compact_or_full_state_bytes": 94443102,
+      "duration_including_postcheck": 74.7501791859977,
+      "task_seconds": [
+        7.9,
+        8.3,
+        8.9,
+        3.9,
+        3.9,
+        4.1,
+        2.8,
+        3.6,
+        3.7,
+        8.9,
+        2.7,
+        3.1,
+        2.7,
+        2.4,
+        2.6,
+        4.0,
+        3.0,
+        3.3,
+        4.0,
+        2.7,
+        2.7,
+        3.6,
+        3.6,
+        2.7
+      ]
+    },
+    {
+      "arm": {
+        "id": "refill4",
+        "scheduler": "immediate_refill",
+        "workers": 4
+      },
+      "elapsed_seconds": 27.135430113004986,
+      "scheduler_internal_seconds": 26.642155032022856,
+      "replays": 24,
+      "trials_per_minute": 53.06715220665924,
+      "all_raw_canonical_scores_and_audits_exact": true,
+      "full_summary_exact": true,
+      "counts": {
+        "snapshots": 9,
+        "summaries": 3
+      },
+      "compact_or_full_state_bytes": 479768,
+      "duration_including_postcheck": 27.502558601030614,
+      "task_seconds": [
+        8.2,
+        8.9,
+        8.9,
+        3.0,
+        3.0,
+        3.1,
+        3.1,
+        3.1,
+        3.1,
+        9.3,
+        3.1,
+        3.0,
+        3.0,
+        2.9,
+        2.9,
+        2.9,
+        3.0,
+        2.9,
+        2.9,
+        2.9,
+        2.7,
+        2.9,
+        3.0,
+        2.7
+      ]
+    },
+    {
+      "arm": {
+        "id": "refill6",
+        "scheduler": "immediate_refill",
+        "workers": 6
+      },
+      "elapsed_seconds": 27.757295326970052,
+      "scheduler_internal_seconds": 27.02474312199047,
+      "replays": 24,
+      "trials_per_minute": 51.8782533758194,
+      "all_raw_canonical_scores_and_audits_exact": true,
+      "full_summary_exact": true,
+      "counts": {
+        "snapshots": 9,
+        "summaries": 3
+      },
+      "compact_or_full_state_bytes": 479772,
+      "duration_including_postcheck": 28.113844355975743,
+      "task_seconds": [
+        11.0,
+        10.0,
+        9.4,
+        4.2,
+        4.4,
+        4.4,
+        4.2,
+        4.1,
+        4.8,
+        11.0,
+        11.0,
+        9.8,
+        4.4,
+        4.4,
+        4.4,
+        4.2,
+        4.4,
+        4.3,
+        3.9,
+        3.9,
+        3.9,
+        4.4,
+        4.4,
+        4.4
+      ]
+    }
+  ],
+  "plan_sha256": "908b23e041b5cbf20e2108e4fd922ec7f9eb544ea91adda12106cf20ee9bcdf8",
+  "no_model_selection": true,
+  "replays": 72
+}

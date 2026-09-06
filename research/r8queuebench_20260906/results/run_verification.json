@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "unit": "draftdb-r8queuebench-20260906",
+  "exit": "success0",
+  "replays": 72,
+  "direct_local_replay_audits": 72,
+  "frozen_files_unchanged": 15,
+  "all_outputs_exact": true,
+  "recommended_scheduler": "immediate_refill",
+  "recommended_workers": 4,
+  "old4_over_new4_speedup": 2.7432071599746943,
+  "old_full_state_preserved_remote": true,
+  "no_model_changes": true,
+  "fixed_arm_order_caveat": true
+}

@@ -1,0 +1,33 @@
+{
+  "registration_hash": "908b23e041b5cbf20e2108e4fd922ec7f9eb544ea91adda12106cf20ee9bcdf8",
+  "initial_records_sha256": "d0cdb016142c08d640ea2842ca55ae617d3e8ed47cc80390dcd3eb8a97a178e2",
+  "task_ids": [
+    "f50_balanced_stocks_real_seed0",
+    "f50_balanced_stocks_real_seed101",
+    "f50_balanced_stocks_real_seed202",
+    "f50_balanced_stocks_shuffle9317_seed0",
+    "f50_balanced_stocks_shuffle9317_seed101",
+    "f50_balanced_stocks_shuffle9317_seed202",
+    "f50_balanced_stocks_shuffle18739_seed0",
+    "f50_balanced_stocks_shuffle18739_seed101",
+    "f50_balanced_stocks_shuffle18739_seed202",
+    "f50_balanced_stocks_shuffle28657_seed0",
+    "f50_balanced_stocks_shuffle28657_seed101",
+    "f50_balanced_stocks_shuffle28657_seed202",
+    "f50_foul_adjusted_rebounds_real_seed0",
+    "f50_foul_adjusted_rebounds_real_seed101",
+    "f50_foul_adjusted_rebounds_real_seed202",
+    "f50_foul_adjusted_rebounds_shuffle9317_seed0",
+    "f50_foul_adjusted_rebounds_shuffle9317_seed101",
+    "f50_foul_adjusted_rebounds_shuffle9317_seed202",
+    "f50_foul_adjusted_rebounds_shuffle18739_seed0",
+    "f50_foul_adjusted_rebounds_shuffle18739_seed101",
+    "f50_foul_adjusted_rebounds_shuffle18739_seed202",
+    "f50_foul_adjusted_rebounds_shuffle28657_seed0",
+    "f50_foul_adjusted_rebounds_shuffle28657_seed101",
+    "f50_foul_adjusted_rebounds_shuffle28657_seed202"
+  ],
+  "workers": 4,
+  "snapshot_seconds": 3.0,
+  "summary_seconds": 20.0
+}

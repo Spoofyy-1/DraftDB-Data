@@ -1,0 +1,25 @@
+{
+  "models_fitted": 0,
+  "tasks": 603,
+  "state_bytes": 94443089,
+  "state_sha256": "8dac36b3bbed501735cec57d3fa48ad5b77ac5e7f3f7428cec338c1e76b761ec",
+  "load_seconds": 0.690792077977676,
+  "measurements": [
+    {
+      "summary_seconds": 0.43064160004723817,
+      "json_encode_seconds": 2.3366088600014336,
+      "two_calls_each_per_loop_seconds": 5.534500920097344
+    },
+    {
+      "summary_seconds": 0.23940473998663947,
+      "json_encode_seconds": 1.8867868919624016,
+      "two_calls_each_per_loop_seconds": 4.252383263898082
+    },
+    {
+      "summary_seconds": 0.23995791998459026,
+      "json_encode_seconds": 1.8802208990091458,
+      "two_calls_each_per_loop_seconds": 4.240357637987472
+    }
+  ],
+  "median_two_calls_each_per_loop_seconds": 4.252383263898082
+}
