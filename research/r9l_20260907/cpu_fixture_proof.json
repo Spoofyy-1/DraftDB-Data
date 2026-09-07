@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "test_count": 6,
+  "model_fits": 0,
+  "command": "python3 -m unittest discover -s work/r9l -p test_worker.py -v",
+  "files": {
+    "protocol.json": "b5a08f448582931158da52dbf37136e47d5b555f9596866210013b4a5aa2a282",
+    "worker.py": "92abd8b71bc3c31703718bd1e1769d31a5784a42885b88550a14df2b89f5af9e",
+    "model_backend.py": "39ca4e150ed0a518177e0a24b25a45379ea404f70fe792fb8954f7b08b2f0d06",
+    "stack_core.py": "a862e230d4912164d8d0d173561e6d3b05686558ce1338fa06c3fa2051b43892",
+    "test_worker.py": "06f7661bd132900182aaa3f3e974729da87cf976971b34736c5e71667f783999",
+    "runtime_support.json": "e3c7662c056e1a1688c234f49d1aa53e5394f3c9bcaaf4c7687dacdfc8c7d119"
+  },
+  "runtime_support_continuity": "Exact R9K106source/5checkpoint manifest; runtime assertions executed in isolated root preflight before fitting",
+  "scientific_status": "CPU preparation complete; root must approve frozen inputs and launch"
+}

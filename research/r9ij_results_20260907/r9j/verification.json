@@ -1,0 +1,261 @@
+{
+  "study": "r9j",
+  "status": "PASS",
+  "completed_tasks": 48,
+  "frozen_study_files": 15,
+  "H_frozen_files": 81,
+  "H_reference_metadata_files": 12,
+  "exact_reference_gate": 12,
+  "immutable_task_hashes_configs_ties_and_scores_checked": true,
+  "recipe_records": 2244,
+  "saved_chunk_count": 12,
+  "all_compressed_and_uncompressed_and_perline_hashes_pass": true,
+  "deterministic_math_replay_all_saved_chunks_byte_identical": true,
+  "saved_summary_replay_byte_identical": true,
+  "replay_seconds": 26.768424840003718,
+  "model_fits": 0,
+  "model_execution_functions_disabled": true,
+  "GPU_devices_mounted": false,
+  "development_years_only": [
+    2012,
+    2013,
+    2014
+  ],
+  "new_benchmark_or_2019_plus_outcomes_read": false,
+  "no_automatic_promotion": true,
+  "report": {
+    "best_actual_two_plus_family_stack": {
+      "payload_id": "s2008_gap1_all_h1",
+      "recipe_id": "stack_067",
+      "recipe": {
+        "kind": "fixed_rank_weights",
+        "members": [
+          {
+            "family": "tabicl",
+            "setting": "matched_H_anchor",
+            "checkpoint": null,
+            "units": 30
+          },
+          {
+            "family": "ridge",
+            "setting": "ridge_a300",
+            "checkpoint": null,
+            "units": 30
+          }
+        ],
+        "weight_total": 60,
+        "id": "stack_067"
+      },
+      "primary_ranking_mode": "mean_all_three_seed_correlations",
+      "fixed_three_seed_family_rank_average": {
+        "legacy": {
+          "mean_score": 0.3737007431570911,
+          "mean_delta": 0.01690937564532032,
+          "fold_deltas": {
+            "2012": -0.034651051339586014,
+            "2013": 0.07296695240881718,
+            "2014": 0.012412225866729798
+          }
+        },
+        "observed": {
+          "mean_score": 0.4052666451580842,
+          "mean_delta": 0.029009029031462113,
+          "fold_deltas": {
+            "2012": -0.02880088977860229,
+            "2013": 0.09585729153793204,
+            "2014": 0.01997068533505658
+          }
+        }
+      },
+      "legacy": {
+        "mean_score": 0.3737878250522369,
+        "mean_delta": 0.018325008163167195,
+        "fold_deltas": {
+          "2012": -0.032385773100541616,
+          "2013": 0.07193369950914223,
+          "2014": 0.01542709808090098
+        },
+        "seed_deltas": {
+          "0": 0.020823497409896568,
+          "101": 0.015725157786584842,
+          "202": 0.01842636929302018
+        },
+        "positive_every_fold_and_seed_mean": false
+      },
+      "observed": {
+        "mean_score": 0.4018733039443277,
+        "mean_delta": 0.02562495607368152,
+        "fold_deltas": {
+          "2012": -0.030017538437255353,
+          "2013": 0.08434378207762909,
+          "2014": 0.022548624580670844
+        },
+        "seed_deltas": {
+          "0": 0.02242242189507654,
+          "101": 0.02893881381437365,
+          "202": 0.025513632511594376
+        },
+        "positive_every_fold_and_seed_mean": false
+      }
+    },
+    "best_single_family_control": {
+      "payload_id": "s2008_gap1_all_h1",
+      "recipe_id": "stack_062",
+      "recipe": {
+        "kind": "fixed_rank_weights",
+        "members": [
+          {
+            "family": "ridge",
+            "setting": "ridge_a300",
+            "checkpoint": null,
+            "units": 60
+          }
+        ],
+        "weight_total": 60,
+        "id": "stack_062"
+      },
+      "primary_ranking_mode": "mean_all_three_seed_correlations",
+      "fixed_three_seed_family_rank_average": {
+        "legacy": {
+          "mean_score": 0.3583717138496117,
+          "mean_delta": 0.0015803463378409137,
+          "fold_deltas": {
+            "2012": -0.09474374161554483,
+            "2013": 0.10546840345062242,
+            "2014": -0.005983622821554846
+          }
+        },
+        "observed": {
+          "mean_score": 0.3723286437706179,
+          "mean_delta": -0.003928972356004219,
+          "fold_deltas": {
+            "2012": -0.11122709888062116,
+            "2013": 0.08958796506383998,
+            "2014": 0.009852216748768516
+          }
+        }
+      },
+      "legacy": {
+        "mean_score": 0.3583717138496117,
+        "mean_delta": 0.0029088969605419734,
+        "fold_deltas": {
+          "2012": -0.09812586808717673,
+          "2013": 0.10534742538819732,
+          "2014": 0.0015051335806053334
+        },
+        "seed_deltas": {
+          "0": 0.004440643954459422,
+          "101": -0.00030230393914245274,
+          "202": 0.0045883508663089505
+        },
+        "positive_every_fold_and_seed_mean": false
+      },
+      "observed": {
+        "mean_score": 0.3723286437706179,
+        "mean_delta": -0.003919704100028297,
+        "fold_deltas": {
+          "2012": -0.11038131727786905,
+          "2013": 0.08274918910476824,
+          "2014": 0.015873015873015928
+        },
+        "seed_deltas": {
+          "0": -0.007628272927979796,
+          "101": -0.004620103599409657,
+          "202": 0.0004892642273045625
+        },
+        "positive_every_fold_and_seed_mean": false
+      }
+    },
+    "best_adapted_coverage_control": {
+      "payload_id": "s2008_gap1_all_h1",
+      "recipe_id": "stack_112",
+      "recipe": {
+        "kind": "adapted_coverage_control",
+        "members": [
+          {
+            "family": "xgb",
+            "setting": "xgb_d3",
+            "checkpoint": 600
+          },
+          {
+            "family": "tabicl",
+            "setting": "matched_H_anchor",
+            "checkpoint": null
+          },
+          {
+            "family": "ridge",
+            "setting": "ridge_a3000",
+            "checkpoint": null
+          }
+        ],
+        "thin_rule": "fraction of44 observed predictors strictly below full query cohort median",
+        "rich_units": [
+          0,
+          15,
+          45
+        ],
+        "thin_units": [
+          60,
+          0,
+          0
+        ],
+        "weight_total": 60,
+        "id": "stack_112"
+      },
+      "primary_ranking_mode": "mean_all_three_seed_correlations",
+      "fixed_three_seed_family_rank_average": {
+        "legacy": {
+          "mean_score": 0.28502574390884355,
+          "mean_delta": -0.07176562360292726,
+          "fold_deltas": {
+            "2012": -0.18617713275946024,
+            "2013": 0.0675153232482712,
+            "2014": -0.09663506129759275
+          }
+        },
+        "observed": {
+          "mean_score": 0.36457539604569594,
+          "mean_delta": -0.011682220080926157,
+          "fold_deltas": {
+            "2012": -0.12350128052081,
+            "2013": 0.1423116934291862,
+            "2014": -0.05385707315115468
+          }
+        }
+      },
+      "legacy": {
+        "mean_score": 0.28047737841109327,
+        "mean_delta": -0.07498543847797644,
+        "fold_deltas": {
+          "2012": -0.19525699832366836,
+          "2013": 0.0659777755707822,
+          "2014": -0.09567709268104319
+        },
+        "seed_deltas": {
+          "0": -0.07406705152161723,
+          "101": -0.08450810408334349,
+          "202": -0.06638115982896858
+        },
+        "positive_every_fold_and_seed_mean": false
+      },
+      "observed": {
+        "mean_score": 0.35259324794986524,
+        "mean_delta": -0.023655099920780964,
+        "fold_deltas": {
+          "2012": -0.13695740654742836,
+          "2013": 0.13344295532108896,
+          "2014": -0.06745084853600349
+        },
+        "seed_deltas": {
+          "0": -0.032367597073078146,
+          "101": -0.035263715280287176,
+          "202": -0.003333987408977566
+        },
+        "positive_every_fold_and_seed_mean": false
+      }
+    },
+    "mean_seed_vs_fixed": "Primarymean is meanall3seedcorrelations over3folds. Fixedthree mode averages within-familyseedrankvectors, then applies frozenfamilyrankblend; it is a differentpredictionrule."
+  },
+  "source_completion_sha256": "393fcc7116ca40ac4885805e80b39f96346a75afa4d2a81cf4a0fcbd9fbeb185",
+  "source_frozen_sha256": "05bf210e7dda4fa78aa0add4b9b1501f4194071f5395ac6dceb04824602a1432"
+}

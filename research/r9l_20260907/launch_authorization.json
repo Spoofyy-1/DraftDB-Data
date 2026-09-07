@@ -1,0 +1,17 @@
+{
+  "model_fits_authorized": true,
+  "plan_sha256": "d4fdbe421a6069ed158c5de84ad85c1534c2901dabd3c1ef40e2ecb08bb53d99",
+  "frozen_sha256": "db5f0f5bccf62f923cd84fbc7e7cba42055f2236bec9bb9c5865b350af260af0",
+  "cpu_preflight_sha256": "19bee7e0b7a441754330a4ac3e9d71b63724883b741aa6ccc753cad6baa2d636",
+  "tasks": 24,
+  "model_fits": 216,
+  "workers": 4,
+  "runtime_seconds": 7200,
+  "memory_GiB": 140,
+  "CPU_quota_percent": 2200,
+  "exact_reference_vectors_before_new_feature_fits": 36,
+  "no_2019plus_scoring": true,
+  "root_review_passed": true,
+  "no_automatic_retry_or_promotion": true,
+  "created": 1788778801.3266249
+}

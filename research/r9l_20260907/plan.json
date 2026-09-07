@@ -1,0 +1,883 @@
+{
+  "study": "R9L feature-family additions to verified TabICL-Ridge stack",
+  "target_percent": 55,
+  "tasks": [
+    {
+      "id": "base44_y2012",
+      "panel_id": "base44",
+      "policy_id": "h_s2008_gap1_all_h1",
+      "outer_year": 2012,
+      "input_manifest_sha256": "cdba987e579104a133892cc0b0000d9a89871a5eed1fb28da0116c5e8ccf66fa",
+      "training_rows": 176,
+      "query_rows": 55
+    },
+    {
+      "id": "add_f50_y2012",
+      "panel_id": "add_f50",
+      "policy_id": "h_s2008_gap1_all_h1",
+      "outer_year": 2012,
+      "input_manifest_sha256": "f3c6d32a6c617ffe0bb7f8a40a38c3a5adf0be70a6d37a5bc49a150982c15010",
+      "training_rows": 176,
+      "query_rows": 55
+    },
+    {
+      "id": "add_combine_y2012",
+      "panel_id": "add_combine",
+      "policy_id": "h_s2008_gap1_all_h1",
+      "outer_year": 2012,
+      "input_manifest_sha256": "1fd03e9368fa51d1f63d070c3156fac0314f3d5ebce1070d845be0e65556bb84",
+      "training_rows": 176,
+      "query_rows": 55
+    },
+    {
+      "id": "add_bio_y2012",
+      "panel_id": "add_bio",
+      "policy_id": "h_s2008_gap1_all_h1",
+      "outer_year": 2012,
+      "input_manifest_sha256": "78f86c16d466aea9146c1424740c0c39391b4d7ac47ec8a96dea55252dc147b6",
+      "training_rows": 176,
+      "query_rows": 55
+    },
+    {
+      "id": "add_game_y2012",
+      "panel_id": "add_game",
+      "policy_id": "h_s2008_gap1_all_h1",
+      "outer_year": 2012,
+      "input_manifest_sha256": "cf9d433d25028ae6e56dd0e539dc211e13c1742e49a35e2514aceccf1994d6da",
+      "training_rows": 176,
+      "query_rows": 55
+    },
+    {
+      "id": "add_team_y2012",
+      "panel_id": "add_team",
+      "policy_id": "h_s2008_gap1_all_h1",
+      "outer_year": 2012,
+      "input_manifest_sha256": "1fdde0fbc5d46bc50a2f48894cd08c91608b44507005dc80592eee471c352340",
+      "training_rows": 176,
+      "query_rows": 55
+    },
+    {
+      "id": "add_combine_bio_y2012",
+      "panel_id": "add_combine_bio",
+      "policy_id": "h_s2008_gap1_all_h1",
+      "outer_year": 2012,
+      "input_manifest_sha256": "7d70f3f29ce361e022f17e412e42103303f6589e64d1585fd44ff7482b7c8470",
+      "training_rows": 176,
+      "query_rows": 55
+    },
+    {
+      "id": "all174_y2012",
+      "panel_id": "all174",
+      "policy_id": "h_s2008_gap1_all_h1",
+      "outer_year": 2012,
+      "input_manifest_sha256": "9de8c3ffe19146f328c006313aa70cbe7b339aa616d4e94648bcc7192a1e3b64",
+      "training_rows": 176,
+      "query_rows": 55
+    },
+    {
+      "id": "base44_y2013",
+      "panel_id": "base44",
+      "policy_id": "h_s2008_gap1_all_h1",
+      "outer_year": 2013,
+      "input_manifest_sha256": "b15d4aba80167eb0d54f8904ebb4b188778f95b404dca389eb250903444762ce",
+      "training_rows": 254,
+      "query_rows": 50
+    },
+    {
+      "id": "add_f50_y2013",
+      "panel_id": "add_f50",
+      "policy_id": "h_s2008_gap1_all_h1",
+      "outer_year": 2013,
+      "input_manifest_sha256": "312562a958ccf3fd2058e8f1e5653113b092c87f9ffefc46e1f5d8505242652d",
+      "training_rows": 254,
+      "query_rows": 50
+    },
+    {
+      "id": "add_combine_y2013",
+      "panel_id": "add_combine",
+      "policy_id": "h_s2008_gap1_all_h1",
+      "outer_year": 2013,
+      "input_manifest_sha256": "1b55dbeacf42aaa6a5be01b8112b4bcd30674ab21de47cff8e83ef8fa22d869f",
+      "training_rows": 254,
+      "query_rows": 50
+    },
+    {
+      "id": "add_bio_y2013",
+      "panel_id": "add_bio",
+      "policy_id": "h_s2008_gap1_all_h1",
+      "outer_year": 2013,
+      "input_manifest_sha256": "e52e8cb49d847f0b668452d3affb5a5dc99b03e756911ffd75e197e328fe8470",
+      "training_rows": 254,
+      "query_rows": 50
+    },
+    {
+      "id": "add_game_y2013",
+      "panel_id": "add_game",
+      "policy_id": "h_s2008_gap1_all_h1",
+      "outer_year": 2013,
+      "input_manifest_sha256": "0c47e7d23f79d01c44a365ff485291215c344aa015696c071e65d4a02891d187",
+      "training_rows": 254,
+      "query_rows": 50
+    },
+    {
+      "id": "add_team_y2013",
+      "panel_id": "add_team",
+      "policy_id": "h_s2008_gap1_all_h1",
+      "outer_year": 2013,
+      "input_manifest_sha256": "f39e90f0f738e39b13f725267553632a14af3f4c0aba00bb93a99492c5b0ccec",
+      "training_rows": 254,
+      "query_rows": 50
+    },
+    {
+      "id": "add_combine_bio_y2013",
+      "panel_id": "add_combine_bio",
+      "policy_id": "h_s2008_gap1_all_h1",
+      "outer_year": 2013,
+      "input_manifest_sha256": "e1d7e321d02a2a525e5112c451f25ce46bfb38edb13b4302ae51dac456f5d214",
+      "training_rows": 254,
+      "query_rows": 50
+    },
+    {
+      "id": "all174_y2013",
+      "panel_id": "all174",
+      "policy_id": "h_s2008_gap1_all_h1",
+      "outer_year": 2013,
+      "input_manifest_sha256": "28448a159e2bc3705f32631db29afa9899301063039cb382b120bfc6dc421496",
+      "training_rows": 254,
+      "query_rows": 50
+    },
+    {
+      "id": "base44_y2014",
+      "panel_id": "base44",
+      "policy_id": "h_s2008_gap1_all_h1",
+      "outer_year": 2014,
+      "input_manifest_sha256": "2be1ccd86d4b61fc00fbe03fff23f807f2df029fbc2ddc1f200376afa8ff4f8a",
+      "training_rows": 328,
+      "query_rows": 53
+    },
+    {
+      "id": "add_f50_y2014",
+      "panel_id": "add_f50",
+      "policy_id": "h_s2008_gap1_all_h1",
+      "outer_year": 2014,
+      "input_manifest_sha256": "67945efd0d0a77add20d0fd78459645dd8bfb96d64c25639bc34430b0fbb3fa5",
+      "training_rows": 328,
+      "query_rows": 53
+    },
+    {
+      "id": "add_combine_y2014",
+      "panel_id": "add_combine",
+      "policy_id": "h_s2008_gap1_all_h1",
+      "outer_year": 2014,
+      "input_manifest_sha256": "f00c141a6e8b658fbd3a46bf3b28c5b3369d3bb325749fa457de0b5577b56778",
+      "training_rows": 328,
+      "query_rows": 53
+    },
+    {
+      "id": "add_bio_y2014",
+      "panel_id": "add_bio",
+      "policy_id": "h_s2008_gap1_all_h1",
+      "outer_year": 2014,
+      "input_manifest_sha256": "c5333fe554611131beeb122ca01ce7b0ddf390d29425e6612974ba76a55c2b79",
+      "training_rows": 328,
+      "query_rows": 53
+    },
+    {
+      "id": "add_game_y2014",
+      "panel_id": "add_game",
+      "policy_id": "h_s2008_gap1_all_h1",
+      "outer_year": 2014,
+      "input_manifest_sha256": "8ccb01be856e740ff48488bcaf991fd0ff7883511487cbf618482ea452a31a47",
+      "training_rows": 328,
+      "query_rows": 53
+    },
+    {
+      "id": "add_team_y2014",
+      "panel_id": "add_team",
+      "policy_id": "h_s2008_gap1_all_h1",
+      "outer_year": 2014,
+      "input_manifest_sha256": "857a2b6f6168a74f5558b2949569df10c6e4ce85461f54e056be6f5d73c0f886",
+      "training_rows": 328,
+      "query_rows": 53
+    },
+    {
+      "id": "add_combine_bio_y2014",
+      "panel_id": "add_combine_bio",
+      "policy_id": "h_s2008_gap1_all_h1",
+      "outer_year": 2014,
+      "input_manifest_sha256": "852a16d2dfbc66d9aff2cea6b97d0de893d0dea57ddd7ea0d9d8b63823c96f9d",
+      "training_rows": 328,
+      "query_rows": 53
+    },
+    {
+      "id": "all174_y2014",
+      "panel_id": "all174",
+      "policy_id": "h_s2008_gap1_all_h1",
+      "outer_year": 2014,
+      "input_manifest_sha256": "021ab13a7ada4e72aad3cccdc17675990bb52805bba858591923745dc5380d37",
+      "training_rows": 328,
+      "query_rows": 53
+    }
+  ],
+  "task_count": 24,
+  "model_fits": 216,
+  "workers": 4,
+  "outer_years": [
+    2012,
+    2013,
+    2014
+  ],
+  "seeds": [
+    0,
+    101,
+    202
+  ],
+  "protocol_sha256": "b5a08f448582931158da52dbf37136e47d5b555f9596866210013b4a5aa2a282",
+  "scoring": {
+    "2012": {
+      "sha256": "ed822402132d484e04f3a352b688671c2622ed191e45034b047cf2bcc94f26dd",
+      "source_sha256": "ebe1010f6ae1d4268b04d5953ec6b56754d5e9cfe6de6f651a262456c334438b",
+      "not_mounted_in_model_worker": true
+    },
+    "2013": {
+      "sha256": "391e4361925f487defba7fc2e325e68bf9e24669dc5d192ceada7e0c77b1f1bf",
+      "source_sha256": "27d5355854c0117f977628fe24867904634e0ff47ff02f25a82affa64bd438a5",
+      "not_mounted_in_model_worker": true
+    },
+    "2014": {
+      "sha256": "61fe880ada90441eb47a12f93ca6f13361d066d889e2a121a96cb10711e9b989",
+      "source_sha256": "e27a55de22bf099367632bc4952ac9e32dcef336e1dda5f9861bf07efae2f10e",
+      "not_mounted_in_model_worker": true
+    }
+  },
+  "source_labels": {
+    "2012": {
+      "H_training_npz_sha256": "4226dbd5718983e44ffafbf175bdf555730c3e2c2f12789c08a9603edcc3e0f5",
+      "cutoff_broker_prefix_manifest_sha256": "7b223ad119d70a9d5fa9d1c560ab406888c302907bea70ad1384cf741e284709",
+      "all_H_first_season_facts_reverified": true,
+      "rows": 176,
+      "max_actual_label_season": 2011
+    },
+    "2013": {
+      "H_training_npz_sha256": "63d0e82636f608068d928e2cc12f9a448a49f9d8f600976903b1c1a36b1c1419",
+      "cutoff_broker_prefix_manifest_sha256": "3d565693ea2d1d58226d981f7b0a7cef8101a9b1f6fa228a69689b8bcbb3d4e4",
+      "all_H_first_season_facts_reverified": true,
+      "rows": 254,
+      "max_actual_label_season": 2012
+    },
+    "2014": {
+      "H_training_npz_sha256": "b9fcbc4f3f8e481f90c0433ba85d98321ea55fde9b10381f5aab1125a22aabd5",
+      "cutoff_broker_prefix_manifest_sha256": "688b55b639ffa9aec3f77677cfc039b1409f3939ccc08fc6bf0aa9d1312db44a",
+      "all_H_first_season_facts_reverified": true,
+      "rows": 328,
+      "max_actual_label_season": 2013
+    }
+  },
+  "architectures": [
+    {
+      "id": "stack_000",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "catboost",
+          "units": 12
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_001",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "ridge_a30",
+          "units": 3
+        },
+        {
+          "family": "catboost",
+          "units": 9
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_002",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "ridge_a30",
+          "units": 6
+        },
+        {
+          "family": "catboost",
+          "units": 6
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_003",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "ridge_a30",
+          "units": 9
+        },
+        {
+          "family": "catboost",
+          "units": 3
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_004",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "ridge_a30",
+          "units": 12
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_005",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 3
+        },
+        {
+          "family": "catboost",
+          "units": 9
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_006",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 3
+        },
+        {
+          "family": "ridge_a30",
+          "units": 3
+        },
+        {
+          "family": "catboost",
+          "units": 6
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_007",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 3
+        },
+        {
+          "family": "ridge_a30",
+          "units": 6
+        },
+        {
+          "family": "catboost",
+          "units": 3
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_008",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 3
+        },
+        {
+          "family": "ridge_a30",
+          "units": 9
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_009",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 6
+        },
+        {
+          "family": "catboost",
+          "units": 6
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_010",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 6
+        },
+        {
+          "family": "ridge_a30",
+          "units": 3
+        },
+        {
+          "family": "catboost",
+          "units": 3
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_011",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 6
+        },
+        {
+          "family": "ridge_a30",
+          "units": 6
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_012",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 9
+        },
+        {
+          "family": "catboost",
+          "units": 3
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_013",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 9
+        },
+        {
+          "family": "ridge_a30",
+          "units": 3
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_014",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 12
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_015",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 4
+        },
+        {
+          "family": "ridge_a30",
+          "units": 4
+        },
+        {
+          "family": "catboost",
+          "units": 4
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_016",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "ridge_a300",
+          "units": 3
+        },
+        {
+          "family": "catboost",
+          "units": 9
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_017",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "ridge_a300",
+          "units": 6
+        },
+        {
+          "family": "catboost",
+          "units": 6
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_018",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "ridge_a300",
+          "units": 9
+        },
+        {
+          "family": "catboost",
+          "units": 3
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_019",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "ridge_a300",
+          "units": 12
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_020",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 3
+        },
+        {
+          "family": "ridge_a300",
+          "units": 3
+        },
+        {
+          "family": "catboost",
+          "units": 6
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_021",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 3
+        },
+        {
+          "family": "ridge_a300",
+          "units": 6
+        },
+        {
+          "family": "catboost",
+          "units": 3
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_022",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 3
+        },
+        {
+          "family": "ridge_a300",
+          "units": 9
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_023",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 6
+        },
+        {
+          "family": "ridge_a300",
+          "units": 3
+        },
+        {
+          "family": "catboost",
+          "units": 3
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_024",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 6
+        },
+        {
+          "family": "ridge_a300",
+          "units": 6
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_025",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 9
+        },
+        {
+          "family": "ridge_a300",
+          "units": 3
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_026",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 4
+        },
+        {
+          "family": "ridge_a300",
+          "units": 4
+        },
+        {
+          "family": "catboost",
+          "units": 4
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_027",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "ridge_a3000",
+          "units": 3
+        },
+        {
+          "family": "catboost",
+          "units": 9
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_028",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "ridge_a3000",
+          "units": 6
+        },
+        {
+          "family": "catboost",
+          "units": 6
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_029",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "ridge_a3000",
+          "units": 9
+        },
+        {
+          "family": "catboost",
+          "units": 3
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_030",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "ridge_a3000",
+          "units": 12
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_031",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 3
+        },
+        {
+          "family": "ridge_a3000",
+          "units": 3
+        },
+        {
+          "family": "catboost",
+          "units": 6
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_032",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 3
+        },
+        {
+          "family": "ridge_a3000",
+          "units": 6
+        },
+        {
+          "family": "catboost",
+          "units": 3
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_033",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 3
+        },
+        {
+          "family": "ridge_a3000",
+          "units": 9
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_034",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 6
+        },
+        {
+          "family": "ridge_a3000",
+          "units": 3
+        },
+        {
+          "family": "catboost",
+          "units": 3
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_035",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 6
+        },
+        {
+          "family": "ridge_a3000",
+          "units": 6
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_036",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 9
+        },
+        {
+          "family": "ridge_a3000",
+          "units": 3
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_037",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 4
+        },
+        {
+          "family": "ridge_a3000",
+          "units": 4
+        },
+        {
+          "family": "catboost",
+          "units": 4
+        }
+      ],
+      "weight_total": 12
+    }
+  ],
+  "full_pool_primary": true,
+  "subset_secondary": true,
+  "fitted_weights": false,
+  "reference_gate": "Exact44 J TabICL/Ridge allfold/seed vectors and50/50 recipe must replay before interpretation",
+  "no_2019plus_scoring": true,
+  "no_automatic_promotion": true,
+  "reference_vectors_sha256": "c89c63b0359fd640fafd3c9af9bbda23bd1646fb7f032d84da0dcee303d74be6"
+}

@@ -1,0 +1,1485 @@
+{
+  "study": "R9L fixed-stack feature-family diagnostic",
+  "status": "Frozen preregistration awaiting CPU proof and root launch approval",
+  "seeds": [
+    0,
+    101,
+    202
+  ],
+  "outer_years": [
+    2012,
+    2013,
+    2014
+  ],
+  "policy_id": "h_s2008_gap1_all_h1",
+  "source_panel_manifest_sha256": "cd95bb4aac53de85b3099af44877ed98b4de22fb9067fc21b6f61f5bac5f2588",
+  "panels": [
+    {
+      "id": "base44",
+      "families_added": [],
+      "columns": [
+        "ctx_base_ast_pct",
+        "ctx_base_ast_pg",
+        "ctx_base_ast_tov",
+        "ctx_base_blk_pct",
+        "ctx_base_blk_pg",
+        "ctx_base_drb",
+        "ctx_base_dreb_pg",
+        "ctx_base_dunk_attempts",
+        "ctx_base_dunk_made",
+        "ctx_base_efg",
+        "ctx_base_fg2_pct",
+        "ctx_base_fg2a",
+        "ctx_base_fg2m",
+        "ctx_base_fg3_pct",
+        "ctx_base_fg3a",
+        "ctx_base_fg3m",
+        "ctx_base_fouls40",
+        "ctx_base_ft_pct",
+        "ctx_base_ftr",
+        "ctx_base_gp",
+        "ctx_base_mid_attempts",
+        "ctx_base_minutes_share",
+        "ctx_base_mpg",
+        "ctx_base_orb",
+        "ctx_base_oreb_pg",
+        "ctx_base_pts_pg",
+        "ctx_base_rim_attempts",
+        "ctx_base_rim_made",
+        "ctx_base_stl_pct",
+        "ctx_base_stl_pg",
+        "ctx_base_three_share",
+        "ctx_base_tov_pct",
+        "ctx_base_ts",
+        "ctx_base_usage",
+        "ctx_skill_creation_control",
+        "ctx_skill_defense_discipline",
+        "ctx_skill_ft_volume",
+        "ctx_skill_usage_efficiency",
+        "slot_037",
+        "slot_038",
+        "slot_039",
+        "slot_040",
+        "slot_041",
+        "slot_042"
+      ],
+      "width": 44
+    },
+    {
+      "id": "add_f50",
+      "families_added": [
+        "f50"
+      ],
+      "columns": [
+        "ctx_base_ast_pct",
+        "ctx_base_ast_pg",
+        "ctx_base_ast_tov",
+        "ctx_base_blk_pct",
+        "ctx_base_blk_pg",
+        "ctx_base_drb",
+        "ctx_base_dreb_pg",
+        "ctx_base_dunk_attempts",
+        "ctx_base_dunk_made",
+        "ctx_base_efg",
+        "ctx_base_fg2_pct",
+        "ctx_base_fg2a",
+        "ctx_base_fg2m",
+        "ctx_base_fg3_pct",
+        "ctx_base_fg3a",
+        "ctx_base_fg3m",
+        "ctx_base_fouls40",
+        "ctx_base_ft_pct",
+        "ctx_base_ftr",
+        "ctx_base_gp",
+        "ctx_base_mid_attempts",
+        "ctx_base_minutes_share",
+        "ctx_base_mpg",
+        "ctx_base_orb",
+        "ctx_base_oreb_pg",
+        "ctx_base_pts_pg",
+        "ctx_base_rim_attempts",
+        "ctx_base_rim_made",
+        "ctx_base_stl_pct",
+        "ctx_base_stl_pg",
+        "ctx_base_three_share",
+        "ctx_base_tov_pct",
+        "ctx_base_ts",
+        "ctx_base_usage",
+        "ctx_skill_creation_control",
+        "ctx_skill_defense_discipline",
+        "ctx_skill_ft_volume",
+        "ctx_skill_usage_efficiency",
+        "slot_037",
+        "slot_038",
+        "slot_039",
+        "slot_040",
+        "slot_041",
+        "slot_042",
+        "f50_assist_usage_efficiency",
+        "f50_balanced_stocks",
+        "f50_career_slope_ast_tov",
+        "f50_career_slope_drb",
+        "f50_career_slope_ftp",
+        "f50_career_slope_ftr",
+        "f50_career_slope_minutes",
+        "f50_career_slope_orb",
+        "f50_career_slope_three_p",
+        "f50_career_slope_ts",
+        "f50_career_slope_two_p",
+        "f50_foul_adjusted_rebounds",
+        "f50_minutes_concentration",
+        "f50_nondunk_rim_pct",
+        "f50_peer_creation_density",
+        "f50_peer_defense_density",
+        "f50_peer_rank_ast",
+        "f50_peer_rank_blk",
+        "f50_peer_rank_drb",
+        "f50_peer_rank_orb",
+        "f50_peer_rank_stl",
+        "f50_peer_rank_tov",
+        "f50_peer_rank_ts",
+        "f50_peer_rank_usage",
+        "f50_peer_rim_diet",
+        "f50_peer_sd_ast",
+        "f50_peer_sd_blk",
+        "f50_peer_sd_drb",
+        "f50_peer_sd_orb",
+        "f50_peer_sd_stl",
+        "f50_peer_sd_tov",
+        "f50_peer_sd_ts",
+        "f50_peer_sd_usage",
+        "f50_peer_three_diet",
+        "f50_perimeter_ft_agreement",
+        "f50_posterior_dunk",
+        "f50_posterior_ft",
+        "f50_posterior_mid",
+        "f50_posterior_three",
+        "f50_posterior_two",
+        "f50_rim_ft_pressure",
+        "f50_team_share_dunk_a",
+        "f50_team_share_fta",
+        "f50_team_share_ftm",
+        "f50_team_share_rim_a",
+        "f50_team_share_three_a",
+        "f50_team_share_three_m",
+        "f50_usage_concentration"
+      ],
+      "width": 92
+    },
+    {
+      "id": "add_combine",
+      "families_added": [
+        "combine"
+      ],
+      "columns": [
+        "ctx_base_ast_pct",
+        "ctx_base_ast_pg",
+        "ctx_base_ast_tov",
+        "ctx_base_blk_pct",
+        "ctx_base_blk_pg",
+        "ctx_base_drb",
+        "ctx_base_dreb_pg",
+        "ctx_base_dunk_attempts",
+        "ctx_base_dunk_made",
+        "ctx_base_efg",
+        "ctx_base_fg2_pct",
+        "ctx_base_fg2a",
+        "ctx_base_fg2m",
+        "ctx_base_fg3_pct",
+        "ctx_base_fg3a",
+        "ctx_base_fg3m",
+        "ctx_base_fouls40",
+        "ctx_base_ft_pct",
+        "ctx_base_ftr",
+        "ctx_base_gp",
+        "ctx_base_mid_attempts",
+        "ctx_base_minutes_share",
+        "ctx_base_mpg",
+        "ctx_base_orb",
+        "ctx_base_oreb_pg",
+        "ctx_base_pts_pg",
+        "ctx_base_rim_attempts",
+        "ctx_base_rim_made",
+        "ctx_base_stl_pct",
+        "ctx_base_stl_pg",
+        "ctx_base_three_share",
+        "ctx_base_tov_pct",
+        "ctx_base_ts",
+        "ctx_base_usage",
+        "ctx_skill_creation_control",
+        "ctx_skill_defense_discipline",
+        "ctx_skill_ft_volume",
+        "ctx_skill_usage_efficiency",
+        "slot_037",
+        "slot_038",
+        "slot_039",
+        "slot_040",
+        "slot_041",
+        "slot_042",
+        "vcmb_bench_press_reps",
+        "vcmb_bmi_kg_m2",
+        "vcmb_body_fat_pct",
+        "vcmb_hand_length_in",
+        "vcmb_hand_width_in",
+        "vcmb_height_with_shoes_in",
+        "vcmb_height_without_shoes_in",
+        "vcmb_lane_agility_s",
+        "vcmb_max_vertical_in",
+        "vcmb_modified_lane_agility_s",
+        "vcmb_off_dribble_15ft_attempted",
+        "vcmb_off_dribble_15ft_made",
+        "vcmb_off_dribble_15ft_pct",
+        "vcmb_off_dribble_college3_attempted",
+        "vcmb_off_dribble_college3_made",
+        "vcmb_off_dribble_college3_pct",
+        "vcmb_on_move_15ft_attempted",
+        "vcmb_on_move_15ft_made",
+        "vcmb_on_move_15ft_pct",
+        "vcmb_on_move_college3_attempted",
+        "vcmb_on_move_college3_made",
+        "vcmb_on_move_college3_pct",
+        "vcmb_spot_15ft_attempted",
+        "vcmb_spot_15ft_made",
+        "vcmb_spot_15ft_pct",
+        "vcmb_spot_college3_attempted",
+        "vcmb_spot_college3_made",
+        "vcmb_spot_college3_pct",
+        "vcmb_spot_nba3_attempted",
+        "vcmb_spot_nba3_made",
+        "vcmb_spot_nba3_pct",
+        "vcmb_standing_reach_in",
+        "vcmb_standing_vertical_in",
+        "vcmb_three_quarter_sprint_s",
+        "vcmb_weight_lb",
+        "vcmb_wingspan_in",
+        "vcmb_wingspan_minus_height_in"
+      ],
+      "width": 81
+    },
+    {
+      "id": "add_bio",
+      "families_added": [
+        "bio"
+      ],
+      "columns": [
+        "ctx_base_ast_pct",
+        "ctx_base_ast_pg",
+        "ctx_base_ast_tov",
+        "ctx_base_blk_pct",
+        "ctx_base_blk_pg",
+        "ctx_base_drb",
+        "ctx_base_dreb_pg",
+        "ctx_base_dunk_attempts",
+        "ctx_base_dunk_made",
+        "ctx_base_efg",
+        "ctx_base_fg2_pct",
+        "ctx_base_fg2a",
+        "ctx_base_fg2m",
+        "ctx_base_fg3_pct",
+        "ctx_base_fg3a",
+        "ctx_base_fg3m",
+        "ctx_base_fouls40",
+        "ctx_base_ft_pct",
+        "ctx_base_ftr",
+        "ctx_base_gp",
+        "ctx_base_mid_attempts",
+        "ctx_base_minutes_share",
+        "ctx_base_mpg",
+        "ctx_base_orb",
+        "ctx_base_oreb_pg",
+        "ctx_base_pts_pg",
+        "ctx_base_rim_attempts",
+        "ctx_base_rim_made",
+        "ctx_base_stl_pct",
+        "ctx_base_stl_pg",
+        "ctx_base_three_share",
+        "ctx_base_tov_pct",
+        "ctx_base_ts",
+        "ctx_base_usage",
+        "ctx_skill_creation_control",
+        "ctx_skill_defense_discipline",
+        "ctx_skill_ft_volume",
+        "ctx_skill_usage_efficiency",
+        "slot_037",
+        "slot_038",
+        "slot_039",
+        "slot_040",
+        "slot_041",
+        "slot_042",
+        "vmb_age_reported_years",
+        "vmb_college_class_year",
+        "vmb_listed_bmi",
+        "vmb_listed_height_in",
+        "vmb_listed_weight_lb",
+        "vmb_position_c",
+        "vmb_position_pf",
+        "vmb_position_pg",
+        "vmb_position_sf",
+        "vmb_position_sg"
+      ],
+      "width": 54
+    },
+    {
+      "id": "add_game",
+      "families_added": [
+        "game"
+      ],
+      "columns": [
+        "ctx_base_ast_pct",
+        "ctx_base_ast_pg",
+        "ctx_base_ast_tov",
+        "ctx_base_blk_pct",
+        "ctx_base_blk_pg",
+        "ctx_base_drb",
+        "ctx_base_dreb_pg",
+        "ctx_base_dunk_attempts",
+        "ctx_base_dunk_made",
+        "ctx_base_efg",
+        "ctx_base_fg2_pct",
+        "ctx_base_fg2a",
+        "ctx_base_fg2m",
+        "ctx_base_fg3_pct",
+        "ctx_base_fg3a",
+        "ctx_base_fg3m",
+        "ctx_base_fouls40",
+        "ctx_base_ft_pct",
+        "ctx_base_ftr",
+        "ctx_base_gp",
+        "ctx_base_mid_attempts",
+        "ctx_base_minutes_share",
+        "ctx_base_mpg",
+        "ctx_base_orb",
+        "ctx_base_oreb_pg",
+        "ctx_base_pts_pg",
+        "ctx_base_rim_attempts",
+        "ctx_base_rim_made",
+        "ctx_base_stl_pct",
+        "ctx_base_stl_pg",
+        "ctx_base_three_share",
+        "ctx_base_tov_pct",
+        "ctx_base_ts",
+        "ctx_base_usage",
+        "ctx_skill_creation_control",
+        "ctx_skill_defense_discipline",
+        "ctx_skill_ft_volume",
+        "ctx_skill_usage_efficiency",
+        "slot_037",
+        "slot_038",
+        "slot_039",
+        "slot_040",
+        "slot_041",
+        "slot_042",
+        "cgd_ast_pg",
+        "cgd_blk_pg",
+        "cgd_drb_pg",
+        "cgd_ft_a_pg",
+        "cgd_ft_m_pg",
+        "cgd_observed_gp",
+        "cgd_orb_pg",
+        "cgd_pf_pg",
+        "cgd_points_pg",
+        "cgd_stl_pg",
+        "cgd_three_a_pg",
+        "cgd_three_m_pg",
+        "cgd_tov_pg",
+        "cgd_two_a_pg",
+        "cgd_two_m_pg"
+      ],
+      "width": 59
+    },
+    {
+      "id": "add_team",
+      "families_added": [
+        "team"
+      ],
+      "columns": [
+        "ctx_base_ast_pct",
+        "ctx_base_ast_pg",
+        "ctx_base_ast_tov",
+        "ctx_base_blk_pct",
+        "ctx_base_blk_pg",
+        "ctx_base_drb",
+        "ctx_base_dreb_pg",
+        "ctx_base_dunk_attempts",
+        "ctx_base_dunk_made",
+        "ctx_base_efg",
+        "ctx_base_fg2_pct",
+        "ctx_base_fg2a",
+        "ctx_base_fg2m",
+        "ctx_base_fg3_pct",
+        "ctx_base_fg3a",
+        "ctx_base_fg3m",
+        "ctx_base_fouls40",
+        "ctx_base_ft_pct",
+        "ctx_base_ftr",
+        "ctx_base_gp",
+        "ctx_base_mid_attempts",
+        "ctx_base_minutes_share",
+        "ctx_base_mpg",
+        "ctx_base_orb",
+        "ctx_base_oreb_pg",
+        "ctx_base_pts_pg",
+        "ctx_base_rim_attempts",
+        "ctx_base_rim_made",
+        "ctx_base_stl_pct",
+        "ctx_base_stl_pg",
+        "ctx_base_three_share",
+        "ctx_base_tov_pct",
+        "ctx_base_ts",
+        "ctx_base_usage",
+        "ctx_skill_creation_control",
+        "ctx_skill_defense_discipline",
+        "ctx_skill_ft_volume",
+        "ctx_skill_usage_efficiency",
+        "slot_037",
+        "slot_038",
+        "slot_039",
+        "slot_040",
+        "slot_041",
+        "slot_042",
+        "tctx_assists_per_made_fg",
+        "tctx_blocks_per_opponent_fga",
+        "tctx_defensive_rebound_share",
+        "tctx_efg",
+        "tctx_efg_margin",
+        "tctx_ft_attempts_per_fga",
+        "tctx_margin_pg",
+        "tctx_offensive_rebound_share",
+        "tctx_opponent_assists_per_made_fg",
+        "tctx_opponent_efg",
+        "tctx_opponent_ft_attempts_per_fga",
+        "tctx_opponent_points_pg",
+        "tctx_opponent_shot_attempts_pg",
+        "tctx_opponent_three_attempt_share",
+        "tctx_opponent_turnovers_per_fga",
+        "tctx_points_pg",
+        "tctx_shot_attempts_pg",
+        "tctx_steals_per_opponent_turnover",
+        "tctx_three_attempt_share",
+        "tctx_turnovers_per_fga"
+      ],
+      "width": 64
+    },
+    {
+      "id": "add_combine_bio",
+      "families_added": [
+        "combine",
+        "bio"
+      ],
+      "columns": [
+        "ctx_base_ast_pct",
+        "ctx_base_ast_pg",
+        "ctx_base_ast_tov",
+        "ctx_base_blk_pct",
+        "ctx_base_blk_pg",
+        "ctx_base_drb",
+        "ctx_base_dreb_pg",
+        "ctx_base_dunk_attempts",
+        "ctx_base_dunk_made",
+        "ctx_base_efg",
+        "ctx_base_fg2_pct",
+        "ctx_base_fg2a",
+        "ctx_base_fg2m",
+        "ctx_base_fg3_pct",
+        "ctx_base_fg3a",
+        "ctx_base_fg3m",
+        "ctx_base_fouls40",
+        "ctx_base_ft_pct",
+        "ctx_base_ftr",
+        "ctx_base_gp",
+        "ctx_base_mid_attempts",
+        "ctx_base_minutes_share",
+        "ctx_base_mpg",
+        "ctx_base_orb",
+        "ctx_base_oreb_pg",
+        "ctx_base_pts_pg",
+        "ctx_base_rim_attempts",
+        "ctx_base_rim_made",
+        "ctx_base_stl_pct",
+        "ctx_base_stl_pg",
+        "ctx_base_three_share",
+        "ctx_base_tov_pct",
+        "ctx_base_ts",
+        "ctx_base_usage",
+        "ctx_skill_creation_control",
+        "ctx_skill_defense_discipline",
+        "ctx_skill_ft_volume",
+        "ctx_skill_usage_efficiency",
+        "slot_037",
+        "slot_038",
+        "slot_039",
+        "slot_040",
+        "slot_041",
+        "slot_042",
+        "vcmb_bench_press_reps",
+        "vcmb_bmi_kg_m2",
+        "vcmb_body_fat_pct",
+        "vcmb_hand_length_in",
+        "vcmb_hand_width_in",
+        "vcmb_height_with_shoes_in",
+        "vcmb_height_without_shoes_in",
+        "vcmb_lane_agility_s",
+        "vcmb_max_vertical_in",
+        "vcmb_modified_lane_agility_s",
+        "vcmb_off_dribble_15ft_attempted",
+        "vcmb_off_dribble_15ft_made",
+        "vcmb_off_dribble_15ft_pct",
+        "vcmb_off_dribble_college3_attempted",
+        "vcmb_off_dribble_college3_made",
+        "vcmb_off_dribble_college3_pct",
+        "vcmb_on_move_15ft_attempted",
+        "vcmb_on_move_15ft_made",
+        "vcmb_on_move_15ft_pct",
+        "vcmb_on_move_college3_attempted",
+        "vcmb_on_move_college3_made",
+        "vcmb_on_move_college3_pct",
+        "vcmb_spot_15ft_attempted",
+        "vcmb_spot_15ft_made",
+        "vcmb_spot_15ft_pct",
+        "vcmb_spot_college3_attempted",
+        "vcmb_spot_college3_made",
+        "vcmb_spot_college3_pct",
+        "vcmb_spot_nba3_attempted",
+        "vcmb_spot_nba3_made",
+        "vcmb_spot_nba3_pct",
+        "vcmb_standing_reach_in",
+        "vcmb_standing_vertical_in",
+        "vcmb_three_quarter_sprint_s",
+        "vcmb_weight_lb",
+        "vcmb_wingspan_in",
+        "vcmb_wingspan_minus_height_in",
+        "vmb_age_reported_years",
+        "vmb_college_class_year",
+        "vmb_listed_bmi",
+        "vmb_listed_height_in",
+        "vmb_listed_weight_lb",
+        "vmb_position_c",
+        "vmb_position_pf",
+        "vmb_position_pg",
+        "vmb_position_sf",
+        "vmb_position_sg"
+      ],
+      "width": 91
+    },
+    {
+      "id": "all174",
+      "families_added": [
+        "f50",
+        "combine",
+        "bio",
+        "game",
+        "team"
+      ],
+      "columns": [
+        "ctx_base_ast_pct",
+        "ctx_base_ast_pg",
+        "ctx_base_ast_tov",
+        "ctx_base_blk_pct",
+        "ctx_base_blk_pg",
+        "ctx_base_drb",
+        "ctx_base_dreb_pg",
+        "ctx_base_dunk_attempts",
+        "ctx_base_dunk_made",
+        "ctx_base_efg",
+        "ctx_base_fg2_pct",
+        "ctx_base_fg2a",
+        "ctx_base_fg2m",
+        "ctx_base_fg3_pct",
+        "ctx_base_fg3a",
+        "ctx_base_fg3m",
+        "ctx_base_fouls40",
+        "ctx_base_ft_pct",
+        "ctx_base_ftr",
+        "ctx_base_gp",
+        "ctx_base_mid_attempts",
+        "ctx_base_minutes_share",
+        "ctx_base_mpg",
+        "ctx_base_orb",
+        "ctx_base_oreb_pg",
+        "ctx_base_pts_pg",
+        "ctx_base_rim_attempts",
+        "ctx_base_rim_made",
+        "ctx_base_stl_pct",
+        "ctx_base_stl_pg",
+        "ctx_base_three_share",
+        "ctx_base_tov_pct",
+        "ctx_base_ts",
+        "ctx_base_usage",
+        "ctx_skill_creation_control",
+        "ctx_skill_defense_discipline",
+        "ctx_skill_ft_volume",
+        "ctx_skill_usage_efficiency",
+        "slot_037",
+        "slot_038",
+        "slot_039",
+        "slot_040",
+        "slot_041",
+        "slot_042",
+        "cgd_ast_pg",
+        "cgd_blk_pg",
+        "cgd_drb_pg",
+        "cgd_ft_a_pg",
+        "cgd_ft_m_pg",
+        "cgd_observed_gp",
+        "cgd_orb_pg",
+        "cgd_pf_pg",
+        "cgd_points_pg",
+        "cgd_stl_pg",
+        "cgd_three_a_pg",
+        "cgd_three_m_pg",
+        "cgd_tov_pg",
+        "cgd_two_a_pg",
+        "cgd_two_m_pg",
+        "f50_assist_usage_efficiency",
+        "f50_balanced_stocks",
+        "f50_career_slope_ast_tov",
+        "f50_career_slope_drb",
+        "f50_career_slope_ftp",
+        "f50_career_slope_ftr",
+        "f50_career_slope_minutes",
+        "f50_career_slope_orb",
+        "f50_career_slope_three_p",
+        "f50_career_slope_ts",
+        "f50_career_slope_two_p",
+        "f50_foul_adjusted_rebounds",
+        "f50_minutes_concentration",
+        "f50_nondunk_rim_pct",
+        "f50_peer_creation_density",
+        "f50_peer_defense_density",
+        "f50_peer_rank_ast",
+        "f50_peer_rank_blk",
+        "f50_peer_rank_drb",
+        "f50_peer_rank_orb",
+        "f50_peer_rank_stl",
+        "f50_peer_rank_tov",
+        "f50_peer_rank_ts",
+        "f50_peer_rank_usage",
+        "f50_peer_rim_diet",
+        "f50_peer_sd_ast",
+        "f50_peer_sd_blk",
+        "f50_peer_sd_drb",
+        "f50_peer_sd_orb",
+        "f50_peer_sd_stl",
+        "f50_peer_sd_tov",
+        "f50_peer_sd_ts",
+        "f50_peer_sd_usage",
+        "f50_peer_three_diet",
+        "f50_perimeter_ft_agreement",
+        "f50_posterior_dunk",
+        "f50_posterior_ft",
+        "f50_posterior_mid",
+        "f50_posterior_three",
+        "f50_posterior_two",
+        "f50_rim_ft_pressure",
+        "f50_team_share_dunk_a",
+        "f50_team_share_fta",
+        "f50_team_share_ftm",
+        "f50_team_share_rim_a",
+        "f50_team_share_three_a",
+        "f50_team_share_three_m",
+        "f50_usage_concentration",
+        "tctx_assists_per_made_fg",
+        "tctx_blocks_per_opponent_fga",
+        "tctx_defensive_rebound_share",
+        "tctx_efg",
+        "tctx_efg_margin",
+        "tctx_ft_attempts_per_fga",
+        "tctx_margin_pg",
+        "tctx_offensive_rebound_share",
+        "tctx_opponent_assists_per_made_fg",
+        "tctx_opponent_efg",
+        "tctx_opponent_ft_attempts_per_fga",
+        "tctx_opponent_points_pg",
+        "tctx_opponent_shot_attempts_pg",
+        "tctx_opponent_three_attempt_share",
+        "tctx_opponent_turnovers_per_fga",
+        "tctx_points_pg",
+        "tctx_shot_attempts_pg",
+        "tctx_steals_per_opponent_turnover",
+        "tctx_three_attempt_share",
+        "tctx_turnovers_per_fga",
+        "vcmb_bench_press_reps",
+        "vcmb_bmi_kg_m2",
+        "vcmb_body_fat_pct",
+        "vcmb_hand_length_in",
+        "vcmb_hand_width_in",
+        "vcmb_height_with_shoes_in",
+        "vcmb_height_without_shoes_in",
+        "vcmb_lane_agility_s",
+        "vcmb_max_vertical_in",
+        "vcmb_modified_lane_agility_s",
+        "vcmb_off_dribble_15ft_attempted",
+        "vcmb_off_dribble_15ft_made",
+        "vcmb_off_dribble_15ft_pct",
+        "vcmb_off_dribble_college3_attempted",
+        "vcmb_off_dribble_college3_made",
+        "vcmb_off_dribble_college3_pct",
+        "vcmb_on_move_15ft_attempted",
+        "vcmb_on_move_15ft_made",
+        "vcmb_on_move_15ft_pct",
+        "vcmb_on_move_college3_attempted",
+        "vcmb_on_move_college3_made",
+        "vcmb_on_move_college3_pct",
+        "vcmb_spot_15ft_attempted",
+        "vcmb_spot_15ft_made",
+        "vcmb_spot_15ft_pct",
+        "vcmb_spot_college3_attempted",
+        "vcmb_spot_college3_made",
+        "vcmb_spot_college3_pct",
+        "vcmb_spot_nba3_attempted",
+        "vcmb_spot_nba3_made",
+        "vcmb_spot_nba3_pct",
+        "vcmb_standing_reach_in",
+        "vcmb_standing_vertical_in",
+        "vcmb_three_quarter_sprint_s",
+        "vcmb_weight_lb",
+        "vcmb_wingspan_in",
+        "vcmb_wingspan_minus_height_in",
+        "vmb_age_reported_years",
+        "vmb_college_class_year",
+        "vmb_listed_bmi",
+        "vmb_listed_height_in",
+        "vmb_listed_weight_lb",
+        "vmb_position_c",
+        "vmb_position_pf",
+        "vmb_position_pg",
+        "vmb_position_sf",
+        "vmb_position_sg"
+      ],
+      "width": 174
+    }
+  ],
+  "original_H44_columns": [
+    "ctx_base_ast_pct",
+    "ctx_base_ast_pg",
+    "ctx_base_ast_tov",
+    "ctx_base_blk_pct",
+    "ctx_base_blk_pg",
+    "ctx_base_drb",
+    "ctx_base_dreb_pg",
+    "ctx_base_dunk_attempts",
+    "ctx_base_dunk_made",
+    "ctx_base_efg",
+    "ctx_base_fg2_pct",
+    "ctx_base_fg2a",
+    "ctx_base_fg2m",
+    "ctx_base_fg3_pct",
+    "ctx_base_fg3a",
+    "ctx_base_fg3m",
+    "ctx_base_fouls40",
+    "ctx_base_ft_pct",
+    "ctx_base_ftr",
+    "ctx_base_gp",
+    "ctx_base_mid_attempts",
+    "ctx_base_minutes_share",
+    "ctx_base_mpg",
+    "ctx_base_orb",
+    "ctx_base_oreb_pg",
+    "ctx_base_pts_pg",
+    "ctx_base_rim_attempts",
+    "ctx_base_rim_made",
+    "ctx_base_stl_pct",
+    "ctx_base_stl_pg",
+    "ctx_base_three_share",
+    "ctx_base_tov_pct",
+    "ctx_base_ts",
+    "ctx_base_usage",
+    "ctx_skill_creation_control",
+    "ctx_skill_defense_discipline",
+    "ctx_skill_ft_volume",
+    "ctx_skill_usage_efficiency",
+    "slot_037",
+    "slot_038",
+    "slot_039",
+    "slot_040",
+    "slot_041",
+    "slot_042"
+  ],
+  "tabicl": {
+    "device": "cuda",
+    "n_estimators": 32,
+    "batch_size": 32,
+    "norm_methods": "none",
+    "outlier_threshold": 2.0
+  },
+  "ridge": {
+    "imputer": {
+      "strategy": "median",
+      "add_indicator": true,
+      "keep_empty_features": true
+    },
+    "scaler": {
+      "with_mean": true,
+      "with_std": true
+    },
+    "alphas": [
+      30,
+      300,
+      3000
+    ],
+    "solver": "svd"
+  },
+  "catboost": {
+    "parameters": {
+      "iterations": 600,
+      "task_type": "GPU",
+      "devices": "0",
+      "thread_count": 2,
+      "gpu_ram_part": 0.18,
+      "random_strength": 1,
+      "allow_writing_files": false,
+      "bootstrap_type": "Bayesian",
+      "boosting_type": "Plain",
+      "use_best_model": false,
+      "verbose": false,
+      "loss_function": "MAE",
+      "depth": 3,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    "checkpoint": 600,
+    "selection": "Verified I strongest standalone same h1 policy by full-pool mean of all3seeds/all3folds; chosen by parent before R9L fits. New shorter600-tree fit, not an exact replay of I1200-tree fit checkpoint600.",
+    "I_setting_id": "cb_mae_d3_lr0p1_l2100",
+    "I_plan_sha256": "8fbe7be1b057b2a7ba44c02d2922a410e91cc6b88c1d1938d56b47577d11a09e",
+    "I_frozen_sha256": "2939c20ea7e1decb0e418e87a30a7d2c60295bd063b6c2fac9ca52a2fd33f3a9",
+    "I_independent_verification_sha256": "b940c80af2c888ff15c235c9fc4954c12898a19e6ae60155bd4cb3bfeffc0b7b"
+  },
+  "architectures": [
+    {
+      "id": "stack_000",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "catboost",
+          "units": 12
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_001",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "ridge_a30",
+          "units": 3
+        },
+        {
+          "family": "catboost",
+          "units": 9
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_002",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "ridge_a30",
+          "units": 6
+        },
+        {
+          "family": "catboost",
+          "units": 6
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_003",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "ridge_a30",
+          "units": 9
+        },
+        {
+          "family": "catboost",
+          "units": 3
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_004",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "ridge_a30",
+          "units": 12
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_005",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 3
+        },
+        {
+          "family": "catboost",
+          "units": 9
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_006",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 3
+        },
+        {
+          "family": "ridge_a30",
+          "units": 3
+        },
+        {
+          "family": "catboost",
+          "units": 6
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_007",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 3
+        },
+        {
+          "family": "ridge_a30",
+          "units": 6
+        },
+        {
+          "family": "catboost",
+          "units": 3
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_008",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 3
+        },
+        {
+          "family": "ridge_a30",
+          "units": 9
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_009",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 6
+        },
+        {
+          "family": "catboost",
+          "units": 6
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_010",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 6
+        },
+        {
+          "family": "ridge_a30",
+          "units": 3
+        },
+        {
+          "family": "catboost",
+          "units": 3
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_011",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 6
+        },
+        {
+          "family": "ridge_a30",
+          "units": 6
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_012",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 9
+        },
+        {
+          "family": "catboost",
+          "units": 3
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_013",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 9
+        },
+        {
+          "family": "ridge_a30",
+          "units": 3
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_014",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 12
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_015",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 4
+        },
+        {
+          "family": "ridge_a30",
+          "units": 4
+        },
+        {
+          "family": "catboost",
+          "units": 4
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_016",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "ridge_a300",
+          "units": 3
+        },
+        {
+          "family": "catboost",
+          "units": 9
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_017",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "ridge_a300",
+          "units": 6
+        },
+        {
+          "family": "catboost",
+          "units": 6
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_018",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "ridge_a300",
+          "units": 9
+        },
+        {
+          "family": "catboost",
+          "units": 3
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_019",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "ridge_a300",
+          "units": 12
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_020",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 3
+        },
+        {
+          "family": "ridge_a300",
+          "units": 3
+        },
+        {
+          "family": "catboost",
+          "units": 6
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_021",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 3
+        },
+        {
+          "family": "ridge_a300",
+          "units": 6
+        },
+        {
+          "family": "catboost",
+          "units": 3
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_022",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 3
+        },
+        {
+          "family": "ridge_a300",
+          "units": 9
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_023",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 6
+        },
+        {
+          "family": "ridge_a300",
+          "units": 3
+        },
+        {
+          "family": "catboost",
+          "units": 3
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_024",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 6
+        },
+        {
+          "family": "ridge_a300",
+          "units": 6
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_025",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 9
+        },
+        {
+          "family": "ridge_a300",
+          "units": 3
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_026",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 4
+        },
+        {
+          "family": "ridge_a300",
+          "units": 4
+        },
+        {
+          "family": "catboost",
+          "units": 4
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_027",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "ridge_a3000",
+          "units": 3
+        },
+        {
+          "family": "catboost",
+          "units": 9
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_028",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "ridge_a3000",
+          "units": 6
+        },
+        {
+          "family": "catboost",
+          "units": 6
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_029",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "ridge_a3000",
+          "units": 9
+        },
+        {
+          "family": "catboost",
+          "units": 3
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_030",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "ridge_a3000",
+          "units": 12
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_031",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 3
+        },
+        {
+          "family": "ridge_a3000",
+          "units": 3
+        },
+        {
+          "family": "catboost",
+          "units": 6
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_032",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 3
+        },
+        {
+          "family": "ridge_a3000",
+          "units": 6
+        },
+        {
+          "family": "catboost",
+          "units": 3
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_033",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 3
+        },
+        {
+          "family": "ridge_a3000",
+          "units": 9
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_034",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 6
+        },
+        {
+          "family": "ridge_a3000",
+          "units": 3
+        },
+        {
+          "family": "catboost",
+          "units": 3
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_035",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 6
+        },
+        {
+          "family": "ridge_a3000",
+          "units": 6
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_036",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 9
+        },
+        {
+          "family": "ridge_a3000",
+          "units": 3
+        }
+      ],
+      "weight_total": 12
+    },
+    {
+      "id": "stack_037",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 4
+        },
+        {
+          "family": "ridge_a3000",
+          "units": 4
+        },
+        {
+          "family": "catboost",
+          "units": 4
+        }
+      ],
+      "weight_total": 12
+    }
+  ],
+  "architecture_contract": {
+    "learned_weights": false,
+    "same_seed_modes": [
+      0,
+      101,
+      202
+    ],
+    "fixed_three_seed_mode": "Equally average each stochastic family average-tied percentile ranks across all3 seeds, rerank family-average vectors, then apply same fixed recipe; deterministic Ridge shared.",
+    "rank_arithmetic": "doubled integer average ranks times integer weights summing12, divided by24*nquery; never re-average final already-tied scores",
+    "standalone_endpoints_separate_from_actual_ensembles": true
+  },
+  "labels": {
+    "source": "Exact frozen H s2008_gap1_all_h1 arrays; observed ordinal1, every season_end<=outer_year-1, earlier cohorts, no unknown-to-zero",
+    "transform": "Frozen clipped40 cohort Gaussian target; CPU replay only, no selector/reordering",
+    "query_population": "Original H query PID set/order, all rows retained; scorer alone handles full and complete-target mask"
+  },
+  "computation": {
+    "tasks": 24,
+    "fits_per_task": 9,
+    "total_fits": 216,
+    "Ridge_fits_per_task": 3,
+    "TabICL_fits_per_task": 3,
+    "CatBoost_fits_per_task": 3,
+    "feature_selector_fits": 0
+  },
+  "reference_gate": {
+    "exact_44_raw_and_canonical_TabICL": "H s2008_gap1_all_h1_B_tabicl32, all3folds/all3seeds",
+    "exact_44_Ridge_and_50_50_J_architecture": "parent scorer/reference bundle; source outputs alone never mounted in model worker",
+    "required_before_interpretation": true
+  },
+  "selection": "Development full-query mean over all3folds/all3seeds; report all folds/seed means versus same-recipe44 reference, and fixed3seed mode separately; observed-mask secondary; no significance, goal or unbiased-generalization claim",
+  "limitations": [
+    "Retrospective feature vintage, incomplete original population, source identity/coverage caveats remain. Scoped diagnostic admission only.",
+    "Changing family width changes model preprocessing/ensemble permutations; real-family versus44 difference is not a matched-shuffle information test.",
+    "No2019+ inputs, outcomes or scores; no learned weights or outer-query truth in worker."
+  ]
+}

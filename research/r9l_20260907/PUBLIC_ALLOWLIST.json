@@ -1,0 +1,85 @@
+{
+  "policy": "Only listed code, registration, aggregate CPU/launch proofs and dashboard. Shared input-only source panels are already published under research/r9k_20260907/panels. No input/scoring NPZs, private label facts or identity crosswalks. Fixed weights, not OOF meta learning.",
+  "files": {
+    "README.md": {
+      "sha256": "0cddb8a2a5e27e56620c513913dcea44e80bf64606bf508238148de01e2ea740",
+      "bytes": 2406
+    },
+    "plan.json": {
+      "sha256": "d4fdbe421a6069ed158c5de84ad85c1534c2901dabd3c1ef40e2ecb08bb53d99",
+      "bytes": 20491
+    },
+    "frozen.json": {
+      "sha256": "db5f0f5bccf62f923cd84fbc7e7cba42055f2236bec9bb9c5865b350af260af0",
+      "bytes": 9858
+    },
+    "launch_authorization.json": {
+      "sha256": "bfded1147efbd099e2fa71d026cb25d5efd1abb7378c4cccd86cefac6cbee24e",
+      "bytes": 625
+    },
+    "build_inputs.py": {
+      "sha256": "9c5077521a588fbc30f4a2fdd54d607724b85a27e840d697c74217d863545545",
+      "bytes": 6927
+    },
+    "research.py": {
+      "sha256": "52cb11f2b803f586f200648c0e99fe74df056a590c88100044ce50542a90a859",
+      "bytes": 8374
+    },
+    "postprocess.py": {
+      "sha256": "5f0cef94769693d1804d77ea25ff4b6daed577b19ecebcfad384a01e4ac9acd1",
+      "bytes": 5026
+    },
+    "run_task_sandbox.sh": {
+      "sha256": "a907ee503aa5ae689dbb42d328abe1f3e5d5a92a1f8c606baae75ea99dc9a451",
+      "bytes": 1781
+    },
+    "cpu_preflight.py": {
+      "sha256": "ed11ec03f7b9cba32d34248a70a6425b9c0ae2c39be102de675848f52cbecca8",
+      "bytes": 3204
+    },
+    "cpu_fixture_proof.json": {
+      "sha256": "1d918b96fe9333bfbb2cefdb3f087ea8f8c5e12849d8f9c8bd1712461db5c4de",
+      "bytes": 936
+    },
+    "results/cpu_preflight.json": {
+      "sha256": "19bee7e0b7a441754330a4ac3e9d71b63724883b741aa6ccc753cad6baa2d636",
+      "bytes": 13019
+    },
+    "code/worker.py": {
+      "sha256": "92abd8b71bc3c31703718bd1e1769d31a5784a42885b88550a14df2b89f5af9e",
+      "bytes": 7318
+    },
+    "code/model_backend.py": {
+      "sha256": "39ca4e150ed0a518177e0a24b25a45379ea404f70fe792fb8954f7b08b2f0d06",
+      "bytes": 4963
+    },
+    "code/stack_core.py": {
+      "sha256": "a862e230d4912164d8d0d173561e6d3b05686558ce1338fa06c3fa2051b43892",
+      "bytes": 5336
+    },
+    "code/protocol.json": {
+      "sha256": "b5a08f448582931158da52dbf37136e47d5b555f9596866210013b4a5aa2a282",
+      "bytes": 36736
+    },
+    "code/runtime_support.json": {
+      "sha256": "e3c7662c056e1a1688c234f49d1aa53e5394f3c9bcaaf4c7687dacdfc8c7d119",
+      "bytes": 21978
+    },
+    "code/test_worker.py": {
+      "sha256": "06f7661bd132900182aaa3f3e974729da87cf976971b34736c5e71667f783999",
+      "bytes": 5656
+    },
+    "dashboard/dash.py": {
+      "sha256": "50d641f8157f9e401a3a5b6871d9b28fd370d14db361f0da7c1407860693799d",
+      "bytes": 13846
+    },
+    "dashboard/stack_r8.html": {
+      "sha256": "3f59ea35c8600a8f843dc8db41c87eaf3b949a41c31bb2d3e077f0b9bcf19789",
+      "bytes": 20119
+    },
+    "results/launch_verification.json": {
+      "sha256": "d51401df656dab1341758c87ac890d7e9d8dc288692f2b3e40a905d50599b22b",
+      "bytes": 524
+    }
+  }
+}

@@ -1,0 +1,501 @@
+{
+  "passed": true,
+  "models_fitted": 0,
+  "tasks_checked": 24,
+  "tasks": [
+    {
+      "task_id": "base44_y2012",
+      "sha256": "4e9d9d6c3e8c20f1f51622b43708820c9bfdd5383ca6e29b951443c91d164aae",
+      "training_rows": 176,
+      "query_rows": 55,
+      "namespace_proof": {
+        "input_files": [
+          "inference.npz",
+          "manifest.json",
+          "training.npz"
+        ],
+        "inaccessible_paths": [
+          "/scoring",
+          "/reference",
+          "/h_reference",
+          "/home/ubuntu/nba/handoff"
+        ],
+        "passed": true
+      }
+    },
+    {
+      "task_id": "add_f50_y2012",
+      "sha256": "7bb74d6399034b4d1c04e85c4289f15b60717c0be4e157e3e4345d5abed92ebc",
+      "training_rows": 176,
+      "query_rows": 55,
+      "namespace_proof": {
+        "input_files": [
+          "inference.npz",
+          "manifest.json",
+          "training.npz"
+        ],
+        "inaccessible_paths": [
+          "/scoring",
+          "/reference",
+          "/h_reference",
+          "/home/ubuntu/nba/handoff"
+        ],
+        "passed": true
+      }
+    },
+    {
+      "task_id": "add_combine_y2012",
+      "sha256": "c98a893a2872eaf25846714c3292deb0e4edc25df87e5521e6945f98b620009a",
+      "training_rows": 176,
+      "query_rows": 55,
+      "namespace_proof": {
+        "input_files": [
+          "inference.npz",
+          "manifest.json",
+          "training.npz"
+        ],
+        "inaccessible_paths": [
+          "/scoring",
+          "/reference",
+          "/h_reference",
+          "/home/ubuntu/nba/handoff"
+        ],
+        "passed": true
+      }
+    },
+    {
+      "task_id": "add_bio_y2012",
+      "sha256": "1da3d3c3c4ee009436068f21bd14a4616e31e728414fd12bc8bb88f723f3a9d0",
+      "training_rows": 176,
+      "query_rows": 55,
+      "namespace_proof": {
+        "input_files": [
+          "inference.npz",
+          "manifest.json",
+          "training.npz"
+        ],
+        "inaccessible_paths": [
+          "/scoring",
+          "/reference",
+          "/h_reference",
+          "/home/ubuntu/nba/handoff"
+        ],
+        "passed": true
+      }
+    },
+    {
+      "task_id": "add_game_y2012",
+      "sha256": "2e6e099a47808cb8020db0672dcdca36b427d6aa52eb05a3fbf8ceb0b2286b2d",
+      "training_rows": 176,
+      "query_rows": 55,
+      "namespace_proof": {
+        "input_files": [
+          "inference.npz",
+          "manifest.json",
+          "training.npz"
+        ],
+        "inaccessible_paths": [
+          "/scoring",
+          "/reference",
+          "/h_reference",
+          "/home/ubuntu/nba/handoff"
+        ],
+        "passed": true
+      }
+    },
+    {
+      "task_id": "add_team_y2012",
+      "sha256": "7711f7bb43a62c211b3afe8cf5b75443a9a56e26f8185c80534569becef180dd",
+      "training_rows": 176,
+      "query_rows": 55,
+      "namespace_proof": {
+        "input_files": [
+          "inference.npz",
+          "manifest.json",
+          "training.npz"
+        ],
+        "inaccessible_paths": [
+          "/scoring",
+          "/reference",
+          "/h_reference",
+          "/home/ubuntu/nba/handoff"
+        ],
+        "passed": true
+      }
+    },
+    {
+      "task_id": "add_combine_bio_y2012",
+      "sha256": "144ed1ce7df61b024f6ad6cedc3f940c8e997f1c73a16e111c704f93ed2a1838",
+      "training_rows": 176,
+      "query_rows": 55,
+      "namespace_proof": {
+        "input_files": [
+          "inference.npz",
+          "manifest.json",
+          "training.npz"
+        ],
+        "inaccessible_paths": [
+          "/scoring",
+          "/reference",
+          "/h_reference",
+          "/home/ubuntu/nba/handoff"
+        ],
+        "passed": true
+      }
+    },
+    {
+      "task_id": "all174_y2012",
+      "sha256": "e564f409404c576c205432cd0382568f8e17055d4581f82c21636e428fb532a3",
+      "training_rows": 176,
+      "query_rows": 55,
+      "namespace_proof": {
+        "input_files": [
+          "inference.npz",
+          "manifest.json",
+          "training.npz"
+        ],
+        "inaccessible_paths": [
+          "/scoring",
+          "/reference",
+          "/h_reference",
+          "/home/ubuntu/nba/handoff"
+        ],
+        "passed": true
+      }
+    },
+    {
+      "task_id": "base44_y2013",
+      "sha256": "9083cad8b1c1ea515c58bc325210e1d96a2556882a77e4480b11720d5cada192",
+      "training_rows": 254,
+      "query_rows": 50,
+      "namespace_proof": {
+        "input_files": [
+          "inference.npz",
+          "manifest.json",
+          "training.npz"
+        ],
+        "inaccessible_paths": [
+          "/scoring",
+          "/reference",
+          "/h_reference",
+          "/home/ubuntu/nba/handoff"
+        ],
+        "passed": true
+      }
+    },
+    {
+      "task_id": "add_f50_y2013",
+      "sha256": "d55bb94e0a2b70aaa3baafa4f52bdeb9a1575fb2521a1bf4caf97cd4536d8795",
+      "training_rows": 254,
+      "query_rows": 50,
+      "namespace_proof": {
+        "input_files": [
+          "inference.npz",
+          "manifest.json",
+          "training.npz"
+        ],
+        "inaccessible_paths": [
+          "/scoring",
+          "/reference",
+          "/h_reference",
+          "/home/ubuntu/nba/handoff"
+        ],
+        "passed": true
+      }
+    },
+    {
+      "task_id": "add_combine_y2013",
+      "sha256": "272c9db0a3e4f80d48d6794d4ab40161553b6a068afaa6ad1f320063bf93c5a1",
+      "training_rows": 254,
+      "query_rows": 50,
+      "namespace_proof": {
+        "input_files": [
+          "inference.npz",
+          "manifest.json",
+          "training.npz"
+        ],
+        "inaccessible_paths": [
+          "/scoring",
+          "/reference",
+          "/h_reference",
+          "/home/ubuntu/nba/handoff"
+        ],
+        "passed": true
+      }
+    },
+    {
+      "task_id": "add_bio_y2013",
+      "sha256": "83e0c7e8c7537aead47467b47b987b95460d0c6e275d4492db686ba019e58b3d",
+      "training_rows": 254,
+      "query_rows": 50,
+      "namespace_proof": {
+        "input_files": [
+          "inference.npz",
+          "manifest.json",
+          "training.npz"
+        ],
+        "inaccessible_paths": [
+          "/scoring",
+          "/reference",
+          "/h_reference",
+          "/home/ubuntu/nba/handoff"
+        ],
+        "passed": true
+      }
+    },
+    {
+      "task_id": "add_game_y2013",
+      "sha256": "8c7dbaa20f1486c9a4dfb79868785afe2f650e096f32ba278789dc202416ba27",
+      "training_rows": 254,
+      "query_rows": 50,
+      "namespace_proof": {
+        "input_files": [
+          "inference.npz",
+          "manifest.json",
+          "training.npz"
+        ],
+        "inaccessible_paths": [
+          "/scoring",
+          "/reference",
+          "/h_reference",
+          "/home/ubuntu/nba/handoff"
+        ],
+        "passed": true
+      }
+    },
+    {
+      "task_id": "add_team_y2013",
+      "sha256": "24bbb53920227bf7f08bed28275a85364d8fefded326b0cc51c0bc1f4ca7ef83",
+      "training_rows": 254,
+      "query_rows": 50,
+      "namespace_proof": {
+        "input_files": [
+          "inference.npz",
+          "manifest.json",
+          "training.npz"
+        ],
+        "inaccessible_paths": [
+          "/scoring",
+          "/reference",
+          "/h_reference",
+          "/home/ubuntu/nba/handoff"
+        ],
+        "passed": true
+      }
+    },
+    {
+      "task_id": "add_combine_bio_y2013",
+      "sha256": "7a8cbb953e0a03a96273ec8f4e588b53d301dcc07520ed03670ba2424b2227e1",
+      "training_rows": 254,
+      "query_rows": 50,
+      "namespace_proof": {
+        "input_files": [
+          "inference.npz",
+          "manifest.json",
+          "training.npz"
+        ],
+        "inaccessible_paths": [
+          "/scoring",
+          "/reference",
+          "/h_reference",
+          "/home/ubuntu/nba/handoff"
+        ],
+        "passed": true
+      }
+    },
+    {
+      "task_id": "all174_y2013",
+      "sha256": "10bb7b4b70e2fb6a3dc2d0b32ca1d3f6349ed9b08f1fcc05af3ee9b196fc7fdb",
+      "training_rows": 254,
+      "query_rows": 50,
+      "namespace_proof": {
+        "input_files": [
+          "inference.npz",
+          "manifest.json",
+          "training.npz"
+        ],
+        "inaccessible_paths": [
+          "/scoring",
+          "/reference",
+          "/h_reference",
+          "/home/ubuntu/nba/handoff"
+        ],
+        "passed": true
+      }
+    },
+    {
+      "task_id": "base44_y2014",
+      "sha256": "e33dd8a60ced9769db085e2cf821a7cd148156c392a6277ee17ade97dfa4666d",
+      "training_rows": 328,
+      "query_rows": 53,
+      "namespace_proof": {
+        "input_files": [
+          "inference.npz",
+          "manifest.json",
+          "training.npz"
+        ],
+        "inaccessible_paths": [
+          "/scoring",
+          "/reference",
+          "/h_reference",
+          "/home/ubuntu/nba/handoff"
+        ],
+        "passed": true
+      }
+    },
+    {
+      "task_id": "add_f50_y2014",
+      "sha256": "0948674bb665e3d588ee2d28e35181874cdcc6ee068dd94e91d23974c1702cee",
+      "training_rows": 328,
+      "query_rows": 53,
+      "namespace_proof": {
+        "input_files": [
+          "inference.npz",
+          "manifest.json",
+          "training.npz"
+        ],
+        "inaccessible_paths": [
+          "/scoring",
+          "/reference",
+          "/h_reference",
+          "/home/ubuntu/nba/handoff"
+        ],
+        "passed": true
+      }
+    },
+    {
+      "task_id": "add_combine_y2014",
+      "sha256": "a3efe7be55e0e7c74b45e6ee46fe7a678e7e1e7cd4034ae934a6c005406aef2f",
+      "training_rows": 328,
+      "query_rows": 53,
+      "namespace_proof": {
+        "input_files": [
+          "inference.npz",
+          "manifest.json",
+          "training.npz"
+        ],
+        "inaccessible_paths": [
+          "/scoring",
+          "/reference",
+          "/h_reference",
+          "/home/ubuntu/nba/handoff"
+        ],
+        "passed": true
+      }
+    },
+    {
+      "task_id": "add_bio_y2014",
+      "sha256": "8d0784a3068e5fd003ee1baca6a10b536d0892b55ebf4a2014069f664d747770",
+      "training_rows": 328,
+      "query_rows": 53,
+      "namespace_proof": {
+        "input_files": [
+          "inference.npz",
+          "manifest.json",
+          "training.npz"
+        ],
+        "inaccessible_paths": [
+          "/scoring",
+          "/reference",
+          "/h_reference",
+          "/home/ubuntu/nba/handoff"
+        ],
+        "passed": true
+      }
+    },
+    {
+      "task_id": "add_game_y2014",
+      "sha256": "7fb219236fb30486d27ff1c6ccc06b63f46e4e5d6a55c2be7b3e63b27ae8f2c0",
+      "training_rows": 328,
+      "query_rows": 53,
+      "namespace_proof": {
+        "input_files": [
+          "inference.npz",
+          "manifest.json",
+          "training.npz"
+        ],
+        "inaccessible_paths": [
+          "/scoring",
+          "/reference",
+          "/h_reference",
+          "/home/ubuntu/nba/handoff"
+        ],
+        "passed": true
+      }
+    },
+    {
+      "task_id": "add_team_y2014",
+      "sha256": "e9417a43c3d83a1b6cf53b9b4c9d24faaa2a7e0886632a29837d6f6d3335c03c",
+      "training_rows": 328,
+      "query_rows": 53,
+      "namespace_proof": {
+        "input_files": [
+          "inference.npz",
+          "manifest.json",
+          "training.npz"
+        ],
+        "inaccessible_paths": [
+          "/scoring",
+          "/reference",
+          "/h_reference",
+          "/home/ubuntu/nba/handoff"
+        ],
+        "passed": true
+      }
+    },
+    {
+      "task_id": "add_combine_bio_y2014",
+      "sha256": "9db0daf8b3d5776dedf7c8fa5e80528f8453e2b533d4ae0fab277212a05aba75",
+      "training_rows": 328,
+      "query_rows": 53,
+      "namespace_proof": {
+        "input_files": [
+          "inference.npz",
+          "manifest.json",
+          "training.npz"
+        ],
+        "inaccessible_paths": [
+          "/scoring",
+          "/reference",
+          "/h_reference",
+          "/home/ubuntu/nba/handoff"
+        ],
+        "passed": true
+      }
+    },
+    {
+      "task_id": "all174_y2014",
+      "sha256": "8db0cc5328305d7ba4e93ca9fecf5432041395aba77ef53905554b4b6c1bba81",
+      "training_rows": 328,
+      "query_rows": 53,
+      "namespace_proof": {
+        "input_files": [
+          "inference.npz",
+          "manifest.json",
+          "training.npz"
+        ],
+        "inaccessible_paths": [
+          "/scoring",
+          "/reference",
+          "/h_reference",
+          "/home/ubuntu/nba/handoff"
+        ],
+        "passed": true
+      }
+    }
+  ],
+  "tests": [
+    {
+      "file": "code/test_worker.py",
+      "sha256": "06f7661bd132900182aaa3f3e974729da87cf976971b34736c5e71667f783999",
+      "output": "......\n----------------------------------------------------------------------\nRan 6 tests in 0.378s\n\nOK\n"
+    }
+  ],
+  "runtime_sources_checked": 111,
+  "runtime_support_sha256": "e3c7662c056e1a1688c234f49d1aa53e5394f3c9bcaaf4c7687dacdfc8c7d119",
+  "plan_sha256": "d4fdbe421a6069ed158c5de84ad85c1534c2901dabd3c1ef40e2ecb08bb53d99",
+  "protocol_sha256": "b5a08f448582931158da52dbf37136e47d5b555f9596866210013b4a5aa2a282",
+  "finished": 1788778749.7553928,
+  "scoring_files_mounted_in_model": false,
+  "every_task_has_one_outer_cutoff_only": true
+}

@@ -1,5 +1,5 @@
 {
-  "policy": "Only the listed input-only panels, code, registration and aggregate proofs. No per-cutoff labels/private facts/identities/scoring arrays/raw worker OOF or residual records.",
+  "policy": "Explicit registration/input-only panels plus verified development prediction export, learned weights, aggregate proof and verifier source. No cutoff label NPZs, private facts, identities, scoring arrays or raw K worker OOF/residual records.",
   "files": {
     "README.md": {
       "sha256": "8c7a6d993fab46f88c2b768d3e3bcd67565f2bc7f9111a9d016d6171ea5316a3",
@@ -164,6 +164,22 @@
     "dashboard/stack_r8.html": {
       "sha256": "093f7c804e0fbc512de7842c0d2d7b3178e4175e686f67b5c59ea20943e98966",
       "bytes": 18471
+    },
+    "results/public_stack_results.json": {
+      "sha256": "5f27d0e4189300b7f507d4fc78286c67beaf95729150d71c0b704b61241bbc64",
+      "bytes": 1243165
+    },
+    "results/independent_verification.json": {
+      "sha256": "aabd54ad8eefc89db0f7218d60e3f3860dc574c67f197678f143cef8815258be",
+      "bytes": 6641
+    },
+    "verify_results.py": {
+      "sha256": "852820f8f44dc9171f3e3305ee5cea8d224434da7366e6584720b685908e9d2b",
+      "bytes": 8800
+    },
+    "RESULTS.md": {
+      "sha256": "4774ce5cec3925dfc21c47e0818a7c8cb94aeff9304408356a1ae75e59d4f33a",
+      "bytes": 1224
     }
   }
 }

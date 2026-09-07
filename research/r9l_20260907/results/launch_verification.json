@@ -1,0 +1,20 @@
+{
+  "unit": "draftdb-r9l-20260907",
+  "invocation": "052a030964ad473e8533f99d455920ff",
+  "launch_snapshot": {
+    "completed": 20,
+    "total": 24,
+    "active_workers": 4,
+    "error": null,
+    "gpu_percent": 99
+  },
+  "reference_gate": {
+    "passed": true,
+    "exact_member_fold_seed_vectors": 36,
+    "before_new_feature_task_fits": true
+  },
+  "dashboard_api_verified": true,
+  "unchanged_benchmark_score": 0.30870833693517585,
+  "registration_only": true,
+  "final_results_require_independent_verification": true
+}

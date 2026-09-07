@@ -1,0 +1,275 @@
+{
+  "status": "PASS",
+  "studies": {
+    "r9i": {
+      "status": "PASS",
+      "archive_members": 467,
+      "archive_sha256": "5e1c994a5a4648b7827d5af33b208ecfced32e10f683ef4a6717474383759fdc",
+      "downloaded_archive_roundtrip_and_embedded_log_chunk_frozen_links_verified": true,
+      "verification_sha256": "b940c80af2c888ff15c235c9fc4954c12898a19e6ae60155bd4cb3bfeffc0b7b"
+    },
+    "r9j": {
+      "status": "PASS",
+      "archive_members": 83,
+      "archive_sha256": "29001a29450cf3f08f535740af91a9a3b751f8ecb6aa0ca574ad4ab192f5d2aa",
+      "downloaded_archive_roundtrip_and_embedded_log_chunk_frozen_links_verified": true,
+      "verification_sha256": "9b9ec381d2e3ae0156d9fae019b8aba80f1c9a5e3abf448800a25b2361fd98ad"
+    }
+  },
+  "I_best_predefined_two_family_blend": {
+    "variant_id": "s2008_gap1_all_h1_cb_mae_d3_lr0p1_l2100",
+    "payload_id": "s2008_gap1_all_h1",
+    "setting_id": "cb_mae_d3_lr0p1_l2100",
+    "CatBoost_parameters": {
+      "iterations": 1200,
+      "task_type": "GPU",
+      "devices": "0",
+      "thread_count": 2,
+      "gpu_ram_part": 0.18,
+      "random_strength": 1,
+      "allow_writing_files": false,
+      "bootstrap_type": "Bayesian",
+      "boosting_type": "Plain",
+      "use_best_model": false,
+      "verbose": false,
+      "loss_function": "MAE",
+      "depth": 3,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    "ntree_end": 600,
+    "alpha_step": 6,
+    "mode": "mean_all_three_seed_fold_correlations",
+    "legacy": 0.3679513202084083,
+    "observed": 0.4637856680079277,
+    "fixed_three_seed_raw_prediction_average_then_rankblend": {
+      "legacy": 0.373289680851096,
+      "observed": 0.4823873957149265
+    }
+  },
+  "J_best_actual_two_plus_family_stack": {
+    "payload_id": "s2008_gap1_all_h1",
+    "recipe_id": "stack_067",
+    "recipe": {
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "setting": "matched_H_anchor",
+          "checkpoint": null,
+          "units": 30
+        },
+        {
+          "family": "ridge",
+          "setting": "ridge_a300",
+          "checkpoint": null,
+          "units": 30
+        }
+      ],
+      "weight_total": 60,
+      "id": "stack_067"
+    },
+    "primary_ranking_mode": "mean_all_three_seed_correlations",
+    "fixed_three_seed_family_rank_average": {
+      "legacy": {
+        "mean_score": 0.3737007431570911,
+        "mean_delta": 0.01690937564532032,
+        "fold_deltas": {
+          "2012": -0.034651051339586014,
+          "2013": 0.07296695240881718,
+          "2014": 0.012412225866729798
+        }
+      },
+      "observed": {
+        "mean_score": 0.4052666451580842,
+        "mean_delta": 0.029009029031462113,
+        "fold_deltas": {
+          "2012": -0.02880088977860229,
+          "2013": 0.09585729153793204,
+          "2014": 0.01997068533505658
+        }
+      }
+    },
+    "legacy": {
+      "mean_score": 0.3737878250522369,
+      "mean_delta": 0.018325008163167195,
+      "fold_deltas": {
+        "2012": -0.032385773100541616,
+        "2013": 0.07193369950914223,
+        "2014": 0.01542709808090098
+      },
+      "seed_deltas": {
+        "0": 0.020823497409896568,
+        "101": 0.015725157786584842,
+        "202": 0.01842636929302018
+      },
+      "positive_every_fold_and_seed_mean": false
+    },
+    "observed": {
+      "mean_score": 0.4018733039443277,
+      "mean_delta": 0.02562495607368152,
+      "fold_deltas": {
+        "2012": -0.030017538437255353,
+        "2013": 0.08434378207762909,
+        "2014": 0.022548624580670844
+      },
+      "seed_deltas": {
+        "0": 0.02242242189507654,
+        "101": 0.02893881381437365,
+        "202": 0.025513632511594376
+      },
+      "positive_every_fold_and_seed_mean": false
+    }
+  },
+  "J_best_single_family_control": {
+    "payload_id": "s2008_gap1_all_h1",
+    "recipe_id": "stack_062",
+    "recipe": {
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "ridge",
+          "setting": "ridge_a300",
+          "checkpoint": null,
+          "units": 60
+        }
+      ],
+      "weight_total": 60,
+      "id": "stack_062"
+    },
+    "primary_ranking_mode": "mean_all_three_seed_correlations",
+    "fixed_three_seed_family_rank_average": {
+      "legacy": {
+        "mean_score": 0.3583717138496117,
+        "mean_delta": 0.0015803463378409137,
+        "fold_deltas": {
+          "2012": -0.09474374161554483,
+          "2013": 0.10546840345062242,
+          "2014": -0.005983622821554846
+        }
+      },
+      "observed": {
+        "mean_score": 0.3723286437706179,
+        "mean_delta": -0.003928972356004219,
+        "fold_deltas": {
+          "2012": -0.11122709888062116,
+          "2013": 0.08958796506383998,
+          "2014": 0.009852216748768516
+        }
+      }
+    },
+    "legacy": {
+      "mean_score": 0.3583717138496117,
+      "mean_delta": 0.0029088969605419734,
+      "fold_deltas": {
+        "2012": -0.09812586808717673,
+        "2013": 0.10534742538819732,
+        "2014": 0.0015051335806053334
+      },
+      "seed_deltas": {
+        "0": 0.004440643954459422,
+        "101": -0.00030230393914245274,
+        "202": 0.0045883508663089505
+      },
+      "positive_every_fold_and_seed_mean": false
+    },
+    "observed": {
+      "mean_score": 0.3723286437706179,
+      "mean_delta": -0.003919704100028297,
+      "fold_deltas": {
+        "2012": -0.11038131727786905,
+        "2013": 0.08274918910476824,
+        "2014": 0.015873015873015928
+      },
+      "seed_deltas": {
+        "0": -0.007628272927979796,
+        "101": -0.004620103599409657,
+        "202": 0.0004892642273045625
+      },
+      "positive_every_fold_and_seed_mean": false
+    }
+  },
+  "I_best_single_member_endpoint_control": {
+    "variant_id": "s2008_gap1_all_h1_cb_mae_d3_lr0p03_l21",
+    "payload_id": "s2008_gap1_all_h1",
+    "setting_id": "cb_mae_d3_lr0p03_l21",
+    "CatBoost_parameters": {
+      "iterations": 1200,
+      "task_type": "GPU",
+      "devices": "0",
+      "thread_count": 2,
+      "gpu_ram_part": 0.18,
+      "random_strength": 1,
+      "allow_writing_files": false,
+      "bootstrap_type": "Bayesian",
+      "boosting_type": "Plain",
+      "use_best_model": false,
+      "verbose": false,
+      "loss_function": "MAE",
+      "depth": 3,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    "ntree_end": 200,
+    "alpha_step": 0,
+    "mode": "mean_all_three_seed_fold_correlations",
+    "legacy": 0.3554628168890697,
+    "observed": 0.37624834787064615,
+    "fixed_three_seed_raw_prediction_average_then_rankblend": {
+      "legacy": 0.35457656319772285,
+      "observed": 0.3762189535367854
+    }
+  },
+  "I_best_standalone_CatBoost": {
+    "variant_id": "s2008_gap1_all_h1_cb_mae_d3_lr0p1_l2100",
+    "payload_id": "s2008_gap1_all_h1",
+    "setting_id": "cb_mae_d3_lr0p1_l2100",
+    "CatBoost_parameters": {
+      "iterations": 1200,
+      "task_type": "GPU",
+      "devices": "0",
+      "thread_count": 2,
+      "gpu_ram_part": 0.18,
+      "random_strength": 1,
+      "allow_writing_files": false,
+      "bootstrap_type": "Bayesian",
+      "boosting_type": "Plain",
+      "use_best_model": false,
+      "verbose": false,
+      "loss_function": "MAE",
+      "depth": 3,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    "ntree_end": 600,
+    "alpha_step": 10,
+    "mode": "mean_all_three_seed_fold_correlations",
+    "legacy": 0.33354967118352835,
+    "observed": 0.4677957795327081,
+    "fixed_three_seed_raw_prediction_average_then_rankblend": {
+      "legacy": 0.35498956177737173,
+      "observed": 0.48781284092304533
+    }
+  },
+  "primary_full_comparison_J_stack_minus_I_blend": 0.005836504843828583,
+  "primary_mode": "Meanall3seedcorrelations across3developmentfolds; neverbestseed.",
+  "secondary_mode": "Samefrozenobserved-truth subset; notwholeclassaccuracy.",
+  "fixed_prediction_modes_differ": {
+    "I": "Primarylegacy/observed are mean3seed\u00d73fold correlations. Fixed-mode first arithmetic-averages each family raw prediction across3seeds, then ranks/blends; it is not Jfamily-rank-average.",
+    "J": "Primarymean is meanall3seedcorrelations over3folds. Fixedthree mode averages within-familyseedrankvectors, then applies frozenfamilyrankblend; it is a differentpredictionrule."
+  },
+  "source_or_model_files_modified": false,
+  "models_fitted": 0,
+  "new_2019_plus_benchmark_access": false,
+  "publication_performed": false,
+  "verifier_source_versions": {
+    "I": "bdeffe70afcd53fcb5ec93569b9b54cb5f2c6dfb776562094ea972248379b695",
+    "J": "48d5d9c0c8ee18b2566d88a1c708733bfbe3b03ed588b2063cf371f48fa7c116"
+  }
+}

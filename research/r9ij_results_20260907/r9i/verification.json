@@ -1,0 +1,130 @@
+{
+  "study": "r9i",
+  "status": "PASS",
+  "completed_tasks": 336,
+  "frozen_study_files": 15,
+  "H_frozen_files": 81,
+  "H_reference_metadata_files": 12,
+  "exact_reference_gate": 12,
+  "immutable_task_hashes_configs_ties_and_scores_checked": true,
+  "recipe_records": 14256,
+  "saved_chunk_count": 108,
+  "all_compressed_and_uncompressed_and_perline_hashes_pass": true,
+  "deterministic_math_replay_all_saved_chunks_byte_identical": true,
+  "saved_summary_replay_byte_identical": true,
+  "replay_seconds": 64.55138496297877,
+  "model_fits": 0,
+  "model_execution_functions_disabled": true,
+  "GPU_devices_mounted": false,
+  "development_years_only": [
+    2012,
+    2013,
+    2014
+  ],
+  "new_benchmark_or_2019_plus_outcomes_read": false,
+  "no_automatic_promotion": true,
+  "report": {
+    "best_predefined_two_family_blend": {
+      "variant_id": "s2008_gap1_all_h1_cb_mae_d3_lr0p1_l2100",
+      "payload_id": "s2008_gap1_all_h1",
+      "setting_id": "cb_mae_d3_lr0p1_l2100",
+      "CatBoost_parameters": {
+        "iterations": 1200,
+        "task_type": "GPU",
+        "devices": "0",
+        "thread_count": 2,
+        "gpu_ram_part": 0.18,
+        "random_strength": 1,
+        "allow_writing_files": false,
+        "bootstrap_type": "Bayesian",
+        "boosting_type": "Plain",
+        "use_best_model": false,
+        "verbose": false,
+        "loss_function": "MAE",
+        "depth": 3,
+        "learning_rate": 0.1,
+        "l2_leaf_reg": 100,
+        "bagging_temperature": 1,
+        "nan_mode": "Max"
+      },
+      "ntree_end": 600,
+      "alpha_step": 6,
+      "mode": "mean_all_three_seed_fold_correlations",
+      "legacy": 0.3679513202084083,
+      "observed": 0.4637856680079277,
+      "fixed_three_seed_raw_prediction_average_then_rankblend": {
+        "legacy": 0.373289680851096,
+        "observed": 0.4823873957149265
+      }
+    },
+    "best_single_member_endpoint_control": {
+      "variant_id": "s2008_gap1_all_h1_cb_mae_d3_lr0p03_l21",
+      "payload_id": "s2008_gap1_all_h1",
+      "setting_id": "cb_mae_d3_lr0p03_l21",
+      "CatBoost_parameters": {
+        "iterations": 1200,
+        "task_type": "GPU",
+        "devices": "0",
+        "thread_count": 2,
+        "gpu_ram_part": 0.18,
+        "random_strength": 1,
+        "allow_writing_files": false,
+        "bootstrap_type": "Bayesian",
+        "boosting_type": "Plain",
+        "use_best_model": false,
+        "verbose": false,
+        "loss_function": "MAE",
+        "depth": 3,
+        "learning_rate": 0.03,
+        "l2_leaf_reg": 1,
+        "bagging_temperature": 1,
+        "nan_mode": "Max"
+      },
+      "ntree_end": 200,
+      "alpha_step": 0,
+      "mode": "mean_all_three_seed_fold_correlations",
+      "legacy": 0.3554628168890697,
+      "observed": 0.37624834787064615,
+      "fixed_three_seed_raw_prediction_average_then_rankblend": {
+        "legacy": 0.35457656319772285,
+        "observed": 0.3762189535367854
+      }
+    },
+    "best_standalone_CatBoost": {
+      "variant_id": "s2008_gap1_all_h1_cb_mae_d3_lr0p1_l2100",
+      "payload_id": "s2008_gap1_all_h1",
+      "setting_id": "cb_mae_d3_lr0p1_l2100",
+      "CatBoost_parameters": {
+        "iterations": 1200,
+        "task_type": "GPU",
+        "devices": "0",
+        "thread_count": 2,
+        "gpu_ram_part": 0.18,
+        "random_strength": 1,
+        "allow_writing_files": false,
+        "bootstrap_type": "Bayesian",
+        "boosting_type": "Plain",
+        "use_best_model": false,
+        "verbose": false,
+        "loss_function": "MAE",
+        "depth": 3,
+        "learning_rate": 0.1,
+        "l2_leaf_reg": 100,
+        "bagging_temperature": 1,
+        "nan_mode": "Max"
+      },
+      "ntree_end": 600,
+      "alpha_step": 10,
+      "mode": "mean_all_three_seed_fold_correlations",
+      "legacy": 0.33354967118352835,
+      "observed": 0.4677957795327081,
+      "fixed_three_seed_raw_prediction_average_then_rankblend": {
+        "legacy": 0.35498956177737173,
+        "observed": 0.48781284092304533
+      }
+    },
+    "mean_seed_vs_fixed": "Primarylegacy/observed are mean3seed\u00d73fold correlations. Fixed-mode first arithmetic-averages each family raw prediction across3seeds, then ranks/blends; it is not Jfamily-rank-average."
+  },
+  "source_completion_sha256": "db73b966acff8614a0099a45cb26dbb9c87d93049bdc30b054ec3532cb240ffa",
+  "source_frozen_sha256": "2939c20ea7e1decb0e418e87a30a7d2c60295bd063b6c2fac9ca52a2fd33f3a9"
+}

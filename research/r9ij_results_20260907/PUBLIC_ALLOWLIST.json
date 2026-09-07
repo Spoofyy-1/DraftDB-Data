@@ -1,0 +1,62 @@
+{
+  "publication_authorized": true,
+  "policy": "Root reviewed explicit I/J saved-development archive and verification allowlist. No private input labels, identity crosswalks or K raw results.",
+  "files": {
+    "README.md": {
+      "sha256": "e64a5e046cf6af1718243377109df78c6c12d825b427ed76af319e8e3ba23dfb",
+      "bytes": 2474
+    },
+    "independent_verification.json": {
+      "sha256": "d592ae72e94ccaa3b87052d909646cdc474aa6a1fc2b1a2ec02dde27aeb257a8",
+      "bytes": 8743
+    },
+    "verify_saved.py": {
+      "sha256": "bdeffe70afcd53fcb5ec93569b9b54cb5f2c6dfb776562094ea972248379b695",
+      "bytes": 8730
+    },
+    "verify_saved_J_executed.py": {
+      "sha256": "48d5d9c0c8ee18b2566d88a1c708733bfbe3b03ed588b2063cf371f48fa7c116",
+      "bytes": 8641
+    },
+    "run_verify.sh": {
+      "sha256": "656821b5009d1bb1f8e9c1229034c9f2747c80196a58470c3d4836397a7facd0",
+      "bytes": 1408
+    },
+    "finalize.py": {
+      "sha256": "2e7a58f49ea225b0f6cef5b8b5c1bdc97022519236cffc56476252473b307764",
+      "bytes": 6885
+    },
+    "r9i/verification.json": {
+      "sha256": "b940c80af2c888ff15c235c9fc4954c12898a19e6ae60155bd4cb3bfeffc0b7b",
+      "bytes": 4415
+    },
+    "r9i/PUBLICATION_ALLOWLIST.json": {
+      "sha256": "9908691e0348f8b48864460f569fed4a0b7b75979588f3a1878d9b3d66ffde17",
+      "bytes": 88472
+    },
+    "r9i/archive_manifest.json": {
+      "sha256": "2c410ea410457320f769b445fc7de69cf4a6d7c77178587a95489cb11c2f97e8",
+      "bytes": 390
+    },
+    "r9i/r9i_saved_raw.tar.gz": {
+      "sha256": "5e1c994a5a4648b7827d5af33b208ecfced32e10f683ef4a6717474383759fdc",
+      "bytes": 24898773
+    },
+    "r9j/verification.json": {
+      "sha256": "9b9ec381d2e3ae0156d9fae019b8aba80f1c9a5e3abf448800a25b2361fd98ad",
+      "bytes": 7975
+    },
+    "r9j/PUBLICATION_ALLOWLIST.json": {
+      "sha256": "c93030db3ebb723bf0e50cc2995af723035f59c4952ee350be0983bf99b4e0e6",
+      "bytes": 14344
+    },
+    "r9j/archive_manifest.json": {
+      "sha256": "a6a3fe86dfa6d733999e3a93d83498d1d2faa8d81c253d2f9208a0f86b8880d7",
+      "bytes": 388
+    },
+    "r9j/r9j_saved_raw.tar.gz": {
+      "sha256": "29001a29450cf3f08f535740af91a9a3b751f8ecb6aa0ca574ad4ab192f5d2aa",
+      "bytes": 4146306
+    }
+  }
+}

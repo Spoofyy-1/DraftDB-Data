@@ -1,0 +1,186 @@
+{
+  "passed": true,
+  "frozen_files": 60,
+  "tasks": 12,
+  "fits_recorded": 420,
+  "inner_records_verified": 324,
+  "architecture_vectors_verified": 144,
+  "score_records_verified": 384,
+  "all_metaweights_and_residuals_reconstructed": true,
+  "all_fold_train_and_held_hashes_verified": true,
+  "private_archives": [
+    {
+      "task_id": "panel44_h_s2000_gap1_drafted_h2_y2012",
+      "sha256": "4b7780aa7aa747c68b01e7dd108c62e2abd3a3246cd9bf4aac1445e548488703",
+      "bytes": 300168,
+      "original_sha256": "eb6e49bba36ee1c75c134684e3fb6cd2c3e4f36fc155348641cd189943cacdd9",
+      "private_not_for_publication": true
+    },
+    {
+      "task_id": "panel44_prefix_s2007_gap1_all_d085_y2012",
+      "sha256": "d1d8a9a036fc7f1a0313770ce846e6fa3fe1993cf7b183c0f326a2cad83b7e5c",
+      "bytes": 267909,
+      "original_sha256": "e03eedab388c4ca9116e91568fe2aeefc6394b038ce4bf910ac2573149329daa",
+      "private_not_for_publication": true
+    },
+    {
+      "task_id": "panel174_prefix_s2007_gap1_all_d085_y2012",
+      "sha256": "8ff9c1431abe81e9af8c528b6a8d185781e00f1385429dcafc0b61eed81c431d",
+      "bytes": 377611,
+      "original_sha256": "8b774157bd55cdcfeea8754d58e7413faf5022814dcb67df4bfb4114978c4513",
+      "private_not_for_publication": true
+    },
+    {
+      "task_id": "panel174_h_s2000_gap1_drafted_h2_y2012",
+      "sha256": "947bd0faafe8d895f2b02f28b9425c46f0dc4fec2fda1dff76dcc627bd15cc95",
+      "bytes": 473491,
+      "original_sha256": "f414cd55f0f92780db0163ad3aca2ea9911c752cc7d70f91fc19bb46181d1f0a",
+      "private_not_for_publication": true
+    },
+    {
+      "task_id": "panel44_h_s2000_gap1_drafted_h2_y2013",
+      "sha256": "61b65085487e728af4b5648a046c80c4098defcbc05bcd83269d2fcb24e4b162",
+      "bytes": 328074,
+      "original_sha256": "e865de5dca75ff4c182c5a9918b757229a646cbcc060e360a39969afc4226936",
+      "private_not_for_publication": true
+    },
+    {
+      "task_id": "panel44_prefix_s2007_gap1_all_d085_y2013",
+      "sha256": "2fe421163c2905dcd4bfe9d26606422c4a652a4813d2f2e9d16d68123075ed74",
+      "bytes": 335864,
+      "original_sha256": "b89ab245ae1868e87a1349fb1fdba8796681be4ab52f4c26257a6ae279b3ad95",
+      "private_not_for_publication": true
+    },
+    {
+      "task_id": "panel174_h_s2000_gap1_drafted_h2_y2013",
+      "sha256": "eb24df534698b9f7d2229067e8d81a85bd8f229ff69d0dd79d5ebad54f2d0efd",
+      "bytes": 504107,
+      "original_sha256": "582d7d7c95a665c7b469b5d7fb15c2ceaddadc8019be60549def4ae06ec1eb20",
+      "private_not_for_publication": true
+    },
+    {
+      "task_id": "panel174_prefix_s2007_gap1_all_d085_y2013",
+      "sha256": "7645afc25c79f5df59cb3b1da31225411aeb6ee21dc157f584be46bc143ee3c5",
+      "bytes": 425019,
+      "original_sha256": "ee1d379166d82510007aadcbafe5610827a640e31fd2780dce7538d6cd04effe",
+      "private_not_for_publication": true
+    },
+    {
+      "task_id": "panel44_h_s2000_gap1_drafted_h2_y2014",
+      "sha256": "ed6c4240f0f0f9e3800ec0367b7b94fd29eddb8a45a876125251239743e14237",
+      "bytes": 365696,
+      "original_sha256": "8c1551f87b0a6720290704bdb0bbad57167a12bf4e5b08d3414a4dc4ed8665ab",
+      "private_not_for_publication": true
+    },
+    {
+      "task_id": "panel44_prefix_s2007_gap1_all_d085_y2014",
+      "sha256": "857ca742fd289a0181ffe0c0081201a1d1e96231ddaaf9d21f6a3a4fd2bff7f3",
+      "bytes": 380150,
+      "original_sha256": "1212eb8d8dff19ed213ecc4b85f7bcb43f6c6ff721a2159390617f616db909be",
+      "private_not_for_publication": true
+    },
+    {
+      "task_id": "panel174_h_s2000_gap1_drafted_h2_y2014",
+      "sha256": "2d902ada2fec610db6f5c5b03c941a01cc1a119faa63a8351a5ca2726e7f2072",
+      "bytes": 540739,
+      "original_sha256": "27858378a929c2a9393bd6aea023bc6706fb4f1eab2fa0aae876c3e3981de5c8",
+      "private_not_for_publication": true
+    },
+    {
+      "task_id": "panel174_prefix_s2007_gap1_all_d085_y2014",
+      "sha256": "ae7cab8bdb913eab06279f09c004efbe2f7165221a101647fd360681573763ea",
+      "bytes": 477180,
+      "original_sha256": "1926945c2097a901390fad4455b1fe52c2e6cce9cee4349d88ea0ee9143fed52",
+      "private_not_for_publication": true
+    }
+  ],
+  "public_results_sha256": "5f27d0e4189300b7f507d4fc78286c67beaf95729150d71c0b704b61241bbc64",
+  "best_stack": {
+    "panel_id": "panel44",
+    "policy_id": "prefix_s2007_gap1_all_d085",
+    "architecture": "learned_global_nonnegative_meta",
+    "member_control": false,
+    "diagnostic_only": true,
+    "no_automatic_promotion": true,
+    "primary_mode": "mean_three_seed_full_pool_Spearman",
+    "multi_family_every_fold_seed": true,
+    "folds": [
+      2012,
+      2013,
+      2014
+    ],
+    "full": {
+      "mean_score": 0.3546300201672373,
+      "fold_scores": {
+        "2012": 0.2419957070326402,
+        "2013": 0.4199968100620944,
+        "2014": 0.4018975434069773
+      },
+      "seed_scores": {
+        "0": 0.3482763029770593,
+        "101": 0.3596786384573007,
+        "202": 0.3559351190673519
+      },
+      "fixed_three_seed_rank_average": 0.3565536724587415
+    },
+    "observed": {
+      "mean_score": 0.3858156055985112,
+      "fold_scores": {
+        "2012": 0.36818098887064404,
+        "2013": 0.32165042927500825,
+        "2014": 0.4676153986498814
+      },
+      "seed_scores": {
+        "0": 0.38373106416951125,
+        "101": 0.3894800153428366,
+        "202": 0.3842357372831858
+      },
+      "fixed_three_seed_rank_average": 0.3855725526835961
+    }
+  },
+  "best_component_control": {
+    "panel_id": "panel44",
+    "policy_id": "prefix_s2007_gap1_all_d085",
+    "architecture": "control_tabicl",
+    "member_control": true,
+    "diagnostic_only": true,
+    "no_automatic_promotion": true,
+    "primary_mode": "mean_three_seed_full_pool_Spearman",
+    "multi_family_every_fold_seed": false,
+    "folds": [
+      2012,
+      2013,
+      2014
+    ],
+    "full": {
+      "mean_score": 0.3662581813711341,
+      "fold_scores": {
+        "2012": 0.32800014435610686,
+        "2013": 0.30654819968203867,
+        "2014": 0.46422620007525667
+      },
+      "seed_scores": {
+        "0": 0.3615274257637157,
+        "101": 0.36290751933760584,
+        "202": 0.37433959901208064
+      },
+      "fixed_three_seed_rank_average": 0.36533439231249476
+    },
+    "observed": {
+      "mean_score": 0.36559494652186736,
+      "fold_scores": {
+        "2012": 0.3853311439518336,
+        "2013": 0.21428164671758165,
+        "2014": 0.4971720488961868
+      },
+      "seed_scores": {
+        "0": 0.3573422288023065,
+        "101": 0.36568448118014873,
+        "202": 0.3737581295831469
+      },
+      "fixed_three_seed_rank_average": 0.36960219267267186
+    }
+  },
+  "no_new_GPU_fits": true,
+  "no2019plus_access": true
+}
