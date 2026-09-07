@@ -1,0 +1,25 @@
+{
+  "time": 1788792769.674328,
+  "unit": "draftdb-r9recoveredtest-20260907",
+  "systemd": "Restart=no\nRuntimeMaxUSec=2h\nCPUQuotaPerSecUSec=22s\nMemoryMax=150323855360\nActiveState=active\nSubState=running\nInvocationID=82f1024bd28f4883baa8877aa98bef64\n",
+  "state": {
+    "phase": "Recovered fixed stack: 2019\u20132025 test",
+    "status": "predicting",
+    "updated": 1788792764.876171,
+    "completed": 0,
+    "total": 7,
+    "active_workers": 4,
+    "workers": 4,
+    "current": "prefix5_y2019 | prefix5_y2020 | prefix5_y2021 | prefix5_y2022",
+    "model_fits_completed": 0,
+    "model_fits_registered": 182,
+    "elapsed_seconds": 50.046617841988336,
+    "error": null,
+    "test_scores_read": false,
+    "message": "Fixed archived weights; date-limited observed prefixes;127 reviewed inputs. Freeze all seven predictions before benchmark scoring."
+  },
+  "gpu": "99, 4546",
+  "dashboard_fixed_recovered_test": true,
+  "dashboard_phase": "Recovered fixed stack: 2019\u20132025 test",
+  "dashboard_test_score": 0.3673951341766621
+}

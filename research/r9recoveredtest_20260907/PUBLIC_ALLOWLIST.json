@@ -192,6 +192,14 @@
     "results/jobs/prefix5_y2024/preflight.json": {
       "sha256": "6355632d83c5740e352c7698bc01b8ac22c72dd0b3ae97257d6bfb67f9639380",
       "bytes": 13872
+    },
+    "results/launch_verification.json": {
+      "sha256": "82b4bdafb1c629e0fbd294dc1cd4c4031c1f18d971c6e6c2a2055a625dde4586",
+      "bytes": 1039
+    },
+    "results/publication_registration.json": {
+      "sha256": "b47e0e366e0b07aaf438ee81105d741e8315ea4e674292b7e7d3594bb930e49a",
+      "bytes": 229
     }
   }
 }
