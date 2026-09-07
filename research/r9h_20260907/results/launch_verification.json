@@ -1,0 +1,27 @@
+{
+  "study": "r9h",
+  "updated_utc": "2026-09-07T07:07:11.967804+00:00",
+  "unit": "draftdb-r9h-20260907",
+  "ActiveState": "active",
+  "SubState": "running",
+  "InvocationID": "8eb11c4b941441478777307bea22c4df",
+  "status": "running",
+  "registered_tasks": 192,
+  "completed": 22,
+  "durable_records": 24,
+  "new_policy_records": 21,
+  "workers": 4,
+  "reference_gate": {
+    "passed": true,
+    "original_B_references": 3,
+    "all_before_new_model_fits": true,
+    "frozen_sha256": "22e68b8bee7902d65ed0f1c7a2d04bde3fc6521f5f872339faead15416c24d0e"
+  },
+  "gpu": "99, 36816",
+  "frozen_sha256": "22e68b8bee7902d65ed0f1c7a2d04bde3fc6521f5f872339faead15416c24d0e",
+  "frozen_files": 81,
+  "error": null,
+  "limits": "2h140GiB22CPU",
+  "no_model_promotion": true,
+  "benchmark_result": null
+}

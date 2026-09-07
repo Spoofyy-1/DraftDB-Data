@@ -1,0 +1,42 @@
+{
+  "passed": true,
+  "models_fitted": 0,
+  "raw_policies": 60,
+  "valid_policies": 42,
+  "excluded_policies": 18,
+  "exact_distinct_matrix_target_payloads": 21,
+  "profiles": 3,
+  "registered_tasks": 192,
+  "baseline_references": 3,
+  "query_counts": {
+    "2012": {
+      "all_query_rows": 55,
+      "observed_mask_rows": 28,
+      "unknown_incomplete_rows": 27
+    },
+    "2013": {
+      "all_query_rows": 50,
+      "observed_mask_rows": 26,
+      "unknown_incomplete_rows": 24
+    },
+    "2014": {
+      "all_query_rows": 53,
+      "observed_mask_rows": 28,
+      "unknown_incomplete_rows": 25
+    }
+  },
+  "new_label_missing_to_zero": false,
+  "fixed_column_order": true,
+  "new_source_data": false,
+  "GPU_launch_authorized": false,
+  "tests": {
+    "future_cutoff_values_and_existence_ignored": true,
+    "missing_ordinal_or_unknown_label_never_zero_filled": true,
+    "known_zero_retained": true,
+    "row_order_invariance": true,
+    "duplicate_fact_rejected": true,
+    "synthetic_fixture_not_model_data": true
+  },
+  "registered_data_files": 66,
+  "registration_sha256": "2a761d59bdf75adc60e33a8ea0a586b1b98a9a4aa37ffd62fb5728ac67b07e08"
+}

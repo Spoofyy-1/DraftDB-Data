@@ -1,0 +1,13 @@
+{
+  "model_fits_authorized": true,
+  "registered_plan_sha256": "2a761d59bdf75adc60e33a8ea0a586b1b98a9a4aa37ffd62fb5728ac67b07e08",
+  "parent_review_sha256": "707a12292172a942fd7c55a72002fb18ebc8e2f168c074bc104a8f8ac6bf5353",
+  "registered_tasks": 192,
+  "scientific_registration_unchanged": true,
+  "limits": {
+    "workers": 4,
+    "runtime_seconds": 7200,
+    "memory_bytes": 150323855360,
+    "CPUQuota_percent": 2200
+  }
+}

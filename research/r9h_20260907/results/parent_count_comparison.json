@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "all_60_policies_and_180_fold_counts_exact": true,
+  "parent_source_sha256": "379135db3801496d406b39cbff51d7e3f9ac87834ffae92a9165977c3afbb0f8",
+  "registration_sha256": "2a761d59bdf75adc60e33a8ea0a586b1b98a9a4aa37ffd62fb5728ac67b07e08",
+  "raw_policies": 60,
+  "valid": 42,
+  "excluded": 18,
+  "distinct_exact_payloads": 21,
+  "tasks": 192
+}

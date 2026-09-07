@@ -1,0 +1,48 @@
+{
+  "passed": true,
+  "models_fitted": 0,
+  "model_predictions_run": 0,
+  "records": 192,
+  "reference_replays_exact": 3,
+  "reference_gate_before_new_fits": true,
+  "frozen_files_unchanged": 81,
+  "frozen_manifest_sha256": "22e68b8bee7902d65ed0f1c7a2d04bde3fc6521f5f872339faead15416c24d0e",
+  "preregistration_exact": true,
+  "queue_registration_exact": true,
+  "append_log_all_hashes_exact": true,
+  "append_log_sha256": "f3cfc5ce6fe7ea40b692c8c435c663ea67f09c0a968c0663f7ed4da954015405",
+  "complete_summary_recomputed_exact": true,
+  "compact_candidates_exact": true,
+  "configuration_summaries_both_metrics": 63,
+  "saved_fold_metric_values_recomputed_exact": 1152,
+  "installed_source_hashes_exact": true,
+  "actual_GPU_constructors_validated": true,
+  "source_replay": {
+    "sha256": "6f4d5e116f82dd42fc2eab5fe31a5d945ea669b3b5542e75b4f281e913759572",
+    "bytes": 43280
+  },
+  "effective_widths": {
+    "sha256": "4409f0e3e0e26aa65c5666517c49e6c4b25ddc3b136e85c41cae955970fbf91e",
+    "bytes": 77777
+  },
+  "source_payloads_reconstructed": 66,
+  "no_unknown_training_WAR_zero_fill": true,
+  "all_pre2019_development_only": true,
+  "no_model_promotion": true,
+  "task_archive_manifest": {
+    "sha256": "85e56c10477c87b02c11560cea7bcdf0c08bf833c238423c1b5ce473b2d7fc3c",
+    "bytes": 60425
+  },
+  "chunks": 1,
+  "original_bytes": 9852764,
+  "compressed_bytes": 3288402,
+  "max_chunk_bytes": 3288402,
+  "all_record_roundtrips_byte_exact": true,
+  "queue_elapsed_seconds": 415.2989925899892,
+  "verification_seconds": 26.753013040986843,
+  "verification_code_sha256": "b514340b52b8dcf83f77ad64458eefab1fb7796fef88a7f11a3f19ef571ca701",
+  "summary": {
+    "sha256": "751baa671b41937192275a4ad20c7a3aa7ef39962fa673663acc21c9a0aa1a19",
+    "bytes": 218702
+  }
+}

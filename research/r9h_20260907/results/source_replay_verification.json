@@ -1,0 +1,1668 @@
+{
+  "passed": true,
+  "model_fits": 0,
+  "selector_fits": 0,
+  "independent_pivot_admission_and_rank_reconstruction": true,
+  "policy_fold_audits": 180,
+  "training_payload_files_exact": 63,
+  "query_payload_files_exact": 3,
+  "all_66_arrays_reconstructible_from_pinned_pre2019_G_source": true,
+  "anonymous_PIDs_only": true,
+  "fixed44_predictors": true,
+  "no_identity_crosswalk_raw_articles_or_539column_payloads": true,
+  "no_unknown_training_WAR_zero_fill": true,
+  "fully_observed_requested_ordinals": true,
+  "all_training_source_seasons_at_or_before_fold_cutoff": true,
+  "admitted_row_cohort_ranks_only": true,
+  "deduped_distinct_payloads": 21,
+  "queries": [
+    {
+      "year": 2012,
+      "rows": 55,
+      "observed_rows": 28,
+      "source_matrix_truth_mask_PID_replayed": true
+    },
+    {
+      "year": 2013,
+      "rows": 50,
+      "observed_rows": 26,
+      "source_matrix_truth_mask_PID_replayed": true
+    },
+    {
+      "year": 2014,
+      "rows": 53,
+      "observed_rows": 28,
+      "source_matrix_truth_mask_PID_replayed": true
+    }
+  ],
+  "policies": [
+    {
+      "policy_id": "s2000_gap1_all_h1",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 724,
+      "horizon": 1,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap1_all_h1",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 803,
+      "horizon": 1,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap1_all_h1",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 878,
+      "horizon": 1,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap1_all_h2",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 535,
+      "horizon": 2,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap1_all_h2",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 593,
+      "horizon": 2,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap1_all_h2",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 649,
+      "horizon": 2,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap1_all_h3",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 405,
+      "horizon": 3,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap1_all_h3",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 451,
+      "horizon": 3,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap1_all_h3",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 499,
+      "horizon": 3,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap1_all_h4",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 312,
+      "horizon": 4,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap1_all_h4",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 354,
+      "horizon": 4,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap1_all_h4",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 394,
+      "horizon": 4,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap1_all_h5",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 238,
+      "horizon": 5,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap1_all_h5",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 270,
+      "horizon": 5,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap1_all_h5",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 308,
+      "horizon": 5,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap1_drafted_h1",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 523,
+      "horizon": 1,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap1_drafted_h1",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 578,
+      "horizon": 1,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap1_drafted_h1",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 634,
+      "horizon": 1,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap1_drafted_h2",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 423,
+      "horizon": 2,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap1_drafted_h2",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 470,
+      "horizon": 2,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap1_drafted_h2",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 514,
+      "horizon": 2,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap1_drafted_h3",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 332,
+      "horizon": 3,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap1_drafted_h3",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 372,
+      "horizon": 3,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap1_drafted_h3",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 412,
+      "horizon": 3,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap1_drafted_h4",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 259,
+      "horizon": 4,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap1_drafted_h4",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 296,
+      "horizon": 4,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap1_drafted_h4",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 333,
+      "horizon": 4,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap1_drafted_h5",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 200,
+      "horizon": 5,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap1_drafted_h5",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 226,
+      "horizon": 5,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap1_drafted_h5",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 260,
+      "horizon": 5,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap2_all_h1",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 724,
+      "horizon": 1,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap2_all_h1",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 803,
+      "horizon": 1,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap2_all_h1",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 878,
+      "horizon": 1,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap2_all_h2",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 535,
+      "horizon": 2,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap2_all_h2",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 593,
+      "horizon": 2,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap2_all_h2",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 649,
+      "horizon": 2,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap2_all_h3",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 405,
+      "horizon": 3,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap2_all_h3",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 451,
+      "horizon": 3,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap2_all_h3",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 499,
+      "horizon": 3,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap2_all_h4",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 312,
+      "horizon": 4,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap2_all_h4",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 354,
+      "horizon": 4,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap2_all_h4",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 394,
+      "horizon": 4,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap2_all_h5",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 238,
+      "horizon": 5,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap2_all_h5",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 270,
+      "horizon": 5,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap2_all_h5",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 308,
+      "horizon": 5,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap2_drafted_h1",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 523,
+      "horizon": 1,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap2_drafted_h1",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 578,
+      "horizon": 1,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap2_drafted_h1",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 634,
+      "horizon": 1,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap2_drafted_h2",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 423,
+      "horizon": 2,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap2_drafted_h2",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 470,
+      "horizon": 2,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap2_drafted_h2",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 514,
+      "horizon": 2,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap2_drafted_h3",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 332,
+      "horizon": 3,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap2_drafted_h3",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 372,
+      "horizon": 3,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap2_drafted_h3",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 412,
+      "horizon": 3,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap2_drafted_h4",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 259,
+      "horizon": 4,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap2_drafted_h4",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 296,
+      "horizon": 4,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap2_drafted_h4",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 333,
+      "horizon": 4,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap2_drafted_h5",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 200,
+      "horizon": 5,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap2_drafted_h5",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 226,
+      "horizon": 5,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2000_gap2_drafted_h5",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 260,
+      "horizon": 5,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap1_all_h1",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 236,
+      "horizon": 1,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap1_all_h1",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 315,
+      "horizon": 1,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap1_all_h1",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 389,
+      "horizon": 1,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap1_all_h2",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 143,
+      "horizon": 2,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap1_all_h2",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 200,
+      "horizon": 2,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap1_all_h2",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 255,
+      "horizon": 2,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap1_all_h3",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 80,
+      "horizon": 3,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap1_all_h3",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 125,
+      "horizon": 3,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap1_all_h3",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 170,
+      "horizon": 3,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap1_all_h4",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 31,
+      "horizon": 4,
+      "max_label_season": 2011,
+      "valid": false
+    },
+    {
+      "policy_id": "s2007_gap1_all_h4",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 70,
+      "horizon": 4,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap1_all_h4",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 109,
+      "horizon": 4,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap1_all_h5",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 0,
+      "horizon": 5,
+      "max_label_season": null,
+      "valid": false
+    },
+    {
+      "policy_id": "s2007_gap1_all_h5",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 25,
+      "horizon": 5,
+      "max_label_season": 2012,
+      "valid": false
+    },
+    {
+      "policy_id": "s2007_gap1_all_h5",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 61,
+      "horizon": 5,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap1_drafted_h1",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 182,
+      "horizon": 1,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap1_drafted_h1",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 237,
+      "horizon": 1,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap1_drafted_h1",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 292,
+      "horizon": 1,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap1_drafted_h2",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 121,
+      "horizon": 2,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap1_drafted_h2",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 167,
+      "horizon": 2,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap1_drafted_h2",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 210,
+      "horizon": 2,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap1_drafted_h3",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 70,
+      "horizon": 3,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap1_drafted_h3",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 110,
+      "horizon": 3,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap1_drafted_h3",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 148,
+      "horizon": 3,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap1_drafted_h4",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 27,
+      "horizon": 4,
+      "max_label_season": 2011,
+      "valid": false
+    },
+    {
+      "policy_id": "s2007_gap1_drafted_h4",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 62,
+      "horizon": 4,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap1_drafted_h4",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 99,
+      "horizon": 4,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap1_drafted_h5",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 0,
+      "horizon": 5,
+      "max_label_season": null,
+      "valid": false
+    },
+    {
+      "policy_id": "s2007_gap1_drafted_h5",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 22,
+      "horizon": 5,
+      "max_label_season": 2012,
+      "valid": false
+    },
+    {
+      "policy_id": "s2007_gap1_drafted_h5",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 54,
+      "horizon": 5,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap2_all_h1",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 236,
+      "horizon": 1,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap2_all_h1",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 315,
+      "horizon": 1,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap2_all_h1",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 389,
+      "horizon": 1,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap2_all_h2",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 143,
+      "horizon": 2,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap2_all_h2",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 200,
+      "horizon": 2,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap2_all_h2",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 255,
+      "horizon": 2,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap2_all_h3",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 80,
+      "horizon": 3,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap2_all_h3",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 125,
+      "horizon": 3,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap2_all_h3",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 170,
+      "horizon": 3,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap2_all_h4",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 31,
+      "horizon": 4,
+      "max_label_season": 2011,
+      "valid": false
+    },
+    {
+      "policy_id": "s2007_gap2_all_h4",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 70,
+      "horizon": 4,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap2_all_h4",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 109,
+      "horizon": 4,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap2_all_h5",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 0,
+      "horizon": 5,
+      "max_label_season": null,
+      "valid": false
+    },
+    {
+      "policy_id": "s2007_gap2_all_h5",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 25,
+      "horizon": 5,
+      "max_label_season": 2012,
+      "valid": false
+    },
+    {
+      "policy_id": "s2007_gap2_all_h5",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 61,
+      "horizon": 5,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap2_drafted_h1",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 182,
+      "horizon": 1,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap2_drafted_h1",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 237,
+      "horizon": 1,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap2_drafted_h1",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 292,
+      "horizon": 1,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap2_drafted_h2",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 121,
+      "horizon": 2,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap2_drafted_h2",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 167,
+      "horizon": 2,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap2_drafted_h2",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 210,
+      "horizon": 2,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap2_drafted_h3",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 70,
+      "horizon": 3,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap2_drafted_h3",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 110,
+      "horizon": 3,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap2_drafted_h3",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 148,
+      "horizon": 3,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap2_drafted_h4",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 27,
+      "horizon": 4,
+      "max_label_season": 2011,
+      "valid": false
+    },
+    {
+      "policy_id": "s2007_gap2_drafted_h4",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 62,
+      "horizon": 4,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap2_drafted_h4",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 99,
+      "horizon": 4,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2007_gap2_drafted_h5",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 0,
+      "horizon": 5,
+      "max_label_season": null,
+      "valid": false
+    },
+    {
+      "policy_id": "s2007_gap2_drafted_h5",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 22,
+      "horizon": 5,
+      "max_label_season": 2012,
+      "valid": false
+    },
+    {
+      "policy_id": "s2007_gap2_drafted_h5",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 54,
+      "horizon": 5,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap1_all_h1",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 176,
+      "horizon": 1,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap1_all_h1",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 254,
+      "horizon": 1,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap1_all_h1",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 328,
+      "horizon": 1,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap1_all_h2",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 94,
+      "horizon": 2,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap1_all_h2",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 149,
+      "horizon": 2,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap1_all_h2",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 204,
+      "horizon": 2,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap1_all_h3",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 42,
+      "horizon": 3,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap1_all_h3",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 85,
+      "horizon": 3,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap1_all_h3",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 129,
+      "horizon": 3,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap1_all_h4",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 0,
+      "horizon": 4,
+      "max_label_season": null,
+      "valid": false
+    },
+    {
+      "policy_id": "s2008_gap1_all_h4",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 34,
+      "horizon": 4,
+      "max_label_season": 2012,
+      "valid": false
+    },
+    {
+      "policy_id": "s2008_gap1_all_h4",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 73,
+      "horizon": 4,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap1_all_h5",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 0,
+      "horizon": 5,
+      "max_label_season": null,
+      "valid": false
+    },
+    {
+      "policy_id": "s2008_gap1_all_h5",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 0,
+      "horizon": 5,
+      "max_label_season": null,
+      "valid": false
+    },
+    {
+      "policy_id": "s2008_gap1_all_h5",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 31,
+      "horizon": 5,
+      "max_label_season": 2013,
+      "valid": false
+    },
+    {
+      "policy_id": "s2008_gap1_drafted_h1",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 136,
+      "horizon": 1,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap1_drafted_h1",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 190,
+      "horizon": 1,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap1_drafted_h1",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 245,
+      "horizon": 1,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap1_drafted_h2",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 81,
+      "horizon": 2,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap1_drafted_h2",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 126,
+      "horizon": 2,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap1_drafted_h2",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 169,
+      "horizon": 2,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap1_drafted_h3",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 37,
+      "horizon": 3,
+      "max_label_season": 2011,
+      "valid": false
+    },
+    {
+      "policy_id": "s2008_gap1_drafted_h3",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 76,
+      "horizon": 3,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap1_drafted_h3",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 113,
+      "horizon": 3,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap1_drafted_h4",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 0,
+      "horizon": 4,
+      "max_label_season": null,
+      "valid": false
+    },
+    {
+      "policy_id": "s2008_gap1_drafted_h4",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 30,
+      "horizon": 4,
+      "max_label_season": 2012,
+      "valid": false
+    },
+    {
+      "policy_id": "s2008_gap1_drafted_h4",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 67,
+      "horizon": 4,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap1_drafted_h5",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 0,
+      "horizon": 5,
+      "max_label_season": null,
+      "valid": false
+    },
+    {
+      "policy_id": "s2008_gap1_drafted_h5",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 0,
+      "horizon": 5,
+      "max_label_season": null,
+      "valid": false
+    },
+    {
+      "policy_id": "s2008_gap1_drafted_h5",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 27,
+      "horizon": 5,
+      "max_label_season": 2013,
+      "valid": false
+    },
+    {
+      "policy_id": "s2008_gap2_all_h1",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 176,
+      "horizon": 1,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap2_all_h1",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 254,
+      "horizon": 1,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap2_all_h1",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 328,
+      "horizon": 1,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap2_all_h2",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 94,
+      "horizon": 2,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap2_all_h2",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 149,
+      "horizon": 2,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap2_all_h2",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 204,
+      "horizon": 2,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap2_all_h3",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 42,
+      "horizon": 3,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap2_all_h3",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 85,
+      "horizon": 3,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap2_all_h3",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 129,
+      "horizon": 3,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap2_all_h4",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 0,
+      "horizon": 4,
+      "max_label_season": null,
+      "valid": false
+    },
+    {
+      "policy_id": "s2008_gap2_all_h4",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 34,
+      "horizon": 4,
+      "max_label_season": 2012,
+      "valid": false
+    },
+    {
+      "policy_id": "s2008_gap2_all_h4",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 73,
+      "horizon": 4,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap2_all_h5",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 0,
+      "horizon": 5,
+      "max_label_season": null,
+      "valid": false
+    },
+    {
+      "policy_id": "s2008_gap2_all_h5",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 0,
+      "horizon": 5,
+      "max_label_season": null,
+      "valid": false
+    },
+    {
+      "policy_id": "s2008_gap2_all_h5",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 31,
+      "horizon": 5,
+      "max_label_season": 2013,
+      "valid": false
+    },
+    {
+      "policy_id": "s2008_gap2_drafted_h1",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 136,
+      "horizon": 1,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap2_drafted_h1",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 190,
+      "horizon": 1,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap2_drafted_h1",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 245,
+      "horizon": 1,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap2_drafted_h2",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 81,
+      "horizon": 2,
+      "max_label_season": 2011,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap2_drafted_h2",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 126,
+      "horizon": 2,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap2_drafted_h2",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 169,
+      "horizon": 2,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap2_drafted_h3",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 37,
+      "horizon": 3,
+      "max_label_season": 2011,
+      "valid": false
+    },
+    {
+      "policy_id": "s2008_gap2_drafted_h3",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 76,
+      "horizon": 3,
+      "max_label_season": 2012,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap2_drafted_h3",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 113,
+      "horizon": 3,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap2_drafted_h4",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 0,
+      "horizon": 4,
+      "max_label_season": null,
+      "valid": false
+    },
+    {
+      "policy_id": "s2008_gap2_drafted_h4",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 30,
+      "horizon": 4,
+      "max_label_season": 2012,
+      "valid": false
+    },
+    {
+      "policy_id": "s2008_gap2_drafted_h4",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 67,
+      "horizon": 4,
+      "max_label_season": 2013,
+      "valid": true
+    },
+    {
+      "policy_id": "s2008_gap2_drafted_h5",
+      "year": 2012,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 0,
+      "horizon": 5,
+      "max_label_season": null,
+      "valid": false
+    },
+    {
+      "policy_id": "s2008_gap2_drafted_h5",
+      "year": 2013,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 0,
+      "horizon": 5,
+      "max_label_season": null,
+      "valid": false
+    },
+    {
+      "policy_id": "s2008_gap2_drafted_h5",
+      "year": 2014,
+      "all_registered_audit_fields_exact": true,
+      "observed_training_rows": 27,
+      "horizon": 5,
+      "max_label_season": 2013,
+      "valid": false
+    }
+  ],
+  "negative_fixtures": {
+    "future_cutoff_values_and_existence_ignored": true,
+    "missing_ordinal_or_unknown_label_never_zero_filled": true,
+    "known_zero_retained": true,
+    "row_order_invariance": true,
+    "duplicate_fact_rejected": true,
+    "synthetic_fixture_not_model_data": true
+  }
+}
