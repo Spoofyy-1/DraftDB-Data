@@ -1,0 +1,10 @@
+# Data v4 — verified inputs for the redraft engine (2026-09-07)
+
+Built by `make_v4_inputs.py` from the box's v3.5 matrix plus the audited sidecars in `research/`:
+
+- Removed (feature_provenance quarantine): all 20 legacy `bio_` columns (current-NBA weight fallback, train+test imputation, a documented post-draft measurement fill), `med_*` (undated, implausible durations), `cons_*` (no dated source evidence), `scout_*` (uncertified grades), 24 unverified college-derived columns (BPM percentiles, lineup RAPM, z-scores), my `cmb_` block (superseded) and legacy `cs_` drills.
+- Replaced, keeping the engine's column names with a `*_src` provenance flag: age from dated pre-draft profiles (`vmb_age_reported_years`, 507 of 1,458 training rows; legacy age kept for the rest, flag 0 - a birth-date fact, not proven to leak), height from official same-year combine or dated profiles (767 rows) else legacy (flag 0), weight from verified sources only (no fallback), position from dated profiles else legacy, all `bio_combine_*` from the official same-year combine only, `bio_country_usa` from the pre-draft Wikipedia infobox, mock consensus (`cons_mock_consensus_rank/best/n_sources`) from dated archived mock lists (`vcons_`).
+- Added as optional blocks: `f50_` (50 Torvik teammate/role/career-shape stats), `ctx_` (38 reconstructed college base/skill stats), `tctx_` (20 team context), `cgd_` (15 college game averages), `slot_` (6), `vmb_` (10 dated profile fields), `vcmb_` (37 official combine fields incl. drill groups), `vcons_` (4).
+- Unchanged: rows, order, pids, labels, metadata; `col_` box/rate stats, `intl_` (latest pre-draft pro season), `col_gl_`, `hs_`, `pre_`, and my dated blocks (`tv_`, `txt_`, `traj_`, `wp_`, `gt_`, `rsci_`, `ts_`, `mock_`, `prog_`, `misc_`).
+
+544 inputs. Dated consensus covers 80-95% of drafted players in 2007-2018 and none before 2007. Known limits carried from the audit: the prospect universe itself was built with knowledge of later NBA participation (not repairable without rebuilding the benchmark), and the remaining `col_` columns are not individually certified.

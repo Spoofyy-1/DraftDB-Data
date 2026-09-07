@@ -1,0 +1,95 @@
+{
+ "exact_all_bio_quarantine": [
+  "bio_height_in",
+  "bio_weight_lb",
+  "bio_pos_code",
+  "bio_age_at_draft",
+  "bio_combine_height_in",
+  "bio_combine_weight_lb",
+  "bio_combine_wingspan_in",
+  "bio_combine_reach_in",
+  "bio_combine_body_fat_pct",
+  "bio_combine_hand_length_in",
+  "bio_combine_hand_width_in",
+  "bio_combine_vertical_standing_in",
+  "bio_combine_vertical_max_in",
+  "bio_combine_lane_agility_s",
+  "bio_combine_sprint_s",
+  "bio_combine_bench_reps",
+  "bio_combine_wingspan_minus_height_in",
+  "bio_country_usa",
+  "bio_bmi_proxy",
+  "bio_measure_src"
+ ],
+ "exact_medical_quarantine": [
+  "med_n_injuries",
+  "med_n_surgeries",
+  "med_major_injury",
+  "med_red_flag",
+  "med_months_since_injury"
+ ],
+ "exact_consensus_quarantine": [
+  "cons_mock_consensus_rank",
+  "cons_mock_best_rank",
+  "cons_mock_n_sources",
+  "cons_bigboard_consensus_rank"
+ ],
+ "exact_unverified_college_derived_quarantine": [
+  "col_bpm_rank_team",
+  "col_bpm_pct_class",
+  "col_bpm_pct_age",
+  "col_bpm_pct_role",
+  "col_lu_on_off_net",
+  "col_lu_on_net",
+  "col_lu_rapm",
+  "col_lu_orapm",
+  "col_lu_drapm",
+  "col_lu_poss_on",
+  "col_lu_reliable",
+  "col_first_bpm",
+  "col_bpm_delta",
+  "col_bpm_mean",
+  "col_bpm_max",
+  "col_z_impact",
+  "col_z_ts_pct",
+  "col_z_usg_pct",
+  "col_z_ast_pct",
+  "col_z_stl_pct",
+  "col_z_blk_pct",
+  "col_z_orb_pct",
+  "col_z_fg3ar",
+  "col_z_pts36"
+ ],
+ "descendants": {
+  "bio_height_in": [
+   "x_rim",
+   "x_cls_height",
+   "bio_bmi_proxy"
+  ],
+  "bio_age_at_draft": [
+   "x_age_x_shoot",
+   "x_old_shooter",
+   "x_young_prod",
+   "x_old_prod",
+   "x_young_cons",
+   "x_cls_age"
+  ],
+  "bio_pos_code": [
+   "position-conditioned normalization when posz is enabled"
+  ],
+  "bio_combine_height_in": [
+   "bio_combine_wingspan_minus_height_in"
+  ],
+  "bio_combine_wingspan_in": [
+   "bio_combine_wingspan_minus_height_in"
+  ],
+  "cons_mock_consensus_rank": [
+   "x_young_cons",
+   "x_cons_vs_prod",
+   "x_cons_missing"
+  ],
+  "all_excluded_source_fields": [
+   "feat_coverage and all coverage thresholds must be recomputed from retained sources; never reuse prior coverage values"
+  ]
+ }
+}
