@@ -16,6 +16,14 @@
     "verification.json": {
       "sha256": "a1b88cdf93ae11610653f2005a6b7a04b49f9bae1f8763719904ea6c14a188b4",
       "bytes": 5056
+    },
+    "dashboard/dash.py": {
+      "sha256": "f3c64ff42d521e05422ad1d72f2f181d35d127f57479da966216d44293b5c1d8",
+      "bytes": 12683
+    },
+    "dashboard/stack_r8.html": {
+      "sha256": "fc8a62aecab486831edc26e1eaacfbf17d0cddf490111181fdfe55bdcfb54295",
+      "bytes": 14779
     }
   }
 }
