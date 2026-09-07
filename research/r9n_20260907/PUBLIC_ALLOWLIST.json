@@ -1,5 +1,5 @@
 {
-  "policy": "Only listed code, registration, hash-only preprocessing/capacity proofs and dashboard. No input/scoring NPZ, private label facts, identity crosswalks or raw source-reference records. Original member predictions remain in verified M/L archives. All profile aliases determined before fits without outcome scores.",
+  "policy": "Only listed code, registration, hash-only preprocessing/capacity proofs, launch status and dashboard. No input/scoring NPZ, private label facts, identity crosswalks or raw source-reference records. Original member predictions remain in verified M/L archives. All profile aliases determined before fits without outcome scores.",
   "files": {
     "README.md": {
       "sha256": "4114e77baf11da6ccb6e6d48c0f78077df4c3186571642e18649a2df89fac106",
@@ -112,6 +112,10 @@
     "dashboard/stack_r8.html": {
       "sha256": "f5a3b69c6dc5a0973941c1dbc4564b1248d140928969da925b7904c797be4eef",
       "bytes": 22809
+    },
+    "results/launch_verification.json": {
+      "sha256": "7b80993e784a9219f1c2babd5830c7f321b955f8193197c6db5c1fa18e20763a",
+      "bytes": 1380
     }
   }
 }
