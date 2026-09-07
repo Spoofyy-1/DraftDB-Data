@@ -1,0 +1,35 @@
+{
+  "passed": true,
+  "aliases": [
+    {
+      "requested": "none_o0p5_n256",
+      "representative": "none_o0p5_n128",
+      "all_nine_designs_exact": true
+    },
+    {
+      "requested": "none_o1p0_n256",
+      "representative": "none_o1p0_n128",
+      "all_nine_designs_exact": true
+    },
+    {
+      "requested": "none_o2p0_n256",
+      "representative": "none_o2p0_n128",
+      "all_nine_designs_exact": true
+    },
+    {
+      "requested": "none_o4p0_n256",
+      "representative": "none_o4p0_n128",
+      "all_nine_designs_exact": true
+    },
+    {
+      "requested": "power_o2p0_n256",
+      "representative": "power_o2p0_n128",
+      "all_nine_designs_exact": true
+    }
+  ],
+  "duplicate_fits_avoided": 45,
+  "requested_fits": 198,
+  "actual_new_fits": 153,
+  "no_score_values_used": true,
+  "original_requests_retained": true
+}

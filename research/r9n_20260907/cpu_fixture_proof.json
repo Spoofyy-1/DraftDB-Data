@@ -1,0 +1,41 @@
+{
+  "passed": true,
+  "tests": 8,
+  "predictive_model_fits": 0,
+  "requested_profiles": 23,
+  "requested_new_jobs": 66,
+  "requested_new_TabICL_fits": 198,
+  "baseline_profile_reused": true,
+  "original_unique_stack_recipes": 1723,
+  "original_view_weight_design_aliases": 3496,
+  "finite_fixture_prediction_records": 20676,
+  "profile_exclusion_or_cap_dedupe": "Pending remote CPU source-payload preparation; no guessed counts",
+  "python_syntax_passed": true,
+  "shell_syntax_passed": true,
+  "files": {
+    "README.md": "4114e77baf11da6ccb6e6d48c0f78077df4c3186571642e18649a2df89fac106",
+    "build_inputs.py": "4483e114b7c74f35c3c1cc64222c1f192ed28ef0ccc9af53163b8c2f407920f0",
+    "capacity.py": "ac8853284504bd9b7c716e133f970e4e389bdd0c14bde9a34479aa005eb4800b",
+    "cpu_preflight.py": "e17461a1657f2347dd0f5625d9aa660b46111c097aa9b1afe08e8660e728bfbf",
+    "model_backend.py": "e40a15edc00df389d6b1f017b58f4c15a8455539b9ad6d6a63db4b176b964284",
+    "postprocess.py": "d862ab283a6aaec75af53993c0376cac16a592aadd915546bd62c31d76d8c3e7",
+    "prepare_protocol.py": "9c78671a5cbdf63f0bbaec046f48848fb25e7a3c74861308aff00e4b5fd45ce4",
+    "preprocessing.py": "8f8a22877c046abaead5a6144fd1d3c05338682d8128b40055801e1c02c65962",
+    "protocol.json": "953dc21703999afdf5e181e78b02da2d41da1da0902610c95ef019a08ff6dfaf",
+    "research.py": "c363223c42db6fb3bd97124c3ada1e86fe20028335b17829c2762feef3981f6d",
+    "reuse_controls.py": "8fb81b4eaf2ce6f05516b4faa08fc13d8d1c9c5945990408049f0ae25d963b8b",
+    "run_task_sandbox.sh": "de9d49f183173ff5ea9a0a0016be59f51c3f4bb8c5520b6f5980962d5ac88d54",
+    "runtime_support.json": "e3c7662c056e1a1688c234f49d1aa53e5394f3c9bcaaf4c7687dacdfc8c7d119",
+    "stack_core.py": "a862e230d4912164d8d0d173561e6d3b05686558ce1338fa06c3fa2051b43892",
+    "stack_predictions.py": "6d19fcb8ccc99240a62686f6af596e96d45eda1e7a8723515f422b3b8234893d",
+    "test_n.py": "49fbf92a2a4101762997b478011b7879a8537b0f5862b05cc7aed9279670993a",
+    "worker.py": "1899fd23274178237d823de539d8e9811da7f05b477c7d5cf78c71c1478b52f4"
+  },
+  "not_run": [
+    "remote private input build",
+    "actual TabICL preprocessing admission scan",
+    "isolated source-input CPU preflight",
+    "GPU model fits",
+    "service launch"
+  ]
+}

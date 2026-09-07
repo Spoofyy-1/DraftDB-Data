@@ -1,0 +1,20 @@
+{
+  "model_fits_authorized": true,
+  "authorization": "User-directed ongoing GPU stacking toward55%; root reviewed development-only profile study and exact cap aliases.",
+  "plan_sha256": "edea708ee96d5d4dd9daaa0e72f318f8dec3813a446eb2b39ebfdec7f1945f48",
+  "frozen_sha256": "572ea77c8e6526df74d9217c1e34c11fc4c6fdbdf30031d08e93dec64cfb904b",
+  "cpu_preflight_sha256": "738350fa96614876fb887eb275f1443d92af7a4226e3cf54373d2ad1a22004c7",
+  "new_jobs": 51,
+  "new_TabICL_fits": 153,
+  "requested_new_fits": 198,
+  "exact_duplicate_fits_avoided": 45,
+  "reused_member_records": 6,
+  "workers": 4,
+  "limits": {
+    "runtime_seconds": 7200,
+    "memory_gib": 140,
+    "cpu_quota_percent": 2200
+  },
+  "automatic_retry": false,
+  "no_benchmark_evaluation": true
+}

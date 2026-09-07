@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "target_percent": 55,
+  "protocol_sha256": "953dc21703999afdf5e181e78b02da2d41da1da0902610c95ef019a08ff6dfaf",
+  "requested_profiles": 23,
+  "maximum_new_jobs": 66,
+  "maximum_new_TabICL_fits": 198,
+  "reuse_records": 6,
+  "no_new_Ridge_or_CatBoost_fits": true,
+  "root_review": "Pinned installed TabICL fit389\u2013434 and predict705\u2013752 match CPU encoder, float32 target standardization and ensemble preparation. Prediction averages actual ensemble tensors, allowing requested-size aliases only under full numerical/layout/config/other-parameter equality across allfolds/seeds. Builder binds M completion->result_manifest->diagnostics and preserves source records. Runtime+namespace records validated. Worker mounts one task only. Root scorer verifies24Mrecipevectors beforefits and caches fixed developmenttruth. Immediate refill and30s score summary cadence.",
+  "independent_static_review": "source_validation found no blocking leakage, invalid reuse, capacityalias or rankmath defect; all1723 positive-integer recipe references valid.",
+  "expected_cpu_fixture_tests": 8,
+  "all_real_input_CPU_checks_required_before_freeze": true,
+  "no_2019plus_scoring": true,
+  "no_automatic_promotion": true,
+  "limitations": [
+    "Reused pre2019 development folds",
+    "Historical sourcevintage and incompletepopulation",
+    "Full-pool inherited missing-to-zero scoringtruth; complete-targetmask secondary; unknown traininglabels neverzero-filled"
+  ]
+}

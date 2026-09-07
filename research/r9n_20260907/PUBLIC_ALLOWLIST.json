@@ -1,0 +1,117 @@
+{
+  "policy": "Only listed code, registration, hash-only preprocessing/capacity proofs and dashboard. No input/scoring NPZ, private label facts, identity crosswalks or raw source-reference records. Original member predictions remain in verified M/L archives. All profile aliases determined before fits without outcome scores.",
+  "files": {
+    "README.md": {
+      "sha256": "4114e77baf11da6ccb6e6d48c0f78077df4c3186571642e18649a2df89fac106",
+      "bytes": 3953
+    },
+    "plan.json": {
+      "sha256": "edea708ee96d5d4dd9daaa0e72f318f8dec3813a446eb2b39ebfdec7f1945f48",
+      "bytes": 1374945
+    },
+    "frozen.json": {
+      "sha256": "572ea77c8e6526df74d9217c1e34c11fc4c6fdbdf30031d08e93dec64cfb904b",
+      "bytes": 23840
+    },
+    "launch_authorization.json": {
+      "sha256": "6a0dfd0d77d9b4b3119c2d7eb5b0563468706e101582eac52d06543f4c81b835",
+      "bytes": 759
+    },
+    "cpu_fixture_proof.json": {
+      "sha256": "9ee8fbfa1c5350fa5e89f6a5f757b9bcc9dd921385172427d50a8b5d00f85c54",
+      "bytes": 2240
+    },
+    "root_review.json": {
+      "sha256": "403db31af5732e42f320c4f064c303ac4a7ebb8fb1d64c2ed1ffbb66eb3406f0",
+      "bytes": 1479
+    },
+    "root_capacity_verification.json": {
+      "sha256": "b023c50aac7438c212f50d2a4115bef5ca68100dcf33b8cc6c4152e46d6bbcc7",
+      "bytes": 840
+    },
+    "build_inputs.py": {
+      "sha256": "4483e114b7c74f35c3c1cc64222c1f192ed28ef0ccc9af53163b8c2f407920f0",
+      "bytes": 6942
+    },
+    "reuse_controls.py": {
+      "sha256": "8fb81b4eaf2ce6f05516b4faa08fc13d8d1c9c5945990408049f0ae25d963b8b",
+      "bytes": 5740
+    },
+    "research.py": {
+      "sha256": "c363223c42db6fb3bd97124c3ada1e86fe20028335b17829c2762feef3981f6d",
+      "bytes": 5726
+    },
+    "postprocess.py": {
+      "sha256": "d862ab283a6aaec75af53993c0376cac16a592aadd915546bd62c31d76d8c3e7",
+      "bytes": 6558
+    },
+    "stack_predictions.py": {
+      "sha256": "6d19fcb8ccc99240a62686f6af596e96d45eda1e7a8723515f422b3b8234893d",
+      "bytes": 4996
+    },
+    "cpu_preflight.py": {
+      "sha256": "e17461a1657f2347dd0f5625d9aa660b46111c097aa9b1afe08e8660e728bfbf",
+      "bytes": 2502
+    },
+    "run_task_sandbox.sh": {
+      "sha256": "de9d49f183173ff5ea9a0a0016be59f51c3f4bb8c5520b6f5980962d5ac88d54",
+      "bytes": 1781
+    },
+    "test_n.py": {
+      "sha256": "49fbf92a2a4101762997b478011b7879a8537b0f5862b05cc7aed9279670993a",
+      "bytes": 7642
+    },
+    "prepare_protocol.py": {
+      "sha256": "9c78671a5cbdf63f0bbaec046f48848fb25e7a3c74861308aff00e4b5fd45ce4",
+      "bytes": 4746
+    },
+    "capacity.py": {
+      "sha256": "ac8853284504bd9b7c716e133f970e4e389bdd0c14bde9a34479aa005eb4800b",
+      "bytes": 2264
+    },
+    "freeze_registration.py": {
+      "sha256": "f621f37c2d388a50c1005a0c626f5a61f06c54dc30337af4b50fdee5ea131ad9",
+      "bytes": 4239
+    },
+    "results/cpu_preflight.json": {
+      "sha256": "738350fa96614876fb887eb275f1443d92af7a4226e3cf54373d2ad1a22004c7",
+      "bytes": 13633
+    },
+    "results/preprocessing_scan.json": {
+      "sha256": "c3f52ed4080c53b43d6c2b217689c66cf0ab094fe9c8d30318095e9174c62b3b",
+      "bytes": 1429055
+    },
+    "code/worker.py": {
+      "sha256": "1899fd23274178237d823de539d8e9811da7f05b477c7d5cf78c71c1478b52f4",
+      "bytes": 7332
+    },
+    "code/model_backend.py": {
+      "sha256": "e40a15edc00df389d6b1f017b58f4c15a8455539b9ad6d6a63db4b176b964284",
+      "bytes": 1792
+    },
+    "code/preprocessing.py": {
+      "sha256": "8f8a22877c046abaead5a6144fd1d3c05338682d8128b40055801e1c02c65962",
+      "bytes": 4394
+    },
+    "code/stack_core.py": {
+      "sha256": "a862e230d4912164d8d0d173561e6d3b05686558ce1338fa06c3fa2051b43892",
+      "bytes": 5336
+    },
+    "code/runtime_support.json": {
+      "sha256": "e3c7662c056e1a1688c234f49d1aa53e5394f3c9bcaaf4c7687dacdfc8c7d119",
+      "bytes": 21978
+    },
+    "code/protocol.json": {
+      "sha256": "953dc21703999afdf5e181e78b02da2d41da1da0902610c95ef019a08ff6dfaf",
+      "bytes": 1585682
+    },
+    "dashboard/dash.py": {
+      "sha256": "bc98e066c5256d2f23f68c59669acdd2bd183aef0b8e5cc55260d21bbae4101f",
+      "bytes": 14547
+    },
+    "dashboard/stack_r8.html": {
+      "sha256": "f5a3b69c6dc5a0973941c1dbc4564b1248d140928969da925b7904c797be4eef",
+      "bytes": 22809
+    }
+  }
+}
