@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "tests": 5,
+  "runtime": "/home/ubuntu/nba/.venv/bin/python",
+  "command": "python -m unittest test_controller -v",
+  "model_fits": 0,
+  "test_answers_opened": false,
+  "checks": [
+    "Scorer stops before answer read when freeze invalid",
+    "Undefined cohort never silently omitted",
+    "Correlation is rank-based",
+    "Recovered routing arithmetic",
+    "Fixed seed average never best-seed selection"
+  ]
+}

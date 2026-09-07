@@ -1,0 +1,21 @@
+{
+  "status": "ready_CPU_only_no_models",
+  "remote_export_root": "/home/ubuntu/nba/handoff/r9recoveredtest_labelprep/exports",
+  "remote_manifest_sha256": "331f9bc49028abe273a9e5dd805ea39ac03dd96cb9d3ba35810c1ca26234dc09",
+  "remote_verification_sha256": "7c440c6ca8c9d6709f84cdfcb64afa9709ed09283309452f2cfb09b272f00a6b",
+  "all7_training_exports_and7_queries_verified": true,
+  "2019_original_broker_and_six_array_replay_exact": true,
+  "all_source_pins_unchanged": true,
+  "private_training_arrays_and_facts_server_only": true,
+  "no_fits_no_scores_no_query_outcomes": true,
+  "files": {
+    "README.md": "c2b3483c2f9b44fdbe0bcd9264ca0bb9148c2a896e4616c8ebbd0e2d95d479a3",
+    "build.py": "2c529d575014f78ceca02732cf768fe6cbf80e491f380f2b8a3a514676da8b61",
+    "export_manifest.json": "331f9bc49028abe273a9e5dd805ea39ac03dd96cb9d3ba35810c1ca26234dc09",
+    "export_verification.json": "7c440c6ca8c9d6709f84cdfcb64afa9709ed09283309452f2cfb09b272f00a6b",
+    "test_build.py": "47954820cc2101b32623632f8758ec635347d9fd48863388b80ead44f9cf96d5",
+    "tests.json": "ef20d1f6e4790877a56cc8041bd74404073bb7fd4002d2811aef3ea0aa36c324",
+    "verify_exports.py": "fcd0e582b240d858f2071911c7e99aca7372c5046ded567879a18f9664a45179"
+  },
+  "no_automatic_publication": true
+}

@@ -1,0 +1,138 @@
+{
+  "passed": true,
+  "tasks": [
+    {
+      "id": "prefix5_y2019",
+      "year": 2019,
+      "passed": true,
+      "model_fits": 0,
+      "preflight_sha256": "999bd2bddae8d69dd11556a9fab9f07884c2f96815b149d1721184faddccc901",
+      "preflight_log_sha256": "82e14595b786fdf998c67b4a35bf3ddf1e97efaf57fd3dc32f964338805e3be8",
+      "input_manifest_sha256": "df525829d21f01c12ef0eab9e0e1cef055c90bfc76865f381048caace642428d",
+      "training_rows": 825,
+      "query_rows": 58,
+      "inner_counts": [
+        287,
+        281,
+        257
+      ],
+      "actual_label_max": 2018
+    },
+    {
+      "id": "prefix5_y2020",
+      "year": 2020,
+      "passed": true,
+      "model_fits": 0,
+      "preflight_sha256": "2d648b4c039d79c5860197ed57bd418f980a8460413dddddc5befa31a76e104f",
+      "preflight_log_sha256": "1f24ab8541fe6e853b16bec067b9a8ae2e4e947c77e41eb7dfd72af2dc1fee80",
+      "input_manifest_sha256": "9151c99884f36f85bfc0f43f36039eee51b5ed467e46ce957ca0369a02560c0b",
+      "training_rows": 929,
+      "query_rows": 58,
+      "inner_counts": [
+        320,
+        322,
+        287
+      ],
+      "actual_label_max": 2019
+    },
+    {
+      "id": "prefix5_y2021",
+      "year": 2021,
+      "passed": true,
+      "model_fits": 0,
+      "preflight_sha256": "a06f9d545158129a116f5aeb99c479c2d5bb29a5035156829e426fdffb628f7a",
+      "preflight_log_sha256": "f1d63a6946e01b7408808c85668f152651be32a8bbccaeb99407f2a252613e1d",
+      "input_manifest_sha256": "4d36a4829bea199bb50403eecb48513c6693a795bbef7ea23ac80b5518ce65bb",
+      "training_rows": 1046,
+      "query_rows": 56,
+      "inner_counts": [
+        359,
+        365,
+        322
+      ],
+      "actual_label_max": 2020
+    },
+    {
+      "id": "prefix5_y2022",
+      "year": 2022,
+      "passed": true,
+      "model_fits": 0,
+      "preflight_sha256": "f8a99afff2212d9da44c9270c73726d800eaaf12cbb61126f945eed3c827c16b",
+      "preflight_log_sha256": "7a9f25a4be0032274181ae8d4110707a9574ad76121e9909872da602d4843503",
+      "input_manifest_sha256": "8ec9fbad4d74e631ccce7807d0b527bc4fe8e8b427bae9288fe51900a86063e5",
+      "training_rows": 1140,
+      "query_rows": 52,
+      "inner_counts": [
+        391,
+        404,
+        345
+      ],
+      "actual_label_max": 2021
+    },
+    {
+      "id": "prefix5_y2023",
+      "year": 2023,
+      "passed": true,
+      "model_fits": 0,
+      "preflight_sha256": "d7ea83c8d1a95fe60f3e492465b5fba607eaaf0e5187780eacdde51b5e77d8fe",
+      "preflight_log_sha256": "38cc80622f4c240abd75edfd0b4bc6522bc5d7ea6f5eb711894a8aa56e7df5bc",
+      "input_manifest_sha256": "fbafaf5ada610016211c6db33acaa1690cffa09e21b3537243d9e43af7247b46",
+      "training_rows": 1266,
+      "query_rows": 56,
+      "inner_counts": [
+        432,
+        450,
+        384
+      ],
+      "actual_label_max": 2022
+    },
+    {
+      "id": "prefix5_y2024",
+      "year": 2024,
+      "passed": true,
+      "model_fits": 0,
+      "preflight_sha256": "6355632d83c5740e352c7698bc01b8ac22c72dd0b3ae97257d6bfb67f9639380",
+      "preflight_log_sha256": "eb816bbf473c161dc3600caaa70c78f21695eaf8fa87ac8aae66885ee613ca59",
+      "input_manifest_sha256": "26d9adffb91e83877bc7d67a3e4621dc460ff783a8beec686318e8af6ec1bb50",
+      "training_rows": 1266,
+      "query_rows": 55,
+      "inner_counts": [
+        432,
+        450,
+        384
+      ],
+      "actual_label_max": 2022
+    },
+    {
+      "id": "prefix5_y2025",
+      "year": 2025,
+      "passed": true,
+      "model_fits": 0,
+      "preflight_sha256": "28df911024242e47a2158b341a0490011db42cb0cf4fcc0b24b15400ef60c4f3",
+      "preflight_log_sha256": "c1a5d3146ddbd9f75b9264120f6232b68bd68d2216210ca7c9390f23928c5a9d",
+      "input_manifest_sha256": "21532a21bd391021e4546c11506669be854fc5e5bcc0dd7f68b662e52afb1d5d",
+      "training_rows": 1266,
+      "query_rows": 57,
+      "inner_counts": [
+        432,
+        450,
+        384
+      ],
+      "actual_label_max": 2022
+    }
+  ],
+  "fixture_tests": 9,
+  "actual_model_fits": 0,
+  "benchmark_scores_computed": 0,
+  "concurrent_preflights": 4,
+  "all_source_pins_unchanged": true,
+  "all_code_pins_unchanged": true,
+  "all_model_namespaces_have_no_scoring_or_source_paths": true,
+  "inputs_manifest_sha256": "65872994e32341c6ae9836bcd88bf9e25a630d57f0e095ad95cb461811e193b4",
+  "protocol_sha256": "cfd1ffb41b77b716518db15f4f392d5c8a5625796889498f134064fb4cb4f1c6",
+  "runtime_support_sha256": "e3c7662c056e1a1688c234f49d1aa53e5394f3c9bcaaf4c7687dacdfc8c7d119",
+  "fixture_proof_sha256": "e76c7ad2a733f1ef74f7294924a346f80fe8af1215d2ab299a1a48483f6ea011",
+  "preflight_script_sha256": "579f7a7633067e7f3faa705a36b9e5e12498c67dc3d2266f04bc769e61513d5b",
+  "sandbox_sha256": "7789abe9729d366b2b3cae9615f4d16a232d0188365664492998f762278ec873",
+  "seconds": 15.761004209518433
+}

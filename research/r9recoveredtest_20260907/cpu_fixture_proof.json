@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "tests": 9,
+  "actual_model_fits": 0,
+  "benchmark_scores_computed": 0,
+  "python": "3.12.3",
+  "stdout": "",
+  "stderr": ".........\n----------------------------------------------------------------------\nRan 9 tests in 1.558s\n\nOK\n",
+  "code_files": {
+    "code/model_backend.py": "cbcbdb76b64e47676a8ca68776a2d45ec0eac326c1f1aec3847733fe90cad3b7",
+    "code/protocol.json": "cfd1ffb41b77b716518db15f4f392d5c8a5625796889498f134064fb4cb4f1c6",
+    "code/runtime_support.json": "e3c7662c056e1a1688c234f49d1aa53e5394f3c9bcaaf4c7687dacdfc8c7d119",
+    "code/stack_core.py": "c63018ef10bcd0eb5c218272910df7d853fa6e29a1ecc9c215c21aa63907d628",
+    "code/test_o.py": "8c6035ef750bdfa36c92da73959f2df3a0293418db2da96c7536da92f2c5f50e",
+    "code/worker.py": "995e5beb7a38db8d5b68eaf1942014ec774d4af7746681ec292edd8d5983ce9b"
+  },
+  "protocol_sha256": "cfd1ffb41b77b716518db15f4f392d5c8a5625796889498f134064fb4cb4f1c6"
+}

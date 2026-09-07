@@ -1,0 +1,409 @@
+{
+  "status": "prepared_CPU_only_no_models",
+  "exports": [
+    {
+      "mode": "prefix5",
+      "year": 2019,
+      "rows": 825,
+      "relative_path": "training/prefix5/2019",
+      "training_npz_sha256": "77dd5492c8bc5ee102411f7e6a9684d51a204b45beb46f908eb7ad513077eef2",
+      "manifest_sha256": "a0c50090fe821ded334cedd4180ac329d9ce952cb0208c09b45bd9f34c3d17f3",
+      "max_actual_label_season": 2018,
+      "cap": 5,
+      "pid_hash": "88785b71e2afcc3cf27c0e9b40792ecf1dd859432a995d599779cd2e37b4aac5"
+    },
+    {
+      "mode": "prefix5",
+      "year": 2020,
+      "rows": 929,
+      "relative_path": "training/prefix5/2020",
+      "training_npz_sha256": "16fef1ea387023e23adbc6bb68cdb8e6e46f84868fc0fe38d74da60acee25a7d",
+      "manifest_sha256": "9c0d36631e14a34a506848f139481e908e8d50e083ef0a8463762cf448e77b2c",
+      "max_actual_label_season": 2019,
+      "cap": 5,
+      "pid_hash": "5c11e375b44e5465e82209c0d3d58d936c41600f9ea95226e08b72075deb58a6"
+    },
+    {
+      "mode": "prefix5",
+      "year": 2021,
+      "rows": 1046,
+      "relative_path": "training/prefix5/2021",
+      "training_npz_sha256": "609f55371c23630eda9a6906b82b829192277774850659bd038815eccf73474b",
+      "manifest_sha256": "175937fd96b2ebb273a9f67dde89423d9e410a128e8e4e470da37f757c32db61",
+      "max_actual_label_season": 2020,
+      "cap": 5,
+      "pid_hash": "37590fb5bdd94ffd1cafc23317dca77470608199f0b3658b4e6c5ff7a19ba6e7"
+    },
+    {
+      "mode": "prefix5",
+      "year": 2022,
+      "rows": 1140,
+      "relative_path": "training/prefix5/2022",
+      "training_npz_sha256": "7d0a292f8eb8429a50dc1e183a989805d37a8cbb95aa324762df15aa416c2bcf",
+      "manifest_sha256": "a446eafad6e3f0334703771b6f8efae5cf70f2d33679ac6d33d46edc02c2cc38",
+      "max_actual_label_season": 2021,
+      "cap": 5,
+      "pid_hash": "ac62e404684a11d30a499ff3d2d06d938fcf869233325c4351140aae16ff5f52"
+    },
+    {
+      "mode": "prefix5",
+      "year": 2023,
+      "rows": 1266,
+      "relative_path": "training/prefix5/2023",
+      "training_npz_sha256": "5dbc6dbfe8d287f63889e7f25261535ea2f1422602648356834025927f9f1ba4",
+      "manifest_sha256": "a62ac195efbcb1070e8e3c5422fc0d4ea14302f085639dcacd91fa80429b916a",
+      "max_actual_label_season": 2022,
+      "cap": 5,
+      "pid_hash": "78ffec9e30dd7b68c027883b0f6ca218ed87f584a00c8903c2dfd4ca13189d8a"
+    },
+    {
+      "mode": "prefix5",
+      "year": 2024,
+      "rows": 1266,
+      "relative_path": "training/prefix5/2024",
+      "training_npz_sha256": "5dbc6dbfe8d287f63889e7f25261535ea2f1422602648356834025927f9f1ba4",
+      "manifest_sha256": "b0cca47e9bc378506c1ffe56652da8fa48a86d9262cebacf19476d8b62ff0753",
+      "max_actual_label_season": 2022,
+      "cap": 5,
+      "pid_hash": "78ffec9e30dd7b68c027883b0f6ca218ed87f584a00c8903c2dfd4ca13189d8a"
+    },
+    {
+      "mode": "prefix5",
+      "year": 2025,
+      "rows": 1266,
+      "relative_path": "training/prefix5/2025",
+      "training_npz_sha256": "5dbc6dbfe8d287f63889e7f25261535ea2f1422602648356834025927f9f1ba4",
+      "manifest_sha256": "f813776218fc9ac269d518c5d50de5672115912ffbf1e8f244137c6b5b528d10",
+      "max_actual_label_season": 2022,
+      "cap": 5,
+      "pid_hash": "78ffec9e30dd7b68c027883b0f6ca218ed87f584a00c8903c2dfd4ca13189d8a"
+    }
+  ],
+  "query_metadata": {
+    "2019": {
+      "year": 2019,
+      "rows": 58,
+      "pid_hash": "30b0e46fdd6c082dc57edd400f3210cd5e7756b81435eb437e7d93a4ac143315",
+      "row_order": "SHA256(pid), then pid",
+      "full_provided_drafted_pool": true,
+      "exact_r9stacktest_query_order": true,
+      "query_npz_sha256": "d06b5d6bb3f131cc33b33b1163124c419fa08dd20d8725a465a9aab5b2b1d194"
+    },
+    "2020": {
+      "year": 2020,
+      "rows": 58,
+      "pid_hash": "76b1f5943b1c236151fc043bafc5991eebc600dc29334dca82061a284a21d643",
+      "row_order": "SHA256(pid), then pid",
+      "full_provided_drafted_pool": true,
+      "exact_r9stacktest_query_order": true,
+      "query_npz_sha256": "8549d1fab4f364ca65bf6176184e50978de72f2a5bf1bc3eb50d55c9c6a29a84"
+    },
+    "2021": {
+      "year": 2021,
+      "rows": 56,
+      "pid_hash": "06393de440c911943b0b5d76efbe5aa45a624650f4cb483a83dc9625eb74c751",
+      "row_order": "SHA256(pid), then pid",
+      "full_provided_drafted_pool": true,
+      "exact_r9stacktest_query_order": true,
+      "query_npz_sha256": "7d14e89d4ae7292404b645d88bc6f69eab814ec7e7d1a5afc9790d1430d36eb3"
+    },
+    "2022": {
+      "year": 2022,
+      "rows": 52,
+      "pid_hash": "86e85d247c1f19497423292065998dc625a7a434e4267a5808ddb12b58ee2461",
+      "row_order": "SHA256(pid), then pid",
+      "full_provided_drafted_pool": true,
+      "exact_r9stacktest_query_order": true,
+      "query_npz_sha256": "a21605678f28c6440fb483757e906cb8bd1edf9beb2043c9fa486fed99f8b905"
+    },
+    "2023": {
+      "year": 2023,
+      "rows": 56,
+      "pid_hash": "2efe0711154ca1f3f81d02113366d1bff7ab4aa9f3aabd8015613d8039007e8f",
+      "row_order": "SHA256(pid), then pid",
+      "full_provided_drafted_pool": true,
+      "exact_r9stacktest_query_order": true,
+      "query_npz_sha256": "3f743ae4c5f011a2ee4bff9b764096e360fc03a469850ea0db2b25f42e8ead65"
+    },
+    "2024": {
+      "year": 2024,
+      "rows": 55,
+      "pid_hash": "09d57fc6ae46da79413dccf2afb9f174255b2bc87be17ddaae5e6438dfa24995",
+      "row_order": "SHA256(pid), then pid",
+      "full_provided_drafted_pool": true,
+      "exact_r9stacktest_query_order": true,
+      "query_npz_sha256": "2530ef911739e0fabe61c8b547a7be90d6eb802cf0643c4454617ddaecb3979a"
+    },
+    "2025": {
+      "year": 2025,
+      "rows": 57,
+      "pid_hash": "16a181f55d265d061b9054bc494c43f8a5025af952c7fe8f3b39a79b9f643e13",
+      "row_order": "SHA256(pid), then pid",
+      "full_provided_drafted_pool": true,
+      "exact_r9stacktest_query_order": true,
+      "query_npz_sha256": "f05d65af9fc8e4e271a158287ca46e819e6d96f87b47c5d025cc460022fb29ae"
+    }
+  },
+  "calendar_audits": [
+    {
+      "prediction_year": 2019,
+      "permitted_season_end": 2018,
+      "calendar_source_max": 2022,
+      "source_export_max_label_season": 2018,
+      "max_actual_label_season": 2018,
+      "partial_calendar": false,
+      "missing_calendar_seasons": [],
+      "source_fact_rows": 4137,
+      "all_source_facts_actual_calendar_rechecked": true,
+      "max_source_WAR_difference": 0.0,
+      "identity_exclusions": {
+        "ambiguous_source_identity_or_season": 13,
+        "no_recorded_source_identity_by_cutoff": 259,
+        "ambiguous_project_name": 14
+      },
+      "source_eligible_label_mismatch_players": 0,
+      "eligible_prior_answer_cohorts_in_existing_broker": [],
+      "answer_files_opened_by_this_exporter": false
+    },
+    {
+      "prediction_year": 2020,
+      "permitted_season_end": 2019,
+      "calendar_source_max": 2022,
+      "source_export_max_label_season": 2019,
+      "max_actual_label_season": 2019,
+      "partial_calendar": false,
+      "missing_calendar_seasons": [],
+      "source_fact_rows": 4467,
+      "all_source_facts_actual_calendar_rechecked": true,
+      "max_source_WAR_difference": 0.0,
+      "identity_exclusions": {
+        "ambiguous_source_identity_or_season": 13,
+        "no_recorded_source_identity_by_cutoff": 289,
+        "ambiguous_project_name": 16
+      },
+      "source_eligible_label_mismatch_players": 0,
+      "eligible_prior_answer_cohorts_in_existing_broker": [],
+      "answer_files_opened_by_this_exporter": false
+    },
+    {
+      "prediction_year": 2021,
+      "permitted_season_end": 2020,
+      "calendar_source_max": 2022,
+      "source_export_max_label_season": 2020,
+      "max_actual_label_season": 2020,
+      "partial_calendar": false,
+      "missing_calendar_seasons": [],
+      "source_fact_rows": 4808,
+      "all_source_facts_actual_calendar_rechecked": true,
+      "max_source_WAR_difference": 0.0,
+      "identity_exclusions": {
+        "ambiguous_source_identity_or_season": 12,
+        "no_recorded_source_identity_by_cutoff": 282,
+        "no_nba_season_after_draft_by_cutoff": 1,
+        "ambiguous_project_name": 18
+      },
+      "source_eligible_label_mismatch_players": 1,
+      "eligible_prior_answer_cohorts_in_existing_broker": [
+        2019
+      ],
+      "answer_files_opened_by_this_exporter": false
+    },
+    {
+      "prediction_year": 2022,
+      "permitted_season_end": 2021,
+      "calendar_source_max": 2022,
+      "source_export_max_label_season": 2021,
+      "max_actual_label_season": 2021,
+      "partial_calendar": false,
+      "missing_calendar_seasons": [],
+      "source_fact_rows": 5151,
+      "all_source_facts_actual_calendar_rechecked": true,
+      "max_source_WAR_difference": 1.1102230246251565e-16,
+      "identity_exclusions": {
+        "ambiguous_source_identity_or_season": 12,
+        "no_recorded_source_identity_by_cutoff": 418,
+        "no_nba_season_after_draft_by_cutoff": 3,
+        "ambiguous_project_name": 20
+      },
+      "source_eligible_label_mismatch_players": 1,
+      "eligible_prior_answer_cohorts_in_existing_broker": [
+        2019,
+        2020
+      ],
+      "answer_files_opened_by_this_exporter": false
+    },
+    {
+      "prediction_year": 2023,
+      "permitted_season_end": 2022,
+      "calendar_source_max": 2022,
+      "source_export_max_label_season": 2022,
+      "max_actual_label_season": 2022,
+      "partial_calendar": false,
+      "missing_calendar_seasons": [],
+      "source_fact_rows": 5547,
+      "all_source_facts_actual_calendar_rechecked": true,
+      "max_source_WAR_difference": 1.1102230246251565e-16,
+      "identity_exclusions": {
+        "ambiguous_source_identity_or_season": 13,
+        "no_recorded_source_identity_by_cutoff": 385,
+        "no_nba_season_after_draft_by_cutoff": 4,
+        "ambiguous_project_name": 22
+      },
+      "source_eligible_label_mismatch_players": 1,
+      "eligible_prior_answer_cohorts_in_existing_broker": [
+        2019,
+        2020,
+        2021
+      ],
+      "answer_files_opened_by_this_exporter": false
+    },
+    {
+      "prediction_year": 2024,
+      "permitted_season_end": 2023,
+      "calendar_source_max": 2022,
+      "source_export_max_label_season": 2022,
+      "max_actual_label_season": 2022,
+      "partial_calendar": true,
+      "missing_calendar_seasons": [
+        2023
+      ],
+      "source_fact_rows": 5547,
+      "all_source_facts_actual_calendar_rechecked": true,
+      "max_source_WAR_difference": 1.1102230246251565e-16,
+      "identity_exclusions": {
+        "ambiguous_source_identity_or_season": 13,
+        "no_recorded_source_identity_by_cutoff": 484,
+        "no_nba_season_after_draft_by_cutoff": 4,
+        "ambiguous_project_name": 24
+      },
+      "source_eligible_label_mismatch_players": 1,
+      "eligible_prior_answer_cohorts_in_existing_broker": [
+        2019,
+        2020,
+        2021
+      ],
+      "answer_files_opened_by_this_exporter": false
+    },
+    {
+      "prediction_year": 2025,
+      "permitted_season_end": 2024,
+      "calendar_source_max": 2022,
+      "source_export_max_label_season": 2022,
+      "max_actual_label_season": 2022,
+      "partial_calendar": true,
+      "missing_calendar_seasons": [
+        2023,
+        2024
+      ],
+      "source_fact_rows": 5547,
+      "all_source_facts_actual_calendar_rechecked": true,
+      "max_source_WAR_difference": 1.1102230246251565e-16,
+      "identity_exclusions": {
+        "ambiguous_source_identity_or_season": 13,
+        "no_recorded_source_identity_by_cutoff": 598,
+        "no_nba_season_after_draft_by_cutoff": 4,
+        "ambiguous_project_name": 24
+      },
+      "source_eligible_label_mismatch_players": 1,
+      "eligible_prior_answer_cohorts_in_existing_broker": [
+        2019,
+        2020,
+        2021
+      ],
+      "answer_files_opened_by_this_exporter": false
+    }
+  ],
+  "replay2019": {
+    "year": 2019,
+    "rows": 825,
+    "full_original_broker_facts_reconstructed_exact": true,
+    "all_six_prefix_arrays_exact": true,
+    "no_2019_answers_opened": true,
+    "raw_eligible_ordinal_cells_only": true,
+    "broker_label_verification": {
+      "eligible_label_mismatch_players": 0,
+      "missing_project_label_players": 0
+    }
+  },
+  "source_hashes": {
+    "/home/ubuntu/nba/handoff/r9stacktest_features/package/manifest.json": "9ba8624cfe079fb1a91f80e0c10a662a0694f29ddafcf4f0e9bcfd3995c58225",
+    "/home/ubuntu/nba/handoff/r9stacktest_calendar/freeze.json": "f824ece03e0eeefc3f3c3cacb2215d5c0376785c0130d88f316ad7268db0e90c",
+    "/home/ubuntu/nba/handoff/r9k_labelprep/build.py": "6b89764345f5920d383540d1138977217c94cbd7cbca1de33f2ea718437676f7",
+    "/home/ubuntu/nba/handoff/calendar_broker_prototype/broker.py": "33291890f4a634be3aa38e9d99156e85b439e06451e791a5d05aaa0240a27e8b",
+    "/home/ubuntu/nba/handoff/r9stacktest_features/package/metadata_pre2019.csv": "9dd20ccc753b97ce1692e8343c2c2d1140dd418a41e7ec7bfe193a268fb5a98e",
+    "/home/ubuntu/nba/handoff/r9stacktest_features/package/metadata_2019.csv": "5d1048206aaea6700d2553b358c89ef4e205f69ff29ab440dc10b36dbb7021a3",
+    "/home/ubuntu/nba/handoff/r9stacktest_features/package/metadata_2020.csv": "5dce864027d60659a64e60dc446a20cf352673ec03bc44d160cb6edf523f94ab",
+    "/home/ubuntu/nba/handoff/r9stacktest_features/package/metadata_2021.csv": "9cc1d1c69a7fb3cc7ab5c0d7ff74ab65857c49a610a831586e54d4e92d79302e",
+    "/home/ubuntu/nba/handoff/r9stacktest_features/package/metadata_2022.csv": "83f1d21e609f3723b9fed47a32fe636e35b0a63ae089d5e4726c58e9edad248d",
+    "/home/ubuntu/nba/handoff/r9stacktest_features/package/metadata_2023.csv": "ac7f27dec06cffcfac4c9c77983b8d876ba7cb01d70ccb6a0a4678a6c4c3489a",
+    "/home/ubuntu/nba/handoff/r9stacktest_features/package/metadata_2024.csv": "18f184598c7c2b800a4a13f40ec96cd96b99ef081a76d3e72b54be92640d9e0d",
+    "/home/ubuntu/nba/handoff/r9stacktest_features/package/metadata_2025.csv": "061bd2377c48dc3e6531890f8899f486b30f76b9a598445818d0cd14e277f422",
+    "/home/ubuntu/nba/handoff/r9stacktest_calendar/2019/manifest.json": "2cf158243a7e880cdf7c8309b9544f9b16e37b2076e18abe83bcd9893d6feb82",
+    "/home/ubuntu/nba/handoff/r9stacktest_calendar/2019/training_labels.csv": "8fe72094a90ed89add1cf5ba5f70306d5cd8d20401b3f70696c00d7218a5916c",
+    "/home/ubuntu/nba/handoff/r9test_label_exports/2019/manifest.json": "b61e82f171a08724f0d2bc899a132193c89c11ca1b33988fd4465361d5c3931f",
+    "/home/ubuntu/nba/handoff/calendar_broker_prototype/bundles/2019/manifest.json": "b07e7e23c82978db3ddc124de8b726f24de5d514f7953866e0d74cf09bb6fd44",
+    "/home/ubuntu/nba/handoff/calendar_broker_prototype/bundles/2019/training_labels.csv": "1ab965d5c4f0512e3cfc4711e6809d3bf0c42ddd76c2c01c2f71bbb1224a0fdb",
+    "/home/ubuntu/nba/handoff/calendar_broker_prototype/source/historical_RAPTOR_by_player.csv": "9c90010404c2b557524b6ab7172e2b41a08cf57e929f2753a6c7e9ac7c520ac8",
+    "/home/ubuntu/nba/handoff/calendar_broker_prototype/source/tabular_names.csv": "bc6636a31ce22748d68360771fa633a91879495f29160ce871da15392b55bb41",
+    "/home/ubuntu/nba/handoff/data/train_2000_2018.csv": "14b7083f72b3f1fdd6096f068113e8ca175d618c3660396d21ad6489f1e09b12",
+    "/home/ubuntu/nba/handoff/r9stacktest/bundles/2019/manifest.json": "b9b4dad72f0f9844351b1cf42d4798772fd04c5234886b2818d7715fb7bc18a5",
+    "/home/ubuntu/nba/handoff/r9stacktest/bundles/2019/inference.npz": "0cafc48528a3d582ea4d250d20ae656d7002892b6dcd01724d35badc8b34ab13",
+    "/home/ubuntu/nba/handoff/r9stacktest_calendar/2020/manifest.json": "c8a5e8d709e4a97a0a2cce8ebf784bc0bdb8d5b80ce0024f873af0522e576865",
+    "/home/ubuntu/nba/handoff/r9stacktest_calendar/2020/training_labels.csv": "3a0470e570b245977641411196b8364c30f75bba8a5d2ba18f82468fdb155cab",
+    "/home/ubuntu/nba/handoff/r9test_label_exports/2020/manifest.json": "d78e00e90e1179969d393ba10614f9f2de7be517469aff0a748915b41501fda6",
+    "/home/ubuntu/nba/handoff/calendar_broker_prototype/bundles/2020/manifest.json": "840afcbd0ad094d791232a2fbcdb1ccd2f929a063d9fbdf799e3e05dbcecf70a",
+    "/home/ubuntu/nba/handoff/calendar_broker_prototype/bundles/2020/training_labels.csv": "927ff3b3f57659d54ca0fb92277b490ae8f893fcbeb486f9ae65031ce57a5ec9",
+    "/home/ubuntu/nba/handoff/r9stacktest/bundles/2020/manifest.json": "c61ea41b436f57687bd9750c45a7c2339435b29dc01c919503e954943d0824b5",
+    "/home/ubuntu/nba/handoff/r9stacktest/bundles/2020/inference.npz": "188d31054949f17d7e283d58150b58282452b61b6aa8388d4ad39adcfce95646",
+    "/home/ubuntu/nba/handoff/r9stacktest_calendar/2021/manifest.json": "f506209a6f507cab04647238e277bfbbf2c05543dd6fbe80f935d45f74fa96c4",
+    "/home/ubuntu/nba/handoff/r9stacktest_calendar/2021/training_labels.csv": "614c50e8f14707b0442ec7e84462cd161d0e99407789acc440948f9c7616b511",
+    "/home/ubuntu/nba/handoff/r9test_label_exports/2021/manifest.json": "3a38b04cff234c71fc5adfa0407a59cae91f07b8bc0034c68a8ae0b87de51891",
+    "/home/ubuntu/nba/handoff/calendar_broker_prototype/bundles/2021/manifest.json": "d7f2cae16a8760c2bbb94d3ac113668921045c7f509342a046b283b87caa5c8a",
+    "/home/ubuntu/nba/handoff/calendar_broker_prototype/bundles/2021/training_labels.csv": "5259397d7c726185ffab3216d0f6a0f77802724b0f131ba12db9eb443ad8a921",
+    "/home/ubuntu/nba/handoff/r9stacktest/bundles/2021/manifest.json": "9a8fcacd9c10464f5b6095aa6509edd75d5bb3aa903d6d2d6ae4234128bf5b42",
+    "/home/ubuntu/nba/handoff/r9stacktest/bundles/2021/inference.npz": "a565fb4db5f461dfce68f031dfc63507f0fd7cfcf5a51201431b9be3694012e2",
+    "/home/ubuntu/nba/handoff/r9stacktest_calendar/2022/manifest.json": "9e5a8dc69f0f38cfdb229ba0c14b4f2d036a4026ef08a1a13310bf57b39719a8",
+    "/home/ubuntu/nba/handoff/r9stacktest_calendar/2022/training_labels.csv": "435434ed3bfc3c986daef6fa437fa46cb0b557c799350ea609031f6dd1975fb3",
+    "/home/ubuntu/nba/handoff/r9test_label_exports/2022/manifest.json": "cd8c3124f345c2658e76dda55e7d83877baab6c9704f4738639b06178700ad63",
+    "/home/ubuntu/nba/handoff/calendar_broker_prototype/bundles/2022/manifest.json": "57cdce716312523027c830735e5af8d652de20d13caa4454c8eb74a90112bb3e",
+    "/home/ubuntu/nba/handoff/calendar_broker_prototype/bundles/2022/training_labels.csv": "c1b0320e3e6d473c1279b2c45a8bdee9e0e864e516b660a3ec674bd410dd0af0",
+    "/home/ubuntu/nba/handoff/r9stacktest/bundles/2022/manifest.json": "0e38caa10472f230631e1b689275ccaba0276afc33c82f2110db035b06180a7e",
+    "/home/ubuntu/nba/handoff/r9stacktest/bundles/2022/inference.npz": "28e17b520763ac253932fcae086ce3e517bb662d1b203b1876c6258b6760532f",
+    "/home/ubuntu/nba/handoff/r9stacktest_calendar/2023/manifest.json": "6cfbdcf11df111062625cd39924c73ae3f8b883d1dc049eb5d707da920a4efd9",
+    "/home/ubuntu/nba/handoff/r9stacktest_calendar/2023/training_labels.csv": "8ab5657a89b4f3c7ed461be99a9cae8af5021b48eedb5dbc172ef177546acfcf",
+    "/home/ubuntu/nba/handoff/r9test_label_exports/2023/manifest.json": "8e327479cabb15ff0be27830d6b3cbe444ca0e0089a0fee7e77e2360b82e6b94",
+    "/home/ubuntu/nba/handoff/calendar_broker_prototype/bundles/2023/manifest.json": "21a7b01c29e6d70a481b434036e65c11aa12e8226b1d2e6bfa347539f9055909",
+    "/home/ubuntu/nba/handoff/calendar_broker_prototype/bundles/2023/training_labels.csv": "dbccdb7d548234773c3cdb08860c54cacf78175459c1e910a1839c2fe65b1af9",
+    "/home/ubuntu/nba/handoff/r9stacktest/bundles/2023/manifest.json": "6d45df878c6c83f552dd5d0c5d46c53ec5a7e0ce606f6496f94a09013871d2f8",
+    "/home/ubuntu/nba/handoff/r9stacktest/bundles/2023/inference.npz": "a65553a4a43b0e8a2f816fce6a6fc985d69dffb016ed0f56bc3369ab83281403",
+    "/home/ubuntu/nba/handoff/r9stacktest_calendar/2024/manifest.json": "927ffa9b261219487e88598eda98cd4b55399d6bfeb0b8be7a43f1db08c1343d",
+    "/home/ubuntu/nba/handoff/r9stacktest_calendar/2024/training_labels.csv": "8ab5657a89b4f3c7ed461be99a9cae8af5021b48eedb5dbc172ef177546acfcf",
+    "/home/ubuntu/nba/handoff/r9test_label_exports/2024/manifest.json": "f9423aa64f196dd900c4e0e334a8fc6c7bd282217df799a2ad5d08b2d62cd2c1",
+    "/home/ubuntu/nba/handoff/calendar_broker_prototype/bundles/2024/manifest.json": "37c4379f5a1416bfc35f33fc89afbb2454554fbeb2fb001a3045088c1cb2f997",
+    "/home/ubuntu/nba/handoff/calendar_broker_prototype/bundles/2024/training_labels.csv": "dbccdb7d548234773c3cdb08860c54cacf78175459c1e910a1839c2fe65b1af9",
+    "/home/ubuntu/nba/handoff/r9stacktest/bundles/2024/manifest.json": "da91fed8c5953ace540135522be86ef9b929f8dbacfd4e0280c551024e4a6124",
+    "/home/ubuntu/nba/handoff/r9stacktest/bundles/2024/inference.npz": "67adfd1ec3980e8ea13f6a7b3e795c8be41cba479beca9d2de8d7b13d1ba4eae",
+    "/home/ubuntu/nba/handoff/r9stacktest_calendar/2025/manifest.json": "16c5bf7383d9f4dd18cc883d9d39c71ded05ab4eb43d4857f9ca2835ce4757fe",
+    "/home/ubuntu/nba/handoff/r9stacktest_calendar/2025/training_labels.csv": "8ab5657a89b4f3c7ed461be99a9cae8af5021b48eedb5dbc172ef177546acfcf",
+    "/home/ubuntu/nba/handoff/r9test_label_exports/2025/manifest.json": "d0e85e4ec67128ecbe69a057697a5128562234f2ce6355160285b4e26a834c4f",
+    "/home/ubuntu/nba/handoff/calendar_broker_prototype/bundles/2025/manifest.json": "fc7429f717dcea9a1e17f552120bd1186bce7788b8d7693c886a8f6d0df69196",
+    "/home/ubuntu/nba/handoff/calendar_broker_prototype/bundles/2025/training_labels.csv": "dbccdb7d548234773c3cdb08860c54cacf78175459c1e910a1839c2fe65b1af9",
+    "/home/ubuntu/nba/handoff/r9stacktest/bundles/2025/manifest.json": "1dc42239f23eaff46b1528924c675fe93c3702adf71839322befc94c2c7af75a",
+    "/home/ubuntu/nba/handoff/r9stacktest/bundles/2025/inference.npz": "48387e5dd9479ab23e9307e1f7dbf14cdc14a8c05318614a7e5783133e3484d6"
+  },
+  "builder_sha256": "2c529d575014f78ceca02732cf768fe6cbf80e491f380f2b8a3a514676da8b61",
+  "all_source_hashes_unchanged": true,
+  "private_data_authority_only": true,
+  "model_runs": 0,
+  "predictions_scored": 0,
+  "network_requests": 0,
+  "query_outcomes_or_vault_or_scoring_opened": false,
+  "training_predictors_exported": false,
+  "target_choice": "Fixed archived gen11 semantics supplied before this preparation; no benchmark-score selection",
+  "limitations": [
+    "Verified NBA calendar ends2022;2024/2025 training omits2023/2024 label seasons",
+    "Observed prefix admission and incomplete inherited feature population remain limitations",
+    "WAR and predictor source vintages are retrospective and not fully certified",
+    "Existing2019\u20132025 benchmark has been reused historically; no pristine-holdout claim"
+  ]
+}

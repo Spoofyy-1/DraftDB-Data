@@ -1,0 +1,19 @@
+{
+  "model_fits_authorized": true,
+  "benchmark_scoring_authorized": true,
+  "authorization": "User explicitly requested2019\u20132025 testing and recovery of the original stack; latest steering prioritizes that fixed comparison over further2012\u20132014selection.",
+  "plan_sha256": "a6873ea5baeb0c8d19c55894a7d4deae314a6cf1b36fe6908b03168631e89ca2",
+  "frozen_sha256": "4ab620fa8a95c88e043ed1c37b2f53086b7ba9c732d3fea9aed803e0def56bf5",
+  "cpu_preflight_sha256": "61e9484a21ecf1b0c703c9b379f2743453a6edc0a8181adb2c6774ebffb1ce9a",
+  "jobs": 7,
+  "fits": 182,
+  "workers": 4,
+  "limits": {
+    "runtime_seconds": 7200,
+    "memory_gib": 140,
+    "cpu_quota_percent": 2200
+  },
+  "automatic_retry": false,
+  "all_predictions_required_before_answers": true,
+  "benchmark_model_selection_allowed": false
+}

@@ -1,0 +1,251 @@
+{
+  "passed": true,
+  "exports_verified": 7,
+  "query_metadata_files_verified": 7,
+  "models_run": 0,
+  "predictions_scored": 0,
+  "source_hashes_unchanged": true,
+  "private_permissions_exact": true,
+  "replay2019": {
+    "year": 2019,
+    "rows": 825,
+    "full_original_broker_facts_reconstructed_exact": true,
+    "all_six_prefix_arrays_exact": true,
+    "no_2019_answers_opened": true,
+    "raw_eligible_ordinal_cells_only": true,
+    "broker_label_verification": {
+      "eligible_label_mismatch_players": 0,
+      "missing_project_label_players": 0
+    }
+  },
+  "calendar_audits": [
+    {
+      "prediction_year": 2019,
+      "permitted_season_end": 2018,
+      "calendar_source_max": 2022,
+      "source_export_max_label_season": 2018,
+      "max_actual_label_season": 2018,
+      "partial_calendar": false,
+      "missing_calendar_seasons": [],
+      "source_fact_rows": 4137,
+      "all_source_facts_actual_calendar_rechecked": true,
+      "max_source_WAR_difference": 0.0,
+      "identity_exclusions": {
+        "ambiguous_source_identity_or_season": 13,
+        "no_recorded_source_identity_by_cutoff": 259,
+        "ambiguous_project_name": 14
+      },
+      "source_eligible_label_mismatch_players": 0,
+      "eligible_prior_answer_cohorts_in_existing_broker": [],
+      "answer_files_opened_by_this_exporter": false
+    },
+    {
+      "prediction_year": 2020,
+      "permitted_season_end": 2019,
+      "calendar_source_max": 2022,
+      "source_export_max_label_season": 2019,
+      "max_actual_label_season": 2019,
+      "partial_calendar": false,
+      "missing_calendar_seasons": [],
+      "source_fact_rows": 4467,
+      "all_source_facts_actual_calendar_rechecked": true,
+      "max_source_WAR_difference": 0.0,
+      "identity_exclusions": {
+        "ambiguous_source_identity_or_season": 13,
+        "no_recorded_source_identity_by_cutoff": 289,
+        "ambiguous_project_name": 16
+      },
+      "source_eligible_label_mismatch_players": 0,
+      "eligible_prior_answer_cohorts_in_existing_broker": [],
+      "answer_files_opened_by_this_exporter": false
+    },
+    {
+      "prediction_year": 2021,
+      "permitted_season_end": 2020,
+      "calendar_source_max": 2022,
+      "source_export_max_label_season": 2020,
+      "max_actual_label_season": 2020,
+      "partial_calendar": false,
+      "missing_calendar_seasons": [],
+      "source_fact_rows": 4808,
+      "all_source_facts_actual_calendar_rechecked": true,
+      "max_source_WAR_difference": 0.0,
+      "identity_exclusions": {
+        "ambiguous_source_identity_or_season": 12,
+        "no_recorded_source_identity_by_cutoff": 282,
+        "no_nba_season_after_draft_by_cutoff": 1,
+        "ambiguous_project_name": 18
+      },
+      "source_eligible_label_mismatch_players": 1,
+      "eligible_prior_answer_cohorts_in_existing_broker": [
+        2019
+      ],
+      "answer_files_opened_by_this_exporter": false
+    },
+    {
+      "prediction_year": 2022,
+      "permitted_season_end": 2021,
+      "calendar_source_max": 2022,
+      "source_export_max_label_season": 2021,
+      "max_actual_label_season": 2021,
+      "partial_calendar": false,
+      "missing_calendar_seasons": [],
+      "source_fact_rows": 5151,
+      "all_source_facts_actual_calendar_rechecked": true,
+      "max_source_WAR_difference": 1.1102230246251565e-16,
+      "identity_exclusions": {
+        "ambiguous_source_identity_or_season": 12,
+        "no_recorded_source_identity_by_cutoff": 418,
+        "no_nba_season_after_draft_by_cutoff": 3,
+        "ambiguous_project_name": 20
+      },
+      "source_eligible_label_mismatch_players": 1,
+      "eligible_prior_answer_cohorts_in_existing_broker": [
+        2019,
+        2020
+      ],
+      "answer_files_opened_by_this_exporter": false
+    },
+    {
+      "prediction_year": 2023,
+      "permitted_season_end": 2022,
+      "calendar_source_max": 2022,
+      "source_export_max_label_season": 2022,
+      "max_actual_label_season": 2022,
+      "partial_calendar": false,
+      "missing_calendar_seasons": [],
+      "source_fact_rows": 5547,
+      "all_source_facts_actual_calendar_rechecked": true,
+      "max_source_WAR_difference": 1.1102230246251565e-16,
+      "identity_exclusions": {
+        "ambiguous_source_identity_or_season": 13,
+        "no_recorded_source_identity_by_cutoff": 385,
+        "no_nba_season_after_draft_by_cutoff": 4,
+        "ambiguous_project_name": 22
+      },
+      "source_eligible_label_mismatch_players": 1,
+      "eligible_prior_answer_cohorts_in_existing_broker": [
+        2019,
+        2020,
+        2021
+      ],
+      "answer_files_opened_by_this_exporter": false
+    },
+    {
+      "prediction_year": 2024,
+      "permitted_season_end": 2023,
+      "calendar_source_max": 2022,
+      "source_export_max_label_season": 2022,
+      "max_actual_label_season": 2022,
+      "partial_calendar": true,
+      "missing_calendar_seasons": [
+        2023
+      ],
+      "source_fact_rows": 5547,
+      "all_source_facts_actual_calendar_rechecked": true,
+      "max_source_WAR_difference": 1.1102230246251565e-16,
+      "identity_exclusions": {
+        "ambiguous_source_identity_or_season": 13,
+        "no_recorded_source_identity_by_cutoff": 484,
+        "no_nba_season_after_draft_by_cutoff": 4,
+        "ambiguous_project_name": 24
+      },
+      "source_eligible_label_mismatch_players": 1,
+      "eligible_prior_answer_cohorts_in_existing_broker": [
+        2019,
+        2020,
+        2021
+      ],
+      "answer_files_opened_by_this_exporter": false
+    },
+    {
+      "prediction_year": 2025,
+      "permitted_season_end": 2024,
+      "calendar_source_max": 2022,
+      "source_export_max_label_season": 2022,
+      "max_actual_label_season": 2022,
+      "partial_calendar": true,
+      "missing_calendar_seasons": [
+        2023,
+        2024
+      ],
+      "source_fact_rows": 5547,
+      "all_source_facts_actual_calendar_rechecked": true,
+      "max_source_WAR_difference": 1.1102230246251565e-16,
+      "identity_exclusions": {
+        "ambiguous_source_identity_or_season": 13,
+        "no_recorded_source_identity_by_cutoff": 598,
+        "no_nba_season_after_draft_by_cutoff": 4,
+        "ambiguous_project_name": 24
+      },
+      "source_eligible_label_mismatch_players": 1,
+      "eligible_prior_answer_cohorts_in_existing_broker": [
+        2019,
+        2020,
+        2021
+      ],
+      "answer_files_opened_by_this_exporter": false
+    }
+  ],
+  "records": [
+    {
+      "mode": "prefix5",
+      "year": 2019,
+      "rows": 825,
+      "facts_contiguous_and_actual_cutoff_eligible": true,
+      "independent_discount_and_scipy_rankdata_replay_exact": true,
+      "array_and_fact_hashes_exact": true
+    },
+    {
+      "mode": "prefix5",
+      "year": 2020,
+      "rows": 929,
+      "facts_contiguous_and_actual_cutoff_eligible": true,
+      "independent_discount_and_scipy_rankdata_replay_exact": true,
+      "array_and_fact_hashes_exact": true
+    },
+    {
+      "mode": "prefix5",
+      "year": 2021,
+      "rows": 1046,
+      "facts_contiguous_and_actual_cutoff_eligible": true,
+      "independent_discount_and_scipy_rankdata_replay_exact": true,
+      "array_and_fact_hashes_exact": true
+    },
+    {
+      "mode": "prefix5",
+      "year": 2022,
+      "rows": 1140,
+      "facts_contiguous_and_actual_cutoff_eligible": true,
+      "independent_discount_and_scipy_rankdata_replay_exact": true,
+      "array_and_fact_hashes_exact": true
+    },
+    {
+      "mode": "prefix5",
+      "year": 2023,
+      "rows": 1266,
+      "facts_contiguous_and_actual_cutoff_eligible": true,
+      "independent_discount_and_scipy_rankdata_replay_exact": true,
+      "array_and_fact_hashes_exact": true
+    },
+    {
+      "mode": "prefix5",
+      "year": 2024,
+      "rows": 1266,
+      "facts_contiguous_and_actual_cutoff_eligible": true,
+      "independent_discount_and_scipy_rankdata_replay_exact": true,
+      "array_and_fact_hashes_exact": true
+    },
+    {
+      "mode": "prefix5",
+      "year": 2025,
+      "rows": 1266,
+      "facts_contiguous_and_actual_cutoff_eligible": true,
+      "independent_discount_and_scipy_rankdata_replay_exact": true,
+      "array_and_fact_hashes_exact": true
+    }
+  ],
+  "query_outcomes_or_vault_opened": false,
+  "export_root_manifest_sha256": "331f9bc49028abe273a9e5dd805ea39ac03dd96cb9d3ba35810c1ca26234dc09",
+  "verification_code_sha256": "fcd0e582b240d858f2071911c7e99aca7372c5046ded567879a18f9664a45179"
+}
