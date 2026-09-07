@@ -1,0 +1,700 @@
+{
+  "protocol": "Fixed recovered-gen11 adaptation on2019\u20132025",
+  "scored_at": 1788792911.4041688,
+  "prediction_freeze_sha256": "9f5beaf2c3209383cce4dc525910d8a97521a4b7cf5032788e3a50f1d97548eb",
+  "primary_recipe": "recovered_gen11",
+  "primary_mode": "family_seed_rank_average",
+  "primary_score": 0.40002396809483487,
+  "matched_2020_2025_score": 0.3891719056562409,
+  "rows": [
+    {
+      "season": 2019,
+      "k": 5,
+      "n_full": 58,
+      "n_complete_target": 33,
+      "actual_label_max": 2018,
+      "training_rows": 825,
+      "answer_sha256": "f8d9e7ed5574ed97858d27c914fa68144e414d3981680ff5c4de196917b02de5",
+      "metrics": {
+        "full_legacy": {
+          "predictions": {
+            "per_seed_0": {
+              "recovered_gen11": 0.463188377626931,
+              "prior_baseline": 0.44827059224664734,
+              "always_rich": 0.4095084493655301,
+              "individual_tabicl": 0.442567484565495,
+              "individual_ridge": 0.4047817047527697,
+              "individual_hybrid": 0.4319825429892918
+            },
+            "per_seed_101": {
+              "recovered_gen11": 0.45709541331852466,
+              "prior_baseline": 0.45161094872093865,
+              "always_rich": 0.41162626069137526,
+              "individual_tabicl": 0.45272164363568984,
+              "individual_ridge": 0.4047817047527697,
+              "individual_hybrid": 0.4266900722011902
+            },
+            "per_seed_202": {
+              "recovered_gen11": 0.469413529259805,
+              "prior_baseline": 0.4523308344847044,
+              "always_rich": 0.4106406783331431,
+              "individual_tabicl": 0.446321446403567,
+              "individual_ridge": 0.4047817047527697,
+              "individual_hybrid": 0.4277362582872103
+            },
+            "family_seed_rank_average": {
+              "recovered_gen11": 0.4651363427263987,
+              "prior_baseline": 0.4494752921585325,
+              "always_rich": 0.40841887141785727,
+              "individual_tabicl": 0.4503492937129284,
+              "individual_ridge": 0.4047817047527697,
+              "individual_hybrid": 0.42560199603055665
+            }
+          },
+          "draft": 0.40213479344181613
+        },
+        "complete_target_subset": {
+          "predictions": {
+            "per_seed_0": {
+              "recovered_gen11": 0.4489761946392461,
+              "prior_baseline": 0.41210402328870144,
+              "always_rich": 0.39595521194885896,
+              "individual_tabicl": 0.39237967914438504,
+              "individual_ridge": 0.393048128342246,
+              "individual_hybrid": 0.4100935828877006
+            },
+            "per_seed_101": {
+              "recovered_gen11": 0.44693298301023593,
+              "prior_baseline": 0.41641593768354823,
+              "always_rich": 0.3983617741870315,
+              "individual_tabicl": 0.4281417112299466,
+              "individual_ridge": 0.393048128342246,
+              "individual_hybrid": 0.4251336898395722
+            },
+            "per_seed_202": {
+              "recovered_gen11": 0.4497367777045798,
+              "prior_baseline": 0.3931138279880609,
+              "always_rich": 0.4011365591714907,
+              "individual_tabicl": 0.4077540106951872,
+              "individual_ridge": 0.393048128342246,
+              "individual_hybrid": 0.4151069518716578
+            },
+            "family_seed_rank_average": {
+              "recovered_gen11": 0.4538770053475936,
+              "prior_baseline": 0.39976602462629324,
+              "always_rich": 0.3955878680143963,
+              "individual_tabicl": 0.4138738115885232,
+              "individual_ridge": 0.393048128342246,
+              "individual_hybrid": 0.41143048128342247
+            }
+          },
+          "draft": 0.22860962566844922
+        }
+      }
+    },
+    {
+      "season": 2020,
+      "k": 5,
+      "n_full": 58,
+      "n_complete_target": 32,
+      "actual_label_max": 2019,
+      "training_rows": 929,
+      "answer_sha256": "f6fbe1e54703c60c2c0c284995398f4bd2b5ea167c7c20767b40eac78b4a181e",
+      "metrics": {
+        "full_legacy": {
+          "predictions": {
+            "per_seed_0": {
+              "recovered_gen11": 0.392314328217539,
+              "prior_baseline": 0.3670405196219561,
+              "always_rich": 0.3329692090819887,
+              "individual_tabicl": 0.3491570309584864,
+              "individual_ridge": 0.31537657276900555,
+              "individual_hybrid": 0.3901366031883483
+            },
+            "per_seed_101": {
+              "recovered_gen11": 0.38480709771914046,
+              "prior_baseline": 0.36354407763446295,
+              "always_rich": 0.3294309581118204,
+              "individual_tabicl": 0.346080486496785,
+              "individual_ridge": 0.31537657276900555,
+              "individual_hybrid": 0.3742616337659694
+            },
+            "per_seed_202": {
+              "recovered_gen11": 0.3905605899453721,
+              "prior_baseline": 0.3690769372285125,
+              "always_rich": 0.332481951152955,
+              "individual_tabicl": 0.35377184765103836,
+              "individual_ridge": 0.31537657276900555,
+              "individual_hybrid": 0.38330667448337136
+            },
+            "family_seed_rank_average": {
+              "recovered_gen11": 0.38596437909562686,
+              "prior_baseline": 0.3644391198915183,
+              "always_rich": 0.3289079053157149,
+              "individual_tabicl": 0.3484347427571776,
+              "individual_ridge": 0.31537657276900555,
+              "individual_hybrid": 0.38403791426643574
+            }
+          },
+          "draft": 0.35021071088006406
+        },
+        "complete_target_subset": {
+          "predictions": {
+            "per_seed_0": {
+              "recovered_gen11": 0.13822181717126994,
+              "prior_baseline": 0.1474147513856771,
+              "always_rich": 0.12156216438893522,
+              "individual_tabicl": 0.1444281524926686,
+              "individual_ridge": 0.11363636363636363,
+              "individual_hybrid": 0.10153958944281524
+            },
+            "per_seed_101": {
+              "recovered_gen11": 0.11656891495601172,
+              "prior_baseline": 0.14356436608829,
+              "always_rich": 0.11842346670111457,
+              "individual_tabicl": 0.14296187683284456,
+              "individual_ridge": 0.11363636363636363,
+              "individual_hybrid": 0.08357771260997067
+            },
+            "per_seed_202": {
+              "recovered_gen11": 0.09294225637378498,
+              "prior_baseline": 0.1386138707059352,
+              "always_rich": 0.1169783723682363,
+              "individual_tabicl": 0.14259530791788855,
+              "individual_ridge": 0.11363636363636363,
+              "individual_hybrid": 0.0755131964809384
+            },
+            "family_seed_rank_average": {
+              "recovered_gen11": 0.10338190860026655,
+              "prior_baseline": 0.14114196741525753,
+              "always_rich": 0.11824014864120573,
+              "individual_tabicl": 0.14480799254292656,
+              "individual_ridge": 0.11363636363636363,
+              "individual_hybrid": 0.08249312695898074
+            }
+          },
+          "draft": 0.08247800586510264
+        }
+      }
+    },
+    {
+      "season": 2021,
+      "k": 5,
+      "n_full": 56,
+      "n_complete_target": 33,
+      "actual_label_max": 2020,
+      "training_rows": 1046,
+      "answer_sha256": "1df6b0441d0c818e888f0bdce49479a57778d939511c70a78e94bdddfd86066b",
+      "metrics": {
+        "full_legacy": {
+          "predictions": {
+            "per_seed_0": {
+              "recovered_gen11": 0.5524219896306358,
+              "prior_baseline": 0.5309380753731584,
+              "always_rich": 0.5713504508039252,
+              "individual_tabicl": 0.5158930902749709,
+              "individual_ridge": 0.5731082110594085,
+              "individual_hybrid": 0.5038621927145633
+            },
+            "per_seed_101": {
+              "recovered_gen11": 0.5408306351421879,
+              "prior_baseline": 0.5334678170238965,
+              "always_rich": 0.5711844212631753,
+              "individual_tabicl": 0.5127486511398643,
+              "individual_ridge": 0.5731082110594085,
+              "individual_hybrid": 0.4874564233140079
+            },
+            "per_seed_202": {
+              "recovered_gen11": 0.5524336939794227,
+              "prior_baseline": 0.5415641286604364,
+              "always_rich": 0.572258687328517,
+              "individual_tabicl": 0.5196527457625982,
+              "individual_ridge": 0.5731082110594085,
+              "individual_hybrid": 0.4951808064067694
+            },
+            "family_seed_rank_average": {
+              "recovered_gen11": 0.5487575651777025,
+              "prior_baseline": 0.5304141336967574,
+              "always_rich": 0.5724783842517185,
+              "individual_tabicl": 0.5160728037297051,
+              "individual_ridge": 0.5731082110594085,
+              "individual_hybrid": 0.49584687102594976
+            }
+          },
+          "draft": 0.4084073820915926
+        },
+        "complete_target_subset": {
+          "predictions": {
+            "per_seed_0": {
+              "recovered_gen11": 0.45933975534945953,
+              "prior_baseline": 0.4712960658219677,
+              "always_rich": 0.47091276453414505,
+              "individual_tabicl": 0.5047213187171428,
+              "individual_ridge": 0.46026573236655993,
+              "individual_hybrid": 0.39976602462629324
+            },
+            "per_seed_101": {
+              "recovered_gen11": 0.45532805442937685,
+              "prior_baseline": 0.484331914451086,
+              "always_rich": 0.47104054969970044,
+              "individual_tabicl": 0.5097351066514191,
+              "individual_ridge": 0.46026573236655993,
+              "individual_hybrid": 0.392078216460403
+            },
+            "per_seed_202": {
+              "recovered_gen11": 0.46164132351319054,
+              "prior_baseline": 0.4845395354325631,
+              "always_rich": 0.4733015809956782,
+              "individual_tabicl": 0.5187599249331163,
+              "individual_ridge": 0.46026573236655993,
+              "individual_hybrid": 0.40277429738685894
+            },
+            "family_seed_rank_average": {
+              "recovered_gen11": 0.4626055000692223,
+              "prior_baseline": 0.4763894842598106,
+              "always_rich": 0.4733015809956782,
+              "individual_tabicl": 0.5104036117093225,
+              "individual_ridge": 0.46026573236655993,
+              "individual_hybrid": 0.3968240826781721
+            }
+          },
+          "draft": 0.4375
+        }
+      }
+    },
+    {
+      "season": 2022,
+      "k": 4,
+      "n_full": 52,
+      "n_complete_target": 39,
+      "actual_label_max": 2021,
+      "training_rows": 1140,
+      "answer_sha256": "c07ea8fdb36bad17de230c3ecbefc8b03ceb4bce67b2d2d45d4f52e896ffad67",
+      "metrics": {
+        "full_legacy": {
+          "predictions": {
+            "per_seed_0": {
+              "recovered_gen11": 0.3472302312221559,
+              "prior_baseline": 0.40509034891783524,
+              "always_rich": 0.363931351904368,
+              "individual_tabicl": 0.40138319818438806,
+              "individual_ridge": 0.3540812854436625,
+              "individual_hybrid": 0.3761099740485492
+            },
+            "per_seed_101": {
+              "recovered_gen11": 0.3530516897987969,
+              "prior_baseline": 0.4128685258621799,
+              "always_rich": 0.36162582715039854,
+              "individual_tabicl": 0.41666666818545284,
+              "individual_ridge": 0.3540812854436625,
+              "individual_hybrid": 0.37602459153457674
+            },
+            "per_seed_202": {
+              "recovered_gen11": 0.3423704259644682,
+              "prior_baseline": 0.41958072772016736,
+              "always_rich": 0.3587302331224443,
+              "individual_tabicl": 0.4042862036594507,
+              "individual_ridge": 0.3540812854436625,
+              "individual_hybrid": 0.3659494548858301
+            },
+            "family_seed_rank_average": {
+              "recovered_gen11": 0.3365495480791323,
+              "prior_baseline": 0.41538757891552724,
+              "always_rich": 0.3620450462023709,
+              "individual_tabicl": 0.4126713093660906,
+              "individual_ridge": 0.3540812854436625,
+              "individual_hybrid": 0.37224891012246125
+            }
+          },
+          "draft": 0.2623580636899172
+        },
+        "complete_target_subset": {
+          "predictions": {
+            "per_seed_0": {
+              "recovered_gen11": 0.36270689287912117,
+              "prior_baseline": 0.4010124147679621,
+              "always_rich": 0.3662499409535753,
+              "individual_tabicl": 0.4354251012145749,
+              "individual_ridge": 0.34271255060728745,
+              "individual_hybrid": 0.42125506072874497
+            },
+            "per_seed_101": {
+              "recovered_gen11": 0.373051232590781,
+              "prior_baseline": 0.408138477645194,
+              "always_rich": 0.37092529612282804,
+              "individual_tabicl": 0.4544534412955466,
+              "individual_ridge": 0.34271255060728745,
+              "individual_hybrid": 0.4431174089068826
+            },
+            "per_seed_202": {
+              "recovered_gen11": 0.37394341677239007,
+              "prior_baseline": 0.4261996442896032,
+              "always_rich": 0.37112776626263316,
+              "individual_tabicl": 0.4502024291497976,
+              "individual_ridge": 0.34271255060728745,
+              "individual_hybrid": 0.4287449392712551
+            },
+            "family_seed_rank_average": {
+              "recovered_gen11": 0.36238485862346104,
+              "prior_baseline": 0.40473780947026927,
+              "always_rich": 0.36746470029338824,
+              "individual_tabicl": 0.4533630250251691,
+              "individual_ridge": 0.34271255060728745,
+              "individual_hybrid": 0.43923673128733093
+            }
+          },
+          "draft": 0.25404858299595146
+        }
+      }
+    },
+    {
+      "season": 2023,
+      "k": 3,
+      "n_full": 56,
+      "n_complete_target": 46,
+      "actual_label_max": 2022,
+      "training_rows": 1266,
+      "answer_sha256": "4281e90cf80d2ae4af06d4e42c8e2f0178b45241b9ace7a1385c46e3c619e0b8",
+      "metrics": {
+        "full_legacy": {
+          "predictions": {
+            "per_seed_0": {
+              "recovered_gen11": 0.46576887691286956,
+              "prior_baseline": 0.4375128251502608,
+              "always_rich": 0.4618828717115807,
+              "individual_tabicl": 0.42174336546426755,
+              "individual_ridge": 0.46036330087550115,
+              "individual_hybrid": 0.34880978832482296
+            },
+            "per_seed_101": {
+              "recovered_gen11": 0.4534222000319523,
+              "prior_baseline": 0.43843248668947654,
+              "always_rich": 0.4611651315675861,
+              "individual_tabicl": 0.4249559972595383,
+              "individual_ridge": 0.46036330087550115,
+              "individual_hybrid": 0.3552692288493567
+            },
+            "per_seed_202": {
+              "recovered_gen11": 0.4535495789385281,
+              "prior_baseline": 0.4363431318606923,
+              "always_rich": 0.4617119812011058,
+              "individual_tabicl": 0.41986363409469424,
+              "individual_ridge": 0.46036330087550115,
+              "individual_hybrid": 0.35434645163156614
+            },
+            "family_seed_rank_average": {
+              "recovered_gen11": 0.45587531641912,
+              "prior_baseline": 0.44350263201788126,
+              "always_rich": 0.4609784856873615,
+              "individual_tabicl": 0.42169663022785286,
+              "individual_ridge": 0.46036330087550115,
+              "individual_hybrid": 0.3509749304133655
+            }
+          },
+          "draft": 0.1106307353328877
+        },
+        "complete_target_subset": {
+          "predictions": {
+            "per_seed_0": {
+              "recovered_gen11": 0.4543744429967315,
+              "prior_baseline": 0.43388953298161,
+              "always_rich": 0.45769088529135715,
+              "individual_tabicl": 0.41214924452667284,
+              "individual_ridge": 0.45544249152019733,
+              "individual_hybrid": 0.34061054579093425
+            },
+            "per_seed_101": {
+              "recovered_gen11": 0.4459246942943355,
+              "prior_baseline": 0.4355012816614527,
+              "always_rich": 0.4569507841427927,
+              "individual_tabicl": 0.41683626271970403,
+              "individual_ridge": 0.45544249152019733,
+              "individual_hybrid": 0.34665433240826393
+            },
+            "per_seed_202": {
+              "recovered_gen11": 0.4470486680532252,
+              "prior_baseline": 0.43454125420255457,
+              "always_rich": 0.4576292101956434,
+              "individual_tabicl": 0.41103916127042855,
+              "individual_ridge": 0.45544249152019733,
+              "individual_hybrid": 0.35356151711378353
+            },
+            "family_seed_rank_average": {
+              "recovered_gen11": 0.44856297112572974,
+              "prior_baseline": 0.4431355627029243,
+              "always_rich": 0.4566759173604687,
+              "individual_tabicl": 0.41298917745433894,
+              "individual_ridge": 0.45544249152019733,
+              "individual_hybrid": 0.3466757130066997
+            }
+          },
+          "draft": 0.17853839037927846
+        }
+      }
+    },
+    {
+      "season": 2024,
+      "k": 2,
+      "n_full": 55,
+      "n_complete_target": 51,
+      "actual_label_max": 2022,
+      "training_rows": 1266,
+      "answer_sha256": "f99ecd3f3bfe03ee59bacfb7a5319449d8596c699a09a864f4e5dc398ad9c6be",
+      "metrics": {
+        "full_legacy": {
+          "predictions": {
+            "per_seed_0": {
+              "recovered_gen11": 0.2696860367325715,
+              "prior_baseline": 0.3252314231162223,
+              "always_rich": 0.26755684147401115,
+              "individual_tabicl": 0.3127165135164922,
+              "individual_ridge": 0.24090646714009947,
+              "individual_hybrid": 0.3361359708523108
+            },
+            "per_seed_101": {
+              "recovered_gen11": 0.27181032677431627,
+              "prior_baseline": 0.32524359775890554,
+              "always_rich": 0.26586070287820884,
+              "individual_tabicl": 0.31646940036229365,
+              "individual_ridge": 0.24090646714009947,
+              "individual_hybrid": 0.33685767986111875
+            },
+            "per_seed_202": {
+              "recovered_gen11": 0.27447584152763305,
+              "prior_baseline": 0.3197812980994704,
+              "always_rich": 0.27374271972230835,
+              "individual_tabicl": 0.32368649045037334,
+              "individual_ridge": 0.24090646714009947,
+              "individual_hybrid": 0.34930716026305614
+            },
+            "family_seed_rank_average": {
+              "recovered_gen11": 0.27392465429306406,
+              "prior_baseline": 0.3212745624101847,
+              "always_rich": 0.26974847691546894,
+              "individual_tabicl": 0.316805602520522,
+              "individual_ridge": 0.24090646714009947,
+              "individual_hybrid": 0.33783832903411865
+            }
+          },
+          "draft": 0.13403326556845988
+        },
+        "complete_target_subset": {
+          "predictions": {
+            "per_seed_0": {
+              "recovered_gen11": 0.27428080512955183,
+              "prior_baseline": 0.33245060783486197,
+              "always_rich": 0.2828301164466821,
+              "individual_tabicl": 0.32477085191531374,
+              "individual_ridge": 0.25705556348809294,
+              "individual_hybrid": 0.35029987776621785
+            },
+            "per_seed_101": {
+              "recovered_gen11": 0.2774433072505945,
+              "prior_baseline": 0.33382373459283887,
+              "always_rich": 0.27772119813002155,
+              "individual_tabicl": 0.32563087228972365,
+              "individual_ridge": 0.25705556348809294,
+              "individual_hybrid": 0.3462713612755611
+            },
+            "per_seed_202": {
+              "recovered_gen11": 0.2805087840457114,
+              "prior_baseline": 0.33042082151381386,
+              "always_rich": 0.2867587216961192,
+              "individual_tabicl": 0.3352721533291609,
+              "individual_ridge": 0.25705556348809294,
+              "individual_hybrid": 0.3677266064055762
+            },
+            "family_seed_rank_average": {
+              "recovered_gen11": 0.2779676378553229,
+              "prior_baseline": 0.32876154567113147,
+              "always_rich": 0.2820541872757035,
+              "individual_tabicl": 0.32904058534859393,
+              "individual_ridge": 0.25705556348809294,
+              "individual_hybrid": 0.3531755071250022
+            }
+          },
+          "draft": 0.1311460580855982
+        }
+      }
+    },
+    {
+      "season": 2025,
+      "k": 1,
+      "n_full": 57,
+      "n_complete_target": 55,
+      "actual_label_max": 2022,
+      "training_rows": 1266,
+      "answer_sha256": "af4ded166e824c86d44ac06936510940966b54b60fa812a4b0cd17a6cc791878",
+      "metrics": {
+        "full_legacy": {
+          "predictions": {
+            "per_seed_0": {
+              "recovered_gen11": 0.3330200000515033,
+              "prior_baseline": 0.3331874597087899,
+              "always_rich": 0.33713091109454507,
+              "individual_tabicl": 0.36911957780740695,
+              "individual_ridge": 0.3202774315473523,
+              "individual_hybrid": 0.37722212363687846
+            },
+            "per_seed_101": {
+              "recovered_gen11": 0.33052426874124075,
+              "prior_baseline": 0.33240956843598995,
+              "always_rich": 0.33259322924746,
+              "individual_tabicl": 0.3662998918587508,
+              "individual_ridge": 0.3202774315473523,
+              "individual_hybrid": 0.3792315550025875
+            },
+            "per_seed_202": {
+              "recovered_gen11": 0.34232832643477845,
+              "prior_baseline": 0.34908260313319134,
+              "always_rich": 0.3344354788397802,
+              "individual_tabicl": 0.374791359888037,
+              "individual_ridge": 0.3202774315473523,
+              "individual_hybrid": 0.39433470042872243
+            },
+            "family_seed_rank_average": {
+              "recovered_gen11": 0.3339599708727996,
+              "prior_baseline": 0.33436512442604943,
+              "always_rich": 0.3365906623677594,
+              "individual_tabicl": 0.3722754307131521,
+              "individual_ridge": 0.3202774315473523,
+              "individual_hybrid": 0.3853234800416409
+            }
+          },
+          "draft": 0.17640862779925506
+        },
+        "complete_target_subset": {
+          "predictions": {
+            "per_seed_0": {
+              "recovered_gen11": 0.34353802946997664,
+              "prior_baseline": 0.34402006695964615,
+              "always_rich": 0.3465860918756392,
+              "individual_tabicl": 0.37667304039808414,
+              "individual_ridge": 0.33020671762893056,
+              "individual_hybrid": 0.38587250647427523
+            },
+            "per_seed_101": {
+              "recovered_gen11": 0.3378371065761188,
+              "prior_baseline": 0.34260562132194766,
+              "always_rich": 0.3417520574635949,
+              "individual_tabicl": 0.3718748875034433,
+              "individual_ridge": 0.33020671762893056,
+              "individual_hybrid": 0.38677441491311754
+            },
+            "per_seed_202": {
+              "recovered_gen11": 0.35234796556902154,
+              "prior_baseline": 0.36077434163751615,
+              "always_rich": 0.34380356597351674,
+              "individual_tabicl": 0.3828420941197652,
+              "individual_ridge": 0.33020671762893056,
+              "individual_hybrid": 0.40333345385026154
+            },
+            "family_seed_rank_average": {
+              "recovered_gen11": 0.34507702876303376,
+              "prior_baseline": 0.34545585764086445,
+              "always_rich": 0.3460567140486327,
+              "individual_tabicl": 0.37996969478317344,
+              "individual_ridge": 0.33020671762893056,
+              "individual_hybrid": 0.3947107324525509
+            }
+          },
+          "draft": 0.17691835936329894
+        }
+      }
+    }
+  ],
+  "aggregate": {
+    "full_legacy": {
+      "predictions": {
+        "per_seed_0": {
+          "recovered_gen11": 0.4033756914848866,
+          "prior_baseline": 0.40675303487640996,
+          "always_rich": 0.3920471550622784,
+          "individual_tabicl": 0.4017971801102153,
+          "individual_ridge": 0.38127071051254274,
+          "individual_hybrid": 0.3948941708221092
+        },
+        "per_seed_101": {
+          "recovered_gen11": 0.3987916616465942,
+          "prior_baseline": 0.40822528887512144,
+          "always_rich": 0.39049807584428914,
+          "individual_tabicl": 0.4051346769911964,
+          "individual_ridge": 0.38127071051254274,
+          "individual_hybrid": 0.3908273120755439
+        },
+        "per_seed_202": {
+          "recovered_gen11": 0.4035902837214297,
+          "prior_baseline": 0.41253709445531067,
+          "always_rich": 0.3920002471000363,
+          "individual_tabicl": 0.4060533897013941,
+          "individual_ridge": 0.38127071051254274,
+          "individual_hybrid": 0.3957373580552179
+        },
+        "family_seed_rank_average": {
+          "recovered_gen11": 0.40002396809483487,
+          "prior_baseline": 0.40840834907377876,
+          "always_rich": 0.39130969030832163,
+          "individual_tabicl": 0.4054722590039183,
+          "individual_ridge": 0.38127071051254274,
+          "individual_hybrid": 0.3931246329906469
+        }
+      },
+      "draft": 0.263454796971999
+    },
+    "complete_target_subset": {
+      "predictions": {
+        "per_seed_0": {
+          "recovered_gen11": 0.35449113394790815,
+          "prior_baseline": 0.36316963757720383,
+          "always_rich": 0.34882673934845615,
+          "individual_tabicl": 0.37007819834412026,
+          "individual_ridge": 0.3360525067985254,
+          "individual_hybrid": 0.34420531253099734
+        },
+        "per_seed_101": {
+          "recovered_gen11": 0.35044089901535064,
+          "prior_baseline": 0.3663401904920511,
+          "always_rich": 0.34788216092101193,
+          "individual_tabicl": 0.37851916550323256,
+          "individual_ridge": 0.3360525067985254,
+          "individual_hybrid": 0.34622959091625305
+        },
+        "per_seed_202": {
+          "recovered_gen11": 0.35116702743312905,
+          "prior_baseline": 0.36688618511000676,
+          "always_rich": 0.35010511095190255,
+          "individual_tabicl": 0.3783521544879064,
+          "individual_ridge": 0.3360525067985254,
+          "individual_hybrid": 0.34953728034004733
+        },
+        "family_seed_rank_average": {
+          "recovered_gen11": 0.35055098719780425,
+          "prior_baseline": 0.3627697502552215,
+          "always_rich": 0.34848301666135334,
+          "individual_tabicl": 0.37777827120743535,
+          "individual_ridge": 0.3360525067985254,
+          "individual_hybrid": 0.34636376782745126
+        }
+      },
+      "draft": 0.21274843176538272
+    }
+  },
+  "units": "Spearman rho; multiply by100, not percent exact positions",
+  "limitations": [
+    "Adapted fixed-weight mechanism, not an exact legacy257-feature gen11 replay. The same N127 panel replaces legacy features, shrinkage and engineering.",
+    "Deterministic PID-hash inner splits replace legacy rng3 shuffled splits; selectors and Gaussian targets are now fit inside each inner training split.",
+    "No age monotonic constraint on qualified127 predictors; XGB monotone constraints {} match K. No implicit old identity or age mapping.",
+    "Original TabICL default random_state42 is explicit; shifts101/202 intentionally test deterministic seeds. Batch_size8 and Latin feature permutation match original defaults.",
+    "Query labels, actual picks and scoring targets must be absent from worker namespace. No missing training WAR fabricatedzero.",
+    "2019\u20132025 is a historically reused benchmark, not a pristine holdout. No target, model, weight, feature or reporting-mode selection from these scores.",
+    "Verified actual NBA calendar currently ends2022:2024 and2025 omit later label seasons while retaining strict earlier-season cutoffs.",
+    "Main scorer retains inherited missing outcome components as zero; observed target subset reported separately.",
+    "2019\u20132025 are historically reused benchmark years, not an untouched holdout.",
+    "Fixed family-seed rank average is an explicit adaptation; original historical seed/runtime and257inputbytes were not recovered.",
+    "Full means the provided incomplete player pool.",
+    "Verified training label coverage ends2022; allowed later seasons are unavailable."
+  ],
+  "no_test_feedback_tuning": true,
+  "new_model_promotion": false,
+  "controls_diagnostic_not_selection": true
+}

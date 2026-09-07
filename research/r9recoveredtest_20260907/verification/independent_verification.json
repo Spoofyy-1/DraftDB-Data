@@ -1,0 +1,193 @@
+{
+  "passed": true,
+  "frozen_files_verified": 61,
+  "source_pins_verified": 104,
+  "jobs_verified": 7,
+  "model_fit_audits_verified": 182,
+  "blend_vectors_reconstructed": 168,
+  "query_member_arithmetic_checks": 168,
+  "saved_aggregate_mean_checks": 52,
+  "maximum_mean_arithmetic_error": 5.551115123125783e-17,
+  "all_prediction_files_frozen_before_scoring": true,
+  "all_query_counts_and_complete_subset_counts_match_previous_frozen_benchmark": true,
+  "all_worker_records_pass_recursive_public_boundary": true,
+  "jobs": [
+    {
+      "passed": true,
+      "year": 2019,
+      "rows": 58,
+      "training_rows": 825,
+      "model_fits": 26,
+      "prediction_vectors_reconstructed": 24,
+      "actual_label_max": 2018,
+      "task_id": "prefix5_y2019",
+      "result_sha256": "d4b06365f799e3d9d7dfb6f4100fe64dd88d18d41a899670c8c58813932bc2fa",
+      "query_pid_hash": "30b0e46fdd6c082dc57edd400f3210cd5e7756b81435eb437e7d93a4ac143315",
+      "query_member_arithmetic_checks": 24,
+      "result_mtime": 1788792825.8608532,
+      "prediction_freeze_time": 1788792909.8569655
+    },
+    {
+      "passed": true,
+      "year": 2020,
+      "rows": 58,
+      "training_rows": 929,
+      "model_fits": 26,
+      "prediction_vectors_reconstructed": 24,
+      "actual_label_max": 2019,
+      "task_id": "prefix5_y2020",
+      "result_sha256": "0a203eceed4e181e2042217201d18ea79d0f3875f63e1b4786e3caba9acf3ad8",
+      "query_pid_hash": "76b1f5943b1c236151fc043bafc5991eebc600dc29334dca82061a284a21d643",
+      "query_member_arithmetic_checks": 24,
+      "result_mtime": 1788792826.0208497,
+      "prediction_freeze_time": 1788792909.8569655
+    },
+    {
+      "passed": true,
+      "year": 2021,
+      "rows": 56,
+      "training_rows": 1046,
+      "model_fits": 26,
+      "prediction_vectors_reconstructed": 24,
+      "actual_label_max": 2020,
+      "task_id": "prefix5_y2021",
+      "result_sha256": "8463e5b8d09978cf3a28c5b2397e8b434dd9d53701af1e7ac6488d53e1108cd6",
+      "query_pid_hash": "06393de440c911943b0b5d76efbe5aa45a624650f4cb483a83dc9625eb74c751",
+      "query_member_arithmetic_checks": 24,
+      "result_mtime": 1788792826.1058478,
+      "prediction_freeze_time": 1788792909.8569655
+    },
+    {
+      "passed": true,
+      "year": 2022,
+      "rows": 52,
+      "training_rows": 1140,
+      "model_fits": 26,
+      "prediction_vectors_reconstructed": 24,
+      "actual_label_max": 2021,
+      "task_id": "prefix5_y2022",
+      "result_sha256": "5c27edfe5acb6f6872cc08ee6bbbf023213d7ac8426b046edb3d4834769473fb",
+      "query_pid_hash": "86e85d247c1f19497423292065998dc625a7a434e4267a5808ddb12b58ee2461",
+      "query_member_arithmetic_checks": 24,
+      "result_mtime": 1788792826.0928483,
+      "prediction_freeze_time": 1788792909.8569655
+    },
+    {
+      "passed": true,
+      "year": 2023,
+      "rows": 56,
+      "training_rows": 1266,
+      "model_fits": 26,
+      "prediction_vectors_reconstructed": 24,
+      "actual_label_max": 2022,
+      "task_id": "prefix5_y2023",
+      "result_sha256": "64da213d2847ce7cd555d5f7ecd70f49224a651312946642602943fac991b5e9",
+      "query_pid_hash": "2efe0711154ca1f3f81d02113366d1bff7ab4aa9f3aabd8015613d8039007e8f",
+      "query_member_arithmetic_checks": 24,
+      "result_mtime": 1788792900.7113564,
+      "prediction_freeze_time": 1788792909.8569655
+    },
+    {
+      "passed": true,
+      "year": 2024,
+      "rows": 55,
+      "training_rows": 1266,
+      "model_fits": 26,
+      "prediction_vectors_reconstructed": 24,
+      "actual_label_max": 2022,
+      "task_id": "prefix5_y2024",
+      "result_sha256": "cc0e9862188a9e862cbe99b0dbce110be98d9ec3816d04928a4d096618b24c01",
+      "query_pid_hash": "09d57fc6ae46da79413dccf2afb9f174255b2bc87be17ddaae5e6438dfa24995",
+      "query_member_arithmetic_checks": 24,
+      "result_mtime": 1788792909.0551915,
+      "prediction_freeze_time": 1788792909.8569655
+    },
+    {
+      "passed": true,
+      "year": 2025,
+      "rows": 57,
+      "training_rows": 1266,
+      "model_fits": 26,
+      "prediction_vectors_reconstructed": 24,
+      "actual_label_max": 2022,
+      "task_id": "prefix5_y2025",
+      "result_sha256": "b27519272331fca97c89391d23e34a82e7176659906928e82f08a37d76633bc1",
+      "query_pid_hash": "16a181f55d265d061b9054bc494c43f8a5025af952c7fe8f3b39a79b9f643e13",
+      "query_member_arithmetic_checks": 24,
+      "result_mtime": 1788792909.0611913,
+      "prediction_freeze_time": 1788792909.8569655
+    }
+  ],
+  "prediction_freeze_sha256": "9f5beaf2c3209383cce4dc525910d8a97521a4b7cf5032788e3a50f1d97548eb",
+  "test_result_sha256": "14109ccac4ea4366b638e3dfd027d3fb0465aaab68b69ee633fe17d95557841e",
+  "frozen_sha256": "4ab620fa8a95c88e043ed1c37b2f53086b7ba9c732d3fea9aed803e0def56bf5",
+  "launch_authorization_sha256": "918f0460d99b59f65368a910c93644274319480d9eaf90ad13ef85f5ba776277",
+  "launch_snapshot_sha256": "82b4bdafb1c629e0fbd294dc1cd4c4031c1f18d971c6e6c2a2055a625dde4586",
+  "completion_sha256": "e3e16286c3bf60a2e25eb3cdee9fbcc7bf5af4cc9f7940aa5bda64258f7e2081",
+  "primary_score": 0.40002396809483487,
+  "matched_2020_2025_score": 0.3891719056562409,
+  "primary_per_year": [
+    {
+      "year": 2019,
+      "n_full": 58,
+      "n_complete_target": 33,
+      "rho": 0.4651363427263987
+    },
+    {
+      "year": 2020,
+      "n_full": 58,
+      "n_complete_target": 32,
+      "rho": 0.38596437909562686
+    },
+    {
+      "year": 2021,
+      "n_full": 56,
+      "n_complete_target": 33,
+      "rho": 0.5487575651777025
+    },
+    {
+      "year": 2022,
+      "n_full": 52,
+      "n_complete_target": 39,
+      "rho": 0.3365495480791323
+    },
+    {
+      "year": 2023,
+      "n_full": 56,
+      "n_complete_target": 46,
+      "rho": 0.45587531641912
+    },
+    {
+      "year": 2024,
+      "n_full": 55,
+      "n_complete_target": 51,
+      "rho": 0.27392465429306406
+    },
+    {
+      "year": 2025,
+      "n_full": 57,
+      "n_complete_target": 55,
+      "rho": 0.3339599708727996
+    }
+  ],
+  "ledger": {
+    "entries": 3,
+    "hash_chain_passed": true,
+    "exactly_one_matching_entry": true,
+    "ledger_sha256": "0b3cc7fa2afb9a2e61da65271048b1acd364a2e7ea5a7856dfe196bbd1c8d58b",
+    "matching_entry": {
+      "zero_based_index": 2,
+      "line_sha256": "3ead06e6455d50632f5d7bc5651498f45aeb4bb3e9d111ad2cd2ad38acff8806",
+      "previous_line_sha256": "3f208446ce911890882d9e42aa95ea91da9bb1dcb43ced8d193e2c42d1b8a4d7",
+      "matching_result_canonical_sha256": "db9f71a1656cce24736a35c68b68368ea4789da04518335baa674de22c1acce2"
+    },
+    "raw_ledger_exported": false
+  },
+  "verification_script_sha256": "c0d114eea7dab9a23529bb0c618d0f5e5bb51fe2c6bf2294db24e52bacedc1ad",
+  "new_model_fits": 0,
+  "new_scores_computed": 0,
+  "raw_answer_files_opened": false,
+  "private_training_arrays_exported": false,
+  "no_model_or_recipe_selection": true,
+  "interpretation": "Verification of existing fixed diagnostic records and saved aggregate arithmetic; no fresh holdout or retrospective-vintage certification."
+}

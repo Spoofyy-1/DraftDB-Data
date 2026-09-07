@@ -1,0 +1,107 @@
+{
+  "frozen_at": 1788792909.8569655,
+  "all_seven_predictions_complete_before_answers": true,
+  "plan_sha256": "a6873ea5baeb0c8d19c55894a7d4deae314a6cf1b36fe6908b03168631e89ca2",
+  "scorer_sha256": "dcc2d4bf8e2f9b54f74ed506d43b84b59a4a2f58592b18fa1b74ac4f9d71fe8b",
+  "frozen_sha256": "4ab620fa8a95c88e043ed1c37b2f53086b7ba9c732d3fea9aed803e0def56bf5",
+  "tasks": {
+    "prefix5_y2019": {
+      "task_id": "prefix5_y2019",
+      "file": "jobs/prefix5_y2019/result.json",
+      "sha256": "d4b06365f799e3d9d7dfb6f4100fe64dd88d18d41a899670c8c58813932bc2fa",
+      "verification": {
+        "passed": true,
+        "year": 2019,
+        "rows": 58,
+        "training_rows": 825,
+        "model_fits": 26,
+        "prediction_vectors_reconstructed": 24,
+        "actual_label_max": 2018
+      }
+    },
+    "prefix5_y2020": {
+      "task_id": "prefix5_y2020",
+      "file": "jobs/prefix5_y2020/result.json",
+      "sha256": "0a203eceed4e181e2042217201d18ea79d0f3875f63e1b4786e3caba9acf3ad8",
+      "verification": {
+        "passed": true,
+        "year": 2020,
+        "rows": 58,
+        "training_rows": 929,
+        "model_fits": 26,
+        "prediction_vectors_reconstructed": 24,
+        "actual_label_max": 2019
+      }
+    },
+    "prefix5_y2021": {
+      "task_id": "prefix5_y2021",
+      "file": "jobs/prefix5_y2021/result.json",
+      "sha256": "8463e5b8d09978cf3a28c5b2397e8b434dd9d53701af1e7ac6488d53e1108cd6",
+      "verification": {
+        "passed": true,
+        "year": 2021,
+        "rows": 56,
+        "training_rows": 1046,
+        "model_fits": 26,
+        "prediction_vectors_reconstructed": 24,
+        "actual_label_max": 2020
+      }
+    },
+    "prefix5_y2022": {
+      "task_id": "prefix5_y2022",
+      "file": "jobs/prefix5_y2022/result.json",
+      "sha256": "5c27edfe5acb6f6872cc08ee6bbbf023213d7ac8426b046edb3d4834769473fb",
+      "verification": {
+        "passed": true,
+        "year": 2022,
+        "rows": 52,
+        "training_rows": 1140,
+        "model_fits": 26,
+        "prediction_vectors_reconstructed": 24,
+        "actual_label_max": 2021
+      }
+    },
+    "prefix5_y2023": {
+      "task_id": "prefix5_y2023",
+      "file": "jobs/prefix5_y2023/result.json",
+      "sha256": "64da213d2847ce7cd555d5f7ecd70f49224a651312946642602943fac991b5e9",
+      "verification": {
+        "passed": true,
+        "year": 2023,
+        "rows": 56,
+        "training_rows": 1266,
+        "model_fits": 26,
+        "prediction_vectors_reconstructed": 24,
+        "actual_label_max": 2022
+      }
+    },
+    "prefix5_y2024": {
+      "task_id": "prefix5_y2024",
+      "file": "jobs/prefix5_y2024/result.json",
+      "sha256": "cc0e9862188a9e862cbe99b0dbce110be98d9ec3816d04928a4d096618b24c01",
+      "verification": {
+        "passed": true,
+        "year": 2024,
+        "rows": 55,
+        "training_rows": 1266,
+        "model_fits": 26,
+        "prediction_vectors_reconstructed": 24,
+        "actual_label_max": 2022
+      }
+    },
+    "prefix5_y2025": {
+      "task_id": "prefix5_y2025",
+      "file": "jobs/prefix5_y2025/result.json",
+      "sha256": "b27519272331fca97c89391d23e34a82e7176659906928e82f08a37d76633bc1",
+      "verification": {
+        "passed": true,
+        "year": 2025,
+        "rows": 57,
+        "training_rows": 1266,
+        "model_fits": 26,
+        "prediction_vectors_reconstructed": 24,
+        "actual_label_max": 2022
+      }
+    }
+  }
+}

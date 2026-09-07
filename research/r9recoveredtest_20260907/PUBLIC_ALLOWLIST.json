@@ -1,5 +1,5 @@
 {
-  "policy": "Explicit registration, code, aggregate proofs and hash-only input manifests. No private WAR values, training/scoring NPZs, source facts, names mapping or outcome answer files. Already published127feature tables referenced by hashes; no new model results yet.",
+  "policy": "Explicit registration, aggregate verification, diagnostic test scores, and lossless67-member archive of anonymous predictions/rawrecords/logs. Member hashes listed separately. No NPZ/private WAR facts/vault answer files/ledger bytes. No benchmark-based promotion.",
   "files": {
     "README.md": {
       "sha256": "e4e72bdc7b9b3f3b739b0eeb2491aac7356c75c35fbafc60862501bd3e558276",
@@ -200,6 +200,42 @@
     "results/publication_registration.json": {
       "sha256": "b47e0e366e0b07aaf438ee81105d741e8315ea4e674292b7e7d3594bb930e49a",
       "bytes": 229
+    },
+    "r9recoveredtest_public_results.tar.gz": {
+      "sha256": "48cdd13d63d11fa70d220aa971277fc300f033f3d0e87c1988961add829b2f0e",
+      "bytes": 992487
+    },
+    "verification/independent_verification.json": {
+      "sha256": "c855a769c8a178c6d8f939b367ee69a268916b121e9f7eba6f2d709c9b956fd3",
+      "bytes": 6951
+    },
+    "verification/archive_verification.json": {
+      "sha256": "c24e8e85b7d5de867fdd01d181023a311820cdfcc8b0bee5bd5705bed8e96316",
+      "bytes": 10789
+    },
+    "verification/verify_and_archive.py": {
+      "sha256": "c0d114eea7dab9a23529bb0c618d0f5e5bb51fe2c6bf2294db24e52bacedc1ad",
+      "bytes": 20150
+    },
+    "results/test_result.json": {
+      "sha256": "14109ccac4ea4366b638e3dfd027d3fb0465aaab68b69ee633fe17d95557841e",
+      "bytes": 29204
+    },
+    "results/prediction_freeze.json": {
+      "sha256": "9f5beaf2c3209383cce4dc525910d8a97521a4b7cf5032788e3a50f1d97548eb",
+      "bytes": 3393
+    },
+    "results/completion.json": {
+      "sha256": "e3e16286c3bf60a2e25eb3cdee9fbcc7bf5af4cc9f7940aa5bda64258f7e2081",
+      "bytes": 293
+    },
+    "RESULT_ARCHIVE_MANIFEST.json": {
+      "sha256": "b63abfb025bd25c528a6dacac834b1edb4062f00089ad22815c1d8af009d5ef3",
+      "bytes": 10409
+    },
+    "RESULTS.md": {
+      "sha256": "33aa4a9e9345808013a585810f00d77a33837a7589f35dc3e5ecdebef50600ab",
+      "bytes": 2225
     }
   }
 }
