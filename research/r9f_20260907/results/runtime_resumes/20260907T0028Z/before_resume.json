@@ -1,0 +1,44 @@
+{
+  "reason": "Runtime-only resume after registered two-hour limit; scientific files and task records unchanged",
+  "recorded_utc": "2026-09-07T00:30:09.535607+00:00",
+  "units": {
+    "draftdb-r9f-20260907": {
+      "RuntimeMaxUSec": "2h",
+      "Result": "timeout",
+      "ExecMainStartTimestamp": "Sun 2026-09-06 22:16:17 UTC",
+      "ExecMainExitTimestamp": "Mon 2026-09-07 00:16:17 UTC",
+      "ExecMainStatus": "15",
+      "CPUQuotaPerSecUSec": "22s",
+      "MemoryMax": "150323855360",
+      "Id": "draftdb-r9f-20260907.service",
+      "ActiveState": "failed",
+      "SubState": "failed",
+      "InvocationID": "b070eced9dd143abb21240694fd80a81"
+    },
+    "draftdb-r9g-queue-20260907": {
+      "RuntimeMaxUSec": "3h 1min 40s",
+      "Result": "exit-code",
+      "ExecMainStartTimestamp": "Sun 2026-09-06 22:24:16 UTC",
+      "ExecMainExitTimestamp": "Mon 2026-09-07 00:16:19 UTC",
+      "ExecMainStatus": "1",
+      "CPUQuotaPerSecUSec": "50ms",
+      "MemoryMax": "268435456",
+      "Id": "draftdb-r9g-queue-20260907.service",
+      "ActiveState": "failed",
+      "SubState": "failed",
+      "InvocationID": "37cb827d428e473c811476e7a75aa2f8"
+    }
+  },
+  "snapshots": {
+    "F_state": {
+      "file": "F_state.json",
+      "bytes": 1034154,
+      "sha256": "8c732c255f6039cc2c2a670f8bc02baec32cbdd3493985bcfa770b43bf6303f9"
+    },
+    "G_queue": {
+      "file": "G_queue.json",
+      "bytes": 107,
+      "sha256": "f6729665800198d3a6d4e20a2dcd365b27d4064375317894fd11aafc789ba63b"
+    }
+  }
+}

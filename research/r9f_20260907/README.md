@@ -1,0 +1,7 @@
+R9f is a preregistered pre-2019 CatBoost GPU diagnostic on the exact frozen B44 feature matrices and original training yy. It adds no source data, imputation or selector fitting. The declarative plan has144 CatBoost configurations, three fixed seeds each, plus three exact B TabICL baseline references (435 queue tasks).
+
+Each CatBoost fold fits1200 trees once, with no eval_set, early stopping or use_best_model. Checkpoints200/600/1200 are all saved; the progress score is fixed at1200. Native train-only NaN modes Min/Max are compared. Constructor parameters, actual GPU task type, library/source hashes, native feature order and tree counts are retained. GPU results can be nondeterministic; exact replay is required only for the three TabICL references.
+
+Four two-tree unscored GPU compatibility fixtures use only original fold2012 training data. Production inputs, labels, query order and identical-input tie policy match the B reference; query data is excluded from fitting. No fixture or checkpoint is chosen using evaluation scores.
+
+All same-seed and fixed equal-three-seed mean rank-percentile blends of every checkpoint with B and the frozen E none/outlier0.5/n16 identity anchor are declared at alpha0,0.1,...,1. Exact doubled-integer average ranks preserve algebraic ties. All predictions and metrics are streamed to deterministic bounded per-configuration gzip files after fitting. No promotion, significance claim or held-out access. Reused-development, missing-label and retrospective-source limitations remain.

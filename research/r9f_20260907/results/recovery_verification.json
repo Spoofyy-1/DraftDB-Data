@@ -1,0 +1,37 @@
+{
+  "passed": true,
+  "runtime_only_resume": true,
+  "retained_exact_records": 288,
+  "remaining_records_added": 147,
+  "original_log_exact_prefix": true,
+  "retained_task_hash_map_exact": true,
+  "original_timeout_preserved": true,
+  "original_invocation": "b070eced9dd143abb21240694fd80a81",
+  "resumed_invocation": "4e181b1f62a5465a903689b701e7950e",
+  "all_evidence_files": {
+    "results/runtime_resumes/20260907T0028Z/F_state.json": {
+      "sha256": "8c732c255f6039cc2c2a670f8bc02baec32cbdd3493985bcfa770b43bf6303f9",
+      "bytes": 1034154
+    },
+    "results/runtime_resumes/20260907T0028Z/G_queue.json": {
+      "sha256": "f6729665800198d3a6d4e20a2dcd365b27d4064375317894fd11aafc789ba63b",
+      "bytes": 107
+    },
+    "results/runtime_resumes/20260907T0028Z/before_resume.json": {
+      "sha256": "89b10aee6980b01f53e350843fa73631af7f40fb02a70388094a134f300c434f",
+      "bytes": 1503
+    },
+    "results/runtime_resumes/20260907T0028Z/checkpoint_verification.json": {
+      "sha256": "b622ca010b279e6ea062791558e4f0b85cc9e96c295d5d6ce3332363cf27e6d8",
+      "bytes": 456
+    },
+    "results/runtime_resumes/20260907T0028Z/recovery_snapshot.json": {
+      "sha256": "26b517acab558ef55d70975be89d1ee76e125093fee828a910dd009de9fcc4be",
+      "bytes": 614
+    },
+    "results/runtime_resumes/20260907T0028Z/restarted_unit.json": {
+      "sha256": "a4bea1bc7fc9de827d6f8cdb3453a9f92d1803c5fc6690784dce32492f55a6f1",
+      "bytes": 220
+    }
+  }
+}

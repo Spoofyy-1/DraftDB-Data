@@ -1,0 +1,12 @@
+{
+  "verified_utc": "2026-09-07T00:30:42.288285+00:00",
+  "durable_records": 288,
+  "log_records": 288,
+  "frozen_files_verified": 61,
+  "exact_B_references": 3,
+  "remaining_tasks": 147,
+  "no_partial_log_or_orphan_or_temp_files": true,
+  "log_sha256": "aad112a1f8765ba576d6b12763f54417157d08247c11ccb8dbe489db37dea6b7",
+  "ordered_task_hash_map_sha256": "86f6af27b8a53b5bb6b8c3672d355aad2dc813e8f0e1d05f23a655570b3cba3d",
+  "scientific_changes": false
+}

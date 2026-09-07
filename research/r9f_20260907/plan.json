@@ -1,0 +1,1568 @@
+{
+  "diagnostic_only": true,
+  "no_confirmation_or_test_scoring": true,
+  "folds": [
+    2012,
+    2013,
+    2014
+  ],
+  "seeds": [
+    0,
+    101,
+    202
+  ],
+  "ordering_policy": {
+    "version": "sha256_pid_exact_vector_mean_v1",
+    "row_order": "Sort train and query rows by SHA256(UTF8(pid)), with pid as deterministic collision tiebreaker, before selection and prediction. Identity/order keys never become predictors.",
+    "input_equivalence": "All selected predictor values must be numerically identical. NaNs compare equal; positive/negative zero compare equal. Distinct vectors are never quantized or merged.",
+    "prediction_ties": "Within each query group of exactly identical full predictor vectors, assign every row the arithmetic mean of its raw predictions using math.fsum over sorted float64 values.",
+    "raw_preservation": "Save raw and canonical prediction for every pid, exact duplicate groups and policy hash. All scoring uses canonical predictions with Spearman average ranks.",
+    "registration_basis": "R8order numerical audit found8 all-missing duplicate inputs with floating-point score splitting; no outcome score was used to choose this policy.",
+    "new_baseline": "Every background baseline reruns under this policy. Do not pool these scores with raw-prediction R8s or earlier studies."
+  },
+  "baseline_config": {
+    "arm": "RR",
+    "columns": [
+      "ctx_base_fta",
+      "ctx_base_ftm",
+      "ctx_base_mid_made"
+    ],
+    "id": "drop5_001",
+    "kind": "delete"
+  },
+  "study": "R9f CatBoost GPU family and fixed saved-prediction blend diagnostic",
+  "reference_id": "drop5_001",
+  "variants": [
+    {
+      "arm": "RR",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_mid_made"
+      ],
+      "id": "drop5_001",
+      "kind": "delete"
+    },
+    {
+      "id": "cb_rmse_d3_lr0p03_l21_bag0_min",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 3,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 0,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_rmse_d3_lr0p03_l21_bag0_max",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 3,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 0,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_rmse_d3_lr0p03_l21_bag1_min",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 3,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 1,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_rmse_d3_lr0p03_l21_bag1_max",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 3,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_rmse_d3_lr0p03_l210_bag0_min",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 3,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 0,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_rmse_d3_lr0p03_l210_bag0_max",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 3,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 0,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_rmse_d3_lr0p03_l210_bag1_min",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 3,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 1,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_rmse_d3_lr0p03_l210_bag1_max",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 3,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_rmse_d3_lr0p03_l2100_bag0_min",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 3,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 0,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_rmse_d3_lr0p03_l2100_bag0_max",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 3,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 0,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_rmse_d3_lr0p03_l2100_bag1_min",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 3,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 1,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_rmse_d3_lr0p03_l2100_bag1_max",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 3,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_rmse_d3_lr0p1_l21_bag0_min",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 3,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 0,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_rmse_d3_lr0p1_l21_bag0_max",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 3,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 0,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_rmse_d3_lr0p1_l21_bag1_min",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 3,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 1,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_rmse_d3_lr0p1_l21_bag1_max",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 3,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_rmse_d3_lr0p1_l210_bag0_min",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 3,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 0,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_rmse_d3_lr0p1_l210_bag0_max",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 3,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 0,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_rmse_d3_lr0p1_l210_bag1_min",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 3,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 1,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_rmse_d3_lr0p1_l210_bag1_max",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 3,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_rmse_d3_lr0p1_l2100_bag0_min",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 3,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 0,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_rmse_d3_lr0p1_l2100_bag0_max",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 3,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 0,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_rmse_d3_lr0p1_l2100_bag1_min",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 3,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 1,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_rmse_d3_lr0p1_l2100_bag1_max",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 3,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_rmse_d5_lr0p03_l21_bag0_min",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 5,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 0,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_rmse_d5_lr0p03_l21_bag0_max",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 5,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 0,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_rmse_d5_lr0p03_l21_bag1_min",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 5,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 1,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_rmse_d5_lr0p03_l21_bag1_max",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 5,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_rmse_d5_lr0p03_l210_bag0_min",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 5,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 0,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_rmse_d5_lr0p03_l210_bag0_max",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 5,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 0,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_rmse_d5_lr0p03_l210_bag1_min",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 5,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 1,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_rmse_d5_lr0p03_l210_bag1_max",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 5,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_rmse_d5_lr0p03_l2100_bag0_min",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 5,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 0,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_rmse_d5_lr0p03_l2100_bag0_max",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 5,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 0,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_rmse_d5_lr0p03_l2100_bag1_min",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 5,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 1,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_rmse_d5_lr0p03_l2100_bag1_max",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 5,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_rmse_d5_lr0p1_l21_bag0_min",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 5,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 0,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_rmse_d5_lr0p1_l21_bag0_max",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 5,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 0,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_rmse_d5_lr0p1_l21_bag1_min",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 5,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 1,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_rmse_d5_lr0p1_l21_bag1_max",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 5,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_rmse_d5_lr0p1_l210_bag0_min",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 5,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 0,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_rmse_d5_lr0p1_l210_bag0_max",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 5,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 0,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_rmse_d5_lr0p1_l210_bag1_min",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 5,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 1,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_rmse_d5_lr0p1_l210_bag1_max",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 5,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_rmse_d5_lr0p1_l2100_bag0_min",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 5,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 0,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_rmse_d5_lr0p1_l2100_bag0_max",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 5,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 0,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_rmse_d5_lr0p1_l2100_bag1_min",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 5,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 1,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_rmse_d5_lr0p1_l2100_bag1_max",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 5,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_rmse_d7_lr0p03_l21_bag0_min",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 7,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 0,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_rmse_d7_lr0p03_l21_bag0_max",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 7,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 0,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_rmse_d7_lr0p03_l21_bag1_min",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 7,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 1,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_rmse_d7_lr0p03_l21_bag1_max",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 7,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_rmse_d7_lr0p03_l210_bag0_min",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 7,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 0,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_rmse_d7_lr0p03_l210_bag0_max",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 7,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 0,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_rmse_d7_lr0p03_l210_bag1_min",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 7,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 1,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_rmse_d7_lr0p03_l210_bag1_max",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 7,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_rmse_d7_lr0p03_l2100_bag0_min",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 7,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 0,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_rmse_d7_lr0p03_l2100_bag0_max",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 7,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 0,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_rmse_d7_lr0p03_l2100_bag1_min",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 7,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 1,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_rmse_d7_lr0p03_l2100_bag1_max",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 7,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_rmse_d7_lr0p1_l21_bag0_min",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 7,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 0,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_rmse_d7_lr0p1_l21_bag0_max",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 7,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 0,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_rmse_d7_lr0p1_l21_bag1_min",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 7,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 1,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_rmse_d7_lr0p1_l21_bag1_max",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 7,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_rmse_d7_lr0p1_l210_bag0_min",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 7,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 0,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_rmse_d7_lr0p1_l210_bag0_max",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 7,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 0,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_rmse_d7_lr0p1_l210_bag1_min",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 7,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 1,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_rmse_d7_lr0p1_l210_bag1_max",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 7,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_rmse_d7_lr0p1_l2100_bag0_min",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 7,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 0,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_rmse_d7_lr0p1_l2100_bag0_max",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 7,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 0,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_rmse_d7_lr0p1_l2100_bag1_min",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 7,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 1,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_rmse_d7_lr0p1_l2100_bag1_max",
+      "kind": "catboost",
+      "loss_function": "RMSE",
+      "depth": 7,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_mae_d3_lr0p03_l21_bag0_min",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 3,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 0,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_mae_d3_lr0p03_l21_bag0_max",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 3,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 0,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_mae_d3_lr0p03_l21_bag1_min",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 3,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 1,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_mae_d3_lr0p03_l21_bag1_max",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 3,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_mae_d3_lr0p03_l210_bag0_min",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 3,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 0,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_mae_d3_lr0p03_l210_bag0_max",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 3,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 0,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_mae_d3_lr0p03_l210_bag1_min",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 3,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 1,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_mae_d3_lr0p03_l210_bag1_max",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 3,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_mae_d3_lr0p03_l2100_bag0_min",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 3,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 0,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_mae_d3_lr0p03_l2100_bag0_max",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 3,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 0,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_mae_d3_lr0p03_l2100_bag1_min",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 3,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 1,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_mae_d3_lr0p03_l2100_bag1_max",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 3,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_mae_d3_lr0p1_l21_bag0_min",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 3,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 0,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_mae_d3_lr0p1_l21_bag0_max",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 3,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 0,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_mae_d3_lr0p1_l21_bag1_min",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 3,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 1,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_mae_d3_lr0p1_l21_bag1_max",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 3,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_mae_d3_lr0p1_l210_bag0_min",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 3,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 0,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_mae_d3_lr0p1_l210_bag0_max",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 3,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 0,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_mae_d3_lr0p1_l210_bag1_min",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 3,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 1,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_mae_d3_lr0p1_l210_bag1_max",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 3,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_mae_d3_lr0p1_l2100_bag0_min",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 3,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 0,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_mae_d3_lr0p1_l2100_bag0_max",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 3,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 0,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_mae_d3_lr0p1_l2100_bag1_min",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 3,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 1,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_mae_d3_lr0p1_l2100_bag1_max",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 3,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_mae_d5_lr0p03_l21_bag0_min",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 5,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 0,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_mae_d5_lr0p03_l21_bag0_max",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 5,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 0,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_mae_d5_lr0p03_l21_bag1_min",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 5,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 1,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_mae_d5_lr0p03_l21_bag1_max",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 5,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_mae_d5_lr0p03_l210_bag0_min",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 5,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 0,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_mae_d5_lr0p03_l210_bag0_max",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 5,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 0,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_mae_d5_lr0p03_l210_bag1_min",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 5,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 1,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_mae_d5_lr0p03_l210_bag1_max",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 5,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_mae_d5_lr0p03_l2100_bag0_min",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 5,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 0,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_mae_d5_lr0p03_l2100_bag0_max",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 5,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 0,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_mae_d5_lr0p03_l2100_bag1_min",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 5,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 1,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_mae_d5_lr0p03_l2100_bag1_max",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 5,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_mae_d5_lr0p1_l21_bag0_min",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 5,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 0,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_mae_d5_lr0p1_l21_bag0_max",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 5,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 0,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_mae_d5_lr0p1_l21_bag1_min",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 5,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 1,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_mae_d5_lr0p1_l21_bag1_max",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 5,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_mae_d5_lr0p1_l210_bag0_min",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 5,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 0,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_mae_d5_lr0p1_l210_bag0_max",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 5,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 0,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_mae_d5_lr0p1_l210_bag1_min",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 5,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 1,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_mae_d5_lr0p1_l210_bag1_max",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 5,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_mae_d5_lr0p1_l2100_bag0_min",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 5,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 0,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_mae_d5_lr0p1_l2100_bag0_max",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 5,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 0,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_mae_d5_lr0p1_l2100_bag1_min",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 5,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 1,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_mae_d5_lr0p1_l2100_bag1_max",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 5,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_mae_d7_lr0p03_l21_bag0_min",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 7,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 0,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_mae_d7_lr0p03_l21_bag0_max",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 7,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 0,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_mae_d7_lr0p03_l21_bag1_min",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 7,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 1,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_mae_d7_lr0p03_l21_bag1_max",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 7,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_mae_d7_lr0p03_l210_bag0_min",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 7,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 0,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_mae_d7_lr0p03_l210_bag0_max",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 7,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 0,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_mae_d7_lr0p03_l210_bag1_min",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 7,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 1,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_mae_d7_lr0p03_l210_bag1_max",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 7,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_mae_d7_lr0p03_l2100_bag0_min",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 7,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 0,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_mae_d7_lr0p03_l2100_bag0_max",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 7,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 0,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_mae_d7_lr0p03_l2100_bag1_min",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 7,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 1,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_mae_d7_lr0p03_l2100_bag1_max",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 7,
+      "learning_rate": 0.03,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_mae_d7_lr0p1_l21_bag0_min",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 7,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 0,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_mae_d7_lr0p1_l21_bag0_max",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 7,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 0,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_mae_d7_lr0p1_l21_bag1_min",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 7,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 1,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_mae_d7_lr0p1_l21_bag1_max",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 7,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 1,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_mae_d7_lr0p1_l210_bag0_min",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 7,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 0,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_mae_d7_lr0p1_l210_bag0_max",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 7,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 0,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_mae_d7_lr0p1_l210_bag1_min",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 7,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 1,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_mae_d7_lr0p1_l210_bag1_max",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 7,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 10,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_mae_d7_lr0p1_l2100_bag0_min",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 7,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 0,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_mae_d7_lr0p1_l2100_bag0_max",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 7,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 0,
+      "nan_mode": "Max"
+    },
+    {
+      "id": "cb_mae_d7_lr0p1_l2100_bag1_min",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 7,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 1,
+      "nan_mode": "Min"
+    },
+    {
+      "id": "cb_mae_d7_lr0p1_l2100_bag1_max",
+      "kind": "catboost",
+      "loss_function": "MAE",
+      "depth": 7,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    }
+  ],
+  "grid": {
+    "loss_function": [
+      "RMSE",
+      "MAE"
+    ],
+    "depth": [
+      3,
+      5,
+      7
+    ],
+    "learning_rate": [
+      0.03,
+      0.1
+    ],
+    "l2_leaf_reg": [
+      1,
+      10,
+      100
+    ],
+    "bagging_temperature": [
+      0,
+      1
+    ],
+    "nan_mode": [
+      "Min",
+      "Max"
+    ]
+  },
+  "catboost_fixed": {
+    "iterations": 1200,
+    "task_type": "GPU",
+    "devices": "0",
+    "thread_count": 2,
+    "gpu_ram_part": 0.18,
+    "random_strength": 1,
+    "allow_writing_files": false,
+    "bootstrap_type": "Bayesian",
+    "boosting_type": "Plain",
+    "use_best_model": false,
+    "verbose": false
+  },
+  "tree_checkpoints": [
+    200,
+    600,
+    1200
+  ],
+  "progress_checkpoint": 1200,
+  "training_target": "Original frozen B yy, unchanged; no target transforms or feature reselection",
+  "native_missingness": "Train-only CatBoost native Min/Max; no imputation, query-derived borders or pool concatenation",
+  "evaluation_rule": "Fit1200 trees once per fold without eval_set or early stopping. Predict all three registered ntree_end checkpoints. No score-based stopping or checkpoint selection.",
+  "reference_gate": "Three original B TabICL32 raw/canonical/score/full-audit reference replays gate interpretation.",
+  "blend_diagnostic": {
+    "anchors": [
+      "drop5_001",
+      "none_o0p5_n16"
+    ],
+    "alpha_steps": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "alpha": "step/10;0 anchor,1 CatBoost",
+    "method": "Within-cohort average-tied rank/n percentiles, exact doubled-integer rank sums; same-seed and fixed equal-three-seed mean endpoints separately. All checkpoints/weights/anchors saved, no favorable-seed selection."
+  },
+  "execution": {
+    "task_count": 435,
+    "workers": 4,
+    "runtime_seconds": 7200,
+    "memory": "140G",
+    "cpu_quota": "2200%"
+  },
+  "GPU_nondeterminism": "Actual CatBoost outputs and seeds retained; no bit-exact CatBoost replay requirement. TabICL baseline exact gates unchanged.",
+  "no_model_promotion": true
+}

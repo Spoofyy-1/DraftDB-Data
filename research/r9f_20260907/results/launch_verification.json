@@ -1,0 +1,20 @@
+{
+  "study": "r9f",
+  "status": "running",
+  "unit": "draftdb-r9f-20260907",
+  "invocation": "b070eced9dd143abb21240694fd80a81",
+  "tasks": 435,
+  "last_observed_completed": 4,
+  "reference_replays_passed": 3,
+  "GPU_percent": 99,
+  "workers": 4,
+  "limits": "2h140GiB22CPU",
+  "CPU_preflight_passed": true,
+  "GPU_compatibility_fixtures": 4,
+  "frozen_files": 61,
+  "frozen_sha256": "1d3f47f8e1467636220c7907a549693664da033f984bcf54ce4ab2eab688f978",
+  "plan_sha256": "f0b809ac93013166f52b0c7cc9695e0208bc861a5929b5f3ca4d33f7ad52750b",
+  "benchmark_result": null,
+  "raw_storage": "Remote immutable records",
+  "updated_utc": "2026-09-06T22:18:02.974053+00:00"
+}

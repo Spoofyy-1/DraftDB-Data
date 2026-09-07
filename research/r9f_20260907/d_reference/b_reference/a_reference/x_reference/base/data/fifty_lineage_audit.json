@@ -1,0 +1,12 @@
+{
+  "raw_rows": 90739,
+  "same_team_player_duplicate_rows": 0,
+  "same_team_player_duplicate_groups": 0,
+  "players_traced": 1565,
+  "traced_players_with_duplicate_team_rows": 0,
+  "all_existing_focal_and_history_selections_reproduced": true,
+  "features_changed": false,
+  "limitation": "Adds exact source row pointers; retrospective publication vintage and cohort-universe restrictions remain. Does not expose or use raw NBA pick field.",
+  "source_player_ids_with_multiple_model_pids": 0,
+  "duplicate_person_candidates": {}
+}

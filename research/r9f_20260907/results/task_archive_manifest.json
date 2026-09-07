@@ -1,0 +1,3527 @@
+{
+  "format": "gzip of exact original task JSON bytes, each followed by one LF; recover each original file by removing exactly that terminal LF",
+  "ordering": "frozen plan variant order, then registered model seed order",
+  "gzip": {
+    "mtime": 0,
+    "filename": "",
+    "compresslevel": 6
+  },
+  "chunk_compressed_limit_bytes": 40000000,
+  "chunk_uncompressed_target_bytes": 32000000,
+  "frozen_manifest_sha256": "1d3f47f8e1467636220c7907a549693664da033f984bcf54ce4ab2eab688f978",
+  "record_count": 435,
+  "original_bytes": 83783959,
+  "compressed_bytes": 18730624,
+  "all_roundtrips_exact": true,
+  "chunks": [
+    {
+      "file": "task_archives/tasks_000.jsonl.gz",
+      "sha256": "f5c54ed577d39ce1402079bdc9687bc53c8cc577d844bf465e47ec9338fd8ee5",
+      "bytes": 7144893,
+      "records": 166,
+      "uncompressed_bytes": 31876686,
+      "uncompressed_sha256": "9b6537b247a524604523a8f5b794f1e5824cb2afbfe9b03e96732e39c987c82a",
+      "roundtrip_exact": true
+    },
+    {
+      "file": "task_archives/tasks_001.jsonl.gz",
+      "sha256": "86eae80e5d8020850a14a631833598e43f4ff3f0a136f57f84cd5bd1d3e09df5",
+      "bytes": 7112570,
+      "records": 165,
+      "uncompressed_bytes": 31842247,
+      "uncompressed_sha256": "93406a4d7320e17a3f400991195aa0fda7d2dd8b7ff41a3fbc238876a72c8c34",
+      "roundtrip_exact": true
+    },
+    {
+      "file": "task_archives/tasks_002.jsonl.gz",
+      "sha256": "f295b8706f7609034435f3dd23ac83264f6ee62f4a21a370011801aba2f1e958",
+      "bytes": 4473161,
+      "records": 104,
+      "uncompressed_bytes": 20065461,
+      "uncompressed_sha256": "59f87ce0a5b7b7916a7b2140c279023564eb992fc40167aeeb2e4ce7cbfa6331",
+      "roundtrip_exact": true
+    }
+  ],
+  "records": [
+    {
+      "task_id": "drop5_001_seed0",
+      "file": "tasks/drop5_001_seed0.json",
+      "sha256": "7d296563a943d234a3c9d6b68d23969bb631ea4789368c6c74e60ee210a3e6c1",
+      "bytes": 136761,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 1
+    },
+    {
+      "task_id": "drop5_001_seed101",
+      "file": "tasks/drop5_001_seed101.json",
+      "sha256": "9b2007043c4f6638e0eec89d0b4b9ca091f0ff975c701dda8297310da91f28d6",
+      "bytes": 136760,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 2
+    },
+    {
+      "task_id": "drop5_001_seed202",
+      "file": "tasks/drop5_001_seed202.json",
+      "sha256": "4f2bbbe8cb601eaae91fb7facad3ca3917a287b35984b6659ae763d219131b28",
+      "bytes": 136796,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 3
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p03_l21_bag0_min_seed0",
+      "file": "tasks/cb_rmse_d3_lr0p03_l21_bag0_min_seed0.json",
+      "sha256": "3cbef6c9f82ab8599ade26e682eb993689f1d3a5f9833c7cafb045f4938e2d0a",
+      "bytes": 193024,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 4
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p03_l21_bag0_min_seed101",
+      "file": "tasks/cb_rmse_d3_lr0p03_l21_bag0_min_seed101.json",
+      "sha256": "682cfaa74de386cd99e126bfe4a336abd573b1c4796ccde221031b5c2e989cfd",
+      "bytes": 193060,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 5
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p03_l21_bag0_min_seed202",
+      "file": "tasks/cb_rmse_d3_lr0p03_l21_bag0_min_seed202.json",
+      "sha256": "84c6a14fd3143cd0727145e4324a6fd7b9bd01509eb171d559d4770ed46c237b",
+      "bytes": 193020,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 6
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p03_l21_bag0_max_seed0",
+      "file": "tasks/cb_rmse_d3_lr0p03_l21_bag0_max_seed0.json",
+      "sha256": "f5e6ad0abca929ae3ca051f245493c1fe58d2ef7fa71d8692b685d011bd0d624",
+      "bytes": 192921,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 7
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p03_l21_bag0_max_seed101",
+      "file": "tasks/cb_rmse_d3_lr0p03_l21_bag0_max_seed101.json",
+      "sha256": "b082d0c68a22bf837451c8c86e1aade5ce4d8977592b477a39e15b637904138a",
+      "bytes": 192941,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 8
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p03_l21_bag0_max_seed202",
+      "file": "tasks/cb_rmse_d3_lr0p03_l21_bag0_max_seed202.json",
+      "sha256": "6796c36b2bcd4dec2820440a231bbe7afd5ea454e192f6433f835681b4c8f02d",
+      "bytes": 192987,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 9
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p03_l21_bag1_min_seed0",
+      "file": "tasks/cb_rmse_d3_lr0p03_l21_bag1_min_seed0.json",
+      "sha256": "02097b3bd42c1a6a4313a27f53783a5c3de15fef015626961b64c9e541108412",
+      "bytes": 193052,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 10
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p03_l21_bag1_min_seed101",
+      "file": "tasks/cb_rmse_d3_lr0p03_l21_bag1_min_seed101.json",
+      "sha256": "ae890f960bd74a39ee902a99d80d3eea8914b5a05660c9f4cd43e87c808982d2",
+      "bytes": 192982,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 11
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p03_l21_bag1_min_seed202",
+      "file": "tasks/cb_rmse_d3_lr0p03_l21_bag1_min_seed202.json",
+      "sha256": "6f2468e65eb6fdc2da392c1a3f9925db8af30b7caa959309b9030087cf0c4853",
+      "bytes": 193022,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 12
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p03_l21_bag1_max_seed0",
+      "file": "tasks/cb_rmse_d3_lr0p03_l21_bag1_max_seed0.json",
+      "sha256": "d12733a9f72b55cecf898a8fbe3c80a29e3662d2b799280cfa9bb45b2efb78d7",
+      "bytes": 193032,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 13
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p03_l21_bag1_max_seed101",
+      "file": "tasks/cb_rmse_d3_lr0p03_l21_bag1_max_seed101.json",
+      "sha256": "79af9a7efc33ab9886a9eb60428380c7a5b4a4e6a02b83b3799b34c84f64dd8d",
+      "bytes": 193044,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 14
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p03_l21_bag1_max_seed202",
+      "file": "tasks/cb_rmse_d3_lr0p03_l21_bag1_max_seed202.json",
+      "sha256": "958f47e09056ef4de84df17e6f06da9fbeb32733d503a9edb3af8b6f3d417566",
+      "bytes": 192981,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 15
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p03_l210_bag0_min_seed0",
+      "file": "tasks/cb_rmse_d3_lr0p03_l210_bag0_min_seed0.json",
+      "sha256": "e239c22de19fa62148bfbae66164b16599a9a410c11e1e06e353237e52ecce22",
+      "bytes": 193118,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 16
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p03_l210_bag0_min_seed101",
+      "file": "tasks/cb_rmse_d3_lr0p03_l210_bag0_min_seed101.json",
+      "sha256": "145c2e1e5edd62e17ed175a1d86053cc84def1d6a737e40ce45f4f95fa9a7d65",
+      "bytes": 193124,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 17
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p03_l210_bag0_min_seed202",
+      "file": "tasks/cb_rmse_d3_lr0p03_l210_bag0_min_seed202.json",
+      "sha256": "31e8ea3779a5ee9ed17b744c4e4215d42827b74731f0e1e08aa82a332590b122",
+      "bytes": 193147,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 18
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p03_l210_bag0_max_seed0",
+      "file": "tasks/cb_rmse_d3_lr0p03_l210_bag0_max_seed0.json",
+      "sha256": "38d4ee554625f1360c2aa3c29d1a266a390ad7cdf790604f1637470a48194582",
+      "bytes": 193006,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 19
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p03_l210_bag0_max_seed101",
+      "file": "tasks/cb_rmse_d3_lr0p03_l210_bag0_max_seed101.json",
+      "sha256": "960cdb2f3f5ec41021e17876411e9bbcf20e405c30d55667678c67bc0abf676b",
+      "bytes": 193037,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 20
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p03_l210_bag0_max_seed202",
+      "file": "tasks/cb_rmse_d3_lr0p03_l210_bag0_max_seed202.json",
+      "sha256": "f6a97be430f4e5c139cc42d6c79f6899be90df597f7ae1dc08da9061ccaf8353",
+      "bytes": 192947,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 21
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p03_l210_bag1_min_seed0",
+      "file": "tasks/cb_rmse_d3_lr0p03_l210_bag1_min_seed0.json",
+      "sha256": "8da8cbdb80a5b3b1b59771a658478ebaacb51cb788ba946b2724d4c155b68ea6",
+      "bytes": 193114,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 22
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p03_l210_bag1_min_seed101",
+      "file": "tasks/cb_rmse_d3_lr0p03_l210_bag1_min_seed101.json",
+      "sha256": "caa0eb884e7962590e34401e41cd0ac0e3fd9a9721a1f0dcac47a45a9b3b71b3",
+      "bytes": 193120,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 23
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p03_l210_bag1_min_seed202",
+      "file": "tasks/cb_rmse_d3_lr0p03_l210_bag1_min_seed202.json",
+      "sha256": "63a75916d794337762cb198fd56d9358a07775a8147357003c19444832f6604d",
+      "bytes": 193102,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 24
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p03_l210_bag1_max_seed0",
+      "file": "tasks/cb_rmse_d3_lr0p03_l210_bag1_max_seed0.json",
+      "sha256": "f9580a528b63452bff43a44a2b8c7bbb0d24363426222789d3ce1c89a27d586c",
+      "bytes": 193074,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 25
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p03_l210_bag1_max_seed101",
+      "file": "tasks/cb_rmse_d3_lr0p03_l210_bag1_max_seed101.json",
+      "sha256": "7f328d01c1de5d6d00bb19e834628a5b0ad8faafec35ec73237898eba1d52230",
+      "bytes": 193035,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 26
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p03_l210_bag1_max_seed202",
+      "file": "tasks/cb_rmse_d3_lr0p03_l210_bag1_max_seed202.json",
+      "sha256": "1fefc02071aec234e82c1fac325279aef14c8f92854e12fb730ad591c18e1bc3",
+      "bytes": 193048,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 27
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p03_l2100_bag0_min_seed0",
+      "file": "tasks/cb_rmse_d3_lr0p03_l2100_bag0_min_seed0.json",
+      "sha256": "0254a445d2be7b06c9d0ef8458c82f823bdb3afab4ace2b76327315f17db0b29",
+      "bytes": 193345,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 28
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p03_l2100_bag0_min_seed101",
+      "file": "tasks/cb_rmse_d3_lr0p03_l2100_bag0_min_seed101.json",
+      "sha256": "02e570073bde88074204f5876cfe97abf7e9bfbacbc5bd422e38768c152c9ceb",
+      "bytes": 193340,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 29
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p03_l2100_bag0_min_seed202",
+      "file": "tasks/cb_rmse_d3_lr0p03_l2100_bag0_min_seed202.json",
+      "sha256": "b2daba1cf6af3ba6c4d8641d24d008953950061901ae0c1ad28e478c6d51a519",
+      "bytes": 193384,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 30
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p03_l2100_bag0_max_seed0",
+      "file": "tasks/cb_rmse_d3_lr0p03_l2100_bag0_max_seed0.json",
+      "sha256": "a9b80c93c59f34090a0e2618b8a031eac782b4c46fb6447c15321a664b26b2a0",
+      "bytes": 193238,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 31
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p03_l2100_bag0_max_seed101",
+      "file": "tasks/cb_rmse_d3_lr0p03_l2100_bag0_max_seed101.json",
+      "sha256": "2161778562e135e47909d8fa228659549aaabb12bc0900c19e08727b1b1d7a65",
+      "bytes": 193262,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 32
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p03_l2100_bag0_max_seed202",
+      "file": "tasks/cb_rmse_d3_lr0p03_l2100_bag0_max_seed202.json",
+      "sha256": "3039b2eb8eac358bb644f655d16eb91cace805d1214f0ac173694c5d7822ad81",
+      "bytes": 193249,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 33
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p03_l2100_bag1_min_seed0",
+      "file": "tasks/cb_rmse_d3_lr0p03_l2100_bag1_min_seed0.json",
+      "sha256": "980decf6bcd3d3b22227c95d6e6c4c8be86282b7c15c2bea7e4795b385196e89",
+      "bytes": 193247,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 34
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p03_l2100_bag1_min_seed101",
+      "file": "tasks/cb_rmse_d3_lr0p03_l2100_bag1_min_seed101.json",
+      "sha256": "4486e00bdf8b8c90640a5f72562b4674a8c6657597ef88d6b164ed8744433cc3",
+      "bytes": 193297,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 35
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p03_l2100_bag1_min_seed202",
+      "file": "tasks/cb_rmse_d3_lr0p03_l2100_bag1_min_seed202.json",
+      "sha256": "7eef141a93e192627f4b687f28678728da33e0fbb82fa233b5db2d510d7f22bc",
+      "bytes": 193274,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 36
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p03_l2100_bag1_max_seed0",
+      "file": "tasks/cb_rmse_d3_lr0p03_l2100_bag1_max_seed0.json",
+      "sha256": "4630fe968063fdb9196f6396319a292987452e5c3dc3adf5852114e8f7847921",
+      "bytes": 193226,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 37
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p03_l2100_bag1_max_seed101",
+      "file": "tasks/cb_rmse_d3_lr0p03_l2100_bag1_max_seed101.json",
+      "sha256": "188408294c338040c613f42dea9da76d92d68e68daf49c436904fd0a087a0a09",
+      "bytes": 193251,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 38
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p03_l2100_bag1_max_seed202",
+      "file": "tasks/cb_rmse_d3_lr0p03_l2100_bag1_max_seed202.json",
+      "sha256": "23e1a7bb031d966d4bec722f2e7e867742db45a3f194da4dc829b8c7206c5bef",
+      "bytes": 193207,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 39
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p1_l21_bag0_min_seed0",
+      "file": "tasks/cb_rmse_d3_lr0p1_l21_bag0_min_seed0.json",
+      "sha256": "d50006d0d51a87a649e28803337e063230c7e3e16e59c29096183141e9ca2c1e",
+      "bytes": 192824,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 40
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p1_l21_bag0_min_seed101",
+      "file": "tasks/cb_rmse_d3_lr0p1_l21_bag0_min_seed101.json",
+      "sha256": "aaeaa9a1121133af5a93f4dee7b617730bcf23125b3b47c4546855bc58aa418d",
+      "bytes": 192885,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 41
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p1_l21_bag0_min_seed202",
+      "file": "tasks/cb_rmse_d3_lr0p1_l21_bag0_min_seed202.json",
+      "sha256": "2136f5388987c7b70f9d2f84eb7dff68a438e5a1e48fa7e3251cf1c51663b46e",
+      "bytes": 192925,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 42
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p1_l21_bag0_max_seed0",
+      "file": "tasks/cb_rmse_d3_lr0p1_l21_bag0_max_seed0.json",
+      "sha256": "18e2ecf91c57babbfef45fdd2913289a3f3dd2133ce9ecc2223e5a3e47843d4f",
+      "bytes": 192766,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 43
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p1_l21_bag0_max_seed101",
+      "file": "tasks/cb_rmse_d3_lr0p1_l21_bag0_max_seed101.json",
+      "sha256": "fc63b4c7ced4f145c5d16a717938edeff5e05739c72a63b2bc1f1b6a4ad1a8d5",
+      "bytes": 192884,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 44
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p1_l21_bag0_max_seed202",
+      "file": "tasks/cb_rmse_d3_lr0p1_l21_bag0_max_seed202.json",
+      "sha256": "f8e6351b09e38e97c2a021c44e2b85d09484d4744ad819487021657c813e3faa",
+      "bytes": 192824,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 45
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p1_l21_bag1_min_seed0",
+      "file": "tasks/cb_rmse_d3_lr0p1_l21_bag1_min_seed0.json",
+      "sha256": "0ec8fd265d7ccd11d7c6646a8da522552099f667f89f0e9690e30c0100e4b614",
+      "bytes": 192947,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 46
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p1_l21_bag1_min_seed101",
+      "file": "tasks/cb_rmse_d3_lr0p1_l21_bag1_min_seed101.json",
+      "sha256": "ce379656095050927f6431bd2351601eca38e826e2824a895a78087ec4f2f8f5",
+      "bytes": 192849,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 47
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p1_l21_bag1_min_seed202",
+      "file": "tasks/cb_rmse_d3_lr0p1_l21_bag1_min_seed202.json",
+      "sha256": "4b230172b9371f91d9f6cf145fec3025e906364774606fede9f4160ecedab671",
+      "bytes": 192893,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 48
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p1_l21_bag1_max_seed0",
+      "file": "tasks/cb_rmse_d3_lr0p1_l21_bag1_max_seed0.json",
+      "sha256": "8fb55b5a63e4c714bbe4ba4de7cacff3049bb1c3eb9983cce493ac15ea698e24",
+      "bytes": 192847,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 49
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p1_l21_bag1_max_seed101",
+      "file": "tasks/cb_rmse_d3_lr0p1_l21_bag1_max_seed101.json",
+      "sha256": "523f7048e86e60d5cef43bfd6f3886fa1cada9c1d19ef4006b5dfa8d4a9d0b29",
+      "bytes": 192914,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 50
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p1_l21_bag1_max_seed202",
+      "file": "tasks/cb_rmse_d3_lr0p1_l21_bag1_max_seed202.json",
+      "sha256": "5e5f7d650608563c8af2b6511d996310fe3c05ac093595488b0eb214689d5cc9",
+      "bytes": 192897,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 51
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p1_l210_bag0_min_seed0",
+      "file": "tasks/cb_rmse_d3_lr0p1_l210_bag0_min_seed0.json",
+      "sha256": "7ccd1791951fed410732aa354122b48b6df3754af1b5c71ffb7d78a69f4615d7",
+      "bytes": 192965,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 52
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p1_l210_bag0_min_seed101",
+      "file": "tasks/cb_rmse_d3_lr0p1_l210_bag0_min_seed101.json",
+      "sha256": "62b0fa1309ffbcefadc8c73e17ca106eda7240c19c4b6b8cb5c420ce0925212d",
+      "bytes": 192876,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 53
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p1_l210_bag0_min_seed202",
+      "file": "tasks/cb_rmse_d3_lr0p1_l210_bag0_min_seed202.json",
+      "sha256": "7e9e7bd636fa817c28544a7452b43f9e9026dc65e8cd955064b7391d887d0367",
+      "bytes": 192940,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 54
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p1_l210_bag0_max_seed0",
+      "file": "tasks/cb_rmse_d3_lr0p1_l210_bag0_max_seed0.json",
+      "sha256": "03aca5b59dd662cadf6e2cf3b918f2ca484d99b2971b71b5980feb9159e4c845",
+      "bytes": 192823,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 55
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p1_l210_bag0_max_seed101",
+      "file": "tasks/cb_rmse_d3_lr0p1_l210_bag0_max_seed101.json",
+      "sha256": "6f9dd6638677bb220727c2c9287f25ff6fdaaa873aaa7eb1b9adb5d1a23836fd",
+      "bytes": 192839,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 56
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p1_l210_bag0_max_seed202",
+      "file": "tasks/cb_rmse_d3_lr0p1_l210_bag0_max_seed202.json",
+      "sha256": "8c07bfa57b07c7c60ece7a0c8d3dc222fd5d86d6b80ca47cc186704ab98b6622",
+      "bytes": 192919,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 57
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p1_l210_bag1_min_seed0",
+      "file": "tasks/cb_rmse_d3_lr0p1_l210_bag1_min_seed0.json",
+      "sha256": "58e83f91fcba3aad9c1615e8f40fc956dec44a558ec560989e8d0c7879c67bf7",
+      "bytes": 192988,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 58
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p1_l210_bag1_min_seed101",
+      "file": "tasks/cb_rmse_d3_lr0p1_l210_bag1_min_seed101.json",
+      "sha256": "b66c7cceacbd103c18fb88990999b4b44f4146cca355372bc99958ab522b7fd4",
+      "bytes": 192887,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 59
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p1_l210_bag1_min_seed202",
+      "file": "tasks/cb_rmse_d3_lr0p1_l210_bag1_min_seed202.json",
+      "sha256": "8e3d4a0e8ff6b04341497b391cccdc094a97d43cf168f0b38f820f4d5b907c90",
+      "bytes": 192919,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 60
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p1_l210_bag1_max_seed0",
+      "file": "tasks/cb_rmse_d3_lr0p1_l210_bag1_max_seed0.json",
+      "sha256": "8499e58739eda6165a8f88c102901a005c445f0187180c9d58a8264a03723f14",
+      "bytes": 192876,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 61
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p1_l210_bag1_max_seed101",
+      "file": "tasks/cb_rmse_d3_lr0p1_l210_bag1_max_seed101.json",
+      "sha256": "9d85bbac31cc4c750aa9ffc0df2df23c51f1a8f554a24101e84060476d7eb362",
+      "bytes": 192904,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 62
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p1_l210_bag1_max_seed202",
+      "file": "tasks/cb_rmse_d3_lr0p1_l210_bag1_max_seed202.json",
+      "sha256": "6f79e0fc0260931c6d208c9ec6272fc4485d423eef6bff5ab52603f809356244",
+      "bytes": 192929,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 63
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p1_l2100_bag0_min_seed0",
+      "file": "tasks/cb_rmse_d3_lr0p1_l2100_bag0_min_seed0.json",
+      "sha256": "bffcc766a93cc23583c92f42b511b92ead8a0a13ef4c6fdc86ada07f8cff5a61",
+      "bytes": 193161,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 64
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p1_l2100_bag0_min_seed101",
+      "file": "tasks/cb_rmse_d3_lr0p1_l2100_bag0_min_seed101.json",
+      "sha256": "db626b997cce868676c434abbe769fc25ba0a9d613f690f4d7ac0a5796df8d23",
+      "bytes": 193191,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 65
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p1_l2100_bag0_min_seed202",
+      "file": "tasks/cb_rmse_d3_lr0p1_l2100_bag0_min_seed202.json",
+      "sha256": "e171a1351d23562db11c6f754478b3666d84913669cdb02f26c39d4a40902d3b",
+      "bytes": 193234,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 66
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p1_l2100_bag0_max_seed0",
+      "file": "tasks/cb_rmse_d3_lr0p1_l2100_bag0_max_seed0.json",
+      "sha256": "95e7b5209f17fa16a7479d385737c006f40fd188f7a0a5370ccaf627be1e1969",
+      "bytes": 193062,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 67
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p1_l2100_bag0_max_seed101",
+      "file": "tasks/cb_rmse_d3_lr0p1_l2100_bag0_max_seed101.json",
+      "sha256": "4e11de498076d5b3c353827922feb5a3f27e6caec87b0c108e2c7fa8e10a15c9",
+      "bytes": 193111,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 68
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p1_l2100_bag0_max_seed202",
+      "file": "tasks/cb_rmse_d3_lr0p1_l2100_bag0_max_seed202.json",
+      "sha256": "ba66d5497f58e63748486c2bedc48c022b516ff614b125ad11efc3428d12ef6c",
+      "bytes": 193086,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 69
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p1_l2100_bag1_min_seed0",
+      "file": "tasks/cb_rmse_d3_lr0p1_l2100_bag1_min_seed0.json",
+      "sha256": "f3570dfc2823eaeeefaea337c9baac24fb10ef9c41e2db7da5b8a9f17f394d45",
+      "bytes": 193034,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 70
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p1_l2100_bag1_min_seed101",
+      "file": "tasks/cb_rmse_d3_lr0p1_l2100_bag1_min_seed101.json",
+      "sha256": "39c77f52ab0522d847d1bc53246e7d1e903dd21e70e94bc896c859d7909c7805",
+      "bytes": 193035,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 71
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p1_l2100_bag1_min_seed202",
+      "file": "tasks/cb_rmse_d3_lr0p1_l2100_bag1_min_seed202.json",
+      "sha256": "f683b44c97031bd405703ad2d9ac0fe7f2dda0cc980dd9fe43b1d5a7ae61e929",
+      "bytes": 193041,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 72
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p1_l2100_bag1_max_seed0",
+      "file": "tasks/cb_rmse_d3_lr0p1_l2100_bag1_max_seed0.json",
+      "sha256": "638543c26b6c7aee7b25270583f0b9a848f2b4a843a4fb4c3ce1ea356cbcc5f8",
+      "bytes": 192995,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 73
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p1_l2100_bag1_max_seed101",
+      "file": "tasks/cb_rmse_d3_lr0p1_l2100_bag1_max_seed101.json",
+      "sha256": "618e2e5fe5e030587defdfb693351eae81d388ed367fce4e8b8ce55c06f8defb",
+      "bytes": 193019,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 74
+    },
+    {
+      "task_id": "cb_rmse_d3_lr0p1_l2100_bag1_max_seed202",
+      "file": "tasks/cb_rmse_d3_lr0p1_l2100_bag1_max_seed202.json",
+      "sha256": "d78eaf79ee5898b40f3e4a5d9ca6e8d28c6a32bd9b2e87fe9e378a74f4293947",
+      "bytes": 193006,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 75
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p03_l21_bag0_min_seed0",
+      "file": "tasks/cb_rmse_d5_lr0p03_l21_bag0_min_seed0.json",
+      "sha256": "b29af14f5fe6fb8cb739e5a36e86e048e83535015598b47567137770f8cb7e89",
+      "bytes": 192932,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 76
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p03_l21_bag0_min_seed101",
+      "file": "tasks/cb_rmse_d5_lr0p03_l21_bag0_min_seed101.json",
+      "sha256": "09b7e3ccba17549f8a78da313f68a860acde4079c8b9cd581e9f3af255b5ba75",
+      "bytes": 192982,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 77
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p03_l21_bag0_min_seed202",
+      "file": "tasks/cb_rmse_d5_lr0p03_l21_bag0_min_seed202.json",
+      "sha256": "20254a6b4da8d91d0fc40aa7c724c7c8c3d6f653f016dd45bf6948aeaccf3bce",
+      "bytes": 192953,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 78
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p03_l21_bag0_max_seed0",
+      "file": "tasks/cb_rmse_d5_lr0p03_l21_bag0_max_seed0.json",
+      "sha256": "f660ce6f62e6ed4104cab289f3a4f07c2d69b5a76c70e5e71d11be3b39e45ac6",
+      "bytes": 192907,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 79
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p03_l21_bag0_max_seed101",
+      "file": "tasks/cb_rmse_d5_lr0p03_l21_bag0_max_seed101.json",
+      "sha256": "ed1a44fd8beed320e3c8c9588c6c8eaa4b3674c53f6dee3238e7c7a1e2df16a0",
+      "bytes": 192993,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 80
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p03_l21_bag0_max_seed202",
+      "file": "tasks/cb_rmse_d5_lr0p03_l21_bag0_max_seed202.json",
+      "sha256": "09c665fea0e6553ed65596ce5faceef80064ae1843bf17411c61bee754bd9462",
+      "bytes": 193023,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 81
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p03_l21_bag1_min_seed0",
+      "file": "tasks/cb_rmse_d5_lr0p03_l21_bag1_min_seed0.json",
+      "sha256": "8efe5896874ea9e5ac3f9b54b952201e72bb1e417fdcefb755678d1516eb509e",
+      "bytes": 193040,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 82
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p03_l21_bag1_min_seed101",
+      "file": "tasks/cb_rmse_d5_lr0p03_l21_bag1_min_seed101.json",
+      "sha256": "db9e4f1f4df1adeed62d5e022fc3e6af38bea75b797f4eea62c437cd1c87d8f8",
+      "bytes": 192974,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 83
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p03_l21_bag1_min_seed202",
+      "file": "tasks/cb_rmse_d5_lr0p03_l21_bag1_min_seed202.json",
+      "sha256": "f70d9d28940c9de498f606e1b84b87dcdbdbb4c9848d4b421ad693400d1e143e",
+      "bytes": 192989,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 84
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p03_l21_bag1_max_seed0",
+      "file": "tasks/cb_rmse_d5_lr0p03_l21_bag1_max_seed0.json",
+      "sha256": "29424809db60f3cf26977d4d6563347a5527143f50909fa8e819a2d4faf3c397",
+      "bytes": 193047,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 85
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p03_l21_bag1_max_seed101",
+      "file": "tasks/cb_rmse_d5_lr0p03_l21_bag1_max_seed101.json",
+      "sha256": "daa16a86b6cee5240c2a08aa792c4ef09da119b95ba279ca3c1b1decf3d31849",
+      "bytes": 193061,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 86
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p03_l21_bag1_max_seed202",
+      "file": "tasks/cb_rmse_d5_lr0p03_l21_bag1_max_seed202.json",
+      "sha256": "509dbd39aa6d00458e7d4c08a078fc1f97ff1f5079f5eaf1883fa8b8892576cc",
+      "bytes": 193018,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 87
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p03_l210_bag0_min_seed0",
+      "file": "tasks/cb_rmse_d5_lr0p03_l210_bag0_min_seed0.json",
+      "sha256": "e15959fc7fc207fd2667da777b3b75fef95baa7ae12b561e924cb97ec562fb03",
+      "bytes": 193039,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 88
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p03_l210_bag0_min_seed101",
+      "file": "tasks/cb_rmse_d5_lr0p03_l210_bag0_min_seed101.json",
+      "sha256": "c6f326e1ea196a6784ed30822040b65089ee8ee1e0bf79122202a65b2d605465",
+      "bytes": 193069,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 89
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p03_l210_bag0_min_seed202",
+      "file": "tasks/cb_rmse_d5_lr0p03_l210_bag0_min_seed202.json",
+      "sha256": "529e9f984e81db1c3af2a44813e8333c2f6a8264026e89a8ab93d9611f8b5090",
+      "bytes": 193037,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 90
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p03_l210_bag0_max_seed0",
+      "file": "tasks/cb_rmse_d5_lr0p03_l210_bag0_max_seed0.json",
+      "sha256": "f4aa691353c79d58b8ae28713d8c15afc624bac36c26e89928e1b391b0de2ad1",
+      "bytes": 193063,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 91
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p03_l210_bag0_max_seed101",
+      "file": "tasks/cb_rmse_d5_lr0p03_l210_bag0_max_seed101.json",
+      "sha256": "3ec61ab1ef350b1a773666bbe71c9cae47aa73576d497881242f67aa0e23e101",
+      "bytes": 193058,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 92
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p03_l210_bag0_max_seed202",
+      "file": "tasks/cb_rmse_d5_lr0p03_l210_bag0_max_seed202.json",
+      "sha256": "444cdc411890b81df5129d9751ea37c999db137285d8e6689179aff1a46de187",
+      "bytes": 192988,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 93
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p03_l210_bag1_min_seed0",
+      "file": "tasks/cb_rmse_d5_lr0p03_l210_bag1_min_seed0.json",
+      "sha256": "4a305e88c939fefea873b27a47c0eb71c90b2d8c65ff84f0f7a5b5740e8dd602",
+      "bytes": 193039,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 94
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p03_l210_bag1_min_seed101",
+      "file": "tasks/cb_rmse_d5_lr0p03_l210_bag1_min_seed101.json",
+      "sha256": "2b25dff761d44a0a7bb4a6aa554771081ec07e7ff8a56ef06691af0d11f1628e",
+      "bytes": 193072,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 95
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p03_l210_bag1_min_seed202",
+      "file": "tasks/cb_rmse_d5_lr0p03_l210_bag1_min_seed202.json",
+      "sha256": "e73426c48f5128280238e3c6b7ecade549eb549c38eae5a119d32bb0d0159c09",
+      "bytes": 193041,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 96
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p03_l210_bag1_max_seed0",
+      "file": "tasks/cb_rmse_d5_lr0p03_l210_bag1_max_seed0.json",
+      "sha256": "1783ad965f9a3c65ea277f9bf6ec80c070103019f9c623ad7b4e053b65654f52",
+      "bytes": 193100,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 97
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p03_l210_bag1_max_seed101",
+      "file": "tasks/cb_rmse_d5_lr0p03_l210_bag1_max_seed101.json",
+      "sha256": "15d97e8bab7f9cc4d59c3baa81d3e8e53edadb903bba2aa8a34b200cf4b9b9c3",
+      "bytes": 193105,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 98
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p03_l210_bag1_max_seed202",
+      "file": "tasks/cb_rmse_d5_lr0p03_l210_bag1_max_seed202.json",
+      "sha256": "ef83cd54d7c083de03e53c1ed1b929ae968a5be90899ee768ca2dc912c304eab",
+      "bytes": 193101,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 99
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p03_l2100_bag0_min_seed0",
+      "file": "tasks/cb_rmse_d5_lr0p03_l2100_bag0_min_seed0.json",
+      "sha256": "efb7386587fcf8e43f09cba545a350df1d1bb3d461f4a78ea346c12b6ab22084",
+      "bytes": 193281,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 100
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p03_l2100_bag0_min_seed101",
+      "file": "tasks/cb_rmse_d5_lr0p03_l2100_bag0_min_seed101.json",
+      "sha256": "005cbb73d4212fd85da3940b88091379cf99f2a9dea5849aa62383842bec4040",
+      "bytes": 193360,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 101
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p03_l2100_bag0_min_seed202",
+      "file": "tasks/cb_rmse_d5_lr0p03_l2100_bag0_min_seed202.json",
+      "sha256": "49d847f69ce123c5b25cc98812944846257986ff4301e3e9c953f1d5f044e68b",
+      "bytes": 193373,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 102
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p03_l2100_bag0_max_seed0",
+      "file": "tasks/cb_rmse_d5_lr0p03_l2100_bag0_max_seed0.json",
+      "sha256": "2cfb9825b05f88b13c3aa4f7699e3a34cc1112dedfca7914773c56b2374d9523",
+      "bytes": 193342,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 103
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p03_l2100_bag0_max_seed101",
+      "file": "tasks/cb_rmse_d5_lr0p03_l2100_bag0_max_seed101.json",
+      "sha256": "4c389012b43db938b0f2db110e29e7f95343e5476bd7b5cafd60e61720e70b4e",
+      "bytes": 193360,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 104
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p03_l2100_bag0_max_seed202",
+      "file": "tasks/cb_rmse_d5_lr0p03_l2100_bag0_max_seed202.json",
+      "sha256": "8e30cf1dce3ddf660a133a6ce6bcd96d19672074e2ede5916572def790394417",
+      "bytes": 193387,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 105
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p03_l2100_bag1_min_seed0",
+      "file": "tasks/cb_rmse_d5_lr0p03_l2100_bag1_min_seed0.json",
+      "sha256": "fd95128ed1ce1e8b97d1cb87ac4bfa45729e2d616198a6b09beab6bf5828de5a",
+      "bytes": 193317,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 106
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p03_l2100_bag1_min_seed101",
+      "file": "tasks/cb_rmse_d5_lr0p03_l2100_bag1_min_seed101.json",
+      "sha256": "8c7f4929bfec5f1e18f728c77acbfea8496dc1c4ad6513adb5074bb6fd38b029",
+      "bytes": 193376,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 107
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p03_l2100_bag1_min_seed202",
+      "file": "tasks/cb_rmse_d5_lr0p03_l2100_bag1_min_seed202.json",
+      "sha256": "f24c2031539f49f92278a33f12f444a9c11b01eecdba14e2f335ac2b130a02e8",
+      "bytes": 193356,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 108
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p03_l2100_bag1_max_seed0",
+      "file": "tasks/cb_rmse_d5_lr0p03_l2100_bag1_max_seed0.json",
+      "sha256": "2a4db883604a47bce79dab44e0a9e7df942b0511dec0057c216d75aab7872574",
+      "bytes": 193344,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 109
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p03_l2100_bag1_max_seed101",
+      "file": "tasks/cb_rmse_d5_lr0p03_l2100_bag1_max_seed101.json",
+      "sha256": "ed60ee414a7d2480b64d163d034654119c0758d5078faa30a182862cd0ee0c98",
+      "bytes": 193385,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 110
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p03_l2100_bag1_max_seed202",
+      "file": "tasks/cb_rmse_d5_lr0p03_l2100_bag1_max_seed202.json",
+      "sha256": "e475deb9b54c0625fb5a4dfd9d3233d13a0c7de6bfb21a88e101474641568661",
+      "bytes": 193328,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 111
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p1_l21_bag0_min_seed0",
+      "file": "tasks/cb_rmse_d5_lr0p1_l21_bag0_min_seed0.json",
+      "sha256": "668b2dbf39f05d7c698013830b5304d5d36ec1879ae6d5b2a3216d168a2faddc",
+      "bytes": 192856,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 112
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p1_l21_bag0_min_seed101",
+      "file": "tasks/cb_rmse_d5_lr0p1_l21_bag0_min_seed101.json",
+      "sha256": "72125700fb2840e4ec0d9c0cf73b58465c04d8eb0023f7197b9b16a203ca9867",
+      "bytes": 192892,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 113
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p1_l21_bag0_min_seed202",
+      "file": "tasks/cb_rmse_d5_lr0p1_l21_bag0_min_seed202.json",
+      "sha256": "fbe8703992da45ede08165f5947d952bdca01633a53abfb366e32573d038c6b1",
+      "bytes": 192813,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 114
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p1_l21_bag0_max_seed0",
+      "file": "tasks/cb_rmse_d5_lr0p1_l21_bag0_max_seed0.json",
+      "sha256": "40fa14b5750f46bda3288f1d358fdf7c8f0fc3fc03493f1036e92e001c00c9e1",
+      "bytes": 192878,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 115
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p1_l21_bag0_max_seed101",
+      "file": "tasks/cb_rmse_d5_lr0p1_l21_bag0_max_seed101.json",
+      "sha256": "fdbf75005939b2390a710e53324822caedae8a48249c67c3a079b39923755c20",
+      "bytes": 192858,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 116
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p1_l21_bag0_max_seed202",
+      "file": "tasks/cb_rmse_d5_lr0p1_l21_bag0_max_seed202.json",
+      "sha256": "f2df44df535102195b436f651a3b8d7b492f98554995de4e09c0d207bfd645b0",
+      "bytes": 192906,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 117
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p1_l21_bag1_min_seed0",
+      "file": "tasks/cb_rmse_d5_lr0p1_l21_bag1_min_seed0.json",
+      "sha256": "5c2fdd9ed01a38f7643e7e8f81eb044f2529582def63db9a6a4803e275df0412",
+      "bytes": 192840,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 118
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p1_l21_bag1_min_seed101",
+      "file": "tasks/cb_rmse_d5_lr0p1_l21_bag1_min_seed101.json",
+      "sha256": "0016f7ba777fe0f56c1385dc65ecc233b21d2fddab96005dbfa017952ebd27c0",
+      "bytes": 192871,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 119
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p1_l21_bag1_min_seed202",
+      "file": "tasks/cb_rmse_d5_lr0p1_l21_bag1_min_seed202.json",
+      "sha256": "326946fd0ffdb6dbca543f40f361e83fb3d834e252672b9ce6dc4dab112bc877",
+      "bytes": 192854,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 120
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p1_l21_bag1_max_seed0",
+      "file": "tasks/cb_rmse_d5_lr0p1_l21_bag1_max_seed0.json",
+      "sha256": "9c8ae9053758393f953467e254d1634b9d487520c2fac12b1d2fb744328d4e4f",
+      "bytes": 192908,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 121
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p1_l21_bag1_max_seed101",
+      "file": "tasks/cb_rmse_d5_lr0p1_l21_bag1_max_seed101.json",
+      "sha256": "1104e17408aee390661c84b6c0648d7dd5c0d625d722db87195f9a9d75db6013",
+      "bytes": 192844,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 122
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p1_l21_bag1_max_seed202",
+      "file": "tasks/cb_rmse_d5_lr0p1_l21_bag1_max_seed202.json",
+      "sha256": "6f1e7cd123981ec079b7401a835ba34ef053fe2cc1e66a36166fe9df2ad8f89b",
+      "bytes": 192859,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 123
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p1_l210_bag0_min_seed0",
+      "file": "tasks/cb_rmse_d5_lr0p1_l210_bag0_min_seed0.json",
+      "sha256": "94b97954a6fe308c23fb304e76837fbd3be07aa16b4076810fe8b6752e871798",
+      "bytes": 192917,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 124
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p1_l210_bag0_min_seed101",
+      "file": "tasks/cb_rmse_d5_lr0p1_l210_bag0_min_seed101.json",
+      "sha256": "6d45c9cb4824b5b55ce3ea5c3b6ba53cf5d48029f467e1df4411e4ba4221506c",
+      "bytes": 192920,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 125
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p1_l210_bag0_min_seed202",
+      "file": "tasks/cb_rmse_d5_lr0p1_l210_bag0_min_seed202.json",
+      "sha256": "4f55d2c955ae1f2a174c516b9a19af0d05e03a44ffadc902ff914ca1857936d7",
+      "bytes": 192925,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 126
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p1_l210_bag0_max_seed0",
+      "file": "tasks/cb_rmse_d5_lr0p1_l210_bag0_max_seed0.json",
+      "sha256": "91de00c3740eaac61d7c65e80ee7dcd8a9d74bcc32069e68dd02e1f6a3dd282a",
+      "bytes": 192894,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 127
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p1_l210_bag0_max_seed101",
+      "file": "tasks/cb_rmse_d5_lr0p1_l210_bag0_max_seed101.json",
+      "sha256": "259246d151d9f897a86346291053c065c70979475814631f2c7baecf1829cb0f",
+      "bytes": 192941,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 128
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p1_l210_bag0_max_seed202",
+      "file": "tasks/cb_rmse_d5_lr0p1_l210_bag0_max_seed202.json",
+      "sha256": "993257292a69b4765c715f21dfc7c468a3427f7af049b3e6d5928e99889a8721",
+      "bytes": 192903,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 129
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p1_l210_bag1_min_seed0",
+      "file": "tasks/cb_rmse_d5_lr0p1_l210_bag1_min_seed0.json",
+      "sha256": "6803c36be80a25f3732a3d64d3e2bf424ab684ee64a8b992832612932f69ca28",
+      "bytes": 192956,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 130
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p1_l210_bag1_min_seed101",
+      "file": "tasks/cb_rmse_d5_lr0p1_l210_bag1_min_seed101.json",
+      "sha256": "ba7879c5d94695d29567cb4ab560288a24965cae84318b160858b8c3a40c57ce",
+      "bytes": 192936,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 131
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p1_l210_bag1_min_seed202",
+      "file": "tasks/cb_rmse_d5_lr0p1_l210_bag1_min_seed202.json",
+      "sha256": "4a97c1b20271a83cff499c87ca826fdbe8abcb02643b2c3971f5318bf3e1c43d",
+      "bytes": 192957,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 132
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p1_l210_bag1_max_seed0",
+      "file": "tasks/cb_rmse_d5_lr0p1_l210_bag1_max_seed0.json",
+      "sha256": "07cb92b506058cdd88dccae1314519ce15e0ceff48a263c0c0d3c2de603ffcf5",
+      "bytes": 192913,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 133
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p1_l210_bag1_max_seed101",
+      "file": "tasks/cb_rmse_d5_lr0p1_l210_bag1_max_seed101.json",
+      "sha256": "dca26efd0782dbe9188449ce6ab3ebd5eb882e528ab0c7a677a558efedcdfec6",
+      "bytes": 192990,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 134
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p1_l210_bag1_max_seed202",
+      "file": "tasks/cb_rmse_d5_lr0p1_l210_bag1_max_seed202.json",
+      "sha256": "136e36aa3b3cead85851ef2a078f44f62a03381bbf6480be7ac5bd8001c0312a",
+      "bytes": 192974,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 135
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p1_l2100_bag0_min_seed0",
+      "file": "tasks/cb_rmse_d5_lr0p1_l2100_bag0_min_seed0.json",
+      "sha256": "99baea9a71673e390ebaaa6fbf815a43485fec0330bd280661b53a7869aeeb9d",
+      "bytes": 193082,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 136
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p1_l2100_bag0_min_seed101",
+      "file": "tasks/cb_rmse_d5_lr0p1_l2100_bag0_min_seed101.json",
+      "sha256": "240a0fc717439e9dcd09b46da6d2474c13006ea774f129661d8442773610579d",
+      "bytes": 193188,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 137
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p1_l2100_bag0_min_seed202",
+      "file": "tasks/cb_rmse_d5_lr0p1_l2100_bag0_min_seed202.json",
+      "sha256": "cf24c7b6d7a3dcde2d39cda4774cb39d58a4d980fe101f8988c51fc634deb848",
+      "bytes": 193178,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 138
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p1_l2100_bag0_max_seed0",
+      "file": "tasks/cb_rmse_d5_lr0p1_l2100_bag0_max_seed0.json",
+      "sha256": "84b8fe7407ae46aa667b854499bfc21c5be03aafd59bb1306bcb58b347712dc7",
+      "bytes": 193144,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 139
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p1_l2100_bag0_max_seed101",
+      "file": "tasks/cb_rmse_d5_lr0p1_l2100_bag0_max_seed101.json",
+      "sha256": "32072e0f89676ca41f6ff4fe2e178f23c349d1a7a72f0545294f1ca17aa06637",
+      "bytes": 193153,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 140
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p1_l2100_bag0_max_seed202",
+      "file": "tasks/cb_rmse_d5_lr0p1_l2100_bag0_max_seed202.json",
+      "sha256": "d335501bdb27cfe5a0f8b4aadef79a4d88d0ab8d374c699283c2f590bb0af66b",
+      "bytes": 193124,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 141
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p1_l2100_bag1_min_seed0",
+      "file": "tasks/cb_rmse_d5_lr0p1_l2100_bag1_min_seed0.json",
+      "sha256": "876f63fa58e1b8f887e377c1a93954990b2d3081fd19e02e300e975afd5b6c9e",
+      "bytes": 193048,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 142
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p1_l2100_bag1_min_seed101",
+      "file": "tasks/cb_rmse_d5_lr0p1_l2100_bag1_min_seed101.json",
+      "sha256": "1dc5f0ad4ad22f58537b01619a556933fff3ac1d16294900d264039476f14c7f",
+      "bytes": 193135,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 143
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p1_l2100_bag1_min_seed202",
+      "file": "tasks/cb_rmse_d5_lr0p1_l2100_bag1_min_seed202.json",
+      "sha256": "7056d89f1a97377a3f0893c80ab8c9b73731befc4858a6472f765576b1b822be",
+      "bytes": 193069,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 144
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p1_l2100_bag1_max_seed0",
+      "file": "tasks/cb_rmse_d5_lr0p1_l2100_bag1_max_seed0.json",
+      "sha256": "fe2d9b3cf0ec9d783bb379bbea946ebc5660dd578a4e4a03758a814392f0fa03",
+      "bytes": 193050,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 145
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p1_l2100_bag1_max_seed101",
+      "file": "tasks/cb_rmse_d5_lr0p1_l2100_bag1_max_seed101.json",
+      "sha256": "402a5c00221e7cfe5985095ec459bf5601366cf692af020be198657526d193ab",
+      "bytes": 193125,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 146
+    },
+    {
+      "task_id": "cb_rmse_d5_lr0p1_l2100_bag1_max_seed202",
+      "file": "tasks/cb_rmse_d5_lr0p1_l2100_bag1_max_seed202.json",
+      "sha256": "e6663d480e021cc3033c58851cd6e3157b4632539bbec524e22acc3705202c20",
+      "bytes": 193107,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 147
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p03_l21_bag0_min_seed0",
+      "file": "tasks/cb_rmse_d7_lr0p03_l21_bag0_min_seed0.json",
+      "sha256": "9cbfb4bd0055d9a36da7f4347f5310bf6a87b0386e0e8164cc10f42a3cdf18c4",
+      "bytes": 192996,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 148
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p03_l21_bag0_min_seed101",
+      "file": "tasks/cb_rmse_d7_lr0p03_l21_bag0_min_seed101.json",
+      "sha256": "fa6e760a517cb01549346d216579384ef4e9f37618f0e048ec17f6d176f5e296",
+      "bytes": 193016,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 149
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p03_l21_bag0_min_seed202",
+      "file": "tasks/cb_rmse_d7_lr0p03_l21_bag0_min_seed202.json",
+      "sha256": "818d01315cbfcc2a9623a12ab619f15b7aa9c9cc0170da1f33daddc3f7a76355",
+      "bytes": 193012,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 150
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p03_l21_bag0_max_seed0",
+      "file": "tasks/cb_rmse_d7_lr0p03_l21_bag0_max_seed0.json",
+      "sha256": "0d0389ad9f9da5cf19a8e3a76f54bc41b8cb00b9e53a870f78a5cded86e86967",
+      "bytes": 193039,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 151
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p03_l21_bag0_max_seed101",
+      "file": "tasks/cb_rmse_d7_lr0p03_l21_bag0_max_seed101.json",
+      "sha256": "fe114d3f079ad0027bf66d484a20fee85c48cc3ba56aa01557b736170c7f9360",
+      "bytes": 193040,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 152
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p03_l21_bag0_max_seed202",
+      "file": "tasks/cb_rmse_d7_lr0p03_l21_bag0_max_seed202.json",
+      "sha256": "17d632252ede794a105c7f90fc1df209255652e0cc7ccf5be2c751916d94397a",
+      "bytes": 193012,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 153
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p03_l21_bag1_min_seed0",
+      "file": "tasks/cb_rmse_d7_lr0p03_l21_bag1_min_seed0.json",
+      "sha256": "f35a429762f1f1f8fa886624853427709f09b6d5aebfeb77308167aefb11ad36",
+      "bytes": 192989,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 154
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p03_l21_bag1_min_seed101",
+      "file": "tasks/cb_rmse_d7_lr0p03_l21_bag1_min_seed101.json",
+      "sha256": "5a04a8fc7598df72a64f747bd2bf6c02580e041c1fbada54cfa6ad7c77aeee4f",
+      "bytes": 192993,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 155
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p03_l21_bag1_min_seed202",
+      "file": "tasks/cb_rmse_d7_lr0p03_l21_bag1_min_seed202.json",
+      "sha256": "4106d8684463cce7d4088289ad478b3cf2dbd4e706c533c5db934896ca907a28",
+      "bytes": 193010,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 156
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p03_l21_bag1_max_seed0",
+      "file": "tasks/cb_rmse_d7_lr0p03_l21_bag1_max_seed0.json",
+      "sha256": "c895bd57b5447a621a30c5503b329afe89489375664198ffe46990a9cd8cd41b",
+      "bytes": 192922,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 157
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p03_l21_bag1_max_seed101",
+      "file": "tasks/cb_rmse_d7_lr0p03_l21_bag1_max_seed101.json",
+      "sha256": "ec5834c8ab07f7ee0a22231adb4f937b8de6def38f40a6bb2c0e661de1a9f38f",
+      "bytes": 193079,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 158
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p03_l21_bag1_max_seed202",
+      "file": "tasks/cb_rmse_d7_lr0p03_l21_bag1_max_seed202.json",
+      "sha256": "b063ea9a3d7ddeba3c79692979171f6ea1d76d428e257be4970f0231aa1bff06",
+      "bytes": 193027,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 159
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p03_l210_bag0_min_seed0",
+      "file": "tasks/cb_rmse_d7_lr0p03_l210_bag0_min_seed0.json",
+      "sha256": "f6cfc71699fffa21e6724620f461e703c366e29462a14f406db27bcb9069a1dc",
+      "bytes": 193053,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 160
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p03_l210_bag0_min_seed101",
+      "file": "tasks/cb_rmse_d7_lr0p03_l210_bag0_min_seed101.json",
+      "sha256": "2a11a8548f720c0872d338f9bdf7e24761bd4359a437ad6f74abcafebbe718a0",
+      "bytes": 193150,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 161
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p03_l210_bag0_min_seed202",
+      "file": "tasks/cb_rmse_d7_lr0p03_l210_bag0_min_seed202.json",
+      "sha256": "ce6d3d36de1306509748a718960cf6161d72f29011d5da39a0bd192288d0a0df",
+      "bytes": 193074,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 162
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p03_l210_bag0_max_seed0",
+      "file": "tasks/cb_rmse_d7_lr0p03_l210_bag0_max_seed0.json",
+      "sha256": "20266505dcd38fc59d3781f2f64b85e19aa2d9d8a18be0e220bcf466b70b37c2",
+      "bytes": 193063,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 163
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p03_l210_bag0_max_seed101",
+      "file": "tasks/cb_rmse_d7_lr0p03_l210_bag0_max_seed101.json",
+      "sha256": "746d501724a15d1e27fab4b8e21c2cca81b83dea424ea17f7870da6f88765ee0",
+      "bytes": 193106,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 164
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p03_l210_bag0_max_seed202",
+      "file": "tasks/cb_rmse_d7_lr0p03_l210_bag0_max_seed202.json",
+      "sha256": "bca34f55fafb87da5d942217afeb29254a2479eaf10681146203145c8ce14092",
+      "bytes": 193118,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 165
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p03_l210_bag1_min_seed0",
+      "file": "tasks/cb_rmse_d7_lr0p03_l210_bag1_min_seed0.json",
+      "sha256": "a4077767b400f6dab81fae6afd4a53f6991d54bec9ed4d5386da87d709680e54",
+      "bytes": 193103,
+      "chunk": "tasks_000.jsonl.gz",
+      "line_1based": 166
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p03_l210_bag1_min_seed101",
+      "file": "tasks/cb_rmse_d7_lr0p03_l210_bag1_min_seed101.json",
+      "sha256": "d09b53d73890120a9c8f38d9ffbeb48c880c3967d3f78395149801747bea36df",
+      "bytes": 193092,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 1
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p03_l210_bag1_min_seed202",
+      "file": "tasks/cb_rmse_d7_lr0p03_l210_bag1_min_seed202.json",
+      "sha256": "2418df0fa724f6e4377ce18cefe1a5268a90323f51fb9f2f05073726fa44ef19",
+      "bytes": 193087,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 2
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p03_l210_bag1_max_seed0",
+      "file": "tasks/cb_rmse_d7_lr0p03_l210_bag1_max_seed0.json",
+      "sha256": "0e66958b5cc03fa9aff1d131d38b827165d89d87287fe81b8017f64d3667c584",
+      "bytes": 193059,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 3
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p03_l210_bag1_max_seed101",
+      "file": "tasks/cb_rmse_d7_lr0p03_l210_bag1_max_seed101.json",
+      "sha256": "88e14e3500e591b143a13ea062dd259a65fdd1c366e13c854c0e1e4bca2c81e8",
+      "bytes": 193116,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 4
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p03_l210_bag1_max_seed202",
+      "file": "tasks/cb_rmse_d7_lr0p03_l210_bag1_max_seed202.json",
+      "sha256": "177a89c4ab7ad2bf8e4b8119eb5cae6231812c7d9ab1d51e93a3b76a840cc453",
+      "bytes": 193156,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 5
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p03_l2100_bag0_min_seed0",
+      "file": "tasks/cb_rmse_d7_lr0p03_l2100_bag0_min_seed0.json",
+      "sha256": "91a072262787c8554dc9a6cb2c79529dce75c0392d87e25a3f13e9cc1c4f24b3",
+      "bytes": 193430,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 6
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p03_l2100_bag0_min_seed101",
+      "file": "tasks/cb_rmse_d7_lr0p03_l2100_bag0_min_seed101.json",
+      "sha256": "09668166720f19b3191f01d6837f4898c2519ff91f3f674a1fc81519770bfeb8",
+      "bytes": 193487,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 7
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p03_l2100_bag0_min_seed202",
+      "file": "tasks/cb_rmse_d7_lr0p03_l2100_bag0_min_seed202.json",
+      "sha256": "9f08f5375d7915c5d81ae03bf352672b35296b7358e1837a1ce6f7495df6e1bc",
+      "bytes": 193485,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 8
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p03_l2100_bag0_max_seed0",
+      "file": "tasks/cb_rmse_d7_lr0p03_l2100_bag0_max_seed0.json",
+      "sha256": "3c08c53abd87508325fc9206bcbb282aeece8b3f63878e6dcfa6d44d6cfe92fd",
+      "bytes": 193473,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 9
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p03_l2100_bag0_max_seed101",
+      "file": "tasks/cb_rmse_d7_lr0p03_l2100_bag0_max_seed101.json",
+      "sha256": "cd6e0a3a1c74dc3432b6b2739e2f8aee34473bca83be367a2a65e4cf8a83f82f",
+      "bytes": 193473,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 10
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p03_l2100_bag0_max_seed202",
+      "file": "tasks/cb_rmse_d7_lr0p03_l2100_bag0_max_seed202.json",
+      "sha256": "18debbefd2325c62705d85e210cfbb3d70eaa6fe9b19416a9537979b68432ffd",
+      "bytes": 193445,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 11
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p03_l2100_bag1_min_seed0",
+      "file": "tasks/cb_rmse_d7_lr0p03_l2100_bag1_min_seed0.json",
+      "sha256": "5dbd9d8f8924a5939bab0c2e1ea42df0b50c965c34989289f453e518776215f6",
+      "bytes": 193436,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 12
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p03_l2100_bag1_min_seed101",
+      "file": "tasks/cb_rmse_d7_lr0p03_l2100_bag1_min_seed101.json",
+      "sha256": "ef47c0479ff58c9dda15dc81c1727607b088a590ea7b7139c2a79f1bf01bcc73",
+      "bytes": 193324,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 13
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p03_l2100_bag1_min_seed202",
+      "file": "tasks/cb_rmse_d7_lr0p03_l2100_bag1_min_seed202.json",
+      "sha256": "6bfb86730317c2f80da477911027e3063085793ec12f98678952379e9d5d89ad",
+      "bytes": 193415,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 14
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p03_l2100_bag1_max_seed0",
+      "file": "tasks/cb_rmse_d7_lr0p03_l2100_bag1_max_seed0.json",
+      "sha256": "6f31977f2105239bcfa3f678fa9647c45b3fca597bcb56cff6065c65d7577b43",
+      "bytes": 193476,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 15
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p03_l2100_bag1_max_seed101",
+      "file": "tasks/cb_rmse_d7_lr0p03_l2100_bag1_max_seed101.json",
+      "sha256": "8dced486bf931e86799e3bc108c6358fd05b2d4a2ceb57eb0dc63979a274f156",
+      "bytes": 193505,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 16
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p03_l2100_bag1_max_seed202",
+      "file": "tasks/cb_rmse_d7_lr0p03_l2100_bag1_max_seed202.json",
+      "sha256": "3221ca04d368148dd5068758be2cac99a56ddeb73803a98070a7075d621efa8a",
+      "bytes": 193415,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 17
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p1_l21_bag0_min_seed0",
+      "file": "tasks/cb_rmse_d7_lr0p1_l21_bag0_min_seed0.json",
+      "sha256": "2d8edfc4582435b0af25a237d02a43e27a13e2235e039e363d1ca45dd3ada517",
+      "bytes": 192904,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 18
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p1_l21_bag0_min_seed101",
+      "file": "tasks/cb_rmse_d7_lr0p1_l21_bag0_min_seed101.json",
+      "sha256": "4e6e8dd1c8f48a286df12cb07120ce314dc70dcd333b16c67d8c9348b39fd037",
+      "bytes": 192905,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 19
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p1_l21_bag0_min_seed202",
+      "file": "tasks/cb_rmse_d7_lr0p1_l21_bag0_min_seed202.json",
+      "sha256": "cdb1213f45ab59870625f538771e274189ec5d2ed7c1c2dab4001cfb6345c6a8",
+      "bytes": 192951,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 20
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p1_l21_bag0_max_seed0",
+      "file": "tasks/cb_rmse_d7_lr0p1_l21_bag0_max_seed0.json",
+      "sha256": "f18967e4d22cdaa9bb93d7137928626e88e2da260efc8e1ec6ee81f199625fd0",
+      "bytes": 192913,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 21
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p1_l21_bag0_max_seed101",
+      "file": "tasks/cb_rmse_d7_lr0p1_l21_bag0_max_seed101.json",
+      "sha256": "0e80a168e5659a73918cd56e870304a0adc71110d7776ad338af4d11dc24184c",
+      "bytes": 192916,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 22
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p1_l21_bag0_max_seed202",
+      "file": "tasks/cb_rmse_d7_lr0p1_l21_bag0_max_seed202.json",
+      "sha256": "bd5827227cd545a62fda08284e74cfee55836e1b78c2a9f77682c5ea57ab5db9",
+      "bytes": 192902,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 23
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p1_l21_bag1_min_seed0",
+      "file": "tasks/cb_rmse_d7_lr0p1_l21_bag1_min_seed0.json",
+      "sha256": "624197fa49fadc5e4e6236b02f2ed083528080683527102c70e652525a1fe58e",
+      "bytes": 192884,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 24
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p1_l21_bag1_min_seed101",
+      "file": "tasks/cb_rmse_d7_lr0p1_l21_bag1_min_seed101.json",
+      "sha256": "294f4a01c20fffeca1dfff691ae1c459cc318fe6e6ab0ac9afc02d4d66cee43e",
+      "bytes": 192863,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 25
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p1_l21_bag1_min_seed202",
+      "file": "tasks/cb_rmse_d7_lr0p1_l21_bag1_min_seed202.json",
+      "sha256": "cc6e81cd1c692d1511f8a4ee0ec3cd8f9e6a3fa2f27f6f3f74cbe03d944c2b92",
+      "bytes": 192963,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 26
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p1_l21_bag1_max_seed0",
+      "file": "tasks/cb_rmse_d7_lr0p1_l21_bag1_max_seed0.json",
+      "sha256": "d8b6baa0ceae608f97aac4b2f65f334948ba6703382b0e3b455a3ffd4aa986eb",
+      "bytes": 192962,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 27
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p1_l21_bag1_max_seed101",
+      "file": "tasks/cb_rmse_d7_lr0p1_l21_bag1_max_seed101.json",
+      "sha256": "392e8c1ed29c2d61ef3bd98bcdcc78c687e151b666b35889ab71fb77681147b9",
+      "bytes": 192993,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 28
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p1_l21_bag1_max_seed202",
+      "file": "tasks/cb_rmse_d7_lr0p1_l21_bag1_max_seed202.json",
+      "sha256": "8308a9f800f0541439df6b4c0d1c609a0e5d1486a545de6961f758834dbb9479",
+      "bytes": 192955,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 29
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p1_l210_bag0_min_seed0",
+      "file": "tasks/cb_rmse_d7_lr0p1_l210_bag0_min_seed0.json",
+      "sha256": "e2e06cbb3cfa467a9e29d27ea8f41c2ab7cf9f99824e303ca2c878b0c002b731",
+      "bytes": 192930,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 30
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p1_l210_bag0_min_seed101",
+      "file": "tasks/cb_rmse_d7_lr0p1_l210_bag0_min_seed101.json",
+      "sha256": "8bab816dd270ce52ff4f900593688974602bf87cf32496ed47069cfb2629a141",
+      "bytes": 193030,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 31
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p1_l210_bag0_min_seed202",
+      "file": "tasks/cb_rmse_d7_lr0p1_l210_bag0_min_seed202.json",
+      "sha256": "da76b43265d517504b78aa40f5ddf1bef76c6e346085da6de4d28b7f09ef57b9",
+      "bytes": 192989,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 32
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p1_l210_bag0_max_seed0",
+      "file": "tasks/cb_rmse_d7_lr0p1_l210_bag0_max_seed0.json",
+      "sha256": "f3d46e1f7a752084f511c0d673a81d988079dcf561c11604881b4e837298d8f1",
+      "bytes": 192954,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 33
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p1_l210_bag0_max_seed101",
+      "file": "tasks/cb_rmse_d7_lr0p1_l210_bag0_max_seed101.json",
+      "sha256": "b6289743689a04ecfeed8b81ae04357d1ffa2f28cc40558d694eb1ec118d9682",
+      "bytes": 192974,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 34
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p1_l210_bag0_max_seed202",
+      "file": "tasks/cb_rmse_d7_lr0p1_l210_bag0_max_seed202.json",
+      "sha256": "9e2b173f2dc0b422eed545afbd44c88a35257b415bef30530394144ef35f1852",
+      "bytes": 193004,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 35
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p1_l210_bag1_min_seed0",
+      "file": "tasks/cb_rmse_d7_lr0p1_l210_bag1_min_seed0.json",
+      "sha256": "62358879a9b5203a51552bd3e07a9c864bc4bc0f9a0405c498df74cca3f98db0",
+      "bytes": 192916,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 36
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p1_l210_bag1_min_seed101",
+      "file": "tasks/cb_rmse_d7_lr0p1_l210_bag1_min_seed101.json",
+      "sha256": "c7b10f6e51d028af7e4e4f68d2a7f04cea6392574784c100e0fd042dccf00d85",
+      "bytes": 192979,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 37
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p1_l210_bag1_min_seed202",
+      "file": "tasks/cb_rmse_d7_lr0p1_l210_bag1_min_seed202.json",
+      "sha256": "5b20db388843a2eadb507864e3266b98c5ded83863c5785fc62f609fd4524807",
+      "bytes": 192962,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 38
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p1_l210_bag1_max_seed0",
+      "file": "tasks/cb_rmse_d7_lr0p1_l210_bag1_max_seed0.json",
+      "sha256": "4cb45a80bbb3b7a675f7a4b3a4d779df00ce27341b2ce3c55ec15475383bf509",
+      "bytes": 192982,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 39
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p1_l210_bag1_max_seed101",
+      "file": "tasks/cb_rmse_d7_lr0p1_l210_bag1_max_seed101.json",
+      "sha256": "67e1179e7caf46821366c2d70977826999de2968f259020b925a4dbcc7872056",
+      "bytes": 192920,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 40
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p1_l210_bag1_max_seed202",
+      "file": "tasks/cb_rmse_d7_lr0p1_l210_bag1_max_seed202.json",
+      "sha256": "f6a81349ff4bf87d842d282541396a4861d57bb5e9e109faa5d61185b9d6357f",
+      "bytes": 192977,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 41
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p1_l2100_bag0_min_seed0",
+      "file": "tasks/cb_rmse_d7_lr0p1_l2100_bag0_min_seed0.json",
+      "sha256": "63369e0931f2455a960be410e0460e5237362e448df21cc6a8562ae3c2b0a8ad",
+      "bytes": 193198,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 42
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p1_l2100_bag0_min_seed101",
+      "file": "tasks/cb_rmse_d7_lr0p1_l2100_bag0_min_seed101.json",
+      "sha256": "ae9bb61ae130d9d700276275cfa6fc3428902c2bb256a675ad7f78b2d79717be",
+      "bytes": 193210,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 43
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p1_l2100_bag0_min_seed202",
+      "file": "tasks/cb_rmse_d7_lr0p1_l2100_bag0_min_seed202.json",
+      "sha256": "b8efa09a3a8231b63d28168c2aafe55c4aeba123ccf8ab1bd8f3ac31b13b3ab1",
+      "bytes": 193245,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 44
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p1_l2100_bag0_max_seed0",
+      "file": "tasks/cb_rmse_d7_lr0p1_l2100_bag0_max_seed0.json",
+      "sha256": "2cedf941671924a5d90e7873135649b8c6b872e0c50f74e77361956ac6324170",
+      "bytes": 193307,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 45
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p1_l2100_bag0_max_seed101",
+      "file": "tasks/cb_rmse_d7_lr0p1_l2100_bag0_max_seed101.json",
+      "sha256": "d59626d93e8512b9c31879d5102a0ae2f10bd7490e7a4bfdb9f79949de29c036",
+      "bytes": 193261,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 46
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p1_l2100_bag0_max_seed202",
+      "file": "tasks/cb_rmse_d7_lr0p1_l2100_bag0_max_seed202.json",
+      "sha256": "6c0c44c2c93e1e33963337acfe8f20af42f8fdd1e4396694cd4302bf1025bdce",
+      "bytes": 193232,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 47
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p1_l2100_bag1_min_seed0",
+      "file": "tasks/cb_rmse_d7_lr0p1_l2100_bag1_min_seed0.json",
+      "sha256": "8f7ea7ece59e3db31302203b346f3865055f1fa922cff6a501bb8bb963d25dff",
+      "bytes": 193119,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 48
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p1_l2100_bag1_min_seed101",
+      "file": "tasks/cb_rmse_d7_lr0p1_l2100_bag1_min_seed101.json",
+      "sha256": "1dcf489da08d58a19661d27e0a07789b2ac8d698f13121a19e67c3f19abd6ad1",
+      "bytes": 193187,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 49
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p1_l2100_bag1_min_seed202",
+      "file": "tasks/cb_rmse_d7_lr0p1_l2100_bag1_min_seed202.json",
+      "sha256": "9fa1723ac6b5aca237b5c15bdc20ce12e2a74beca454c93374f31412360149b8",
+      "bytes": 193149,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 50
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p1_l2100_bag1_max_seed0",
+      "file": "tasks/cb_rmse_d7_lr0p1_l2100_bag1_max_seed0.json",
+      "sha256": "bfaa70be0ff3ec5bc25ef16a273b5a70c4d6df5b00cec5a567c655360356c439",
+      "bytes": 193211,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 51
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p1_l2100_bag1_max_seed101",
+      "file": "tasks/cb_rmse_d7_lr0p1_l2100_bag1_max_seed101.json",
+      "sha256": "9f7e5bbc41d8e01976a645ebd62c14165f2de5646c9bc7a35b056f6e076cc9b2",
+      "bytes": 193173,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 52
+    },
+    {
+      "task_id": "cb_rmse_d7_lr0p1_l2100_bag1_max_seed202",
+      "file": "tasks/cb_rmse_d7_lr0p1_l2100_bag1_max_seed202.json",
+      "sha256": "ab0cd7adb95d688d5a015e6cabb0b99cf10a420791d0e2e394755343da9a7d10",
+      "bytes": 193232,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 53
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p03_l21_bag0_min_seed0",
+      "file": "tasks/cb_mae_d3_lr0p03_l21_bag0_min_seed0.json",
+      "sha256": "31763108deda74e2e04c993753e3dca76d5d7be4117eea545c60b08f8bdbbc17",
+      "bytes": 192887,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 54
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p03_l21_bag0_min_seed101",
+      "file": "tasks/cb_mae_d3_lr0p03_l21_bag0_min_seed101.json",
+      "sha256": "bde37ac452a8454a20487a6409676b4f0cfcb624259d102fdf365ee93821e2cb",
+      "bytes": 192949,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 55
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p03_l21_bag0_min_seed202",
+      "file": "tasks/cb_mae_d3_lr0p03_l21_bag0_min_seed202.json",
+      "sha256": "9adef2893c665af136c0869bcfc1c262e4e8997615d1bdebd713cf99de9f1db7",
+      "bytes": 192902,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 56
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p03_l21_bag0_max_seed0",
+      "file": "tasks/cb_mae_d3_lr0p03_l21_bag0_max_seed0.json",
+      "sha256": "494d73060bfdc11d082ada1289824f11a5eb87f0a2f5143e5af38a452c336878",
+      "bytes": 192962,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 57
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p03_l21_bag0_max_seed101",
+      "file": "tasks/cb_mae_d3_lr0p03_l21_bag0_max_seed101.json",
+      "sha256": "c8ddf3cc11d82a1774337052b24ecdb64564bf52da19e5e5f1591c77c6f10e3d",
+      "bytes": 192955,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 58
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p03_l21_bag0_max_seed202",
+      "file": "tasks/cb_mae_d3_lr0p03_l21_bag0_max_seed202.json",
+      "sha256": "0a38d21bf2d841568392b04aaa073b2956ecc7f5cf168390cb46c272104a77a0",
+      "bytes": 192905,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 59
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p03_l21_bag1_min_seed0",
+      "file": "tasks/cb_mae_d3_lr0p03_l21_bag1_min_seed0.json",
+      "sha256": "962ea4d3f264c09991921468e18402588f20054d935acd306f0294b53cea2ff0",
+      "bytes": 192874,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 60
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p03_l21_bag1_min_seed101",
+      "file": "tasks/cb_mae_d3_lr0p03_l21_bag1_min_seed101.json",
+      "sha256": "90b21006420aa5200d84cea699ffe6437db9ec356b47ea72b7fa7df31b0a5e35",
+      "bytes": 192847,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 61
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p03_l21_bag1_min_seed202",
+      "file": "tasks/cb_mae_d3_lr0p03_l21_bag1_min_seed202.json",
+      "sha256": "c4de863d51b6ecd9adcd10a148a614e1e42fd09abe927df2447d7d65a8a5f63b",
+      "bytes": 192899,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 62
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p03_l21_bag1_max_seed0",
+      "file": "tasks/cb_mae_d3_lr0p03_l21_bag1_max_seed0.json",
+      "sha256": "e5274859a1d3630247a3430b3bc46cadb3d64fcde348f6fe6d1b039473700c8c",
+      "bytes": 192964,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 63
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p03_l21_bag1_max_seed101",
+      "file": "tasks/cb_mae_d3_lr0p03_l21_bag1_max_seed101.json",
+      "sha256": "8c9b6122873e0a4b40133d4524485dbe263873d060148318dc99289eda4563da",
+      "bytes": 192917,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 64
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p03_l21_bag1_max_seed202",
+      "file": "tasks/cb_mae_d3_lr0p03_l21_bag1_max_seed202.json",
+      "sha256": "363ea296137071ffab5bd5c0ac1f676223bb02086615173e159b90822137edfd",
+      "bytes": 192942,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 65
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p03_l210_bag0_min_seed0",
+      "file": "tasks/cb_mae_d3_lr0p03_l210_bag0_min_seed0.json",
+      "sha256": "3b79cbea5da25a6bdcd3c11ca18196eba8356de49ac8ab5326fbc2d674335849",
+      "bytes": 192934,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 66
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p03_l210_bag0_min_seed101",
+      "file": "tasks/cb_mae_d3_lr0p03_l210_bag0_min_seed101.json",
+      "sha256": "56c7c9012cb2d41acbcd58cc810e644d701e7e60be3ea997fa4d60cdf3685577",
+      "bytes": 192907,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 67
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p03_l210_bag0_min_seed202",
+      "file": "tasks/cb_mae_d3_lr0p03_l210_bag0_min_seed202.json",
+      "sha256": "3f134fc7f0211e2d3ac2a1026098c998cf613905e0d13ff55687bcc46c895fd2",
+      "bytes": 192838,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 68
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p03_l210_bag0_max_seed0",
+      "file": "tasks/cb_mae_d3_lr0p03_l210_bag0_max_seed0.json",
+      "sha256": "fdcc175bbe6d4d861c973eb966cd7ccdfebc3caf63a3ae5754764bc60570f749",
+      "bytes": 192867,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 69
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p03_l210_bag0_max_seed101",
+      "file": "tasks/cb_mae_d3_lr0p03_l210_bag0_max_seed101.json",
+      "sha256": "0d0512729c7e837574bcf9d21e4fc9cd33bf2f116ce293393794676e624d4b44",
+      "bytes": 192911,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 70
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p03_l210_bag0_max_seed202",
+      "file": "tasks/cb_mae_d3_lr0p03_l210_bag0_max_seed202.json",
+      "sha256": "c191dbc5290237156d72f84520497b3a3365527602440948cfd07293b5280017",
+      "bytes": 192942,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 71
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p03_l210_bag1_min_seed0",
+      "file": "tasks/cb_mae_d3_lr0p03_l210_bag1_min_seed0.json",
+      "sha256": "dc3f27ac8b63c5d807130d49378d821c1f90d892e9400d255a4bd829a36974a3",
+      "bytes": 192859,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 72
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p03_l210_bag1_min_seed101",
+      "file": "tasks/cb_mae_d3_lr0p03_l210_bag1_min_seed101.json",
+      "sha256": "6a912e5db31eb74df6e01bbfe380de5d10bcc54beae27a56fbbe567367d01aff",
+      "bytes": 192926,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 73
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p03_l210_bag1_min_seed202",
+      "file": "tasks/cb_mae_d3_lr0p03_l210_bag1_min_seed202.json",
+      "sha256": "7100a9bbd0f819688c75ac1cd8be51ac314cce70f5fa16ef0ff2c9e891bddfe3",
+      "bytes": 192961,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 74
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p03_l210_bag1_max_seed0",
+      "file": "tasks/cb_mae_d3_lr0p03_l210_bag1_max_seed0.json",
+      "sha256": "66f3f4f1fce3dfb5a6af5c1aacf9d376bd9d3e7fc55a5de490dd462b60a3bb03",
+      "bytes": 192992,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 75
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p03_l210_bag1_max_seed101",
+      "file": "tasks/cb_mae_d3_lr0p03_l210_bag1_max_seed101.json",
+      "sha256": "62364c24daec06a2ba7cfe0cee4c8f4c676f300ff1ad70f64ffedd31f762a057",
+      "bytes": 192894,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 76
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p03_l210_bag1_max_seed202",
+      "file": "tasks/cb_mae_d3_lr0p03_l210_bag1_max_seed202.json",
+      "sha256": "fe65f48879feb6bc4549561e34eeb195be4740ae7a49be805a5db2662d46b41a",
+      "bytes": 192907,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 77
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p03_l2100_bag0_min_seed0",
+      "file": "tasks/cb_mae_d3_lr0p03_l2100_bag0_min_seed0.json",
+      "sha256": "df4fbb43df377380bf27387e85a163052e703674f7e5842d408e968c144984a5",
+      "bytes": 192850,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 78
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p03_l2100_bag0_min_seed101",
+      "file": "tasks/cb_mae_d3_lr0p03_l2100_bag0_min_seed101.json",
+      "sha256": "2504dc40d5d953343a9853680493393def33157b3a2a03bc43eb40532ce64241",
+      "bytes": 193007,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 79
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p03_l2100_bag0_min_seed202",
+      "file": "tasks/cb_mae_d3_lr0p03_l2100_bag0_min_seed202.json",
+      "sha256": "7aeb3586b85907122a4a66ad9c0e686678688b18b6e1f431f9146d5454f34e7b",
+      "bytes": 192964,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 80
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p03_l2100_bag0_max_seed0",
+      "file": "tasks/cb_mae_d3_lr0p03_l2100_bag0_max_seed0.json",
+      "sha256": "c0df419032cf7853471a4a55b391b438e8146ab42d51c6dd37abad59ed7ed14e",
+      "bytes": 192929,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 81
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p03_l2100_bag0_max_seed101",
+      "file": "tasks/cb_mae_d3_lr0p03_l2100_bag0_max_seed101.json",
+      "sha256": "fc9988728cd9cc415ffcaa11dc9f97996f38b5010efea5f65c539afd1607e0f9",
+      "bytes": 193037,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 82
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p03_l2100_bag0_max_seed202",
+      "file": "tasks/cb_mae_d3_lr0p03_l2100_bag0_max_seed202.json",
+      "sha256": "8b6049b0b5ec6a771b1c4f727b12ef547e2d20e4dc11806692a01b2efc8b9acf",
+      "bytes": 193045,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 83
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p03_l2100_bag1_min_seed0",
+      "file": "tasks/cb_mae_d3_lr0p03_l2100_bag1_min_seed0.json",
+      "sha256": "17d5e895ac2b8d52e2ca0a906831ce8375a5c5461c3dfcc62ec63fc79c2c4100",
+      "bytes": 192903,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 84
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p03_l2100_bag1_min_seed101",
+      "file": "tasks/cb_mae_d3_lr0p03_l2100_bag1_min_seed101.json",
+      "sha256": "f133c2bae248b46f3f8a9340489252f25d54a3dbff964b277c50b9cf4fda3bfb",
+      "bytes": 193052,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 85
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p03_l2100_bag1_min_seed202",
+      "file": "tasks/cb_mae_d3_lr0p03_l2100_bag1_min_seed202.json",
+      "sha256": "6706aa315470c07bb338a687b11b746002986221394984054d89de90e0737494",
+      "bytes": 192965,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 86
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p03_l2100_bag1_max_seed0",
+      "file": "tasks/cb_mae_d3_lr0p03_l2100_bag1_max_seed0.json",
+      "sha256": "30f5481946fcd28fb5525cb3c93e86d1fac8b643c017dd770dd7548736102a0b",
+      "bytes": 193010,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 87
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p03_l2100_bag1_max_seed101",
+      "file": "tasks/cb_mae_d3_lr0p03_l2100_bag1_max_seed101.json",
+      "sha256": "821aa88c1af33919a4136c05f545886321fbf5a8e57d2cbf7316c59faccab20d",
+      "bytes": 192912,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 88
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p03_l2100_bag1_max_seed202",
+      "file": "tasks/cb_mae_d3_lr0p03_l2100_bag1_max_seed202.json",
+      "sha256": "813eebd4cb0e0e65f8e910fb45468b47d0ef4b7e5066413ca79a66ec31653710",
+      "bytes": 192917,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 89
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p1_l21_bag0_min_seed0",
+      "file": "tasks/cb_mae_d3_lr0p1_l21_bag0_min_seed0.json",
+      "sha256": "c3c94e002f2bed82772d513c7a131a010b9eeb25ac7e1d48e21b5087e8868d7a",
+      "bytes": 192858,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 90
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p1_l21_bag0_min_seed101",
+      "file": "tasks/cb_mae_d3_lr0p1_l21_bag0_min_seed101.json",
+      "sha256": "e723d639dc99faffc0ceef3f0db283cbc50f55fd97dbdad5bf7cd89a72b8101b",
+      "bytes": 192915,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 91
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p1_l21_bag0_min_seed202",
+      "file": "tasks/cb_mae_d3_lr0p1_l21_bag0_min_seed202.json",
+      "sha256": "a769b3f737873725bf370df117d7738c39c6bdb83962ba845f39b24450e096a9",
+      "bytes": 192801,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 92
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p1_l21_bag0_max_seed0",
+      "file": "tasks/cb_mae_d3_lr0p1_l21_bag0_max_seed0.json",
+      "sha256": "3dacdafffbe0884bca8e678185020305b197dcaa814903b31d3c4be68df9d480",
+      "bytes": 192771,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 93
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p1_l21_bag0_max_seed101",
+      "file": "tasks/cb_mae_d3_lr0p1_l21_bag0_max_seed101.json",
+      "sha256": "e0fdc14dec5cdfef296ff7e10edeeb924860e2f776682504b5cf516578ca2e7d",
+      "bytes": 192840,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 94
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p1_l21_bag0_max_seed202",
+      "file": "tasks/cb_mae_d3_lr0p1_l21_bag0_max_seed202.json",
+      "sha256": "6980d5befb956a47516a4af6c2cbc2ac4f9df1bac3ec2acd309661cf59b23593",
+      "bytes": 192804,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 95
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p1_l21_bag1_min_seed0",
+      "file": "tasks/cb_mae_d3_lr0p1_l21_bag1_min_seed0.json",
+      "sha256": "a5ee0f28fbc602925996aa708cc3572f4a778ea671e2233b243dea2e988359f2",
+      "bytes": 192808,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 96
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p1_l21_bag1_min_seed101",
+      "file": "tasks/cb_mae_d3_lr0p1_l21_bag1_min_seed101.json",
+      "sha256": "323a4c2137e93b73f9d7dbf0d977bb9ef131ec18a346f85926db64d2bba8580d",
+      "bytes": 192829,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 97
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p1_l21_bag1_min_seed202",
+      "file": "tasks/cb_mae_d3_lr0p1_l21_bag1_min_seed202.json",
+      "sha256": "fe53e6b43ac33c1861de6b961977aaa99364390a4103b0b53a23e690e7084db1",
+      "bytes": 192811,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 98
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p1_l21_bag1_max_seed0",
+      "file": "tasks/cb_mae_d3_lr0p1_l21_bag1_max_seed0.json",
+      "sha256": "8ba2b6245e65ca97d1e580e4266104beb61fbf88a42ae664ac62d41ae5587e19",
+      "bytes": 192832,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 99
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p1_l21_bag1_max_seed101",
+      "file": "tasks/cb_mae_d3_lr0p1_l21_bag1_max_seed101.json",
+      "sha256": "a988c49cd9ed4fbedc2f8aed9711fddc5e10f993de98be6e84c5f8983f090ce4",
+      "bytes": 192810,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 100
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p1_l21_bag1_max_seed202",
+      "file": "tasks/cb_mae_d3_lr0p1_l21_bag1_max_seed202.json",
+      "sha256": "1159184578f68766e07b2423e7a02926a3bc2bf3d18e35a7b1196ce7d255254f",
+      "bytes": 192845,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 101
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p1_l210_bag0_min_seed0",
+      "file": "tasks/cb_mae_d3_lr0p1_l210_bag0_min_seed0.json",
+      "sha256": "2c8a7d46c4f78002b2ed99fd3eafd5f4a5c4cb2cd8606f7941ebd29127bfbc6f",
+      "bytes": 192831,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 102
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p1_l210_bag0_min_seed101",
+      "file": "tasks/cb_mae_d3_lr0p1_l210_bag0_min_seed101.json",
+      "sha256": "959fe3784920775493e3bc75400363ecfb4b69578753d636b8c4034db4fec8bb",
+      "bytes": 192880,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 103
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p1_l210_bag0_min_seed202",
+      "file": "tasks/cb_mae_d3_lr0p1_l210_bag0_min_seed202.json",
+      "sha256": "98e029aa967f585499753c46edfb6c1139dc63c2ab8915439f193085ebb92b35",
+      "bytes": 192910,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 104
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p1_l210_bag0_max_seed0",
+      "file": "tasks/cb_mae_d3_lr0p1_l210_bag0_max_seed0.json",
+      "sha256": "475d74d24e9b9b955408c35c38427adf78ef93e3a85848949f23e5d5a9ea7e82",
+      "bytes": 192853,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 105
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p1_l210_bag0_max_seed101",
+      "file": "tasks/cb_mae_d3_lr0p1_l210_bag0_max_seed101.json",
+      "sha256": "a1e7b5d979e0e4751afcf7550b0083208e885e517052cef06214d64fbbe774ee",
+      "bytes": 192848,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 106
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p1_l210_bag0_max_seed202",
+      "file": "tasks/cb_mae_d3_lr0p1_l210_bag0_max_seed202.json",
+      "sha256": "af4d30cc3794860c2066013d78588141f17a6b1ee5809593c4f8c8e002eb2d8c",
+      "bytes": 192805,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 107
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p1_l210_bag1_min_seed0",
+      "file": "tasks/cb_mae_d3_lr0p1_l210_bag1_min_seed0.json",
+      "sha256": "a89257cbbe8c1c8efc87f084268288cb09d108abcaf6511873e36e75e963cb7a",
+      "bytes": 192822,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 108
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p1_l210_bag1_min_seed101",
+      "file": "tasks/cb_mae_d3_lr0p1_l210_bag1_min_seed101.json",
+      "sha256": "59d8d0e0da725b47b0d410732e06a77ef4836562a99157db05105924abd998a1",
+      "bytes": 192839,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 109
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p1_l210_bag1_min_seed202",
+      "file": "tasks/cb_mae_d3_lr0p1_l210_bag1_min_seed202.json",
+      "sha256": "19c18cda1381c63879355e4d39080a8f09ddff2dca238d5c8ee924b98f63d6c7",
+      "bytes": 192926,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 110
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p1_l210_bag1_max_seed0",
+      "file": "tasks/cb_mae_d3_lr0p1_l210_bag1_max_seed0.json",
+      "sha256": "2656fffbcf9c73f5a3c965fd263660956d6615f6ca7f3261f2a3fd36911e1e8c",
+      "bytes": 192808,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 111
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p1_l210_bag1_max_seed101",
+      "file": "tasks/cb_mae_d3_lr0p1_l210_bag1_max_seed101.json",
+      "sha256": "10aa25c48169db28cb95820cd3d66a5cbad3afb9f8c22b7cb2abaa772d0f41a9",
+      "bytes": 192809,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 112
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p1_l210_bag1_max_seed202",
+      "file": "tasks/cb_mae_d3_lr0p1_l210_bag1_max_seed202.json",
+      "sha256": "8c21c8c160b3285d0f1fa727b7124b0520e14fb515099d1aba46c4a150d48a0c",
+      "bytes": 192807,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 113
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p1_l2100_bag0_min_seed0",
+      "file": "tasks/cb_mae_d3_lr0p1_l2100_bag0_min_seed0.json",
+      "sha256": "b968b394c392610a0fa14adb243b16d12da0fa51e2389a717f55be2274312169",
+      "bytes": 192891,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 114
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p1_l2100_bag0_min_seed101",
+      "file": "tasks/cb_mae_d3_lr0p1_l2100_bag0_min_seed101.json",
+      "sha256": "ab2273febfb7526ca0bf16e7c8dacaf1e49c4e9b2e7d5ae2f6f78435bc7842e2",
+      "bytes": 192844,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 115
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p1_l2100_bag0_min_seed202",
+      "file": "tasks/cb_mae_d3_lr0p1_l2100_bag0_min_seed202.json",
+      "sha256": "ac155e58a830284e76d9acf197e871fbb1727fc01ca9a1e496e0394dcfbb5ea3",
+      "bytes": 192916,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 116
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p1_l2100_bag0_max_seed0",
+      "file": "tasks/cb_mae_d3_lr0p1_l2100_bag0_max_seed0.json",
+      "sha256": "8f7ab717e18668c24c6a91fd69c276e34b75c9149fc3851d90f341db8f723675",
+      "bytes": 192811,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 117
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p1_l2100_bag0_max_seed101",
+      "file": "tasks/cb_mae_d3_lr0p1_l2100_bag0_max_seed101.json",
+      "sha256": "ae1376fe97686bb9b9ef07f982b18921fc6d2d5ef96a6d138a56a11689986ef3",
+      "bytes": 192931,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 118
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p1_l2100_bag0_max_seed202",
+      "file": "tasks/cb_mae_d3_lr0p1_l2100_bag0_max_seed202.json",
+      "sha256": "9f753c0ff1cff6ea6c73e2afddc72ea996010484d072359123d5291e83b3a080",
+      "bytes": 192861,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 119
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p1_l2100_bag1_min_seed0",
+      "file": "tasks/cb_mae_d3_lr0p1_l2100_bag1_min_seed0.json",
+      "sha256": "52f9f9047d0fc6df30dae0696e6e8d6f95bdf436eb3760b96398e23e7b3d0752",
+      "bytes": 192802,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 120
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p1_l2100_bag1_min_seed101",
+      "file": "tasks/cb_mae_d3_lr0p1_l2100_bag1_min_seed101.json",
+      "sha256": "78893473949e65f5fcfeb3498001c9731a29940bf6803888550b3c825375ddbd",
+      "bytes": 192886,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 121
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p1_l2100_bag1_min_seed202",
+      "file": "tasks/cb_mae_d3_lr0p1_l2100_bag1_min_seed202.json",
+      "sha256": "add4e27bf20099542402965f57529cdbbbcf10c40cefcdc3d168ccce7659568d",
+      "bytes": 192890,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 122
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p1_l2100_bag1_max_seed0",
+      "file": "tasks/cb_mae_d3_lr0p1_l2100_bag1_max_seed0.json",
+      "sha256": "fc016a42cd4b5c0689cd5a034b153ea67238b3edaa8ee84371d0dd89d9b356d4",
+      "bytes": 192852,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 123
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p1_l2100_bag1_max_seed101",
+      "file": "tasks/cb_mae_d3_lr0p1_l2100_bag1_max_seed101.json",
+      "sha256": "cc0d827b2a095a3da6ac29cd607d401864f1be6e4ae688e8ab3ad5abb28ca552",
+      "bytes": 192820,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 124
+    },
+    {
+      "task_id": "cb_mae_d3_lr0p1_l2100_bag1_max_seed202",
+      "file": "tasks/cb_mae_d3_lr0p1_l2100_bag1_max_seed202.json",
+      "sha256": "df29ea68280f24b5dd2022f0470e07bab377c9884876754e7e27bf131b515cd9",
+      "bytes": 192849,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 125
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p03_l21_bag0_min_seed0",
+      "file": "tasks/cb_mae_d5_lr0p03_l21_bag0_min_seed0.json",
+      "sha256": "31e36150546e64611da882a49d774d0d44e39d8dfa30d9f4c76dd2cb50dabea7",
+      "bytes": 192868,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 126
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p03_l21_bag0_min_seed101",
+      "file": "tasks/cb_mae_d5_lr0p03_l21_bag0_min_seed101.json",
+      "sha256": "cc9657421886ca4479b0d8ce1b861b3804bd647975abcac761ae3906224ec7af",
+      "bytes": 193009,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 127
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p03_l21_bag0_min_seed202",
+      "file": "tasks/cb_mae_d5_lr0p03_l21_bag0_min_seed202.json",
+      "sha256": "7b6798575c900032e2c9ba743d85bf1e799edc5cd2583a6fb87d3c9579fb3a1d",
+      "bytes": 192947,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 128
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p03_l21_bag0_max_seed0",
+      "file": "tasks/cb_mae_d5_lr0p03_l21_bag0_max_seed0.json",
+      "sha256": "e49b7b98284edf79107436cd5bc8b99c5237ff35a8191446e41550cdadd58e1e",
+      "bytes": 192909,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 129
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p03_l21_bag0_max_seed101",
+      "file": "tasks/cb_mae_d5_lr0p03_l21_bag0_max_seed101.json",
+      "sha256": "c66f7fe7333820273ebb6526d8b98829051f3df3d1835fd5b6b88d8d7703a588",
+      "bytes": 193011,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 130
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p03_l21_bag0_max_seed202",
+      "file": "tasks/cb_mae_d5_lr0p03_l21_bag0_max_seed202.json",
+      "sha256": "cfcb6ddd1add5a2b6c0877205ace69440bbd2188f7110b2f984254df1acc5346",
+      "bytes": 192975,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 131
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p03_l21_bag1_min_seed0",
+      "file": "tasks/cb_mae_d5_lr0p03_l21_bag1_min_seed0.json",
+      "sha256": "486ce8f0b0b5b59a39eead468e30b26bca78da20adf18a62807fced689d49196",
+      "bytes": 192829,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 132
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p03_l21_bag1_min_seed101",
+      "file": "tasks/cb_mae_d5_lr0p03_l21_bag1_min_seed101.json",
+      "sha256": "60bc0096caddba5525874147a738540e8c07af7352f1531890e18c30e9a767ca",
+      "bytes": 192991,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 133
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p03_l21_bag1_min_seed202",
+      "file": "tasks/cb_mae_d5_lr0p03_l21_bag1_min_seed202.json",
+      "sha256": "331fbe04bfc1961b8a9c19ce2a31af31bea767c439789f11808e99779019b9ea",
+      "bytes": 192943,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 134
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p03_l21_bag1_max_seed0",
+      "file": "tasks/cb_mae_d5_lr0p03_l21_bag1_max_seed0.json",
+      "sha256": "2f0b69441d7ddf8eed75ed4aba5c75a84fbd4fd348317aa2bc73f6e61d7e2b15",
+      "bytes": 192991,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 135
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p03_l21_bag1_max_seed101",
+      "file": "tasks/cb_mae_d5_lr0p03_l21_bag1_max_seed101.json",
+      "sha256": "a13727d83e287b4c2251d2a331fd344ccebbb80d7fc345e9c495b81845fdc1b8",
+      "bytes": 193078,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 136
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p03_l21_bag1_max_seed202",
+      "file": "tasks/cb_mae_d5_lr0p03_l21_bag1_max_seed202.json",
+      "sha256": "6cb9896884a00758a0db5d6fc1bacdcde2e8e1a196165941294d8df0052fd47b",
+      "bytes": 192984,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 137
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p03_l210_bag0_min_seed0",
+      "file": "tasks/cb_mae_d5_lr0p03_l210_bag0_min_seed0.json",
+      "sha256": "a641d017801400847fc9f30b80c763aa3de015377a8a4fa52559d8a2460ac597",
+      "bytes": 192893,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 138
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p03_l210_bag0_min_seed101",
+      "file": "tasks/cb_mae_d5_lr0p03_l210_bag0_min_seed101.json",
+      "sha256": "5d4ccb294c0971921022e539eef10b69918e95f7ab53e78c284cd925172b7976",
+      "bytes": 192873,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 139
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p03_l210_bag0_min_seed202",
+      "file": "tasks/cb_mae_d5_lr0p03_l210_bag0_min_seed202.json",
+      "sha256": "ea294ebd2796f9509a8f3a32b840aeddc87428bc8a0b02ca3ebcef3e6cf6f960",
+      "bytes": 192880,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 140
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p03_l210_bag0_max_seed0",
+      "file": "tasks/cb_mae_d5_lr0p03_l210_bag0_max_seed0.json",
+      "sha256": "f953089066a5691ee2fa3278321c1baea4a1ccdba311bac70a712bfcdcf6d453",
+      "bytes": 192986,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 141
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p03_l210_bag0_max_seed101",
+      "file": "tasks/cb_mae_d5_lr0p03_l210_bag0_max_seed101.json",
+      "sha256": "75264b26c913e8954633e6765c404b575ef99046921fe27cdf1784d57c805393",
+      "bytes": 192959,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 142
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p03_l210_bag0_max_seed202",
+      "file": "tasks/cb_mae_d5_lr0p03_l210_bag0_max_seed202.json",
+      "sha256": "7168e398523dcce0277745826dd56a00c66eb460a10d34ac11e41ed3369fd0c9",
+      "bytes": 193000,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 143
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p03_l210_bag1_min_seed0",
+      "file": "tasks/cb_mae_d5_lr0p03_l210_bag1_min_seed0.json",
+      "sha256": "3576da2d37341d53715109920ef295c607c893f47520a7a3e8e62ee9fcab5e37",
+      "bytes": 192977,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 144
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p03_l210_bag1_min_seed101",
+      "file": "tasks/cb_mae_d5_lr0p03_l210_bag1_min_seed101.json",
+      "sha256": "60b88279c0f78705496da3f69ca612f1ff179e781e68a078db644d87351288c6",
+      "bytes": 192983,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 145
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p03_l210_bag1_min_seed202",
+      "file": "tasks/cb_mae_d5_lr0p03_l210_bag1_min_seed202.json",
+      "sha256": "9078dcb736306368e007fba64893cf570107426fa03834184bd1c1efb01362bc",
+      "bytes": 192855,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 146
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p03_l210_bag1_max_seed0",
+      "file": "tasks/cb_mae_d5_lr0p03_l210_bag1_max_seed0.json",
+      "sha256": "7544f2e0424b3d805c982a01a9024f07cf74fad1a1f3c8e852ccaee9906739b3",
+      "bytes": 192891,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 147
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p03_l210_bag1_max_seed101",
+      "file": "tasks/cb_mae_d5_lr0p03_l210_bag1_max_seed101.json",
+      "sha256": "be63f8c83a15abb89ae6c2e7ed167acdb53fa144226511d8f623960b125601ee",
+      "bytes": 192948,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 148
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p03_l210_bag1_max_seed202",
+      "file": "tasks/cb_mae_d5_lr0p03_l210_bag1_max_seed202.json",
+      "sha256": "e227d3d1ff13b0c2059a89ab174f27a8e0b2fbdf2d603b5970590d3f49437c88",
+      "bytes": 193031,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 149
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p03_l2100_bag0_min_seed0",
+      "file": "tasks/cb_mae_d5_lr0p03_l2100_bag0_min_seed0.json",
+      "sha256": "85cda34868c588fb8d791b4113586d2e7590fe8a968347653f85f7aecd0379a6",
+      "bytes": 192992,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 150
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p03_l2100_bag0_min_seed101",
+      "file": "tasks/cb_mae_d5_lr0p03_l2100_bag0_min_seed101.json",
+      "sha256": "38c7154848f8a4d28b384b5051c96c8a5a42e8b77e6d8c5f718775145e6c4140",
+      "bytes": 192995,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 151
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p03_l2100_bag0_min_seed202",
+      "file": "tasks/cb_mae_d5_lr0p03_l2100_bag0_min_seed202.json",
+      "sha256": "bd03fff9014032580533265af229981a8d44157bb3808885426995794d32deda",
+      "bytes": 192999,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 152
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p03_l2100_bag0_max_seed0",
+      "file": "tasks/cb_mae_d5_lr0p03_l2100_bag0_max_seed0.json",
+      "sha256": "deb02b2e4a808e29228ca4cb78b22f1fd0ec3f822471f68928a13ef9ff70d44c",
+      "bytes": 192978,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 153
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p03_l2100_bag0_max_seed101",
+      "file": "tasks/cb_mae_d5_lr0p03_l2100_bag0_max_seed101.json",
+      "sha256": "2c3393acc4b8d2246c45b835b47e51e62a113f1a8d2519beb3fbb464061fa2fa",
+      "bytes": 193031,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 154
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p03_l2100_bag0_max_seed202",
+      "file": "tasks/cb_mae_d5_lr0p03_l2100_bag0_max_seed202.json",
+      "sha256": "9c8719d1c725c4a9d654072eb6d1ad2c9727511a910ed016e4c9d8a328476497",
+      "bytes": 192957,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 155
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p03_l2100_bag1_min_seed0",
+      "file": "tasks/cb_mae_d5_lr0p03_l2100_bag1_min_seed0.json",
+      "sha256": "dd62f6059a95f06c37bcf4de0db97a06f6301d1c32924c10243e2a44a910b6ce",
+      "bytes": 192889,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 156
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p03_l2100_bag1_min_seed101",
+      "file": "tasks/cb_mae_d5_lr0p03_l2100_bag1_min_seed101.json",
+      "sha256": "8684db1fd0a88cea9608355ebe6cd8f9907086bb2520b25ea264fed4f4054246",
+      "bytes": 192913,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 157
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p03_l2100_bag1_min_seed202",
+      "file": "tasks/cb_mae_d5_lr0p03_l2100_bag1_min_seed202.json",
+      "sha256": "19e94194346e34dced7b19c4f4d78d3e326c7d8ea814f123835b73723e3fb87f",
+      "bytes": 192988,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 158
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p03_l2100_bag1_max_seed0",
+      "file": "tasks/cb_mae_d5_lr0p03_l2100_bag1_max_seed0.json",
+      "sha256": "27cfc6d164ff991ac442f10a898619111e122a6096450f81a75275061e287936",
+      "bytes": 193094,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 159
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p03_l2100_bag1_max_seed101",
+      "file": "tasks/cb_mae_d5_lr0p03_l2100_bag1_max_seed101.json",
+      "sha256": "52f6d136bd3869a043ee1fc3bb0b197d9381c5b9e150e7a57526f1917b205c58",
+      "bytes": 193026,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 160
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p03_l2100_bag1_max_seed202",
+      "file": "tasks/cb_mae_d5_lr0p03_l2100_bag1_max_seed202.json",
+      "sha256": "e688287081d6c72cba619888fd1966d4b9320ef82028d5c62e01160c6b8828d3",
+      "bytes": 192981,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 161
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p1_l21_bag0_min_seed0",
+      "file": "tasks/cb_mae_d5_lr0p1_l21_bag0_min_seed0.json",
+      "sha256": "41066d2d16fcfbb431b251e5fd47bbca46804beb834e61efdee9fcf81b61f9b6",
+      "bytes": 192877,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 162
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p1_l21_bag0_min_seed101",
+      "file": "tasks/cb_mae_d5_lr0p1_l21_bag0_min_seed101.json",
+      "sha256": "750c641760acb5b103284fb26859854f78b74dbb0dc6637874bbd7343b27f45c",
+      "bytes": 192900,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 163
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p1_l21_bag0_min_seed202",
+      "file": "tasks/cb_mae_d5_lr0p1_l21_bag0_min_seed202.json",
+      "sha256": "4d4ad9c3d2a303dd9de5731fba55d57af607f8b65a8696e3d21c8f27692beb97",
+      "bytes": 192807,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 164
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p1_l21_bag0_max_seed0",
+      "file": "tasks/cb_mae_d5_lr0p1_l21_bag0_max_seed0.json",
+      "sha256": "9e7882e875668e850cab6b36899a43562fde94a42e8b2589bfb77d4957921084",
+      "bytes": 192771,
+      "chunk": "tasks_001.jsonl.gz",
+      "line_1based": 165
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p1_l21_bag0_max_seed101",
+      "file": "tasks/cb_mae_d5_lr0p1_l21_bag0_max_seed101.json",
+      "sha256": "2dc8fcec0626e7cbab284510e7c01248f8e7abd9cb9b0f6bc2afafc40a01fd6f",
+      "bytes": 192867,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 1
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p1_l21_bag0_max_seed202",
+      "file": "tasks/cb_mae_d5_lr0p1_l21_bag0_max_seed202.json",
+      "sha256": "29898b65e6671ca2c7fe3673b15cf85d502432a13db41c65c58e1be3aa41e3e3",
+      "bytes": 192872,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 2
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p1_l21_bag1_min_seed0",
+      "file": "tasks/cb_mae_d5_lr0p1_l21_bag1_min_seed0.json",
+      "sha256": "3a97e8dd3129c8b38e01fce0f07e7f0460f134328aaa2ae4425ff01fff05e773",
+      "bytes": 192809,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 3
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p1_l21_bag1_min_seed101",
+      "file": "tasks/cb_mae_d5_lr0p1_l21_bag1_min_seed101.json",
+      "sha256": "10c8dae2284c6d7eeffbcc629696348d18d62fcc32ec1643d3ec161fcbbea442",
+      "bytes": 192941,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 4
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p1_l21_bag1_min_seed202",
+      "file": "tasks/cb_mae_d5_lr0p1_l21_bag1_min_seed202.json",
+      "sha256": "7c27557f2cab08a22c72bdcec87413be56953806fee4c28f0a365ae1ef0652cb",
+      "bytes": 192789,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 5
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p1_l21_bag1_max_seed0",
+      "file": "tasks/cb_mae_d5_lr0p1_l21_bag1_max_seed0.json",
+      "sha256": "c35d271a990cc189738faa1d1d07c60b72959ef9164f80513c60e80fcb95ef57",
+      "bytes": 192860,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 6
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p1_l21_bag1_max_seed101",
+      "file": "tasks/cb_mae_d5_lr0p1_l21_bag1_max_seed101.json",
+      "sha256": "538ddf7b4107189f2f801f6055792a2ccfa3e980e57435059870c985b2b03e08",
+      "bytes": 192893,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 7
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p1_l21_bag1_max_seed202",
+      "file": "tasks/cb_mae_d5_lr0p1_l21_bag1_max_seed202.json",
+      "sha256": "ab83fd20522896d922bcae3ee6df53f52864d2d94c9e295450f577255d156165",
+      "bytes": 192883,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 8
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p1_l210_bag0_min_seed0",
+      "file": "tasks/cb_mae_d5_lr0p1_l210_bag0_min_seed0.json",
+      "sha256": "81ade657ba435c31fdfc02b2192d4cc6de5de152cb4866da7888dc33fc1132de",
+      "bytes": 192825,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 9
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p1_l210_bag0_min_seed101",
+      "file": "tasks/cb_mae_d5_lr0p1_l210_bag0_min_seed101.json",
+      "sha256": "aadde3742dd08016de68406b95258b1bfbaa390ae964244ad3109f30e181bd29",
+      "bytes": 192959,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 10
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p1_l210_bag0_min_seed202",
+      "file": "tasks/cb_mae_d5_lr0p1_l210_bag0_min_seed202.json",
+      "sha256": "22eaf9b2d6ef0923420a271a2d58b890a88f7f9118eada19b8d1cc5ff26c5879",
+      "bytes": 192828,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 11
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p1_l210_bag0_max_seed0",
+      "file": "tasks/cb_mae_d5_lr0p1_l210_bag0_max_seed0.json",
+      "sha256": "c8d783bcfb9dadccc523edf2b815a4d4815c47ae98e70282bb82df74bda27562",
+      "bytes": 192908,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 12
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p1_l210_bag0_max_seed101",
+      "file": "tasks/cb_mae_d5_lr0p1_l210_bag0_max_seed101.json",
+      "sha256": "d94c74e9f5f451958f5c8a96948e6001f27c2a8284fed14f58c738c4ed6084ca",
+      "bytes": 192896,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 13
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p1_l210_bag0_max_seed202",
+      "file": "tasks/cb_mae_d5_lr0p1_l210_bag0_max_seed202.json",
+      "sha256": "7650dbcc328fc52d78ee3f8c08de90fece7fc5892fc6527e9a6815b4b59e4bcf",
+      "bytes": 192943,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 14
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p1_l210_bag1_min_seed0",
+      "file": "tasks/cb_mae_d5_lr0p1_l210_bag1_min_seed0.json",
+      "sha256": "4ef967902f2c1fd2330c53cc004d6d50478d665156042fd26cc74a84ef0584cc",
+      "bytes": 192920,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 15
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p1_l210_bag1_min_seed101",
+      "file": "tasks/cb_mae_d5_lr0p1_l210_bag1_min_seed101.json",
+      "sha256": "babde5c506bd3a2bb83b5c33cece57d3599bafd53d9c8ce8b8334d3eddc17451",
+      "bytes": 192905,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 16
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p1_l210_bag1_min_seed202",
+      "file": "tasks/cb_mae_d5_lr0p1_l210_bag1_min_seed202.json",
+      "sha256": "9b0e83735d4e3b457069c0d6826a707eaf18636cd85b01e02915e10f299b21d3",
+      "bytes": 192807,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 17
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p1_l210_bag1_max_seed0",
+      "file": "tasks/cb_mae_d5_lr0p1_l210_bag1_max_seed0.json",
+      "sha256": "5cbea10d716f7c2b730e237562a2545cee6978336ae239de47a9988e7e4baeb0",
+      "bytes": 192866,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 18
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p1_l210_bag1_max_seed101",
+      "file": "tasks/cb_mae_d5_lr0p1_l210_bag1_max_seed101.json",
+      "sha256": "db3125dec462f0732718a079b61f50bd15062a731fd9ff2a0079931046b50343",
+      "bytes": 192928,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 19
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p1_l210_bag1_max_seed202",
+      "file": "tasks/cb_mae_d5_lr0p1_l210_bag1_max_seed202.json",
+      "sha256": "8d89d5e6de9c08fbc869b098e8691e0ea30f447f02f749edb23edc87d5884054",
+      "bytes": 193040,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 20
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p1_l2100_bag0_min_seed0",
+      "file": "tasks/cb_mae_d5_lr0p1_l2100_bag0_min_seed0.json",
+      "sha256": "887f0f0cd8a7b9e95ca418867c737eb32258021b67397eda4205b71af86b436f",
+      "bytes": 192827,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 21
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p1_l2100_bag0_min_seed101",
+      "file": "tasks/cb_mae_d5_lr0p1_l2100_bag0_min_seed101.json",
+      "sha256": "3f8b7af236a3d55f8bc28028578c330499d865ec5682599da70fba9d538e7d8e",
+      "bytes": 192909,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 22
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p1_l2100_bag0_min_seed202",
+      "file": "tasks/cb_mae_d5_lr0p1_l2100_bag0_min_seed202.json",
+      "sha256": "7f45fceb7893d509794ad724e4f6555c46b5cf6a46a0955d4176db5a2ff08881",
+      "bytes": 192953,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 23
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p1_l2100_bag0_max_seed0",
+      "file": "tasks/cb_mae_d5_lr0p1_l2100_bag0_max_seed0.json",
+      "sha256": "11f304f82d71b5d7188b1c464abb725eb39a2265064bb8993f12d31b9ae16490",
+      "bytes": 192839,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 24
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p1_l2100_bag0_max_seed101",
+      "file": "tasks/cb_mae_d5_lr0p1_l2100_bag0_max_seed101.json",
+      "sha256": "f2ec45df5724c742f1028f4d6e47f7a6ad86e82e5a2baff4cd4d4bac317cd247",
+      "bytes": 192929,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 25
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p1_l2100_bag0_max_seed202",
+      "file": "tasks/cb_mae_d5_lr0p1_l2100_bag0_max_seed202.json",
+      "sha256": "24cd31f3bd4964a861160403a66b3bcb1b956f1f7221510e3fe395e198fbcc16",
+      "bytes": 192914,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 26
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p1_l2100_bag1_min_seed0",
+      "file": "tasks/cb_mae_d5_lr0p1_l2100_bag1_min_seed0.json",
+      "sha256": "33ec5b989428e60d7d278364e94a4c89bf0f887d539eddd6cd50e2af3150774d",
+      "bytes": 192882,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 27
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p1_l2100_bag1_min_seed101",
+      "file": "tasks/cb_mae_d5_lr0p1_l2100_bag1_min_seed101.json",
+      "sha256": "b1cb1eff0edf1751aa9f307ed9deaaa0475e8a80a18a395595400fde7d9430a6",
+      "bytes": 192918,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 28
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p1_l2100_bag1_min_seed202",
+      "file": "tasks/cb_mae_d5_lr0p1_l2100_bag1_min_seed202.json",
+      "sha256": "5ac221950090cefdced3ec938430c5e299c4147cc6b47b7a6bd4db058cac902d",
+      "bytes": 192920,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 29
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p1_l2100_bag1_max_seed0",
+      "file": "tasks/cb_mae_d5_lr0p1_l2100_bag1_max_seed0.json",
+      "sha256": "7611d064c85b3dfd14fd52f9fb66967b83656477035a2c9c86f9d4a0366e7b2a",
+      "bytes": 192851,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 30
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p1_l2100_bag1_max_seed101",
+      "file": "tasks/cb_mae_d5_lr0p1_l2100_bag1_max_seed101.json",
+      "sha256": "411839af09ee80f1c55c388498b252b4a632e2738b30cc3765e8b74c83be7dfd",
+      "bytes": 192932,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 31
+    },
+    {
+      "task_id": "cb_mae_d5_lr0p1_l2100_bag1_max_seed202",
+      "file": "tasks/cb_mae_d5_lr0p1_l2100_bag1_max_seed202.json",
+      "sha256": "eae30f173461d8164c79a009a7ecbc75e496b2000803c5be024013f98255ef64",
+      "bytes": 192911,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 32
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p03_l21_bag0_min_seed0",
+      "file": "tasks/cb_mae_d7_lr0p03_l21_bag0_min_seed0.json",
+      "sha256": "72a5528e3d19ee9c7657317176a40bc2895c3c367655a37105686d0a9ba7d198",
+      "bytes": 192952,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 33
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p03_l21_bag0_min_seed101",
+      "file": "tasks/cb_mae_d7_lr0p03_l21_bag0_min_seed101.json",
+      "sha256": "6374b5de399b179872b2e2b72115daf77707742a069e2ade844c8cd3bea9dbd2",
+      "bytes": 192986,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 34
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p03_l21_bag0_min_seed202",
+      "file": "tasks/cb_mae_d7_lr0p03_l21_bag0_min_seed202.json",
+      "sha256": "8e5b9311c020be53c3c0c3faa0017b9f27db2b106d43c93a7cede1686a7edffc",
+      "bytes": 192959,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 35
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p03_l21_bag0_max_seed0",
+      "file": "tasks/cb_mae_d7_lr0p03_l21_bag0_max_seed0.json",
+      "sha256": "11cd8c81e72be0ecbe18e8d8a0c428a633f170252d6a627a9f327449f595ed1e",
+      "bytes": 192955,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 36
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p03_l21_bag0_max_seed101",
+      "file": "tasks/cb_mae_d7_lr0p03_l21_bag0_max_seed101.json",
+      "sha256": "39dc48de091cd8fe758c172999c322fe14a5cf4d05581192309489a689b02490",
+      "bytes": 192971,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 37
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p03_l21_bag0_max_seed202",
+      "file": "tasks/cb_mae_d7_lr0p03_l21_bag0_max_seed202.json",
+      "sha256": "bdd02827c44765ffe2f07b2a735ccf9cc38a6a81d78e22bafe8194c2ecccb324",
+      "bytes": 193009,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 38
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p03_l21_bag1_min_seed0",
+      "file": "tasks/cb_mae_d7_lr0p03_l21_bag1_min_seed0.json",
+      "sha256": "8645621a5627f372c3bc6a747f761d7fdbb70c13a17f11bc1932a54a41def3a9",
+      "bytes": 192980,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 39
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p03_l21_bag1_min_seed101",
+      "file": "tasks/cb_mae_d7_lr0p03_l21_bag1_min_seed101.json",
+      "sha256": "dcc038cf6f96190f961ef0e9f306789831ed819215f371a71ec48e14f11ab14c",
+      "bytes": 193034,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 40
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p03_l21_bag1_min_seed202",
+      "file": "tasks/cb_mae_d7_lr0p03_l21_bag1_min_seed202.json",
+      "sha256": "2c32270f467de2bf52edd1b5d6860eca8093993a86d22ee7a80d8b921727492b",
+      "bytes": 192904,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 41
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p03_l21_bag1_max_seed0",
+      "file": "tasks/cb_mae_d7_lr0p03_l21_bag1_max_seed0.json",
+      "sha256": "ac547dfed34fe50c4fd834aced2613aca4e59e7911ddea09138293b5547dbeed",
+      "bytes": 193053,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 42
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p03_l21_bag1_max_seed101",
+      "file": "tasks/cb_mae_d7_lr0p03_l21_bag1_max_seed101.json",
+      "sha256": "ac4f795d8c61406c5a13d1e6d012403be32e051ae1be32e50be5a593cde55e72",
+      "bytes": 193042,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 43
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p03_l21_bag1_max_seed202",
+      "file": "tasks/cb_mae_d7_lr0p03_l21_bag1_max_seed202.json",
+      "sha256": "b8336dc4c2b15b92e607a546f33246b540bb257e99e39eca3f03c9b3264da09c",
+      "bytes": 193010,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 44
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p03_l210_bag0_min_seed0",
+      "file": "tasks/cb_mae_d7_lr0p03_l210_bag0_min_seed0.json",
+      "sha256": "4e3b4a1abc767848aa9dd3a8a5942345a1407a8109a1e606a72915864dffb585",
+      "bytes": 192948,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 45
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p03_l210_bag0_min_seed101",
+      "file": "tasks/cb_mae_d7_lr0p03_l210_bag0_min_seed101.json",
+      "sha256": "5aa1285356b1007df813fd1bcc36d1c1805c8d66ded7566290f0b17c8ef2ad73",
+      "bytes": 192980,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 46
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p03_l210_bag0_min_seed202",
+      "file": "tasks/cb_mae_d7_lr0p03_l210_bag0_min_seed202.json",
+      "sha256": "f0d78bab64550c4141655a80a7fde55fefcea87dfe57daf261f9423497ea078b",
+      "bytes": 192969,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 47
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p03_l210_bag0_max_seed0",
+      "file": "tasks/cb_mae_d7_lr0p03_l210_bag0_max_seed0.json",
+      "sha256": "49da8bd0676ac81a43d0db80772bfc4d409563b82f72586dea1b73ad1578e1d9",
+      "bytes": 192988,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 48
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p03_l210_bag0_max_seed101",
+      "file": "tasks/cb_mae_d7_lr0p03_l210_bag0_max_seed101.json",
+      "sha256": "3d5e7631d44369b2bf6c1358bae0b553c75f1857de6d5bcf8593040f2a0f24ac",
+      "bytes": 192932,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 49
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p03_l210_bag0_max_seed202",
+      "file": "tasks/cb_mae_d7_lr0p03_l210_bag0_max_seed202.json",
+      "sha256": "3213e66e32c4c1bf364a69c967b8d62591526ef32f485d63f791737d0b7ba630",
+      "bytes": 193048,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 50
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p03_l210_bag1_min_seed0",
+      "file": "tasks/cb_mae_d7_lr0p03_l210_bag1_min_seed0.json",
+      "sha256": "f1686be2145cf94ce2dbabd29dd15289d218e965d2ead3cd37c3d42208876d21",
+      "bytes": 192997,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 51
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p03_l210_bag1_min_seed101",
+      "file": "tasks/cb_mae_d7_lr0p03_l210_bag1_min_seed101.json",
+      "sha256": "05ffe025d4b14fb2e75f35a32679ce4076bac62441dc91f6d6b87b4a81d2eec1",
+      "bytes": 192965,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 52
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p03_l210_bag1_min_seed202",
+      "file": "tasks/cb_mae_d7_lr0p03_l210_bag1_min_seed202.json",
+      "sha256": "56f36892e1bf4e69133bb31561d1e5d7180c6ebf49d6d2ed014b9548ee84097d",
+      "bytes": 193058,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 53
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p03_l210_bag1_max_seed0",
+      "file": "tasks/cb_mae_d7_lr0p03_l210_bag1_max_seed0.json",
+      "sha256": "ac0b9d46454654887f72f418cf2bf558d984dff2895ad96baba3b05aed9279c5",
+      "bytes": 192938,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 54
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p03_l210_bag1_max_seed101",
+      "file": "tasks/cb_mae_d7_lr0p03_l210_bag1_max_seed101.json",
+      "sha256": "67d42e7d668072c32e9f3f4318ecfdf4fd24ea8ba726428f61e6b84e2fc0f334",
+      "bytes": 193070,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 55
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p03_l210_bag1_max_seed202",
+      "file": "tasks/cb_mae_d7_lr0p03_l210_bag1_max_seed202.json",
+      "sha256": "15161926b84e3c0d93b0c2d1fd956c6dcf35a3b5a745df251b314780cae2c406",
+      "bytes": 193075,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 56
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p03_l2100_bag0_min_seed0",
+      "file": "tasks/cb_mae_d7_lr0p03_l2100_bag0_min_seed0.json",
+      "sha256": "9326e31c5635b811a47693bc1cec75049f93134b6aedf917ce3dc0232758963e",
+      "bytes": 192953,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 57
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p03_l2100_bag0_min_seed101",
+      "file": "tasks/cb_mae_d7_lr0p03_l2100_bag0_min_seed101.json",
+      "sha256": "367466b7fed8b0be683b260117b69a167b2fb0ae39d2057a2c44ab4aa8b0f322",
+      "bytes": 193043,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 58
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p03_l2100_bag0_min_seed202",
+      "file": "tasks/cb_mae_d7_lr0p03_l2100_bag0_min_seed202.json",
+      "sha256": "e6dc2092e92ec87b88d0591a98370ad10e494caaa2aec78c5ce6b1ea76bb73f2",
+      "bytes": 193011,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 59
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p03_l2100_bag0_max_seed0",
+      "file": "tasks/cb_mae_d7_lr0p03_l2100_bag0_max_seed0.json",
+      "sha256": "a9a7d865c72db1b28dd52e09b68ce9592adafbbd76f2b6463146325dbcc6db49",
+      "bytes": 193037,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 60
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p03_l2100_bag0_max_seed101",
+      "file": "tasks/cb_mae_d7_lr0p03_l2100_bag0_max_seed101.json",
+      "sha256": "3117946ff6a0e8eb116af92cf3263a11d05eeb50b5848faa0eee0ee723039a1f",
+      "bytes": 192995,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 61
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p03_l2100_bag0_max_seed202",
+      "file": "tasks/cb_mae_d7_lr0p03_l2100_bag0_max_seed202.json",
+      "sha256": "d3c172edba75052c4dc7795ed9deca22c9d15dc0c11c07c17b9e63903b0a573a",
+      "bytes": 193039,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 62
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p03_l2100_bag1_min_seed0",
+      "file": "tasks/cb_mae_d7_lr0p03_l2100_bag1_min_seed0.json",
+      "sha256": "854154f8d761fde5d0c7fbc7d333a6d524dbb3a6c6bb82e29b2d98f1b3675154",
+      "bytes": 192958,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 63
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p03_l2100_bag1_min_seed101",
+      "file": "tasks/cb_mae_d7_lr0p03_l2100_bag1_min_seed101.json",
+      "sha256": "fc1d0a4428282363cdb78b66d708df76dbab4c5b7758f570baae6d12acfb5e4a",
+      "bytes": 193001,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 64
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p03_l2100_bag1_min_seed202",
+      "file": "tasks/cb_mae_d7_lr0p03_l2100_bag1_min_seed202.json",
+      "sha256": "e17f0e5a42756bc558f00d1aae44be479f7df7ed74a940ab9f2b33396d40298e",
+      "bytes": 192966,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 65
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p03_l2100_bag1_max_seed0",
+      "file": "tasks/cb_mae_d7_lr0p03_l2100_bag1_max_seed0.json",
+      "sha256": "04a2d18cbde4fa3ecde98f4008f4e3a0cbccab8051e3a965de2b1a010e724b4d",
+      "bytes": 193008,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 66
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p03_l2100_bag1_max_seed101",
+      "file": "tasks/cb_mae_d7_lr0p03_l2100_bag1_max_seed101.json",
+      "sha256": "1b70e32351c53de34137288f5d515bc0ef9b86da88e468d519e29ad25a2eb90f",
+      "bytes": 193045,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 67
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p03_l2100_bag1_max_seed202",
+      "file": "tasks/cb_mae_d7_lr0p03_l2100_bag1_max_seed202.json",
+      "sha256": "c26c802a4d5f1d55bee87ee07092112ce8cad7c1ea0723846af1e526630eeeec",
+      "bytes": 193100,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 68
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p1_l21_bag0_min_seed0",
+      "file": "tasks/cb_mae_d7_lr0p1_l21_bag0_min_seed0.json",
+      "sha256": "830359c617403505ebb131773546119a3c0f85441f3133bb1f47dd8d89bcbf04",
+      "bytes": 192874,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 69
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p1_l21_bag0_min_seed101",
+      "file": "tasks/cb_mae_d7_lr0p1_l21_bag0_min_seed101.json",
+      "sha256": "1ffe3e8c3eae6d10c3221396b2f155ee73dea07b2f1280caa1d89bb025fc64e9",
+      "bytes": 192876,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 70
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p1_l21_bag0_min_seed202",
+      "file": "tasks/cb_mae_d7_lr0p1_l21_bag0_min_seed202.json",
+      "sha256": "dcfbb70ef1f459f0ee1221db44f42ab1e015e4e8e754947a0e738fb0eaf10988",
+      "bytes": 192907,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 71
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p1_l21_bag0_max_seed0",
+      "file": "tasks/cb_mae_d7_lr0p1_l21_bag0_max_seed0.json",
+      "sha256": "5ac175d1eb9f3f51950d86e22efe96864af93cc4d9dc96696e6af6aa62cc6b3a",
+      "bytes": 192932,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 72
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p1_l21_bag0_max_seed101",
+      "file": "tasks/cb_mae_d7_lr0p1_l21_bag0_max_seed101.json",
+      "sha256": "0637b1189cf0f5c31852c028f1ec992905427d05404a205077f0ed886fbf4d17",
+      "bytes": 192938,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 73
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p1_l21_bag0_max_seed202",
+      "file": "tasks/cb_mae_d7_lr0p1_l21_bag0_max_seed202.json",
+      "sha256": "1ca8de370ff35359f53bcba7a1d8463bcf52b611a073481f9a824cfd14eaa3cf",
+      "bytes": 192890,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 74
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p1_l21_bag1_min_seed0",
+      "file": "tasks/cb_mae_d7_lr0p1_l21_bag1_min_seed0.json",
+      "sha256": "bb3fe51ec2870876adf560c32a773dd6574778db8b3bea8c6ded4e920b7bf133",
+      "bytes": 192877,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 75
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p1_l21_bag1_min_seed101",
+      "file": "tasks/cb_mae_d7_lr0p1_l21_bag1_min_seed101.json",
+      "sha256": "0e21f2879d700d012d23a50fd26e8b7c0646d94d2a3ad341e4021bd7229c3cc0",
+      "bytes": 192914,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 76
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p1_l21_bag1_min_seed202",
+      "file": "tasks/cb_mae_d7_lr0p1_l21_bag1_min_seed202.json",
+      "sha256": "f3476698fd4d4a8adb4425d075846fc9c9a0d702783806a7bc9b35f3937915b1",
+      "bytes": 192910,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 77
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p1_l21_bag1_max_seed0",
+      "file": "tasks/cb_mae_d7_lr0p1_l21_bag1_max_seed0.json",
+      "sha256": "f332f8d8fe466ba3a100dd3742d156a2f1db3194e690630935636ce2c9a6adf3",
+      "bytes": 192888,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 78
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p1_l21_bag1_max_seed101",
+      "file": "tasks/cb_mae_d7_lr0p1_l21_bag1_max_seed101.json",
+      "sha256": "fb5387716c9e44adeac9129711629e9e57a9f83ad69c615adad8d7d2981919c9",
+      "bytes": 192834,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 79
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p1_l21_bag1_max_seed202",
+      "file": "tasks/cb_mae_d7_lr0p1_l21_bag1_max_seed202.json",
+      "sha256": "1229ade8b8b1af521b4762a37f1017e884809194337787b6deee71cc3df1d6a9",
+      "bytes": 192891,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 80
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p1_l210_bag0_min_seed0",
+      "file": "tasks/cb_mae_d7_lr0p1_l210_bag0_min_seed0.json",
+      "sha256": "7cd4fa115d3e6a1661b7d8aecade478ac92d23f4073c6986a8537ae4425353ca",
+      "bytes": 192868,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 81
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p1_l210_bag0_min_seed101",
+      "file": "tasks/cb_mae_d7_lr0p1_l210_bag0_min_seed101.json",
+      "sha256": "2814a6847e108e196db70a3600f89744a76346ad3b948a77c84834a5485a9d16",
+      "bytes": 192919,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 82
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p1_l210_bag0_min_seed202",
+      "file": "tasks/cb_mae_d7_lr0p1_l210_bag0_min_seed202.json",
+      "sha256": "a08e27ee8d448133a3d3659e4157444a96743c161f269603c13e7152f99b0a36",
+      "bytes": 192887,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 83
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p1_l210_bag0_max_seed0",
+      "file": "tasks/cb_mae_d7_lr0p1_l210_bag0_max_seed0.json",
+      "sha256": "bc635d0ccabf08f73a1b77ddae60671303b034f42bb5fd8e2fa1fa3565bc63d2",
+      "bytes": 192830,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 84
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p1_l210_bag0_max_seed101",
+      "file": "tasks/cb_mae_d7_lr0p1_l210_bag0_max_seed101.json",
+      "sha256": "13371836a09cadb25fac7ae975b7b6550f4a8290ac7d5eb04645c8009ca6a70f",
+      "bytes": 192949,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 85
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p1_l210_bag0_max_seed202",
+      "file": "tasks/cb_mae_d7_lr0p1_l210_bag0_max_seed202.json",
+      "sha256": "281ab648c2cc38cf400f59ec6a17c1889f1a4d46ee3c3853867f1c5de854876c",
+      "bytes": 192887,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 86
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p1_l210_bag1_min_seed0",
+      "file": "tasks/cb_mae_d7_lr0p1_l210_bag1_min_seed0.json",
+      "sha256": "766ba885e09253e2c9b8b34dc6fe2255787ab0108ef9b37402e9b8976edc23ea",
+      "bytes": 192860,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 87
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p1_l210_bag1_min_seed101",
+      "file": "tasks/cb_mae_d7_lr0p1_l210_bag1_min_seed101.json",
+      "sha256": "f6dfaf2a1cafcc7275c13d52e46f4b3a6dd4c2cd62030df39448ebf18a022d78",
+      "bytes": 192979,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 88
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p1_l210_bag1_min_seed202",
+      "file": "tasks/cb_mae_d7_lr0p1_l210_bag1_min_seed202.json",
+      "sha256": "25cf1982b51919def0d53042df0720731bd67fb54576aa697ed597b31b45bc6d",
+      "bytes": 192867,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 89
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p1_l210_bag1_max_seed0",
+      "file": "tasks/cb_mae_d7_lr0p1_l210_bag1_max_seed0.json",
+      "sha256": "3e6c8be5d6359f0ec4c35ae1abd09c4d832387ca968efdcab21718c2e1e123f3",
+      "bytes": 192977,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 90
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p1_l210_bag1_max_seed101",
+      "file": "tasks/cb_mae_d7_lr0p1_l210_bag1_max_seed101.json",
+      "sha256": "a00bcdc074f80f7b265d7f2e3e99e6e8aa3c15f887fb5f9a2a7af0d5ae599bfc",
+      "bytes": 192999,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 91
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p1_l210_bag1_max_seed202",
+      "file": "tasks/cb_mae_d7_lr0p1_l210_bag1_max_seed202.json",
+      "sha256": "12a72c77059a97d599d5ecd56edc6f50e43ed7ae05a0e47f136cfa5a42b4418e",
+      "bytes": 193000,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 92
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p1_l2100_bag0_min_seed0",
+      "file": "tasks/cb_mae_d7_lr0p1_l2100_bag0_min_seed0.json",
+      "sha256": "ff2a93c5262cb53ce43fc2c454cf75222fb1d8a0dca63a7365cb66580c04fc99",
+      "bytes": 192875,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 93
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p1_l2100_bag0_min_seed101",
+      "file": "tasks/cb_mae_d7_lr0p1_l2100_bag0_min_seed101.json",
+      "sha256": "5dc8df1aa4037e629cbca34ad96e25aefbcab86e41a451930295363936228430",
+      "bytes": 192878,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 94
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p1_l2100_bag0_min_seed202",
+      "file": "tasks/cb_mae_d7_lr0p1_l2100_bag0_min_seed202.json",
+      "sha256": "00ea93259174952397af22952fc7ab3609b41c5f7240dcde6efeae37d873ad3a",
+      "bytes": 192909,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 95
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p1_l2100_bag0_max_seed0",
+      "file": "tasks/cb_mae_d7_lr0p1_l2100_bag0_max_seed0.json",
+      "sha256": "6b172214bed239de7555d130bd2ef939d82cb857f692653c04aa0f21270c6eff",
+      "bytes": 192933,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 96
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p1_l2100_bag0_max_seed101",
+      "file": "tasks/cb_mae_d7_lr0p1_l2100_bag0_max_seed101.json",
+      "sha256": "e6c0fe471889b2fa9c81e2a8357a161c5ff4274511f38825d05876d5dffadf71",
+      "bytes": 192951,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 97
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p1_l2100_bag0_max_seed202",
+      "file": "tasks/cb_mae_d7_lr0p1_l2100_bag0_max_seed202.json",
+      "sha256": "7cc4519d0076a76403f8ba5f6836fbef55e916296236ba67a6dbfd61bd61c84a",
+      "bytes": 192908,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 98
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p1_l2100_bag1_min_seed0",
+      "file": "tasks/cb_mae_d7_lr0p1_l2100_bag1_min_seed0.json",
+      "sha256": "6e4d9cc7c0cab57fc68a509ef9c55aafced351c0fe1cb7dfa3d371e355a77b6f",
+      "bytes": 192897,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 99
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p1_l2100_bag1_min_seed101",
+      "file": "tasks/cb_mae_d7_lr0p1_l2100_bag1_min_seed101.json",
+      "sha256": "240501c5c41474d8bd148efa0b2f64d97ec8488fa592d9cbb37581259f785b6a",
+      "bytes": 192960,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 100
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p1_l2100_bag1_min_seed202",
+      "file": "tasks/cb_mae_d7_lr0p1_l2100_bag1_min_seed202.json",
+      "sha256": "4d1fb8d1ba35782e52037b72e883640d7c4faffc5ac91e8897ff9a20c7751aaf",
+      "bytes": 192907,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 101
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p1_l2100_bag1_max_seed0",
+      "file": "tasks/cb_mae_d7_lr0p1_l2100_bag1_max_seed0.json",
+      "sha256": "6a29f4e9d710b8b24f2f63f28096de10def62017b5531c35a738133c81b0868a",
+      "bytes": 192919,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 102
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p1_l2100_bag1_max_seed101",
+      "file": "tasks/cb_mae_d7_lr0p1_l2100_bag1_max_seed101.json",
+      "sha256": "f416d305daf5c5eef1b6fe35d6ae7c99b4048c4c7ffaed51eb3f124c0da27eef",
+      "bytes": 192954,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 103
+    },
+    {
+      "task_id": "cb_mae_d7_lr0p1_l2100_bag1_max_seed202",
+      "file": "tasks/cb_mae_d7_lr0p1_l2100_bag1_max_seed202.json",
+      "sha256": "233c9336e83f84378b5da130688d2e0a9c173e55da52b648737490a4a5020465",
+      "bytes": 193010,
+      "chunk": "tasks_002.jsonl.gz",
+      "line_1based": 104
+    }
+  ]
+}

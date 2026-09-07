@@ -1,0 +1,25 @@
+{
+  "recorded_utc": "2026-09-07T00:31:25.768163+00:00",
+  "F_unit": {
+    "ActiveState": "active",
+    "InvocationID": "4e181b1f62a5465a903689b701e7950e"
+  },
+  "G_queue": {
+    "RuntimeMaxUSec": "3h 1min 40s",
+    "Result": "success",
+    "ActiveState": "active",
+    "SubState": "running",
+    "InvocationID": "b82bdd22a5664a2b9f5688ab3b2d6fbb"
+  },
+  "F_state": {
+    "status": "running",
+    "completed": 288,
+    "total": 435,
+    "active_workers": 4,
+    "error": null,
+    "updated": 1788741083.8294916
+  },
+  "reference_replays_passed": 3,
+  "gpu": "99 %, 41734 MiB",
+  "scientific_files_changed": false
+}

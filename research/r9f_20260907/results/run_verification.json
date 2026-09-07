@@ -1,0 +1,54 @@
+{
+  "passed": true,
+  "models_fitted": 0,
+  "model_predictions_run": 0,
+  "records": 435,
+  "reference_replays_exact": 3,
+  "frozen_files_unchanged": 61,
+  "frozen_manifest_sha256": "1d3f47f8e1467636220c7907a549693664da033f984bcf54ce4ab2eab688f978",
+  "preregistration_exact": true,
+  "queue_registration_exact": true,
+  "append_log_all_hashes_exact": true,
+  "append_log_sha256": "369841dcd78fc6ecc360ec64c183c5c73bee92e7324c06522da9293a66ec9d8a",
+  "complete_summary_recomputed_exact": true,
+  "compact_candidates_exact": true,
+  "distinct_CatBoost_configurations": 144,
+  "CatBoost_fit_tasks": 432,
+  "saved_fold_checkpoint_scores_recomputed_exact": 3897,
+  "checkpoint_rounds": [
+    200,
+    600,
+    1200
+  ],
+  "installed_source_hashes_exact": true,
+  "actual_GPU_constructors_validated": true,
+  "all_pre2019_development_only": true,
+  "no_model_promotion": true,
+  "blend_verification": {
+    "sha256": "6cf1c02756a99c09ef8fe6c191177191d3ce1355d6eacaa7674f468fb144df27",
+    "bytes": 466
+  },
+  "blend_recipes": 19008,
+  "task_archive_manifest": {
+    "sha256": "a0b8f0e9ea9399db1e022e51ae3687fac2a033f439b7f3bb5db55ff80df70baf",
+    "bytes": 134665
+  },
+  "chunks": 3,
+  "original_bytes": 83783959,
+  "compressed_bytes": 18730624,
+  "max_chunk_bytes": 7144893,
+  "all_record_roundtrips_byte_exact": true,
+  "resumed_queue_elapsed_seconds": 4394.7609120749985,
+  "retained_exact_records": 288,
+  "resumed_new_records": 147,
+  "recovery_verification": {
+    "sha256": "b0d0459b671b96ed6c2597d6b3c38a95c26e260f7bf8b359ad9ca6281d33788f",
+    "bytes": 1455
+  },
+  "verification_seconds": 154.32622752396856,
+  "verification_code_sha256": "a590e9f290cab67fa3bde3e1d8c7f26de9a2224f2f5ce5185a57940a2f7fb646",
+  "summary": {
+    "sha256": "c7778d48568492fe294961dc66fac74a9f6f6b3c2ce1bb7df2c9db60c76a7d5c",
+    "bytes": 1181180
+  }
+}
