@@ -1,0 +1,22 @@
+{
+  "model_fits_authorized": true,
+  "queue_enabled": true,
+  "one_runtime_only_I_timeout_resume_authorized": true,
+  "registered_plan_sha256": "5003a38ff50853b89951e07d1bba7af6bf611bdcaf1db2e304af22751413e4fb",
+  "frozen_sha256": "05bf210e7dda4fa78aa0add4b9b1501f4194071f5395ac6dceb04824602a1432",
+  "runtime_preflight_sha256": "c261fa6c2c0e80103204fbe8389a9da5bcdf88b69ea04ddef0ebc47b1fcd634a",
+  "I_frozen_sha256": "2939c20ea7e1decb0e418e87a30a7d2c60295bd063b6c2fac9ca52a2fd33f3a9",
+  "H_frozen_sha256": "22e68b8bee7902d65ed0f1c7a2d04bde3fc6521f5f872339faead15416c24d0e",
+  "root_final_review_passed": true,
+  "task_count": 48,
+  "recipes_per_payload": 187,
+  "payload_count": 3,
+  "workers": 4,
+  "runtime_seconds": 7200,
+  "memory_GiB": 140,
+  "CPU_quota_percent": 2200,
+  "queue_runtime_seconds": 21600,
+  "no_new_test_or_confirmation_access": true,
+  "no_I_score_dependent_selection": true,
+  "authorized_at_unix": 1788772653.0204506
+}

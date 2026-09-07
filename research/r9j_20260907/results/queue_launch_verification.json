@@ -1,0 +1,16 @@
+{
+  "unit": "draftdb-r9j-queue-20260907",
+  "state": {
+    "MainPID": "1097657",
+    "Result": "success",
+    "ActiveState": "active",
+    "InvocationID": "1ba0efaccbd04f85b91faaf3bba12b42"
+  },
+  "authorization_sha256": "d892b5db9aecc7f0d46f4f9d09cdf220a0b7e3048fbfa9bddaf51fca10e68baf",
+  "frozen_sha256": "05bf210e7dda4fa78aa0add4b9b1501f4194071f5395ac6dceb04824602a1432",
+  "preflight_sha256": "c261fa6c2c0e80103204fbe8389a9da5bcdf88b69ea04ddef0ebc47b1fcd634a",
+  "task_count": 48,
+  "I_unchanged": true,
+  "J_models_not_started_by_controller_launch": true,
+  "launched_at_unix": 1788772653.1232116
+}

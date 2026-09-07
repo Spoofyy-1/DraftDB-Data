@@ -1,0 +1,102 @@
+{
+  "study": "r9j",
+  "stage": "registered_and_queued_no_scientific_fits_yet",
+  "files": {
+    "README.md": {
+      "sha256": "00ef9da3034385afdfcc9b4c69e1cdf4c9cc90bd7f665854d94df62825182ac6",
+      "bytes": 3424
+    },
+    "build_runtime_support.py": {
+      "sha256": "6525f6546829c7a332f0854c319df34096fab328e1708cc176671663f57bd436",
+      "bytes": 1153
+    },
+    "frozen.json": {
+      "sha256": "05bf210e7dda4fa78aa0add4b9b1501f4194071f5395ac6dceb04824602a1432",
+      "bytes": 1479
+    },
+    "launch_authorization.json": {
+      "sha256": "d892b5db9aecc7f0d46f4f9d09cdf220a0b7e3048fbfa9bddaf51fca10e68baf",
+      "bytes": 943
+    },
+    "plan.json": {
+      "sha256": "5003a38ff50853b89951e07d1bba7af6bf611bdcaf1db2e304af22751413e4fb",
+      "bytes": 248207
+    },
+    "postprocess.py": {
+      "sha256": "f684c54cf3bd326475bbd9161e03e4470963faa09425d92a0791f9aabb935b03",
+      "bytes": 6715
+    },
+    "queue_runtime.py": {
+      "sha256": "ae7e266b9655b0278532bc96c2ab24bb1bdc6b8a63706e64d9e77c0b49b792f3",
+      "bytes": 6449
+    },
+    "references.json": {
+      "sha256": "58695dd63626129a42248b4410e2436691495471d7bdec9745e952df75531985",
+      "bytes": 1453829
+    },
+    "research.py": {
+      "sha256": "1b506c758648ff8fe095d1beb6901e9ce4dc611f5144659abcdbad7bba4c78ac",
+      "bytes": 4614
+    },
+    "results/queue_launch_verification.json": {
+      "sha256": "b48d712d9fdf08ddc380a967a221ff19ffa789feb92d825c5904241ab680ee2c",
+      "bytes": 605
+    },
+    "results/runtime_preflight.json": {
+      "sha256": "c261fa6c2c0e80103204fbe8389a9da5bcdf88b69ea04ddef0ebc47b1fcd634a",
+      "bytes": 6116
+    },
+    "run_runtime_preflight.sh": {
+      "sha256": "f4885b448968a9729d752b2ee713b98281951fa1b9a76a2c46e49f39c06b376e",
+      "bytes": 1446
+    },
+    "run_sandbox.sh": {
+      "sha256": "c8856cc2fb1999e8c76284504be0d0e58796cb48d16814af2c764241129d8dd3",
+      "bytes": 1587
+    },
+    "runtime_preflight.py": {
+      "sha256": "0ebf7ba010628606bceb26f7635dca6a7d5b667e630576f171bb92b83e9d50fe",
+      "bytes": 3954
+    },
+    "runtime_support.json": {
+      "sha256": "bc1d874c9ec04a4f329746aa199b9b04c351e8735b6b1fd48a473e142aebdd7d",
+      "bytes": 1573
+    },
+    "source_manifest.json": {
+      "sha256": "bf1181437d90e5e4f4a7523004d29aa77862dc4ea0d6ceedf44220705c0db1c5",
+      "bytes": 11220
+    },
+    "stack_math.py": {
+      "sha256": "ad99a4ad96a0f6c915b6940f7f17ef424a4eba4a047b1d2ed0e7b8fc0e2f4dd9",
+      "bytes": 1429
+    },
+    "test_stack_math.py": {
+      "sha256": "49d0df67da6beb43e3d0bae58a27186ccb1d90ebeac0711473ef60b15dc888cd",
+      "bytes": 2310
+    },
+    "wait_for_i_then_launch.py": {
+      "sha256": "f0075c04533a3666f7197a281a72de7bd9b7242a7f3c77f86e3682892a289430",
+      "bytes": 6759
+    },
+    "worker.py": {
+      "sha256": "22c5f5bc443f8edf2730424cf919f9a0928cd3355a5880c6b889bc6baea07afe",
+      "bytes": 11684
+    },
+    "dashboard/dash.py": {
+      "sha256": "25e688bdeb84e5059130e095be2f7e3d0585224aaccdec00be3701b1a957c377",
+      "bytes": 12905
+    },
+    "dashboard/stack_r8.html": {
+      "sha256": "ef2eecaa14cf0edf13d1c231d898cf0ac635e231e71d47ccee5aedfcd8a467c2",
+      "bytes": 16622
+    }
+  },
+  "no_heldout_inputs_or_outcomes": true,
+  "no_I_results_used_for_selection": true,
+  "references_are_pre2019_already_public_H_records": true,
+  "source_payloads_reused_from_public_H_without_duplicate_private_exports": true,
+  "task_count": 48,
+  "recipes_per_payload": 187,
+  "recipe_records_expected": 2244,
+  "total_bytes": 1775487
+}

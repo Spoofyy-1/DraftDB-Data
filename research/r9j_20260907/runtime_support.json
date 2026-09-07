@@ -1,0 +1,40 @@
+{
+  "versions": {
+    "sklearn": "1.9.0",
+    "xgboost": "3.4.1"
+  },
+  "sources": {
+    "/opt/venv/lib/python3.12/site-packages/sklearn/pipeline.py": {
+      "sha256": "600bb2eff2c4a0f9f82ac9da35deedb7de7c9250c33fab76e9186c423c23b396",
+      "bytes": 88595
+    },
+    "/opt/venv/lib/python3.12/site-packages/sklearn/impute/_base.py": {
+      "sha256": "863ce9620e3a1808927af9c959899ed713dd85cb844c261f88268032d87561ca",
+      "bytes": 42890
+    },
+    "/opt/venv/lib/python3.12/site-packages/sklearn/preprocessing/_data.py": {
+      "sha256": "361f058b427be49ff21c7ac10cda03ac59e2768a13b8d71a9f69c27b69558133",
+      "bytes": 130480
+    },
+    "/opt/venv/lib/python3.12/site-packages/sklearn/linear_model/_ridge.py": {
+      "sha256": "09c1cfaca28c124982d52ee4258f9022de3f24fda9922f3ae41cc834d63ede31",
+      "bytes": 109185
+    },
+    "/opt/venv/lib/python3.12/site-packages/sklearn/linear_model/_base.py": {
+      "sha256": "58d81a3fb724059db2d2a834f97ce066c5122f65de07142d20509622b9b580d0",
+      "bytes": 31056
+    },
+    "/opt/venv/lib/python3.12/site-packages/xgboost/core.py": {
+      "sha256": "9e338b34dcd91017bff4b40f1fd332abbd9e06fc6f9861286b448a6bbf0f0226",
+      "bytes": 117685
+    },
+    "/opt/venv/lib/python3.12/site-packages/xgboost/sklearn.py": {
+      "sha256": "2a3b9f343272afd9f297d8b41e4fdb864446dfbd117c8bcc847c1b6fd0d06a27",
+      "bytes": 90614
+    },
+    "/opt/venv/lib/python3.12/site-packages/xgboost/lib/libxgboost.so": {
+      "sha256": "462aa6331ecb178df8d10f16612c865ae70f571c248138e50c8a9eb4bc007dd4",
+      "bytes": 86355369
+    }
+  }
+}
