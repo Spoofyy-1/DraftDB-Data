@@ -1,0 +1,19 @@
+{
+  "model_fits_authorized": true,
+  "authorization": "User-directed ongoing GPU model stacking toward55%; root reviewed preregistered development-only study.",
+  "plan_sha256": "cebfe908d2cf0d03bf9f2de6052d30ef8c8a1b7f8a1a23948b782750cc5247e3",
+  "frozen_sha256": "32a9ac2ec968ebb281027020e5a244eb9a040d589318b3c5dd577da9ece27b00",
+  "cpu_preflight_sha256": "b88dba4d12b55838fce98399b59156b79317e2f1b9bfadc3711e88e5cdb54b1e",
+  "new_jobs": 18,
+  "new_model_fits": 162,
+  "reused_control_records": 6,
+  "reused_original_fits": 54,
+  "workers": 4,
+  "limits": {
+    "runtime_seconds": 7200,
+    "memory_gib": 140,
+    "cpu_quota_percent": 2200
+  },
+  "automatic_retry": false,
+  "no_benchmark_evaluation": true
+}

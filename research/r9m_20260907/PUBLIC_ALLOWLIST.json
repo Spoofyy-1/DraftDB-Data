@@ -1,0 +1,105 @@
+{
+  "policy": "Only listed code, registration and aggregate CPU/review proofs. No input/scoring NPZs, private label facts, identity crosswalks or raw source-reference records. Input-only source panels and verified L controls are preserved in earlier allowlisted study folders. 162 new fits plus54 reused fits; fixed cross-panel recipes, not learned OOF weights.",
+  "files": {
+    "README.md": {
+      "sha256": "74b9b4a1ea7e531b4e6664080ef0f0f899e0d6634348e99abebc12bd62fb5c0d",
+      "bytes": 3262
+    },
+    "plan.json": {
+      "sha256": "cebfe908d2cf0d03bf9f2de6052d30ef8c8a1b7f8a1a23948b782750cc5247e3",
+      "bytes": 882087
+    },
+    "frozen.json": {
+      "sha256": "32a9ac2ec968ebb281027020e5a244eb9a040d589318b3c5dd577da9ece27b00",
+      "bytes": 11503
+    },
+    "launch_authorization.json": {
+      "sha256": "86042cd95a0757fd9fe6522500c6d3842815a66712f746fbb027424acd952ece",
+      "bytes": 712
+    },
+    "cpu_fixture_proof.json": {
+      "sha256": "c6fd8caed532bf909b6c68b7a4ef7022eaf07066d18e4c7da737bb2d50193ce3",
+      "bytes": 2044
+    },
+    "root_review.json": {
+      "sha256": "bcec50e449de51f6e60d6e6bc078eee1c1418518f95a3d65281c8e75519a02ec",
+      "bytes": 973
+    },
+    "build_inputs.py": {
+      "sha256": "6acc015d05aa670c15dc228361201535836723b7407d535cde908db02abbfcbf",
+      "bytes": 6109
+    },
+    "reuse_controls.py": {
+      "sha256": "e931252610dc00ddc917d54d6dbf85240fe5aca7c4aa5ea3db04ebcd1a0b0bc7",
+      "bytes": 5241
+    },
+    "research.py": {
+      "sha256": "a3055842db958b1eeade9095fe71acded143601a20133cb9c6227492ec66abe6",
+      "bytes": 7169
+    },
+    "postprocess.py": {
+      "sha256": "b9911e0492453791d7ee9dbe73cb649ece4f57395f244ba3c0337734c981d4b0",
+      "bytes": 6978
+    },
+    "cross_panel.py": {
+      "sha256": "74a6ff4f6f670a76f2bca6afac2b4547fbaeea73b2bce3b3129da582017e808c",
+      "bytes": 4872
+    },
+    "cpu_preflight.py": {
+      "sha256": "3557f45a8ea76bdbdb4630a8881d1364f64a8074219bc8ee17fba7333cf6a741",
+      "bytes": 3364
+    },
+    "run_task_sandbox.sh": {
+      "sha256": "20343b658bec1215f5a1e840d94e68bff60133d67beedaa4ec1415a7bf481185",
+      "bytes": 1781
+    },
+    "test_cross_panel.py": {
+      "sha256": "c3f65ef33640047a5d941c9ffe4d6f5fc4bfd4fd945def8750d186744b25c5b7",
+      "bytes": 5473
+    },
+    "prepare_protocol.py": {
+      "sha256": "9dbfcdd7d0349dd03138de4434bef55e615e719399bfd7bbba0fafe36e40d8ae",
+      "bytes": 5609
+    },
+    "freeze_registration.py": {
+      "sha256": "0d5baf108851c8600d5774e07fc74c938d136904ead9cdb3cd5dab7963f410e6",
+      "bytes": 2524
+    },
+    "results/cpu_preflight.json": {
+      "sha256": "b88dba4d12b55838fce98399b59156b79317e2f1b9bfadc3711e88e5cdb54b1e",
+      "bytes": 13996
+    },
+    "code/worker.py": {
+      "sha256": "92abd8b71bc3c31703718bd1e1769d31a5784a42885b88550a14df2b89f5af9e",
+      "bytes": 7318
+    },
+    "code/model_backend.py": {
+      "sha256": "39ca4e150ed0a518177e0a24b25a45379ea404f70fe792fb8954f7b08b2f0d06",
+      "bytes": 4963
+    },
+    "code/stack_core.py": {
+      "sha256": "a862e230d4912164d8d0d173561e6d3b05686558ce1338fa06c3fa2051b43892",
+      "bytes": 5336
+    },
+    "code/runtime_support.json": {
+      "sha256": "e3c7662c056e1a1688c234f49d1aa53e5394f3c9bcaaf4c7687dacdfc8c7d119",
+      "bytes": 21978
+    },
+    "code/test_worker.py": {
+      "sha256": "06f7661bd132900182aaa3f3e974729da87cf976971b34736c5e71667f783999",
+      "bytes": 5656
+    },
+    "code/protocol.json": {
+      "sha256": "5ffabcc9f0e4d00f17456c441224bb565caf7eb20ff34ac378c53296aa3e70d1",
+      "bytes": 908683
+    },
+    "dashboard/dash.py": {
+      "sha256": "373db8f29ed194ab3d1f5af3b03550b3e302b5452b86194c13d7584f47657b3c",
+      "bytes": 14188
+    },
+    "dashboard/stack_r8.html": {
+      "sha256": "44422aa62ff4afde3fe853263ced7be0428666f7b79da6007e11a8232cfff441",
+      "bytes": 22139
+    }
+  }
+}

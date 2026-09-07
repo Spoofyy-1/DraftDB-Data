@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "scope": "Bounded static review plus required runtime CPU preflight before launch",
+  "protocol_sha256": "5ffabcc9f0e4d00f17456c441224bb565caf7eb20ff34ac378c53296aa3e70d1",
+  "new_jobs": 18,
+  "new_model_fits": 162,
+  "reused_records": 6,
+  "reused_original_fits": 54,
+  "independent_source_validation_review": "No blocking leakage, control-reuse, chronology or blend arithmetic defect; 950 unique recipes and all aliases valid",
+  "root_review": "Source controls remain byte-identical; current full matrices, labels, PID order, settings and runtime pins verified before new jobs. Models mount one cutoff only. Root scorer caches fixed truth arrays; outcome-free assembler retains individual model views. Headline compares true multi-family winners only.",
+  "same_panel_score_records": 4128,
+  "cross_panel_score_records": 11400,
+  "no_2019plus_scoring": true,
+  "no_learned_weights": true,
+  "target_percent": 55,
+  "no_automatic_promotion": true
+}
