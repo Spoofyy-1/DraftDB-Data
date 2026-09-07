@@ -1,0 +1,167 @@
+{
+  "passed": true,
+  "no_new_answers_opened": true,
+  "model_fits": 0,
+  "new_scoring_calls": 0,
+  "mapping": [
+    {
+      "year": 2019,
+      "rows": 58,
+      "query_matrix_hash": "f71429e1dce0479d6a025bdb0baa8768094a5f0a2724332d6ded9acb909f99b1",
+      "all_44_columns_order_values_and_PID_join_exact": true
+    },
+    {
+      "year": 2020,
+      "rows": 58,
+      "query_matrix_hash": "b78d84306c9a25494925012200c0a9c8e9a73bdeeb9a9c3b7df20558c1191fa1",
+      "all_44_columns_order_values_and_PID_join_exact": true
+    },
+    {
+      "year": 2021,
+      "rows": 56,
+      "query_matrix_hash": "805a4a9fc5c869b1a83c4acdcc0149131237af6daab488fb13e941a6507084f7",
+      "all_44_columns_order_values_and_PID_join_exact": true
+    },
+    {
+      "year": 2022,
+      "rows": 52,
+      "query_matrix_hash": "193d831dfc779d660230d70f59e1efa580a8d3cdeb096a6540870c72bf031f3e",
+      "all_44_columns_order_values_and_PID_join_exact": true
+    },
+    {
+      "year": 2023,
+      "rows": 56,
+      "query_matrix_hash": "4d0f64c34aabfed75b934089f24a7c89121eb765fd4deda369cc1726f338f097",
+      "all_44_columns_order_values_and_PID_join_exact": true
+    },
+    {
+      "year": 2024,
+      "rows": 55,
+      "query_matrix_hash": "fc6807e3ed6151b0710136e378873f0a543ed9401badc5f8dddbb6633eba9f6e",
+      "all_44_columns_order_values_and_PID_join_exact": true
+    },
+    {
+      "year": 2025,
+      "rows": 57,
+      "query_matrix_hash": "dc93ffd7c058397f7872253943ee9c166e4da7d472512fd88a7ae1e7d5dac538",
+      "all_44_columns_order_values_and_PID_join_exact": true
+    }
+  ],
+  "pure_metric_fixtures": [
+    {
+      "k": 1,
+      "negative_zero_missing_tied_values_exact": true
+    },
+    {
+      "k": 2,
+      "negative_zero_missing_tied_values_exact": true
+    },
+    {
+      "k": 3,
+      "negative_zero_missing_tied_values_exact": true
+    },
+    {
+      "k": 4,
+      "negative_zero_missing_tied_values_exact": true
+    },
+    {
+      "k": 5,
+      "negative_zero_missing_tied_values_exact": true
+    }
+  ],
+  "draft_comparators": [
+    {
+      "year": 2019,
+      "k": 5,
+      "draft_new": 0.40213479344181613,
+      "draft_published_old": 0.402,
+      "same_at_published_precision": true
+    },
+    {
+      "year": 2020,
+      "k": 5,
+      "draft_new": 0.35021071088006406,
+      "draft_published_old": 0.35,
+      "same_at_published_precision": true
+    },
+    {
+      "year": 2021,
+      "k": 5,
+      "draft_new": 0.4084073820915926,
+      "draft_published_old": 0.408,
+      "same_at_published_precision": true
+    },
+    {
+      "year": 2022,
+      "k": 4,
+      "draft_new": 0.2623580636899172,
+      "draft_published_old": 0.262,
+      "same_at_published_precision": true
+    },
+    {
+      "year": 2023,
+      "k": 3,
+      "draft_new": 0.1106307353328877,
+      "draft_published_old": 0.111,
+      "same_at_published_precision": true
+    },
+    {
+      "year": 2024,
+      "k": 2,
+      "draft_new": 0.13403326556845988,
+      "draft_published_old": 0.134,
+      "same_at_published_precision": true
+    },
+    {
+      "year": 2025,
+      "k": 1,
+      "draft_new": 0.17640862779925506,
+      "draft_published_old": 0.176,
+      "same_at_published_precision": true
+    }
+  ],
+  "recomputed_current_aggregates": {
+    "2019_2025": {
+      "full_legacy": {
+        "score": 0.30870833693517585,
+        "mean_seed_score": 0.31048411471905396,
+        "draft": 0.263454796971999
+      },
+      "complete_target_subset": {
+        "score": 0.29257264622391127,
+        "mean_seed_score": 0.29265986615076045,
+        "draft": 0.21274843176538272
+      }
+    },
+    "2020_2025": {
+      "full_legacy": {
+        "score": 0.30984583761244977,
+        "mean_seed_score": 0.311243571113862,
+        "draft": 0.24034146422702943
+      },
+      "complete_target_subset": {
+        "score": 0.2816099773401412,
+        "mean_seed_score": 0.28109040236899474,
+        "draft": 0.21010489944820496
+      }
+    }
+  },
+  "original_means_from_rounded_published_rows": {
+    "strict": {
+      "stack": 0.4521428571428571,
+      "draft": 0.2632857142857143
+    },
+    "expanding": {
+      "stack": 0.506,
+      "draft": 0.24016666666666667
+    }
+  },
+  "same_year_gap_rho": 0.19615416238755023,
+  "source_sha256": {
+    "/Users/kennakao/nba/site/model/CURRENT_MODEL.json": "2ed19cc09f9b08fdfd702754ac699a304c1aed29ead13e965f3e2be6b1b947d4",
+    "/Users/kennakao/Documents/Codex/2026-09-06/https-github-com-spoofyy-1-draftdb/work/r9test/results/test_result.json": "1764b5bf42010feab02e6df12f815d004eed8587731e3023285dc153750dede5",
+    "/Users/kennakao/Documents/Codex/2026-09-06/https-github-com-spoofyy-1-draftdb/work/r9test/recipe.json": "d520d1e100b4d7bc4bfcd56699c809fc9e424333647fc52c66395461c92228ba",
+    "/Users/kennakao/Documents/Codex/2026-09-06/https-github-com-spoofyy-1-draftdb/work/audit/vault.py": "9cbca301cd7efd88c05eb35ea48036f25f2367bff885a5dfc4382bf4a82d831a",
+    "/Users/kennakao/Documents/Codex/2026-09-06/https-github-com-spoofyy-1-draftdb/work/r9test/score_frozen.py": "b01845371d30d3c845dab75492709513b730402c168d6e1c8b58ecf4475415f7"
+  }
+}

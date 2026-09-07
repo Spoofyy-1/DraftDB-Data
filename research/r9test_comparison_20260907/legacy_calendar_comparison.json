@@ -1,0 +1,48 @@
+{
+  "scope": "Compare already recorded results and source code; no model fit or vault-answer read. Not a new evaluation or model-selection step.",
+  "legacy_expanding_years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "legacy_expanding_mean_from_published_rounded_rows": 0.506,
+  "new_matched_2020_2025_full_mean": 0.30984583761244977,
+  "new_2019_2025_full_mean": 0.30870833693517585,
+  "new_complete_target_subset_mean": 0.29257264622391127,
+  "original_draft_baselines_match_new_at_published_precision": true,
+  "known_legacy_base_label_facts_after_cutoff": [
+    {
+      "prediction_year": 2019,
+      "label_rows_after_cutoff": 836,
+      "players": 349
+    },
+    {
+      "prediction_year": 2020,
+      "label_rows_after_cutoff": 507,
+      "players": 246
+    },
+    {
+      "prediction_year": 2021,
+      "label_rows_after_cutoff": 276,
+      "players": 176
+    },
+    {
+      "prediction_year": 2022,
+      "label_rows_after_cutoff": 117,
+      "players": 117
+    }
+  ],
+  "calendar_count_limitation": "Verified subset through2022; counts are source facts in unchanged base cohort range, not measured contribution to old score or proof of original version replay.",
+  "source_sha256": {
+    "/Users/kennakao/nba/site/model/CURRENT_MODEL.json": "2ed19cc09f9b08fdfd702754ac699a304c1aed29ead13e965f3e2be6b1b947d4",
+    "work/r9test/results/test_result.json": "1764b5bf42010feab02e6df12f815d004eed8587731e3023285dc153750dede5",
+    "work/audit/evolve3.py": "f8bf61a6b94b374e5c8a16a494c15f961dc13f76b0ec8a7b768ffd442d7a4948",
+    "work/audit/vault.py": "9cbca301cd7efd88c05eb35ea48036f25f2367bff885a5dfc4382bf4a82d831a",
+    "work/r8/calendar_train_labels.csv": "aeef450699ceafb07e993ec79f31187de476e7df4e4368fa74fa79f054798254"
+  },
+  "causal_drop_from_cutoff_corrections_not_established": true,
+  "same_model_comparison_not_performed": true
+}

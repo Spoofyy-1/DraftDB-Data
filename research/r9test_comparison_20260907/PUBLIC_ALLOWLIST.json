@@ -1,0 +1,21 @@
+{
+  "scope": "Saved-result arithmetic, code/source hashes and audit code only; no test outcomes or model fits",
+  "files": {
+    "audit.py": {
+      "sha256": "6bea24b7d134945b07a22430af6fff38e2eaf4cade10eed43db7b348fcd4a25f",
+      "bytes": 6127
+    },
+    "REPORT.md": {
+      "sha256": "d219645b0fc41544be50c8320e75b3b4dd6cb95f05602468b238f602c11ac5be",
+      "bytes": 5614
+    },
+    "legacy_calendar_comparison.json": {
+      "sha256": "8ae4bb3de9353a6283a1a78923a9d84b163ba9d87253895f3f62638afca6960e",
+      "bytes": 1873
+    },
+    "verification.json": {
+      "sha256": "a1b88cdf93ae11610653f2005a6b7a04b49f9bae1f8763719904ea6c14a188b4",
+      "bytes": 5056
+    }
+  }
+}
