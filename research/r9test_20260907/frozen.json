@@ -1,0 +1,30 @@
+{
+  "files": {
+    "input_contract.json": "46fad09d169ed1371e98ca1fb88df0457527d5a674c62ffb3844d2182274fcc9",
+    "model_core.py": "84424b481be6ee66b419ede0815154e66f714ac143f859822e5d542454ac0348",
+    "predict_year.py": "f50df9fcfffe1a5e13fa345579394f3d317f1400d7e01d3e44db1b122f738e9f",
+    "prepare_bundles.py": "08c93c6fb8f5ca6504691f93056cbc32ce6ebf5978ecd693b80c7f2755791675",
+    "recipe.json": "d520d1e100b4d7bc4bfcd56699c809fc9e424333647fc52c66395461c92228ba",
+    "reference_contract.json": "7eeeead56f784ac8fdb81ad5112084fe2a10df47976d8e960a37b3b0e3118281",
+    "reference_gate.py": "b8c563fe8c6566446cf5b1fe741598da74789d5e08406b939236f5c32e04a9f6",
+    "runtime_support.json": "78d0d9c354b2939a97d0d22f7bf16e462a03d15f2f14c5a7652677539fb131ee",
+    "source_admission.json": "e49650dec38763f6984140ab32520ed93953173615848bf5c6f66d44257b9cd1",
+    "test_model_core.py": "3a491748d3241f15328c406aaa8db6290cee043a6d67a069a55c15853ff29610"
+  },
+  "launchers": {
+    "run_prepare_sandbox.sh": "5d2eb321a663027eb1eb760c673ccd14b952a711acdd65ec4ada2e72af081391",
+    "run_reference_sandbox.sh": "abc28e70f052c66145b957643d45eae3c96815eb1a38bdaa0dd1a723d9069095",
+    "run_year_sandbox.sh": "a595374ff6890d1ca31bf72e40613909e4a19b1d9102ee817d0cccf7f94a36e9"
+  },
+  "year_manifest_sha256": {
+    "2019": "2b25a9e7d073a8660920d7156992139ead5e145ca924c1ab55230595252c9cec",
+    "2020": "0523a77222817bc4a783a1cacaf081b46a2781aea3699467ab52e06d39f63ddf",
+    "2021": "7fd3f343f6bdd4d3d1b95796bfc8152d5d1104d4ce6c33a73466a6c458499dfd",
+    "2022": "3e5dfdc62b560c8466e3333c87c6466cc4090519588116fde7dab91409f2636a",
+    "2023": "fd8c74028832807718835d41c1c0e9059fbea2d361cb5151d3f1998f707f5083",
+    "2024": "fcffb1069e6cb620a4d7c3f672f1f04159aca4f1cb82464be83a301e08db24a6",
+    "2025": "01084be5fc08351d604695464de2eb58ca04de651fff1e4a9b54e8e3a0f4d628"
+  },
+  "preparation_sha256": "3e3b2ff2575f872a61f14806e848f3bf62d179f06cefd9e88f931ac139c95c13",
+  "all7_target_prediction_fits_require_parent_final_approval": true
+}

@@ -1,0 +1,277 @@
+{
+  "protocol": "R9test H observed-two-season recipe on2019\u20132025 original drafted benchmark",
+  "scored_at_utc": "2026-09-07T08:42:14.530940+00:00",
+  "prediction_freeze_sha256": "443cf9dab191de42a09ca393346969f42e6229a1137b002dd9a99a29eb35076f",
+  "aggregation": "Unweighted mean across all seven cohorts; no undefined cohort silently omitted",
+  "score_units": "Spearman rho; multiply by100 for dashboard percent",
+  "rows": [
+    {
+      "season": 2019,
+      "k": 5,
+      "n_full": 58,
+      "n_complete_target": 33,
+      "partial_or_unknown_target_rows": 25,
+      "answer_sha256": "f8d9e7ed5574ed97858d27c914fa68144e414d3981680ff5c4de196917b02de5",
+      "training": {
+        "predictions_csv_sha256": "251c367ca2b684c5be4d8271d2399695cd42cd5d6d2a75630f5fe91b91c9bc7c",
+        "predictions_json_sha256": "8813973667f6403e73da235f944e5be4e8cc5336bb732a3340fad4e232d14711",
+        "completion_sha256": "3a872281e44ee058fac046110bbe03fc71c98d6a47edadc3c7b36b6176eab44e",
+        "rows": 58,
+        "training_rows": 750,
+        "actual_admitted_label_max": 2018,
+        "source_export_label_max": 2018,
+        "input_manifest_sha256": "2b25a9e7d073a8660920d7156992139ead5e145ca924c1ab55230595252c9cec"
+      },
+      "full_legacy": {
+        "score": 0.3018833328715323,
+        "seed_0": 0.2997938540027545,
+        "seed_101": 0.3210868178711632,
+        "seed_202": 0.2969014571766989,
+        "draft": 0.40213479344181613,
+        "mean_seed_score": 0.30592737635020556
+      },
+      "complete_target_subset": {
+        "score": 0.35834865952653167,
+        "seed_0": 0.3532754010695187,
+        "seed_101": 0.3683155080213904,
+        "seed_202": 0.36463903743315507,
+        "draft": 0.22860962566844922,
+        "mean_seed_score": 0.36207664884135476
+      }
+    },
+    {
+      "season": 2020,
+      "k": 5,
+      "n_full": 58,
+      "n_complete_target": 32,
+      "partial_or_unknown_target_rows": 26,
+      "answer_sha256": "f6fbe1e54703c60c2c0c284995398f4bd2b5ea167c7c20767b40eac78b4a181e",
+      "training": {
+        "predictions_csv_sha256": "6a4bd9e95eac5af3e36e6cb270b87462c82dd03beb4ce32531f91d340602c93e",
+        "predictions_json_sha256": "cc14a4d79c13deaec5d2df0a912ad03633696dadbf5c6ce3018c6d4e144406d3",
+        "completion_sha256": "5ec5429e6ef509c531bbe937b83f91190ef9f593482ed3b71a9fec29628a97a2",
+        "rows": 58,
+        "training_rows": 806,
+        "actual_admitted_label_max": 2019,
+        "source_export_label_max": 2019,
+        "input_manifest_sha256": "0523a77222817bc4a783a1cacaf081b46a2781aea3699467ab52e06d39f63ddf"
+      },
+      "full_legacy": {
+        "score": 0.263294725876294,
+        "seed_0": 0.2569837588859139,
+        "seed_101": 0.26510583626480544,
+        "seed_202": 0.2679362571695707,
+        "draft": 0.35021071088006406,
+        "mean_seed_score": 0.26334195077343003
+      },
+      "complete_target_subset": {
+        "score": 0.09220053196087603,
+        "seed_0": 0.07368035190615835,
+        "seed_101": 0.07734604105571846,
+        "seed_202": 0.09274193548387095,
+        "draft": 0.08247800586510264,
+        "mean_seed_score": 0.08125610948191592
+      }
+    },
+    {
+      "season": 2021,
+      "k": 5,
+      "n_full": 56,
+      "n_complete_target": 33,
+      "partial_or_unknown_target_rows": 23,
+      "answer_sha256": "1df6b0441d0c818e888f0bdce49479a57778d939511c70a78e94bdddfd86066b",
+      "training": {
+        "predictions_csv_sha256": "fa27ef5a8ed05e7bc455e538a9097a26efd86e5504775a94eb65b515cf5cbf7e",
+        "predictions_json_sha256": "1fd8dbb985f3394386e113ac71ab6b6421435c17245debf81aac6eb3d889d58b",
+        "completion_sha256": "0109d745d85c3d9b02f8ab31d753e60c29290498f2c43033810e907310cb4da2",
+        "rows": 56,
+        "training_rows": 859,
+        "actual_admitted_label_max": 2020,
+        "source_export_label_max": 2020,
+        "input_manifest_sha256": "7fd3f343f6bdd4d3d1b95796bfc8152d5d1104d4ce6c33a73466a6c458499dfd"
+      },
+      "full_legacy": {
+        "score": 0.3783026304196083,
+        "seed_0": 0.38717615785311177,
+        "seed_101": 0.366600588729915,
+        "seed_202": 0.383963361345503,
+        "draft": 0.4084073820915926,
+        "mean_seed_score": 0.3792467026428432
+      },
+      "complete_target_subset": {
+        "score": 0.3623600251182466,
+        "seed_0": 0.3730258223101532,
+        "seed_101": 0.3523021655151447,
+        "seed_202": 0.37202306472329794,
+        "draft": 0.4375,
+        "mean_seed_score": 0.3657836841828653
+      }
+    },
+    {
+      "season": 2022,
+      "k": 4,
+      "n_full": 52,
+      "n_complete_target": 39,
+      "partial_or_unknown_target_rows": 13,
+      "answer_sha256": "c07ea8fdb36bad17de230c3ecbefc8b03ceb4bce67b2d2d45d4f52e896ffad67",
+      "training": {
+        "predictions_csv_sha256": "e08807dc2f4375d83b0b846149958e475f177cf6e99ff092148081dc6a831d7a",
+        "predictions_json_sha256": "c8eceea012199465a6e8d6b0f6a3f3ae6fa138f75f9f4cd0526b89b9e5f8c1fa",
+        "completion_sha256": "04aec1bbd692c4c2a733539cc94a6a8490c0e4952fd45b92bdbfdd185f1ac4b1",
+        "rows": 52,
+        "training_rows": 913,
+        "actual_admitted_label_max": 2021,
+        "source_export_label_max": 2021,
+        "input_manifest_sha256": "3e5dfdc62b560c8466e3333c87c6466cc4090519588116fde7dab91409f2636a"
+      },
+      "full_legacy": {
+        "score": 0.18776416496917717,
+        "seed_0": 0.18613388045989493,
+        "seed_101": 0.20192964554479428,
+        "seed_202": 0.18237704984510805,
+        "draft": 0.2623580636899172,
+        "mean_seed_score": 0.19014685861659908
+      },
+      "complete_target_subset": {
+        "score": 0.22622602387391227,
+        "seed_0": 0.22327935222672063,
+        "seed_101": 0.2388663967611336,
+        "seed_202": 0.2161943319838057,
+        "draft": 0.25404858299595146,
+        "mean_seed_score": 0.22611336032388663
+      }
+    },
+    {
+      "season": 2023,
+      "k": 3,
+      "n_full": 56,
+      "n_complete_target": 46,
+      "partial_or_unknown_target_rows": 10,
+      "answer_sha256": "4281e90cf80d2ae4af06d4e42c8e2f0178b45241b9ace7a1385c46e3c619e0b8",
+      "training": {
+        "predictions_csv_sha256": "82f1c6f43ab043ddda584f53b8b6e3ecf574860979b6b583c6dd5bb873800394",
+        "predictions_json_sha256": "0ee100488dd7fed958463b9f98047dc20bb97c2554bdbd45f39c0515eb76547b",
+        "completion_sha256": "594f381d3fd7b816cd34244887b92e712396e2266d8c7f556e75fcfef876f89b",
+        "rows": 56,
+        "training_rows": 968,
+        "actual_admitted_label_max": 2022,
+        "source_export_label_max": 2022,
+        "input_manifest_sha256": "fd8c74028832807718835d41c1c0e9059fbea2d361cb5151d3f1998f707f5083"
+      },
+      "full_legacy": {
+        "score": 0.3717488635975255,
+        "seed_0": 0.37116150315574925,
+        "seed_101": 0.37690322806644594,
+        "seed_202": 0.37724499740636835,
+        "draft": 0.1106307353328877,
+        "mean_seed_score": 0.37510324287618785
+      },
+      "complete_target_subset": {
+        "score": 0.33593388649602296,
+        "seed_0": 0.33617021276595743,
+        "seed_101": 0.3371569534381745,
+        "seed_202": 0.34270736971939564,
+        "draft": 0.17853839037927846,
+        "mean_seed_score": 0.3386781786411759
+      }
+    },
+    {
+      "season": 2024,
+      "k": 2,
+      "n_full": 55,
+      "n_complete_target": 51,
+      "partial_or_unknown_target_rows": 4,
+      "answer_sha256": "f99ecd3f3bfe03ee59bacfb7a5319449d8596c699a09a864f4e5dc398ad9c6be",
+      "training": {
+        "predictions_csv_sha256": "e5dc8f803e4e21f72f81f2b46945663314c312ac432d3db264dd5e9df93cae8d",
+        "predictions_json_sha256": "c4bbcf1e7457d5de7a7a06f0070f333c09645a2ac96e55d2b4e52feb9b0a1796",
+        "completion_sha256": "f58371a517cf6e841439923f2d9f5dfa911ee1616554da032c18c5c97dca58be",
+        "rows": 55,
+        "training_rows": 968,
+        "actual_admitted_label_max": 2022,
+        "source_export_label_max": 2022,
+        "input_manifest_sha256": "fcffb1069e6cb620a4d7c3f672f1f04159aca4f1cb82464be83a301e08db24a6"
+      },
+      "full_legacy": {
+        "score": 0.23062487898626477,
+        "seed_0": 0.2298282338548972,
+        "seed_101": 0.23195727543088068,
+        "seed_202": 0.23733400754650005,
+        "draft": 0.13403326556845988,
+        "mean_seed_score": 0.23303983894409264
+      },
+      "complete_target_subset": {
+        "score": 0.2402163875920064,
+        "seed_0": 0.2383161721720038,
+        "seed_101": 0.24094149752546556,
+        "seed_202": 0.24818377436260144,
+        "draft": 0.1311460580855982,
+        "mean_seed_score": 0.24248048135335695
+      }
+    },
+    {
+      "season": 2025,
+      "k": 1,
+      "n_full": 57,
+      "n_complete_target": 55,
+      "partial_or_unknown_target_rows": 2,
+      "answer_sha256": "af4ded166e824c86d44ac06936510940966b54b60fa812a4b0cd17a6cc791878",
+      "training": {
+        "predictions_csv_sha256": "0ae0b6ce5794b396dfe4d34d9159b7efb0f1855b73f5bbe35061bdfcbe4330d1",
+        "predictions_json_sha256": "c00e36958e2dd1335bb20b5b5e709dd1fd8db030e5b7d89075e60fbf5aa89a71",
+        "completion_sha256": "6fe89902243a79aceb4cf646d931e899f3e3fa8c768c01beeca1f30032edfc57",
+        "rows": 57,
+        "training_rows": 968,
+        "actual_admitted_label_max": 2022,
+        "source_export_label_max": 2022,
+        "input_manifest_sha256": "01084be5fc08351d604695464de2eb58ca04de651fff1e4a9b54e8e3a0f4d628"
+      },
+      "full_legacy": {
+        "score": 0.4273397618258288,
+        "seed_0": 0.4298562613451258,
+        "seed_101": 0.4286246743790461,
+        "seed_202": 0.42126756276588595,
+        "draft": 0.17640862779925506,
+        "mean_seed_score": 0.42658283283001924
+      },
+      "complete_target_subset": {
+        "score": 0.4327230089997831,
+        "seed_0": 0.43655976073721064,
+        "seed_101": 0.4335654247202543,
+        "seed_202": 0.42656661523483835,
+        "draft": 0.17691835936329894,
+        "mean_seed_score": 0.4322306002307678
+      }
+    }
+  ],
+  "aggregate": {
+    "full_legacy": {
+      "score": 0.30870833693517585,
+      "seed_0": 0.30870480707963527,
+      "seed_101": 0.31317258089815014,
+      "seed_202": 0.3095749561793764,
+      "draft": 0.263454796971999,
+      "mean_seed_score": 0.31048411471905396,
+      "cohorts_with_defined_ensemble_correlation": 7
+    },
+    "complete_target_subset": {
+      "score": 0.29257264622391127,
+      "seed_0": 0.2906152961696747,
+      "seed_101": 0.29264199814818304,
+      "seed_202": 0.2947223041344236,
+      "draft": 0.21274843176538272,
+      "mean_seed_score": 0.29265986615076045,
+      "cohorts_with_defined_ensemble_correlation": 7
+    }
+  },
+  "limitations": [
+    "Originalbenchmarkpreviouslyreused,notuntouchedholdout",
+    "Originalprovidedplayerpoolhistoricallyincomplete;fullmeansfullavailablebenchmarknotallhistoricaldraftpicks",
+    "Collegepredraftannualtablesretrospectivelycollected; originalpublicationvintageanduniformschedulecoverageuncertified",
+    "2024/2025traininghasverifiedcalendaronlythrough2022;laterallowedseasonsnotinvented",
+    "Complete-targetsubsetselectsplayerswithsufficientobservedcareerlengthandisnotfullclassaccuracy",
+    "MetricisSpearmanrankcorrelation\u00d7100,notpercentcorrectdraftpositions"
+  ],
+  "no_test_feedback_tuning": true,
+  "new_model_promotion": false
+}

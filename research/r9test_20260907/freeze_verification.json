@@ -1,0 +1,48 @@
+{
+  "passed": true,
+  "updated_utc": "2026-09-07T08:37:40.769728+00:00",
+  "frozen_code_sha256": "519a5a042b870c437b96e19804a32d2f33344325c65a70fd7dbaeef40aa1bcca",
+  "recipe_sha256": "d520d1e100b4d7bc4bfcd56699c809fc9e424333647fc52c66395461c92228ba",
+  "scoring_policy_sha256": "a408c6757e9d87b6cc3da5f86f44d011281b220cf4db4b5945e2d96b709813b2",
+  "year_orchestrator_sha256": "8d6178cd31d7071d275b7630c57eeab2b34d4ac5a0803b04996538874a8a3ad2",
+  "source_admission_sha256": "e49650dec38763f6984140ab32520ed93953173615848bf5c6f66d44257b9cd1",
+  "runtime_support_sha256": "78d0d9c354b2939a97d0d22f7bf16e462a03d15f2f14c5a7652677539fb131ee",
+  "runtime_checkpoint_paths": 5,
+  "code_files_verified": 10,
+  "launchers_verified": 3,
+  "year_manifest_sha256": {
+    "2019": "2b25a9e7d073a8660920d7156992139ead5e145ca924c1ab55230595252c9cec",
+    "2020": "0523a77222817bc4a783a1cacaf081b46a2781aea3699467ab52e06d39f63ddf",
+    "2021": "7fd3f343f6bdd4d3d1b95796bfc8152d5d1104d4ce6c33a73466a6c458499dfd",
+    "2022": "3e5dfdc62b560c8466e3333c87c6466cc4090519588116fde7dab91409f2636a",
+    "2023": "fd8c74028832807718835d41c1c0e9059fbea2d361cb5151d3f1998f707f5083",
+    "2024": "fcffb1069e6cb620a4d7c3f672f1f04159aca4f1cb82464be83a301e08db24a6",
+    "2025": "01084be5fc08351d604695464de2eb58ca04de651fff1e4a9b54e8e3a0f4d628"
+  },
+  "data_files_verified": 21,
+  "query_counts": [
+    58,
+    58,
+    56,
+    52,
+    56,
+    55,
+    57
+  ],
+  "admitted_training_counts": [
+    750,
+    806,
+    859,
+    913,
+    968,
+    968,
+    968
+  ],
+  "FP64_roundtrips_exact": true,
+  "old1428_H_rows_exact": true,
+  "reference_gate_sha256": "2d7ef07f870898a8c8ff47991689d5f82069d0d1f55628bf5ed2e1e0230adaed",
+  "exact_reference_fits": 9,
+  "target_fits_run": 0,
+  "test_scores_computed": false,
+  "awaiting_parent_final_approval": true
+}

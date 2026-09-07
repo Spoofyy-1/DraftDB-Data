@@ -1,0 +1,54 @@
+{
+  "passed": true,
+  "recipe_sha256": "d520d1e100b4d7bc4bfcd56699c809fc9e424333647fc52c66395461c92228ba",
+  "checks": [
+    {
+      "year": 2012,
+      "seed": 0,
+      "all_raw_canonical_predictions_tie_audits_effective_settings_exact": true
+    },
+    {
+      "year": 2012,
+      "seed": 101,
+      "all_raw_canonical_predictions_tie_audits_effective_settings_exact": true
+    },
+    {
+      "year": 2012,
+      "seed": 202,
+      "all_raw_canonical_predictions_tie_audits_effective_settings_exact": true
+    },
+    {
+      "year": 2013,
+      "seed": 0,
+      "all_raw_canonical_predictions_tie_audits_effective_settings_exact": true
+    },
+    {
+      "year": 2013,
+      "seed": 101,
+      "all_raw_canonical_predictions_tie_audits_effective_settings_exact": true
+    },
+    {
+      "year": 2013,
+      "seed": 202,
+      "all_raw_canonical_predictions_tie_audits_effective_settings_exact": true
+    },
+    {
+      "year": 2014,
+      "seed": 0,
+      "all_raw_canonical_predictions_tie_audits_effective_settings_exact": true
+    },
+    {
+      "year": 2014,
+      "seed": 101,
+      "all_raw_canonical_predictions_tie_audits_effective_settings_exact": true
+    },
+    {
+      "year": 2014,
+      "seed": 202,
+      "all_raw_canonical_predictions_tie_audits_effective_settings_exact": true
+    }
+  ],
+  "reference_seed_runs": 3,
+  "reference_fold_fits": 9,
+  "test_inputs_or_outcomes_accessed": false
+}

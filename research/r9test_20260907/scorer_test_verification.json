@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "checks": [
+    "all7predictionsrequired",
+    "freezebeforeanyanswerexists",
+    "predictiontamperrejectedbeforeledger",
+    "fulllegacyandobservedsubsetseparate",
+    "all7cohortsaveraged",
+    "duplicatecallidempotentwithoutrescoring"
+  ],
+  "fixtures": "synthetic unit fixtures only, never model data",
+  "scorer_sha256": "b01845371d30d3c845dab75492709513b730402c168d6e1c8b58ecf4475415f7"
+}

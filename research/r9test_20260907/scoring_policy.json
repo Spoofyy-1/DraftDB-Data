@@ -1,0 +1,57 @@
+{
+  "protocol": "R9test H observed-two-season recipe on2019\u20132025 original drafted benchmark",
+  "selected_variant": "s2000_gap1_drafted_h2_E_tabicl16_o0p5",
+  "source_H_freeze": "22e68b8bee7902d65ed0f1c7a2d04bde3fc6521f5f872339faead15416c24d0e",
+  "authorization": "User explicitly requested this57.9%development-model test; noIscoreselection",
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "seeds": [
+    0,
+    101,
+    202
+  ],
+  "horizons": {
+    "2019": 5,
+    "2020": 5,
+    "2021": 5,
+    "2022": 4,
+    "2023": 3,
+    "2024": 2,
+    "2025": 1
+  },
+  "training": "Earlier cohorts,observedfiniteordinal1+2,actualseason_end\u2264Y\u22121,start2000,draftedmembers only,within-admitted-cohortGaussianrankafterclippingcumulativeWAR\u00b140",
+  "primary_aggregation": "Fixed equal-three-seed percentile-rank average over original drafted query pool, exact doubled-integer tied ranks/(6*n); no best-seed selection",
+  "also_report": "Each seed separately and mean of three seed scores peryear;H57.9developmentfigure wasmean ninefold/seed scores,notfixedensemble",
+  "primary_metric": "Unweighted seven-cohort mean Spearman on full original available drafted benchmark; legacy missing ordinal truth values contributezero as existing benchmark, explicitly labeledlegacy",
+  "secondary_metric": "Same predictions restricted only in scorer to players with all firstkfiniteoutcomevalues; complete-target subset, no horizon/mask change based onresults; reportN",
+  "comparator": "Negative actual_pick versusidenticaltruth onidenticalpool;actualpickscoreronly",
+  "minimum_n_for_correlation": 3,
+  "all_predictions_before_answers": true,
+  "scoring_once_per_frozen_prediction_set": true,
+  "no_test_feedback_tuning": true,
+  "training_calendar_actual_max": {
+    "2019": 2018,
+    "2020": 2019,
+    "2021": 2020,
+    "2022": 2021,
+    "2023": 2022,
+    "2024": 2022,
+    "2025": 2022
+  },
+  "limitations": [
+    "Originalbenchmarkpreviouslyreused,notuntouchedholdout",
+    "Originalprovidedplayerpoolhistoricallyincomplete;fullmeansfullavailablebenchmarknotallhistoricaldraftpicks",
+    "Collegepredraftannualtablesretrospectivelycollected; originalpublicationvintageanduniformschedulecoverageuncertified",
+    "2024/2025traininghasverifiedcalendaronlythrough2022;laterallowedseasonsnotinvented",
+    "Complete-targetsubsetselectsplayerswithsufficientobservedcareerlengthandisnotfullclassaccuracy",
+    "MetricisSpearmanrankcorrelation\u00d7100,notpercentcorrectdraftpositions"
+  ],
+  "frozen_before_test_prediction_utc": "2026-09-07T08:25:24.375138+00:00"
+}

@@ -1,0 +1,81 @@
+{
+  "frozen_at_utc": "2026-09-07T08:41:54.539848+00:00",
+  "all_seven_predictions_complete_before_answers": true,
+  "scoring_policy_sha256": "a408c6757e9d87b6cc3da5f86f44d011281b220cf4db4b5945e2d96b709813b2",
+  "scorer_sha256": "b01845371d30d3c845dab75492709513b730402c168d6e1c8b58ecf4475415f7",
+  "approval_sha256": "37100d9fc186e6295e52c0293404dea4f36281369fc1f60fd3c8cbc953cf15c0",
+  "frozen_code_sha256": "519a5a042b870c437b96e19804a32d2f33344325c65a70fd7dbaeef40aa1bcca",
+  "recipe_sha256": "d520d1e100b4d7bc4bfcd56699c809fc9e424333647fc52c66395461c92228ba",
+  "years": {
+    "2019": {
+      "predictions_csv_sha256": "251c367ca2b684c5be4d8271d2399695cd42cd5d6d2a75630f5fe91b91c9bc7c",
+      "predictions_json_sha256": "8813973667f6403e73da235f944e5be4e8cc5336bb732a3340fad4e232d14711",
+      "completion_sha256": "3a872281e44ee058fac046110bbe03fc71c98d6a47edadc3c7b36b6176eab44e",
+      "rows": 58,
+      "training_rows": 750,
+      "actual_admitted_label_max": 2018,
+      "source_export_label_max": 2018,
+      "input_manifest_sha256": "2b25a9e7d073a8660920d7156992139ead5e145ca924c1ab55230595252c9cec"
+    },
+    "2020": {
+      "predictions_csv_sha256": "6a4bd9e95eac5af3e36e6cb270b87462c82dd03beb4ce32531f91d340602c93e",
+      "predictions_json_sha256": "cc14a4d79c13deaec5d2df0a912ad03633696dadbf5c6ce3018c6d4e144406d3",
+      "completion_sha256": "5ec5429e6ef509c531bbe937b83f91190ef9f593482ed3b71a9fec29628a97a2",
+      "rows": 58,
+      "training_rows": 806,
+      "actual_admitted_label_max": 2019,
+      "source_export_label_max": 2019,
+      "input_manifest_sha256": "0523a77222817bc4a783a1cacaf081b46a2781aea3699467ab52e06d39f63ddf"
+    },
+    "2021": {
+      "predictions_csv_sha256": "fa27ef5a8ed05e7bc455e538a9097a26efd86e5504775a94eb65b515cf5cbf7e",
+      "predictions_json_sha256": "1fd8dbb985f3394386e113ac71ab6b6421435c17245debf81aac6eb3d889d58b",
+      "completion_sha256": "0109d745d85c3d9b02f8ab31d753e60c29290498f2c43033810e907310cb4da2",
+      "rows": 56,
+      "training_rows": 859,
+      "actual_admitted_label_max": 2020,
+      "source_export_label_max": 2020,
+      "input_manifest_sha256": "7fd3f343f6bdd4d3d1b95796bfc8152d5d1104d4ce6c33a73466a6c458499dfd"
+    },
+    "2022": {
+      "predictions_csv_sha256": "e08807dc2f4375d83b0b846149958e475f177cf6e99ff092148081dc6a831d7a",
+      "predictions_json_sha256": "c8eceea012199465a6e8d6b0f6a3f3ae6fa138f75f9f4cd0526b89b9e5f8c1fa",
+      "completion_sha256": "04aec1bbd692c4c2a733539cc94a6a8490c0e4952fd45b92bdbfdd185f1ac4b1",
+      "rows": 52,
+      "training_rows": 913,
+      "actual_admitted_label_max": 2021,
+      "source_export_label_max": 2021,
+      "input_manifest_sha256": "3e5dfdc62b560c8466e3333c87c6466cc4090519588116fde7dab91409f2636a"
+    },
+    "2023": {
+      "predictions_csv_sha256": "82f1c6f43ab043ddda584f53b8b6e3ecf574860979b6b583c6dd5bb873800394",
+      "predictions_json_sha256": "0ee100488dd7fed958463b9f98047dc20bb97c2554bdbd45f39c0515eb76547b",
+      "completion_sha256": "594f381d3fd7b816cd34244887b92e712396e2266d8c7f556e75fcfef876f89b",
+      "rows": 56,
+      "training_rows": 968,
+      "actual_admitted_label_max": 2022,
+      "source_export_label_max": 2022,
+      "input_manifest_sha256": "fd8c74028832807718835d41c1c0e9059fbea2d361cb5151d3f1998f707f5083"
+    },
+    "2024": {
+      "predictions_csv_sha256": "e5dc8f803e4e21f72f81f2b46945663314c312ac432d3db264dd5e9df93cae8d",
+      "predictions_json_sha256": "c4bbcf1e7457d5de7a7a06f0070f333c09645a2ac96e55d2b4e52feb9b0a1796",
+      "completion_sha256": "f58371a517cf6e841439923f2d9f5dfa911ee1616554da032c18c5c97dca58be",
+      "rows": 55,
+      "training_rows": 968,
+      "actual_admitted_label_max": 2022,
+      "source_export_label_max": 2022,
+      "input_manifest_sha256": "fcffb1069e6cb620a4d7c3f672f1f04159aca4f1cb82464be83a301e08db24a6"
+    },
+    "2025": {
+      "predictions_csv_sha256": "0ae0b6ce5794b396dfe4d34d9159b7efb0f1855b73f5bbe35061bdfcbe4330d1",
+      "predictions_json_sha256": "c00e36958e2dd1335bb20b5b5e709dd1fd8db030e5b7d89075e60fbf5aa89a71",
+      "completion_sha256": "6fe89902243a79aceb4cf646d931e899f3e3fa8c768c01beeca1f30032edfc57",
+      "rows": 57,
+      "training_rows": 968,
+      "actual_admitted_label_max": 2022,
+      "source_export_label_max": 2022,
+      "input_manifest_sha256": "01084be5fc08351d604695464de2eb58ca04de651fff1e4a9b54e8e3a0f4d628"
+    }
+  }
+}

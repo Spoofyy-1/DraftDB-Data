@@ -1,0 +1,10 @@
+{
+  "approved": true,
+  "scope": "Parent authorized nine development H replay fits only; no2019+fits yet",
+  "recipe_sha256": "d520d1e100b4d7bc4bfcd56699c809fc9e424333647fc52c66395461c92228ba",
+  "frozen_code_sha256": "519a5a042b870c437b96e19804a32d2f33344325c65a70fd7dbaeef40aa1bcca",
+  "CPU_threads": 2,
+  "memory_bytes": 25769803776,
+  "runtime_seconds": 1800,
+  "free_GPU_minimum_MiB": 20480
+}

@@ -1,0 +1,25 @@
+{
+  "source_input_manifest_sha256": "8967e98b194a4739d56fda65e1ef794a3efa7270b274f33fff89ee32dfb5f973",
+  "scoped_diagnostic_admission": true,
+  "global_model_eligible_flag_unchanged_false": true,
+  "old_H_rows_must_remain_exact": 1428,
+  "query_was_drafted_counts": {
+    "2019": 58,
+    "2020": 58,
+    "2021": 56,
+    "2022": 52,
+    "2023": 56,
+    "2024": 55,
+    "2025": 57
+  },
+  "source_limitations": [
+    "College tables are retrospective annual snapshots. Season<=draft year and latest season gap<=1 are checked; individual game dates and original publication vintages are not established by these annual files.",
+    "Original raw context definitions are deliberately preserved. D1-subset count totals and some appended per-game denominators are not uniformly the same subset; no opportunistic repairs were made.",
+    "College identity pointers inherit exact normalized name plus unique same-year source-player-ID checks; no new aliases or fuzzy matches are introduced.",
+    "Mock sources prove dated pre-draft availability, but coverage/publisher quality varies. 2019 and2020 have serious partial top15 Walter lists;2021 onward has only one publisher, so rank range stays missing.",
+    "Input population is the full original provided universe, whose historical construction remains uncertified. The server input-file was_drafted metadata is projected separately and never enters predictors. Future-cohort membership is for matching the specified drafted query population only; expanding training may use it only after that cohort draft date.",
+    "Old2000\u20132018 cohort predictor values and1428 study rows must be copied from H frozen source by the evaluation builder; this package only checks their38-context definitions and does not replace that base.",
+    "All candidates require explicit parent diagnostic admission; model_eligible remainsfalse. No outcomes, test answers, labels, benchmark performance, network or model calls were used."
+  ],
+  "parent_authorization": "Root approved exact14CSV source projection and independently reviewed six tests; root authorized only development GPU references before finaltarget approval."
+}

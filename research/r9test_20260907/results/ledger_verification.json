@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "prediction_freeze_sha256": "443cf9dab191de42a09ca393346969f42e6229a1137b002dd9a99a29eb35076f",
+  "matching_ledger_entries": 1,
+  "ledger_tail_sha256": "9e315bc1be1d3ddb57896f976e9851b3e0b8ef61e98af14fbf13caedb87b3fac",
+  "stored_result_matches_ledger": true,
+  "scores_recomputed": false,
+  "test_answers_reopened": false
+}
