@@ -1,0 +1,36 @@
+{
+  "verified": true,
+  "time": 1788780279.5713687,
+  "unit": "draftdb-r9m-20260907",
+  "systemd": "ActiveState=active\nSubState=running\nInvocationID=7f9240a9de7b4dbaaffc890f5edd0fb1",
+  "state": {
+    "phase": "R9M feature combinations and cross-panel fixed family stacks",
+    "status": "running",
+    "completed": 10,
+    "total": 24,
+    "new_jobs_completed": 4,
+    "active_workers": 4,
+    "error": null,
+    "model_fits_completed": 36,
+    "model_fits_registered": 162,
+    "reused_control_records": 6,
+    "reference_gate": {
+      "passed": true,
+      "reused_records": 6,
+      "new_control_fits": 0,
+      "reused_original_model_fits": 54,
+      "source_records_unchanged": true,
+      "exact_member_fold_seed_vectors": 90,
+      "L_frozen_sha256": "db5f0f5bccf62f923cd84fbc7e7cba42055f2236bec9bb9c5865b350af260af0",
+      "source_record_hash_manifest_sha256": "6eb4352349b2a22bda5c8bd5f7f853e36ba7ff363d46ba8847bb8af162f67c41",
+      "source_completed_log_sha256": "5443805583603156ec5e564dd10ae14a462c0174cd6e236451fea982b7f058f0",
+      "source_manifest_sha256": "6db6a92c927be7cc4b88bad555a8df4291bb4a98e3012128d4837ce9771429da",
+      "before_new_panel_fits": true
+    }
+  },
+  "gpu_percent": 99,
+  "gpu_memory_mib": 47032,
+  "dashboard_API_phase_verified": true,
+  "dashboard_cross_view_section_present": true,
+  "benchmark_score_unchanged": 0.30870833693517585
+}
