@@ -1,0 +1,30 @@
+{
+  "verified": true,
+  "checked_at_utc": "2026-09-07T13:06:06.311653+00:00",
+  "transfer_sha256": "808145cec6e183a5dc9347531246595736c760fc235c887d3c446a04b1a4737e",
+  "transfer_bytes": 2397696,
+  "public_files_before_this_proof": 38,
+  "public_bytes_before_this_proof": 2981754,
+  "source_allowlist_sha256": "beea9ebf5caaa87ea94ae45ac4af86a78401d6c0018ece5206afcf94595ef2c5",
+  "all_archive_members_regular_safe_and_allowlisted": true,
+  "all_member_hashes_and_sizes_verified": true,
+  "all_compressed_files_exactly_restore_original_hashes": true,
+  "all16derived_CSV_schemas_rows_and_hashes_verified": true,
+  "predictor_columns": [
+    "pid",
+    "draft_year",
+    "exact127column_frozen_allowlist"
+  ],
+  "metadata_columns": [
+    "pid",
+    "draft_year",
+    "was_drafted"
+  ],
+  "NBA_WAR_label_or_actual_draft_order_columns_present": false,
+  "scientific_manifest_sha256": "9ba8624cfe079fb1a91f80e0c10a662a0694f29ddafcf4f0e9bcfd3995c58225",
+  "scientific_verification_sha256": "7bd7e1a46d8abcd75c3dd6ffaa2822503764c3315c2e8680a4400eeaa479641e",
+  "scientific_files_unchanged": true,
+  "raw_future_source_bytes_retained_remote": 75174983,
+  "copied_directly_to_repository_without_work_cache": true,
+  "commit_or_push_performed": false
+}

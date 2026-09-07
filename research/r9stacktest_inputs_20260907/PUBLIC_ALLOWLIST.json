@@ -1,0 +1,157 @@
+{
+  "policy": "Copy only these listed files and this allowlist. No NBA WAR labels, outcomes, actual draft order, model-worker input bundles, or private OOF records.",
+  "files": {
+    "COMPRESSION_MANIFEST.json": {
+      "sha256": "7e049b049b57551e80e67cc208ce2308a4eee4bae0068177d6684c7280d7453a",
+      "bytes": 11926
+    },
+    "README.md": {
+      "sha256": "96b038f41856cf47f2227411eb440786b55027dcc8be80132d215a8032445352",
+      "bytes": 1578
+    },
+    "REMOTE_SOURCE_MANIFEST.json": {
+      "sha256": "e3a06042a427c10c227ea33333648b42df76b88a13ced36212724a177c2bd8ec",
+      "bytes": 15289
+    },
+    "SCIENTIFIC_README.md": {
+      "sha256": "30c31fca51a49d717d3ac1e9a7ab44ca42e292d1fa72bfc7ce2eefefc36e05eb",
+      "bytes": 2379
+    },
+    "build.py": {
+      "sha256": "2146ac502990fe9f85d0b037d4a338659008a0fcda36d2c08a0800f0ba8fd90a",
+      "bytes": 13204
+    },
+    "fetch.py": {
+      "sha256": "3d534d0647c8e90e74652c1a14f4e94052651746023e61cf2098e7a51acfacaa",
+      "bytes": 1656
+    },
+    "package/features_2019.csv.gz": {
+      "sha256": "459d24ae11bf271722a2d2c9e0e009aa1109f85698568f9e1f2d23acd4bdf4b8",
+      "bytes": 77876
+    },
+    "package/features_2020.csv.gz": {
+      "sha256": "094595cb48b6292ee1222850b61bd60d325dfa0221fa99631d078f611c3fcb15",
+      "bytes": 57321
+    },
+    "package/features_2021.csv.gz": {
+      "sha256": "54ffb42508ca27b1f7db864add7f093964f58ad1e08fae02287e42f557e0a852",
+      "bytes": 134272
+    },
+    "package/features_2022.csv.gz": {
+      "sha256": "ade09639773cefe05463c560485efc1d9c9d9c3c90c7bc891967e591ea542857",
+      "bytes": 52561
+    },
+    "package/features_2023.csv.gz": {
+      "sha256": "881a4ab066cabf18f10ccd1dfd6fd53d56cb96aabcade0444d33ed1905efaf2f",
+      "bytes": 53198
+    },
+    "package/features_2024.csv.gz": {
+      "sha256": "a45c237123173575c6629c8727fcc59ed75fa38075aecbc68c3d491dca7a012b",
+      "bytes": 58340
+    },
+    "package/features_2025.csv.gz": {
+      "sha256": "23dcfbf359407aa5e40b4e76edf975a0378b2a9e3f9007977cc770393b843d6e",
+      "bytes": 58259
+    },
+    "package/features_pre2019.csv.gz": {
+      "sha256": "8630b315e5bf599050fd696226af66f2f628f3557706f314f238009dfb4e14c1",
+      "bytes": 445478
+    },
+    "package/manifest.json": {
+      "sha256": "9ba8624cfe079fb1a91f80e0c10a662a0694f29ddafcf4f0e9bcfd3995c58225",
+      "bytes": 86176
+    },
+    "package/metadata_2019.csv.gz": {
+      "sha256": "4a9eb0d34cc3317c391edb96d65358eb04e8365bbc9a4b2ba2082adda1500fae",
+      "bytes": 1028
+    },
+    "package/metadata_2020.csv.gz": {
+      "sha256": "f0113f618d33cef69977ea5c4625b09d946c75c3365b70e667b5184bb1c1e71e",
+      "bytes": 852
+    },
+    "package/metadata_2021.csv.gz": {
+      "sha256": "7508911be3710c6cace0bed48cd3e7c074a25f5a74f64f3dc118d7e19b481ec1",
+      "bytes": 1715
+    },
+    "package/metadata_2022.csv.gz": {
+      "sha256": "fa5ae6a286e5fe78036b95a314106152a55a704fffdd7df83fc04b6cc5a3aae9",
+      "bytes": 751
+    },
+    "package/metadata_2023.csv.gz": {
+      "sha256": "9b59598cb423958fb0749eb4eb074da9c5e483b382c5c040b0187cd87de4908d",
+      "bytes": 776
+    },
+    "package/metadata_2024.csv.gz": {
+      "sha256": "29450b9d48f2216b168ccd6fd3845ab54168be0cfc49fce3314bcb56c8fbbf22",
+      "bytes": 867
+    },
+    "package/metadata_2025.csv.gz": {
+      "sha256": "397992d20fb07fdb3dcc3013526f9893d76637d2c898a12ba4e3dc72616090f8",
+      "bytes": 807
+    },
+    "package/metadata_pre2019.csv.gz": {
+      "sha256": "0a968295e43ffbbdb8e1e5cff40d7331f3609e70cd146564902d163511cca861",
+      "bytes": 11177
+    },
+    "package/source_join_provenance.json.gz": {
+      "sha256": "cf71343bb3be7832258e9afbd3149c4f9ffff19c65ec6f8e45ddd02ff10d6dd4",
+      "bytes": 12006
+    },
+    "publish.py": {
+      "sha256": "78d3f4f20406c885e6ea46497c3db8955924dfdcfb201a28e63d082806b1cb9e",
+      "bytes": 6683
+    },
+    "source/base_manifest.json": {
+      "sha256": "8967e98b194a4739d56fda65e1ef794a3efa7270b274f33fff89ee32dfb5f973",
+      "bytes": 29802
+    },
+    "source/draft_dates.json": {
+      "sha256": "b49facf4effb21208ad86e250ad5cdda31b234056f5d289c8f23148f730bcdc0",
+      "bytes": 170
+    },
+    "source/fifty_manifest.json": {
+      "sha256": "a21ce504d1868671cb0ef5935bf29e0a4f6e7458119a9788468eef535f7421f8",
+      "bytes": 440612
+    },
+    "source/lineage.json.gz": {
+      "sha256": "b08c9165a096e1c97019ce4c03348576da3dfa907a916c175d64f47761497bea",
+      "bytes": 1230740
+    },
+    "source/local_pins.json": {
+      "sha256": "2f999f32af6bf893059b56d8d88546d5740914147be983a7e1cdf0d5321ee6cd",
+      "bytes": 3396
+    },
+    "source/reference_game_team.csv.gz": {
+      "sha256": "96133b96f3ce34062c8b41e428c7d86bb0bef0ceb6068c6bd7920fecff7295b2",
+      "bytes": 121569
+    },
+    "source_code/player_original.py": {
+      "sha256": "306af33d1c9b307e851cede40455716b98da3513756213cd5bc6d9d7d1b2c1ec",
+      "bytes": 14149
+    },
+    "source_code/team_features_original.py": {
+      "sha256": "19f4e1f48033e54863986d422b8893fc06a6634fbda2f239e357da08e43ca3db",
+      "bytes": 7978
+    },
+    "source_code/team_original.py": {
+      "sha256": "77fe50614eb163e38d8a5fa5091b7a7ad61fcd72cf4d903a7bd517ec07755446",
+      "bytes": 8671
+    },
+    "source_downloads.json": {
+      "sha256": "3ea75ec1c7ef89f3e940f25e8b36ae879c2206b3d14d769cca7d15d38ac2133e",
+      "bytes": 5243
+    },
+    "verification.json": {
+      "sha256": "7bd7e1a46d8abcd75c3dd6ffaa2822503764c3315c2e8680a4400eeaa479641e",
+      "bytes": 4210
+    },
+    "verify.py": {
+      "sha256": "3139a1f2ccf1ccad9f4dac5c16e0d2ced4f4f3156a1c93aa082c87533650e3e0",
+      "bytes": 3445
+    },
+    "publication_verification.json": {
+      "sha256": "d091a33e85a8e9fafb8341737421e97e56c4cc6aefed6ae3036a410173fdfb71",
+      "bytes": 1243
+    }
+  }
+}

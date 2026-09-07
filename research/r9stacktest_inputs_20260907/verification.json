@@ -1,0 +1,127 @@
+{
+  "status": "passed",
+  "manifest_sha256": "9ba8624cfe079fb1a91f80e0c10a662a0694f29ddafcf4f0e9bcfd3995c58225",
+  "checked_output_files": [
+    {
+      "file": "features_pre2019.csv",
+      "rows": 1428,
+      "sha256": "26c291973d146bf7334a532ddd66c52ba0af4048603e18bc138dbb53badc45b7"
+    },
+    {
+      "file": "metadata_pre2019.csv",
+      "rows": 1428,
+      "sha256": "9dd20ccc753b97ce1692e8343c2c2d1140dd418a41e7ec7bfe193a268fb5a98e"
+    },
+    {
+      "file": "features_2019.csv",
+      "rows": 137,
+      "sha256": "b83749d6932947473a0c5a409683710906a04d772dc654716b637a3f6cd4e2d9"
+    },
+    {
+      "file": "metadata_2019.csv",
+      "rows": 137,
+      "sha256": "5d1048206aaea6700d2553b358c89ef4e205f69ff29ab440dc10b36dbb7021a3"
+    },
+    {
+      "file": "features_2020.csv",
+      "rows": 112,
+      "sha256": "a34d3edf9dc0d7bfc4ef5a389e4a501768744820ff637e854460ba9690dc6e44"
+    },
+    {
+      "file": "metadata_2020.csv",
+      "rows": 112,
+      "sha256": "5dce864027d60659a64e60dc446a20cf352673ec03bc44d160cb6edf523f94ab"
+    },
+    {
+      "file": "features_2021.csv",
+      "rows": 233,
+      "sha256": "7fa6be4f6d762e0829e4142d3361cc611db6db0b30c5ab18fa6e36dde77b4b37"
+    },
+    {
+      "file": "metadata_2021.csv",
+      "rows": 233,
+      "sha256": "9cc1d1c69a7fb3cc7ab5c0d7ff74ab65857c49a610a831586e54d4e92d79302e"
+    },
+    {
+      "file": "features_2022.csv",
+      "rows": 97,
+      "sha256": "607a11b993d6c4ffe1c3c647b668021dd31e81999c94758c8a5dd0f7febe8b6c"
+    },
+    {
+      "file": "metadata_2022.csv",
+      "rows": 97,
+      "sha256": "83f1d21e609f3723b9fed47a32fe636e35b0a63ae089d5e4726c58e9edad248d"
+    },
+    {
+      "file": "features_2023.csv",
+      "rows": 101,
+      "sha256": "05d9db43f82c3b350869c3a8cb7d10a9639d84591c87a649068f872a275b09f9"
+    },
+    {
+      "file": "metadata_2023.csv",
+      "rows": 101,
+      "sha256": "ac7f27dec06cffcfac4c9c77983b8d876ba7cb01d70ccb6a0a4678a6c4c3489a"
+    },
+    {
+      "file": "features_2024.csv",
+      "rows": 114,
+      "sha256": "df97a88de6504538cb4b8cb516721756977a20dc42624c6ae2332419e474e9e6"
+    },
+    {
+      "file": "metadata_2024.csv",
+      "rows": 114,
+      "sha256": "18f184598c7c2b800a4a13f40ec96cd96b99ef081a76d3e72b54be92640d9e0d"
+    },
+    {
+      "file": "features_2025.csv",
+      "rows": 106,
+      "sha256": "ee8136cd1acff148494a20dd4cd46b41a0d7b0af19ab0b022f9810b0b242bec0"
+    },
+    {
+      "file": "metadata_2025.csv",
+      "rows": 106,
+      "sha256": "061bd2377c48dc3e6531890f8899f486b30f76b9a598445818d0cd14e277f422"
+    }
+  ],
+  "future_base44_exact": true,
+  "feature_only_column_allowlist": true,
+  "annual_pick_index45_excluded": true,
+  "future_group_dates_and_team_minimum_checked": true,
+  "invalid_player_game_fixtures": [
+    {
+      "field": 0,
+      "rejected": true
+    },
+    {
+      "field": 52,
+      "rejected": true
+    },
+    {
+      "field": 23,
+      "rejected": true
+    },
+    {
+      "field": 42,
+      "rejected": true
+    }
+  ],
+  "same_source_2018_reference_rows": 75,
+  "M_exact_feature_matrix_replays": 12,
+  "source_code_sha256": {
+    "build.py": "2146ac502990fe9f85d0b037d4a338659008a0fcda36d2c08a0800f0ba8fd90a",
+    "fetch.py": "3d534d0647c8e90e74652c1a14f4e94052651746023e61cf2098e7a51acfacaa",
+    "source_code/player_original.py": "306af33d1c9b307e851cede40455716b98da3513756213cd5bc6d9d7d1b2c1ec",
+    "source_code/team_features_original.py": "19f4e1f48033e54863986d422b8893fc06a6634fbda2f239e357da08e43ca3db",
+    "source_code/team_original.py": "77fe50614eb163e38d8a5fa5091b7a7ad61fcd72cf4d903a7bd517ec07755446"
+  },
+  "support_file_sha256": {
+    "source/reference_game_team.csv": "98f485709f136b5e4f716b6e15c877649fc48a7bb80fe38e9d9876317bebf596",
+    "raw/player_2018.bin": "f61dcd425f3141019d253f4552a96aa68b040782386f7dba1b36716492c271bd",
+    "raw/team_2018.bin": "d1442df152a7400ef0395a9063575a279e236587ebfbd2af49575018c23c5e70",
+    "source/torvik_2018.csv.gz": "d8f238e8e982f74a4265895e0e7ca5cdbf7aec61b81e515bd688ede4777417a0",
+    "source/local_pins.json": "2f999f32af6bf893059b56d8d88546d5740914147be983a7e1cdf0d5321ee6cd"
+  },
+  "models_run": 0,
+  "NBA_labels_or_scores_read": false,
+  "root_review_required_before_admission": true
+}

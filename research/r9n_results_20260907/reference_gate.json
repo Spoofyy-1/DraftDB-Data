@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "reused_records": 6,
+  "new_control_fits": 0,
+  "exact_member_fold_seed_vectors": 90,
+  "source_records_unchanged": true,
+  "M_frozen_sha256": "32a9ac2ec968ebb281027020e5a244eb9a040d589318b3c5dd577da9ece27b00",
+  "source_record_hash_manifest_sha256": "c9766fef62df7b7a86c35e720d48088ac4f9ff4b73927567620b222c6cfdb28d",
+  "source_completed_log_sha256": "759257056432fce91e7d4d605bb60ebe824b41fcba407cb7d98bbe7c9bb31d7d",
+  "exact_M_recipe_prediction_records": 24,
+  "both_frozen_metrics_exact": true,
+  "M_reference_recipes": [
+    "cross_0771",
+    "samepanel_stack_013"
+  ],
+  "before_new_profile_fits": true
+}

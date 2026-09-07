@@ -1,0 +1,411 @@
+{
+  "study": "R9N completed development selection",
+  "frozen_utc": "2026-09-07T12:48:35.074295+00:00",
+  "selected_architecture": "profile_stack_0820",
+  "recipe": {
+    "id": "profile_stack_0820",
+    "kind": "fixed_rank_weights",
+    "members": [
+      {
+        "family": "tabicl",
+        "units": 4,
+        "panel_id": "f50_game_team",
+        "profile_id": "none_o2p0_n16"
+      },
+      {
+        "family": "ridge_a30",
+        "units": 4,
+        "panel_id": "f50_game_team",
+        "profile_id": null
+      },
+      {
+        "family": "catboost",
+        "units": 4,
+        "panel_id": "base44",
+        "profile_id": null
+      }
+    ],
+    "weight_total": 12,
+    "design_aliases": [
+      {
+        "profile_id": "none_o2p0_n16",
+        "R_panel": "f50_game_team",
+        "C_panel": "base44",
+        "same_panel_recipe": "stack_015"
+      }
+    ]
+  },
+  "selection_rule": "Full-query mean ofall3folds/all3seeds is primary; observed mask secondary. Fixed-three-seed family rank average reported separately. Search scores are development diagnostics, not an unbiased holdout or goal claim.",
+  "selection_tiebreak": "Lexicographically smallest architecture id for an exact score tie; no seed selection",
+  "development_years": [
+    2012,
+    2013,
+    2014
+  ],
+  "seeds": [
+    0,
+    101,
+    202
+  ],
+  "aggregation_modes": [
+    0,
+    101,
+    202,
+    "fixed_three_seed_family_rank_average"
+  ],
+  "deployment_aggregation": "fixed_three_seed_family_rank_average; rank each canonical seed prediction within query cohort, average seed ranks per stochastic family, re-rank each family then fixed recipe weighted average; Ridge deterministic once",
+  "tabicl": {
+    "device": "cuda",
+    "n_estimators": 16,
+    "batch_size": 32,
+    "norm_methods": "none",
+    "outlier_threshold": 2.0
+  },
+  "tabicl_profile": {
+    "id": "none_o2p0_n16",
+    "norm_methods": "none",
+    "outlier_threshold": 2.0,
+    "n_estimators": 16
+  },
+  "ridge": {
+    "imputer": {
+      "strategy": "median",
+      "add_indicator": true,
+      "keep_empty_features": true
+    },
+    "scaler": {
+      "with_mean": true,
+      "with_std": true
+    },
+    "alphas": [
+      30,
+      300,
+      3000
+    ],
+    "solver": "svd"
+  },
+  "catboost": {
+    "parameters": {
+      "iterations": 600,
+      "task_type": "GPU",
+      "devices": "0",
+      "thread_count": 2,
+      "gpu_ram_part": 0.18,
+      "random_strength": 1,
+      "allow_writing_files": false,
+      "bootstrap_type": "Bayesian",
+      "boosting_type": "Plain",
+      "use_best_model": false,
+      "verbose": false,
+      "loss_function": "MAE",
+      "depth": 3,
+      "learning_rate": 0.1,
+      "l2_leaf_reg": 100,
+      "bagging_temperature": 1,
+      "nan_mode": "Max"
+    },
+    "checkpoint": 600,
+    "selection": "Verified I strongest standalone same h1 policy by full-pool mean of all3seeds/all3folds; chosen by parent before R9L fits. New shorter600-tree fit, not an exact replay of I1200-tree fit checkpoint600.",
+    "I_setting_id": "cb_mae_d3_lr0p1_l2100",
+    "I_plan_sha256": "8fbe7be1b057b2a7ba44c02d2922a410e91cc6b88c1d1938d56b47577d11a09e",
+    "I_frozen_sha256": "2939c20ea7e1decb0e418e87a30a7d2c60295bd063b6c2fac9ca52a2fd33f3a9",
+    "I_independent_verification_sha256": "b940c80af2c888ff15c235c9fc4954c12898a19e6ae60155bd4cb3bfeffc0b7b"
+  },
+  "panels": [
+    {
+      "id": "base44",
+      "families_added": [],
+      "columns": [
+        "ctx_base_ast_pct",
+        "ctx_base_ast_pg",
+        "ctx_base_ast_tov",
+        "ctx_base_blk_pct",
+        "ctx_base_blk_pg",
+        "ctx_base_drb",
+        "ctx_base_dreb_pg",
+        "ctx_base_dunk_attempts",
+        "ctx_base_dunk_made",
+        "ctx_base_efg",
+        "ctx_base_fg2_pct",
+        "ctx_base_fg2a",
+        "ctx_base_fg2m",
+        "ctx_base_fg3_pct",
+        "ctx_base_fg3a",
+        "ctx_base_fg3m",
+        "ctx_base_fouls40",
+        "ctx_base_ft_pct",
+        "ctx_base_ftr",
+        "ctx_base_gp",
+        "ctx_base_mid_attempts",
+        "ctx_base_minutes_share",
+        "ctx_base_mpg",
+        "ctx_base_orb",
+        "ctx_base_oreb_pg",
+        "ctx_base_pts_pg",
+        "ctx_base_rim_attempts",
+        "ctx_base_rim_made",
+        "ctx_base_stl_pct",
+        "ctx_base_stl_pg",
+        "ctx_base_three_share",
+        "ctx_base_tov_pct",
+        "ctx_base_ts",
+        "ctx_base_usage",
+        "ctx_skill_creation_control",
+        "ctx_skill_defense_discipline",
+        "ctx_skill_ft_volume",
+        "ctx_skill_usage_efficiency",
+        "slot_037",
+        "slot_038",
+        "slot_039",
+        "slot_040",
+        "slot_041",
+        "slot_042"
+      ],
+      "width": 44
+    },
+    {
+      "id": "f50_game_team",
+      "families_added": [
+        "f50",
+        "game",
+        "team"
+      ],
+      "columns": [
+        "ctx_base_ast_pct",
+        "ctx_base_ast_pg",
+        "ctx_base_ast_tov",
+        "ctx_base_blk_pct",
+        "ctx_base_blk_pg",
+        "ctx_base_drb",
+        "ctx_base_dreb_pg",
+        "ctx_base_dunk_attempts",
+        "ctx_base_dunk_made",
+        "ctx_base_efg",
+        "ctx_base_fg2_pct",
+        "ctx_base_fg2a",
+        "ctx_base_fg2m",
+        "ctx_base_fg3_pct",
+        "ctx_base_fg3a",
+        "ctx_base_fg3m",
+        "ctx_base_fouls40",
+        "ctx_base_ft_pct",
+        "ctx_base_ftr",
+        "ctx_base_gp",
+        "ctx_base_mid_attempts",
+        "ctx_base_minutes_share",
+        "ctx_base_mpg",
+        "ctx_base_orb",
+        "ctx_base_oreb_pg",
+        "ctx_base_pts_pg",
+        "ctx_base_rim_attempts",
+        "ctx_base_rim_made",
+        "ctx_base_stl_pct",
+        "ctx_base_stl_pg",
+        "ctx_base_three_share",
+        "ctx_base_tov_pct",
+        "ctx_base_ts",
+        "ctx_base_usage",
+        "ctx_skill_creation_control",
+        "ctx_skill_defense_discipline",
+        "ctx_skill_ft_volume",
+        "ctx_skill_usage_efficiency",
+        "slot_037",
+        "slot_038",
+        "slot_039",
+        "slot_040",
+        "slot_041",
+        "slot_042",
+        "cgd_ast_pg",
+        "cgd_blk_pg",
+        "cgd_drb_pg",
+        "cgd_ft_a_pg",
+        "cgd_ft_m_pg",
+        "cgd_observed_gp",
+        "cgd_orb_pg",
+        "cgd_pf_pg",
+        "cgd_points_pg",
+        "cgd_stl_pg",
+        "cgd_three_a_pg",
+        "cgd_three_m_pg",
+        "cgd_tov_pg",
+        "cgd_two_a_pg",
+        "cgd_two_m_pg",
+        "f50_assist_usage_efficiency",
+        "f50_balanced_stocks",
+        "f50_career_slope_ast_tov",
+        "f50_career_slope_drb",
+        "f50_career_slope_ftp",
+        "f50_career_slope_ftr",
+        "f50_career_slope_minutes",
+        "f50_career_slope_orb",
+        "f50_career_slope_three_p",
+        "f50_career_slope_ts",
+        "f50_career_slope_two_p",
+        "f50_foul_adjusted_rebounds",
+        "f50_minutes_concentration",
+        "f50_nondunk_rim_pct",
+        "f50_peer_creation_density",
+        "f50_peer_defense_density",
+        "f50_peer_rank_ast",
+        "f50_peer_rank_blk",
+        "f50_peer_rank_drb",
+        "f50_peer_rank_orb",
+        "f50_peer_rank_stl",
+        "f50_peer_rank_tov",
+        "f50_peer_rank_ts",
+        "f50_peer_rank_usage",
+        "f50_peer_rim_diet",
+        "f50_peer_sd_ast",
+        "f50_peer_sd_blk",
+        "f50_peer_sd_drb",
+        "f50_peer_sd_orb",
+        "f50_peer_sd_stl",
+        "f50_peer_sd_tov",
+        "f50_peer_sd_ts",
+        "f50_peer_sd_usage",
+        "f50_peer_three_diet",
+        "f50_perimeter_ft_agreement",
+        "f50_posterior_dunk",
+        "f50_posterior_ft",
+        "f50_posterior_mid",
+        "f50_posterior_three",
+        "f50_posterior_two",
+        "f50_rim_ft_pressure",
+        "f50_team_share_dunk_a",
+        "f50_team_share_fta",
+        "f50_team_share_ftm",
+        "f50_team_share_rim_a",
+        "f50_team_share_three_a",
+        "f50_team_share_three_m",
+        "f50_usage_concentration",
+        "tctx_assists_per_made_fg",
+        "tctx_blocks_per_opponent_fga",
+        "tctx_defensive_rebound_share",
+        "tctx_efg",
+        "tctx_efg_margin",
+        "tctx_ft_attempts_per_fga",
+        "tctx_margin_pg",
+        "tctx_offensive_rebound_share",
+        "tctx_opponent_assists_per_made_fg",
+        "tctx_opponent_efg",
+        "tctx_opponent_ft_attempts_per_fga",
+        "tctx_opponent_points_pg",
+        "tctx_opponent_shot_attempts_pg",
+        "tctx_opponent_three_attempt_share",
+        "tctx_opponent_turnovers_per_fga",
+        "tctx_points_pg",
+        "tctx_shot_attempts_pg",
+        "tctx_steals_per_opponent_turnover",
+        "tctx_three_attempt_share",
+        "tctx_turnovers_per_fga"
+      ],
+      "width": 127
+    }
+  ],
+  "policy_id": "h_s2008_gap1_all_h1",
+  "labels": {
+    "source": "Exact frozen H s2008_gap1_all_h1 arrays; observed ordinal1, every season_end<=outer_year-1, earlier cohorts, no unknown-to-zero",
+    "transform": "Frozen clipped40 cohort Gaussian target; CPU replay only, no selector/reordering",
+    "query_population": "Original H query PID set/order, all rows retained; scorer alone handles full and complete-target mask"
+  },
+  "tie_policy": "Canonical pid hash row order; equal model-input vectors receive identical averaged predictions per family before average-rank blending; never use draft order or outcome for ties",
+  "primary_development_score": 0.4269445242479837,
+  "fixed_three_seed_development_score": 0.4227862389833256,
+  "development_summary": {
+    "panel_id": "f50_game_team",
+    "policy_id": "h_s2008_gap1_all_h1",
+    "profile_id": "none_o2p0_n16",
+    "architecture": "profile_stack_0820",
+    "recipe": {
+      "id": "profile_stack_0820",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 4,
+          "panel_id": "f50_game_team",
+          "profile_id": "none_o2p0_n16"
+        },
+        {
+          "family": "ridge_a30",
+          "units": 4,
+          "panel_id": "f50_game_team",
+          "profile_id": null
+        },
+        {
+          "family": "catboost",
+          "units": 4,
+          "panel_id": "base44",
+          "profile_id": null
+        }
+      ],
+      "weight_total": 12,
+      "design_aliases": [
+        {
+          "profile_id": "none_o2p0_n16",
+          "R_panel": "f50_game_team",
+          "C_panel": "base44",
+          "same_panel_recipe": "stack_015"
+        }
+      ]
+    },
+    "member_control": false,
+    "multi_family_every_fold_seed": true,
+    "diagnostic_only": true,
+    "no_automatic_promotion": true,
+    "full": {
+      "mean_score": 0.4269445242479837,
+      "fold_scores": {
+        "2012": 0.3788756711190144,
+        "2013": 0.41388256331207524,
+        "2014": 0.4880753383128614
+      },
+      "seed_scores": {
+        "0": 0.443070143471737,
+        "101": 0.4078274082194058,
+        "202": 0.4299360210528082
+      },
+      "fixed_three_seed_family_rank_average": 0.4227862389833256
+    },
+    "observed": {
+      "mean_score": 0.5061667218833029,
+      "fold_scores": {
+        "2012": 0.5379733697694982,
+        "2013": 0.39917796271228645,
+        "2014": 0.5813488331681241
+      },
+      "seed_scores": {
+        "0": 0.5079106760029614,
+        "101": 0.4887211879146127,
+        "202": 0.5218683017323348
+      },
+      "fixed_three_seed_family_rank_average": 0.5206798477151685
+    },
+    "full_gain_vs_same_recipe_baseline_profile": 0.0024746241253362222,
+    "full_fold_gains_vs_baseline": {
+      "2012": 0.006251851314055923,
+      "2013": -0.0009319274259419474,
+      "2014": 0.0021039484878945247
+    },
+    "full_seed_gains_vs_baseline": {
+      "0": 0.003586985872358339,
+      "101": 0.005373501053843988,
+      "202": -0.0015366145501937156
+    }
+  },
+  "source_protocol_sha256": "953dc21703999afdf5e181e78b02da2d41da1da0902610c95ef019a08ff6dfaf",
+  "source_plan_sha256": "edea708ee96d5d4dd9daaa0e72f318f8dec3813a446eb2b39ebfdec7f1945f48",
+  "source_frozen_sha256": "572ea77c8e6526df74d9217c1e34c11fc4c6fdbdf30031d08e93dec64cfb904b",
+  "source_results_sha256": "e725597bf67e4cf7e6dc97ebf439fc5cd1d5e9ffb5dca750734fadda083f121f",
+  "verification": "independent_verification.json",
+  "no2019plus_access": true,
+  "no_new_fits": true,
+  "limitations": [
+    "Retrospective feature vintage, incomplete original population, source identity/coverage caveats remain. Scoped diagnostic admission only.",
+    "Changing family width changes model preprocessing/ensemble permutations; real-family versus44 difference is not a matched-shuffle information test.",
+    "No2019+ inputs, outcomes or scores; no learned weights or outer-query truth in worker.",
+    "Cross-panel view and weight search reuse the same development folds; final best recipe is a search diagnostic, not a certified goal result.",
+    "The127-column panel was selected from reused development results; this settings sweep is further development search.",
+    "No2019+ inputs/outcomes or2015+ confirmation scores; no automatic promotion."
+  ]
+}

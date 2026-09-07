@@ -1,0 +1,2001 @@
+{
+  "reference_gate": {
+    "passed": true,
+    "reused_records": 6,
+    "new_control_fits": 0,
+    "exact_member_fold_seed_vectors": 90,
+    "source_records_unchanged": true,
+    "M_frozen_sha256": "32a9ac2ec968ebb281027020e5a244eb9a040d589318b3c5dd577da9ece27b00",
+    "source_record_hash_manifest_sha256": "c9766fef62df7b7a86c35e720d48088ac4f9ff4b73927567620b222c6cfdb28d",
+    "source_completed_log_sha256": "759257056432fce91e7d4d605bb60ebe824b41fcba407cb7d98bbe7c9bb31d7d",
+    "exact_M_recipe_prediction_records": 24,
+    "both_frozen_metrics_exact": true,
+    "M_reference_recipes": [
+      "cross_0771",
+      "samepanel_stack_013"
+    ],
+    "before_new_profile_fits": true
+  },
+  "interpretation_allowed": true,
+  "best_actual_multifamily_stack": {
+    "panel_id": "f50_game_team",
+    "policy_id": "h_s2008_gap1_all_h1",
+    "profile_id": "none_o2p0_n16",
+    "architecture": "profile_stack_0820",
+    "recipe": {
+      "id": "profile_stack_0820",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 4,
+          "panel_id": "f50_game_team",
+          "profile_id": "none_o2p0_n16"
+        },
+        {
+          "family": "ridge_a30",
+          "units": 4,
+          "panel_id": "f50_game_team",
+          "profile_id": null
+        },
+        {
+          "family": "catboost",
+          "units": 4,
+          "panel_id": "base44",
+          "profile_id": null
+        }
+      ],
+      "weight_total": 12,
+      "design_aliases": [
+        {
+          "profile_id": "none_o2p0_n16",
+          "R_panel": "f50_game_team",
+          "C_panel": "base44",
+          "same_panel_recipe": "stack_015"
+        }
+      ]
+    },
+    "member_control": false,
+    "multi_family_every_fold_seed": true,
+    "diagnostic_only": true,
+    "no_automatic_promotion": true,
+    "full": {
+      "mean_score": 0.4269445242479837,
+      "fold_scores": {
+        "2012": 0.3788756711190144,
+        "2013": 0.41388256331207524,
+        "2014": 0.4880753383128614
+      },
+      "seed_scores": {
+        "0": 0.443070143471737,
+        "101": 0.4078274082194058,
+        "202": 0.4299360210528082
+      },
+      "fixed_three_seed_family_rank_average": 0.4227862389833256
+    },
+    "observed": {
+      "mean_score": 0.5061667218833029,
+      "fold_scores": {
+        "2012": 0.5379733697694982,
+        "2013": 0.39917796271228645,
+        "2014": 0.5813488331681241
+      },
+      "seed_scores": {
+        "0": 0.5079106760029614,
+        "101": 0.4887211879146127,
+        "202": 0.5218683017323348
+      },
+      "fixed_three_seed_family_rank_average": 0.5206798477151685
+    },
+    "full_gain_vs_same_recipe_baseline_profile": 0.0024746241253362222,
+    "full_fold_gains_vs_baseline": {
+      "2012": 0.006251851314055923,
+      "2013": -0.0009319274259419474,
+      "2014": 0.0021039484878945247
+    },
+    "full_seed_gains_vs_baseline": {
+      "0": 0.003586985872358339,
+      "101": 0.005373501053843988,
+      "202": -0.0015366145501937156
+    }
+  },
+  "best_member_control": {
+    "panel_id": "f50_game_team",
+    "policy_id": "h_s2008_gap1_all_h1",
+    "profile_id": "none_o2p0_n16",
+    "architecture": "profile_stack_0783",
+    "recipe": {
+      "id": "profile_stack_0783",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 12,
+          "panel_id": "f50_game_team",
+          "profile_id": "none_o2p0_n16"
+        }
+      ],
+      "weight_total": 12,
+      "design_aliases": [
+        {
+          "profile_id": "none_o2p0_n16",
+          "R_panel": "base44",
+          "C_panel": "base44",
+          "same_panel_recipe": "stack_014"
+        },
+        {
+          "profile_id": "none_o2p0_n16",
+          "R_panel": "base44",
+          "C_panel": "f50_game_team",
+          "same_panel_recipe": "stack_014"
+        },
+        {
+          "profile_id": "none_o2p0_n16",
+          "R_panel": "f50_game_team",
+          "C_panel": "base44",
+          "same_panel_recipe": "stack_014"
+        },
+        {
+          "profile_id": "none_o2p0_n16",
+          "R_panel": "f50_game_team",
+          "C_panel": "f50_game_team",
+          "same_panel_recipe": "stack_014"
+        }
+      ]
+    },
+    "member_control": true,
+    "multi_family_every_fold_seed": false,
+    "diagnostic_only": true,
+    "no_automatic_promotion": true,
+    "full": {
+      "mean_score": 0.4078175786984717,
+      "fold_scores": {
+        "2012": 0.41330711840150286,
+        "2013": 0.3078610399376363,
+        "2014": 0.5022845777562758
+      },
+      "seed_scores": {
+        "0": 0.4104796438128808,
+        "101": 0.4069300534283102,
+        "202": 0.40604303885422405
+      },
+      "fixed_three_seed_family_rank_average": 0.40923360623690314
+    },
+    "observed": {
+      "mean_score": 0.443317886288227,
+      "fold_scores": {
+        "2012": 0.4568509396095603,
+        "2013": 0.3175471636995652,
+        "2014": 0.5555555555555556
+      },
+      "seed_scores": {
+        "0": 0.4423920957379382,
+        "101": 0.4444441340226695,
+        "202": 0.4431174291040733
+      },
+      "fixed_three_seed_family_rank_average": 0.4438905382808769
+    },
+    "full_gain_vs_same_recipe_baseline_profile": 0.004257397040248967,
+    "full_fold_gains_vs_baseline": {
+      "2012": 0.007551843769454281,
+      "2013": 0.0013768812436755207,
+      "2014": 0.003843466107617044
+    },
+    "full_seed_gains_vs_baseline": {
+      "0": 0.006368855978446886,
+      "101": 0.005162671000778329,
+      "202": 0.0012406641415217412
+    }
+  },
+  "profile_summaries": [
+    {
+      "profile_id": "none_o0p5_n16",
+      "requested_profile_ids": [
+        "none_o0p5_n16"
+      ],
+      "requested_estimators": [
+        16
+      ],
+      "effective_estimators": [
+        16
+      ],
+      "complete": true,
+      "best_actual_multifamily_stack": {
+        "panel_id": "f50_game_team",
+        "policy_id": "h_s2008_gap1_all_h1",
+        "profile_id": "none_o0p5_n16",
+        "architecture": "profile_stack_0068",
+        "recipe": {
+          "id": "profile_stack_0068",
+          "kind": "fixed_rank_weights",
+          "members": [
+            {
+              "family": "tabicl",
+              "units": 3,
+              "panel_id": "f50_game_team",
+              "profile_id": "none_o0p5_n16"
+            },
+            {
+              "family": "ridge_a30",
+              "units": 6,
+              "panel_id": "f50_game_team",
+              "profile_id": null
+            },
+            {
+              "family": "catboost",
+              "units": 3,
+              "panel_id": "base44",
+              "profile_id": null
+            }
+          ],
+          "weight_total": 12,
+          "design_aliases": [
+            {
+              "profile_id": "none_o0p5_n16",
+              "R_panel": "f50_game_team",
+              "C_panel": "base44",
+              "same_panel_recipe": "stack_007"
+            }
+          ]
+        },
+        "member_control": false,
+        "multi_family_every_fold_seed": true,
+        "diagnostic_only": true,
+        "no_automatic_promotion": true,
+        "full": {
+          "mean_score": 0.412230631166475,
+          "fold_scores": {
+            "2012": 0.35124301468754165,
+            "2013": 0.4107099153899707,
+            "2014": 0.4747389634219128
+          },
+          "seed_scores": {
+            "0": 0.4285274000824583,
+            "101": 0.3990916617624998,
+            "202": 0.409072831654467
+          },
+          "fixed_three_seed_family_rank_average": 0.4098321447369451
+        },
+        "observed": {
+          "mean_score": 0.513060926697155,
+          "fold_scores": {
+            "2012": 0.541348472772423,
+            "2013": 0.4074788555385353,
+            "2014": 0.5903554517805064
+          },
+          "seed_scores": {
+            "0": 0.519858159183796,
+            "101": 0.5092038582687569,
+            "202": 0.5101207626389118
+          },
+          "fixed_three_seed_family_rank_average": 0.51811501015463
+        },
+        "full_gain_vs_same_recipe_baseline_profile": -0.0015741066280767213,
+        "full_fold_gains_vs_baseline": {
+          "2012": -0.011114101671196808,
+          "2013": 0.010523836879492432,
+          "2014": -0.004132055092525733
+        },
+        "full_seed_gains_vs_baseline": {
+          "0": 0.00423455203364842,
+          "101": -0.003127814186144773,
+          "202": -0.0058290577317338665
+        }
+      },
+      "baseline_reused": false
+    },
+    {
+      "profile_id": "none_o0p5_n32",
+      "requested_profile_ids": [
+        "none_o0p5_n32"
+      ],
+      "requested_estimators": [
+        32
+      ],
+      "effective_estimators": [
+        32
+      ],
+      "complete": true,
+      "best_actual_multifamily_stack": {
+        "panel_id": "f50_game_team",
+        "policy_id": "h_s2008_gap1_all_h1",
+        "profile_id": "none_o0p5_n32",
+        "architecture": "profile_stack_0158",
+        "recipe": {
+          "id": "profile_stack_0158",
+          "kind": "fixed_rank_weights",
+          "members": [
+            {
+              "family": "tabicl",
+              "units": 3,
+              "panel_id": "f50_game_team",
+              "profile_id": "none_o0p5_n32"
+            },
+            {
+              "family": "ridge_a30",
+              "units": 6,
+              "panel_id": "f50_game_team",
+              "profile_id": null
+            },
+            {
+              "family": "catboost",
+              "units": 3,
+              "panel_id": "base44",
+              "profile_id": null
+            }
+          ],
+          "weight_total": 12,
+          "design_aliases": [
+            {
+              "profile_id": "none_o0p5_n32",
+              "R_panel": "f50_game_team",
+              "C_panel": "base44",
+              "same_panel_recipe": "stack_007"
+            }
+          ]
+        },
+        "member_control": false,
+        "multi_family_every_fold_seed": true,
+        "diagnostic_only": true,
+        "no_automatic_promotion": true,
+        "full": {
+          "mean_score": 0.40959138805616413,
+          "fold_scores": {
+            "2012": 0.3476463034386125,
+            "2013": 0.40971660493692813,
+            "2014": 0.47141125579295173
+          },
+          "seed_scores": {
+            "0": 0.4234202425957232,
+            "101": 0.3944929042780075,
+            "202": 0.4108610172947617
+          },
+          "fixed_three_seed_family_rank_average": 0.40670385402524173
+        },
+        "observed": {
+          "mean_score": 0.5082421771370407,
+          "fold_scores": {
+            "2012": 0.5358070300353471,
+            "2013": 0.4060845664163759,
+            "2014": 0.5828349349593988
+          },
+          "seed_scores": {
+            "0": 0.5126202588545706,
+            "101": 0.5026624362884542,
+            "202": 0.509443836268097
+          },
+          "fixed_three_seed_family_rank_average": 0.5158571129437409
+        },
+        "full_gain_vs_same_recipe_baseline_profile": -0.004213349738387606,
+        "full_fold_gains_vs_baseline": {
+          "2012": -0.014710812920125937,
+          "2013": 0.009530526426449859,
+          "2014": -0.007459762721486796
+        },
+        "full_seed_gains_vs_baseline": {
+          "0": -0.0008726054530867056,
+          "101": -0.007726571670637117,
+          "202": -0.004040872091439163
+        }
+      },
+      "baseline_reused": false
+    },
+    {
+      "profile_id": "none_o0p5_n64",
+      "requested_profile_ids": [
+        "none_o0p5_n64"
+      ],
+      "requested_estimators": [
+        64
+      ],
+      "effective_estimators": [
+        64
+      ],
+      "complete": true,
+      "best_actual_multifamily_stack": {
+        "panel_id": "f50_game_team",
+        "policy_id": "h_s2008_gap1_all_h1",
+        "profile_id": "none_o0p5_n64",
+        "architecture": "profile_stack_0231",
+        "recipe": {
+          "id": "profile_stack_0231",
+          "kind": "fixed_rank_weights",
+          "members": [
+            {
+              "family": "tabicl",
+              "units": 3,
+              "panel_id": "f50_game_team",
+              "profile_id": "none_o0p5_n64"
+            },
+            {
+              "family": "ridge_a30",
+              "units": 6,
+              "panel_id": "f50_game_team",
+              "profile_id": null
+            },
+            {
+              "family": "catboost",
+              "units": 3,
+              "panel_id": "base44",
+              "profile_id": null
+            }
+          ],
+          "weight_total": 12,
+          "design_aliases": [
+            {
+              "profile_id": "none_o0p5_n64",
+              "R_panel": "f50_game_team",
+              "C_panel": "base44",
+              "same_panel_recipe": "stack_007"
+            }
+          ]
+        },
+        "member_control": false,
+        "multi_family_every_fold_seed": true,
+        "diagnostic_only": true,
+        "no_automatic_promotion": true,
+        "full": {
+          "mean_score": 0.4100261583257232,
+          "fold_scores": {
+            "2012": 0.3493293546720267,
+            "2013": 0.41126215205056943,
+            "2014": 0.46948696825457364
+          },
+          "seed_scores": {
+            "0": 0.4225173825273411,
+            "101": 0.39732435584434134,
+            "202": 0.41023673660548726
+          },
+          "fixed_three_seed_family_rank_average": 0.40808123876909885
+        },
+        "observed": {
+          "mean_score": 0.5077410945661576,
+          "fold_scores": {
+            "2012": 0.5342822001586991,
+            "2013": 0.40615911592562376,
+            "2014": 0.5827819676141498
+          },
+          "seed_scores": {
+            "0": 0.5097106139990369,
+            "101": 0.5026624362884542,
+            "202": 0.5108502334109817
+          },
+          "fixed_three_seed_family_rank_average": 0.5185522363491994
+        },
+        "full_gain_vs_same_recipe_baseline_profile": -0.0037785794688285357,
+        "full_fold_gains_vs_baseline": {
+          "2012": -0.01302776168671177,
+          "2013": 0.011076073540091158,
+          "2014": -0.009384050259864885
+        },
+        "full_seed_gains_vs_baseline": {
+          "0": -0.0017754655214687887,
+          "101": -0.004895120104303263,
+          "202": -0.004665152780713611
+        }
+      },
+      "baseline_reused": false
+    },
+    {
+      "profile_id": "none_o0p5_n128",
+      "requested_profile_ids": [
+        "none_o0p5_n128",
+        "none_o0p5_n256"
+      ],
+      "requested_estimators": [
+        128,
+        256
+      ],
+      "effective_estimators": [
+        127
+      ],
+      "complete": true,
+      "best_actual_multifamily_stack": {
+        "panel_id": "f50_game_team",
+        "policy_id": "h_s2008_gap1_all_h1",
+        "profile_id": "none_o0p5_n128",
+        "architecture": "profile_stack_0304",
+        "recipe": {
+          "id": "profile_stack_0304",
+          "kind": "fixed_rank_weights",
+          "members": [
+            {
+              "family": "tabicl",
+              "units": 3,
+              "panel_id": "f50_game_team",
+              "profile_id": "none_o0p5_n128"
+            },
+            {
+              "family": "ridge_a30",
+              "units": 6,
+              "panel_id": "f50_game_team",
+              "profile_id": null
+            },
+            {
+              "family": "catboost",
+              "units": 3,
+              "panel_id": "base44",
+              "profile_id": null
+            }
+          ],
+          "weight_total": 12,
+          "design_aliases": [
+            {
+              "profile_id": "none_o0p5_n128",
+              "R_panel": "f50_game_team",
+              "C_panel": "base44",
+              "same_panel_recipe": "stack_007"
+            },
+            {
+              "profile_id": "none_o0p5_n256",
+              "R_panel": "f50_game_team",
+              "C_panel": "base44",
+              "same_panel_recipe": "stack_007"
+            }
+          ]
+        },
+        "member_control": false,
+        "multi_family_every_fold_seed": true,
+        "diagnostic_only": true,
+        "no_automatic_promotion": true,
+        "full": {
+          "mean_score": 0.4094619990432291,
+          "fold_scores": {
+            "2012": 0.3505386240669936,
+            "2013": 0.40951640633592873,
+            "2014": 0.46833096672676516
+          },
+          "seed_scores": {
+            "0": 0.4216643690682842,
+            "101": 0.39519055307056594,
+            "202": 0.4115310749908374
+          },
+          "fixed_three_seed_family_rank_average": 0.40820720913822234
+        },
+        "observed": {
+          "mean_score": 0.5065135699666228,
+          "fold_scores": {
+            "2012": 0.5363544253516895,
+            "2013": 0.40407997978433546,
+            "2014": 0.5791063047638433
+          },
+          "seed_scores": {
+            "0": 0.5089464835140811,
+            "101": 0.5002910152885648,
+            "202": 0.5103032110972224
+          },
+          "fixed_three_seed_family_rank_average": 0.5165411075117854
+        },
+        "full_gain_vs_same_recipe_baseline_profile": -0.004342738751322628,
+        "full_fold_gains_vs_baseline": {
+          "2012": -0.011818492291744864,
+          "2013": 0.009330327825450457,
+          "2014": -0.010540051787673366
+        },
+        "full_seed_gains_vs_baseline": {
+          "0": -0.002628478980525706,
+          "101": -0.007028922878078658,
+          "202": -0.003370814395363464
+        }
+      },
+      "baseline_reused": false
+    },
+    {
+      "profile_id": "none_o1p0_n16",
+      "requested_profile_ids": [
+        "none_o1p0_n16"
+      ],
+      "requested_estimators": [
+        16
+      ],
+      "effective_estimators": [
+        16
+      ],
+      "complete": true,
+      "best_actual_multifamily_stack": {
+        "panel_id": "f50_game_team",
+        "policy_id": "h_s2008_gap1_all_h1",
+        "profile_id": "none_o1p0_n16",
+        "architecture": "profile_stack_0455",
+        "recipe": {
+          "id": "profile_stack_0455",
+          "kind": "fixed_rank_weights",
+          "members": [
+            {
+              "family": "tabicl",
+              "units": 4,
+              "panel_id": "f50_game_team",
+              "profile_id": "none_o1p0_n16"
+            },
+            {
+              "family": "ridge_a30",
+              "units": 4,
+              "panel_id": "f50_game_team",
+              "profile_id": null
+            },
+            {
+              "family": "catboost",
+              "units": 4,
+              "panel_id": "base44",
+              "profile_id": null
+            }
+          ],
+          "weight_total": 12,
+          "design_aliases": [
+            {
+              "profile_id": "none_o1p0_n16",
+              "R_panel": "f50_game_team",
+              "C_panel": "base44",
+              "same_panel_recipe": "stack_015"
+            }
+          ]
+        },
+        "member_control": false,
+        "multi_family_every_fold_seed": true,
+        "diagnostic_only": true,
+        "no_automatic_promotion": true,
+        "full": {
+          "mean_score": 0.417658855963808,
+          "fold_scores": {
+            "2012": 0.3662289701135153,
+            "2013": 0.42056392265132425,
+            "2014": 0.46618367512658426
+          },
+          "seed_scores": {
+            "0": 0.4414949329911703,
+            "101": 0.39391355243680654,
+            "202": 0.4175680824634469
+          },
+          "fixed_three_seed_family_rank_average": 0.4251801949793364
+        },
+        "observed": {
+          "mean_score": 0.49825812756357063,
+          "fold_scores": {
+            "2012": 0.5379850890044637,
+            "2013": 0.3930386608778204,
+            "2014": 0.5637506328084277
+          },
+          "seed_scores": {
+            "0": 0.5040466566603848,
+            "101": 0.47814130440723845,
+            "202": 0.5125864216230887
+          },
+          "fixed_three_seed_family_rank_average": 0.525211455807208
+        },
+        "full_gain_vs_same_recipe_baseline_profile": -0.0068110441588394854,
+        "full_fold_gains_vs_baseline": {
+          "2012": -0.006394849691443161,
+          "2013": 0.005749431913307068,
+          "2014": -0.019787714698382586
+        },
+        "full_seed_gains_vs_baseline": {
+          "0": 0.002011775391791648,
+          "101": -0.00854035472875525,
+          "202": -0.01390455313955502
+        }
+      },
+      "baseline_reused": false
+    },
+    {
+      "profile_id": "none_o1p0_n32",
+      "requested_profile_ids": [
+        "none_o1p0_n32"
+      ],
+      "requested_estimators": [
+        32
+      ],
+      "effective_estimators": [
+        32
+      ],
+      "complete": true,
+      "best_actual_multifamily_stack": {
+        "panel_id": "f50_game_team",
+        "policy_id": "h_s2008_gap1_all_h1",
+        "profile_id": "none_o1p0_n32",
+        "architecture": "profile_stack_0528",
+        "recipe": {
+          "id": "profile_stack_0528",
+          "kind": "fixed_rank_weights",
+          "members": [
+            {
+              "family": "tabicl",
+              "units": 4,
+              "panel_id": "f50_game_team",
+              "profile_id": "none_o1p0_n32"
+            },
+            {
+              "family": "ridge_a30",
+              "units": 4,
+              "panel_id": "f50_game_team",
+              "profile_id": null
+            },
+            {
+              "family": "catboost",
+              "units": 4,
+              "panel_id": "base44",
+              "profile_id": null
+            }
+          ],
+          "weight_total": 12,
+          "design_aliases": [
+            {
+              "profile_id": "none_o1p0_n32",
+              "R_panel": "f50_game_team",
+              "C_panel": "base44",
+              "same_panel_recipe": "stack_015"
+            }
+          ]
+        },
+        "member_control": false,
+        "multi_family_every_fold_seed": true,
+        "diagnostic_only": true,
+        "no_automatic_promotion": true,
+        "full": {
+          "mean_score": 0.4159361748097676,
+          "fold_scores": {
+            "2012": 0.3639051242302867,
+            "2013": 0.4210410303608714,
+            "2014": 0.46286236983814444
+          },
+          "seed_scores": {
+            "0": 0.4386121682561334,
+            "101": 0.3923464301901136,
+            "202": 0.4168499259830556
+          },
+          "fixed_three_seed_family_rank_average": 0.423024907400086
+        },
+        "observed": {
+          "mean_score": 0.4971374012582447,
+          "fold_scores": {
+            "2012": 0.5354128866939866,
+            "2013": 0.39353784536025155,
+            "2014": 0.562461471720496
+          },
+          "seed_scores": {
+            "0": 0.5028262330741216,
+            "101": 0.47811478327161366,
+            "202": 0.5104711874289989
+          },
+          "fixed_three_seed_family_rank_average": 0.5222533626817586
+        },
+        "full_gain_vs_same_recipe_baseline_profile": -0.00853372531287988,
+        "full_fold_gains_vs_baseline": {
+          "2012": -0.008718695574671753,
+          "2013": 0.0062265396228542436,
+          "2014": -0.02310901998682241
+        },
+        "full_seed_gains_vs_baseline": {
+          "0": -0.0008709893432452542,
+          "101": -0.01010747697544817,
+          "202": -0.014622709619946328
+        }
+      },
+      "baseline_reused": false
+    },
+    {
+      "profile_id": "none_o1p0_n64",
+      "requested_profile_ids": [
+        "none_o1p0_n64"
+      ],
+      "requested_estimators": [
+        64
+      ],
+      "effective_estimators": [
+        64
+      ],
+      "complete": true,
+      "best_actual_multifamily_stack": {
+        "panel_id": "f50_game_team",
+        "policy_id": "h_s2008_gap1_all_h1",
+        "profile_id": "none_o1p0_n64",
+        "architecture": "profile_stack_0601",
+        "recipe": {
+          "id": "profile_stack_0601",
+          "kind": "fixed_rank_weights",
+          "members": [
+            {
+              "family": "tabicl",
+              "units": 4,
+              "panel_id": "f50_game_team",
+              "profile_id": "none_o1p0_n64"
+            },
+            {
+              "family": "ridge_a30",
+              "units": 4,
+              "panel_id": "f50_game_team",
+              "profile_id": null
+            },
+            {
+              "family": "catboost",
+              "units": 4,
+              "panel_id": "base44",
+              "profile_id": null
+            }
+          ],
+          "weight_total": 12,
+          "design_aliases": [
+            {
+              "profile_id": "none_o1p0_n64",
+              "R_panel": "f50_game_team",
+              "C_panel": "base44",
+              "same_panel_recipe": "stack_015"
+            }
+          ]
+        },
+        "member_control": false,
+        "multi_family_every_fold_seed": true,
+        "diagnostic_only": true,
+        "no_automatic_promotion": true,
+        "full": {
+          "mean_score": 0.41614510400290095,
+          "fold_scores": {
+            "2012": 0.3661289148235998,
+            "2013": 0.4191704447102411,
+            "2014": 0.4631359524748617
+          },
+          "seed_scores": {
+            "0": 0.43621905148527157,
+            "101": 0.39692181307720226,
+            "202": 0.41529444744622884
+          },
+          "fixed_three_seed_family_rank_average": 0.4223817603993014
+        },
+        "observed": {
+          "mean_score": 0.4990798189170235,
+          "fold_scores": {
+            "2012": 0.541829522627186,
+            "2013": 0.3933117665237666,
+            "2014": 0.562098167600118
+          },
+          "seed_scores": {
+            "0": 0.501550854173194,
+            "101": 0.48176540164269194,
+            "202": 0.5139232009351846
+          },
+          "fixed_three_seed_family_rank_average": 0.5172293539360762
+        },
+        "full_gain_vs_same_recipe_baseline_profile": -0.008324796119746514,
+        "full_fold_gains_vs_baseline": {
+          "2012": -0.006494904981358629,
+          "2013": 0.004355953972223936,
+          "2014": -0.022835437350105126
+        },
+        "full_seed_gains_vs_baseline": {
+          "0": -0.0032641061141071015,
+          "101": -0.005532094088359529,
+          "202": -0.016178188156773077
+        }
+      },
+      "baseline_reused": false
+    },
+    {
+      "profile_id": "none_o1p0_n128",
+      "requested_profile_ids": [
+        "none_o1p0_n128",
+        "none_o1p0_n256"
+      ],
+      "requested_estimators": [
+        128,
+        256
+      ],
+      "effective_estimators": [
+        127
+      ],
+      "complete": true,
+      "best_actual_multifamily_stack": {
+        "panel_id": "f50_game_team",
+        "policy_id": "h_s2008_gap1_all_h1",
+        "profile_id": "none_o1p0_n128",
+        "architecture": "profile_stack_0674",
+        "recipe": {
+          "id": "profile_stack_0674",
+          "kind": "fixed_rank_weights",
+          "members": [
+            {
+              "family": "tabicl",
+              "units": 4,
+              "panel_id": "f50_game_team",
+              "profile_id": "none_o1p0_n128"
+            },
+            {
+              "family": "ridge_a30",
+              "units": 4,
+              "panel_id": "f50_game_team",
+              "profile_id": null
+            },
+            {
+              "family": "catboost",
+              "units": 4,
+              "panel_id": "base44",
+              "profile_id": null
+            }
+          ],
+          "weight_total": 12,
+          "design_aliases": [
+            {
+              "profile_id": "none_o1p0_n128",
+              "R_panel": "f50_game_team",
+              "C_panel": "base44",
+              "same_panel_recipe": "stack_015"
+            },
+            {
+              "profile_id": "none_o1p0_n256",
+              "R_panel": "f50_game_team",
+              "C_panel": "base44",
+              "same_panel_recipe": "stack_015"
+            }
+          ]
+        },
+        "member_control": false,
+        "multi_family_every_fold_seed": true,
+        "diagnostic_only": true,
+        "no_automatic_promotion": true,
+        "full": {
+          "mean_score": 0.41482590564750416,
+          "fold_scores": {
+            "2012": 0.36256524306107035,
+            "2013": 0.41963419583492145,
+            "2014": 0.4622782780465205
+          },
+          "seed_scores": {
+            "0": 0.43567196073503567,
+            "101": 0.395805967805067,
+            "202": 0.4129997884024097
+          },
+          "fixed_three_seed_family_rank_average": 0.42300012770427703
+        },
+        "observed": {
+          "mean_score": 0.4992119378181912,
+          "fold_scores": {
+            "2012": 0.5409252871717772,
+            "2013": 0.3960072768046689,
+            "2014": 0.5607032494781272
+          },
+          "seed_scores": {
+            "0": 0.5034670874779523,
+            "101": 0.48215251218707217,
+            "202": 0.512016213789549
+          },
+          "fixed_three_seed_family_rank_average": 0.5153333932705143
+        },
+        "full_gain_vs_same_recipe_baseline_profile": -0.009643994475143303,
+        "full_fold_gains_vs_baseline": {
+          "2012": -0.010058576743888104,
+          "2013": 0.00481970509690427,
+          "2014": -0.023693111778446352
+        },
+        "full_seed_gains_vs_baseline": {
+          "0": -0.0038111968643430028,
+          "101": -0.006647939360494792,
+          "202": -0.018472847200592224
+        }
+      },
+      "baseline_reused": false
+    },
+    {
+      "profile_id": "none_o2p0_n16",
+      "requested_profile_ids": [
+        "none_o2p0_n16"
+      ],
+      "requested_estimators": [
+        16
+      ],
+      "effective_estimators": [
+        16
+      ],
+      "complete": true,
+      "best_actual_multifamily_stack": {
+        "panel_id": "f50_game_team",
+        "policy_id": "h_s2008_gap1_all_h1",
+        "profile_id": "none_o2p0_n16",
+        "architecture": "profile_stack_0820",
+        "recipe": {
+          "id": "profile_stack_0820",
+          "kind": "fixed_rank_weights",
+          "members": [
+            {
+              "family": "tabicl",
+              "units": 4,
+              "panel_id": "f50_game_team",
+              "profile_id": "none_o2p0_n16"
+            },
+            {
+              "family": "ridge_a30",
+              "units": 4,
+              "panel_id": "f50_game_team",
+              "profile_id": null
+            },
+            {
+              "family": "catboost",
+              "units": 4,
+              "panel_id": "base44",
+              "profile_id": null
+            }
+          ],
+          "weight_total": 12,
+          "design_aliases": [
+            {
+              "profile_id": "none_o2p0_n16",
+              "R_panel": "f50_game_team",
+              "C_panel": "base44",
+              "same_panel_recipe": "stack_015"
+            }
+          ]
+        },
+        "member_control": false,
+        "multi_family_every_fold_seed": true,
+        "diagnostic_only": true,
+        "no_automatic_promotion": true,
+        "full": {
+          "mean_score": 0.4269445242479837,
+          "fold_scores": {
+            "2012": 0.3788756711190144,
+            "2013": 0.41388256331207524,
+            "2014": 0.4880753383128614
+          },
+          "seed_scores": {
+            "0": 0.443070143471737,
+            "101": 0.4078274082194058,
+            "202": 0.4299360210528082
+          },
+          "fixed_three_seed_family_rank_average": 0.4227862389833256
+        },
+        "observed": {
+          "mean_score": 0.5061667218833029,
+          "fold_scores": {
+            "2012": 0.5379733697694982,
+            "2013": 0.39917796271228645,
+            "2014": 0.5813488331681241
+          },
+          "seed_scores": {
+            "0": 0.5079106760029614,
+            "101": 0.4887211879146127,
+            "202": 0.5218683017323348
+          },
+          "fixed_three_seed_family_rank_average": 0.5206798477151685
+        },
+        "full_gain_vs_same_recipe_baseline_profile": 0.0024746241253362222,
+        "full_fold_gains_vs_baseline": {
+          "2012": 0.006251851314055923,
+          "2013": -0.0009319274259419474,
+          "2014": 0.0021039484878945247
+        },
+        "full_seed_gains_vs_baseline": {
+          "0": 0.003586985872358339,
+          "101": 0.005373501053843988,
+          "202": -0.0015366145501937156
+        }
+      },
+      "baseline_reused": false
+    },
+    {
+      "profile_id": "none_o2p0_n32",
+      "requested_profile_ids": [
+        "none_o2p0_n32"
+      ],
+      "requested_estimators": [
+        32
+      ],
+      "effective_estimators": [
+        32
+      ],
+      "complete": true,
+      "best_actual_multifamily_stack": {
+        "panel_id": "f50_game_team",
+        "policy_id": "h_s2008_gap1_all_h1",
+        "profile_id": "none_o2p0_n32",
+        "architecture": "profile_stack_0893",
+        "recipe": {
+          "id": "profile_stack_0893",
+          "kind": "fixed_rank_weights",
+          "members": [
+            {
+              "family": "tabicl",
+              "units": 4,
+              "panel_id": "f50_game_team",
+              "profile_id": "none_o2p0_n32"
+            },
+            {
+              "family": "ridge_a30",
+              "units": 4,
+              "panel_id": "f50_game_team",
+              "profile_id": null
+            },
+            {
+              "family": "catboost",
+              "units": 4,
+              "panel_id": "base44",
+              "profile_id": null
+            }
+          ],
+          "weight_total": 12,
+          "design_aliases": [
+            {
+              "profile_id": "none_o2p0_n32",
+              "R_panel": "f50_game_team",
+              "C_panel": "base44",
+              "same_panel_recipe": "stack_015"
+            }
+          ]
+        },
+        "member_control": false,
+        "multi_family_every_fold_seed": true,
+        "diagnostic_only": true,
+        "no_automatic_promotion": true,
+        "full": {
+          "mean_score": 0.42446990012264746,
+          "fold_scores": {
+            "2012": 0.37262381980495846,
+            "2013": 0.4148144907380172,
+            "2014": 0.48597138982496685
+          },
+          "seed_scores": {
+            "0": 0.43948315759937867,
+            "101": 0.4024539071655618,
+            "202": 0.4314726356030019
+          },
+          "fixed_three_seed_family_rank_average": 0.42308001483178015
+        },
+        "observed": {
+          "mean_score": 0.5069561499864694,
+          "fold_scores": {
+            "2012": 0.5419736756488307,
+            "2013": 0.3952114278168723,
+            "2014": 0.583683346493705
+          },
+          "seed_scores": {
+            "0": 0.5079228066411791,
+            "101": 0.4881302363496937,
+            "202": 0.5248154069685352
+          },
+          "fixed_three_seed_family_rank_average": 0.5272453657240946
+        },
+        "full_gain_vs_same_recipe_baseline_profile": 0.0,
+        "full_fold_gains_vs_baseline": {
+          "2012": 0.0,
+          "2013": 0.0,
+          "2014": 0.0
+        },
+        "full_seed_gains_vs_baseline": {
+          "0": 0.0,
+          "101": 0.0,
+          "202": 0.0
+        }
+      },
+      "baseline_reused": true
+    },
+    {
+      "profile_id": "none_o2p0_n64",
+      "requested_profile_ids": [
+        "none_o2p0_n64"
+      ],
+      "requested_estimators": [
+        64
+      ],
+      "effective_estimators": [
+        64
+      ],
+      "complete": true,
+      "best_actual_multifamily_stack": {
+        "panel_id": "f50_game_team",
+        "policy_id": "h_s2008_gap1_all_h1",
+        "profile_id": "none_o2p0_n64",
+        "architecture": "profile_stack_0966",
+        "recipe": {
+          "id": "profile_stack_0966",
+          "kind": "fixed_rank_weights",
+          "members": [
+            {
+              "family": "tabicl",
+              "units": 4,
+              "panel_id": "f50_game_team",
+              "profile_id": "none_o2p0_n64"
+            },
+            {
+              "family": "ridge_a30",
+              "units": 4,
+              "panel_id": "f50_game_team",
+              "profile_id": null
+            },
+            {
+              "family": "catboost",
+              "units": 4,
+              "panel_id": "base44",
+              "profile_id": null
+            }
+          ],
+          "weight_total": 12,
+          "design_aliases": [
+            {
+              "profile_id": "none_o2p0_n64",
+              "R_panel": "f50_game_team",
+              "C_panel": "base44",
+              "same_panel_recipe": "stack_015"
+            }
+          ]
+        },
+        "member_control": false,
+        "multi_family_every_fold_seed": true,
+        "diagnostic_only": true,
+        "no_automatic_promotion": true,
+        "full": {
+          "mean_score": 0.42293384740465456,
+          "fold_scores": {
+            "2012": 0.3721950260957901,
+            "2013": 0.41263705578611365,
+            "2014": 0.48396946033205995
+          },
+          "seed_scores": {
+            "0": 0.4392493212800752,
+            "101": 0.40369747047252874,
+            "202": 0.4258547504613596
+          },
+          "fixed_three_seed_family_rank_average": 0.4221930706614827
+        },
+        "observed": {
+          "mean_score": 0.506119922423207,
+          "fold_scores": {
+            "2012": 0.5415622672769348,
+            "2013": 0.3937528730042879,
+            "2014": 0.5830446269883982
+          },
+          "seed_scores": {
+            "0": 0.5090643420913994,
+            "101": 0.48963539852553,
+            "202": 0.5196600266526916
+          },
+          "fixed_three_seed_family_rank_average": 0.5223163891566531
+        },
+        "full_gain_vs_same_recipe_baseline_profile": -0.0015360527179928973,
+        "full_fold_gains_vs_baseline": {
+          "2012": -0.00042879370916837356,
+          "2013": -0.002177434951903534,
+          "2014": -0.0020019294929068954
+        },
+        "full_seed_gains_vs_baseline": {
+          "0": -0.00023383631930345983,
+          "101": 0.001243563306966955,
+          "202": -0.005617885141642298
+        }
+      },
+      "baseline_reused": false
+    },
+    {
+      "profile_id": "none_o2p0_n128",
+      "requested_profile_ids": [
+        "none_o2p0_n128",
+        "none_o2p0_n256"
+      ],
+      "requested_estimators": [
+        128,
+        256
+      ],
+      "effective_estimators": [
+        127
+      ],
+      "complete": true,
+      "best_actual_multifamily_stack": {
+        "panel_id": "f50_game_team",
+        "policy_id": "h_s2008_gap1_all_h1",
+        "profile_id": "none_o2p0_n128",
+        "architecture": "profile_stack_1039",
+        "recipe": {
+          "id": "profile_stack_1039",
+          "kind": "fixed_rank_weights",
+          "members": [
+            {
+              "family": "tabicl",
+              "units": 4,
+              "panel_id": "f50_game_team",
+              "profile_id": "none_o2p0_n128"
+            },
+            {
+              "family": "ridge_a30",
+              "units": 4,
+              "panel_id": "f50_game_team",
+              "profile_id": null
+            },
+            {
+              "family": "catboost",
+              "units": 4,
+              "panel_id": "base44",
+              "profile_id": null
+            }
+          ],
+          "weight_total": 12,
+          "design_aliases": [
+            {
+              "profile_id": "none_o2p0_n128",
+              "R_panel": "f50_game_team",
+              "C_panel": "base44",
+              "same_panel_recipe": "stack_015"
+            },
+            {
+              "profile_id": "none_o2p0_n256",
+              "R_panel": "f50_game_team",
+              "C_panel": "base44",
+              "same_panel_recipe": "stack_015"
+            }
+          ]
+        },
+        "member_control": false,
+        "multi_family_every_fold_seed": true,
+        "diagnostic_only": true,
+        "no_automatic_promotion": true,
+        "full": {
+          "mean_score": 0.4223358058218383,
+          "fold_scores": {
+            "2012": 0.3724661318587256,
+            "2013": 0.40931570371318154,
+            "2014": 0.4852255818936076
+          },
+          "seed_scores": {
+            "0": 0.43677303556258695,
+            "101": 0.4028734218655627,
+            "202": 0.4273609600373652
+          },
+          "fixed_three_seed_family_rank_average": 0.42237172574030235
+        },
+        "observed": {
+          "mean_score": 0.5077192481875392,
+          "fold_scores": {
+            "2012": 0.5438185515028128,
+            "2013": 0.3935689764412456,
+            "2014": 0.5857702166185592
+          },
+          "seed_scores": {
+            "0": 0.510225585782499,
+            "101": 0.49158071179481505,
+            "202": 0.5213514469853037
+          },
+          "fixed_three_seed_family_rank_average": 0.5210346563942333
+        },
+        "full_gain_vs_same_recipe_baseline_profile": -0.002134094300809186,
+        "full_fold_gains_vs_baseline": {
+          "2012": -0.00015768794623283178,
+          "2013": -0.0054987870248356385,
+          "2014": -0.0007458079313592547
+        },
+        "full_seed_gains_vs_baseline": {
+          "0": -0.002710122036791718,
+          "101": 0.0004195147000009003,
+          "202": -0.004111675565636741
+        }
+      },
+      "baseline_reused": false
+    },
+    {
+      "profile_id": "none_o4p0_n16",
+      "requested_profile_ids": [
+        "none_o4p0_n16"
+      ],
+      "requested_estimators": [
+        16
+      ],
+      "effective_estimators": [
+        16
+      ],
+      "complete": true,
+      "best_actual_multifamily_stack": {
+        "panel_id": "f50_game_team",
+        "policy_id": "h_s2008_gap1_all_h1",
+        "profile_id": "none_o4p0_n16",
+        "architecture": "profile_stack_1185",
+        "recipe": {
+          "id": "profile_stack_1185",
+          "kind": "fixed_rank_weights",
+          "members": [
+            {
+              "family": "tabicl",
+              "units": 4,
+              "panel_id": "f50_game_team",
+              "profile_id": "none_o4p0_n16"
+            },
+            {
+              "family": "ridge_a30",
+              "units": 4,
+              "panel_id": "f50_game_team",
+              "profile_id": null
+            },
+            {
+              "family": "catboost",
+              "units": 4,
+              "panel_id": "base44",
+              "profile_id": null
+            }
+          ],
+          "weight_total": 12,
+          "design_aliases": [
+            {
+              "profile_id": "none_o4p0_n16",
+              "R_panel": "f50_game_team",
+              "C_panel": "base44",
+              "same_panel_recipe": "stack_015"
+            }
+          ]
+        },
+        "member_control": false,
+        "multi_family_every_fold_seed": true,
+        "diagnostic_only": true,
+        "no_automatic_promotion": true,
+        "full": {
+          "mean_score": 0.41923439240097865,
+          "fold_scores": {
+            "2012": 0.368661726125829,
+            "2013": 0.4101870721045555,
+            "2014": 0.4788543789725514
+          },
+          "seed_scores": {
+            "0": 0.4341084989669846,
+            "101": 0.4000033448888445,
+            "202": 0.42359133334710686
+          },
+          "fixed_three_seed_family_rank_average": 0.42191208392663
+        },
+        "observed": {
+          "mean_score": 0.5034616195438524,
+          "fold_scores": {
+            "2012": 0.541201854967268,
+            "2013": 0.3901049019747172,
+            "2014": 0.5790781016895719
+          },
+          "seed_scores": {
+            "0": 0.5002446369109138,
+            "101": 0.4866020815162975,
+            "202": 0.5235381402043456
+          },
+          "fixed_three_seed_family_rank_average": 0.5265231505728402
+        },
+        "full_gain_vs_same_recipe_baseline_profile": -0.005235507721668808,
+        "full_fold_gains_vs_baseline": {
+          "2012": -0.003962093679129475,
+          "2013": -0.004627418633461666,
+          "2014": -0.007117010852415451
+        },
+        "full_seed_gains_vs_baseline": {
+          "0": -0.005374658632394058,
+          "101": -0.002450562276717305,
+          "202": -0.007881302255895062
+        }
+      },
+      "baseline_reused": false
+    },
+    {
+      "profile_id": "none_o4p0_n32",
+      "requested_profile_ids": [
+        "none_o4p0_n32"
+      ],
+      "requested_estimators": [
+        32
+      ],
+      "effective_estimators": [
+        32
+      ],
+      "complete": true,
+      "best_actual_multifamily_stack": {
+        "panel_id": "f50_game_team",
+        "policy_id": "h_s2008_gap1_all_h1",
+        "profile_id": "none_o4p0_n32",
+        "architecture": "profile_stack_1258",
+        "recipe": {
+          "id": "profile_stack_1258",
+          "kind": "fixed_rank_weights",
+          "members": [
+            {
+              "family": "tabicl",
+              "units": 4,
+              "panel_id": "f50_game_team",
+              "profile_id": "none_o4p0_n32"
+            },
+            {
+              "family": "ridge_a30",
+              "units": 4,
+              "panel_id": "f50_game_team",
+              "profile_id": null
+            },
+            {
+              "family": "catboost",
+              "units": 4,
+              "panel_id": "base44",
+              "profile_id": null
+            }
+          ],
+          "weight_total": 12,
+          "design_aliases": [
+            {
+              "profile_id": "none_o4p0_n32",
+              "R_panel": "f50_game_team",
+              "C_panel": "base44",
+              "same_panel_recipe": "stack_015"
+            }
+          ]
+        },
+        "member_control": false,
+        "multi_family_every_fold_seed": true,
+        "diagnostic_only": true,
+        "no_automatic_promotion": true,
+        "full": {
+          "mean_score": 0.4151674483213972,
+          "fold_scores": {
+            "2012": 0.36036963194282895,
+            "2013": 0.41035102056177414,
+            "2014": 0.4747816924595883
+          },
+          "seed_scores": {
+            "0": 0.4275925332622741,
+            "101": 0.39911530330386186,
+            "202": 0.4187945083980556
+          },
+          "fixed_three_seed_family_rank_average": 0.4208872635727989
+        },
+        "observed": {
+          "mean_score": 0.502614380328827,
+          "fold_scores": {
+            "2012": 0.5398650872180648,
+            "2013": 0.3880529182705837,
+            "2014": 0.5799251354978324
+          },
+          "seed_scores": {
+            "0": 0.4999910092357303,
+            "101": 0.4882734314482422,
+            "202": 0.5195787003025085
+          },
+          "fixed_three_seed_family_rank_average": 0.5273851738270033
+        },
+        "full_gain_vs_same_recipe_baseline_profile": -0.009302451801250278,
+        "full_fold_gains_vs_baseline": {
+          "2012": -0.012254187862129506,
+          "2013": -0.004463470176243045,
+          "2014": -0.01118969736537856
+        },
+        "full_seed_gains_vs_baseline": {
+          "0": -0.011890624337104583,
+          "101": -0.003338603861699929,
+          "202": -0.012678127204946321
+        }
+      },
+      "baseline_reused": false
+    },
+    {
+      "profile_id": "none_o4p0_n64",
+      "requested_profile_ids": [
+        "none_o4p0_n64"
+      ],
+      "requested_estimators": [
+        64
+      ],
+      "effective_estimators": [
+        64
+      ],
+      "complete": true,
+      "best_actual_multifamily_stack": {
+        "panel_id": "f50_game_team",
+        "policy_id": "h_s2008_gap1_all_h1",
+        "profile_id": "none_o4p0_n64",
+        "architecture": "profile_stack_1331",
+        "recipe": {
+          "id": "profile_stack_1331",
+          "kind": "fixed_rank_weights",
+          "members": [
+            {
+              "family": "tabicl",
+              "units": 4,
+              "panel_id": "f50_game_team",
+              "profile_id": "none_o4p0_n64"
+            },
+            {
+              "family": "ridge_a30",
+              "units": 4,
+              "panel_id": "f50_game_team",
+              "profile_id": null
+            },
+            {
+              "family": "catboost",
+              "units": 4,
+              "panel_id": "base44",
+              "profile_id": null
+            }
+          ],
+          "weight_total": 12,
+          "design_aliases": [
+            {
+              "profile_id": "none_o4p0_n64",
+              "R_panel": "f50_game_team",
+              "C_panel": "base44",
+              "same_panel_recipe": "stack_015"
+            }
+          ]
+        },
+        "member_control": false,
+        "multi_family_every_fold_seed": true,
+        "diagnostic_only": true,
+        "no_automatic_promotion": true,
+        "full": {
+          "mean_score": 0.4150284948210563,
+          "fold_scores": {
+            "2012": 0.36348446980122945,
+            "2013": 0.4090471716530455,
+            "2014": 0.47255384300889397
+          },
+          "seed_scores": {
+            "0": 0.4282214118219982,
+            "101": 0.39648408095056875,
+            "202": 0.420379991690602
+          },
+          "fixed_three_seed_family_rank_average": 0.41917016336773494
+        },
+        "observed": {
+          "mean_score": 0.5019605888941729,
+          "fold_scores": {
+            "2012": 0.5398801916899677,
+            "2013": 0.3892157890084156,
+            "2014": 0.5767857859841355
+          },
+          "seed_scores": {
+            "0": 0.5025315401538171,
+            "101": 0.4835245126659806,
+            "202": 0.519825713862721
+          },
+          "fixed_three_seed_family_rank_average": 0.5284762570532009
+        },
+        "full_gain_vs_same_recipe_baseline_profile": -0.009441405301591155,
+        "full_fold_gains_vs_baseline": {
+          "2012": -0.009139350003729008,
+          "2013": -0.005767319084971689,
+          "2014": -0.013417546816072878
+        },
+        "full_seed_gains_vs_baseline": {
+          "0": -0.011261745777380483,
+          "101": -0.005969826214993035,
+          "202": -0.011092643912399947
+        }
+      },
+      "baseline_reused": false
+    },
+    {
+      "profile_id": "none_o4p0_n128",
+      "requested_profile_ids": [
+        "none_o4p0_n128",
+        "none_o4p0_n256"
+      ],
+      "requested_estimators": [
+        128,
+        256
+      ],
+      "effective_estimators": [
+        127
+      ],
+      "complete": true,
+      "best_actual_multifamily_stack": {
+        "panel_id": "f50_game_team",
+        "policy_id": "h_s2008_gap1_all_h1",
+        "profile_id": "none_o4p0_n128",
+        "architecture": "profile_stack_1404",
+        "recipe": {
+          "id": "profile_stack_1404",
+          "kind": "fixed_rank_weights",
+          "members": [
+            {
+              "family": "tabicl",
+              "units": 4,
+              "panel_id": "f50_game_team",
+              "profile_id": "none_o4p0_n128"
+            },
+            {
+              "family": "ridge_a30",
+              "units": 4,
+              "panel_id": "f50_game_team",
+              "profile_id": null
+            },
+            {
+              "family": "catboost",
+              "units": 4,
+              "panel_id": "base44",
+              "profile_id": null
+            }
+          ],
+          "weight_total": 12,
+          "design_aliases": [
+            {
+              "profile_id": "none_o4p0_n128",
+              "R_panel": "f50_game_team",
+              "C_panel": "base44",
+              "same_panel_recipe": "stack_015"
+            },
+            {
+              "profile_id": "none_o4p0_n256",
+              "R_panel": "f50_game_team",
+              "C_panel": "base44",
+              "same_panel_recipe": "stack_015"
+            }
+          ]
+        },
+        "member_control": false,
+        "multi_family_every_fold_seed": true,
+        "diagnostic_only": true,
+        "no_automatic_promotion": true,
+        "full": {
+          "mean_score": 0.4173492688287499,
+          "fold_scores": {
+            "2012": 0.3675344081539536,
+            "2013": 0.41089161203094254,
+            "2014": 0.47362178630135343
+          },
+          "seed_scores": {
+            "0": 0.43038052544285516,
+            "101": 0.39808051564162433,
+            "202": 0.42358676540177015
+          },
+          "fixed_three_seed_family_rank_average": 0.4201045623402506
+        },
+        "observed": {
+          "mean_score": 0.5028109994329031,
+          "fold_scores": {
+            "2012": 0.5407650726461845,
+            "2013": 0.3881442247706155,
+            "2014": 0.5795237008819093
+          },
+          "seed_scores": {
+            "0": 0.5040321792833483,
+            "101": 0.48425544042664964,
+            "202": 0.5201453785887111
+          },
+          "fixed_three_seed_family_rank_average": 0.5252582346538094
+        },
+        "full_gain_vs_same_recipe_baseline_profile": -0.007120631293897561,
+        "full_fold_gains_vs_baseline": {
+          "2012": -0.005089411651004849,
+          "2013": -0.00392287870707464,
+          "2014": -0.012349603523613417
+        },
+        "full_seed_gains_vs_baseline": {
+          "0": -0.009102632156523516,
+          "101": -0.004373391523937453,
+          "202": -0.00788587020123177
+        }
+      },
+      "baseline_reused": false
+    },
+    {
+      "profile_id": "power_o2p0_n64",
+      "requested_profile_ids": [
+        "power_o2p0_n64"
+      ],
+      "requested_estimators": [
+        64
+      ],
+      "effective_estimators": [
+        64
+      ],
+      "complete": true,
+      "best_actual_multifamily_stack": {
+        "panel_id": "f50_game_team",
+        "policy_id": "h_s2008_gap1_all_h1",
+        "profile_id": "power_o2p0_n64",
+        "architecture": "profile_stack_1550",
+        "recipe": {
+          "id": "profile_stack_1550",
+          "kind": "fixed_rank_weights",
+          "members": [
+            {
+              "family": "tabicl",
+              "units": 4,
+              "panel_id": "f50_game_team",
+              "profile_id": "power_o2p0_n64"
+            },
+            {
+              "family": "ridge_a30",
+              "units": 4,
+              "panel_id": "f50_game_team",
+              "profile_id": null
+            },
+            {
+              "family": "catboost",
+              "units": 4,
+              "panel_id": "base44",
+              "profile_id": null
+            }
+          ],
+          "weight_total": 12,
+          "design_aliases": [
+            {
+              "profile_id": "power_o2p0_n64",
+              "R_panel": "f50_game_team",
+              "C_panel": "base44",
+              "same_panel_recipe": "stack_015"
+            }
+          ]
+        },
+        "member_control": false,
+        "multi_family_every_fold_seed": true,
+        "diagnostic_only": true,
+        "no_automatic_promotion": true,
+        "full": {
+          "mean_score": 0.42190348665178484,
+          "fold_scores": {
+            "2012": 0.378824845598513,
+            "2013": 0.403948983936293,
+            "2014": 0.48293663042054863
+          },
+          "seed_scores": {
+            "0": 0.44000594461294007,
+            "101": 0.40013188123267635,
+            "202": 0.42557263410973817
+          },
+          "fixed_three_seed_family_rank_average": 0.42518487373405
+        },
+        "observed": {
+          "mean_score": 0.5061990532993421,
+          "fold_scores": {
+            "2012": 0.5400205936969558,
+            "2013": 0.3920418979285842,
+            "2014": 0.5865346682724863
+          },
+          "seed_scores": {
+            "0": 0.5079580249152554,
+            "101": 0.4875088581456288,
+            "202": 0.5231302768371421
+          },
+          "fixed_three_seed_family_rank_average": 0.5183489817428157
+        },
+        "full_gain_vs_same_recipe_baseline_profile": -0.0025664134708626163,
+        "full_fold_gains_vs_baseline": {
+          "2012": 0.0062010257935545265,
+          "2013": -0.010865506801724156,
+          "2014": -0.003034759404418219
+        },
+        "full_seed_gains_vs_baseline": {
+          "0": 0.0005227870135613988,
+          "101": -0.002322025932885441,
+          "202": -0.005900001493263751
+        }
+      },
+      "baseline_reused": false
+    },
+    {
+      "profile_id": "power_o2p0_n128",
+      "requested_profile_ids": [
+        "power_o2p0_n128",
+        "power_o2p0_n256"
+      ],
+      "requested_estimators": [
+        128,
+        256
+      ],
+      "effective_estimators": [
+        127
+      ],
+      "complete": true,
+      "best_actual_multifamily_stack": {
+        "panel_id": "f50_game_team",
+        "policy_id": "h_s2008_gap1_all_h1",
+        "profile_id": "power_o2p0_n128",
+        "architecture": "profile_stack_1623",
+        "recipe": {
+          "id": "profile_stack_1623",
+          "kind": "fixed_rank_weights",
+          "members": [
+            {
+              "family": "tabicl",
+              "units": 4,
+              "panel_id": "f50_game_team",
+              "profile_id": "power_o2p0_n128"
+            },
+            {
+              "family": "ridge_a30",
+              "units": 4,
+              "panel_id": "f50_game_team",
+              "profile_id": null
+            },
+            {
+              "family": "catboost",
+              "units": 4,
+              "panel_id": "base44",
+              "profile_id": null
+            }
+          ],
+          "weight_total": 12,
+          "design_aliases": [
+            {
+              "profile_id": "power_o2p0_n128",
+              "R_panel": "f50_game_team",
+              "C_panel": "base44",
+              "same_panel_recipe": "stack_015"
+            },
+            {
+              "profile_id": "power_o2p0_n256",
+              "R_panel": "f50_game_team",
+              "C_panel": "base44",
+              "same_panel_recipe": "stack_015"
+            }
+          ]
+        },
+        "member_control": false,
+        "multi_family_every_fold_seed": true,
+        "diagnostic_only": true,
+        "no_automatic_promotion": true,
+        "full": {
+          "mean_score": 0.419694260212921,
+          "fold_scores": {
+            "2012": 0.3741325279578156,
+            "2013": 0.40390741911613365,
+            "2014": 0.48104283356481387
+          },
+          "seed_scores": {
+            "0": 0.4352417036200357,
+            "101": 0.39697174894762516,
+            "202": 0.4268693280711023
+          },
+          "fixed_three_seed_family_rank_average": 0.4232776368441034
+        },
+        "observed": {
+          "mean_score": 0.5044288455502199,
+          "fold_scores": {
+            "2012": 0.5388736578732949,
+            "2013": 0.3882796745351706,
+            "2014": 0.5861332042421944
+          },
+          "seed_scores": {
+            "0": 0.5015244128748939,
+            "101": 0.4886953855540523,
+            "202": 0.5230667382217137
+          },
+          "fixed_three_seed_family_rank_average": 0.5186236599616768
+        },
+        "full_gain_vs_same_recipe_baseline_profile": -0.004775639909726459,
+        "full_fold_gains_vs_baseline": {
+          "2012": 0.001508708152857141,
+          "2013": -0.010907071621883535,
+          "2014": -0.004928556260152983
+        },
+        "full_seed_gains_vs_baseline": {
+          "0": -0.004241453979342946,
+          "101": -0.005482158217936628,
+          "202": -0.004603307531899636
+        }
+      },
+      "baseline_reused": false
+    }
+  ],
+  "admission_counts": {
+    "requested_profiles": 23,
+    "active_distinct_profiles": 18,
+    "baseline_profiles_reused": 1,
+    "excluded_profiles": {},
+    "requested_new_jobs": 66,
+    "active_new_jobs": 51,
+    "requested_new_fits": 198,
+    "active_new_fits": 153,
+    "profile_aliases": {
+      "none_o2p0_n32": "none_o2p0_n32",
+      "none_o0p5_n16": "none_o0p5_n16",
+      "none_o0p5_n32": "none_o0p5_n32",
+      "none_o0p5_n64": "none_o0p5_n64",
+      "none_o0p5_n128": "none_o0p5_n128",
+      "none_o0p5_n256": "none_o0p5_n128",
+      "none_o1p0_n16": "none_o1p0_n16",
+      "none_o1p0_n32": "none_o1p0_n32",
+      "none_o1p0_n64": "none_o1p0_n64",
+      "none_o1p0_n128": "none_o1p0_n128",
+      "none_o1p0_n256": "none_o1p0_n128",
+      "none_o2p0_n16": "none_o2p0_n16",
+      "none_o2p0_n64": "none_o2p0_n64",
+      "none_o2p0_n128": "none_o2p0_n128",
+      "none_o2p0_n256": "none_o2p0_n128",
+      "none_o4p0_n16": "none_o4p0_n16",
+      "none_o4p0_n32": "none_o4p0_n32",
+      "none_o4p0_n64": "none_o4p0_n64",
+      "none_o4p0_n128": "none_o4p0_n128",
+      "none_o4p0_n256": "none_o4p0_n128",
+      "power_o2p0_n64": "power_o2p0_n64",
+      "power_o2p0_n128": "power_o2p0_n128",
+      "power_o2p0_n256": "power_o2p0_n128"
+    }
+  },
+  "scored_prediction_records": 16296,
+  "stack_recipe_count": 1358,
+  "full_pool_primary": true,
+  "subset_secondary": true,
+  "learned_weights": false,
+  "no2019plus_access": true
+}

@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "frozen_files_verified": 50,
+  "model_fit_records_verified": 49,
+  "stack_prediction_records_verified": 28,
+  "all7preflight_and_actual_TabICL_fingerprints_exact": true,
+  "all_model_parameters_input_target_and_PID_hashes_verified": true,
+  "all_training_actual_season_cutoffs_verified": true,
+  "scoring_performed": false,
+  "test_answers_read": false
+}

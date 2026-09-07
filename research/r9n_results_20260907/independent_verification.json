@@ -1,0 +1,41 @@
+{
+  "passed": true,
+  "finished_utc": "2026-09-07T12:48:35.148893+00:00",
+  "frozen_files": 210,
+  "frozen_sha256": "572ea77c8e6526df74d9217c1e34c11fc4c6fdbdf30031d08e93dec64cfb904b",
+  "new_jobs": 51,
+  "new_TabICL_fits": 153,
+  "preprocessing_fingerprints_verified": 153,
+  "all_equal_input_ties_reconstructed": true,
+  "reference_gate": {
+    "passed": true,
+    "reused_records": 6,
+    "new_control_fits": 0,
+    "exact_member_fold_seed_vectors": 90,
+    "source_records_unchanged": true,
+    "M_frozen_sha256": "32a9ac2ec968ebb281027020e5a244eb9a040d589318b3c5dd577da9ece27b00",
+    "source_record_hash_manifest_sha256": "c9766fef62df7b7a86c35e720d48088ac4f9ff4b73927567620b222c6cfdb28d",
+    "source_completed_log_sha256": "759257056432fce91e7d4d605bb60ebe824b41fcba407cb7d98bbe7c9bb31d7d",
+    "exact_M_recipe_prediction_records": 24,
+    "both_frozen_metrics_exact": true,
+    "M_reference_recipes": [
+      "cross_0771",
+      "samepanel_stack_013"
+    ],
+    "before_new_profile_fits": true
+  },
+  "recipes": 1358,
+  "prediction_score_records": 16296,
+  "entire_saved_summary_reproduced_exactly": true,
+  "independent_rank_predictions_byte_exact": true,
+  "independent_scipy_score_max_error": 1.1102230246251565e-16,
+  "primary_best_recipe": "profile_stack_0820",
+  "primary_full_score": 0.4269445242479837,
+  "strongest_standalone": 0.4078175786984717,
+  "fixed_seed_average": 0.4227862389833256,
+  "no2019plus_access": true,
+  "no_new_fits": true,
+  "completion_sha256": "970aaa7b732b8ed661395d970505149556120252043db90286b2a40cbad14e2e",
+  "result_manifest_sha256": "b863426c7145d565040806e1c6a13a8eaf5a411165951ba680fd03c182f36512",
+  "selection_sha256": "3a7d2c1898d5b319b59342892bf52596cc3e1fa418eb92b8a34d3a7af38506fa"
+}

@@ -1,0 +1,45 @@
+{
+  "policy": "Explicit result/archive publication only; no inputs, truth, private label arrays, names, credentials, or K raw records.",
+  "files": {
+    "README.md": {
+      "sha256": "a7c9e3e4bc30847917d94ce28ef098abf580a71d269e6c83aa86e3d497e84756",
+      "bytes": 890
+    },
+    "archive_manifest.json": {
+      "sha256": "765f7e41cf807184b9a10064ae001bc1f7f1500ad0e85d1be7ab862e9213abe1",
+      "bytes": 10203
+    },
+    "compact_results.json": {
+      "sha256": "ab23fcbfd2de2aed7fa29d744baa72110db7e4cc7d7d7911fa1f88d42865f0e0",
+      "bytes": 60195
+    },
+    "completion.json": {
+      "sha256": "970aaa7b732b8ed661395d970505149556120252043db90286b2a40cbad14e2e",
+      "bytes": 257
+    },
+    "independent_verification.json": {
+      "sha256": "65d604521111161924aebad9368ae08693e3dd0abd0e230dd401733fc472aac9",
+      "bytes": 1739
+    },
+    "reference_gate.json": {
+      "sha256": "8c0a6a9adb8250547f47f9e1457e2a5e3ab3ae7a60682edf7e2a36129cfda7b0",
+      "bytes": 634
+    },
+    "result_manifest.json": {
+      "sha256": "b863426c7145d565040806e1c6a13a8eaf5a411165951ba680fd03c182f36512",
+      "bytes": 11164
+    },
+    "results.tar.gz": {
+      "sha256": "3559aaf3822ff13139d1a82893f68b0b47bca7a42c6400eb80633680caea2ceb",
+      "bytes": 5080032
+    },
+    "selection.json": {
+      "sha256": "3a7d2c1898d5b319b59342892bf52596cc3e1fa418eb92b8a34d3a7af38506fa",
+      "bytes": 12866
+    },
+    "verify_completed.py": {
+      "sha256": "ba0fddac4f1c3ba0ef11543323c46e3b735cb5c0bd63a9109b0ff97a75f646d6",
+      "bytes": 7655
+    }
+  }
+}

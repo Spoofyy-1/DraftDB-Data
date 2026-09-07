@@ -1,0 +1,156 @@
+[
+  {
+    "year": 2019,
+    "kind": "player",
+    "url": "https://barttorvik.com/2019_all_advgames.json.gz",
+    "path": "raw/player_2019.bin",
+    "sha256": "51feebb07b92701c0540fd1eb2e47bdc89842365ea2a83e6f02d9697afd03d72",
+    "bytes": 10516988,
+    "rows": 110874,
+    "retrieved_at_utc": "2026-09-07T12:50:17.105408+00:00",
+    "original_publication_vintage_verified": false
+  },
+  {
+    "year": 2019,
+    "kind": "team",
+    "url": "https://barttorvik.com/2019_season.json",
+    "path": "raw/team_2019.bin",
+    "sha256": "600a26ec6cc395889eab915720f680adc0c0b1e762e4dc5867cc90caa7a998c6",
+    "bytes": 375849,
+    "rows": 6049,
+    "retrieved_at_utc": "2026-09-07T12:50:14.810827+00:00",
+    "original_publication_vintage_verified": false
+  },
+  {
+    "year": 2020,
+    "kind": "player",
+    "url": "https://barttorvik.com/2020_all_advgames.json.gz",
+    "path": "raw/player_2020.bin",
+    "sha256": "67c71ef5eefea53da7899e1ae48eb94346df2276a74b0ee6898b25c0713637c7",
+    "bytes": 10084604,
+    "rows": 104964,
+    "retrieved_at_utc": "2026-09-07T12:50:16.999172+00:00",
+    "original_publication_vintage_verified": false
+  },
+  {
+    "year": 2020,
+    "kind": "team",
+    "url": "https://barttorvik.com/2020_season.json",
+    "path": "raw/team_2020.bin",
+    "sha256": "50f84ebff7799f3285fd042e429cc99fdd9b102d09757a3e12cb8da698a584d3",
+    "bytes": 358348,
+    "rows": 5763,
+    "retrieved_at_utc": "2026-09-07T12:50:14.701263+00:00",
+    "original_publication_vintage_verified": false
+  },
+  {
+    "year": 2021,
+    "kind": "player",
+    "url": "https://barttorvik.com/2021_all_advgames.json.gz",
+    "path": "raw/player_2021.bin",
+    "sha256": "2957c809aaecae4798be3ecb30df48554c9ecc08a783784669d98c1cdfbfed91",
+    "bytes": 7635714,
+    "rows": 78877,
+    "retrieved_at_utc": "2026-09-07T12:50:19.681066+00:00",
+    "original_publication_vintage_verified": false
+  },
+  {
+    "year": 2021,
+    "kind": "team",
+    "url": "https://barttorvik.com/2021_season.json",
+    "path": "raw/team_2021.bin",
+    "sha256": "b9aa4dc1a5df51999586b518db1fcdcb7375a798aba9e188b3c23c4d0e9cf8b6",
+    "bytes": 254569,
+    "rows": 4286,
+    "retrieved_at_utc": "2026-09-07T12:50:17.297999+00:00",
+    "original_publication_vintage_verified": false
+  },
+  {
+    "year": 2022,
+    "kind": "player",
+    "url": "https://barttorvik.com/2022_all_advgames.json.gz",
+    "path": "raw/player_2022.bin",
+    "sha256": "fb588309c7a198e5fa3482488acfcc742ae8042bbf3229723906d84f98d7dad0",
+    "bytes": 10672914,
+    "rows": 108177,
+    "retrieved_at_utc": "2026-09-07T12:50:18.840157+00:00",
+    "original_publication_vintage_verified": false
+  },
+  {
+    "year": 2022,
+    "kind": "team",
+    "url": "https://barttorvik.com/2022_season.json",
+    "path": "raw/team_2022.bin",
+    "sha256": "1771f408ba3246d69998d0c900006cda494ea12e5f25df5efecc3a37c1d1ea07",
+    "bytes": 368531,
+    "rows": 5967,
+    "retrieved_at_utc": "2026-09-07T12:50:17.670113+00:00",
+    "original_publication_vintage_verified": false
+  },
+  {
+    "year": 2023,
+    "kind": "player",
+    "url": "https://barttorvik.com/2023_all_advgames.json.gz",
+    "path": "raw/player_2023.bin",
+    "sha256": "eb523f55f17c75287bc56dd52e03a6b25cc38dc0709cc9583fcfa210792e0fb5",
+    "bytes": 11154368,
+    "rows": 112744,
+    "retrieved_at_utc": "2026-09-07T12:50:20.732076+00:00",
+    "original_publication_vintage_verified": false
+  },
+  {
+    "year": 2023,
+    "kind": "team",
+    "url": "https://barttorvik.com/2023_season.json",
+    "path": "raw/team_2023.bin",
+    "sha256": "e7205d0972739763fe85c41c40dc726caf130790435a2c2d750b6578ea30bdc4",
+    "bytes": 381826,
+    "rows": 6221,
+    "retrieved_at_utc": "2026-09-07T12:50:20.847116+00:00",
+    "original_publication_vintage_verified": false
+  },
+  {
+    "year": 2024,
+    "kind": "player",
+    "url": "https://barttorvik.com/2024_all_advgames.json.gz",
+    "path": "raw/player_2024.bin",
+    "sha256": "ea6e21782a6b95c2029e253bb41fb9ddd5bb363336518584abe77f80eae8b0d9",
+    "bytes": 11222085,
+    "rows": 113103,
+    "retrieved_at_utc": "2026-09-07T12:50:22.309319+00:00",
+    "original_publication_vintage_verified": false
+  },
+  {
+    "year": 2024,
+    "kind": "team",
+    "url": "https://barttorvik.com/2024_season.json",
+    "path": "raw/team_2024.bin",
+    "sha256": "a5a0dcab9b691d507bbcb26558d4884d19d05109fff56dc836701c07e82604d3",
+    "bytes": 384431,
+    "rows": 6243,
+    "retrieved_at_utc": "2026-09-07T12:50:21.219996+00:00",
+    "original_publication_vintage_verified": false
+  },
+  {
+    "year": 2025,
+    "kind": "player",
+    "url": "https://barttorvik.com/2025_all_advgames.json.gz",
+    "path": "raw/player_2025.bin",
+    "sha256": "dd3ba95c0e419fd18ebd912be9f1ae73957b768ac354ac60e2be7a69566b3855",
+    "bytes": 11354658,
+    "rows": 114218,
+    "retrieved_at_utc": "2026-09-07T12:50:23.700327+00:00",
+    "original_publication_vintage_verified": false
+  },
+  {
+    "year": 2025,
+    "kind": "team",
+    "url": "https://barttorvik.com/2025_season.json",
+    "path": "raw/team_2025.bin",
+    "sha256": "5594de49de7edaa17c55f8b7344bf30e55d4378743c18a9a3fb7a42cc1dfb154",
+    "bytes": 410098,
+    "rows": 6293,
+    "retrieved_at_utc": "2026-09-07T12:50:21.350953+00:00",
+    "original_publication_vintage_verified": false
+  }
+]

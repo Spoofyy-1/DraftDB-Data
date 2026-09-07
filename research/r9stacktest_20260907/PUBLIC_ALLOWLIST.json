@@ -1,0 +1,41 @@
+{
+  "policy": "Explicit audited code/predictions/aggregate-results only; no private WAR labels or NPZ. Raw sources and inputpackage are separate.",
+  "files": {
+    "frozen_stack_test.tar.gz": {
+      "sha256": "81a206695ec744d4c5b2f86859ac8515de0f80d2f01b8aa7d29f0b8988d87551",
+      "bytes": 316996
+    },
+    "README.md": {
+      "sha256": "4a97a02c16cbdbc57347d77db8583584b9d0b67817bc15409e3fb6bc46739804",
+      "bytes": 2999
+    },
+    "prediction_freeze.json": {
+      "sha256": "de2a47dd6289c4097d12b62cbaf42c70dc1fb3216d59a4f747e5e8f7dbcf0910",
+      "bytes": 4373
+    },
+    "root_source_review.json": {
+      "sha256": "cbd8aa996f5d3ab4a6da8b1a98887dd66608a4e442617bdaf85defd04fdb98a8",
+      "bytes": 12802
+    },
+    "test_result.json": {
+      "sha256": "3d632f329c00a52b4a6a8097441486a880f53490cb1501f4a0dceda383a2dfcc",
+      "bytes": 11624
+    },
+    "ARCHIVE_MANIFEST.json": {
+      "sha256": "d1bbdb67da27628fdabc162a86d28928520b233c82d792daa74d378fd0954772",
+      "bytes": 9220
+    },
+    "selection.json": {
+      "sha256": "3a7d2c1898d5b319b59342892bf52596cc3e1fa418eb92b8a34d3a7af38506fa",
+      "bytes": 12866
+    },
+    "prediction_verification.json": {
+      "sha256": "3a4f2d81f017b1984e3b87b62414b89322ed61a55f5890eca43399ee5fdc6b7a",
+      "bytes": 377
+    },
+    "dashboard_verification.json": {
+      "sha256": "723916df2bafacacc4d505c987597e0abc8502f3c8b5bb7109f379d7b56cba82",
+      "bytes": 255
+    }
+  }
+}

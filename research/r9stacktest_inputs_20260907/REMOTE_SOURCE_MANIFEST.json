@@ -1,0 +1,350 @@
+{
+  "policy": "All16derived predictor/metadata tables are included losslessly as gzip. Original manifests remain byte-identical. Historical raw source archives remain on the GPU server due to the transfer cap. They never enter model-worker bundles.",
+  "remote_root": "/home/ubuntu/nba/handoff/r9stacktest_features",
+  "raw_sources": [
+    {
+      "path": "raw/player_2018.bin",
+      "sha256": "f61dcd425f3141019d253f4552a96aa68b040782386f7dba1b36716492c271bd",
+      "bytes": 10407565,
+      "already_gzip_compressed": true,
+      "url": null,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/raw/player_2018.bin"
+    },
+    {
+      "path": "raw/player_2019.bin",
+      "sha256": "51feebb07b92701c0540fd1eb2e47bdc89842365ea2a83e6f02d9697afd03d72",
+      "bytes": 10516988,
+      "already_gzip_compressed": true,
+      "url": "https://barttorvik.com/2019_all_advgames.json.gz",
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/raw/player_2019.bin"
+    },
+    {
+      "path": "raw/player_2020.bin",
+      "sha256": "67c71ef5eefea53da7899e1ae48eb94346df2276a74b0ee6898b25c0713637c7",
+      "bytes": 10084604,
+      "already_gzip_compressed": true,
+      "url": "https://barttorvik.com/2020_all_advgames.json.gz",
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/raw/player_2020.bin"
+    },
+    {
+      "path": "raw/player_2021.bin",
+      "sha256": "2957c809aaecae4798be3ecb30df48554c9ecc08a783784669d98c1cdfbfed91",
+      "bytes": 7635714,
+      "already_gzip_compressed": true,
+      "url": "https://barttorvik.com/2021_all_advgames.json.gz",
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/raw/player_2021.bin"
+    },
+    {
+      "path": "raw/player_2022.bin",
+      "sha256": "fb588309c7a198e5fa3482488acfcc742ae8042bbf3229723906d84f98d7dad0",
+      "bytes": 10672914,
+      "already_gzip_compressed": true,
+      "url": "https://barttorvik.com/2022_all_advgames.json.gz",
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/raw/player_2022.bin"
+    },
+    {
+      "path": "raw/player_2023.bin",
+      "sha256": "eb523f55f17c75287bc56dd52e03a6b25cc38dc0709cc9583fcfa210792e0fb5",
+      "bytes": 11154368,
+      "already_gzip_compressed": true,
+      "url": "https://barttorvik.com/2023_all_advgames.json.gz",
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/raw/player_2023.bin"
+    },
+    {
+      "path": "raw/player_2024.bin",
+      "sha256": "ea6e21782a6b95c2029e253bb41fb9ddd5bb363336518584abe77f80eae8b0d9",
+      "bytes": 11222085,
+      "already_gzip_compressed": true,
+      "url": "https://barttorvik.com/2024_all_advgames.json.gz",
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/raw/player_2024.bin"
+    },
+    {
+      "path": "raw/player_2025.bin",
+      "sha256": "dd3ba95c0e419fd18ebd912be9f1ae73957b768ac354ac60e2be7a69566b3855",
+      "bytes": 11354658,
+      "already_gzip_compressed": true,
+      "url": "https://barttorvik.com/2025_all_advgames.json.gz",
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/raw/player_2025.bin"
+    },
+    {
+      "path": "raw/team_2018.bin",
+      "sha256": "d1442df152a7400ef0395a9063575a279e236587ebfbd2af49575018c23c5e70",
+      "bytes": 1456783,
+      "already_gzip_compressed": false,
+      "url": null,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/raw/team_2018.bin"
+    },
+    {
+      "path": "raw/team_2019.bin",
+      "sha256": "600a26ec6cc395889eab915720f680adc0c0b1e762e4dc5867cc90caa7a998c6",
+      "bytes": 375849,
+      "already_gzip_compressed": true,
+      "url": "https://barttorvik.com/2019_season.json",
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/raw/team_2019.bin"
+    },
+    {
+      "path": "raw/team_2020.bin",
+      "sha256": "50f84ebff7799f3285fd042e429cc99fdd9b102d09757a3e12cb8da698a584d3",
+      "bytes": 358348,
+      "already_gzip_compressed": true,
+      "url": "https://barttorvik.com/2020_season.json",
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/raw/team_2020.bin"
+    },
+    {
+      "path": "raw/team_2021.bin",
+      "sha256": "b9aa4dc1a5df51999586b518db1fcdcb7375a798aba9e188b3c23c4d0e9cf8b6",
+      "bytes": 254569,
+      "already_gzip_compressed": true,
+      "url": "https://barttorvik.com/2021_season.json",
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/raw/team_2021.bin"
+    },
+    {
+      "path": "raw/team_2022.bin",
+      "sha256": "1771f408ba3246d69998d0c900006cda494ea12e5f25df5efecc3a37c1d1ea07",
+      "bytes": 368531,
+      "already_gzip_compressed": true,
+      "url": "https://barttorvik.com/2022_season.json",
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/raw/team_2022.bin"
+    },
+    {
+      "path": "raw/team_2023.bin",
+      "sha256": "e7205d0972739763fe85c41c40dc726caf130790435a2c2d750b6578ea30bdc4",
+      "bytes": 381826,
+      "already_gzip_compressed": true,
+      "url": "https://barttorvik.com/2023_season.json",
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/raw/team_2023.bin"
+    },
+    {
+      "path": "raw/team_2024.bin",
+      "sha256": "a5a0dcab9b691d507bbcb26558d4884d19d05109fff56dc836701c07e82604d3",
+      "bytes": 384431,
+      "already_gzip_compressed": true,
+      "url": "https://barttorvik.com/2024_season.json",
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/raw/team_2024.bin"
+    },
+    {
+      "path": "raw/team_2025.bin",
+      "sha256": "5594de49de7edaa17c55f8b7344bf30e55d4378743c18a9a3fb7a42cc1dfb154",
+      "bytes": 410098,
+      "already_gzip_compressed": true,
+      "url": "https://barttorvik.com/2025_season.json",
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/raw/team_2025.bin"
+    }
+  ],
+  "support_sources": [
+    {
+      "path": "source/base_2019.csv",
+      "sha256": "d9addff546574db23feb8b5a6aa6053e495c9284a091dcdbd6cb06682d4551f8",
+      "bytes": 40142,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/source/base_2019.csv"
+    },
+    {
+      "path": "source/base_2020.csv",
+      "sha256": "a308576dcde60f4a0e02dc42df1f10e94e292a3cef7426feab7fc44402c891f2",
+      "bytes": 30803,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/source/base_2020.csv"
+    },
+    {
+      "path": "source/base_2021.csv",
+      "sha256": "4f9e741f7eebf5d165b0a87cdadea31f2a0caf05444ff58d6a1bb8540704de04",
+      "bytes": 68702,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/source/base_2021.csv"
+    },
+    {
+      "path": "source/base_2022.csv",
+      "sha256": "d357540da76b9c719972083c169a6005248c1d4ebfef29c39a9ddfef4c5564c0",
+      "bytes": 27679,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/source/base_2022.csv"
+    },
+    {
+      "path": "source/base_2023.csv",
+      "sha256": "2e7b3d1ba1d0b548004d11a81587cc95ed924a15da6c4d586ef6174d7a6d1cc6",
+      "bytes": 28255,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/source/base_2023.csv"
+    },
+    {
+      "path": "source/base_2024.csv",
+      "sha256": "af50369481adbee12e9fab65e358aba4c02dee24675f2bfbb8abc41a7f53a9e3",
+      "bytes": 30904,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/source/base_2024.csv"
+    },
+    {
+      "path": "source/base_2025.csv",
+      "sha256": "2c78b52493d69bf85f9bc3d0854f656a272066bb2761901960e4c5d70f1be85c",
+      "bytes": 31110,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/source/base_2025.csv"
+    },
+    {
+      "path": "source/base_manifest.json",
+      "sha256": "8967e98b194a4739d56fda65e1ef794a3efa7270b274f33fff89ee32dfb5f973",
+      "bytes": 29802,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/source/base_manifest.json"
+    },
+    {
+      "path": "source/draft_dates.json",
+      "sha256": "b49facf4effb21208ad86e250ad5cdda31b234056f5d289c8f23148f730bcdc0",
+      "bytes": 170,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/source/draft_dates.json"
+    },
+    {
+      "path": "source/f50_2019.csv",
+      "sha256": "35846b48affb252dee615a0cb69af0d498a6041fbbb76ed54b4880ba1db17509",
+      "bytes": 99363,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/source/f50_2019.csv"
+    },
+    {
+      "path": "source/f50_2020.csv",
+      "sha256": "8b119459decbe02fca2daadb6c5c547018f1580830b1a3a0b708551a5e6c0d98",
+      "bytes": 73379,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/source/f50_2020.csv"
+    },
+    {
+      "path": "source/f50_2021.csv",
+      "sha256": "cd77418546ce5e0bd73b8b790cb5cd862c797ebb0c7b01f59dc45c6eadb19bf2",
+      "bytes": 175713,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/source/f50_2021.csv"
+    },
+    {
+      "path": "source/f50_2022.csv",
+      "sha256": "a44b9c9eb023f8edf840ce6d3497fbb576915b6491d8ae60477f09dbdc60c777",
+      "bytes": 65269,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/source/f50_2022.csv"
+    },
+    {
+      "path": "source/f50_2023.csv",
+      "sha256": "7d9d235b19509dcf655ef9fbfe463cfcb828d2a08af39b28976bc7800fda5a08",
+      "bytes": 67439,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/source/f50_2023.csv"
+    },
+    {
+      "path": "source/f50_2024.csv",
+      "sha256": "034dc1b920f16c68f007a956784d533f28c34648641f08849dd91ca1964f06aa",
+      "bytes": 73960,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/source/f50_2024.csv"
+    },
+    {
+      "path": "source/f50_2025.csv",
+      "sha256": "1160d5a423d29b67f4b41c3fd7d87755d793b88131d69cd653934f7dcbe842cd",
+      "bytes": 77293,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/source/f50_2025.csv"
+    },
+    {
+      "path": "source/fifty_manifest.json",
+      "sha256": "a21ce504d1868671cb0ef5935bf29e0a4f6e7458119a9788468eef535f7421f8",
+      "bytes": 440612,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/source/fifty_manifest.json"
+    },
+    {
+      "path": "source/lineage.json",
+      "sha256": "2e790af9efbdbf54e4ed1b1fe9c5c308e760544ed7bede64d83a2e1eac2b388c",
+      "bytes": 7423669,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/source/lineage.json"
+    },
+    {
+      "path": "source/local_pins.json",
+      "sha256": "2f999f32af6bf893059b56d8d88546d5740914147be983a7e1cdf0d5321ee6cd",
+      "bytes": 3396,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/source/local_pins.json"
+    },
+    {
+      "path": "source/metadata_2019.csv",
+      "sha256": "b76221210235d67b4f9749d0ae54c5de428077ed749f4e68c94d1babde75396c",
+      "bytes": 2768,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/source/metadata_2019.csv"
+    },
+    {
+      "path": "source/metadata_2020.csv",
+      "sha256": "0ddffc5096938e9a4a45a1958bd72fde783af293e1dfabf1b4d572a2afb9ba4d",
+      "bytes": 2268,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/source/metadata_2020.csv"
+    },
+    {
+      "path": "source/metadata_2021.csv",
+      "sha256": "0e64febcfdd3e6eecea8490f6a8ea67efcc5f101931f68c601aaac9ac592244a",
+      "bytes": 4688,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/source/metadata_2021.csv"
+    },
+    {
+      "path": "source/metadata_2022.csv",
+      "sha256": "860e4da0ebd65050498fc2a81a709f8e4cb2f4befa23173832088ded7050cfea",
+      "bytes": 1968,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/source/metadata_2022.csv"
+    },
+    {
+      "path": "source/metadata_2023.csv",
+      "sha256": "2a6ad1c4cda09c4c552d29177ac976257177c0f2c4ebefbb9cab693fa16d4fee",
+      "bytes": 2048,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/source/metadata_2023.csv"
+    },
+    {
+      "path": "source/metadata_2024.csv",
+      "sha256": "df6382421c51aece4bad3ff15d402754b167ec7a5b917c773ee4d021d3b3af5b",
+      "bytes": 2308,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/source/metadata_2024.csv"
+    },
+    {
+      "path": "source/metadata_2025.csv",
+      "sha256": "5c0ae6c801732da2154b364752bdded8d6673fc90419a132f10688b29a8fa0e8",
+      "bytes": 2148,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/source/metadata_2025.csv"
+    },
+    {
+      "path": "source/reference_game_team.csv",
+      "sha256": "98f485709f136b5e4f716b6e15c877649fc48a7bb80fe38e9d9876317bebf596",
+      "bytes": 436734,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/source/reference_game_team.csv"
+    },
+    {
+      "path": "source/torvik_2018.csv.gz",
+      "sha256": "d8f238e8e982f74a4265895e0e7ca5cdbf7aec61b81e515bd688ede4777417a0",
+      "bytes": 789844,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/source/torvik_2018.csv.gz"
+    },
+    {
+      "path": "source/torvik_2019.csv.gz",
+      "sha256": "64c17df8a52eee009f7ec95c4799f9da2c6ee560ea193697da745bfd38f397b9",
+      "bytes": 794066,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/source/torvik_2019.csv.gz"
+    },
+    {
+      "path": "source/torvik_2020.csv.gz",
+      "sha256": "862d0c13879ac3600a47237308813410682db3cf0dcaa1985b6fad119b5f33c4",
+      "bytes": 790607,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/source/torvik_2020.csv.gz"
+    },
+    {
+      "path": "source/torvik_2021.csv.gz",
+      "sha256": "88b32ab14ffb4d156c547395f773c7a91541ca5c5d2d303f763dd6bd5450f294",
+      "bytes": 812460,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/source/torvik_2021.csv.gz"
+    },
+    {
+      "path": "source/torvik_2022.csv.gz",
+      "sha256": "3d2813b608c2b2eaefe713e8bd26a150d1b9fad6f50e263fc23219842a03afcf",
+      "bytes": 837895,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/source/torvik_2022.csv.gz"
+    },
+    {
+      "path": "source/torvik_2023.csv.gz",
+      "sha256": "b7efa161945f479f8b658ddbc8b3168c29a9b070d41fab83a45b63077e71b654",
+      "bytes": 841264,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/source/torvik_2023.csv.gz"
+    },
+    {
+      "path": "source/torvik_2024.csv.gz",
+      "sha256": "587476f1f12d4b75efb61b42af103b61838e7cf5abd1e4a68df2c599e254fad3",
+      "bytes": 835920,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/source/torvik_2024.csv.gz"
+    },
+    {
+      "path": "source/torvik_2025.csv.gz",
+      "sha256": "6baa2492b29b335dc4a9f4daa1cebfa25709b37821d3421f964220dc3af91eed",
+      "bytes": 846690,
+      "retained_remote": "/home/ubuntu/nba/handoff/r9stacktest_features/source/torvik_2025.csv.gz"
+    }
+  ],
+  "future_raw_already_compressed_bytes": 75174983,
+  "raw_archive_included": false,
+  "raw_exclusion_reason": "The14future files are alreadygzip and total morethan35MiB. No oversized raw archive is transferred.",
+  "restore_note": "Decompress .csv.gz and .json.gz files to recover original paths and hashes. Reproducible rebuild also requires listed raw/support files retained on server. OriginURLs may serve revisedbytes later; require matching SHA256 on restore."
+}
