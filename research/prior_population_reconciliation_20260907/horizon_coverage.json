@@ -1,0 +1,593 @@
+{
+  "policy": "All ordinal1..h must exist with actual season_end<=prediction_year-1; missing/unknown neverzero. Population membership fixed independently.",
+  "label_scope": "Existing dated historical labels plus one separately proposed observed season; inherited identity/calibration caveats remain. No target values parsed by this inventory.",
+  "current_incomplete_model_pool": [
+    {
+      "prediction_year": 2012,
+      "horizon": 1,
+      "members": 251,
+      "complete_observed_horizon": 236,
+      "incomplete_or_unknown": 15
+    },
+    {
+      "prediction_year": 2012,
+      "horizon": 2,
+      "members": 251,
+      "complete_observed_horizon": 143,
+      "incomplete_or_unknown": 108
+    },
+    {
+      "prediction_year": 2012,
+      "horizon": 3,
+      "members": 251,
+      "complete_observed_horizon": 80,
+      "incomplete_or_unknown": 171
+    },
+    {
+      "prediction_year": 2012,
+      "horizon": 4,
+      "members": 251,
+      "complete_observed_horizon": 31,
+      "incomplete_or_unknown": 220
+    },
+    {
+      "prediction_year": 2012,
+      "horizon": 5,
+      "members": 251,
+      "complete_observed_horizon": 0,
+      "incomplete_or_unknown": 251
+    },
+    {
+      "prediction_year": 2013,
+      "horizon": 1,
+      "members": 329,
+      "complete_observed_horizon": 315,
+      "incomplete_or_unknown": 14
+    },
+    {
+      "prediction_year": 2013,
+      "horizon": 2,
+      "members": 329,
+      "complete_observed_horizon": 200,
+      "incomplete_or_unknown": 129
+    },
+    {
+      "prediction_year": 2013,
+      "horizon": 3,
+      "members": 329,
+      "complete_observed_horizon": 125,
+      "incomplete_or_unknown": 204
+    },
+    {
+      "prediction_year": 2013,
+      "horizon": 4,
+      "members": 329,
+      "complete_observed_horizon": 70,
+      "incomplete_or_unknown": 259
+    },
+    {
+      "prediction_year": 2013,
+      "horizon": 5,
+      "members": 329,
+      "complete_observed_horizon": 25,
+      "incomplete_or_unknown": 304
+    },
+    {
+      "prediction_year": 2014,
+      "horizon": 1,
+      "members": 403,
+      "complete_observed_horizon": 389,
+      "incomplete_or_unknown": 14
+    },
+    {
+      "prediction_year": 2014,
+      "horizon": 2,
+      "members": 403,
+      "complete_observed_horizon": 255,
+      "incomplete_or_unknown": 148
+    },
+    {
+      "prediction_year": 2014,
+      "horizon": 3,
+      "members": 403,
+      "complete_observed_horizon": 170,
+      "incomplete_or_unknown": 233
+    },
+    {
+      "prediction_year": 2014,
+      "horizon": 4,
+      "members": 403,
+      "complete_observed_horizon": 109,
+      "incomplete_or_unknown": 294
+    },
+    {
+      "prediction_year": 2014,
+      "horizon": 5,
+      "members": 403,
+      "complete_observed_horizon": 61,
+      "incomplete_or_unknown": 342
+    }
+  ],
+  "complete_300_membership_registry": [
+    {
+      "prediction_year": 2008,
+      "horizon": 1,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 60,
+      "complete_observed_horizon": 0,
+      "eligible_members_without_complete_horizon": 60
+    },
+    {
+      "prediction_year": 2008,
+      "horizon": 2,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 60,
+      "complete_observed_horizon": 0,
+      "eligible_members_without_complete_horizon": 60
+    },
+    {
+      "prediction_year": 2008,
+      "horizon": 3,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 60,
+      "complete_observed_horizon": 0,
+      "eligible_members_without_complete_horizon": 60
+    },
+    {
+      "prediction_year": 2008,
+      "horizon": 4,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 60,
+      "complete_observed_horizon": 0,
+      "eligible_members_without_complete_horizon": 60
+    },
+    {
+      "prediction_year": 2008,
+      "horizon": 5,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 60,
+      "complete_observed_horizon": 0,
+      "eligible_members_without_complete_horizon": 60
+    },
+    {
+      "prediction_year": 2009,
+      "horizon": 1,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 120,
+      "complete_observed_horizon": 41,
+      "eligible_members_without_complete_horizon": 79
+    },
+    {
+      "prediction_year": 2009,
+      "horizon": 2,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 120,
+      "complete_observed_horizon": 0,
+      "eligible_members_without_complete_horizon": 120
+    },
+    {
+      "prediction_year": 2009,
+      "horizon": 3,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 120,
+      "complete_observed_horizon": 0,
+      "eligible_members_without_complete_horizon": 120
+    },
+    {
+      "prediction_year": 2009,
+      "horizon": 4,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 120,
+      "complete_observed_horizon": 0,
+      "eligible_members_without_complete_horizon": 120
+    },
+    {
+      "prediction_year": 2009,
+      "horizon": 5,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 120,
+      "complete_observed_horizon": 0,
+      "eligible_members_without_complete_horizon": 120
+    },
+    {
+      "prediction_year": 2010,
+      "horizon": 1,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 180,
+      "complete_observed_horizon": 90,
+      "eligible_members_without_complete_horizon": 90
+    },
+    {
+      "prediction_year": 2010,
+      "horizon": 2,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 180,
+      "complete_observed_horizon": 35,
+      "eligible_members_without_complete_horizon": 145
+    },
+    {
+      "prediction_year": 2010,
+      "horizon": 3,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 180,
+      "complete_observed_horizon": 0,
+      "eligible_members_without_complete_horizon": 180
+    },
+    {
+      "prediction_year": 2010,
+      "horizon": 4,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 180,
+      "complete_observed_horizon": 0,
+      "eligible_members_without_complete_horizon": 180
+    },
+    {
+      "prediction_year": 2010,
+      "horizon": 5,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 180,
+      "complete_observed_horizon": 0,
+      "eligible_members_without_complete_horizon": 180
+    },
+    {
+      "prediction_year": 2011,
+      "horizon": 1,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 240,
+      "complete_observed_horizon": 134,
+      "eligible_members_without_complete_horizon": 106
+    },
+    {
+      "prediction_year": 2011,
+      "horizon": 2,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 240,
+      "complete_observed_horizon": 81,
+      "eligible_members_without_complete_horizon": 159
+    },
+    {
+      "prediction_year": 2011,
+      "horizon": 3,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 240,
+      "complete_observed_horizon": 29,
+      "eligible_members_without_complete_horizon": 211
+    },
+    {
+      "prediction_year": 2011,
+      "horizon": 4,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 240,
+      "complete_observed_horizon": 0,
+      "eligible_members_without_complete_horizon": 240
+    },
+    {
+      "prediction_year": 2011,
+      "horizon": 5,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 240,
+      "complete_observed_horizon": 0,
+      "eligible_members_without_complete_horizon": 240
+    },
+    {
+      "prediction_year": 2012,
+      "horizon": 1,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 183,
+      "eligible_members_without_complete_horizon": 117
+    },
+    {
+      "prediction_year": 2012,
+      "horizon": 2,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 121,
+      "eligible_members_without_complete_horizon": 179
+    },
+    {
+      "prediction_year": 2012,
+      "horizon": 3,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 70,
+      "eligible_members_without_complete_horizon": 230
+    },
+    {
+      "prediction_year": 2012,
+      "horizon": 4,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 27,
+      "eligible_members_without_complete_horizon": 273
+    },
+    {
+      "prediction_year": 2012,
+      "horizon": 5,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 0,
+      "eligible_members_without_complete_horizon": 300
+    },
+    {
+      "prediction_year": 2013,
+      "horizon": 1,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 238,
+      "eligible_members_without_complete_horizon": 62
+    },
+    {
+      "prediction_year": 2013,
+      "horizon": 2,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 167,
+      "eligible_members_without_complete_horizon": 133
+    },
+    {
+      "prediction_year": 2013,
+      "horizon": 3,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 110,
+      "eligible_members_without_complete_horizon": 190
+    },
+    {
+      "prediction_year": 2013,
+      "horizon": 4,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 62,
+      "eligible_members_without_complete_horizon": 238
+    },
+    {
+      "prediction_year": 2013,
+      "horizon": 5,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 22,
+      "eligible_members_without_complete_horizon": 278
+    },
+    {
+      "prediction_year": 2014,
+      "horizon": 1,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 245,
+      "eligible_members_without_complete_horizon": 55
+    },
+    {
+      "prediction_year": 2014,
+      "horizon": 2,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 210,
+      "eligible_members_without_complete_horizon": 90
+    },
+    {
+      "prediction_year": 2014,
+      "horizon": 3,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 148,
+      "eligible_members_without_complete_horizon": 152
+    },
+    {
+      "prediction_year": 2014,
+      "horizon": 4,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 99,
+      "eligible_members_without_complete_horizon": 201
+    },
+    {
+      "prediction_year": 2014,
+      "horizon": 5,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 54,
+      "eligible_members_without_complete_horizon": 246
+    },
+    {
+      "prediction_year": 2015,
+      "horizon": 1,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 246,
+      "eligible_members_without_complete_horizon": 54
+    },
+    {
+      "prediction_year": 2015,
+      "horizon": 2,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 218,
+      "eligible_members_without_complete_horizon": 82
+    },
+    {
+      "prediction_year": 2015,
+      "horizon": 3,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 187,
+      "eligible_members_without_complete_horizon": 113
+    },
+    {
+      "prediction_year": 2015,
+      "horizon": 4,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 135,
+      "eligible_members_without_complete_horizon": 165
+    },
+    {
+      "prediction_year": 2015,
+      "horizon": 5,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 88,
+      "eligible_members_without_complete_horizon": 212
+    },
+    {
+      "prediction_year": 2016,
+      "horizon": 1,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 248,
+      "eligible_members_without_complete_horizon": 52
+    },
+    {
+      "prediction_year": 2016,
+      "horizon": 2,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 220,
+      "eligible_members_without_complete_horizon": 80
+    },
+    {
+      "prediction_year": 2016,
+      "horizon": 3,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 195,
+      "eligible_members_without_complete_horizon": 105
+    },
+    {
+      "prediction_year": 2016,
+      "horizon": 4,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 167,
+      "eligible_members_without_complete_horizon": 133
+    },
+    {
+      "prediction_year": 2016,
+      "horizon": 5,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 121,
+      "eligible_members_without_complete_horizon": 179
+    },
+    {
+      "prediction_year": 2017,
+      "horizon": 1,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 251,
+      "eligible_members_without_complete_horizon": 49
+    },
+    {
+      "prediction_year": 2017,
+      "horizon": 2,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 223,
+      "eligible_members_without_complete_horizon": 77
+    },
+    {
+      "prediction_year": 2017,
+      "horizon": 3,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 196,
+      "eligible_members_without_complete_horizon": 104
+    },
+    {
+      "prediction_year": 2017,
+      "horizon": 4,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 174,
+      "eligible_members_without_complete_horizon": 126
+    },
+    {
+      "prediction_year": 2017,
+      "horizon": 5,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 151,
+      "eligible_members_without_complete_horizon": 149
+    },
+    {
+      "prediction_year": 2018,
+      "horizon": 1,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 252,
+      "eligible_members_without_complete_horizon": 48
+    },
+    {
+      "prediction_year": 2018,
+      "horizon": 2,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 224,
+      "eligible_members_without_complete_horizon": 76
+    },
+    {
+      "prediction_year": 2018,
+      "horizon": 3,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 199,
+      "eligible_members_without_complete_horizon": 101
+    },
+    {
+      "prediction_year": 2018,
+      "horizon": 4,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 175,
+      "eligible_members_without_complete_horizon": 125
+    },
+    {
+      "prediction_year": 2018,
+      "horizon": 5,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 157,
+      "eligible_members_without_complete_horizon": 143
+    },
+    {
+      "prediction_year": 2019,
+      "horizon": 1,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 252,
+      "eligible_members_without_complete_horizon": 48
+    },
+    {
+      "prediction_year": 2019,
+      "horizon": 2,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 225,
+      "eligible_members_without_complete_horizon": 75
+    },
+    {
+      "prediction_year": 2019,
+      "horizon": 3,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 200,
+      "eligible_members_without_complete_horizon": 100
+    },
+    {
+      "prediction_year": 2019,
+      "horizon": 4,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 178,
+      "eligible_members_without_complete_horizon": 122
+    },
+    {
+      "prediction_year": 2019,
+      "horizon": 5,
+      "source_members_retained": 300,
+      "membership_asof_eligible": 300,
+      "complete_observed_horizon": 158,
+      "eligible_members_without_complete_horizon": 142
+    }
+  ]
+}

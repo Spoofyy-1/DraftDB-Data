@@ -1,0 +1,29 @@
+{
+  "files": {
+    "README.md": {
+      "sha256": "cdb92295cb9c89fcd71c3d1b64297d8d1917d37f15c62d88de504dbd1dffd058",
+      "bytes": 7241
+    },
+    "coverage.json": {
+      "sha256": "01277ffe6db091f52ed494c9feeb65162b7bcd5716d1f7461044f1ef465f0009",
+      "bytes": 2288
+    },
+    "horizon_coverage.json": {
+      "sha256": "f5e468a28f7f4027073a6d219533a7b70b565acc99a2ade2d46f16234a6babf1",
+      "bytes": 16930
+    },
+    "validation.json": {
+      "sha256": "8e36e183722a0dae9385470032c71175cf70e3e1a21355e9ce6e58a2a55754c0",
+      "bytes": 71
+    },
+    "manifest.json": {
+      "sha256": "7f135d2c7f2dc230646a1bb20e3d1695c91c19326a7b8a13e4c253d77334a9f2",
+      "bytes": 1987
+    }
+  },
+  "excluded": [
+    "private/**",
+    "*.py"
+  ],
+  "aggregate_only": true
+}

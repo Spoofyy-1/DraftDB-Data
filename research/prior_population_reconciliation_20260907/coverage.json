@@ -1,0 +1,83 @@
+{
+  "source_members": 300,
+  "original_pool_total": 1458,
+  "current_pool_total": 1428,
+  "source_members_in_original": 260,
+  "source_members_in_current": 251,
+  "upstream_missing_members": 40,
+  "misclassified_original_train_declared_members": 4,
+  "no_recovered_original_prospect_identity": 36,
+  "additional_calendar_removed_members": 9,
+  "total_missing_members": 49,
+  "per_year": {
+    "2007": {
+      "source_members": 60,
+      "original_pool_members": 50,
+      "current_pool_members": 47,
+      "upstream_missing": 10,
+      "calendar_removed": 3
+    },
+    "2008": {
+      "source_members": 60,
+      "original_pool_members": 51,
+      "current_pool_members": 50,
+      "upstream_missing": 9,
+      "calendar_removed": 1
+    },
+    "2009": {
+      "source_members": 60,
+      "original_pool_members": 51,
+      "current_pool_members": 49,
+      "upstream_missing": 9,
+      "calendar_removed": 2
+    },
+    "2010": {
+      "source_members": 60,
+      "original_pool_members": 54,
+      "current_pool_members": 51,
+      "upstream_missing": 6,
+      "calendar_removed": 3
+    },
+    "2011": {
+      "source_members": 60,
+      "original_pool_members": 54,
+      "current_pool_members": 54,
+      "upstream_missing": 6,
+      "calendar_removed": 0
+    }
+  },
+  "missing_with_official_combine": 20,
+  "missing_with_exact_college_candidate": 22,
+  "missing_with_existing_source41_context": 10,
+  "missing_with_verified_mock_facts": 24,
+  "missing_with_any_vetted_source_family": 38,
+  "missing_with_eligible_calendar_candidates": 4,
+  "new_verified_observed_label_cells": 1,
+  "new_members_with_complete_first5_target": 0,
+  "network_requests": 0,
+  "model_fits": 0,
+  "model_scores": 0,
+  "test_outcomes_read": false,
+  "originals_modified": false,
+  "automatic_admission": false,
+  "current_zero_observation_training_rows": [
+    {
+      "predicted_year": 2012,
+      "cutoff_season_end": 2011,
+      "train_members": 251,
+      "no_eligible_observed_season_rows": 15
+    },
+    {
+      "predicted_year": 2013,
+      "cutoff_season_end": 2012,
+      "train_members": 329,
+      "no_eligible_observed_season_rows": 14
+    },
+    {
+      "predicted_year": 2014,
+      "cutoff_season_end": 2013,
+      "train_members": 403,
+      "no_eligible_observed_season_rows": 14
+    }
+  ]
+}
