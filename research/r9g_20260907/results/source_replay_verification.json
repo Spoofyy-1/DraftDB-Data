@@ -1,0 +1,28 @@
+{
+  "passed": true,
+  "model_fits": 0,
+  "predictors": 44,
+  "folds": [
+    {
+      "year": 2012,
+      "matrix_target_PID_order_group_hashes_exact": true,
+      "negative_targets_preserved": true,
+      "no_selector_or_model_fits": true
+    },
+    {
+      "year": 2013,
+      "matrix_target_PID_order_group_hashes_exact": true,
+      "negative_targets_preserved": true,
+      "no_selector_or_model_fits": true
+    },
+    {
+      "year": 2014,
+      "matrix_target_PID_order_group_hashes_exact": true,
+      "negative_targets_preserved": true,
+      "no_selector_or_model_fits": true
+    }
+  ],
+  "query_order_and_ties_preserved": true,
+  "qid_training_metadata_only": true,
+  "GPU_fixtures_and_CUDA_configurations_verified": true
+}

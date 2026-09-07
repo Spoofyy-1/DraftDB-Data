@@ -1,0 +1,20 @@
+{
+  "recorded_utc": "2026-09-07T04:13:31.880098+00:00",
+  "unit": {
+    "Result": "success",
+    "ActiveState": "active",
+    "SubState": "running",
+    "InvocationID": "8fb6c2dfe62b4f278d093cb46f329a22"
+  },
+  "state": {
+    "status": "running",
+    "completed": 982,
+    "total": 1731,
+    "active_workers": 4,
+    "error": null,
+    "updated": 1788754410.4676456
+  },
+  "reference_replays_passed": 3,
+  "gpu": "99 %, 2426 MiB",
+  "scientific_files_changed": false
+}

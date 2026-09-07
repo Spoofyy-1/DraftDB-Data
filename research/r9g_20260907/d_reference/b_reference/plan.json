@@ -1,0 +1,1624 @@
+{
+  "diagnostic_only": true,
+  "no_confirmation_or_test_scoring": true,
+  "reference_id": "pair06_RR",
+  "folds": [
+    2012,
+    2013,
+    2014
+  ],
+  "seeds": [
+    0,
+    101,
+    202
+  ],
+  "permutation_seeds": [
+    9317,
+    18739,
+    28657
+  ],
+  "model_constructor": {
+    "device": "cuda",
+    "n_estimators": 32,
+    "random_state": "task_seed",
+    "batch_size": 32,
+    "norm_methods": "none",
+    "outlier_threshold": 2.0
+  },
+  "ordering_policy": {
+    "version": "sha256_pid_exact_vector_mean_v1",
+    "row_order": "Sort train and query rows by SHA256(UTF8(pid)), with pid as deterministic collision tiebreaker, before selection and prediction. Identity/order keys never become predictors.",
+    "input_equivalence": "All selected predictor values must be numerically identical. NaNs compare equal; positive/negative zero compare equal. Distinct vectors are never quantized or merged.",
+    "prediction_ties": "Within each query group of exactly identical full predictor vectors, assign every row the arithmetic mean of its raw predictions using math.fsum over sorted float64 values.",
+    "raw_preservation": "Save raw and canonical prediction for every pid, exact duplicate groups and policy hash. All scoring uses canonical predictions with Spearman average ranks.",
+    "registration_basis": "R8order numerical audit found8 all-missing duplicate inputs with floating-point score splitting; no outcome score was used to choose this policy.",
+    "new_baseline": "Every background baseline reruns under this policy. Do not pool these scores with raw-prediction R8s or earlier studies."
+  },
+  "columns": [
+    "ctx_base_ast_pct",
+    "ctx_base_ast_pg",
+    "ctx_base_ast_tov",
+    "ctx_base_blk_pct",
+    "ctx_base_blk_pg",
+    "ctx_base_drb",
+    "ctx_base_dreb_pg",
+    "ctx_base_dunk_attempts",
+    "ctx_base_dunk_made",
+    "ctx_base_efg",
+    "ctx_base_fg2_pct",
+    "ctx_base_fg2a",
+    "ctx_base_fg2m",
+    "ctx_base_fg3_pct",
+    "ctx_base_fg3a",
+    "ctx_base_fg3m",
+    "ctx_base_fouls40",
+    "ctx_base_ft_pct",
+    "ctx_base_fta",
+    "ctx_base_ftm",
+    "ctx_base_ftr",
+    "ctx_base_gp",
+    "ctx_base_mid_attempts",
+    "ctx_base_mid_made",
+    "ctx_base_minutes_share",
+    "ctx_base_mpg",
+    "ctx_base_orb",
+    "ctx_base_oreb_pg",
+    "ctx_base_pts_pg",
+    "ctx_base_rim_attempts",
+    "ctx_base_rim_made",
+    "ctx_base_stl_pct",
+    "ctx_base_stl_pg",
+    "ctx_base_three_share",
+    "ctx_base_tov_pct",
+    "ctx_base_ts",
+    "ctx_base_usage",
+    "ctx_skill_creation_control",
+    "ctx_skill_defense_discipline",
+    "ctx_skill_ft_volume",
+    "ctx_skill_usage_efficiency",
+    "slot_037",
+    "slot_038",
+    "slot_039",
+    "slot_040",
+    "slot_041",
+    "slot_042"
+  ],
+  "column_meanings": {
+    "ctx_base_ast_pct": "ctx_base_ast_pct",
+    "ctx_base_ast_pg": "ctx_base_ast_pg",
+    "ctx_base_ast_tov": "ctx_base_ast_tov",
+    "ctx_base_blk_pct": "ctx_base_blk_pct",
+    "ctx_base_blk_pg": "ctx_base_blk_pg",
+    "ctx_base_drb": "ctx_base_drb",
+    "ctx_base_dreb_pg": "ctx_base_dreb_pg",
+    "ctx_base_dunk_attempts": "ctx_base_dunk_attempts",
+    "ctx_base_dunk_made": "ctx_base_dunk_made",
+    "ctx_base_efg": "ctx_base_efg",
+    "ctx_base_fg2_pct": "ctx_base_fg2_pct",
+    "ctx_base_fg2a": "ctx_base_fg2a",
+    "ctx_base_fg2m": "ctx_base_fg2m",
+    "ctx_base_fg3_pct": "ctx_base_fg3_pct",
+    "ctx_base_fg3a": "ctx_base_fg3a",
+    "ctx_base_fg3m": "ctx_base_fg3m",
+    "ctx_base_fouls40": "ctx_base_fouls40",
+    "ctx_base_ft_pct": "ctx_base_ft_pct",
+    "ctx_base_fta": "ctx_base_fta",
+    "ctx_base_ftm": "ctx_base_ftm",
+    "ctx_base_ftr": "ctx_base_ftr",
+    "ctx_base_gp": "ctx_base_gp",
+    "ctx_base_mid_attempts": "ctx_base_mid_attempts",
+    "ctx_base_mid_made": "ctx_base_mid_made",
+    "ctx_base_minutes_share": "ctx_base_minutes_share",
+    "ctx_base_mpg": "ctx_base_mpg",
+    "ctx_base_orb": "ctx_base_orb",
+    "ctx_base_oreb_pg": "ctx_base_oreb_pg",
+    "ctx_base_pts_pg": "ctx_base_pts_pg",
+    "ctx_base_rim_attempts": "ctx_base_rim_attempts",
+    "ctx_base_rim_made": "ctx_base_rim_made",
+    "ctx_base_stl_pct": "ctx_base_stl_pct",
+    "ctx_base_stl_pg": "ctx_base_stl_pg",
+    "ctx_base_three_share": "ctx_base_three_share",
+    "ctx_base_tov_pct": "ctx_base_tov_pct",
+    "ctx_base_ts": "ctx_base_ts",
+    "ctx_base_usage": "ctx_base_usage",
+    "ctx_skill_creation_control": "ctx_skill_creation_control",
+    "ctx_skill_defense_discipline": "ctx_skill_defense_discipline",
+    "ctx_skill_ft_volume": "ctx_skill_ft_volume",
+    "ctx_skill_usage_efficiency": "ctx_skill_usage_efficiency",
+    "slot_037": "vcons_mock_mean_rank",
+    "slot_038": "vcons_mock_best_rank",
+    "slot_039": "vcons_mock_rank_range",
+    "slot_040": "vcons_mock_n_sources",
+    "slot_041": "f50_career_slope_usage",
+    "slot_042": "f50_posterior_rim"
+  },
+  "ordered_columns_by_fold": {
+    "2012": [
+      "ctx_base_stl_pg",
+      "ctx_base_fta",
+      "ctx_base_dunk_attempts",
+      "ctx_base_fg2_pct",
+      "ctx_skill_defense_discipline",
+      "ctx_skill_creation_control",
+      "ctx_base_rim_made",
+      "ctx_skill_usage_efficiency",
+      "ctx_base_ftr",
+      "ctx_base_mid_attempts",
+      "ctx_base_fg2m",
+      "ctx_base_ast_tov",
+      "ctx_base_fg3a",
+      "ctx_base_ast_pg",
+      "ctx_base_dunk_made",
+      "ctx_skill_ft_volume",
+      "ctx_base_pts_pg",
+      "ctx_base_fg3m",
+      "ctx_base_ast_pct",
+      "ctx_base_fouls40",
+      "ctx_base_drb",
+      "ctx_base_mid_made",
+      "ctx_base_ftm",
+      "ctx_base_stl_pct",
+      "ctx_base_blk_pct",
+      "ctx_base_oreb_pg",
+      "ctx_base_three_share",
+      "ctx_base_orb",
+      "ctx_base_usage",
+      "ctx_base_dreb_pg",
+      "ctx_base_fg3_pct",
+      "ctx_base_blk_pg",
+      "ctx_base_gp",
+      "ctx_base_efg",
+      "ctx_base_rim_attempts",
+      "ctx_base_minutes_share",
+      "ctx_base_ft_pct",
+      "ctx_base_tov_pct",
+      "ctx_base_ts",
+      "ctx_base_fg2a",
+      "ctx_base_mpg",
+      "slot_037",
+      "slot_038",
+      "slot_039",
+      "slot_040",
+      "slot_041",
+      "slot_042"
+    ],
+    "2013": [
+      "ctx_base_stl_pct",
+      "ctx_base_dunk_made",
+      "ctx_base_mid_made",
+      "ctx_skill_creation_control",
+      "ctx_base_dunk_attempts",
+      "ctx_base_fg2_pct",
+      "ctx_base_ast_tov",
+      "ctx_base_stl_pg",
+      "ctx_base_ast_pct",
+      "ctx_base_fta",
+      "ctx_base_fouls40",
+      "ctx_base_blk_pg",
+      "ctx_base_rim_made",
+      "ctx_base_ftr",
+      "ctx_base_mid_attempts",
+      "ctx_base_tov_pct",
+      "ctx_base_dreb_pg",
+      "ctx_base_fg2m",
+      "ctx_base_ftm",
+      "ctx_skill_defense_discipline",
+      "ctx_base_fg2a",
+      "ctx_base_three_share",
+      "ctx_base_ast_pg",
+      "ctx_base_mpg",
+      "ctx_skill_usage_efficiency",
+      "ctx_base_rim_attempts",
+      "ctx_base_efg",
+      "ctx_base_pts_pg",
+      "ctx_base_blk_pct",
+      "ctx_base_oreb_pg",
+      "ctx_skill_ft_volume",
+      "ctx_base_fg3_pct",
+      "ctx_base_orb",
+      "ctx_base_drb",
+      "ctx_base_fg3a",
+      "ctx_base_fg3m",
+      "ctx_base_usage",
+      "ctx_base_ts",
+      "ctx_base_ft_pct",
+      "ctx_base_minutes_share",
+      "ctx_base_gp",
+      "slot_037",
+      "slot_038",
+      "slot_039",
+      "slot_040",
+      "slot_041",
+      "slot_042"
+    ],
+    "2014": [
+      "ctx_base_stl_pct",
+      "ctx_base_fg3a",
+      "ctx_base_mid_attempts",
+      "ctx_skill_defense_discipline",
+      "ctx_base_ast_pg",
+      "ctx_base_stl_pg",
+      "ctx_base_ast_tov",
+      "ctx_base_dunk_attempts",
+      "ctx_base_ftm",
+      "ctx_base_oreb_pg",
+      "ctx_base_fg2_pct",
+      "ctx_skill_usage_efficiency",
+      "ctx_base_dunk_made",
+      "ctx_base_fg2m",
+      "ctx_skill_creation_control",
+      "ctx_base_fg3m",
+      "ctx_base_tov_pct",
+      "ctx_base_fg2a",
+      "ctx_base_dreb_pg",
+      "ctx_base_mid_made",
+      "ctx_base_rim_attempts",
+      "ctx_base_rim_made",
+      "ctx_base_fta",
+      "ctx_base_ts",
+      "ctx_base_three_share",
+      "ctx_base_ftr",
+      "ctx_base_fg3_pct",
+      "ctx_base_mpg",
+      "ctx_base_ft_pct",
+      "ctx_skill_ft_volume",
+      "ctx_base_ast_pct",
+      "ctx_base_blk_pg",
+      "ctx_base_fouls40",
+      "ctx_base_drb",
+      "ctx_base_minutes_share",
+      "ctx_base_blk_pct",
+      "ctx_base_pts_pg",
+      "ctx_base_gp",
+      "ctx_base_usage",
+      "ctx_base_efg",
+      "ctx_base_orb",
+      "slot_037",
+      "slot_038",
+      "slot_039",
+      "slot_040",
+      "slot_041",
+      "slot_042"
+    ]
+  },
+  "study": "R9b bounded coherent five-input removals",
+  "reference_ids": [
+    "pair06_RR",
+    "drop_018",
+    "drop_019",
+    "drop_020",
+    "drop_023",
+    "drop_024",
+    "drop_018_019",
+    "drop_018_020",
+    "drop_018_023",
+    "drop_018_024",
+    "drop_019_020",
+    "drop_019_023",
+    "drop_019_024",
+    "drop_020_023",
+    "drop_020_024",
+    "drop_023_024"
+  ],
+  "selected_columns": [
+    "ctx_base_fta",
+    "ctx_base_ftm",
+    "ctx_base_ftr",
+    "ctx_base_mid_made",
+    "ctx_base_minutes_share"
+  ],
+  "subsets": [
+    [
+      "ctx_base_fta",
+      "ctx_base_ftm"
+    ],
+    [
+      "ctx_base_fta",
+      "ctx_base_ftr"
+    ],
+    [
+      "ctx_base_fta",
+      "ctx_base_mid_made"
+    ],
+    [
+      "ctx_base_fta",
+      "ctx_base_minutes_share"
+    ],
+    [
+      "ctx_base_ftm",
+      "ctx_base_ftr"
+    ],
+    [
+      "ctx_base_ftm",
+      "ctx_base_mid_made"
+    ],
+    [
+      "ctx_base_ftm",
+      "ctx_base_minutes_share"
+    ],
+    [
+      "ctx_base_ftr",
+      "ctx_base_mid_made"
+    ],
+    [
+      "ctx_base_ftr",
+      "ctx_base_minutes_share"
+    ],
+    [
+      "ctx_base_mid_made",
+      "ctx_base_minutes_share"
+    ],
+    [
+      "ctx_base_fta",
+      "ctx_base_ftm",
+      "ctx_base_ftr"
+    ],
+    [
+      "ctx_base_fta",
+      "ctx_base_ftm",
+      "ctx_base_mid_made"
+    ],
+    [
+      "ctx_base_fta",
+      "ctx_base_ftm",
+      "ctx_base_minutes_share"
+    ],
+    [
+      "ctx_base_fta",
+      "ctx_base_ftr",
+      "ctx_base_mid_made"
+    ],
+    [
+      "ctx_base_fta",
+      "ctx_base_ftr",
+      "ctx_base_minutes_share"
+    ],
+    [
+      "ctx_base_fta",
+      "ctx_base_mid_made",
+      "ctx_base_minutes_share"
+    ],
+    [
+      "ctx_base_ftm",
+      "ctx_base_ftr",
+      "ctx_base_mid_made"
+    ],
+    [
+      "ctx_base_ftm",
+      "ctx_base_ftr",
+      "ctx_base_minutes_share"
+    ],
+    [
+      "ctx_base_ftm",
+      "ctx_base_mid_made",
+      "ctx_base_minutes_share"
+    ],
+    [
+      "ctx_base_ftr",
+      "ctx_base_mid_made",
+      "ctx_base_minutes_share"
+    ],
+    [
+      "ctx_base_fta",
+      "ctx_base_ftm",
+      "ctx_base_ftr",
+      "ctx_base_mid_made"
+    ],
+    [
+      "ctx_base_fta",
+      "ctx_base_ftm",
+      "ctx_base_ftr",
+      "ctx_base_minutes_share"
+    ],
+    [
+      "ctx_base_fta",
+      "ctx_base_ftm",
+      "ctx_base_mid_made",
+      "ctx_base_minutes_share"
+    ],
+    [
+      "ctx_base_fta",
+      "ctx_base_ftr",
+      "ctx_base_mid_made",
+      "ctx_base_minutes_share"
+    ],
+    [
+      "ctx_base_ftm",
+      "ctx_base_ftr",
+      "ctx_base_mid_made",
+      "ctx_base_minutes_share"
+    ],
+    [
+      "ctx_base_fta",
+      "ctx_base_ftm",
+      "ctx_base_ftr",
+      "ctx_base_mid_made",
+      "ctx_base_minutes_share"
+    ]
+  ],
+  "variants": [
+    {
+      "id": "pair06_RR",
+      "pair": [
+        "f50_career_slope_usage",
+        "f50_posterior_rim"
+      ],
+      "arm": "RR",
+      "permutation_seed": null,
+      "background": "college_consensus"
+    },
+    {
+      "id": "drop_018",
+      "kind": "delete",
+      "columns": [
+        "ctx_base_fta"
+      ],
+      "arm": "RR"
+    },
+    {
+      "id": "drop_019",
+      "kind": "delete",
+      "columns": [
+        "ctx_base_ftm"
+      ],
+      "arm": "RR"
+    },
+    {
+      "id": "drop_020",
+      "kind": "delete",
+      "columns": [
+        "ctx_base_ftr"
+      ],
+      "arm": "RR"
+    },
+    {
+      "id": "drop_023",
+      "kind": "delete",
+      "columns": [
+        "ctx_base_mid_made"
+      ],
+      "arm": "RR"
+    },
+    {
+      "id": "drop_024",
+      "kind": "delete",
+      "columns": [
+        "ctx_base_minutes_share"
+      ],
+      "arm": "RR"
+    },
+    {
+      "id": "drop_018_019",
+      "kind": "delete",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm"
+      ],
+      "arm": "RR"
+    },
+    {
+      "id": "drop_018_020",
+      "kind": "delete",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftr"
+      ],
+      "arm": "RR"
+    },
+    {
+      "id": "drop_018_023",
+      "kind": "delete",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_mid_made"
+      ],
+      "arm": "RR"
+    },
+    {
+      "id": "drop_018_024",
+      "kind": "delete",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_minutes_share"
+      ],
+      "arm": "RR"
+    },
+    {
+      "id": "drop_019_020",
+      "kind": "delete",
+      "columns": [
+        "ctx_base_ftm",
+        "ctx_base_ftr"
+      ],
+      "arm": "RR"
+    },
+    {
+      "id": "drop_019_023",
+      "kind": "delete",
+      "columns": [
+        "ctx_base_ftm",
+        "ctx_base_mid_made"
+      ],
+      "arm": "RR"
+    },
+    {
+      "id": "drop_019_024",
+      "kind": "delete",
+      "columns": [
+        "ctx_base_ftm",
+        "ctx_base_minutes_share"
+      ],
+      "arm": "RR"
+    },
+    {
+      "id": "drop_020_023",
+      "kind": "delete",
+      "columns": [
+        "ctx_base_ftr",
+        "ctx_base_mid_made"
+      ],
+      "arm": "RR"
+    },
+    {
+      "id": "drop_020_024",
+      "kind": "delete",
+      "columns": [
+        "ctx_base_ftr",
+        "ctx_base_minutes_share"
+      ],
+      "arm": "RR"
+    },
+    {
+      "id": "drop_023_024",
+      "kind": "delete",
+      "columns": [
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      "arm": "RR"
+    },
+    {
+      "id": "drop5_000",
+      "kind": "delete",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_ftr"
+      ],
+      "arm": "RR"
+    },
+    {
+      "id": "drop5_001",
+      "kind": "delete",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_mid_made"
+      ],
+      "arm": "RR"
+    },
+    {
+      "id": "drop5_002",
+      "kind": "delete",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_minutes_share"
+      ],
+      "arm": "RR"
+    },
+    {
+      "id": "drop5_003",
+      "kind": "delete",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftr",
+        "ctx_base_mid_made"
+      ],
+      "arm": "RR"
+    },
+    {
+      "id": "drop5_004",
+      "kind": "delete",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftr",
+        "ctx_base_minutes_share"
+      ],
+      "arm": "RR"
+    },
+    {
+      "id": "drop5_005",
+      "kind": "delete",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      "arm": "RR"
+    },
+    {
+      "id": "drop5_006",
+      "kind": "delete",
+      "columns": [
+        "ctx_base_ftm",
+        "ctx_base_ftr",
+        "ctx_base_mid_made"
+      ],
+      "arm": "RR"
+    },
+    {
+      "id": "drop5_007",
+      "kind": "delete",
+      "columns": [
+        "ctx_base_ftm",
+        "ctx_base_ftr",
+        "ctx_base_minutes_share"
+      ],
+      "arm": "RR"
+    },
+    {
+      "id": "drop5_008",
+      "kind": "delete",
+      "columns": [
+        "ctx_base_ftm",
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      "arm": "RR"
+    },
+    {
+      "id": "drop5_009",
+      "kind": "delete",
+      "columns": [
+        "ctx_base_ftr",
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      "arm": "RR"
+    },
+    {
+      "id": "drop5_010",
+      "kind": "delete",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_ftr",
+        "ctx_base_mid_made"
+      ],
+      "arm": "RR"
+    },
+    {
+      "id": "drop5_011",
+      "kind": "delete",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_ftr",
+        "ctx_base_minutes_share"
+      ],
+      "arm": "RR"
+    },
+    {
+      "id": "drop5_012",
+      "kind": "delete",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      "arm": "RR"
+    },
+    {
+      "id": "drop5_013",
+      "kind": "delete",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftr",
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      "arm": "RR"
+    },
+    {
+      "id": "drop5_014",
+      "kind": "delete",
+      "columns": [
+        "ctx_base_ftm",
+        "ctx_base_ftr",
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      "arm": "RR"
+    },
+    {
+      "id": "drop5_015",
+      "kind": "delete",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_ftr",
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      "arm": "RR"
+    },
+    {
+      "id": "joint_000_9317",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm"
+      ],
+      "permutation_seed": 9317,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_000_18739",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm"
+      ],
+      "permutation_seed": 18739,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_000_28657",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm"
+      ],
+      "permutation_seed": 28657,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_001_9317",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftr"
+      ],
+      "permutation_seed": 9317,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_001_18739",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftr"
+      ],
+      "permutation_seed": 18739,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_001_28657",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftr"
+      ],
+      "permutation_seed": 28657,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_002_9317",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_mid_made"
+      ],
+      "permutation_seed": 9317,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_002_18739",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_mid_made"
+      ],
+      "permutation_seed": 18739,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_002_28657",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_mid_made"
+      ],
+      "permutation_seed": 28657,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_003_9317",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 9317,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_003_18739",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 18739,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_003_28657",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 28657,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_004_9317",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_ftm",
+        "ctx_base_ftr"
+      ],
+      "permutation_seed": 9317,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_004_18739",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_ftm",
+        "ctx_base_ftr"
+      ],
+      "permutation_seed": 18739,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_004_28657",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_ftm",
+        "ctx_base_ftr"
+      ],
+      "permutation_seed": 28657,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_005_9317",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_ftm",
+        "ctx_base_mid_made"
+      ],
+      "permutation_seed": 9317,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_005_18739",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_ftm",
+        "ctx_base_mid_made"
+      ],
+      "permutation_seed": 18739,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_005_28657",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_ftm",
+        "ctx_base_mid_made"
+      ],
+      "permutation_seed": 28657,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_006_9317",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_ftm",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 9317,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_006_18739",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_ftm",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 18739,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_006_28657",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_ftm",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 28657,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_007_9317",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_ftr",
+        "ctx_base_mid_made"
+      ],
+      "permutation_seed": 9317,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_007_18739",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_ftr",
+        "ctx_base_mid_made"
+      ],
+      "permutation_seed": 18739,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_007_28657",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_ftr",
+        "ctx_base_mid_made"
+      ],
+      "permutation_seed": 28657,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_008_9317",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_ftr",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 9317,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_008_18739",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_ftr",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 18739,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_008_28657",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_ftr",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 28657,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_009_9317",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 9317,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_009_18739",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 18739,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_009_28657",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 28657,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_010_9317",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_ftr"
+      ],
+      "permutation_seed": 9317,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_010_18739",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_ftr"
+      ],
+      "permutation_seed": 18739,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_010_28657",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_ftr"
+      ],
+      "permutation_seed": 28657,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_011_9317",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_mid_made"
+      ],
+      "permutation_seed": 9317,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_011_18739",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_mid_made"
+      ],
+      "permutation_seed": 18739,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_011_28657",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_mid_made"
+      ],
+      "permutation_seed": 28657,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_012_9317",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 9317,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_012_18739",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 18739,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_012_28657",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 28657,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_013_9317",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftr",
+        "ctx_base_mid_made"
+      ],
+      "permutation_seed": 9317,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_013_18739",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftr",
+        "ctx_base_mid_made"
+      ],
+      "permutation_seed": 18739,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_013_28657",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftr",
+        "ctx_base_mid_made"
+      ],
+      "permutation_seed": 28657,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_014_9317",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftr",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 9317,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_014_18739",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftr",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 18739,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_014_28657",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftr",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 28657,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_015_9317",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 9317,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_015_18739",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 18739,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_015_28657",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 28657,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_016_9317",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_ftm",
+        "ctx_base_ftr",
+        "ctx_base_mid_made"
+      ],
+      "permutation_seed": 9317,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_016_18739",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_ftm",
+        "ctx_base_ftr",
+        "ctx_base_mid_made"
+      ],
+      "permutation_seed": 18739,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_016_28657",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_ftm",
+        "ctx_base_ftr",
+        "ctx_base_mid_made"
+      ],
+      "permutation_seed": 28657,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_017_9317",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_ftm",
+        "ctx_base_ftr",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 9317,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_017_18739",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_ftm",
+        "ctx_base_ftr",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 18739,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_017_28657",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_ftm",
+        "ctx_base_ftr",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 28657,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_018_9317",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_ftm",
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 9317,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_018_18739",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_ftm",
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 18739,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_018_28657",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_ftm",
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 28657,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_019_9317",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_ftr",
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 9317,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_019_18739",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_ftr",
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 18739,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_019_28657",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_ftr",
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 28657,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_020_9317",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_ftr",
+        "ctx_base_mid_made"
+      ],
+      "permutation_seed": 9317,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_020_18739",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_ftr",
+        "ctx_base_mid_made"
+      ],
+      "permutation_seed": 18739,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_020_28657",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_ftr",
+        "ctx_base_mid_made"
+      ],
+      "permutation_seed": 28657,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_021_9317",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_ftr",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 9317,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_021_18739",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_ftr",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 18739,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_021_28657",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_ftr",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 28657,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_022_9317",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 9317,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_022_18739",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 18739,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_022_28657",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 28657,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_023_9317",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftr",
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 9317,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_023_18739",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftr",
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 18739,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_023_28657",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftr",
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 28657,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_024_9317",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_ftm",
+        "ctx_base_ftr",
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 9317,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_024_18739",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_ftm",
+        "ctx_base_ftr",
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 18739,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_024_28657",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_ftm",
+        "ctx_base_ftr",
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 28657,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_025_9317",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_ftr",
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 9317,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_025_18739",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_ftr",
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 18739,
+      "arm": "PP"
+    },
+    {
+      "id": "joint_025_28657",
+      "kind": "permutation",
+      "columns": [
+        "ctx_base_fta",
+        "ctx_base_ftm",
+        "ctx_base_ftr",
+        "ctx_base_mid_made",
+        "ctx_base_minutes_share"
+      ],
+      "permutation_seed": 28657,
+      "arm": "PP"
+    }
+  ],
+  "execution": {
+    "task_count": 330,
+    "workers": 4,
+    "runtime_seconds": 7200,
+    "memory": "140G",
+    "cpu_quota": "2200%"
+  },
+  "selection": {
+    "source": "Completed R9a pre2019 development diagnostics only",
+    "rule": "Single deletion-minus-full AND matched permutation-minus-full strictly positive in every development fold mean and every model seed mean; take every qualifying column.",
+    "source_summary_sha256": "e318ac207769e01a64e7cd372905ae1bf7ad3b6915603ad83982df3c58e628d7",
+    "source_verification_sha256": "beff1f798dc6f79e23118074d4216c83fd3dc97b2b699bd8ea8d998b437ab529",
+    "selected_columns": [
+      "ctx_base_fta",
+      "ctx_base_ftm",
+      "ctx_base_ftr",
+      "ctx_base_mid_made",
+      "ctx_base_minutes_share"
+    ],
+    "no_further_exhaustive_pruning_without_new_data_or_confirmation": true
+  },
+  "controls": {
+    "deletion": "All16 subsets of the five registered columns of sizes3..5 are removed only after the unchanged47-column full X design is prepared; remaining order/values fixed. Width42..44 entails model dimension effects, not pure information deletion.",
+    "joint_permutation": "All26 subsets of sizes2..5 are shuffled as complete row vectors within role, draft cohort and exact per-row joint missingness pattern. Keeps width47, every player missing mask, cohort vector distribution and within-subset covariance/algebra. May break dependence with other predictors; sparse masks can be immovable. Three fixed permutation seeds with shared stream fifty:joint_input_ablation:<sorted columns>. Exploratory paired diagnostics, no significance claim.",
+    "comparison": "Report each deletion and joint-shuffle difference versus full model by fold and model seed; preserve controls individually and across three permutation seeds. No automatic promotion."
+  },
+  "reference_gate": "All48 A full/single/double tasks must exactly replay complete input audits, raw/canonical predictions and scores before interpretation."
+}

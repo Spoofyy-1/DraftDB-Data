@@ -1,0 +1,58 @@
+{
+  "passed": true,
+  "models_fitted": 0,
+  "model_predictions_run": 0,
+  "records": 1731,
+  "reference_replays_exact": 3,
+  "frozen_files_unchanged": 64,
+  "frozen_manifest_sha256": "2673d0245e317f934a1295a311ba0d49262226df67b61615cc7576856f733b37",
+  "preregistration_exact": true,
+  "queue_registration_exact": true,
+  "append_log_all_hashes_exact": true,
+  "append_log_sha256": "ede73be300b925d2d12b4a559656999b0ba64b3b3288ddad179288b4bebbb159",
+  "complete_summary_recomputed_exact": true,
+  "compact_candidates_exact": true,
+  "distinct_XGBoost_configurations": 576,
+  "XGBoost_fit_tasks": 1728,
+  "saved_fold_checkpoint_scores_recomputed_exact": 15561,
+  "checkpoint_rounds": [
+    200,
+    600,
+    1200
+  ],
+  "installed_source_hashes_exact": true,
+  "actual_GPU_constructors_validated": true,
+  "source_matrix_order_group_target_replay": {
+    "sha256": "ed44e4b1ea51a051deffab96cc831b53e48b0d4a2ed27d7bf55342350afd1fd2",
+    "bytes": 733
+  },
+  "all_pre2019_development_only": true,
+  "no_model_promotion": true,
+  "blend_verification": {
+    "sha256": "5301e7c53752924622a17fb01488936c69a9132de39d4a9f0826de5d89982a26",
+    "bytes": 466
+  },
+  "blend_recipes": 76032,
+  "task_archive_manifest": {
+    "sha256": "8bb3109db4f4df2fd6a861cc936c0ed7e87ea4fe7f2172ab02e4568241d3367d",
+    "bytes": 573843
+  },
+  "chunks": 13,
+  "original_bytes": 389090265,
+  "compressed_bytes": 102359978,
+  "max_chunk_bytes": 8445401,
+  "all_record_roundtrips_byte_exact": true,
+  "resumed_queue_elapsed_seconds": 5735.0623744040495,
+  "retained_exact_records": 952,
+  "resumed_new_records": 779,
+  "recovery_verification": {
+    "sha256": "5b39913e400b2df7992a06a8366b816a4199e804c80b561f3200673085775b63",
+    "bytes": 1999
+  },
+  "verification_seconds": 603.3288353509852,
+  "verification_code_sha256": "88b4b75718f4ca9c78c79be68220e650a4c7e6c3702915d96b3616ae27c2e063",
+  "summary": {
+    "sha256": "0f637e438f8f24adf81c0cd1a35e09b1da360a8ef8f2e8fa560c29d91e0827e3",
+    "bytes": 4753470
+  }
+}

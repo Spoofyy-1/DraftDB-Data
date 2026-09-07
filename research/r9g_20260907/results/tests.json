@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "CPU_and_source_checks_passed": true,
+  "fit_query_exclusion_fixture": true,
+  "checkpoint_range_guards": true,
+  "identical_input_ties": true,
+  "safe_unique_task_ids": true,
+  "rank_blend_order_invariance": true,
+  "exact_B_and_E_anchor_inputs": true,
+  "registered_tasks": 1731,
+  "negative_targets_unchanged": true,
+  "cohort_group_order_and_row_replay": true
+}

@@ -1,0 +1,39 @@
+{
+  "reason": "Runtime-only resume after registered two-hour cap",
+  "recorded_utc": "2026-09-07T04:08:28.122554+00:00",
+  "unit": {
+    "RuntimeMaxUSec": "2h",
+    "Result": "timeout",
+    "ExecMainStartTimestamp": "Mon 2026-09-07 01:46:23 UTC",
+    "ExecMainExitTimestamp": "Mon 2026-09-07 03:46:24 UTC",
+    "ExecMainStatus": "15",
+    "CPUQuotaPerSecUSec": "22s",
+    "MemoryMax": "150323855360",
+    "Id": "draftdb-r9g-20260907.service",
+    "ActiveState": "failed",
+    "SubState": "failed",
+    "InvocationID": "35384ce229214795a83f7ddfc1334bae"
+  },
+  "snapshots": {
+    "state.json": {
+      "bytes": 3492349,
+      "sha256": "24d4e3b7f9069ee9f4afdffee2c07749c06b9beaef529d30df9fb075f3f66558"
+    },
+    "sequential_launch.json": {
+      "bytes": 715,
+      "sha256": "4a1ca4cc0eda91e8a8aa16f12acff1e9bea591fceadd0dc69fad2994cecb3a50"
+    },
+    "gpu_fixture.json": {
+      "bytes": 21254,
+      "sha256": "19748a02d47a83d5070a6e306a509e102b8834daf7bb02523266e0bef7301c16"
+    },
+    "preparation.json": {
+      "bytes": 163,
+      "sha256": "43056f69597e04a9464d51c49291075f430275685c136db680a1e6464b3c32e9"
+    },
+    "queue_registration.json": {
+      "bytes": 98272,
+      "sha256": "c8c6e2a8207669ec099cd5bed2883026e41438e2f64173464ed89f8eea0da111"
+    }
+  }
+}

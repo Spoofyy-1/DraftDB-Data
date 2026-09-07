@@ -1,0 +1,42 @@
+{
+  "updated": 1788733488.6738808,
+  "r9f": {
+    "status": "running",
+    "completed": 27,
+    "tasks": 435,
+    "exact_reference_replays": 3,
+    "error": null,
+    "unit": {
+      "Result": "success",
+      "ActiveState": "active",
+      "SubState": "running",
+      "InvocationID": "b070eced9dd143abb21240694fd80a81"
+    }
+  },
+  "r9g": {
+    "queue_status": {
+      "status": "queued",
+      "study": "r9g",
+      "tasks": 1731,
+      "blocked_on": "draftdb-r9f-20260907",
+      "frozen_sha256": "2673d0245e317f934a1295a311ba0d49262226df67b61615cc7576856f733b37",
+      "F_frozen_sha256": "1d3f47f8e1467636220c7907a549693664da033f984bcf54ce4ab2eab688f978",
+      "reads_candidate_scores": false,
+      "updated": 1788733460.2856028
+    },
+    "unit": {
+      "Result": "success",
+      "ActiveState": "active",
+      "SubState": "running",
+      "InvocationID": "37cb827d428e473c811476e7a75aa2f8"
+    },
+    "CPU_preparation": {
+      "passed": true,
+      "registered_tasks": 1731,
+      "model_fits": 0,
+      "frozen_manifest_sha256": "2673d0245e317f934a1295a311ba0d49262226df67b61615cc7576856f733b37"
+    },
+    "benchmark_result": null
+  },
+  "GPU": "99 %, 40946 MiB"
+}

@@ -1,0 +1,22 @@
+{
+  "status": "launched",
+  "study": "r9g",
+  "tasks": 1731,
+  "unit": "draftdb-r9g-20260907",
+  "frozen_sha256": "2673d0245e317f934a1295a311ba0d49262226df67b61615cc7576856f733b37",
+  "F_frozen_sha256": "1d3f47f8e1467636220c7907a549693664da033f984bcf54ce4ab2eab688f978",
+  "F_success_gate": {
+    "tasks": 435,
+    "exact_references": 3,
+    "saved_blends_complete": true,
+    "unit": {
+      "Result": "success",
+      "ExecMainStatus": "0",
+      "ActiveState": "inactive"
+    }
+  },
+  "CPU_preflight_passed": true,
+  "GPU_fixtures_pending_inside_unit": true,
+  "launch_output": "Running as unit: draftdb-r9g-20260907.service; invocation ID: 35384ce229214795a83f7ddfc1334bae\n",
+  "updated": 1788745584.0201926
+}

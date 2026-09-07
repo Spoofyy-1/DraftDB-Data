@@ -1,0 +1,49 @@
+{
+  "passed": true,
+  "runtime_only_resume": true,
+  "retained_exact_records": 952,
+  "remaining_records_added": 779,
+  "original_log_exact_prefix": true,
+  "retained_task_hash_map_exact": true,
+  "original_timeout_preserved": true,
+  "original_invocation": "35384ce229214795a83f7ddfc1334bae",
+  "resumed_invocation": "8fb6c2dfe62b4f278d093cb46f329a22",
+  "all_evidence_files": {
+    "results/runtime_resumes/20260907T0407Z/before_resume.json": {
+      "sha256": "2df1645bbfb0c7b767dce6d41cc6571f89e3fa7e67fb2c48b15760a12c639e05",
+      "bytes": 1275
+    },
+    "results/runtime_resumes/20260907T0407Z/checkpoint_verification.json": {
+      "sha256": "4fb4f915418b37e4aa80503e7c7e18feda30b492cebb56b9aedb55901c903058",
+      "bytes": 456
+    },
+    "results/runtime_resumes/20260907T0407Z/gpu_fixture.json": {
+      "sha256": "19748a02d47a83d5070a6e306a509e102b8834daf7bb02523266e0bef7301c16",
+      "bytes": 21254
+    },
+    "results/runtime_resumes/20260907T0407Z/preparation.json": {
+      "sha256": "43056f69597e04a9464d51c49291075f430275685c136db680a1e6464b3c32e9",
+      "bytes": 163
+    },
+    "results/runtime_resumes/20260907T0407Z/queue_registration.json": {
+      "sha256": "c8c6e2a8207669ec099cd5bed2883026e41438e2f64173464ed89f8eea0da111",
+      "bytes": 98272
+    },
+    "results/runtime_resumes/20260907T0407Z/recovery_snapshot.json": {
+      "sha256": "21a24e96720e977d3a71560f9529458bf8d8463485c1a17efef22a84553e2885",
+      "bytes": 469
+    },
+    "results/runtime_resumes/20260907T0407Z/restarted_unit.json": {
+      "sha256": "78887c235a6c0f1c13185ad8dde6577dddc59d79ad9ab2bfa6cc23d296929b78",
+      "bytes": 220
+    },
+    "results/runtime_resumes/20260907T0407Z/sequential_launch.json": {
+      "sha256": "4a1ca4cc0eda91e8a8aa16f12acff1e9bea591fceadd0dc69fad2994cecb3a50",
+      "bytes": 715
+    },
+    "results/runtime_resumes/20260907T0407Z/state.json": {
+      "sha256": "24d4e3b7f9069ee9f4afdffee2c07749c06b9beaef529d30df9fb075f3f66558",
+      "bytes": 3492349
+    }
+  }
+}
