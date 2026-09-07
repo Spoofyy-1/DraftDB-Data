@@ -1,0 +1,1799 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" itemscope itemtype="http://schema.org/" >
+<head>
+    <link rel="SHORTCUT ICON" href="http://sports.cbsimg.net/favicon.ico">
+
+    <title>2016 NBA Mock Drafts - CBSSports.com Basketball</title>
+
+    <script>
+  (function(d) {
+    var config = {
+      kitId: 'zpz8rmb',
+      scriptTimeout: 3000,
+      async: true
+    },
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://fonts.cbsi.com/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);
+</script><link href="http://sports.cbsimg.net/css/font/iconmoon/20160427/style.css" rel="stylesheet" type="text/css" />
+            <link href="http://sports.cbsimg.net/css/phase4-min-v515.css" rel="stylesheet" type="text/css" />
+            <!--[if IE]>
+            <link href="http://sports.cbsimg.net/css/phase2-ie-min-v058.css" rel="stylesheet" type="text/css" />
+            <![endif]-->
+            <!-- no arena css -->
+<link href="http://sports.cbsimg.net/css/jquery/ui-tools-min-v030.css" rel="stylesheet" type="text/css"/>
+<link href="http://sports.cbsimg.net/css/nba/mock-draft-min-v005.css" rel="stylesheet" type="text/css" />
+    <!--[if lt IE 9]><script>var e = ("abbr,article,aside,audio,canvas,datalist,details,figure,figcaption,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video").split(',');for (var i = 0; i < e.length; i++) {document.createElement(e[i]);}</script><![endif]-->
+<script type="text/javascript">
+if(typeof CBSi=="undefined"||!CBSi){var CBSi={}}CBSi.namespace=function(){var b=arguments,g=null,e,c,f;for(e=0;e<b.length;e=e+1){f=b[e].split(".");g=CBSi;for(c=(f[0]=="CBSi")?1:0;c<f.length;c=c+1){g[f[c]]=g[f[c]]||{};g=g[f[c]]}}return g};CBSi.extend=function(d,e,c){if(!e||!d){throw new Error("extend failed, please check that all dependencies are included.")}var b=function(){};b.prototype=e.prototype;d.prototype=new b();d.prototype.constructor=d;d.superclass=e.prototype;if(e.prototype.constructor==Object.prototype.constructor){e.prototype.constructor=e}if(c){for(var a in c){if(c.hasOwnProperty(a)){d.prototype[a]=c[a]}}}};CBSi.panel={overlayManager:undefined,create:function(c,b){if(!this.overlayManager){this.overlayManager=new YAHOO.widget.OverlayManager()}if(!b.strings){b.strings={}}if(!b.strings.close){b.strings.close=""}var a=new YAHOO.widget.Panel(c,b);this.overlayManager.register(a);return a}};CBSi.fireEvent=function(b,c){if(document.createEvent){var a=document.createEvent("HTMLEvents");a.initEvent(c,true,true);return !b.dispatchEvent(a)}else{var a=document.createEventObject();return b.fireEvent("on"+c,a)}};CBSi.log=function(){};if(window.console&&window.console.log){CBSi.log=function(){if(CBSi.debugmode===""){return}var a=[];for(var b=0;b<arguments.length;b++){a.push(arguments[b])}console.log(a)}}else{if(window&&window.console){window.console.log=function(){}}else{window.console={};window.console.log=function(){}}if(console){console.log=function(){}}else{console={};console.log=function(){}}}CBSi.jsRenvInit=function(a){for(var b in a){CBSi[b]=a[b]}return};
+if (!CBSi.debugmode) CBSi.debugmode = ''; // For normandy--manually set if js only
+</script>
+<script id="jsRenv_script" type="text/javascript">CBSi.jsRenvInit({"takeoverIsBlank":0,"httpHost":"http://www.cbssports.com","project":"media","mediaHttpServer":"http://www.cbssports.com","pref":{"timezoneOffset":"4","timezoneAbbrev":"ET"},"league_abbr":"nba","arena":"nba","imageServer":"http://sports.cbsimg.net","requestUri":"/nba/draft/mock-draft"});</script>
+<script type='text/javascript' src='http://sports.cbsimg.net/js/yui/latest/yahoo-dom-event-connection-datasource-get-imageloader-animation-json-min.js'></script>
+<script type='text/javascript' src='http://sports.cbsimg.net/js/jquery/jquery.1.8.2.min.js'></script>
+<script type='text/javascript' src='http://sports.cbsimg.net/js/jquery/ui/jquery.1.9.2.custom.min.js'></script>
+<script type='text/javascript' src='http://sports.cbsimg.net/js/global-min-v0085.js'></script>
+<script type='text/javascript' src='http://sports.cbsimg.net/js/CBSi/app/DraftTracker/DraftSnippet-min-v0004.js'></script>
+<script src="http://sports.cbsimg.net/js/CBSi/app/NBA/MockDraft-min-v001.js"></script>
+<script>
+//Dumping cookies that have been made browser/host only
+(function($){
+    //return;//Comment out to run code
+    //List of domains to check and see if the cookie has with it
+    var domains = ['.cbssports.com','.www.cbssports.com','www.cbssports.com','*.cbssports.com','cbssports.com', '.cbssports.com'];
+    //List of the names of cookies to match
+    var matches = ['CirclePoll','2013NCAAB','2013NFL','2013NCAAF'];
+    //Loop throught the cookies and find the matches
+    $.each(document.cookie.split(/; */), function()  {
+        var splitCookie = this.split('=');
+        for(m in matches){
+            if(splitCookie[0].match(RegExp(matches[m]))){
+                for(d in domains){
+                    console.log(splitCookie[0], 'cookie removed');
+                    //Try to delete the cookie with a domain and path
+                    document.cookie= splitCookie[0] + "=; expires=Monday, 19 Aug 1996 05:00:00 GMT;domain=" + domains[d] + ";path=/";
+                    //Try to delete the cookie without a domain and path
+                    document.cookie= splitCookie[0] + "=; expires=Monday, 19 Aug 1996 05:00:00 GMT;";
+                    //Try to delete the cookie without a path
+                    document.cookie= splitCookie[0] + "=; expires=Monday, 19 Aug 1996 05:00:00 GMT;domain=" + domains[d] + ";";
+                    //Try to delete the cookie without a domain
+                    document.cookie= splitCookie[0] + "=; expires=Monday, 19 Aug 1996 05:00:00 GMT;path=/";
+                }
+            }
+        }
+
+    });
+})($);
+</script>
+
+
+
+
+
+    <script type="text/javascript">
+var surround=new Object();
+surround.cat = ['a','b','c','d','e','f'];
+surround.cookie = readCookie('surround');
+
+if (surround.cookie == false || surround.cookie == undefined) {
+    surround.pick = Math.floor(Math.random() * surround.cat.length);
+    surround.subsession = Math.floor(Math.random() * 4) + 1; /*subsessions 1-4*/
+    document.cookie=("surround="+surround.cat[surround.pick]+"|"+surround.subsession+";domain=.cbssports.com;path=/" );
+    surround.cookie = readCookie('surround');
+}
+if (surround.cookie) {surround.sessions=surround.cookie.split("|");}
+surround.vguid = v1();
+</script>
+
+<script type="text/javascript">
+var isSharethroughBlank = 'untested'; //declare window global
+var storeExtraCover;
+
+function adCallBack(obj) {
+    
+    // CBSi.log('OBJECT: ', obj);
+    
+    if (obj.slot == adSlots["XFP_sharethrough_top"] && isSharethroughBlank == 'untested') {
+        if (obj.isEmpty) { // ad is blank
+            isSharethroughBlank = 'blank'; // reset to false for next time ad is refreshed
+            // CBSi.log('[ShareThrough] adCallback - isEmpty', isSharethroughBlank);
+            showHiddenCover();
+
+        } else {
+            isSharethroughBlank = 'filled';
+            // CBSi.log('[ShareThrough] adCallback: ',isSharethroughBlank);
+            // ad is not blank
+            // video component
+            if ('home' == 'blogs_eye_entry') {
+                var length = $('#vidComponent table').length;
+                $('#vidComponent table').eq(length - 1).hide();
+            }
+
+            // 3, 6, or 9 pack
+            var ecLength = $('#extra-covers .coverItem').length;
+            
+            // CBSi.log('[ShareThrough] ecLength: ', ecLength);
+            
+            storeExtraCover = $('#extra-covers .coverItem').eq(ecLength-2).html();
+            $('#extra-covers .coverItem').eq(ecLength-2).replaceWith($("#sharethrough_top"));
+            $("#extra-covers #sharethrough_top").addClass('coverItem');
+            $('#extra-covers #sharethrough_top').show();
+        }
+    }
+}
+ 
+function blankAdCallback(width, height, pos) {
+    if (width == 11 && height == 11 && pos == 'top' && (isSharethroughBlank == 'filled' || isSharethroughBlank == 'untested') ) {
+        isSharethroughBlank = 'scheduled'; // set global
+        // CBSi.log('[ShareThrough] blankAdCallback: ', width, height, pos, isSharethroughBlank);
+        showHiddenCover();
+    }
+}
+
+function showHiddenCover() {
+    // CBSi.log('[ShareThrough] showHiddenCover: start');
+    var ecLength = $('#extra-covers .coverItem').length;    
+    if (typeof storeExtraCover != 'undefined' && storeExtraCover != '') {
+        // CBSi.log('[ShareThrough] showHiddenCover: ', storeExtraCover);        
+        $('#extra-covers .coverItem').eq(ecLength-2).html(storeExtraCover)
+    };
+    $('#extra-covers .coverItem').eq(ecLength-2).show();
+
+    if ('home' == 'blogs_eye_entry') {
+        var length = $('#vidComponent table').length;
+        $('#vidComponent table').eq(length - 1).show();
+    }
+}
+
+</script>
+    <script>window.logged_in = "no";</script><script src="//cdn.optimizely.com/js/2788500260.js"></script>
+<script type="text/javascript">
+var cbsiadGlobal = { };
+if ( typeof(surround) == 'undefined' ) { surround = {}; }
+var dwTag = "&PGUID="+surround.vguid +"&cookiesOn=" +cbsiadGlobal.cookiesOn;
+</script>
+<script type="text/javascript" src="//native.sharethrough.com/assets/tag.js" async></script><script type="text/javascript" src="//js.indexww.com/ht/ls-cbssports.js" async></script><script type="text/javascript" src="//mtrx.go.sonobi.com/morpheus.cbssports.1044.js" async></script>
+<script type="text/javascript">
+if (!random) {var abc=Math.random() + ""; var random=abc.substring(2,abc.length);}
+var switchXFP="on";
+var adLookup="media/spln/nba/draft/free/draft_mock";
+var adNetwork="8264";
+var xfpObj='vguid='+surround.vguid+'~exclude=nba~user=anon~env=prod~arena=nba';
+</script>
+    
+   <script type="text/javascript">
+      xfpDomain='.cbssports.com';
+      xfpSlot='/8264/aw-cbssports/nba/media/draft/draft_mock';
+      // tracks if this is the first page the user has visited in this session
+      function xfpFirstPageCookie() {
+         if (xfpFirstPage) {return xfpFirstPage;}           // only run once per page, if already set, just return value
+         var xfpFirstPage = readCookie('XFP_FIRSTPAGE');    // get firstPage cookie
+         if (!xfpFirstPage) {                               // if cookie doesn't exist, this is the first page, so firstPage = 1
+            xfpFirstPage = 1;
+         } else if (xfpFirstPage == 1) {                    // else, this is the second page, set firstPage = 0
+            xfpFirstPage = 0;
+         }
+         var exp = new Date();
+         exp.setTime(exp.getTime() + xfpGetTimeToExpiration(.75)); // get number of milliseconds until 12:45am ET
+         document.cookie=('XFP_FIRSTPAGE ='+xfpFirstPage+";expires="+exp.toUTCString()+";domain="+xfpDomain+";path=/;");
+         return xfpFirstPage;                                // set and return the parameter DVAR_FIRSTPAGE = firstPage
+      }
+      // given the expiration hour in ET, return the number of milliseconds to
+      //   expiration from the given Date Object (defaults to current date)
+      function xfpGetTimeToExpiration(etExpireHour,dt) {
+         dt = dt || new Date();
+         var etUtcOffset = 5; // hours
+         if (isEDT(dt)) etUtcOffset = 4; // if in daylight savings time
+         var utcExpire = (etExpireHour+etUtcOffset)%24; // UTC expire time in hours
+         var utcTime = 60*dt.getUTCHours() + dt.getUTCMinutes(); // UTC time in mins
+         var minsToExpiration = 60*utcExpire - utcTime; // time to expiration
+         if (minsToExpiration < 0) minsToExpiration = 24*60 + minsToExpiration;
+         return 60000*minsToExpiration; // in milliseconds
+      }
+      // determine if Daylight Savings Time is being observed in the ET timezone
+      //   at the date/time of the given Date Object (defaults to current time)
+      function isEDT(dt) {
+         dt = dt || new Date(); // default to current date
+         var month = dt.getUTCMonth(); // get month in UTC
+         if (month > 2 && month < 10) return true; // in EDT if Apr to Oct
+         if (month < 2 || month > 10) return false; // not in EDT if Jan,Feb,Dec
+         var date = dt.getUTCDate(); // get day of month in UTC
+         var day = dt.getUTCDay(); // get day of week in UTC
+         if (month == 10) {  // November
+             if (date > 7) return false;  // after first week, not in EDT
+             if (day == 0) {  // Sunday of first week, check time
+               if (dt.getUTCHours() < 6) return true; //before 6am UTC, in EDT
+               return false;  // 6am UTC or later, not in EDT
+            }
+            if (date > day) return false; // Sunday has passed, not in EDT
+            return true;  // Sunday has not passed, in EDT
+         }
+         // March
+         if (date < 8) return false; // still first week, not in EDT
+         if (date > 14) return true; // after second week, in EDT
+         if (day == 0) { // Sunday of second week, check time
+             if (dt.getUTCHours() > 6) return true; // 7am UTC or later, in EDT
+             return false; // before 7am UTC, not in EDT
+         }
+         if (date - day > 7) return true;  // Sunday has passed, in EDT
+         return false; // Sunday has not passed, not in EDT
+      }
+      //sharethrough
+
+      var xfpFirstPage =  xfpFirstPageCookie();
+      var xfpSession    = (surround.cookie) ? surround.sessions[0] : 'off';
+      var xfpSubsession = (surround.cookie) ? surround.sessions[1] : 'off';
+
+      function xfpGetArgs(){
+         var args = new Object();
+         var query = location.search.substring(1); // get query string
+         var pairs = query.split("&");
+         for (var i=0; i < pairs.length; i++) {
+            var pos = pairs[i].indexOf('=');                         // Look for name "name=value"
+            if (pos == -1) continue;                                 // If not found, skip
+            var argname = pairs[i].substring(0,pos);                 // Extract the name
+            var value   = pairs[i].substring(pos+1);                 // Extract the value
+            value = decodeURIComponent(value);                       // Decode it, if needed
+            var adTarg = argname.match(/adTargeting_/);              // Do we have a match on adTargeting_<key>
+
+            // Set Targeting for spec'd out query parms
+            if (argname == 'env' || argname == 'session' || argname == 'subses' || argname == 'adRegion' || argname == 'ftag' || argname == 'ttag' || (adTarg)) {
+               // args[argname] = value;
+               if (adTarg) {argname = argname.substring(12);} // strip off adTargeting_ from the name if present
+               googletag.pubads().setTargeting(argname, value);      // Set Targeting
+               if (argname == 'ftag' || argname == 'ttag') {
+                  document.cookie=("xfpFtag="+value+";domain="+xfpDomain+";path=/" );
+                  newFtag = 1;
+               }
+               xfpObj += '~' +argname +'=' +value;
+            }
+         }
+
+         var xfpFtagVal = readCookie("xfpFtag");                  // check if we have an ftag cookie
+         var newFtag = 0;
+         if ((newFtag==0) && xfpFtagVal) {                        // If no new setting for ftag but we had an old one then
+            googletag.pubads().setTargeting('ftag', xfpFtagVal);  // Set Targeting
+            xfpObj += '~ftag=' +xfpFtagVal;
+         }
+      }
+      
+      function getTaboolaPlacements() {
+         var taboolaList = '';
+         $("div[data-taboola-placement]").each(function() {
+            $this = $(this);
+            if ($this.data('taboola-placement')) {
+              if (taboolaList != '') {taboolaList+='|';}
+              taboolaList += $this.data('taboola-placement');
+            }
+         });
+         surround.taboola=taboolaList;
+      }
+   </script>
+   <script type="text/javascript">
+      var googletag = googletag || {};
+      googletag.cmd = googletag.cmd || [];
+      (function() {
+         var gads = document.createElement('script');
+         gads.async = true;
+         gads.type = 'text/javascript';
+         var useSSL = 'https:' == document.location.protocol;
+         gads.src = (useSSL ? 'https:' : 'http:') +'//www.googletagservices.com/tag/js/gpt.js';
+         var node = document.getElementsByTagName('script')[0];
+         node.parentNode.insertBefore(gads, node);
+      })();
+
+      var adSlots = {}; //var to hold ad slots.
+
+      googletag.cmd.push(function() {
+
+         adSlots["XFP_leader_top"] = googletag.defineSlot("/8264/aw-cbssports/nba/media/draft/draft_mock", [[728,90],[970,66],[970,90]], "leader_top").addService(googletag.pubads()).setTargeting("pos", "top"); 
+         adSlots["XFP_skin_ad_call"] = googletag.defineSlot("/8264/aw-cbssports/nba/media/draft/draft_mock", [1600,1000], "skin_ad_call").addService(googletag.pubads()).setTargeting("pos", "top"); 
+         adSlots["XFP_marketing_over_top"] = googletag.defineSlot("/8264/aw-cbssports/nba/media/draft/draft_mock", [791,30], "marketing_over_top").addService(googletag.pubads()).setTargeting("pos", "top"); 
+         adSlots["XFP_mpu_top"] = googletag.defineSlot("/8264/aw-cbssports/nba/media/draft/draft_mock", [300,250], "mpu_top").addService(googletag.pubads()).setTargeting("pos", "top"); 
+         adSlots["XFP_leader_plus2_bottom"] = googletag.defineSlot("/8264/aw-cbssports/nba/media/draft/draft_mock", [[728,90],[970,66]], "leader_plus2_bottom").addService(googletag.pubads()).setTargeting("pos", "bottom"); 
+         googletag.defineOutOfPageSlot("/8264/aw-cbssports/nba/media/draft/draft_mock","interstitial").addService(googletag.pubads());
+         googletag.pubads().setTargeting("ptype", "projections");
+         googletag.pubads().setTargeting("firstpg", ""+xfpFirstPage);
+         googletag.pubads().setTargeting("session", xfpSession);
+         googletag.pubads().setTargeting("subses", ""+xfpSubsession);
+         googletag.pubads().setTargeting("vguid", surround.vguid); 
+         googletag.pubads().setTargeting("exclude", "nba"); 
+         googletag.pubads().setTargeting("user", "anon"); 
+         googletag.pubads().setTargeting("env", "prod"); 
+
+         xfpGetArgs(); // to set/override targeting for env, session, subses, adRegion, ftag, ttag, and adTargeting_<key> if set by query string
+         googletag.pubads().enableAsyncRendering();
+         googletag.pubads().enableSingleRequest();
+         googletag.pubads().collapseEmptyDivs();
+         googletag.enableServices();
+         // googletag.display();  // Ad display is triggered via Sonobi.
+      });
+      var PR_UACT=0;
+      xfpObj += '~ptype=projections~firstpg=' +xfpFirstPage +'~session='+xfpSession +'~subses='+xfpSubsession+'';
+      function getVideoAdSessionValues(videoId){return  "session="+xfpSession+";subses="+xfpSubsession+"";}
+   </script>
+   
+         <script type="text/javascript">
+         window._taboola = window._taboola || [];
+         _taboola.push({other : 'auto'});
+         !function (e, f, u) {
+             e.async = 1;
+             e.src = u;
+             f.parentNode.insertBefore(e, f);
+         }(document.createElement('script'), 
+         document.getElementsByTagName('script')[0], '//cdn.taboola.com/libtrc/cbsinteractive-cbssports/loader.js');
+         </script>
+      
+   
+    
+    <!-- no ClickTale -->
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" /><meta name="description" content="2016 NBA Mock Drafts presented by CBSSports.com's expert writers and bloggers."><meta property="og:title" content="2016 NBA Mock Drafts" /><meta property="og:type" content="article"/><meta property="og:description" content=""/><meta property="og:image" content="http://sports.cbsimg.net/images/cbss/ui5/cbssportsv2_200x200.png"/><meta property="og:url" content="http://www.cbssports.com/nba/draft/mock-draft"/><meta property="og:site_name" content="CBSSports.com"/><meta property="fb:app_id" content="297742330311988"/><meta itemprop="name" content="2016 NBA Mock Drafts"/><meta itemprop="description" content=""/><meta name="vr:type" content="article"/><meta name="twitter:card" content="summary" /><meta name="twitter:site" content="@cbssports" /><meta name="twitter:creator" content="@eyeonbasketball" /><meta name="twitter:url" content="http://www.cbssports.com/nba/draft/mock-draft" /><meta name="twitter:title" content="2016 NBA Mock Drafts" /><meta name="twitter:description" content="" /><meta name="twitter:image" content="http://sports.cbsimg.net/images/cbss/ui5/cbssportsv2_200x200.png" /><meta name="keywords" content="NBA, Draft, NBA Draft, Mock Draft, 2016, CBSSports.com">
+<meta name="googlebot" content="NOODP">
+<meta property="fb:pages" content="25902406772" />
+<link rel="alternate" media="only screen and (max-width: 640px)" href="http://mweb.cbssports.com/nba/draft/mock-draft" /><link rel="alternate" media="only screen and (max-width: 640px)" href="http://mweb.cbssports.com/nba/draft/mock-draft" /><link rel="alternate" href="android-app://com.handmark.sportcaster/cbssportsapp/www.cbssports.com/nba/draft/mock-draft" />
+<link rel="canonical" href="http://www.cbssports.com/nba/draft/mock-draft">
+<link rel="alternate" title="CBSSports.com: NBA Headlines" href="http://www.cbssports.com/partners/feeds/rss/nba_news" type="application/rss+xml">
+    <link rel="apple-touch-icon" href="http://sports.cbsimg.net/images/icons/touch/touch-icon-iphone.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="http://sports.cbsimg.net/images/icons/touch/touch-icon-ipad.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="http://sports.cbsimg.net/images/icons/touch/touch-icon-iphone-retina.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="http://sports.cbsimg.net/images/icons/touch/touch-icon-ipad-retina.png">
+</head><body id="standardBody">
+<div id="tooltip" name="tooltip"></div> 
+
+<script type="text/javascript">if(top.location != self.location && (document.referrer.indexOf("cbssports.com") == -1)) {window.open(location.href, '_top');}</script>
+<div id="interstitial" style="position:absolute;top:-5000px;left:-5000px;">
+      <script type="text/javascript">
+         googletag.cmd.push(function() {
+             if (typeof index_headertag_lightspeed !== 'undefined') {
+                 var cb = (function () {
+                     return function () {
+                         var slots = googletag.pubads().getSlots();
+                         index_headertag_lightspeed.set_slot_targeting(slots);
+                          googletag.display("interstitial");
+                       };
+                 })();
+                 index_headertag_lightspeed.add_session_end_hook(cb, true);
+                 index_headertag_lightspeed.refresh();
+             } else {
+                 googletag.display("interstitial");
+             }
+         });
+      </script>
+   </div>
+<!--googleoff: snippet-->
+<header id="site-header" class="site-header" data-component="nav" data-role="header" data-position="fixed" data-fullscreen="true">
+	<div class="nav-network-bar">
+	  <ul class="nav-networks">
+		<li class="nav-networks-item is-selected"> <a href="http://www.cbssports.com/" om-event="Brand Bar|CBSSports">CBSSports.com</a> </li>
+		<li class="nav-networks-item "> <a href="http://247sports.com" target="_blank" om-event="Brand Bar|247Sports"> 247Sports </a> </li>
+		<li class="nav-networks-item "> <a href="http://www.maxpreps.com" target="_blank" om-event="Brand Bar|MaxPreps"> MaxPreps </a> </li>
+		<li class="nav-networks-item "> <a href="http://www.sportsline.com" target="_blank" om-event="Brand Bar|SportsLine"> SportsLine </a> </li>
+		<li class="nav-networks-item "> <a href="http://shop.cbssports.com/?utm_source=cbssportscom_hp&utm_medium=bm_referral&utm_term=kw--CBS_Sports" target="_blank" om-event="Brand Bar|Shop"> Shop </a> </li>
+	  </ul>
+	  
+	  <ul class="nav-follow-us">
+		<li class="nav-follow-us-item nav-follow-us-item-label"> Follow CBS Sports </li>
+		<li class="nav-follow-us-item"> <a href="https://www.facebook.com/cbssports" target="_blank" rel="nofollow" om-event="Brand Bar|Facebook"><span class="btn share icon-moon-facebook"></span></a> </li>
+		<li class="nav-follow-us-item"> <a href="https://twitter.com/cbssports" target="_blank" rel="nofollow" om-event="Brand Bar|Twitter"><span class="btn share icon-moon-twitter"></span></a> </li>
+		<li class="nav-follow-us-item"> <a href="https://www.instagram.com/cbssports" target="_blank" rel="nofollow" om-event="Brand Bar|Instagram"><span class="btn share icon-moon-instagram"></span></a> </li>
+	  </ul>
+	</div>
+	<div id="cbs-site-nav" class="cbs-site-nav">
+		<div class="site-nav-inner">
+			<div class="site-nav-logo">
+				<div class="cbs-logo-lockup">
+					
+        
+        <div class="cbs-logo">
+            <a href="/" om-event="Arena Nav|Logo"> <span class="cbs-logo-icon icon-moon-cbs-icon"></span> </a>
+        </div>
+        
+            <div class="cbs-logo-section has-icon"><div class="cbs-logo-pos" data-arena="logo">
+                <span class="logo-sport icon-moon-arena-text-nba"></span>
+                <span class="logo-icon icon-moon-caret-down"></span>
+            </div> <div class="cbs-logo-dropdown"><ul class="nav-dropdown-col"><li class="nav-dropdown-item"> <span class="icon-sport icon-moon-cbs-icon"></span> <a href="/" om-event="Arena Nav|NBA|CBS Sports Home">CBS Sports Home</a> </li><li class="nav-dropdown-item "> <span class="icon-sport icon-moon-arena-fantasy"></span> <a href="http://www.cbssports.com/fantasy/" om-event="Arena Nav|NBA|Fantasy">Fantasy</a> </li><li class="nav-dropdown-item "> <span class="icon-sport icon-moon-arena-nfl"></span> <a href="http://www.cbssports.com/nfl/" om-event="Arena Nav|NBA|NFL">NFL</a> </li><li class="nav-dropdown-item is-selected"> <span class="icon-sport icon-moon-arena-basketball"></span> <a href="http://www.cbssports.com/nba/" om-event="Arena Nav|NBA|NBA">NBA</a> </li><li class="nav-dropdown-item "> <span class="icon-sport icon-moon-arena-mlb"></span> <a href="http://www.cbssports.com/mlb/" om-event="Arena Nav|NBA|MLB">MLB</a> </li><li class="nav-dropdown-item "> <span class="icon-sport icon-moon-arena-nhl"></span> <a href="http://www.cbssports.com/nhl/" om-event="Arena Nav|NBA|NHL">NHL</a> </li><li class="nav-dropdown-item "> <span class="icon-sport icon-moon-arena-golf"></span> <a href="http://www.cbssports.com/golf/" om-event="Arena Nav|NBA|Golf">Golf</a> </li><li class="nav-dropdown-item "> <span class="icon-sport icon-moon-arena-nfl"></span> <a href="http://www.cbssports.com/college-football/" om-event="Arena Nav|NBA|NCAA FB">NCAA FB</a> </li><li class="nav-dropdown-item "> <span class="icon-sport icon-moon-arena-soccer"></span> <a href="http://www.cbssports.com/soccer/" om-event="Arena Nav|NBA|Soccer">Soccer</a> </li></ul><ul class="nav-dropdown-col"><li class="nav-dropdown-item"> <a href="http://www.cbssports.com/college-basketball/"  om-event="Arena Nav|NBA|NCAA BB">NCAA BB</a></li><li class="nav-dropdown-item"> <a href="http://sports.cbslocal.com/" target="_blank" class="external-link" om-event="Arena Nav|NBA|CBS Local Sites">CBS Local Sites</a></li><li class="nav-dropdown-item"> <a href="https://www.americasbestracing.net/" target="_blank" class="external-link" om-event="Arena Nav|NBA|Horse Racing">Horse Racing</a></li><li class="nav-dropdown-item"> <a href="http://www.maxpreps.com/national/national.htm" target="_blank" class="external-link" om-event="Arena Nav|NBA|High School">High School</a></li><li class="nav-dropdown-item"> <a href="http://www.cbssports.com/mma"  om-event="Arena Nav|NBA|MMA">MMA</a></li><li class="nav-dropdown-item"> <a href="http://www.cbssports.com/boxing"  om-event="Arena Nav|NBA|Boxing">Boxing</a></li></ul><ul class="nav-dropdown-col"><li class="nav-dropdown-item"> <a href="http://www.nascar.com/en_us/sprint-cup-series.html?cid=syn_cbs_referrers_navlinks_01112013&synid=syn_cbs_referrers_navlinks_01112013" target="_blank" class="external-link" om-event="Arena Nav|NBA|NASCAR">NASCAR</a></li><li class="nav-dropdown-item"> <a href="http://www.cbssports.com/tennis"  om-event="Arena Nav|NBA|Tennis">Tennis</a></li><li class="nav-dropdown-item"> <a href="http://www.arenafootball.com/" target="_blank" class="external-link" om-event="Arena Nav|NBA|Arena Football">Arena Football</a></li><li class="nav-dropdown-item"> <a href="http://www.bowl.com/" target="_blank" class="external-link" om-event="Arena Nav|NBA|Bowling">Bowling</a></li><li class="nav-dropdown-item"> <a href="http://www.cbssports.com/olympics"  om-event="Arena Nav|NBA|Olympics">Olympics</a></li><li class="nav-dropdown-item"> <a href="https://www.ticketcity.com/" target="_blank" class="external-link" om-event="Arena Nav|NBA|Tickets">Tickets</a></li></ul></div> </div></div></div>
+        
+        <nav class="site-nav-list">
+            <ul><li class="nav-list-item nav-list-item-flow"> <a href="http://www.cbssports.com/nba/"  om-event="Arena Nav|NBA|Home">Home</a></li><li class="nav-list-item nav-list-item-flow"> <a href="http://www.cbssports.com/nba/scoreboard"  om-event="Arena Nav|NBA|Scores">Scores</a></li><li class="nav-list-item nav-list-item-flow"> <a href="http://www.cbssports.com/nba/standings"  om-event="Arena Nav|NBA|Standings">Standings</a></li><li class="nav-list-item nav-list-item-flow"> <a href="http://www.cbssports.com/nba/schedules"  om-event="Arena Nav|NBA|Schedule">Schedule</a></li><li class="nav-list-item nav-list-item-flow"> <a href="http://www.cbssports.com/nba/teams"  om-event="Arena Nav|NBA|Teams">Teams</a></li><li class="nav-list-item nav-list-item-flow"> <a href="http://www.cbssports.com/nba/draft"  om-event="Arena Nav|NBA|NBA Draft">NBA Draft</a></li>
+                        <li class="nav-list-item hoverable the-dots" data-arena="extras">
+                            <span class="icon-more icon-moon-nav-more"></span>
+                            <div class="site-nav-dropdown is-wide">
+                                <ul class="nav-dropdown-col"><li class="nav-dropdown-item nav-dropdown-overflow"> <a href="http://www.cbssports.com/nba/expert-picks"  om-event="Arena Nav|NBA|More|Expert Picks">Expert Picks</a></li><li class="nav-dropdown-item nav-dropdown-overflow"> <a href="http://www.cbssports.com/nba/stats"  om-event="Arena Nav|NBA|More|Stats">Stats</a></li><li class="nav-dropdown-item nav-dropdown-overflow"> <a href="http://www.sportsline.com/nba/odds/" target="_blank" rel="nofollow" class="external-link" om-event="Arena Nav|NBA|More|Odds">Odds</a></li><li class="nav-dropdown-item nav-dropdown-overflow"> <a href="http://www.cbssports.com/nba/injuries"  om-event="Arena Nav|NBA|More|Injuries">Injuries</a></li></ul><ul class="nav-dropdown-col"><li class="nav-dropdown-item nav-dropdown-overflow"> <a href="http://www.cbssports.com/nba/transactions"  om-event="Arena Nav|NBA|More|Transactions">Transactions</a></li><li class="nav-dropdown-item nav-dropdown-overflow"> <a href="http://www.cbssports.com/nba/players"  om-event="Arena Nav|NBA|More|Players">Players</a></li><li class="nav-dropdown-item nav-dropdown-overflow"> <a href="http://www.cbssports.com/nba/powerrankings"  om-event="Arena Nav|NBA|More|Power Rankings">Power Rankings</a></li><li class="nav-dropdown-item nav-dropdown-overflow"> <a href="https://www.ticketcity.com/nba.html" target="_blank" rel="nofollow" class="external-link" om-event="Arena Nav|NBA|More|Tickets">Tickets</a></li></ul></div></li></ul>
+        </nav>
+			<div class="site-nav-side not-logged-in">
+				<ul class="site-nav-side-inner">
+					<li class="nav-side-item games-item hoverable" data-arena="play"> <span class="narrow-text">Play</span> <span class="narrow-icon icon-item icon-moon-nav-games"></span>
+						<div class="site-nav-dropdown is-dropdown-games align-right">
+							<div class="nav-dropdown-inner">
+								<ul class="nav-dropdown-game-list">
+            <li class="nav-dropdown-game">
+                <h6 class="nav-dropdown-title">  <a href="/fantasy/games/basketball/" om-event="Global Nav|NBADraft|Play|Basketball|Text">Basketball Games</a>  </h6>
+                <div class="nav-game game-left">
+                    <div class="nav-game-image">
+                        <a href="http://www.fanduel.com/cbs-spoe" om-event="Global Nav|NBADraft|Play|Basketball|Feature 1">
+                            <img src="http://cbssports1.cbsistatic.com/hub/i/2016/04/11/81216719-f0b3-4710-a9fc-8d95e371724a/1170x445background-final.png">
+                            <p class="nav-game-text"> Play Now </p>
+                        </a>
+                    </div>
+                    <p class="nav-game-title">
+                        <a href="http://www.fanduel.com/cbs-spoe" om-event="Global Nav|NBADraft|Play|Basketball|Feature 1">FanDuel</a>
+                    </p>
+                </div>
+                <div class="nav-game game-right">
+                    <div class="nav-game-image">
+                        <a href="http://www.cbssports.com/fantasy/basketball/games/franchise?ttag=FRBK15_new_spoe_games_basketball" om-event="Global Nav|NBADraft|Play|Basketball|Feature 2">
+                            <img src="http://cbssports1.cbsistatic.com/hub/i/2016/04/11/2c041764-0ab2-4482-93ea-fd6c9d6c4b75/agpgamecardsfranchisebasketball.jpg">
+                            <p class="nav-game-text"> Play Now </p>
+                        </a>
+                    </div>
+                    <p class="nav-game-title">
+                        <a href="http://www.cbssports.com/fantasy/basketball/games/franchise?ttag=FRBK15_new_spoe_games_basketball" om-event="Global Nav|NBADraft|Play|Basketball|Feature 2">Franchise Basketball</a>
+                    </p>
+              </div>
+            </li>
+            <li class="nav-dropdown-game">
+                <h6 class="nav-dropdown-title">  <a href="/fantasy/games/baseball/" om-event="Global Nav|NBADraft|Play|Baseball|Text">Baseball Games</a>  </h6>
+                <div class="nav-game game-left">
+                    <div class="nav-game-image">
+                        <a href="http://www.cbssports.com/fantasy/baseball/games/commissioner?ttag=FBBC16_new_spoe_games_baseball" om-event="Global Nav|NBADraft|Play|Baseball|Feature 1">
+                            <img src="http://cbssports1.cbsistatic.com/hub/i/2016/02/09/a86fe7a5-62a4-4057-a7c3-2f0fb6f03e02/commissioner568x320.jpg">
+                            <p class="nav-game-text"> Play Now </p>
+                        </a>
+                    </div>
+                    <p class="nav-game-title">
+                        <a href="http://www.cbssports.com/fantasy/baseball/games/commissioner?ttag=FBBC16_new_spoe_games_baseball" om-event="Global Nav|NBADraft|Play|Baseball|Feature 1"> Baseball Commissioner</a>
+                    </p>
+                </div>
+                <div class="nav-game game-right">
+                    <div class="nav-game-image">
+                        <a href="http://www.cbssports.com/fantasy/baseball/games/prize-leagues?ttag=FBBP16_new_spoe_games_baseball" om-event="Global Nav|NBADraft|Play|Baseball|Feature 2">
+                            <img src="http://cbssports1.cbsistatic.com/hub/i/2016/03/11/7ad02a2b-078f-436a-9ff0-ef912ebe9f41/prize268x150.jpg">
+                            <p class="nav-game-text"> Play Now </p>
+                        </a>
+                    </div>
+                    <p class="nav-game-title">
+                        <a href="http://www.cbssports.com/fantasy/baseball/games/prize-leagues?ttag=FBBP16_new_spoe_games_baseball" om-event="Global Nav|NBADraft|Play|Baseball|Feature 2"> Baseball Prize</a>
+                    </p>
+              </div>
+            </li>
+            <li class="nav-dropdown-game">
+                <h6 class="nav-dropdown-title">  <a href="/fantasy/games/hockey/" om-event="Global Nav|NBADraft|Play|Hockey|Text">Hockey Games</a>  </h6>
+                <div class="nav-game game-left">
+                    <div class="nav-game-image">
+                        <a href="http://www.cbssports.com/fantasy/hockey/games/commissioner?ttag=FHKC15_new_spoe_games_hockey" om-event="Global Nav|NBADraft|Play|Hockey|Feature 1">
+                            <img src="http://cbssports1.cbsistatic.com/hub/i/2015/09/15/faf0771f-f38b-42ce-a6a8-7ae0223d65f7/agphockeycommishgamecards568x320.jpg">
+                            <p class="nav-game-text"> Play Now </p>
+                        </a>
+                    </div>
+                    <p class="nav-game-title">
+                        <a href="http://www.cbssports.com/fantasy/hockey/games/commissioner?ttag=FHKC15_new_spoe_games_hockey" om-event="Global Nav|NBADraft|Play|Hockey|Feature 1"> Hockey Commissioner</a>
+                    </p>
+                </div>
+                <div class="nav-game game-right">
+                    <div class="nav-game-image">
+                        <a href="http://www.cbssports.com/fantasy/hockey/games/prize-leagues?ttag=FHKC15_new_spoe_games_hockey" om-event="Global Nav|NBADraft|Play|Hockey|Feature 2">
+                            <img src="http://cbssports1.cbsistatic.com/hub/i/2015/09/15/361284f1-2df5-4d3f-9343-88813c4ab5fd/hockeyprize268x150.jpg">
+                            <p class="nav-game-text"> Play Now </p>
+                        </a>
+                    </div>
+                    <p class="nav-game-title">
+                        <a href="http://www.cbssports.com/fantasy/hockey/games/prize-leagues?ttag=FHKC15_new_spoe_games_hockey" om-event="Global Nav|NBADraft|Play|Hockey|Feature 2"> Hockey Prize</a>
+                    </p>
+              </div>
+            </li>
+            <li class="nav-dropdown-game">
+                <h6 class="nav-dropdown-title">  <a href="/fantasy/games/football/" om-event="Global Nav|NBADraft|Play|Football|Text">Football Games</a>  </h6>
+                <div class="nav-game game-left">
+                    <div class="nav-game-image">
+                        <a href="http://partners.fanduel.com/processing/clickthrgh.asp?btag=a_7197b_1096&p=CBSSPOE" om-event="Global Nav|NBADraft|Play|Football|Feature 1">
+                            <img src="http://cbssports1.cbsistatic.com/hub/i/2015/09/15/1de38e2b-090c-43b3-9790-6c40d43d4fad/568x320.jpg">
+                            <p class="nav-game-text"> Play Now </p>
+                        </a>
+                    </div>
+                    <p class="nav-game-title">
+                        <a href="http://partners.fanduel.com/processing/clickthrgh.asp?btag=a_7197b_1096&p=CBSSPOE" om-event="Global Nav|NBADraft|Play|Football|Feature 1">FanDuel</a>
+                    </p>
+                </div>
+                <div class="nav-game game-right">
+                    <div class="nav-game-image">
+                        <a href="http://www.cbssports.com/fantasy/football/games/franchise/2015?ttag=FRFB15_new_spoe_games_football" om-event="Global Nav|NBADraft|Play|Football|Feature 2">
+                            <img src="http://cbssports1.cbsistatic.com/hub/i/2016/02/09/6f6c9f2d-28e2-449a-b83b-06e5567161d8/ff6srcgamecards568x320.jpg">
+                            <p class="nav-game-text"> Play Now </p>
+                        </a>
+                    </div>
+                    <p class="nav-game-title">
+                        <a href="http://www.cbssports.com/fantasy/football/games/franchise/2015?ttag=FRFB15_new_spoe_games_football" om-event="Global Nav|NBADraft|Play|Football|Feature 2">Franchise Football</a>
+                    </p>
+              </div>
+            </li></ul>
+							</div>
+							
+							<div class="nav-dropdown-bottom">
+								<div class="nav-dropdown-button">
+									<a href="/fantasy/games" om-event="Global Nav|NBADraft|Play|See All">See All Sports Games</a>
+								</div>
+							</div>
+						</div>
+					</li>
+					<li class="nav-side-item watch-item hoverable" data-arena="watch"> <span class="narrow-text">Watch</span> <span class="narrow-icon icon-item icon-moon-nav-watch"></span>
+						<div class="site-nav-dropdown align-right">
+							<div class="nav-dropdown-inner">
+								
+               <h6 class="nav-dropdown-title"> <a href="http://www.cbssports.com/video/player?channel=cbssportsnetwork" om-event="Global Nav|NBADraft|Watch|Featured Video|Text">Latest from CBS Sports Network </a></h6>
+               <div class="nav-dropdown-top">
+                   <a href="http://www.cbssports.com/video/player?channel=cbssportsnetwork" class="video-icon-overlay-wrap" om-event="Global Nav|NBADraft|Watch|Featured Video|Image"> <img src="http://cbssports1.cbsistatic.com/hub/i/2016/05/31/768703e3-9788-460b-acc2-ecf6588b8815/1400x788.jpg" alt="1400x788"> </a>
+                   <a href="http://www.cbssports.com/video/player?channel=cbssportsnetwork" class="vidPlayLg" alt="1400x788" om-event="Global Nav|NBADraft|Watch|Featured Video|Image"></a>
+               </div>
+           <ul><li class="nav-dropdown-item"> <a href="http://www.cbssports.com/watch/cbssportsnetwork/"  om-event="Global Nav|NBADraft|Watch|Watch CBS Sports Network">Watch CBS Sports Network</a> </li><li class="nav-dropdown-item"> <a href="http://www.cbssports.com/cbssports"  om-event="Global Nav|NBADraft|Watch|TV Shows & Listings">TV Shows & Listings</a> </li><li class="nav-dropdown-item"> <a href="http://www.cbssportsnetwork.com/channel-finder" rel="nofollow" class="external-link" target="_blank"  om-event="Global Nav|NBADraft|Watch|CBSSN Channel Finder">CBSSN Channel Finder</a> </li><li class="nav-dropdown-item"> <a href="http://www.cbssportsnetwork.com/boomer_carton" rel="nofollow" class="external-link" target="_blank"  om-event="Global Nav|NBADraft|Watch|Boomer & Carton">Boomer & Carton</a> </li><li class="nav-dropdown-item"> <a href="http://www.cbssportsnetwork.com/gottlieb" rel="nofollow" class="external-link" target="_blank"  om-event="Global Nav|NBADraft|Watch|The Doug Gottlieb Show">The Doug Gottlieb Show</a> </li><li class="nav-dropdown-item"> <a href="http://www.cbssportsnetwork.com/schein" rel="nofollow" class="external-link" target="_blank"  om-event="Global Nav|NBADraft|Watch|Time to Schein">Time to Schein</a> </li><li class="nav-dropdown-item"> <a href="http://www.cbssports.com/video/player/videos"  om-event="Global Nav|NBADraft|Watch|All Videos">All Videos</a> </li></ul>
+							</div>
+						</div>
+					</li>
+					<li class="nav-side-item hoverable" data-arena="listen"> <span class="narrow-text">Listen</span> <span class="narrow-icon icon-item icon-moon-nav-listen"></span>
+						<div class="site-nav-dropdown align-right">
+							<div class="nav-dropdown-inner">
+								
+                <h6 class="nav-dropdown-title"> CBS Sports Radio </h6>
+                <div class="nav-dropdown-top">
+                  <div class="nav-dropdown-image"> <a href="http://radio.cbssports.com/" rel="nofollow" target="_blank" om-event="Global Nav|NBADraft|Listen|Featured Podcast|Image"><img src="http://cbssports1.cbsistatic.com/hub/i/2016/02/24/fb0619ed-f59a-47ac-ac37-d7f670af79f3/cbssports-radio.png" alt="CBSSPORTS-radio"></a> </div>
+                  <div class="nav-dropdown-top-side">
+                    <p class="nav-dropdown-top-title"> <a href="http://radio.cbssports.com/"  class="external-link" rel="nofollow" target="_blank" om-event="Global Nav|NBADraft|Listen|Featured Podcast|Text"> Listen Live </a> </p>
+                    <time class="nav-dropdown-top-date">  </time>
+                  </div>
+                </div>
+            
+                <h6 class="nav-dropdown-title"> Fantasy Baseball Today </h6>
+                <div class="nav-dropdown-top">
+                  <div class="nav-dropdown-image"> <a href="https://soundcloud.com/cbssportspodcasts/weekend-roundup-8" rel="nofollow" target="_blank" om-event="Global Nav|NBADraft|Listen|Featured Podcast|Image"><img src="http://cbssports1.cbsistatic.com/hub/i/2016/05/02/d7e46c67-eadc-4b42-b58c-8f25b7c735b8/podcast-fantasybaseballtoday-140-1.png" alt="PODCAST-FantasyBaseballToday-140 (1)"></a> </div>
+                  <div class="nav-dropdown-top-side">
+                    <p class="nav-dropdown-top-title"> <a href="https://soundcloud.com/cbssportspodcasts/weekend-roundup-8"  class="external-link" rel="nofollow" target="_blank" om-event="Global Nav|NBADraft|Listen|Featured Podcast|Text"> Weekend Roundup </a> </p>
+                    <time class="nav-dropdown-top-date"> 5h ago </time>
+                  </div>
+                </div>
+            <ul><li class="nav-dropdown-item"> <a href="http://sports.cbslocal.com/cbs-sports-radio-roundup/"  class="external-link" rel="nofollow" target="_blank" om-event="Global Nav|NBADraft|Listen|CBS Sports Radio Roundup">CBS Sports Radio Roundup</a> </li><li class="nav-dropdown-item"> <a href="http://www.cbssports.com/podcast" om-event="Global Nav|NBADraft|Listen|Podcasts">Podcasts</a> </li><li class="nav-dropdown-item"> <a href="http://gottlieb.radio.cbssports.com/"  class="external-link" rel="nofollow" target="_blank" om-event="Global Nav|NBADraft|Listen|The Doug Gottlieb Show">The Doug Gottlieb Show</a> </li><li class="nav-dropdown-item"> <a href="http://jimrome.com/"  class="external-link" rel="nofollow" target="_blank" om-event="Global Nav|NBADraft|Listen|The Jim Rome Show">The Jim Rome Show</a> </li></ul>
+							</div>
+						</div>
+					</li>
+					
+            <li class="nav-side-item log-in-item"> 
+                    <span class="log-in-buttons"> 
+                        <a href="https://auth.cbssports.com/registration?master_product=150&end=http%3A%2F%2Fwww.cbssports.com%2Fnba%2Fdraft%2Fmock-draft" class="sign-up-button" om-event="Global Nav|NBADraft|Sign Up"> <span class="the-button">Sign Up</span> </a> 
+                        <a href="https://auth.cbssports.com/login?master_product=150&xurl=http%3A%2F%2Fwww.cbssports.com%2Fnba%2Fdraft%2Fmock-draft" class="log-in-button" om-event="Global Nav|NBADraft|Log In"> <span class="the-button">Log In</span> </a> 
+                    </span> 
+            </li>        
+        
+					<li class="nav-side-item search-item" data-arena="search"> <a href="/info/search" om-event="Global Nav|NBADraft|Search"> <span class="icon-item icon-search icon-moon-search"></span> </a> </li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</header>
+
+
+<script type="text/javascript">
+ $(document).ready(function() {
+	var touchedNow;  			// Track which was just tapped now
+	var touchedLast  = 'none'; // Track which was last opened
+	var navItems 	 = $('.nav-list-item.hoverable, .nav-side-item.hoverable, .cbs-logo-section');
+	var navButtons   = $('.nav-list-item.hoverable > a, .nav-list-item.hoverable .icon-more, .nav-side-item.hoverable  span, .logo-sport');
+
+	navButtons.on("touchstart", function (e) {
+		var ua = navigator.userAgent.toLowerCase();
+		var isAndroid = ua.indexOf("android") > -1; //&& ua.indexOf("mobile");
+		if (isAndroid) {
+			myWebview.zoomIn();
+			myWebview.zoomOut();
+		}
+		e.preventDefault();
+
+		$('body').addClass('touch-enabled');
+		var touchedParent = $(this).parent();
+		touchedNow = touchedParent.data( "arena" ); // record which nav link was clicked.
+		navItems.removeClass('is-tapped'); // remove 'is-tapped' from all links
+		if (touchedNow === touchedLast) {
+			// console.log('THE SAME ', touchedNow, touchedLast);
+			$('body').addClass('touch-enabled');
+			touchedLast = 'none';
+		} else {
+			// console.log('DIFFERENT ', touchedNow, touchedLast);
+			$('body').removeClass('touch-enabled');
+			touchedLast = touchedParent.data( "arena" );
+		}
+	});
+
+	surround.bubble = readCookie('hideToolTip');
+	if (surround.bubble == false || surround.bubble == undefined) {
+        $('.nav-user-menu-tooltip').css('display','block');				
+    }
+	
+	$('.nav-user-menu-tooltip').on("click", function(e) {
+		document.cookie=("hideToolTip=1;expires=Friday, 15 Feb 2018 05:00:00 GMT;domain=.cbssports.com;path=/" );
+		$('.nav-user-menu-tooltip').css('display','none');
+	});
+});
+	
+</script>
+
+<div id="saagWrapper">
+    <div class="saag">
+        <div class="leagueSelector">
+            <nav om-nope="saag|NBADraft|sportsmenu|button">
+            <span class="leagueName">NBA</span>
+            <span class="saagSubTitle">Scores</span>
+            <span class="leagueSelectorArrow"></span>
+            </nav>
+            <ul class="leagueList"><li data-category="my" om-nope="saag|NBADraft|sportsmenu|my">My Scores</li><li data-category="mlb" om-nope="saag|NBADraft|sportsmenu|mlb">MLB</li><li data-category="nba" om-nope="saag|NBADraft|sportsmenu|nba">NBA</li><li data-category="nhl" om-nope="saag|NBADraft|sportsmenu|nhl">NHL</li><li data-category="golf" om-nope="saag|NBADraft|sportsmenu|golf">Golf</li><li data-category="tennis" om-nope="saag|NBADraft|sportsmenu|tennis">Tennis</li></ul>
+        </div>
+        <span class="saagNav prevArrow arrowDeactivate" om-nope="saag|NBADraft|slider|nba|previous"><span></span></span>
+        <div id="saagScores">
+            <span class="saagShadow before"></span>
+            <span class="saagShadow after"></span>
+            <span class="saagShadow top"></span>
+            <span class="saagShadow bottom"></span>
+            <div id="saagScoresList"></div>
+        </div>
+        <div id="saagScoresExtras"></div>
+        <span class="saagNav nextArrow" om-nope="saag|NBADraft|slider|nba|next"><span></span></span>
+        <div class="saagFullScoreBoard"><a href="/nba/scoreboard" om-nope="saag|NBADraft|fullscoreboard|nba">Full NBA<br />Scoreboard</a></div>
+    </div></div>
+    
+<!--googleon: snippet-->
+<div id="mantle_skin">
+    <span id="adSkinLeft"></span>
+    <span id="adSkinRight"></span>
+    
+    <div id="skin_ad_call" style="max-height:1px !important">
+        <script type="text/javascript">
+        if (switchXFP != 'off') {
+            googletag.cmd.push(function() {
+                if (typeof index_headertag_lightspeed !== 'undefined') {
+                          var cb = (function () {
+                              return function () {
+                                  var slots = googletag.pubads().getSlots();
+                                  index_headertag_lightspeed.set_slot_targeting(slots);
+                                   googletag.display("skin_ad_call");
+                                };
+                          })();
+                          index_headertag_lightspeed.add_session_end_hook(cb, true);
+                          index_headertag_lightspeed.refresh();
+                      } else {
+                          googletag.display("skin_ad_call");
+                      }
+            });
+            if (location.search.substring(1).indexOf('DCLK')>-1) $('<input type="text" value="skin_ad_call" style="width:960px"><br>').insertBefore('#skin_ad_call');
+        }
+        </script>
+    </div>
+    
+    <div align="center" style="height:auto;">
+    
+            <div id="leader_top" style="padding-top:10px;">
+            <script type="text/javascript">
+            if (switchXFP != 'off') {
+                googletag.cmd.push(function() {
+                    if (typeof index_headertag_lightspeed !== 'undefined') {
+                              var cb = (function () {
+                                  return function () {
+                                      var slots = googletag.pubads().getSlots();
+                                      index_headertag_lightspeed.set_slot_targeting(slots);
+                                       googletag.display("leader_top");
+                                    };
+                              })();
+                              index_headertag_lightspeed.add_session_end_hook(cb, true);
+                              index_headertag_lightspeed.refresh();
+                          } else {
+                              googletag.display("leader_top");
+                          }
+                });
+                if (location.search.substring(1).indexOf('DCLK')>-1) $('<input type="text" value="leader_top" style="width:980px"><br>').insertBefore('#leader_top');
+            }
+            </script>
+            
+            </div>
+            
+</div>
+
+    
+    <div id="pageRow">
+    
+    <style type="text/css">
+    #eventHeaderCtr {
+        background: url('http://sports.cbsimg.net/images/nba/draft/draft_header_home.jpg') no-repeat;
+        width: 980px;
+        height: 157px;
+    }
+    #eventHeaderCtr .eventMessage {
+        position: absolute;
+        right: 0;
+        top: 52px;
+        margin: 0 20px 0 0;
+        color: #FFF;
+        font-size: 1.3em;
+        text-transform: uppercase;
+        text-shadow: 2px 3px 0 rgba(0, 0, 0, 0.35);
+    }
+</style>
+<div id="eventHeaderCtr">
+    <div class="eventMessage fontOswaldBold"></div>
+    <style type="text/css">
+#arenaNav {
+    position: relative;
+    top: 127px;
+    width: 980px;
+    height: 30px;
+    background-color: transparent;
+    color: #FFFFFF;
+    font-size: 12px;
+    line-height: 22px;
+}
+#arenaNav a {
+    float: left;
+    height: 22px;
+    margin: 4px 9px;
+    padding: 0;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+#arenaNav a:hover {
+    border-bottom: 1px solid #fff;
+}
+#arenaNav a.optsel {
+    margin: 0 -2px;
+    padding: 4px 9px;
+    color: #333;
+    background: url("http://sports.cbsimg.net/images/nfl/draft/nfl-arena-menu-gradient2.png");
+}
+#arenaNav a.optsel:first-child {
+    margin-left: 0;
+}
+#arenaNav a.optsel:hover {
+    border-bottom: none;
+}
+#arenaNav div.optSep{
+    float: left;
+    height: 22px;
+    padding: 4px 0px;
+    text-align: center;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+</style>
+
+<div id="arenaNav" class="fontUbuntuBold">
+    <a class="opt " href="/nba/draft" >Draft Home</a><div class="optSep">|</div><a class="opt " href="/nba/draft/prospect-rankings" >Prospect Rankings</a><div class="optSep">|</div><a class="opt " href="/nba/draft/drafttracker" >Draft Tracker</a><div class="optSep">|</div><a class="optsel " href="/nba/draft/mock-draft" >Mock Drafts</a><div class="optSep">|</div><a class="opt " href="/nba/draft/history" >Draft History</a>
+</div>
+
+</div>
+
+    <div id="pageContainer">
+        <h1 class="pageTitle feature nba">2016 NBA Mock Drafts</h1>
+        
+        
+        <div id="layoutRailNone">
+            
+            
+            <div id="marketing_over_top">
+            <script type="text/javascript">
+            if (switchXFP != 'off') {
+                googletag.cmd.push(function() {
+                    if (typeof index_headertag_lightspeed !== 'undefined') {
+                              var cb = (function () {
+                                  return function () {
+                                      var slots = googletag.pubads().getSlots();
+                                      index_headertag_lightspeed.set_slot_targeting(slots);
+                                       googletag.display("marketing_over_top");
+                                    };
+                              })();
+                              index_headertag_lightspeed.add_session_end_hook(cb, true);
+                              index_headertag_lightspeed.refresh();
+                          } else {
+                              googletag.display("marketing_over_top");
+                          }
+                });
+                if (location.search.substring(1).indexOf('DCLK')>-1) $('<input type="text" value="marketing_over_top" style="width:300px"><br>').insertBefore('#marketing_over_top');
+            }
+            </script>
+            </div>
+        <div class="siteTools buttonBar"><ul><li class="shareFacebook" om-event="ShareBar|nba|draft_mock|FBShare">
+        <div class="fb-share-button" data-href="http://www.cbssports.com/nba/draft/mock-draft" data-layout="button_count" title="Share on Facebook" alt="Facebook button"></div>
+    </li>
+<li class="shareTwitter" om-event="ShareBar|nba|draft_mock|TWTweet">
+            <a href="https://twitter.com/share" class="twitter-share-button" data-text="2016 NBA Mock Drafts" data-counturl="http://www.cbssports.com/nba/draft/mock-draft" data-url="http://cbsprt.co/IB70vK" data-via="cbssports" data-width="75px" data-lang="en" title="Share on Twitter" data-related="CBSSports,eyeonbasketball" alt="Tweet button"></a></li>
+<li class="shareGoogle" om-event="ShareBar|nba|draft_mock|GPShare">
+    <!-- Render Google +1 button -->
+    <g:plusone size="medium" callback='DW.levt("ria", "log", {"riaevent":"click","comp":"main","objnm":"googleplus_share","comptyp":"app","siteid":175,"mapp":"social_share_bar","objtyp":"button"})' href="http://www.cbssports.com/nba/draft/mock-draft"></g:plusone>
+    </li>
+</ul></div>
+    
+<div id="videoCtr">
+    <table><tr><td>
+        <div id="videoCtrEmbed">
+            <div id="embedVideoContainer_mockdraftembed" class="embedVideo">
+                <iframe id="embedVideo_mockdraftembed" name="embedVideo_mockdraftembed" src="/video/player/embed/index?r=1466469991&args=enable_end_card%3Dfalse%26cue_video%3Dtrue%26uvpc%3Dhttp%3A%2F%2Fsports.cbsimg.net%2Fvideo%2Fuvp%2Fconfig%2Fxfp%2Fuvp_base.xml%2Chttp%3A%2F%2Fsports.cbsimg.net%2Fvideo%2Fuvp%2Fconfig%2Fxfp%2Fuvp_nba-draft-live.xml%26MEDIA_HTTP_SERVER%3Dhttp%3A%2F%2Fwww.cbssports.com%26channel%3Dnba_draft_show_live,nba_draft%26pcid%3D0%26player_id%3Dmockdraftembed%26width%3D620%26height%3D349%26autoplay%3Dtrue%26dynamic_controls%3Dtrue%26comp_ad_h%3D250%26comp_ads_enabled%3Dfalse%26autoplay_live%3Dtrue" width="620" height="349" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"></iframe>
+          </div>
+     </td><td>
+        <div id="pickemAd">
+            <div id="MPUad">
+               
+    <div id="mpu_top" class="mBottomStd">
+        <script type="text/javascript">
+        if (switchXFP != 'off') {
+            googletag.cmd.push(function() {
+                if (typeof index_headertag_lightspeed !== 'undefined') {
+                          var cb = (function () {
+                              return function () {
+                                  var slots = googletag.pubads().getSlots();
+                                  index_headertag_lightspeed.set_slot_targeting(slots);
+                                   googletag.display("mpu_top");
+                                };
+                          })();
+                          index_headertag_lightspeed.add_session_end_hook(cb, true);
+                          index_headertag_lightspeed.refresh();
+                      } else {
+                          googletag.display("mpu_top");
+                      }
+            });
+            if (location.search.substring(1).indexOf('DCLK')>-1) $('<input type="text" value="mpu_top" style="width:300px"><br>').insertBefore('#mpu_top');
+        }
+        </script>
+    </div>
+            </div>
+            <div id="marketingLink">
+            </div>
+         </div>
+    </td></tr></table>
+<div>
+    
+<p>2016 NBA Mock drafts from our experts, including NBA writer Sam Vecenie and college basketball insider Gary Parrish.</p>
+<a href="/nba/draft/mock-draft/round/1" class="button options start selected">Round 1</a><a href="/nba/draft/mock-draft/round/2" class="button options end ">Round 2</a>
+    
+<div class="spacerStd">&nbsp;</div>
+<div id="expertPicksLabel">Mock Draft <span class="expertPicksLabelBlue">Round 1</span></div>
+<div id="MockDraft">
+<!--    <div id="navLeft"><a id="previous-column" href="#"><img src="http://sports.cbsimg.net/images/nfl/draft/mock-arrow-left-bkg.png" width="14" height="50"></a></div>
+    <div id="navRight"><a id="next-column" href="#"><img src="http://sports.cbsimg.net/images/nfl/draft/mock-arrow-right-bkg.png" width="37" height="50"></a></div>-->
+    <div class="tableContainer"><table id=headerTable class="data stacked" width="100%" ><tr class="row1" id="authorHeader"  align="right"><td  colspan="3" class="subtitle" align="left"><div class="headshot"><img src="http://sports.cbsimg.net/images/cbss/ui5/authors/50x50-round/2155438.png" width="50" height="50"></div><div class="fullname">Sam<br />Vecenie<br /><div class="lastupdate">Updated: 6/14/16</div></div></td><td  colspan="3" class="subtitle" align="left"><div class="headshot"><a href="http://www.cbssports.com/writers/gary-parrish" target="_blank"><img src="http://sports.cbsimg.net/images/cbss/ui5/authors/50x50-round/10310.png" width="50" height="50"></a></div><div class="fullname"><a href="http://www.cbssports.com/writers/gary-parrish" target="_blank">Gary<br />Parrish</a><br /><div class="lastupdate">Updated: 6/16/16</div></div></td></tr><tr class="row2" id="updateHeader"  align="right"><td  colspan="1" class="label" align="right" width="20">#</td><td  colspan="1" class="label" align="center" width="70">TEAM</td><td  colspan="1" class="label" align="left" width="230"><a href="/nba/draft/mock-draft/expert/sam-vecenie" class="analysisLink" target="_blank">Full Analysis</a></td><td  colspan="1" class="label" align="right" width="20">#</td><td  colspan="1" class="label" align="center" width="70">TEAM</td><td  colspan="1" class="label" align="left" width="230"><a href="/nba/draft/mock-draft/expert/gary-parrish" class="analysisLink" target="_blank">Full Analysis</a></td></tr></table></div>
+</div>
+<div id="oddsTable">
+    <div id="gradLeft"></div><div id="gradRight"></div>
+    <table cellspacing="0" cellpadding="0">
+        <tr>
+            <td width="940">
+                <div class="tableContainer"><table class="data stacked" width="100%" ><tr class="row1"  align="right"><td  colspan="1" align="right" width="20">1</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/PHI.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2202822" data-playerid="2202822">Ben Simmons</a></b><br>SF &#124; LSU</td><td  colspan="1" align="right" width="20">1</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/PHI.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2202822" data-playerid="2202822">Ben Simmons</a></b><br>SF &#124; LSU</td></tr><tr class="row2"  align="right"><td  colspan="1" align="right" width="20">2</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/LAL.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2202503" data-playerid="2202503">Brandon Ingram</a></b><br>SF &#124; Duke</td><td  colspan="1" align="right" width="20">2</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/LAL.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2202503" data-playerid="2202503">Brandon Ingram</a></b><br>SF &#124; Duke</td></tr><tr class="row1"  align="right"><td  colspan="1" align="right" width="20">3</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/BOS.png"><div class="textSmall">From BKN</div></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2202752" data-playerid="2202752">Jamal Murray</a></b><br>SG &#124; Kentucky</td><td  colspan="1" align="right" width="20">3</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/BOS.png"><div class="textSmall">From BKN</div></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2202752" data-playerid="2202752">Jamal Murray</a></b><br>SG &#124; Kentucky</td></tr><tr class="row2"  align="right"><td  colspan="1" align="right" width="20">4</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/PHO.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2206442" data-playerid="2206442">Dragan Bender</a></b><br>PF &#124; Israel</td><td  colspan="1" align="right" width="20">4</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/PHO.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2206442" data-playerid="2206442">Dragan Bender</a></b><br>PF &#124; Israel</td></tr><tr class="row1"  align="right"><td  colspan="1" align="right" width="20">5</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/MIN.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2203537" data-playerid="2203537">Marquese Chriss</a></b><br>PF &#124; Washington</td><td  colspan="1" align="right" width="20">5</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/MIN.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2019264" data-playerid="2019264">Buddy Hield</a></b><br>SG &#124; Oklahoma</td></tr><tr class="row2"  align="right"><td  colspan="1" align="right" width="20">6</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/visual/whatshot/NOPelicans30x30.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2019315" data-playerid="2019315">Kris Dunn</a></b><br>PG &#124; Providence</td><td  colspan="1" align="right" width="20">6</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/visual/whatshot/NOPelicans30x30.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2019315" data-playerid="2019315">Kris Dunn</a></b><br>PG &#124; Providence</td></tr><tr class="row1"  align="right"><td  colspan="1" align="right" width="20">7</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/DEN.png"><div class="textSmall">From NY</div></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2019264" data-playerid="2019264">Buddy Hield</a></b><br>SG &#124; Oklahoma</td><td  colspan="1" align="right" width="20">7</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/DEN.png"><div class="textSmall">From NY</div></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2203537" data-playerid="2203537">Marquese Chriss</a></b><br>PF &#124; Washington</td></tr><tr class="row2"  align="right"><td  colspan="1" align="right" width="20">8</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/SAC.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2202365" data-playerid="2202365">Jaylen Brown</a></b><br>SG &#124; California</td><td  colspan="1" align="right" width="20">8</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/SAC.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2202365" data-playerid="2202365">Jaylen Brown</a></b><br>SG &#124; California</td></tr><tr class="row1"  align="right"><td  colspan="1" align="right" width="20">9</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/TOR.png"><div class="textSmall">From DEN</div></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2153012" data-playerid="2153012">Jakob Poeltl</a></b><br>PF &#124; Utah</td><td  colspan="1" align="right" width="20">9</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/TOR.png"><div class="textSmall">From DEN</div></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2202830" data-playerid="2202830">Henry Ellenson</a></b><br>PF-C &#124; Marquette</td></tr><tr class="row2"  align="right"><td  colspan="1" align="right" width="20">10</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/MIL.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2202871" data-playerid="2202871">Deyonta Davis</a></b><br>PF &#124; Michigan State</td><td  colspan="1" align="right" width="20">10</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/MIL.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2153012" data-playerid="2153012">Jakob Poeltl</a></b><br>PF &#124; Utah</td></tr><tr class="row1"  align="right"><td  colspan="1" align="right" width="20">11</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/ORL.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2202749" data-playerid="2202749">Skal Labissiere</a></b><br>PF &#124; Kentucky</td><td  colspan="1" align="right" width="20">11</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/ORL.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2202749" data-playerid="2202749">Skal Labissiere</a></b><br>PF &#124; Kentucky</td></tr><tr class="row2"  align="right"><td  colspan="1" align="right" width="20">12</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/UTA.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2211149" data-playerid="2211149">Ante Zizic</a></b><br>C &#124; Croatia</td><td  colspan="1" align="right" width="20">12</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/UTA.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2206453" data-playerid="2206453">Timothe Luwawu</a></b><br>SG &#124; France</td></tr><tr class="row1"  align="right"><td  colspan="1" align="right" width="20">13</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/PHO.png"><div class="textSmall">From WAS</div></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2206443" data-playerid="2206443">Furkan Korkmaz</a></b><br>SG &#124; Turkey</td><td  colspan="1" align="right" width="20">13</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/PHO.png"><div class="textSmall">From WAS</div></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2202871" data-playerid="2202871">Deyonta Davis</a></b><br>PF &#124; Michigan State</td></tr><tr class="row2"  align="right"><td  colspan="1" align="right" width="20">14</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/CHI.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2202830" data-playerid="2202830">Henry Ellenson</a></b><br>PF-C &#124; Marquette</td><td  colspan="1" align="right" width="20">14</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/CHI.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2152455" data-playerid="2152455">Domantas Sabonis</a></b><br>PF &#124; Gonzaga</td></tr><tr class="row1"  align="right"><td  colspan="1" align="right" width="20">15</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/DEN.png"><div class="textSmall">From HOU</div></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2206453" data-playerid="2206453">Timothe Luwawu</a></b><br>SG &#124; France</td><td  colspan="1" align="right" width="20">15</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/DEN.png"><div class="textSmall">From HOU</div></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2206443" data-playerid="2206443">Furkan Korkmaz</a></b><br>SG &#124; Turkey</td></tr><tr class="row2"  align="right"><td  colspan="1" align="right" width="20">16</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/BOS.png"><div class="textSmall">From DAL</div></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2152455" data-playerid="2152455">Domantas Sabonis</a></b><br>PF &#124; Gonzaga</td><td  colspan="1" align="right" width="20">16</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/BOS.png"><div class="textSmall">From DAL</div></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2211149" data-playerid="2211149">Ante Zizic</a></b><br>C &#124; Croatia</td></tr><tr class="row1"  align="right"><td  colspan="1" align="right" width="20">17</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/MEM.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2153040" data-playerid="2153040">Wade Baldwin IV</a></b><br>SG &#124; Vanderbilt</td><td  colspan="1" align="right" width="20">17</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/MEM.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2153040" data-playerid="2153040">Wade Baldwin IV</a></b><br>SG &#124; Vanderbilt</td></tr><tr class="row2"  align="right"><td  colspan="1" align="right" width="20">18</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/DET.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2019076" data-playerid="2019076">Denzel Valentine</a></b><br>SG &#124; Michigan State</td><td  colspan="1" align="right" width="20">18</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/DET.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2203336" data-playerid="2203336">Malachi Richardson</a></b><br>SG &#124; Syracuse</td></tr><tr class="row1"  align="right"><td  colspan="1" align="right" width="20">19</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/DEN.png"><div class="textSmall">From POR</div></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2203336" data-playerid="2203336">Malachi Richardson</a></b><br>SG &#124; Syracuse</td><td  colspan="1" align="right" width="20">19</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/DEN.png"><div class="textSmall">From POR</div></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2211148" data-playerid="2211148">Ivica Zubac</a></b><br>C &#124; Croatia</td></tr><tr class="row2"  align="right"><td  colspan="1" align="right" width="20">20</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/IND.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2104700" data-playerid="2104700">Demetrius Jackson</a></b><br>PG &#124; Notre Dame</td><td  colspan="1" align="right" width="20">20</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/IND.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2019198" data-playerid="2019198">Brice Johnson</a></b><br>PF &#124; North Carolina</td></tr><tr class="row1"  align="right"><td  colspan="1" align="right" width="20">21</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/ATL.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2105182" data-playerid="2105182">Damian Jones</a></b><br>PF &#124; Vanderbilt</td><td  colspan="1" align="right" width="20">21</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/ATL.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2018525" data-playerid="2018525">Taurean Prince</a></b><br>SF &#124; Baylor</td></tr><tr class="row2"  align="right"><td  colspan="1" align="right" width="20">22</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/CHA.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2018525" data-playerid="2018525">Taurean Prince</a></b><br>SF &#124; Baylor</td><td  colspan="1" align="right" width="20">22</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/CHA.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2019076" data-playerid="2019076">Denzel Valentine</a></b><br>SG &#124; Michigan State</td></tr><tr class="row1"  align="right"><td  colspan="1" align="right" width="20">23</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/BOS.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2211148" data-playerid="2211148">Ivica Zubac</a></b><br>C &#124; Croatia</td><td  colspan="1" align="right" width="20">23</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/BOS.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2228725" data-playerid="2228725">Thon Maker</a></b><br>C &#124; Australia</td></tr><tr class="row2"  align="right"><td  colspan="1" align="right" width="20">24</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/PHI.png"><div class="textSmall">From MIA</div></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2203544" data-playerid="2203544">Dejounte Murray</a></b><br>PG &#124; Washington</td><td  colspan="1" align="right" width="20">24</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/PHI.png"><div class="textSmall">From MIA</div></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2106818" data-playerid="2106818">DeAndre' Bembry</a></b><br>SF &#124; Saint Joseph's</td></tr><tr class="row1"  align="right"><td  colspan="1" align="right" width="20">25</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/LAC.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2106818" data-playerid="2106818">DeAndre' Bembry</a></b><br>SF &#124; Saint Joseph's</td><td  colspan="1" align="right" width="20">25</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/LAC.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2104700" data-playerid="2104700">Demetrius Jackson</a></b><br>PG &#124; Notre Dame</td></tr><tr class="row2"  align="right"><td  colspan="1" align="right" width="20">26</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/PHI.png"><div class="textSmall">From OKC</div></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2202726" data-playerid="2202726">Cheick Diallo</a></b><br>C &#124; Kansas</td><td  colspan="1" align="right" width="20">26</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/PHI.png"><div class="textSmall">From OKC</div></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2152532" data-playerid="2152532">Tyler Ulis</a></b><br>PG &#124; Kentucky</td></tr><tr class="row1"  align="right"><td  colspan="1" align="right" width="20">27</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/TOR.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2019198" data-playerid="2019198">Brice Johnson</a></b><br>PF &#124; North Carolina</td><td  colspan="1" align="right" width="20">27</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/TOR.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2202840" data-playerid="2202840">Diamond Stone</a></b><br>C &#124; Maryland</td></tr><tr class="row2"  align="right"><td  colspan="1" align="right" width="20">28</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/PHO.png"><div class="textSmall">From CLE</div></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2228725" data-playerid="2228725">Thon Maker</a></b><br>C &#124; Australia</td><td  colspan="1" align="right" width="20">28</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/PHO.png"><div class="textSmall">From CLE</div></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2218108" data-playerid="2218108">Juan  Hernangomez</a></b><br>PF &#124; Spain</td></tr><tr class="row1"  align="right"><td  colspan="1" align="right" width="20">29</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/SA.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2152532" data-playerid="2152532">Tyler Ulis</a></b><br>PG &#124; Kentucky</td><td  colspan="1" align="right" width="20">29</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/SA.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2202726" data-playerid="2202726">Cheick Diallo</a></b><br>C &#124; Kansas</td></tr><tr class="row2"  align="right"><td  colspan="1" align="right" width="20">30</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/GS.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2218108" data-playerid="2218108">Juan  Hernangomez</a></b><br>PF &#124; Spain</td><td  colspan="1" align="right" width="20">30</td><td  colspan="1" align="center" width="70"><img src="http://sports.cbsimg.net/images/nba/logos/30x30/GS.png"></td><td  colspan="1" align="left" width="230"><b><a href="#" data-popurl="/nba/draft/drafttracker/popover/player/2016/2152790" data-playerid="2152790">Ben Bentil</a></b><br>PF &#124; Providence</td></tr></table></div>
+            </td>
+        </tr>
+    </table>
+</div>
+<div id="draftSnippet"></div>
+
+<!-- insert:nba/draft/mock_notes.html -->
+<div class="spacer20">&nbsp;</div>
+
+        <div id="taboola-bottom-of-the-page-thumbnails" data-taboola-placement="aw-cbssports/nba/media/draft/draft_mock desktop-2x4-bottom" om-event="aw-cbssports/nba/media/draft/draft_mock desktop-2x4-bottom"></div>
+        <script type="text/javascript">
+          window._taboola = window._taboola || [];
+          _taboola.push({
+            mode: 'alternating-thumbnails-z',
+            container: 'taboola-bottom-of-the-page-thumbnails',
+            placement: 'aw-cbssports/nba/media/draft/draft_mock desktop-2x4-bottom',
+            target_type: 'mix'
+          });
+        </script> 
+<!-- Include the Comments 3 JavaScript library -->
+<script src='//cdn.livefyre.com/Livefyre.js'></script>
+<script>
+    var networkConfig = {
+        network: "cbssports.fyre.co"
+    };
+</script>
+
+<!- Livefyre Custom Styles - avoid doing this if possible -->
+<style>
+.fyre {top: -30px;font-family: "proxima-nova",verdana,sans-serif;}
+
+.fyre-help {display: none;}
+.fyre-live-container {top: -35px; right: -47px;}
+.fyre-auth {top: -30px;}
+.fyre-editor-toolbar .goog-toolbar-horizontal:4 {background-color: #000000;}
+.fyre .fyre-box-wrapper span.fyre-user-drop {font-family: "proxima-nova",verdana,sans-serif;}
+.fyre-editor-editable {background-color: #FFFFFF;}
+.fyre-editor-small .fyre-editor-editable iframe {position: relative; top: 0px;}
+.fyre-editor-editable iframe {position: relative; top:-23px;}
+.fyre .fyre-livecount {top: -12px;}
+.fyre .fyre-login-bar a:link {color:#212121}
+.fyre .fyre-login-bar a:visited {color:#212121}
+.fyre .fyre-login-bar a:hover {color:#212121}
+.fyre .fyre-stream-livecount {font-family: "proxima-nova",verdana,sans-serif; font-size: 15px;}
+.fyre .fyre-comment-stream {overflow: hidden; width: 100%; height: 100%;}
+.fyre .fyre-comment-head {font-family: "proxima-nova",verdana,sans-serif;font-size:14px;}
+.fyre .fyre-comment p {font-family: "proxima-nova",verdana,sans-serif;font-size:14px;}
+.fyre .fyre-user-avatar-25 {display: none;}
+.fyre .fyre-listener-avatars {display: none !important;}
+.fyre .fyre-comment-user {display: none !important;}
+.fyre .fyre-comment-body {margin-left: 0px;}
+.fyre .fyre-box-wrapper {left: 0px;}
+.fyre .fyre-comment-like-count {display: none;}
+.fyre .fyre-comment-like-imgs {display: none;}
+.fyre .fyre-box-wrapper a.fyre-user-profile-link {padding: 8px 10px !important;}
+.fyre .fyre-comment-divider > div.fyre-comment-divider {margin: 0px;} 
+.fyre .fyre-comment-article .fyre-comment-wrapper time.fyre-comment-date {position: relative; top: -16px;}
+.fyre .fyre-comment-replies-indent {margin-left: 0px; padding-left: 62px;}
+.fyre .fyre-comment-source-13 > .fyre-comment-divider.fyre-divider-active > div.fyre-comment-divider, .fyre .fyre-comment-source-13 > .fyre-comment-divider.fyre-comment-collapse > div.fyre-comment-divider, .fyre .fyre-comment-divider.fyre-divider-active > div.fyre-comment-divider, .fyre .fyre-comment-divider.fyre-comment-collapse > div.fyre-comment-divider {margin: 0 0 0 62px;}
+.fyre .fyre-stream-stats:before {
+    border-color: #0B0B3B transparent transparent #0B0B3B;
+    border-image: none;
+    border-style: solid;
+    border-width: 5px;
+    content: " ";
+    height: 0px;
+    left: 10px;
+    position: absolute;
+    top: 26px;
+    width: 0px;
+}
+.fyre .fyre-stream-stats {
+    border: 1px solid #000000;
+    width: 45px;
+    top: -37px;
+    /*left: 593px;*/
+    position: relative;
+    border-radius: 2px 2px 2px 2px;
+    color: #FFFFFF;
+    background-color: #0B0B3B;
+    float: right;
+}
+.fyre .fyre-comment-like-btn {
+    background-image: -moz-linear-gradient(100% 100% 90deg, rgba(181, 190, 196, 0.4), rgba(245, 247, 247, 0.4) 54%);
+    border: 1px solid #B5BEC4;
+    border-radius: 3px 3px 3px 3px;
+    color: #939393;
+    font-family: 'Droid Sans',arial,serif;
+    font-size: 12px;
+    font-weight: normal;
+    opacity: 0.6;
+    padding: 3px 6px;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.75);
+    text-transform: none;
+}
+.fyre .fyre-comment-like-btn:hover {
+    background-image: -moz-linear-gradient(100% 100% 90deg, rgba(181, 190, 196, 0.4), rgba(245, 247, 247, 0.4) 54%);
+    border: 1px solid #B5BEC4;
+    border-radius: 3px 3px 3px 3px;
+    color: #939393;
+    font-family: 'Droid Sans',arial,serif;
+    font-size: 12px;
+    font-weight: normal;
+    opacity: 0.6;
+    padding: 3px 6px;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.75);
+    text-transform: none;
+}
+.fyre .fyre-comment-reply {
+    background-image: -moz-linear-gradient(100% 100% 90deg, rgba(181, 190, 196, 0.4), rgba(245, 247, 247, 0.4) 54%);
+    border: 1px solid #B5BEC4;
+    border-radius: 3px 3px 3px 3px;
+    color: #939393;
+    font-family: 'Droid Sans',arial,serif;
+    font-size: 12px;
+    font-weight: normal;
+    opacity: 0.6;
+    padding: 3px 6px;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.75);
+    text-transform: none;
+}
+.fyre .fyre-comment-reply:hover {
+    background-image: -moz-linear-gradient(100% 100% 90deg, rgba(181, 190, 196, 0.4), rgba(245, 247, 247, 0.4) 54%);
+    border: 1px solid #B5BEC4;
+    border-radius: 3px 3px 3px 3px;
+    color: #939393;
+    font-family: 'Droid Sans',arial,serif;
+    font-size: 12px;
+    font-weight: normal;
+    opacity: 0.6;
+    padding: 3px 6px;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.75);
+    text-transform: none;
+}
+
+.fyre-stream-stats .fyre-comment-count span {text-align: center; width: 45px; color: #FFFFFF;}
+.fyre .fyre-login-bar {top: -35px; font-family: "proxima-nova",verdana,sans-serif;}
+.fyre .fyre-editor-toolbar .goog-toolbar > div.fyre-post-button {filter: none; background: #0B0B3B !important; background-color: #0B0B3B !important; background-image: none !important;}
+.fyre .fyre-editor-toolbar .goog-toolbar > div.fyre-post-button .fyre-button-right-inner-box {color: #FFFFFF; text-shadow: 0px 0px;}
+#lf_login_buttons {position: relative; top: 5px; left: -6px; z-index: 4999;}
+#lf_comments_label {display: none; float: right; right: 55px; position: relative; top: 48px; font-size: 18px; font-family: "proxima-nova",verdana,sans-serif;}
+#customButtonCtr {height: 50px;}
+.fyre .fyre-comment-actions a.fyre-delete-link {display: none;}
+
+
+/* durations */
+.fyre time.fyre-comment-date {margin-right: 5px; color: #888888;}
+.fyre .fyre-comment-head, .fyre .fyre-comment-body {margin-left: 0px !important;}
+.fyre .fyre-comment a.fyre-comment-edit {padding: 0px;} 
+
+.fyre .fyre-editor-toolbar > .goog-toolbar > .fyre-post-to .fyre-button-right-inner-box {background: url("http://sports.cbsimg.net/images/livefyre/post-to-sprite_birdyv1.png") no-repeat scroll left top transparent; color: transparent; height: 14px; width: 18px;}
+.fyre .fyre-editor-toolbar > .goog-toolbar > .fyre-post-to-facebook .fyre-button-right-inner-box {background-position: -19px 0; width: 12px;}
+.fyre .fyre-editor-toolbar > .goog-toolbar > .fyre-post-to-facebook .fyre-post-to-selected {background-position: -19px -19px; width: 12px;}
+.fyre .fyre-editor-toolbar > .goog-toolbar > .fyre-post-to-twitter .fyre-button-right-inner-box.fyre-post-to-selected { background-position: 0 -19px; }
+#mantle_skin .fyre .fyre-post-button .fyre-button-right-inner-box {
+    color: white;
+    font-weight: normal;
+    text-shadow: none;
+}
+#getScreenName {display: none; font-family: "proxima-nova",verdana,sans-serif; font-size: 15px; color: #3E3E3E; position: relative; top: 36px; z-index: 4999;}
+#getScreenName a:link {color: #3E3E3E;}
+#getScreenName a:visited {color: #3E3E3E;}
+#getScreenName a:hover {color: #3E3E3E;}
+
+.fyre .fyre-stream-more .fyre-stream-more-container {background-color: #0B0B3B; background-image: none; }
+.fyre .fyre-stream-more .fyre-stream-more-container .fyre-text {font-family: "proxima-nova",verdana,sans-serif; font-size: 15px; color: #FFFFFF; font-weight: bold;}
+.fyre .fyre-stream-more {background: none;}
+.fyre .fyre-editor-container {top: 5px !important;}
+
+#fbLoginDiv {position: relative; top: -4px; left: 0px;}
+#googlesignin {position: relative; top: -2px; left: 0px;}
+.fyre .fyre-user-loggedout {font-family: "proxima-nova",verdana,sans-serif;}
+.fyre .fyre-editor .fyre-editor-toolbar .goog-toolbar>div {font-family: "proxima-nova",verdana,sans-serif;}
+.fyre .fyre-stream-sort {font-family: "proxima-nova",verdana,sans-serif;};
+.fyre .fyre-comment-head, .fyre .fyre-comment-body {font-family: "proxima-nova",verdana,sans-serif;};
+</style>
+
+
+
+<map name="lfloginmap" id="lfloginmap">
+    <area shape="rect" coords="4,2,114,26" alt="CBSSports" onclick="javascript:CBS_login()">
+    <area shape="rect" coords="120,2,214,26" alt="Facebook" onclick="javascript:callFBApi()">
+    <span id="googlesignin" class="" data-scope="https://www.googleapis.com/auth/plus.login" data-clientid="1000074490960.apps.googleusercontent.com" data-callback="signinCallback" data-theme="dark" data-cookiepolicy="single_host_origin" data-requestvisibleactions="http://schemas.google.com/AddActivity" data-width="wide"><area shape="rect" coords="220,2,314,26" alt="Google Plus" onclick="javascript:callGPApi()"></span>
+</map>
+<div id="getScreenName"></div>
+<div id="customButtonCtr">
+    <div id="lf_comments_label">COMMENTS</div>
+</div>
+<a name="commentsAnchor"></a>
+<div id="livefyre">
+    
+</div>
+
+<script type="text/javascript">
+    var globalGPaccessToken;
+    function callGPApi(){ 
+        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+        po.src = 'https://apis.google.com/js/client:plusone.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+        console.log("API Loaded");
+    }
+    function signinCallback(authResult) {
+        if (authResult['access_token']) {
+            // Successfully authorized
+            globalGPaccessToken = authResult['access_token'];
+            console.log("Granted Access to GP API");
+            setup_gprofile();
+        } else if (authResult['error']) {
+            // There was an error.
+            // Possible error codes:
+            //   "access_denied" - User denied access to your app
+            //   "immediate_failed" - Could not automatially log in the user
+            console.log('There was an error in gp login: ' + authResult['error']);
+        }
+    }
+    function setup_gprofile(){
+        gapi.client.load('plus','v1', function(){
+            var request = gapi.client.plus.people.get( {'userId' : 'me'} );
+            request.execute(function(profile){
+                login_user = profile.id;
+                login_name = profile.displayName; 
+                console.log("GP Profile: ",profile);
+                console.log("Login Name: " + login_name);
+                if ((login_name != "") && (typeof(login_name) != "undefined")){
+                    profileType = "GP";
+                    log_in_socially(login_name, login_user, 'gp');
+                    document.cookie = "lf_social_info=|GP|; expires=0; path=/";
+                }
+                else{
+                    $('.fyre-editor-editable').append('<div id="cbsLfError"><span class="fyre-editor-error"><a href="javascript:removeLfError()" class="fyre-editor-error-close"></a><span>Your Google account does not contain a google plus user name.</span></span></div>');
+                }
+            });
+        });
+    }
+    function disconnectGPUser(access_token) {
+          var revokeUrl = 'https://accounts.google.com/o/oauth2/revoke?token=' +
+                access_token;
+
+          // Perform an asynchronous GET request.
+          $.ajax({
+            type: 'GET',
+            url: revokeUrl,
+            async: false,
+            contentType: "application/json",
+            dataType: 'jsonp',
+            success: function(nullResponse) {
+            // Do something now that user is disconnected
+            // The response is always undefined.
+            },
+            error: function(e) {
+                // Handle the error
+                // console.log(e);
+                // You could point users to manually disconnect if unsuccessful
+                // https://plus.google.com/apps
+            }
+         });
+    }
+
+
+</script>
+
+<script type="text/javascript">
+// Initialize Comments 3 
+var userObj = {};
+var isLoggedIn = 0;
+var changedDom = 0;
+var loggedin;
+var hasProfile = 0;
+var profileType = '';
+var lf_user_profile;
+var CBS_login = 0;
+var has_fb_login = 0;
+
+    console.log("document.domain=" + document.domain);
+    console.log("location.host=" + location.host);
+
+    CBS_login = function(){
+        document.location.href = 'http://www.cbssports.com/login?master_product=2580&xurl=' + encodeURIComponent('http://www.cbssports.com/nba/draft/mock-draft');
+    }
+
+    var convConfig = {
+        siteId: "309983",
+        articleId: "m:8564678",
+        el: 'livefyre',
+        checksum: "21a8a3773a497bd85536950e0daf8805",
+        collectionMeta: "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0aXRsZSI6IjIwMTYgTkJBIE1vY2sgRHJhZnRzIiwidXJsIjoiaHR0cDovL3d3dy5jYnNzcG9ydHMuY29tL25iYS9kcmFmdC9tb2NrLWRyYWZ0IiwidGFncyI6IiIsImNoZWNrc3VtIjoiMjFhOGEzNzczYTQ5N2JkODU1MzY5NTBlMGRhZjg4MDUiLCJhcnRpY2xlSWQiOiJtOjg1NjQ2NzgifQ.2w63_xOYcIDeakc6gjA2NDb2ZzL0JC8yWwHlkC-s_KE"
+    };
+
+    var customStrings = {
+        postAsButton: "POST COMMENT",
+        postButton: "POST COMMENT",
+        follow: "+ Follow Conversation",
+        commentCountLabel: "",
+        commentCountLabelPlural: "",
+        signIn: "SIGN IN WITH<br><div id=\"lf_login_buttons\"><table><tr><td><img onclick=\"javascript:CBS_login()\" src=\"http://sports.cbsimg.net/images/livefyre/cbs_lf_login.png\"></td><td><div id=\"fbLoginDiv\"><div size=\"large\" class=\"fb-login-button\" data-onlogin=\"callFBApi()\" data-width=\"160\"></div></div><td><span id=\"googlesignin\" class=\"g-signin\" data-scope=\"https://www.googleapis.com/auth/plus.login\" data-clientid=\"1000074490960.apps.googleusercontent.com\" data-callback=\"signinCallback\" data-theme=\"dark\" data-cookiepolicy=\"single_host_origin\" data-requestvisibleactions=\"http://schemas.google.com/AddActivity\" data-width=\"wide\"><img width=\"92\" height=\"31\" src=\"http://sports.cbsimg.net/images/livefyre/gplus_base.png\" onclick=\"javascript:callGPApi()\"></span></td></table></div>"
+    }
+    convConfig["strings"] = customStrings; 
+
+    
+
+    callFBApi = function() {
+       var accessToken;
+       var uid;
+       FB.getLoginStatus(function(response) {
+          if (response.status === 'connected') {
+                handle_fb_response(response.authResponse);
+          }
+          else{
+            FB.login(function(response) {
+                if (response.authResponse) {
+                    handle_fb_response(response.authResponse);
+                }
+            });
+         }
+        });
+    };
+    
+    handle_fb_response = function(authResponse){
+        uid = authResponse.userID;
+        accessToken = authResponse.accessToken;
+        FB.api('/me', function(social) {
+            CBSi.log("== FB USER DATA ==", social);
+            profileType = "FB";
+            log_in_socially(social.name, social.id, 'fb');
+            document.cookie = "lf_social_info=|FB|; expires=0; path=/";
+        });
+
+    }
+
+    log_in_socially = function(dn, userid, site) {
+        //console.log("Log in social start: " + dn + "|" + userid + "|" + site);
+        $.ajax({
+            url: "/data/common/livefyre/lf_social_login",
+            dataType: 'json',
+            data: {
+                lfdn: dn,
+                lfuser: userid,
+                ssite: site
+            }
+        }).done(function(profile) {
+            if (profile.error) {
+                CBSi.log("Social login failed with error: ", profile);
+                return null;
+            }
+            else {
+                document.cookie = "lf_social_login="+ profile.socialsess +"; expires=0; path=/";
+                profile.socialsess = '1';
+                userObj = profile;
+                lf_user_profile = profile;
+                doLivefyreAuth(profile);
+            }
+        });
+    };
+
+    callTwitterApi = function() {
+        window.open('/common/livefyre/V3/via_twitter?debug=32','twitterOauth','width=600,height=500,menu=0,status=0');
+    };
+    callTwitterApiHidden = function() {
+        var arr1 = readCookie('lf_social_info').split(/\|/);
+        log_in_socially(arr1[2], arr1[3], 'twitter');
+        hasProfile = 1;
+        profileType = "TW";
+    }
+    
+    function doLivefyreAuth(cval) {
+        var isLoggedIn = 1;
+        if (cval) {
+            try {
+                removeLfError();
+                Livefyre.auth.login();
+                setTimeout('Livefyre.auth.login();',2000);
+                if (Livefyre.auth.isAuthenticated()){
+                    isLoggedIn = 1;
+                }
+            } catch (e) {
+                isLoggedIn = 0;
+            }
+        }
+    }
+
+    changeDOM = function() {
+        // DOM hacks.  Change the UI for the dropdown box
+        //console.log("== Running Dom Hacks ==");
+
+        if (isLoggedIn == 1){
+            //console.log("== Checking Match ==");
+
+            if ((hasProfile == 0) && (profileType == 'CBS')) {
+                CBSi.log("== adding get comment link ==");
+                // They need a screen name
+                $('.fyre .fyre-user-loggedout').hide();
+                var style = "<style>.goog-inline-block.fyre-button-right-outer-box{display:none}</style>";
+                $('head').append(style);
+                $('#getScreenName').show();
+                var screenNameContent = '<a href="http://www.cbssports.com/registration/validate/send?master_product=2580&userid=V2iOTAq0GbcAAE2Cra0&email=&end=http%3A%2F%2Fwww.cbssports.com%2Fregistration%3Fmaster_product%3D2580%26end%3Dhttp%253A%252F%252Fwww.cbssports.com%252Fnba%252Fdraft%252Fmock-draft%253FprofFR%253D1">Get a Screen Name to Comment</a>';
+                $('#getScreenName').html(screenNameContent);
+            } else if ((userObj.profile.valid_email_flag != '1') && (profileType == 'CBS')) {
+                //console.log("User Obj: ",userObj);
+                $('.fyre .fyre-user-drop').hide();
+                var style = "<style>.goog-inline-block.fyre-button-right-outer-box{display:none}</style>";
+                $('head').append(style);
+                $('#getScreenName').show();
+                var screenNameContent = '<a href="http://www.cbssports.com/registration/validate/send?master_product=2580&userid=V2iOTAq0GbcAAE2Cra0&email=&end=http%3A%2F%2Fwww.cbssports.com%2Fregistration%3Fmaster_product%3D2580%26end%3Dhttp%253A%252F%252Fwww.cbssports.com%252Fnba%252Fdraft%252Fmock-draft%253FprofFR%253D1">Validate your email to Comment</a>';
+                $('#getScreenName').html(screenNameContent);
+            }
+        }
+        changedDom = 1;
+    };
+    
+    function updateCommentCounts(element,count){
+        if (count == 1){
+            $(element).html('<a href="#commentsAnchor">' + count + ' &nbsp;&nbsp;| &nbsp;Comment</a>');
+            $(element).show();
+            $('.commentsCountLabel').html('comment');
+        }
+        else{
+            $(element).html('<a href="#commentsAnchor">' + count + ' &nbsp;&nbsp;| &nbsp;Comments</a>');
+            $(element).show();
+            $('.commentsCountLabel').html('comments');
+        }
+        $('.commentsCount').html(count);
+    }
+
+    function removeLfError(){
+        $('#cbsLfError').remove();
+    }
+
+    function updateAuthorLinks(){
+        $('.fyre-comment-username').each(function() {
+            $(this).click(function() {
+                window.location.href = $(this).attr('href'); 
+            });
+        });
+        $('.fyre-comment-author').each(function() {
+            $(this).click(function() {
+                window.location.href = $(this).attr('href'); 
+            });
+        });
+    }
+    
+    function updateOneLineComments(){
+        
+        //console.log("Checking Comments");
+        $(".fyre-comment-wrapper").each(function() {
+            if ($(this).find(".fyre-comment").css('display') != 'none'){
+                var commentText = $(this).find(".fyre-comment").html();
+                if (commentText != null){
+                    var loopCtr = 0;
+                    // for IE8
+                    while ( (commentText.indexOf("<P>") !== -1) && (loopCtr < 100) ){
+                        commentText = commentText.replace("<P>",' ');
+                        commentText = commentText.replace("</P>",' ');
+                        loopCtr++;
+                    }
+                    //for other browsers
+                    while ( (commentText.indexOf("<p>") !== -1) && (loopCtr < 100) ){
+                        commentText = commentText.replace("<p>",' ');
+                        commentText = commentText.replace("</p>",' ');
+                        loopCtr++;
+                    }
+                    $(this).find(".fyre-comment").css('display','none');
+                    $(this).find(".fyre-comment-head").append(commentText);
+                } // end check for blank text
+            }
+            cntHeight = $(this).find(".fyre-comment-head").height();
+            if (cntHeight > 0){
+                cntHeight = -1 * ((cntHeight / 2) + 12);
+                $(this).find(".fyre-flag-link").css('top',cntHeight);
+            }
+        });
+        
+   }
+    
+    
+    function change_profile_link(){
+        $(".fyre .fyre-box-list .fyre-edit-profile-link a").attr("href",'#');
+        $(".fyre .fyre-box-list .fyre-edit-profile-link a").attr("alt",'');
+        $('.fyre .fyre-box-list .fyre-edit-profile-link a').click(function() { return false; });
+        $('.fyre .fyre-box-list .fyre-edit-profile-link').remove();
+        $(".fyre .fyre-comment-head .fyre-comment-username").attr("href",'#');
+        $(".fyre .fyre-comment-head .fyre-comment-username").attr("target",'');
+        $(".fyre .fyre-comment-head .fyre-comment-username").attr("alt",'');
+        $('.fyre .fyre-comment-head .fyre-comment-username').click(function() { return false; });
+        
+        $('.fyre .fyre-comment-head').each(function() {
+            
+            var alltxt = $(this).html();
+            var nickname = $(this).find('.fyre-comment-username').html();
+            if (!(nickname == null)){
+                alltxt = "<b>" + nickname + '</b><br>' + alltxt.replace(/<a(|\s[^>]*)>[\s\S]*?<\/a>/gi,'');
+                $(this).html(alltxt);
+            }
+            
+        });
+         $('.fyre .fyre-comment p').each(function() {
+         
+            var alltxt = $(this).html();
+            var mention = $(this).find('.fyre-mention').html();
+            if (!(mention == null)){
+                alltxt = alltxt.replace(/<a(|\s[^>]*)>[\s\S]*?<\/a>/gi,'');
+                $(this).html(alltxt);
+            }
+         });
+    }
+
+    function open_profile(profile_link_url){
+        window.open(profile_link_url);     
+    }
+
+    $(document).ready( function () {
+            // Log in the user if we got a token for them
+            // Change the DOM after login since things get re-rendered
+            Livefyre.require([
+             'fyre.conv#3',
+                   'auth'],
+                     function (Conv, auth) {
+                       new Conv(networkConfig, [convConfig], function (commentsWidget) {
+                            commentsWidget.on('commentPosted', function (data) {
+                                         // Do something, perhaps using data
+                            });
+                            commentsWidget.on('initialRenderComplete', function (data) {
+                                $('#lf_comments_label').show();
+                                if (window.logged_in == "yes") {
+                                    isLoggedIn = 1;
+                                    if (typeof userObj.token != 'undefined'){
+                                        if (userObj.token) {
+                                            hasProfile = 1;
+                                            profileType = "CBS";
+                                            document.cookie = "lf_social_info=; expires=0; path=/";
+                                            doLivefyreAuth(userObj);
+                                        }
+                                    }
+                                    changeDOM();
+                                }
+                                var loggedSocially = new String(readCookie('lf_social_info'));
+                                //console.log("Social Cookie: " + loggedSocially);
+                                if ((loggedSocially == "|FB|") && (isLoggedIn == 0)){
+                                    isLoggedIn = 1;
+                                    hasProfile = 1;
+                                    profileType = "FB";
+                                    callFBApi();
+                                }
+                                if ((loggedSocially.indexOf("|GP|") >= 0) && (isLoggedIn == 0)){
+                                    isLoggedIn = 1;
+                                    hasProfile = 1;
+                                    profileType = "GP";
+                                    callGPApi();
+                                }
+                                updateCommentCounts('.commentsBubble',$('.fyre-stream-stats .fyre-comment-count span').html());
+                                updateAuthorLinks();
+                                
+                                setTimeout(function(){},2000);
+                                change_profile_link();
+                                setTimeout(function(){change_profile_link()},2000);
+                                //console.log("Initial Render code finished");
+                            });
+                            commentsWidget.on('userLoggedIn', function () {
+                                changeDOM();
+                                removeLfError();
+                                
+                                setTimeout(function(){change_profile_link()},2000);
+                            });
+                            commentsWidget.on('userLoggedOut', function () {
+                                if (document.cookie.indexOf("|GP|") > 0){
+                                    disconnectGPUser(globalGPaccessToken);
+                                }
+                                document.cookie = "lf_social_info=; expires=0; path=/"
+                                document.cookie = "lf_login_info=; expires=0; path=/"
+                                
+                                setTimeout(function(){FB.XFBML.parse();},500);
+                            });
+                            commentsWidget.on('commentCountUpdated', function (countData) {
+                                updateCommentCounts('.commentsBubble',countData);
+                                
+                                change_profile_link();
+                                setTimeout(function(){change_profile_link()},2000);
+                            });
+                            commentsWidget.on('commentPosted', function (countData) {
+                                updateAuthorLinks();
+                                
+                                change_profile_link();
+                                setTimeout(function(){change_profile_link()},2000);
+                            });
+                        });
+           
+                       auth.delegate({
+                          login: function (handlers) {
+                            if (Livefyre.auth.isAuthenticated()){
+                                isLoggenIn = 1;
+                            }
+                            //console.log("Is Logged In: " + isLoggedIn + " " + Livefyre.auth.isAuthenticated());
+                            if ((isLoggedIn == 0) || (!(Livefyre.auth.isAuthenticated()))){
+                                handlers(null,{livefyre: userObj.token});
+                                removeLfError();
+                            }
+                          },
+                          logout: function (cb) {
+                            cb(null);
+                          },
+                          viewProfile: function (author) {
+                            console.log(author);
+                          },
+                          editProfile: function (author) {
+                            console.log(author);
+                          }
+                       });
+
+                       auth.delegate.forEachAuthentication = function (authenticate) {
+                            window.addEventListener('userAuthenticated', function(data) {
+                                authenticate({livefyre: userObj.token});
+                            });
+                       }
+                  });
+    });
+
+</script>
+
+<div style="text-align:right">
+Conversation powered by
+<a href="http://livefyre.com" target="_blank" style="text-decoration:none; color:inherit">Livefyre</a>
+</div>
+
+
+
+
+    
+<script>
+// Snippet popover events
+
+CBSi.app.DraftSnippet.init({
+    league: "NBA",
+    snippetSelector: "#draftSnippet",
+    snippetEventSelector: "#oddsTable"
+});
+</script>
+    
+    
+            </div><!-- END layoutRailNone-->
+        <br clear="all">
+    </div><!-- END pageContainer-->
+</div><!-- END pageRow-->
+    <style>.footerAd {width: 970px;margin: 0 auto;padding: 10px 5px; background-color: #fff;overflow: hidden;text-align:center;position:relative;}</style>
+    
+    <div id="leader_plus2_bottom" class="footerAd">
+<script type="text/javascript">
+if (switchXFP != 'off') {
+    googletag.cmd.push(function() {
+        if (typeof index_headertag_lightspeed !== 'undefined') {
+                  var cb = (function () {
+                      return function () {
+                          var slots = googletag.pubads().getSlots();
+                          index_headertag_lightspeed.set_slot_targeting(slots);
+                           googletag.display("leader_plus2_bottom");
+                        };
+                  })();
+                  index_headertag_lightspeed.add_session_end_hook(cb, true);
+                  index_headertag_lightspeed.refresh();
+              } else {
+                  googletag.display("leader_plus2_bottom");
+              }
+    });
+    if (location.search.substring(1).indexOf('DCLK')>-1) $('<input type="text" value="leader_plus2_bottom" style="width:728px"><br>').insertBefore('#leader_plus2_bottom');
+}
+</script>
+</div>
+    <footer id="site-footer" class="site-footer">
+    <div class="site-footer-row">
+        <div class="site-footer-branding">
+            <span class="site-footer-logo"></span>
+        </div>
+    </div>
+    <div class="site-footer-row">
+        
+        <ul class="site-footer-follow">
+            <li><a href="https://www.facebook.com/CBSSports" target="_blank" rel="nofollow" om-event="Global Footer|Facebook"><span class="btn social icon-moon-facebook"></span></a></li>
+            <li><a href="https://twitter.com/cbssports" target="_blank" rel="nofollow" om-event="Global Footer|Twitter"><span class="btn social icon-moon-twitter"></span></a></li>
+            <li><a href="https://plus.google.com/+CBSSportscom/posts" target="_blank" rel="nofollow" om-event="Global Footer|Googleplus"><span class="btn social icon-moon-google-plus2"></span></a></li>
+            <li><a href="https://www.youtube.com/user/cbssports" target="_blank" rel="nofollow" om-event="Global Footer|Youtube-play"><span class="btn social icon-moon-youtube-play"></span></a></li>
+            <li><a href="https://instagram.com/cbssports/" target="_blank" rel="nofollow" om-event="Global Footer|Instagram"><span class="btn social icon-moon-instagram"></span></a></li>
+            <li><a href="https://www.pinterest.com/cbssports/" target="_blank" rel="nofollow" om-event="Global Footer|Pinterest"><span class="btn social icon-moon-pinterest"></span></a></li>
+        </ul>
+    
+    </div>
+    <div class="site-footer-row">
+        <ul class="site-footer-links">
+            <li><a href="http://www.cbssports.com/help" target="_blank" om-event="Global Footer|Help ">Help </a></li><li><a href="http://www.cbssports.com/info/aboutus" target="_blank" om-event="Global Footer|About Us ">About Us </a></li><li><a href="http://www.cbsinteractive.com/advertise/" target="_blank" om-event="Global Footer|Advertise ">Advertise </a></li><li><a href="http://www.cbssports.com/sitemap" target="_blank" om-event="Global Footer|Site Map ">Site Map </a></li><li><a href="http://www.cbssports.com/settings/newsletters" target="_blank" om-event="Global Footer|Newsletters ">Newsletters </a></li><li><a href="http://www.cbssports.com/mobile" target="_blank" om-event="Global Footer|Mobile Apps ">Mobile Apps </a></li><li><a href="http://collegenetwork.cbssports.com/" target="_blank" om-event="Global Footer|College Network ">College Network </a></li><li><a href="http://legalterms.cbsinteractive.com/adchoice" target="_blank" om-event="Global Footer|Ad Choice ">Ad Choice </a></li><li><a href="http://www.cbssports.com/info/closed-caption" target="_blank" om-event="Global Footer|Closed Captioning ">Closed Captioning </a></li><li><a href="http://legalterms.cbsinteractive.com/privacy" target="_blank" om-event="Global Footer|Privacy ">Privacy </a></li><li><a href="http://legalterms.cbsinteractive.com/terms-of-use" target="_blank" om-event="Global Footer|Terms ">Terms </a></li><li><a href="http://legalterms.cbsinteractive.com/eula" target="_blank" om-event="Global Footer|Mobile User Agreement ">Mobile User Agreement </a></li>
+        </ul>
+    </div>
+    
+
+    <div class="site-footer-row">
+        <div class="site-footer-partners">
+            
+        </div>
+    </div>
+    <div class="site-footer-copyright">
+        <p class="site-footer-dates">&copy; 2005-2016 CBS INTERACTIVE. ALL RIGHTS RESERVED.</p>
+        <p>CBS Sports is a registered trademark of CBS Broadcasting Inc.  </p>
+       
+    </div>
+</footer>
+</div><!--mantle_skin-->
+    
+    <script type="text/javascript" src="http://sports.cbsimg.net/js/global-footer-min-v00101.js"></script><script type="text/javascript" src="http://sports.cbsimg.net/js/CBSi/app/VideoPlayer/Panel-min.js"></script>
+<script type="text/javascript">
+
+function add_popups(favorite_teams) {
+    var playerdata = {}; /* Slurp players.json into a renv variable via perl */
+    /* Load the player data into a hashlike object */
+    var players = new Object();
+    $.each(playerdata.players, function(key, thisplayer) {
+        players[thisplayer.id] = thisplayer;
+    });
+    $("[data-player-id]").each (function() {
+        var playerId = $(this).attr("data-player-id");
+        /* See if each player-id has a video link.  If so, add it. */
+        if (players[playerId] && players[playerId].videoUrl != null) {
+            var vidfile = players[playerId].videoUrl;
+            var vidlink = '<a href="'+ vidfile +'" class="vpPlayVideoOnPanel" data-player-id="'+ playerId +'"><img src="http://sports.cbsimg.net/images/video.gif"></a>';
+            $(this).after(vidlink);
+        }
+    });
+    CBSi.widget.ToolTip.init({"width":370});
+
+    var popupVideo = new CBSi.app.VideoPlayer.Panel({
+        type:'player',
+        channel:'nba_draft',
+        league:'NCAAB'
+    });
+    popupVideo.init();
+}
+
+function loadStat(form){
+    var uri      = "/nba/draft/mock-draft/index";
+    var year     = form.year.value;
+    var position = form.position.value;
+
+    var pos_name = (position == "all" || position.match("Select")) ? "" : "_" + position;
+    if (!isNaN(year)) {
+        var url = uri + "/TSX/" + year + pos_name;
+        window.location = url;
+    }
+}
+
+</script>
+
+
+<span id="footerScripts">
+    <span id="footerScriptsExternal">
+        <script type="text/javascript" id="siteToolsShare" src="http://sports.cbsimg.net/js/CBSi/app/SiteTools/Share-v010.js"></script>
+
+    </span>
+    <script id="footerScriptsRegistered" type="text/javascript">
+    
+    </script>
+    <script id="footerScriptsReady" type="text/javascript">
+    $(document).ready(function() {
+        
+            var saag = CBSi.app.SAAG.init({
+            'categories':{"nhl":{"scoreboard_url":"/nhl/scoreboard","ord":3,"menu_subtitle":"Scores","default":0,"content_url":"/nhl/saag","menu_title":"NHL","league_abbr":"nhl","scoreboard_subtitle":"Scoreboard","arena":"nhl"},"golf":{"scoreboard_url":"/golf/leaderboard","ord":4,"menu_subtitle":"Scores","default":0,"content_url":"/golf/saag","menu_title":"Golf","league_abbr":"golf","scoreboard_subtitle":"Leaderboard","arena":"golf"},"tennis":{"scoreboard_url":"/tennis/scoreboard","ord":5,"menu_subtitle":"Scores","default":0,"content_url":"/tennis/saag","menu_title":"Tennis","league_abbr":"tennis","scoreboard_subtitle":"Scoreboard","arena":"tennis"},"mlb":{"scoreboard_url":"/mlb/scoreboard","ord":1,"menu_subtitle":"Scores","default":1,"content_url":"/mlb/saag","menu_title":"MLB","league_abbr":"mlb","scoreboard_subtitle":"Scoreboard","arena":"mlb"},"my":{"scoreboard_url":"/my/scores","ord":0,"menu_subtitle":"Scores","default":0,"content_url":"/my/saag","menu_title":"My","league_abbr":"my","scoreboard_subtitle":"Scores","arena":"my"},"nba":{"scoreboard_url":"/nba/scoreboard","ord":2,"menu_subtitle":"Scores","default":0,"content_url":"/nba/saag","menu_title":"NBA","league_abbr":"nba","scoreboard_subtitle":"Scoreboard","arena":"nba"}},
+            'activeCategory':'nba',
+            'promo': {"status":"suspended","type":"draft","sport":"nfl"},
+            'omnitureArena': 'NBADraft',
+            'suppressNextPrevNavigation': ''
+            });
+        
+    //check for global var siteToolsFacebookLike first then register onReady method if needed
+    if ( typeof(siteToolsFacebookLike) === "undefined" && CBSi.app.SiteTools.Share.loaded) {
+         var facebookLikeConfig = {
+            'init': {
+                'appId':297742330311988,
+                'status':true,
+                'cookie':true,
+                'xfbml':true,
+                'logging':false,
+                 'version': 'v2.3'
+            },
+            'fbsdk': {
+                'uri':'//connect.facebook.net/en_US/sdk.js',
+                'id':'facebook-jssdk'
+            },
+            'dw': {"riaevent":"click","comp":"main","objnm":"facebook_share","comptyp":"app","siteid":175,"mapp":"social_share_bar","objtyp":"button"}
+        };
+        var siteToolsFacebookLike = CBSi.app.SiteTools.Share.facebookLike(facebookLikeConfig);
+    }
+    
+    //check for global var siteToolsTwitter first then register onReady method if needed
+    if ( typeof(siteToolsTwitter) === "undefined" && CBSi.app.SiteTools.Share.loaded) {
+         var twitterConfig = {
+            'twittersdk': {
+                'uri':'//platform.twitter.com/widgets.js',
+                'id':'twitter-wjs'
+            },
+            'dw': {"riaevent":"click","comp":"main","objnm":"twitter_share","comptyp":"app","siteid":175,"mapp":"social_share_bar","objtyp":"button"}
+        };
+        var siteToolsTwitter = CBSi.app.SiteTools.Share.twitter(twitterConfig);
+    }
+    
+    if ( typeof(siteToolsGplus) === "undefined" && CBSi.app.SiteTools.Share.loaded) {
+        var gplusConfig = {
+            'gplussdk': {
+                'uri':'https://apis.google.com/js/plusone.js',
+                'id':'googlePlusOne'
+            }
+        };
+        var siteToolsGplus = CBSi.app.SiteTools.Share.gplus(gplusConfig);
+    }
+    
+    var facebookLikeConfig = {
+        'init': {
+            'appId':'297742330311988',
+            'oauth':true,
+            'status':true,
+            'cookie':true,
+            'xfbml':true,
+            'logging':false,
+             'version':'v2.3'
+         },
+         'fbsdk': {
+            'uri':'//connect.facebook.net/en_US/sdk.js',
+            'id':'facebook-jssdk'
+         },
+            'dw': {"riaevent":"click","comp":"main","objnm":"facebook_lf_login","comptyp":"app","siteid":"175","mapp":"social_share_bar","objtyp":"button"}
+         };
+         var siteToolsFacebookLike = CBSi.app.SiteTools.Share.facebookLike(facebookLikeConfig);
+    
+        if ($('.updateTime, .gmtTime').length) {CBSi.widget.Time.update('body span');}
+        if ($('.tooltip').length) {CBSi.widget.ToolTip.init(CBSi.widget.ToolTip.cfg);}
+        if ($('.actionMenu').length) {
+            var actionMenuLeft = $(".actionMenu").position().left;
+            var userInfoLeft = (actionMenuLeft + 2) +"px";
+            $("#userInfo").css({"left":userInfoLeft});
+        }
+        $('body').delegate("[om-event]", "click", function(e) {
+            om.trackClick( {'item':$(this).attr("om-event")} );
+        });
+        
+            $(window).scroll(function(e){
+
+                //check if scroll_prestitial is visible
+                var prestitialVisible = $('#scroll_prestitial:visible').length;
+                //CBSi.log('prestitialVisible ', prestitialVisible);
+
+                //get height of presitial element
+                var prestitialHeight = $('#scroll_prestitial iframe').height();
+                //CBSi.log('prestitialHeight ', prestitialHeight);
+
+                //Determine via tricky conditional states of DOM element if the
+                //  prestitial is still there
+                var hasPrestitial = 0;
+                if (prestitialHeight != null) {
+                    hasPrestitial = 1;
+                } else if (prestitialHeight > 0) {
+                    hasPrestitial = 1;
+                }
+                //finally check visibility but no height
+                if (prestitialVisible == 0) {
+                    hasPrestitial = 0;
+                } else if (prestitialVisible == 1 && prestitialHeight == 0) {
+                    hasPrestitial = 0;
+                }
+                //CBSi.log('hasPrestitial', hasPrestitial);
+
+                var windowScroll    = $(window).scrollTop();
+                var adSkinLeft      = $('#adSkinLeft');
+                var adSkinRight     = $('#adSkinRight');
+                var saagHeight      = $('#saagWrapper').height();
+                var northStarHeight = $('.northStarContainer').height();
+                var promoBarHeight  = $('#fantasy_promo_bar_row').height();
+
+                if (hasPrestitial == 0){
+                    if (windowScroll > ( saagHeight +northStarHeight +promoBarHeight) ) {
+                        // CBSi.log('LOCK IT NOW');
+                        adSkinLeft.css('position', 'fixed');
+                        adSkinRight.css('position', 'fixed');
+                        adSkinLeft.css('margin-top', -saagHeight-northStarHeight-promoBarHeight-2);
+                        adSkinRight.css('margin-top', -saagHeight-northStarHeight-promoBarHeight-2);
+                    }else{
+                        // CBSi.log('SCROLL NORMALLY');
+                        adSkinLeft.css('position', 'absolute');
+                        adSkinRight.css('position', 'absolute');
+                        adSkinLeft.css('margin-top', '0px');
+                        adSkinRight.css('margin-top', '0px');
+                    }
+                    
+                }
+            });
+        
+        if ($('.cbsGifAnimation').length) {CBSi.app.cbsGifAnimation.prototype.init();}
+        //setTimeout('CBSi.app.cbsGifAnimation.prototype.init();',3000);
+    });
+    </script>
+</span>
+
+<!-- no ClickTale --><!-- DARK TESTS - enabled [25] --><!-- DARK RIVER TEST/ sports_river - disabled [0 < 25] --><!-- DARK TEST/ node stress - disabled [0] --><!-- DARK TEST/ websocket - disabled [0] -->
+     
+
+        
+<!-- Begin Tealium -->
+<script type="text/javascript">
+
+getTaboolaPlacements();
+var utag_data={
+
+    siteHier         : 'media|nba|draft|draft|mock draft',
+    siteSection      : 'media|nba|draft||draft|mock draft',
+    siteType         : 'desktop web',
+    userType         : 'anon',
+    userState        : 'not authenticated',
+    pageType         : 'projections',
+    pageName         : '/nba/draft/mock-draft',
+    pageTypeId       : '6913',
+    pageOntologyId   : '23069',
+    pageViewGuid     : surround.vguid,
+    contentWidget    : surround.taboola
+}
+</script>
+<script type="text/javascript">
+(function(a,b,c,d){
+  a='//tags.tiqcdn.com/utag/cbsi/cbssportssite/prod/utag.js';
+	b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+  a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+})();
+</script>
+
+<!-- End Tealium -->
+<!-- no refresh -->
+<!-- no dl recruit -->
+
+         <script type="text/javascript">
+           window._taboola = window._taboola || [];
+           _taboola.push({flush: true});
+         </script>
+      
+
+    
+</body>
+</html><!-- Page build info: V2iOTAq0GbcAAE2Cra0 'ws1050.tm.cbsig.net' 28182 20160620 20:46:31 /spln/local/media/cache/full/spln/1752/%2Fnba%2Fdraft%2Fmock-draft -->
