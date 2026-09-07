@@ -1,0 +1,93 @@
+{
+  "model_eligible": false,
+  "publication_policy": "Only enumerated numeric pseudonymous inputs, separate metadata and audit/code files. Private identities/raw references excluded. No model admission implied.",
+  "files": {
+    "build.py": {
+      "sha256": "f1801002c1bd7172565efb4fa620bf4e3f3a14e9751437b27c28b616eff49ba6",
+      "bytes": 14831
+    },
+    "test_inputs.py": {
+      "sha256": "02e0c5048e7fd2f49d48e52c2f5daec479e9067ef68f81dcf4cbabf21d992f5b",
+      "bytes": 4942
+    },
+    "package.py": {
+      "sha256": "50f64e582ffb3217bbcfc19481cd58a5ba2afbfd68e6da4036c7cf0068ff6748",
+      "bytes": 8591
+    },
+    "README.md": {
+      "sha256": "ad3b517d8361917ed8da5e4990fadc73977e98debad2fb808e02a858e7b7042e",
+      "bytes": 3555
+    },
+    "manifest.json": {
+      "sha256": "8967e98b194a4739d56fda65e1ef794a3efa7270b274f33fff89ee32dfb5f973",
+      "bytes": 29802
+    },
+    "field_contracts.json": {
+      "sha256": "640be0a3815b699d255a6b7b95ee074683176fb8318afe73e43bd9534958f120",
+      "bytes": 36840
+    },
+    "verification.json": {
+      "sha256": "fa63c49b1a8d3e79f1c9c7db6c693db5bbb5114b29eab5553ad05e6773908053",
+      "bytes": 724
+    },
+    "inputs_2019.csv": {
+      "sha256": "d9addff546574db23feb8b5a6aa6053e495c9284a091dcdbd6cb06682d4551f8",
+      "bytes": 40142
+    },
+    "metadata_2019.csv": {
+      "sha256": "b76221210235d67b4f9749d0ae54c5de428077ed749f4e68c94d1babde75396c",
+      "bytes": 2768
+    },
+    "inputs_2020.csv": {
+      "sha256": "a308576dcde60f4a0e02dc42df1f10e94e292a3cef7426feab7fc44402c891f2",
+      "bytes": 30803
+    },
+    "metadata_2020.csv": {
+      "sha256": "0ddffc5096938e9a4a45a1958bd72fde783af293e1dfabf1b4d572a2afb9ba4d",
+      "bytes": 2268
+    },
+    "inputs_2021.csv": {
+      "sha256": "4f9e741f7eebf5d165b0a87cdadea31f2a0caf05444ff58d6a1bb8540704de04",
+      "bytes": 68702
+    },
+    "metadata_2021.csv": {
+      "sha256": "0e64febcfdd3e6eecea8490f6a8ea67efcc5f101931f68c601aaac9ac592244a",
+      "bytes": 4688
+    },
+    "inputs_2022.csv": {
+      "sha256": "d357540da76b9c719972083c169a6005248c1d4ebfef29c39a9ddfef4c5564c0",
+      "bytes": 27679
+    },
+    "metadata_2022.csv": {
+      "sha256": "860e4da0ebd65050498fc2a81a709f8e4cb2f4befa23173832088ded7050cfea",
+      "bytes": 1968
+    },
+    "inputs_2023.csv": {
+      "sha256": "2e7b3d1ba1d0b548004d11a81587cc95ed924a15da6c4d586ef6174d7a6d1cc6",
+      "bytes": 28255
+    },
+    "metadata_2023.csv": {
+      "sha256": "2a6ad1c4cda09c4c552d29177ac976257177c0f2c4ebefbb9cab693fa16d4fee",
+      "bytes": 2048
+    },
+    "inputs_2024.csv": {
+      "sha256": "af50369481adbee12e9fab65e358aba4c02dee24675f2bfbb8abc41a7f53a9e3",
+      "bytes": 30904
+    },
+    "metadata_2024.csv": {
+      "sha256": "df6382421c51aece4bad3ff15d402754b167ec7a5b917c773ee4d021d3b3af5b",
+      "bytes": 2308
+    },
+    "inputs_2025.csv": {
+      "sha256": "2c78b52493d69bf85f9bc3d0854f656a272066bb2761901960e4c5d70f1be85c",
+      "bytes": 31110
+    },
+    "metadata_2025.csv": {
+      "sha256": "5c0ae6c801732da2154b364752bdded8d6673fc90419a132f10688b29a8fa0e8",
+      "bytes": 2148
+    }
+  },
+  "private_excluded": [
+    "private/"
+  ]
+}

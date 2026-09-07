@@ -1,0 +1,20 @@
+{
+  "unit_tests_passed": 6,
+  "test_file": "test_inputs.py",
+  "fp64_roundtrip_all7_matrix_hashes_exact": true,
+  "rows_preserved": 900,
+  "metadata_separate_from44_predictors": true,
+  "raw_index45_accessed": false,
+  "model_or_scoring_calls": 0,
+  "outcome_label_answer_files_read": 0,
+  "new_source_collection_requests": 0,
+  "authorized_server_read": "One SSH read projecting only pid,was_drafted from existing7 input files; private/membership_projection.json records projection hashes, not fabricated full-source hashes.",
+  "future_source_removal_cutoffs": [
+    2019,
+    2021,
+    2023
+  ],
+  "fifty_cache_cells_exact": 3020,
+  "old_context_replay_max_difference": 8.881784197001252e-16,
+  "model_eligible": false
+}

@@ -1,0 +1,942 @@
+[
+  {
+    "model_column": "ctx_base_ast_pct",
+    "physical_source_field": "ctx_base_ast_pct",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      11
+    ],
+    "definition": "Unchanged raw annual field; no scaling, repair or imputation.",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 87
+    }
+  },
+  {
+    "model_column": "ctx_base_ast_pg",
+    "physical_source_field": "ctx_base_ast_pg",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      60
+    ],
+    "definition": "Unchanged raw annual field; no scaling, repair or imputation.",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 86
+    }
+  },
+  {
+    "model_column": "ctx_base_ast_tov",
+    "physical_source_field": "ctx_base_ast_tov",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      35
+    ],
+    "definition": "Unchanged raw annual field; no scaling, repair or imputation.",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 86
+    }
+  },
+  {
+    "model_column": "ctx_base_blk_pct",
+    "physical_source_field": "ctx_base_blk_pct",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      22
+    ],
+    "definition": "Unchanged raw annual field; no scaling, repair or imputation.",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 87
+    }
+  },
+  {
+    "model_column": "ctx_base_blk_pg",
+    "physical_source_field": "ctx_base_blk_pg",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      62
+    ],
+    "definition": "Unchanged raw annual field; no scaling, repair or imputation.",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 86
+    }
+  },
+  {
+    "model_column": "ctx_base_drb",
+    "physical_source_field": "ctx_base_drb",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      10
+    ],
+    "definition": "Unchanged raw annual field; no scaling, repair or imputation.",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 87
+    }
+  },
+  {
+    "model_column": "ctx_base_dreb_pg",
+    "physical_source_field": "ctx_base_dreb_pg",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      58
+    ],
+    "definition": "Unchanged raw annual field; no scaling, repair or imputation.",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 86
+    }
+  },
+  {
+    "model_column": "ctx_base_dunk_attempts",
+    "physical_source_field": "ctx_base_dunk_attempts",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      43
+    ],
+    "definition": "Unchanged raw annual field; no scaling, repair or imputation.",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 86
+    }
+  },
+  {
+    "model_column": "ctx_base_dunk_made",
+    "physical_source_field": "ctx_base_dunk_made",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      42
+    ],
+    "definition": "Unchanged raw annual field; no scaling, repair or imputation.",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 86
+    }
+  },
+  {
+    "model_column": "ctx_base_efg",
+    "physical_source_field": "ctx_base_efg",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      7
+    ],
+    "definition": "Unchanged raw annual field; no scaling, repair or imputation.",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 87
+    }
+  },
+  {
+    "model_column": "ctx_base_fg2_pct",
+    "physical_source_field": "ctx_base_fg2_pct",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      18
+    ],
+    "definition": "Unchanged raw annual field; no scaling, repair or imputation.",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 87
+    }
+  },
+  {
+    "model_column": "ctx_base_fg2a",
+    "physical_source_field": "ctx_base_fg2a",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      17
+    ],
+    "definition": "Unchanged raw annual field; no scaling, repair or imputation.",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 87
+    }
+  },
+  {
+    "model_column": "ctx_base_fg2m",
+    "physical_source_field": "ctx_base_fg2m",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      16
+    ],
+    "definition": "Unchanged raw annual field; no scaling, repair or imputation.",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 87
+    }
+  },
+  {
+    "model_column": "ctx_base_fg3_pct",
+    "physical_source_field": "ctx_base_fg3_pct",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      21
+    ],
+    "definition": "Unchanged raw annual field; no scaling, repair or imputation.",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 87
+    }
+  },
+  {
+    "model_column": "ctx_base_fg3a",
+    "physical_source_field": "ctx_base_fg3a",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      20
+    ],
+    "definition": "Unchanged raw annual field; no scaling, repair or imputation.",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 87
+    }
+  },
+  {
+    "model_column": "ctx_base_fg3m",
+    "physical_source_field": "ctx_base_fg3m",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      19
+    ],
+    "definition": "Unchanged raw annual field; no scaling, repair or imputation.",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 87
+    }
+  },
+  {
+    "model_column": "ctx_base_fouls40",
+    "physical_source_field": "ctx_base_fouls40",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      30
+    ],
+    "definition": "Unchanged raw annual field; no scaling, repair or imputation.",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 87
+    }
+  },
+  {
+    "model_column": "ctx_base_ft_pct",
+    "physical_source_field": "ctx_base_ft_pct",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      15
+    ],
+    "definition": "Unchanged raw annual field; no scaling, repair or imputation.",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 87
+    }
+  },
+  {
+    "model_column": "ctx_base_ftr",
+    "physical_source_field": "ctx_base_ftr",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      24
+    ],
+    "definition": "Unchanged raw annual field; no scaling, repair or imputation.",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 87
+    }
+  },
+  {
+    "model_column": "ctx_base_gp",
+    "physical_source_field": "ctx_base_gp",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      3
+    ],
+    "definition": "Unchanged raw annual field; no scaling, repair or imputation.",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 87
+    }
+  },
+  {
+    "model_column": "ctx_base_mid_attempts",
+    "physical_source_field": "ctx_base_mid_attempts",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      39
+    ],
+    "definition": "Unchanged raw annual field; no scaling, repair or imputation.",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 86
+    }
+  },
+  {
+    "model_column": "ctx_base_minutes_share",
+    "physical_source_field": "ctx_base_minutes_share",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      4
+    ],
+    "definition": "Unchanged raw annual field; no scaling, repair or imputation.",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 87
+    }
+  },
+  {
+    "model_column": "ctx_base_mpg",
+    "physical_source_field": "ctx_base_mpg",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      54
+    ],
+    "definition": "Unchanged raw annual field; no scaling, repair or imputation.",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 86
+    }
+  },
+  {
+    "model_column": "ctx_base_orb",
+    "physical_source_field": "ctx_base_orb",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      9
+    ],
+    "definition": "Unchanged raw annual field; no scaling, repair or imputation.",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 87
+    }
+  },
+  {
+    "model_column": "ctx_base_oreb_pg",
+    "physical_source_field": "ctx_base_oreb_pg",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      57
+    ],
+    "definition": "Unchanged raw annual field; no scaling, repair or imputation.",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 86
+    }
+  },
+  {
+    "model_column": "ctx_base_pts_pg",
+    "physical_source_field": "ctx_base_pts_pg",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      63
+    ],
+    "definition": "Unchanged raw annual field; no scaling, repair or imputation.",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 86
+    }
+  },
+  {
+    "model_column": "ctx_base_rim_attempts",
+    "physical_source_field": "ctx_base_rim_attempts",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      37
+    ],
+    "definition": "Unchanged raw annual field; no scaling, repair or imputation.",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 86
+    }
+  },
+  {
+    "model_column": "ctx_base_rim_made",
+    "physical_source_field": "ctx_base_rim_made",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      36
+    ],
+    "definition": "Unchanged raw annual field; no scaling, repair or imputation.",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 86
+    }
+  },
+  {
+    "model_column": "ctx_base_stl_pct",
+    "physical_source_field": "ctx_base_stl_pct",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      23
+    ],
+    "definition": "Unchanged raw annual field; no scaling, repair or imputation.",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 87
+    }
+  },
+  {
+    "model_column": "ctx_base_stl_pg",
+    "physical_source_field": "ctx_base_stl_pg",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      61
+    ],
+    "definition": "Unchanged raw annual field; no scaling, repair or imputation.",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 86
+    }
+  },
+  {
+    "model_column": "ctx_base_three_share",
+    "physical_source_field": "ctx_base_three_share",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      17,
+      20
+    ],
+    "definition": "fg3a/(fg2a+fg3a), positive denominator",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 84,
+      "2025": 87
+    }
+  },
+  {
+    "model_column": "ctx_base_tov_pct",
+    "physical_source_field": "ctx_base_tov_pct",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      12
+    ],
+    "definition": "Unchanged raw annual field; no scaling, repair or imputation.",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 87
+    }
+  },
+  {
+    "model_column": "ctx_base_ts",
+    "physical_source_field": "ctx_base_ts",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      8
+    ],
+    "definition": "Unchanged raw annual field; no scaling, repair or imputation.",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 87
+    }
+  },
+  {
+    "model_column": "ctx_base_usage",
+    "physical_source_field": "ctx_base_usage",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      6
+    ],
+    "definition": "Unchanged raw annual field; no scaling, repair or imputation.",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 87
+    }
+  },
+  {
+    "model_column": "ctx_skill_creation_control",
+    "physical_source_field": "ctx_skill_creation_control",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      11,
+      12
+    ],
+    "definition": "ast_pct/(tov_pct+1), tov_pct>=0",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 87
+    }
+  },
+  {
+    "model_column": "ctx_skill_defense_discipline",
+    "physical_source_field": "ctx_skill_defense_discipline",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      22,
+      23,
+      30
+    ],
+    "definition": "(stl_pct+blk_pct)/(fouls40+1), fouls40>=0",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 87
+    }
+  },
+  {
+    "model_column": "ctx_skill_ft_volume",
+    "physical_source_field": "ctx_skill_ft_volume",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      14,
+      15
+    ],
+    "definition": "ft_pct*log1p(fta), fta>=0",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 87
+    }
+  },
+  {
+    "model_column": "ctx_skill_usage_efficiency",
+    "physical_source_field": "ctx_skill_usage_efficiency",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      6,
+      8
+    ],
+    "definition": "(usage-20)*(ts-50)/100",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 87
+    }
+  },
+  {
+    "model_column": "slot_037",
+    "physical_source_field": "vcons_mock_mean_rank",
+    "family": "dated_mock_ranks",
+    "raw_indices": [],
+    "definition": {
+      "unit": "mock rank positions",
+      "definition": "Arithmetic mean over one verified snapshot per observed publisher",
+      "missing_policy": "Unlisted or unmatched players stay missing; never impute actual pick, rank61 or rank0",
+      "extension_policy": "Same four aggregations. First15 serious Walter mocks are explicitly partial; others list60 ordinal slots. Never replace unlisted players with15/60/61 or use actual selection."
+    },
+    "date_proof": "Exact archived response before draft-day Eastern midnight AND explicit update calendar date before draft date.",
+    "identity": "Previously verified unique exact normalized same-cohort name; no new mapping.",
+    "nonmissing_by_cohort": {
+      "2019": 51,
+      "2020": 54,
+      "2021": 46,
+      "2022": 48,
+      "2023": 48,
+      "2024": 49,
+      "2025": 47
+    }
+  },
+  {
+    "model_column": "slot_038",
+    "physical_source_field": "vcons_mock_best_rank",
+    "family": "dated_mock_ranks",
+    "raw_indices": [],
+    "definition": {
+      "unit": "mock rank positions",
+      "definition": "Smallest numerical mock rank among observed publishers",
+      "missing_policy": "Unlisted or unmatched players stay missing; never impute actual pick, rank61 or rank0",
+      "extension_policy": "Same four aggregations. First15 serious Walter mocks are explicitly partial; others list60 ordinal slots. Never replace unlisted players with15/60/61 or use actual selection."
+    },
+    "date_proof": "Exact archived response before draft-day Eastern midnight AND explicit update calendar date before draft date.",
+    "identity": "Previously verified unique exact normalized same-cohort name; no new mapping.",
+    "nonmissing_by_cohort": {
+      "2019": 51,
+      "2020": 54,
+      "2021": 46,
+      "2022": 48,
+      "2023": 48,
+      "2024": 49,
+      "2025": 47
+    }
+  },
+  {
+    "model_column": "slot_039",
+    "physical_source_field": "vcons_mock_rank_range",
+    "family": "dated_mock_ranks",
+    "raw_indices": [],
+    "definition": {
+      "unit": "mock rank positions",
+      "definition": "Largest minus smallest observed publisher rank; missing unless at least two publishers list this player",
+      "missing_policy": "Unlisted or unmatched players stay missing; never impute actual pick, rank61 or rank0",
+      "extension_policy": "Same four aggregations. First15 serious Walter mocks are explicitly partial; others list60 ordinal slots. Never replace unlisted players with15/60/61 or use actual selection."
+    },
+    "date_proof": "Exact archived response before draft-day Eastern midnight AND explicit update calendar date before draft date.",
+    "identity": "Previously verified unique exact normalized same-cohort name; no new mapping.",
+    "nonmissing_by_cohort": {
+      "2019": 13,
+      "2020": 11,
+      "2021": 0,
+      "2022": 0,
+      "2023": 0,
+      "2024": 0,
+      "2025": 0
+    }
+  },
+  {
+    "model_column": "slot_040",
+    "physical_source_field": "vcons_mock_n_sources",
+    "family": "dated_mock_ranks",
+    "raw_indices": [],
+    "definition": {
+      "unit": "publisher count",
+      "definition": "Number of distinct verified publishers listing this exact player in this draft cohort",
+      "missing_policy": "Unlisted or unmatched players stay missing; never impute actual pick, rank61 or rank0",
+      "extension_policy": "Same four aggregations. First15 serious Walter mocks are explicitly partial; others list60 ordinal slots. Never replace unlisted players with15/60/61 or use actual selection."
+    },
+    "date_proof": "Exact archived response before draft-day Eastern midnight AND explicit update calendar date before draft date.",
+    "identity": "Previously verified unique exact normalized same-cohort name; no new mapping.",
+    "nonmissing_by_cohort": {
+      "2019": 51,
+      "2020": 54,
+      "2021": 46,
+      "2022": 48,
+      "2023": 48,
+      "2024": 49,
+      "2025": 47
+    }
+  },
+  {
+    "model_column": "slot_041",
+    "physical_source_field": "f50_career_slope_usage",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      6,
+      31
+    ],
+    "definition": "Original NumPy polyfit slope of usage against source season, at least2 finite distinct seasons; exact verified same source-player ID, no future seasons.",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 91,
+      "2020": 65,
+      "2021": 176,
+      "2022": 53,
+      "2023": 58,
+      "2024": 66,
+      "2025": 69
+    }
+  },
+  {
+    "model_column": "slot_042",
+    "physical_source_field": "f50_posterior_rim",
+    "family": "college_annual_candidate",
+    "raw_indices": [
+      36,
+      37
+    ],
+    "definition": "(rim_made+0.60*30)/(rim_attempts+30), finite0<=makes<=attempts. Fixed original prior, no empirical refit.",
+    "date_proof": "Known source season<=draft year; latest source year gap0or1; all history<=focal season. No per-game timestamp or historical publication date in annual tables.",
+    "identity": "Exact pinned source filename/zero-based row/team/source-player-ID plus allowed-value hash.",
+    "units": "Original frozen context/F50 units unchanged; percentage fields retain the source scale.",
+    "nonmissing_by_cohort": {
+      "2019": 112,
+      "2020": 84,
+      "2021": 199,
+      "2022": 76,
+      "2023": 77,
+      "2024": 85,
+      "2025": 86
+    }
+  }
+]
