@@ -1,0 +1,24 @@
+{
+  "study": "R9L",
+  "policy": "Root reviewed explicit saved development results; publication authorized by user. No datasets/private labels/K files. Archive content further constrained by ARCHIVE_ALLOWLIST.json.",
+  "files": {
+    "README.md": "dcd3de9353f2afc73459d2c4d081c9aebaf75490c8eace2508531c605c09f556",
+    "verify_saved.py": "e4e2637a9a7a0b669cb88dba1d95c09f914bd6b703758f6e03b5d6af9a73f179",
+    "run_verify.sh": "d7525b7c7a3a01fede6a8288def7b92b3ddc4b1654543674d7a78587e7988124",
+    "verification.json": "5212dabcd493534b78f52a2a5cd889a37d579428e0a3129f7fa827ca995f64b4",
+    "ARCHIVE_ALLOWLIST.json": "b52036d7069600ca40b876d5d1a58dcbd4b13ab2bf666a133de5a501ee64ff07",
+    "archive_manifest.json": "1335b172f075c9dce54710bb374455c6afe5b2afcf0b1764539f3d0c7915fb39",
+    "r9l_saved_results.tar.gz": "b42edde3fd26c88e72c396c70cf54f546cf050a7dc5e04e2622b5b2495530227",
+    "transport_verification.json": "b9d6f7b1051151ed0a2aa72024814cbf4e03164f97080c03af540cac49c66915"
+  },
+  "bytes": {
+    "README.md": 5583,
+    "verify_saved.py": 21445,
+    "run_verify.sh": 1253,
+    "verification.json": 17633,
+    "ARCHIVE_ALLOWLIST.json": 7308,
+    "archive_manifest.json": 426,
+    "r9l_saved_results.tar.gz": 3106663,
+    "transport_verification.json": 617
+  }
+}
