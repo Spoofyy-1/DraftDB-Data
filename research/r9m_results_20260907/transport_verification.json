@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "archive_sha256": "54f3c6388f015d4c2aae160820a67bd147738aad2333c96569a86e331be89d64",
+  "archive_bytes": 6898194,
+  "archive_members": 56,
+  "all_member_hashes_sizes_verified": true,
+  "no_extraction_or_duplicate_archive_copy": true,
+  "forbidden_json_label_identity_fields_absent": [
+    "actual_pick",
+    "label_value",
+    "legacy_truth",
+    "observed_truth_mask",
+    "private_identity",
+    "query_labels",
+    "training_labels",
+    "truth",
+    "y_true"
+  ],
+  "verifier_sha256": "40c5ca193f1fe9605f03af91f4d49bd658cad68d634d07e7da8ac79cfa261dd7",
+  "no_git_operations_performed": true
+}

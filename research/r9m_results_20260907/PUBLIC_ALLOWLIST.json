@@ -1,0 +1,28 @@
+{
+  "study": "R9M",
+  "policy": "Root-reviewed saved development results and verification only. User authorized repository storage. No input/scoring datasets, private labels or identities. Archive constrained by its explicit member allowlist.",
+  "files": {
+    "README.md": "e0313c31bbe7fbd5b80c91805ccafc216e5159927a50eaa0a50a19921b48e23e",
+    "verify_saved.py": "40c5ca193f1fe9605f03af91f4d49bd658cad68d634d07e7da8ac79cfa261dd7",
+    "run_verify.sh": "3c14aaaf89aff46ea82eb146a2f0fc75a7c9a51353c3e0ca79b444691b48b725",
+    "L_ARCHIVE_ALLOWLIST.json": "b52036d7069600ca40b876d5d1a58dcbd4b13ab2bf666a133de5a501ee64ff07",
+    "L_verification.json": "5212dabcd493534b78f52a2a5cd889a37d579428e0a3129f7fa827ca995f64b4",
+    "verification.json": "01fe1cd0c24b63e171b437bb8a680ac376b1438a035fa8b646e9bf72760e73e4",
+    "ARCHIVE_ALLOWLIST.json": "584823d434ff624611c0d00c5ec9db0c2777a27236f3ef31fe51d04dbdded219",
+    "archive_manifest.json": "c976673022accd6d52d6b92795ea39b6f281a6409b993f35308c91473cb7039c",
+    "r9m_saved_results.tar.gz": "54f3c6388f015d4c2aae160820a67bd147738aad2333c96569a86e331be89d64",
+    "transport_verification.json": "a12565ab24b4d3cc4bfabf781be6363af442a016239d8f2417bd74a8fa44bcdb"
+  },
+  "bytes": {
+    "README.md": 4734,
+    "verify_saved.py": 30052,
+    "run_verify.sh": 1253,
+    "L_ARCHIVE_ALLOWLIST.json": 7308,
+    "L_verification.json": 17633,
+    "verification.json": 23521,
+    "ARCHIVE_ALLOWLIST.json": 8753,
+    "archive_manifest.json": 426,
+    "r9m_saved_results.tar.gz": 6898194,
+    "transport_verification.json": 619
+  }
+}

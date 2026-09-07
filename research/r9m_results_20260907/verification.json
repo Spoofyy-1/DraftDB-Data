@@ -1,0 +1,786 @@
+{
+  "passed": true,
+  "study": "R9M",
+  "frozen_sha256": "32a9ac2ec968ebb281027020e5a244eb9a040d589318b3c5dd577da9ece27b00",
+  "plan_sha256": "cebfe908d2cf0d03bf9f2de6052d30ef8c8a1b7f8a1a23948b782750cc5247e3",
+  "frozen_files_verified": 105,
+  "result_records": 24,
+  "new_jobs": 18,
+  "new_registered_fits": 162,
+  "reused_control_records": 6,
+  "reused_original_fits": 54,
+  "saved_member_records_verified": 360,
+  "reused_control_member_vectors": 90,
+  "same_panel_score_records": 4128,
+  "cross_panel_score_records": 11400,
+  "same_panel_summaries_verified": 344,
+  "same_panel_comparisons_verified": 301,
+  "cross_panel_summaries_verified": 950,
+  "cross_panel_paired_reference_comparisons_verified": 1900,
+  "recipe_aliases_verified": 1824,
+  "maximum_score_absolute_difference": 2.220446049250313e-16,
+  "score_arithmetic": "Independent doubled tied ranks, centered math.fsum Pearson, exact member/tie/seed/blend arrays; scores and aggregates tolerance 2e-14. No coordinator or model imports.",
+  "runtime_sources_verified": 106,
+  "checkpoint_files_verified": 5,
+  "model_fits_performed": 0,
+  "gpu_devices_available": false,
+  "network_available": false,
+  "other_studies_mounted": false,
+  "no_2019plus_access": true,
+  "scoring_truth_exported": false,
+  "reused_controls_against_independent_L_archive": true,
+  "registered_gate_order": "Pinned scheduler calls the exact source gate before submission; first six durable log entries are reused controls. No independent historical process tracing.",
+  "widths": {
+    "base44": 44,
+    "add_f50": 92,
+    "f50_game": 107,
+    "f50_team": 112,
+    "f50_combine_team": 149,
+    "f50_combine": 129,
+    "f50_game_team": 127,
+    "f50_combine_game_team": 164
+  },
+  "cohort_contract": {
+    "2012": {
+      "full_query_rows": 55,
+      "observed_subset_rows": 28,
+      "training_rows": 176,
+      "max_label_season": 2011
+    },
+    "2013": {
+      "full_query_rows": 50,
+      "observed_subset_rows": 26,
+      "training_rows": 254,
+      "max_label_season": 2012
+    },
+    "2014": {
+      "full_query_rows": 53,
+      "observed_subset_rows": 28,
+      "training_rows": 328,
+      "max_label_season": 2013
+    }
+  },
+  "best_actual_multifamily_stack": {
+    "panel_id": "cross_panel",
+    "policy_id": "h_s2008_gap1_all_h1",
+    "architecture": "cross_0771",
+    "recipe": {
+      "id": "cross_0771",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 4,
+          "panel_id": "f50_game_team"
+        },
+        {
+          "family": "ridge_a30",
+          "units": 4,
+          "panel_id": "f50_game_team"
+        },
+        {
+          "family": "catboost",
+          "units": 4,
+          "panel_id": "base44"
+        }
+      ],
+      "weight_total": 12,
+      "design_aliases": [
+        {
+          "candidate": "f50_game_team",
+          "T_panel": "f50_game_team",
+          "R_panel": "f50_game_team",
+          "C_panel": "base44",
+          "same_panel_recipe": "stack_015"
+        }
+      ]
+    },
+    "member_control": false,
+    "multi_family_every_fold_seed": true,
+    "diagnostic_only": true,
+    "no_automatic_promotion": true,
+    "full": {
+      "mean_score": 0.42446990012264746,
+      "fold_scores": {
+        "2012": 0.37262381980495846,
+        "2013": 0.4148144907380172,
+        "2014": 0.48597138982496685
+      },
+      "seed_scores": {
+        "0": 0.43948315759937867,
+        "101": 0.4024539071655618,
+        "202": 0.4314726356030019
+      },
+      "fixed_three_seed_family_rank_average": 0.42308001483178015
+    },
+    "observed": {
+      "mean_score": 0.5069561499864694,
+      "fold_scores": {
+        "2012": 0.5419736756488307,
+        "2013": 0.3952114278168723,
+        "2014": 0.583683346493705
+      },
+      "seed_scores": {
+        "0": 0.5079228066411791,
+        "101": 0.4881302363496937,
+        "202": 0.5248154069685352
+      },
+      "fixed_three_seed_family_rank_average": 0.5272453657240946
+    },
+    "full_gain_vs_same_recipe_44": 0.04532087900637566,
+    "full_fold_gains_vs_44": {
+      "2012": 0.04871757574525176,
+      "2013": 0.029965769275679455,
+      "2014": 0.05727929199819587
+    },
+    "full_seed_gains_vs_44": {
+      "0": 0.049962409358404236,
+      "101": 0.04139942883633918,
+      "202": 0.04460079882438356
+    },
+    "full_gain_vs_same_recipe_f50": 0.05616504980471926,
+    "full_fold_gains_vs_f50": {
+      "2012": 0.051327568045769656,
+      "2013": 0.1752120557853029,
+      "2014": -0.05804447441691468
+    },
+    "full_seed_gains_vs_f50": {
+      "0": 0.07653840646279114,
+      "101": 0.051115760699624535,
+      "202": 0.04084098225174204
+    }
+  },
+  "best_same_panel_stack": {
+    "panel_id": "f50_game_team",
+    "policy_id": "h_s2008_gap1_all_h1",
+    "architecture": "stack_013",
+    "recipe": {
+      "id": "stack_013",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 9
+        },
+        {
+          "family": "ridge_a30",
+          "units": 3
+        }
+      ],
+      "weight_total": 12
+    },
+    "member_control": false,
+    "multi_family_every_fold_seed": true,
+    "diagnostic_only": true,
+    "no_automatic_promotion": true,
+    "full": {
+      "mean_score": 0.4180092326475242,
+      "fold_scores": {
+        "2012": 0.41078015179383626,
+        "2013": 0.34432623294160675,
+        "2014": 0.4989213132071299
+      },
+      "seed_scores": {
+        "0": 0.41623280377161903,
+        "101": 0.4161520080023396,
+        "202": 0.4216428861686142
+      },
+      "fixed_three_seed_family_rank_average": 0.42152221043615007
+    },
+    "observed": {
+      "mean_score": 0.4796408586931515,
+      "fold_scores": {
+        "2012": 0.509991423010927,
+        "2013": 0.36725391072025104,
+        "2014": 0.5616772423482764
+      },
+      "seed_scores": {
+        "0": 0.4757064021759893,
+        "101": 0.4837280425357448,
+        "202": 0.47948813136772056
+      },
+      "fixed_three_seed_family_rank_average": 0.4805389449299235
+    },
+    "full_gain_vs_same_recipe44": 0.05177208913040854,
+    "full_fold_gains_vs44": {
+      "2012": 0.03996170672656496,
+      "2013": 0.032321440773493415,
+      "2014": 0.08303311989116746
+    },
+    "full_seed_gains_vs44": {
+      "0": 0.050202610049004726,
+      "101": 0.04943748667028519,
+      "202": 0.055676170671935865
+    },
+    "all_fold_and_seed_means_improved": true
+  },
+  "best_standalone_control": {
+    "panel_id": "f50_game_team",
+    "policy_id": "h_s2008_gap1_all_h1",
+    "architecture": "control_tabicl",
+    "recipe": null,
+    "member_control": true,
+    "multi_family_every_fold_seed": false,
+    "diagnostic_only": true,
+    "no_automatic_promotion": true,
+    "full": {
+      "mean_score": 0.4035601816582227,
+      "fold_scores": {
+        "2012": 0.4057552746320486,
+        "2013": 0.3064841586939608,
+        "2014": 0.49844111164865873
+      },
+      "seed_scores": {
+        "0": 0.40411078783443394,
+        "101": 0.40176738242753185,
+        "202": 0.4048023747127023
+      },
+      "fixed_three_seed_family_rank_average": 0.4061499927935006
+    },
+    "observed": {
+      "mean_score": 0.4422241416980532,
+      "fold_scores": {
+        "2012": 0.45794563035942343,
+        "2013": 0.31116430613776486,
+        "2014": 0.5575624885969713
+      },
+      "seed_scores": {
+        "0": 0.4395188366423047,
+        "101": 0.4428029088918943,
+        "202": 0.44435067955996077
+      },
+      "fixed_three_seed_family_rank_average": 0.44063902248240366
+    },
+    "full_gain_vs_same_recipe44": 0.04809736476915305,
+    "full_fold_gains_vs44": {
+      "2012": 0.04550346627964175,
+      "2013": 0.010630804020936635,
+      "2014": 0.08815782400688055
+    },
+    "full_seed_gains_vs44": {
+      "0": 0.050179717939281665,
+      "101": 0.04309336463877772,
+      "202": 0.051019011729399544
+    },
+    "all_fold_and_seed_means_improved": true
+  },
+  "best_cross_panel_standalone_control": {
+    "panel_id": "cross_panel",
+    "policy_id": "h_s2008_gap1_all_h1",
+    "architecture": "cross_0734",
+    "recipe": {
+      "id": "cross_0734",
+      "kind": "fixed_rank_weights",
+      "members": [
+        {
+          "family": "tabicl",
+          "units": 12,
+          "panel_id": "f50_game_team"
+        }
+      ],
+      "weight_total": 12,
+      "design_aliases": [
+        {
+          "candidate": "f50_game_team",
+          "T_panel": "f50_game_team",
+          "R_panel": "base44",
+          "C_panel": "base44",
+          "same_panel_recipe": "stack_014"
+        },
+        {
+          "candidate": "f50_game_team",
+          "T_panel": "f50_game_team",
+          "R_panel": "base44",
+          "C_panel": "f50_game_team",
+          "same_panel_recipe": "stack_014"
+        },
+        {
+          "candidate": "f50_game_team",
+          "T_panel": "f50_game_team",
+          "R_panel": "f50_game_team",
+          "C_panel": "base44",
+          "same_panel_recipe": "stack_014"
+        },
+        {
+          "candidate": "f50_game_team",
+          "T_panel": "f50_game_team",
+          "R_panel": "f50_game_team",
+          "C_panel": "f50_game_team",
+          "same_panel_recipe": "stack_014"
+        }
+      ]
+    },
+    "member_control": true,
+    "multi_family_every_fold_seed": false,
+    "diagnostic_only": true,
+    "no_automatic_promotion": true,
+    "full": {
+      "mean_score": 0.4035601816582227,
+      "fold_scores": {
+        "2012": 0.4057552746320486,
+        "2013": 0.3064841586939608,
+        "2014": 0.49844111164865873
+      },
+      "seed_scores": {
+        "0": 0.40411078783443394,
+        "101": 0.40176738242753185,
+        "202": 0.4048023747127023
+      },
+      "fixed_three_seed_family_rank_average": 0.4061499927935006
+    },
+    "observed": {
+      "mean_score": 0.4422241416980532,
+      "fold_scores": {
+        "2012": 0.45794563035942343,
+        "2013": 0.31116430613776486,
+        "2014": 0.5575624885969713
+      },
+      "seed_scores": {
+        "0": 0.4395188366423047,
+        "101": 0.4428029088918943,
+        "202": 0.44435067955996077
+      },
+      "fixed_three_seed_family_rank_average": 0.44063902248240366
+    },
+    "full_gain_vs_same_recipe_44": 0.04809736476915305,
+    "full_fold_gains_vs_44": {
+      "2012": 0.04550346627964175,
+      "2013": 0.010630804020936635,
+      "2014": 0.08815782400688055
+    },
+    "full_seed_gains_vs_44": {
+      "0": 0.050179717939281665,
+      "101": 0.04309336463877772,
+      "202": 0.051019011729399544
+    },
+    "full_gain_vs_same_recipe_f50": 0.013727945642709294,
+    "full_fold_gains_vs_f50": {
+      "2012": 0.04379588377126198,
+      "2013": 0.043643933375110355,
+      "2014": -0.04625598021824445
+    },
+    "full_seed_gains_vs_f50": {
+      "0": 0.011818604725350013,
+      "101": 0.012067468978930684,
+      "202": 0.017297763223847074
+    }
+  },
+  "best_same_panel_by_panel": {
+    "base44": {
+      "panel_id": "base44",
+      "architecture": "stack_010",
+      "recipe": {
+        "id": "stack_010",
+        "kind": "fixed_rank_weights",
+        "members": [
+          {
+            "family": "tabicl",
+            "units": 6
+          },
+          {
+            "family": "ridge_a30",
+            "units": 3
+          },
+          {
+            "family": "catboost",
+            "units": 3
+          }
+        ],
+        "weight_total": 12
+      },
+      "multi_family_every_fold_seed": true,
+      "member_control": false,
+      "full": {
+        "mean_score": 0.381036872272636,
+        "fold_scores": {
+          "2012": 0.34339994321171335,
+          "2013": 0.368873093644101,
+          "2014": 0.43083757996209365
+        },
+        "seed_scores": {
+          "0": 0.38898531324517255,
+          "101": 0.3762501894400599,
+          "202": 0.3778751141326755
+        },
+        "fixed_three_seed_family_rank_average": 0.381965549979765
+      },
+      "observed": {
+        "mean_score": 0.43788326523272664,
+        "fold_scores": {
+          "2012": 0.47374177404202794,
+          "2013": 0.31356575365539446,
+          "2014": 0.5263422680007576
+        },
+        "seed_scores": {
+          "0": 0.4464219802090918,
+          "101": 0.4230145294601642,
+          "202": 0.4442132860289239
+        },
+        "fixed_three_seed_family_rank_average": 0.4425745930618725
+      }
+    },
+    "add_f50": {
+      "panel_id": "add_f50",
+      "architecture": "stack_013",
+      "recipe": {
+        "id": "stack_013",
+        "kind": "fixed_rank_weights",
+        "members": [
+          {
+            "family": "tabicl",
+            "units": 9
+          },
+          {
+            "family": "ridge_a30",
+            "units": 3
+          }
+        ],
+        "weight_total": 12
+      },
+      "multi_family_every_fold_seed": true,
+      "member_control": false,
+      "full": {
+        "mean_score": 0.40018712462325684,
+        "fold_scores": {
+          "2012": 0.3719715289433055,
+          "2013": 0.27353481179832667,
+          "2014": 0.5550550331281384
+        },
+        "seed_scores": {
+          "0": 0.398548172881869,
+          "101": 0.40379730944465847,
+          "202": 0.39821589154324316
+        },
+        "fixed_three_seed_family_rank_average": 0.3983522054131563
+      },
+      "observed": {
+        "mean_score": 0.42534494003241236,
+        "fold_scores": {
+          "2012": 0.43762201701055975,
+          "2013": 0.2770227316183324,
+          "2014": 0.5613900714683449
+        },
+        "seed_scores": {
+          "0": 0.4227577459431286,
+          "101": 0.43365355547199397,
+          "202": 0.4196235186821145
+        },
+        "fixed_three_seed_family_rank_average": 0.42080494237071814
+      }
+    },
+    "f50_game": {
+      "panel_id": "f50_game",
+      "architecture": "stack_013",
+      "recipe": {
+        "id": "stack_013",
+        "kind": "fixed_rank_weights",
+        "members": [
+          {
+            "family": "tabicl",
+            "units": 9
+          },
+          {
+            "family": "ridge_a30",
+            "units": 3
+          }
+        ],
+        "weight_total": 12
+      },
+      "multi_family_every_fold_seed": true,
+      "member_control": false,
+      "full": {
+        "mean_score": 0.4087193712911048,
+        "fold_scores": {
+          "2012": 0.42286748231655497,
+          "2013": 0.2602481281873588,
+          "2014": 0.5430425033694005
+        },
+        "seed_scores": {
+          "0": 0.4049042146991417,
+          "101": 0.40581664768037795,
+          "202": 0.4154372514937948
+        },
+        "fixed_three_seed_family_rank_average": 0.41049734154452483
+      },
+      "observed": {
+        "mean_score": 0.45265723472275776,
+        "fold_scores": {
+          "2012": 0.5202778496039583,
+          "2013": 0.28041964221696153,
+          "2014": 0.5572742123473535
+        },
+        "seed_scores": {
+          "0": 0.4460018755662354,
+          "101": 0.4461804414480659,
+          "202": 0.465789387153972
+        },
+        "fixed_three_seed_family_rank_average": 0.451648979997233
+      }
+    },
+    "f50_team": {
+      "panel_id": "f50_team",
+      "architecture": "stack_011",
+      "recipe": {
+        "id": "stack_011",
+        "kind": "fixed_rank_weights",
+        "members": [
+          {
+            "family": "tabicl",
+            "units": 6
+          },
+          {
+            "family": "ridge_a30",
+            "units": 6
+          }
+        ],
+        "weight_total": 12
+      },
+      "multi_family_every_fold_seed": true,
+      "member_control": false,
+      "full": {
+        "mean_score": 0.4008901513772354,
+        "fold_scores": {
+          "2012": 0.3595425166407338,
+          "2013": 0.3541069668280727,
+          "2014": 0.4890209706628996
+        },
+        "seed_scores": {
+          "0": 0.4037750731529323,
+          "101": 0.3962543538013208,
+          "202": 0.402641027177453
+        },
+        "fixed_three_seed_family_rank_average": 0.40008382426202976
+      },
+      "observed": {
+        "mean_score": 0.4850843511394095,
+        "fold_scores": {
+          "2012": 0.5407329263067541,
+          "2013": 0.36302556005159015,
+          "2014": 0.5514945670598844
+        },
+        "seed_scores": {
+          "0": 0.48759553160492725,
+          "101": 0.48383455913306506,
+          "202": 0.4838229626802364
+        },
+        "fixed_three_seed_family_rank_average": 0.48191731263871745
+      }
+    },
+    "f50_combine_team": {
+      "panel_id": "f50_combine_team",
+      "architecture": "stack_011",
+      "recipe": {
+        "id": "stack_011",
+        "kind": "fixed_rank_weights",
+        "members": [
+          {
+            "family": "tabicl",
+            "units": 6
+          },
+          {
+            "family": "ridge_a30",
+            "units": 6
+          }
+        ],
+        "weight_total": 12
+      },
+      "multi_family_every_fold_seed": true,
+      "member_control": false,
+      "full": {
+        "mean_score": 0.39718707488209076,
+        "fold_scores": {
+          "2012": 0.3709968456211515,
+          "2013": 0.28625864849719596,
+          "2014": 0.534305730527925
+        },
+        "seed_scores": {
+          "0": 0.395672177962947,
+          "101": 0.3973050950677444,
+          "202": 0.39858395161558097
+        },
+        "fixed_three_seed_family_rank_average": 0.39584466729050255
+      },
+      "observed": {
+        "mean_score": 0.41701145454166677,
+        "fold_scores": {
+          "2012": 0.42173252898517083,
+          "2013": 0.2790178550919254,
+          "2014": 0.5502839795479041
+        },
+        "seed_scores": {
+          "0": 0.4192725468075898,
+          "101": 0.4210768699241391,
+          "202": 0.41068494689327145
+        },
+        "fixed_three_seed_family_rank_average": 0.41364808034917183
+      }
+    },
+    "f50_combine": {
+      "panel_id": "f50_combine",
+      "architecture": "stack_013",
+      "recipe": {
+        "id": "stack_013",
+        "kind": "fixed_rank_weights",
+        "members": [
+          {
+            "family": "tabicl",
+            "units": 9
+          },
+          {
+            "family": "ridge_a30",
+            "units": 3
+          }
+        ],
+        "weight_total": 12
+      },
+      "multi_family_every_fold_seed": true,
+      "member_control": false,
+      "full": {
+        "mean_score": 0.3668228785159961,
+        "fold_scores": {
+          "2012": 0.3882550380622181,
+          "2013": 0.212310947204525,
+          "2014": 0.4999026502812451
+        },
+        "seed_scores": {
+          "0": 0.36411149102812734,
+          "101": 0.37397375246186937,
+          "202": 0.3623833920579915
+        },
+        "fixed_three_seed_family_rank_average": 0.3711753472780858
+      },
+      "observed": {
+        "mean_score": 0.36848838699964626,
+        "fold_scores": {
+          "2012": 0.3867876434638813,
+          "2013": 0.23026491439941985,
+          "2014": 0.4884126031356377
+        },
+        "seed_scores": {
+          "0": 0.3730990132539959,
+          "101": 0.37121958191176657,
+          "202": 0.3611465658331763
+        },
+        "fixed_three_seed_family_rank_average": 0.37285225485300405
+      }
+    },
+    "f50_game_team": {
+      "panel_id": "f50_game_team",
+      "architecture": "stack_013",
+      "recipe": {
+        "id": "stack_013",
+        "kind": "fixed_rank_weights",
+        "members": [
+          {
+            "family": "tabicl",
+            "units": 9
+          },
+          {
+            "family": "ridge_a30",
+            "units": 3
+          }
+        ],
+        "weight_total": 12
+      },
+      "multi_family_every_fold_seed": true,
+      "member_control": false,
+      "full": {
+        "mean_score": 0.41800923264752426,
+        "fold_scores": {
+          "2012": 0.41078015179383615,
+          "2013": 0.34432623294160675,
+          "2014": 0.4989213132071299
+        },
+        "seed_scores": {
+          "0": 0.41623280377161914,
+          "101": 0.4161520080023396,
+          "202": 0.4216428861686141
+        },
+        "fixed_three_seed_family_rank_average": 0.42152221043615
+      },
+      "observed": {
+        "mean_score": 0.4796408586931515,
+        "fold_scores": {
+          "2012": 0.509991423010927,
+          "2013": 0.36725391072025104,
+          "2014": 0.5616772423482764
+        },
+        "seed_scores": {
+          "0": 0.4757064021759893,
+          "101": 0.4837280425357447,
+          "202": 0.47948813136772056
+        },
+        "fixed_three_seed_family_rank_average": 0.4805389449299235
+      }
+    },
+    "f50_combine_game_team": {
+      "panel_id": "f50_combine_game_team",
+      "architecture": "stack_011",
+      "recipe": {
+        "id": "stack_011",
+        "kind": "fixed_rank_weights",
+        "members": [
+          {
+            "family": "tabicl",
+            "units": 6
+          },
+          {
+            "family": "ridge_a30",
+            "units": 6
+          }
+        ],
+        "weight_total": 12
+      },
+      "multi_family_every_fold_seed": true,
+      "member_control": false,
+      "full": {
+        "mean_score": 0.40180606293382715,
+        "fold_scores": {
+          "2012": 0.4176997235867581,
+          "2013": 0.2550257586106626,
+          "2014": 0.5326927066040607
+        },
+        "seed_scores": {
+          "0": 0.4046954557653235,
+          "101": 0.4062291356005918,
+          "202": 0.3944935974355661
+        },
+        "fixed_three_seed_family_rank_average": 0.40377690588391824
+      },
+      "observed": {
+        "mean_score": 0.41779745101287824,
+        "fold_scores": {
+          "2012": 0.48149235271369023,
+          "2013": 0.2215254712853766,
+          "2014": 0.550374529039568
+        },
+        "seed_scores": {
+          "0": 0.4221919770232483,
+          "101": 0.41658172754860123,
+          "202": 0.4146186484667853
+        },
+        "fixed_three_seed_family_rank_average": 0.4150175386171866
+      }
+    }
+  },
+  "source_hashes": {
+    "plan.json": "cebfe908d2cf0d03bf9f2de6052d30ef8c8a1b7f8a1a23948b782750cc5247e3",
+    "results/completed.jsonl": "759257056432fce91e7d4d605bb60ebe824b41fcba407cb7d98bbe7c9bb31d7d",
+    "results/result_manifest.json": "bd8cfe4efd99eea769ba4ea0df827148ca1bf0f23d5273893f2ed8bab700ddf8",
+    "results/stack_diagnostics.json": "8920cb831f4eb7a2e56fd9d36098678983993c8e7cd59ed3d1a3bc56a89374be",
+    "results/reference_gate.json": "3f3eebd52af0dd5b27887bd272982d5e2d8a090d7e54d93f9cfbbd9141b64d13",
+    "source_refs/manifest.json": "6db6a92c927be7cc4b88bad555a8df4291bb4a98e3012128d4837ce9771429da",
+    "launch_authorization.json": "86042cd95a0757fd9fe6522500c6d3842815a66712f746fbb027424acd952ece"
+  },
+  "verifier_sha256": "40c5ca193f1fe9605f03af91f4d49bd658cad68d634d07e7da8ac79cfa261dd7",
+  "limitations": [
+    "Retrospective feature vintage, incomplete original population, source identity/coverage caveats remain. Scoped diagnostic admission only.",
+    "Changing family width changes model preprocessing/ensemble permutations; real-family versus44 difference is not a matched-shuffle information test.",
+    "No2019+ inputs, outcomes or scores; no learned weights or outer-query truth in worker.",
+    "Cross-panel view and weight search reuse the same development folds; final best recipe is a search diagnostic, not a certified goal result.",
+    "Development full-pool correlation is primary. Complete-outcome subset is secondary; no goal attainment or unbiased holdout claim.",
+    "950 cross recipes plus same-panel recipes were examined on the same three development folds. Selection optimism remains.",
+    "Fixed three-seed family-rank averaging differs from mean fold/seed correlation.",
+    "Audit consistency and pinned scheduler ordering do not replace independent historical process tracing."
+  ]
+}
