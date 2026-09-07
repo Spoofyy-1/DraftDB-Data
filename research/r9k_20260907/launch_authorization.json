@@ -1,0 +1,20 @@
+{
+  "model_fits_authorized": true,
+  "queue_enabled": true,
+  "plan_sha256": "92db2563c5eddc29e5e98692285e609c6f4113bc6b004fe35f4f340c17e699f8",
+  "frozen_sha256": "54892b6f5efdc302ac4581d23a59b093ef3e9bd42f4db511799cc3e3b75ad975",
+  "cpu_preflight_sha256": "46242abac16efb3ae3cd5d327418fd9f24c69cc6a2c3cdcea7823e290f5484d5",
+  "J_frozen_sha256": "05bf210e7dda4fa78aa0add4b9b1501f4194071f5395ac6dceb04824602a1432",
+  "root_final_review_passed": true,
+  "tasks": 12,
+  "model_fits": 420,
+  "workers": 4,
+  "runtime_seconds": 10800,
+  "memory_GiB": 140,
+  "CPU_quota_percent": 2200,
+  "queue_runtime_seconds": 28800,
+  "no_2019_plus_scoring": true,
+  "no_J_score_dependent_selection": true,
+  "no_automatic_retry_or_promotion": true,
+  "created": 1788775425.164587
+}

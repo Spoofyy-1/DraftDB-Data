@@ -1,0 +1,22 @@
+{
+  "status": "ready_CPU_only_no_models",
+  "remote_export_root": "/home/ubuntu/nba/handoff/r9k_label_exports",
+  "remote_export_root_manifest_sha256": "1912b980979eaf6f264083fef4a42390b7eb2533be5f879b2a4d1684b57f55df",
+  "all_six_exports_reopened_and_independently_verified": true,
+  "H_controls_exact_and_cutoff_broker_reverified": true,
+  "source_unchanged": true,
+  "private_training_arrays_remain_server_only": true,
+  "verification_code_sha256": {
+    "build.py": "6b89764345f5920d383540d1138977217c94cbd7cbca1de33f2ea718437676f7",
+    "test_build.py": "f861fcf54274fcaa03d36089776e9797f9d72e7960c72f4a241271239affbb5a",
+    "verify_exports.py": "241c4ff66b9f137dc0378bfaca247e2d4639cb59334586330fa2d8e3b43777f2"
+  },
+  "files": {
+    "README.md": "55e91b62776be54b088ba81c9f1aa2c55756be05499cf91e023c797a1642fe50",
+    "tests.json": "6cfd16e3e5efe4b6d54144138d16aeafc588ee6b7ca0c430f0f025a87af99f80",
+    "server_tests.json": "6cfd16e3e5efe4b6d54144138d16aeafc588ee6b7ca0c430f0f025a87af99f80",
+    "export_manifest.json": "1912b980979eaf6f264083fef4a42390b7eb2533be5f879b2a4d1684b57f55df",
+    "export_verification.json": "b117f76fc0895249ad5eab043c0b2a7fdb768bf3006cb33acb62203f24087221"
+  },
+  "no_automatic_publication": true
+}

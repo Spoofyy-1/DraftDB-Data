@@ -1,0 +1,18 @@
+{
+  "stack_core_tests": 7,
+  "label_cutoff_tests": 8,
+  "panel_integrity_tests": 6,
+  "scorer_metric_tests": 2,
+  "atomic_publication_interruption_replay_conflict_checks": 3,
+  "all_passed": true,
+  "model_fits": 0,
+  "checked_code_sha256": {
+    "stack_core.py": "13ae0786b14d70edb40f50beb3de057077be9461e9e0d411cbe4c5debe3333f8",
+    "postprocess.py": "e009667a8470019f9497222f56696da1980bcafccbc5f10311991b21d6ba2036",
+    "worker.py": "d6bded3fbbf4817f997b7b083035f0da6d7c4bb6b1b7782e57297273f273ec5d",
+    "research.py": "ad4070a7c4abf5f675d6e6c79394f588229291d7f5d68a41a801ed0780f04152",
+    "run_task_sandbox.sh": "e1094933b94361892f358f63499fbce4f0bcf92483b45ba56832783c5d6ba59e",
+    "wait_for_j_then_launch.py": "a2fe4e6c6625dcb45d72dd048060bf948a2f9967534697a4ca946820e3fc67f6"
+  },
+  "independent_scheduler_review": "Isolation, J gates,384count andmultifamilyreporting reviewed; atomicpublication blockerfixed andtested; exact resultpath+keyset/weightchecksadded"
+}

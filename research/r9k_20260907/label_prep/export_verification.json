@@ -1,0 +1,72 @@
+{
+  "passed": true,
+  "exports_verified": 6,
+  "models_run": 0,
+  "source_hashes_unchanged": true,
+  "all_permissions_private": true,
+  "NPZ_keys_exact_and_no_X_or_query_truth": true,
+  "verification_code_sha256": "241c4ff66b9f137dc0378bfaca247e2d4639cb59334586330fa2d8e3b43777f2",
+  "export_root_manifest_sha256": "1912b980979eaf6f264083fef4a42390b7eb2533be5f879b2a4d1684b57f55df",
+  "records": [
+    {
+      "policy": "h_s2000_gap1_drafted_h2",
+      "year": 2012,
+      "rows": 423,
+      "all_facts_contiguous_and_cutoff_eligible": true,
+      "independent_discount_cumulative_and_scipy_rankdata_replay_exact": true,
+      "array_and_fact_hashes_exact": true,
+      "known_zero_season_facts": 0,
+      "zero_raw_target_rows": 0
+    },
+    {
+      "policy": "prefix_s2007_gap1_all_d085",
+      "year": 2012,
+      "rows": 236,
+      "all_facts_contiguous_and_cutoff_eligible": true,
+      "independent_discount_cumulative_and_scipy_rankdata_replay_exact": true,
+      "array_and_fact_hashes_exact": true,
+      "known_zero_season_facts": 1,
+      "zero_raw_target_rows": 1
+    },
+    {
+      "policy": "h_s2000_gap1_drafted_h2",
+      "year": 2013,
+      "rows": 470,
+      "all_facts_contiguous_and_cutoff_eligible": true,
+      "independent_discount_cumulative_and_scipy_rankdata_replay_exact": true,
+      "array_and_fact_hashes_exact": true,
+      "known_zero_season_facts": 0,
+      "zero_raw_target_rows": 0
+    },
+    {
+      "policy": "prefix_s2007_gap1_all_d085",
+      "year": 2013,
+      "rows": 315,
+      "all_facts_contiguous_and_cutoff_eligible": true,
+      "independent_discount_cumulative_and_scipy_rankdata_replay_exact": true,
+      "array_and_fact_hashes_exact": true,
+      "known_zero_season_facts": 1,
+      "zero_raw_target_rows": 1
+    },
+    {
+      "policy": "h_s2000_gap1_drafted_h2",
+      "year": 2014,
+      "rows": 514,
+      "all_facts_contiguous_and_cutoff_eligible": true,
+      "independent_discount_cumulative_and_scipy_rankdata_replay_exact": true,
+      "array_and_fact_hashes_exact": true,
+      "known_zero_season_facts": 0,
+      "zero_raw_target_rows": 0
+    },
+    {
+      "policy": "prefix_s2007_gap1_all_d085",
+      "year": 2014,
+      "rows": 389,
+      "all_facts_contiguous_and_cutoff_eligible": true,
+      "independent_discount_cumulative_and_scipy_rankdata_replay_exact": true,
+      "array_and_fact_hashes_exact": true,
+      "known_zero_season_facts": 2,
+      "zero_raw_target_rows": 1
+    }
+  ]
+}

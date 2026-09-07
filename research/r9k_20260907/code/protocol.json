@@ -1,0 +1,165 @@
+{
+  "study": "R9k cutoff-safe OOF stacking prototype",
+  "status": "Frozen preregistration awaiting CPU proof and root launch approval",
+  "seeds": [
+    0,
+    101,
+    202
+  ],
+  "outer_years": [
+    2012,
+    2013,
+    2014
+  ],
+  "families": [
+    "xgb_q25",
+    "tabicl",
+    "ridge"
+  ],
+  "architectures": [
+    "equal_three_direct",
+    "fixed_coverage_direct",
+    "fixed_coverage_residual",
+    "learned_global_nonnegative_meta"
+  ],
+  "panel_contract": "44: exact H44;174: exact H44 followed by130 verified-source additions in sorted source-qualified order. Same1428 historical population; only admitted outer training rows supplied to each job.",
+  "label_contract": {
+    "h_s2000_gap1_drafted_h2": "Exact H historically-drafted population from2000, both finite observed ordinal1+2; preserve source cumulative WAR and target arrays; everyfact calendar<=Y-1.",
+    "prefix_s2007_gap1_all_d085": "All available candidates from2007, earlier cohorts, first contiguous finite observed ordinals1..m,m<=5, season_end<=Y-1; label_value=sum(0.85**(ordinal-1)*WAR) over observed prefix only, no padding or invented zeros.",
+    "transform": "Clip label_value\u00b140 then cohort average-tied Gaussian rank, admitted rows only; inner targets recomputed on inner training rows only."
+  },
+  "inner_folds": {
+    "count": 3,
+    "assignment": "int(SHA256(pid).hexdigest(),16)%3, independent of labels and model seed",
+    "minimum_training_rows": 20,
+    "minimum_held_rows": 1,
+    "target_normalization": "Recompute clipped\u00b140 within-cohort Gaussian rank on inner training label_value only. Full outer targets are recomputed and must exactly match root frozen targets. Held-row label values may not affect its member fit or selector."
+  },
+  "selector": {
+    "model": "XGBRegressor",
+    "parameters": {
+      "objective": "reg:squarederror",
+      "max_depth": 3,
+      "n_estimators": 300,
+      "learning_rate": 0.05,
+      "subsample": 0.8,
+      "colsample_bytree": 0.6,
+      "n_jobs": 2,
+      "device": "cuda",
+      "tree_method": "hist",
+      "random_state": 11
+    },
+    "top_k": 100,
+    "order": "descending(importance,column_name) as original selector",
+    "applies_to": "TabICL only; Ridge and q25XGB use full panel",
+    "fit_scope": "each inner training subset and full outer training only, shared across three seeds"
+  },
+  "tabicl": {
+    "device": "cuda",
+    "n_estimators": 32,
+    "batch_size": 32,
+    "norm_methods": "none",
+    "outlier_threshold": 2.0
+  },
+  "ridge": {
+    "alpha": 300.0,
+    "solver": "auto",
+    "preprocessing": "training mean and sample standard deviation(ddof1); zero std->1; standardized NaN->0, matching original honest.py Ridge; no missing indicators"
+  },
+  "xgb_q25": {
+    "objective": "reg:quantileerror",
+    "quantile_alpha": 0.25,
+    "max_depth": 3,
+    "learning_rate": 0.02,
+    "n_estimators": 800,
+    "subsample": 0.7,
+    "device": "cuda",
+    "tree_method": "hist",
+    "colsample_bytree": 0.5,
+    "min_child_weight": 8,
+    "reg_lambda": 5.0,
+    "reg_alpha": 1.0,
+    "n_jobs": 2,
+    "monotone_constraints": {}
+  },
+  "meta": {
+    "model": "scipy.optimize.nnls",
+    "inputs": "three direct-member OOF average-tied percentile ranks",
+    "target": "average-tied percentile rank of fixed outer training target",
+    "intercept": false,
+    "normalize_nonnegative_weights_to_sum_one": true,
+    "zero_weight_sum_fallback": "equal3, explicitly audited",
+    "outer_query_labels_accessible": false,
+    "residual_member_excluded": true,
+    "scope": "outer training labels only; never outer validation truth or earlier-fold long-horizon evaluation metrics"
+  },
+  "residual": {
+    "target": "pct_rank(full_outer_target)-pct_rank(cross_fitted_OOF_TabICL)",
+    "query": "pct_rank(full_outer_TabICL_query)+q25XGB_residual_prediction",
+    "member_ranked_before_stack": true,
+    "nested_OOF_residual_for_meta": false,
+    "reuse_existing_OOF_TabICL": true
+  },
+  "coverage": {
+    "measurement": "fraction of finite values in complete raw feature panel; metadata never predictors",
+    "thin": "strictly below query cohort median",
+    "rich_weights": {
+      "xgb_q25": 0.0,
+      "tabicl": 0.25,
+      "ridge": 0.75
+    },
+    "thin_weights": {
+      "xgb_q25": 1.0,
+      "tabicl": 0.0,
+      "ridge": 0.0
+    },
+    "interpretation": "restored family-weight mechanism on admitted panel; not exact original EVOgen11 data/model reconstruction"
+  },
+  "computation": {
+    "per_outer_payload_panel_all3seeds": {
+      "selectors": 4,
+      "Ridge_fits": 4,
+      "TabICL_fits": 12,
+      "direct_q25XGB_fits": 12,
+      "residual_q25XGB_fits": 3,
+      "total": 35
+    },
+    "shared_across_seeds": [
+      "deterministic innerfold assignment",
+      "four selectors",
+      "four deterministic Ridge fits"
+    ],
+    "one_OOF_TabICL_fit_per_innerfold_seed": true,
+    "data_axes_frozen": true,
+    "panel_count": 2,
+    "policy_count": 2,
+    "outer_fold_count": 3,
+    "task_count": 12,
+    "total_model_fits": 420,
+    "job_unit": "one panel\u00d7policy\u00d7outer-year job holds all3seeds and shares selectors/Ridge"
+  },
+  "output_contract": [
+    "all raw/canonical inner-held and outer-query predictions",
+    "every inner train/held PID and matrix/target hash",
+    "selected columns/importances/selectortrainhash",
+    "Ridge fit mean/std and input PID hashes",
+    "nonnegative OOF metaweights and training design/target hashes",
+    "residual training target hash",
+    "four architecture scores plus member controls on full and observed masks, scoring in separate caller"
+  ],
+  "limitations": [
+    "Pre2019 development reuse; no unbiased best-architecture score claim",
+    "OOF splits are cross-fitting of outer-cutoff training data, not simulated earlier draft-date predictions",
+    "No2019+inputs/outcomes/scoring or I/J result-dependent changes",
+    "Proper cutoff controls do not certify retrospective feature vintage or original player-pool completeness",
+    "Broad174 admission is diagnostic: original population incomplete; retrospective annual statistics, source coverage and inherited identity matches are not fully certified to original publication dates. No global certification upgrade."
+  ],
+  "panel_ids": [
+    44,
+    174
+  ],
+  "policy_ids": [
+    "h_s2000_gap1_drafted_h2",
+    "prefix_s2007_gap1_all_d085"
+  ]
+}

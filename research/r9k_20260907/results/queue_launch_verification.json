@@ -1,0 +1,15 @@
+{
+  "status": "waiting",
+  "queue_unit": "draftdb-r9k-queue-20260907",
+  "invocation": "7803439b93994b9392152671cd06d7b3",
+  "systemd_active_state": "active",
+  "systemd_result": "success",
+  "waiting_for": "R9j clean completion",
+  "models_started": false,
+  "latest_GPU_percent": 99,
+  "latest_VRAM_MiB": 39952,
+  "frozen_files_verified": 60,
+  "preflight_tasks": 12,
+  "model_fits_registered": 420,
+  "publication_contains_no_cutoff_labels_or_raw_worker_outputs": true
+}

@@ -1,0 +1,21 @@
+{
+  "tests_passed": 6,
+  "exact_H_matrix_replays": 66,
+  "paired_H44_all1428_values_and_masks_exact": true,
+  "all130_added_columns_equal_source_leftjoin": true,
+  "source_order_reversal_invariant": true,
+  "duplicate_and_cohort_conflict_rejected": true,
+  "future_or_quarantined_game_and_bio_sources_rejected": true,
+  "FP64roundtrip_exact_both_panels": true,
+  "forbidden_columns_excluded": [
+    "ctx_base_fta",
+    "ctx_base_ftm",
+    "ctx_base_mid_made",
+    "actual_pick",
+    "WAR",
+    "target"
+  ],
+  "models_or_label_files_accessed": false,
+  "new_source_collection": false,
+  "authorized_transfer": "Only pinned1428-row pre2019 H featureCSV from existingserverbundle."
+}

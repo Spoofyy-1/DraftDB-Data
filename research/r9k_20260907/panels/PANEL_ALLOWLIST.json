@@ -1,0 +1,42 @@
+{
+  "policy": "Input-only diagnosticpanels/code/metadata; no privateidentity or outcome/label files. Publish onlyafter parentreview.",
+  "model_eligible": false,
+  "files": {
+    "pairedpanel44.csv": {
+      "sha256": "765d301a667b7d0075ea7b2ecd8f04f51a398d674038240af1cb55056fa7f39a",
+      "bytes": 404070
+    },
+    "panel174.csv": {
+      "sha256": "a5147d57b273d44d052e4a15a4cd75007a1297c38d7f150b284a1adfda3ca23c",
+      "bytes": 1584391
+    },
+    "base_H44_physical.csv": {
+      "sha256": "aab8203ed6e9bcc46fbb1eee1c0b4baa94e2568ca2d103d232690960779693c6",
+      "bytes": 404142
+    },
+    "panel_manifest.json": {
+      "sha256": "cd95bb4aac53de85b3099af44877ed98b4de22fb9067fc21b6f61f5bac5f2588",
+      "bytes": 44720
+    },
+    "panel_contracts.json": {
+      "sha256": "1be8b67f0e6f5a9022d03316340148ec32fa2772dba8085057b5164c3243dfa8",
+      "bytes": 11319
+    },
+    "panel_verification.json": {
+      "sha256": "1897e3b97cf0e143fa06d40bfe89eff1cbefcb8e936dd8ed021157597d5a6a88",
+      "bytes": 682
+    },
+    "build_panels.py": {
+      "sha256": "eddf9e08d60e127229b7fdde8bf909cc8fc6a800f83eafb49b20d71f58b97eb3",
+      "bytes": 13134
+    },
+    "test_panels.py": {
+      "sha256": "48be92f77ceaefba79df3fe7ca343d319001f00a774f9aed8284c4d44ff2e393",
+      "bytes": 4840
+    },
+    "PANELS.md": {
+      "sha256": "1a30886588492b660d0f119006d921dfdab8d948e8f97127bbb040c7b10d4296",
+      "bytes": 2187
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "study": "R9k cutoff-safe OOF stacking and paired source panels",
+  "target_percent": 55,
+  "status": "CPU registration; launch requires preflight and frozen authorization",
+  "outer_years": [
+    2012,
+    2013,
+    2014
+  ],
+  "seeds": [
+    0,
+    101,
+    202
+  ],
+  "tasks": [
+    {
+      "id": "panel44_h_s2000_gap1_drafted_h2_y2012",
+      "panel_id": "panel44",
+      "policy_id": "h_s2000_gap1_drafted_h2",
+      "outer_year": 2012,
+      "input_manifest_sha256": "9ca2dc12f46b6e2d5274c697ccdec2734f195fc3677a4346ca85be14d97b1a9e",
+      "training_rows": 423,
+      "query_rows": 55
+    },
+    {
+      "id": "panel174_h_s2000_gap1_drafted_h2_y2012",
+      "panel_id": "panel174",
+      "policy_id": "h_s2000_gap1_drafted_h2",
+      "outer_year": 2012,
+      "input_manifest_sha256": "4b9abaa74e35f36359dd444281cc830f371530c7cb54a8b3a4a9f34d2faf8ed3",
+      "training_rows": 423,
+      "query_rows": 55
+    },
+    {
+      "id": "panel44_prefix_s2007_gap1_all_d085_y2012",
+      "panel_id": "panel44",
+      "policy_id": "prefix_s2007_gap1_all_d085",
+      "outer_year": 2012,
+      "input_manifest_sha256": "39a055bc7f753d23e0e2b2bcb477fb53c06a35e051ad0284780dc3fff478db0b",
+      "training_rows": 236,
+      "query_rows": 55
+    },
+    {
+      "id": "panel174_prefix_s2007_gap1_all_d085_y2012",
+      "panel_id": "panel174",
+      "policy_id": "prefix_s2007_gap1_all_d085",
+      "outer_year": 2012,
+      "input_manifest_sha256": "a9865352caec5d5d558d22f54ce80a390cb50b991756ace6f191f00d2e5000df",
+      "training_rows": 236,
+      "query_rows": 55
+    },
+    {
+      "id": "panel44_h_s2000_gap1_drafted_h2_y2013",
+      "panel_id": "panel44",
+      "policy_id": "h_s2000_gap1_drafted_h2",
+      "outer_year": 2013,
+      "input_manifest_sha256": "89eb616a3b3fb6fe61344062c9bfa126359e2131c1c0a2096e89918e4c404a40",
+      "training_rows": 470,
+      "query_rows": 50
+    },
+    {
+      "id": "panel174_h_s2000_gap1_drafted_h2_y2013",
+      "panel_id": "panel174",
+      "policy_id": "h_s2000_gap1_drafted_h2",
+      "outer_year": 2013,
+      "input_manifest_sha256": "9412a5ed51a1b79812b7911de4df8339bf207865eaee75cf54056dec0d3b887b",
+      "training_rows": 470,
+      "query_rows": 50
+    },
+    {
+      "id": "panel44_prefix_s2007_gap1_all_d085_y2013",
+      "panel_id": "panel44",
+      "policy_id": "prefix_s2007_gap1_all_d085",
+      "outer_year": 2013,
+      "input_manifest_sha256": "892a020dda7e4b64c651c28226edfc3ea6f5da914792ffb32fe6508a3ce79e0f",
+      "training_rows": 315,
+      "query_rows": 50
+    },
+    {
+      "id": "panel174_prefix_s2007_gap1_all_d085_y2013",
+      "panel_id": "panel174",
+      "policy_id": "prefix_s2007_gap1_all_d085",
+      "outer_year": 2013,
+      "input_manifest_sha256": "a8b4588b7566d9f2c876f51b3d2898a6222afb425bd809d1d6abea67fbf5b7e5",
+      "training_rows": 315,
+      "query_rows": 50
+    },
+    {
+      "id": "panel44_h_s2000_gap1_drafted_h2_y2014",
+      "panel_id": "panel44",
+      "policy_id": "h_s2000_gap1_drafted_h2",
+      "outer_year": 2014,
+      "input_manifest_sha256": "9d256b915f0d67ac8b20bbd5d476ec6336ec83e2de7b40aa0adf27076c557ace",
+      "training_rows": 514,
+      "query_rows": 53
+    },
+    {
+      "id": "panel174_h_s2000_gap1_drafted_h2_y2014",
+      "panel_id": "panel174",
+      "policy_id": "h_s2000_gap1_drafted_h2",
+      "outer_year": 2014,
+      "input_manifest_sha256": "e9e019a3691a8497dd7a2b6642b00f48dee521c3fa96b013c84cf713bf8f8b84",
+      "training_rows": 514,
+      "query_rows": 53
+    },
+    {
+      "id": "panel44_prefix_s2007_gap1_all_d085_y2014",
+      "panel_id": "panel44",
+      "policy_id": "prefix_s2007_gap1_all_d085",
+      "outer_year": 2014,
+      "input_manifest_sha256": "5e972d34fee4b3bf8b61003c71386fe4a22d5b91ec9c48a99d038ed763168b44",
+      "training_rows": 389,
+      "query_rows": 53
+    },
+    {
+      "id": "panel174_prefix_s2007_gap1_all_d085_y2014",
+      "panel_id": "panel174",
+      "policy_id": "prefix_s2007_gap1_all_d085",
+      "outer_year": 2014,
+      "input_manifest_sha256": "61fa6d1ec68722d1b48c60da0aea8f3bfed44c0b5e4298b9e5103a904efbcaa7",
+      "training_rows": 389,
+      "query_rows": 53
+    }
+  ],
+  "task_count": 12,
+  "model_fits": 420,
+  "workers": 4,
+  "protocol_sha256": "d5b857f697961e37cc8e859768c5b2b36cf7d5a6758032b1a584f76f074b139a",
+  "scoring": {
+    "2012": {
+      "sha256": "ed822402132d484e04f3a352b688671c2622ed191e45034b047cf2bcc94f26dd",
+      "source_sha256": "ebe1010f6ae1d4268b04d5953ec6b56754d5e9cfe6de6f651a262456c334438b",
+      "not_mounted_in_model_worker": true
+    },
+    "2013": {
+      "sha256": "391e4361925f487defba7fc2e325e68bf9e24669dc5d192ceada7e0c77b1f1bf",
+      "source_sha256": "27d5355854c0117f977628fe24867904634e0ff47ff02f25a82affa64bd438a5",
+      "not_mounted_in_model_worker": true
+    },
+    "2014": {
+      "sha256": "61fe880ada90441eb47a12f93ca6f13361d066d889e2a121a96cb10711e9b989",
+      "source_sha256": "e27a55de22bf099367632bc4952ac9e32dcef336e1dda5f9861bf07efae2f10e",
+      "not_mounted_in_model_worker": true
+    }
+  },
+  "source_panel_manifest_sha256": "cd95bb4aac53de85b3099af44877ed98b4de22fb9067fc21b6f61f5bac5f2588",
+  "source_label_export_manifest_sha256": "1912b980979eaf6f264083fef4a42390b7eb2533be5f879b2a4d1684b57f55df",
+  "selection_metric": "Full-query Spearman, mean all three seeds and all three development folds",
+  "secondary_metrics": [
+    "Fixed complete-target subset",
+    "Fixed three-seed architecture-rank average"
+  ],
+  "interpretation": "Compare actual multi-family stacks against individual controls; broad inputs versus identical44control. Pre2019 reused development only; no automatic promotion.",
+  "limitations": [
+    "No55percent result promised or inferred from feature count.",
+    "Not an exact original50.6 reproduction: calendar labels, missing outcomes, data coverage and model details differ.",
+    "Prefix target mixes observed career lengths; missing future seasons are never invented as zeros.",
+    "Original candidate pool and source vintage remain incomplete; complete-target subset can favor survivors.",
+    "OOF is cross-fitting of data known by each outer cutoff, not a simulated earlier historical inner-year prediction.",
+    "No2019+inputs/outcomes mounted; no test feedback selects weights or candidates."
+  ]
+}

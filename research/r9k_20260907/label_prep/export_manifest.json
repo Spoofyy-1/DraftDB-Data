@@ -1,0 +1,120 @@
+{
+  "status": "prepared_no_models",
+  "all_H_controls_exact_and_broker_reverified": true,
+  "exports": [
+    {
+      "policy": "h_s2000_gap1_drafted_h2",
+      "year": 2012,
+      "rows": 423,
+      "prefix_length_counts": {
+        "1": 0,
+        "2": 423,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "source_fact_rows": 846,
+      "path": "/home/ubuntu/nba/handoff/r9k_label_exports/h_s2000_gap1_drafted_h2/2012",
+      "training_npz_sha256": "07b4db45c3bf982a3636c91f148fc44a1283e0b1ef7b4d4efefd18bbd9f93281",
+      "manifest_sha256": "2c894d00d0897e044e4be2eec794e3cc331049338708755c88c515554fff5c0b"
+    },
+    {
+      "policy": "prefix_s2007_gap1_all_d085",
+      "year": 2012,
+      "rows": 236,
+      "prefix_length_counts": {
+        "1": 93,
+        "2": 63,
+        "3": 49,
+        "4": 31,
+        "5": 0
+      },
+      "source_fact_rows": 490,
+      "path": "/home/ubuntu/nba/handoff/r9k_label_exports/prefix_s2007_gap1_all_d085/2012",
+      "training_npz_sha256": "de028ff73cf568d9d821e80f06132cb62136c37302429d6b8bd575542714c29f",
+      "manifest_sha256": "7b223ad119d70a9d5fa9d1c560ab406888c302907bea70ad1384cf741e284709"
+    },
+    {
+      "policy": "h_s2000_gap1_drafted_h2",
+      "year": 2013,
+      "rows": 470,
+      "prefix_length_counts": {
+        "1": 0,
+        "2": 470,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "source_fact_rows": 940,
+      "path": "/home/ubuntu/nba/handoff/r9k_label_exports/h_s2000_gap1_drafted_h2/2013",
+      "training_npz_sha256": "e0494b91c1f28c30d9c70adf05839679f46ef76e562a5dac6992b05cbfd35865",
+      "manifest_sha256": "28f0c2819e9e7e34cb7d92c34f75ebe4324e04180e36d6b89fd598d575f3fd07"
+    },
+    {
+      "policy": "prefix_s2007_gap1_all_d085",
+      "year": 2013,
+      "rows": 315,
+      "prefix_length_counts": {
+        "1": 115,
+        "2": 75,
+        "3": 55,
+        "4": 45,
+        "5": 25
+      },
+      "source_fact_rows": 735,
+      "path": "/home/ubuntu/nba/handoff/r9k_label_exports/prefix_s2007_gap1_all_d085/2013",
+      "training_npz_sha256": "344e9e5c9f7d265aa7e0aa0c7047472c3b020c5d81447e1767ed972284e310b1",
+      "manifest_sha256": "3d565693ea2d1d58226d981f7b0a7cef8101a9b1f6fa228a69689b8bcbb3d4e4"
+    },
+    {
+      "policy": "h_s2000_gap1_drafted_h2",
+      "year": 2014,
+      "rows": 514,
+      "prefix_length_counts": {
+        "1": 0,
+        "2": 514,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "source_fact_rows": 1028,
+      "path": "/home/ubuntu/nba/handoff/r9k_label_exports/h_s2000_gap1_drafted_h2/2014",
+      "training_npz_sha256": "7471f1eaeab44833867928b4d48a5a3e830682bcede8b6575f21b0a63b237371",
+      "manifest_sha256": "a5c1eb67f44c86c36e21d95467b05059e7ec69787fc49115186ed6c891fce88d"
+    },
+    {
+      "policy": "prefix_s2007_gap1_all_d085",
+      "year": 2014,
+      "rows": 389,
+      "prefix_length_counts": {
+        "1": 134,
+        "2": 85,
+        "3": 61,
+        "4": 48,
+        "5": 61
+      },
+      "source_fact_rows": 984,
+      "path": "/home/ubuntu/nba/handoff/r9k_label_exports/prefix_s2007_gap1_all_d085/2014",
+      "training_npz_sha256": "afa91db3a6da1985ffd6282289218cadc99795cfc996336b7b67ddf63b59e49b",
+      "manifest_sha256": "688b55b639ffa9aec3f77677cfc039b1409f3939ccc08fc6bf0aa9d1312db44a"
+    }
+  ],
+  "source_hashes": {
+    "/home/ubuntu/nba/handoff/calendar_broker_prototype/source/historical_RAPTOR_by_player.csv": "9c90010404c2b557524b6ab7172e2b41a08cf57e929f2753a6c7e9ac7c520ac8",
+    "/home/ubuntu/nba/handoff/calendar_broker_prototype/source/tabular_names.csv": "bc6636a31ce22748d68360771fa633a91879495f29160ce871da15392b55bb41",
+    "/home/ubuntu/nba/handoff/data/train_2000_2018.csv": "14b7083f72b3f1fdd6096f068113e8ca175d618c3660396d21ad6489f1e09b12",
+    "/home/ubuntu/nba/handoff/calendar_broker_prototype/broker.py": "33291890f4a634be3aa38e9d99156e85b439e06451e791a5d05aaa0240a27e8b",
+    "/home/ubuntu/nba/handoff/r9g/d_reference/b_reference/a_reference/x_reference/base/data/features.csv": "1c20a30b28498526713cf8a3d41259f5568cb96a696d2b0acedc351889810ec4",
+    "/home/ubuntu/nba/handoff/r9g/d_reference/b_reference/a_reference/x_reference/base/data/labels.csv": "4afac2eced455cf7fc1f946c9d66fa4ac6fdd8d2febd909e5f71e4aed7a69d89",
+    "/home/ubuntu/nba/handoff/r9h/frozen.json": "22e68b8bee7902d65ed0f1c7a2d04bde3fc6521f5f872339faead15416c24d0e",
+    "/home/ubuntu/nba/handoff/r9h/plan.json": "2a761d59bdf75adc60e33a8ea0a586b1b98a9a4aa37ffd62fb5728ac67b07e08",
+    "/home/ubuntu/nba/handoff/r9h/source_manifest.json": "22467cefd5cd2c35a10b0b8971c43e5fcc0a055080a7b7e72f634996cd1beef4"
+  },
+  "builder_sha256": "6b89764345f5920d383540d1138977217c94cbd7cbca1de33f2ea718437676f7",
+  "private_data_authority_only": true,
+  "network_requests": 0,
+  "model_runs": 0,
+  "query_truth_exported": false,
+  "X_exported": false,
+  "all_source_hashes_unchanged": true
+}

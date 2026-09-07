@@ -1,0 +1,266 @@
+{
+  "passed": true,
+  "models_fitted": 0,
+  "tasks_checked": 12,
+  "tasks": [
+    {
+      "task_id": "panel44_h_s2000_gap1_drafted_h2_y2012",
+      "sha256": "0af00fb27cf797900931ca1adbd9685a319178a7cce1378ef0dea79dfcc36dd6",
+      "training_rows": 423,
+      "query_rows": 55,
+      "namespace_proof": {
+        "input_files": [
+          "inference.npz",
+          "manifest.json",
+          "training.npz"
+        ],
+        "inaccessible_paths": [
+          "/scoring",
+          "/reference",
+          "/h_reference",
+          "/home/ubuntu/nba/handoff"
+        ],
+        "passed": true
+      }
+    },
+    {
+      "task_id": "panel174_h_s2000_gap1_drafted_h2_y2012",
+      "sha256": "1234bdcbd1667e3c94bd37ccca0a7dd5093bf1f3aad0e962b0dcddd6447159ca",
+      "training_rows": 423,
+      "query_rows": 55,
+      "namespace_proof": {
+        "input_files": [
+          "inference.npz",
+          "manifest.json",
+          "training.npz"
+        ],
+        "inaccessible_paths": [
+          "/scoring",
+          "/reference",
+          "/h_reference",
+          "/home/ubuntu/nba/handoff"
+        ],
+        "passed": true
+      }
+    },
+    {
+      "task_id": "panel44_prefix_s2007_gap1_all_d085_y2012",
+      "sha256": "8f319fd3ecc4aad90de1f5cc3617fda325d31f8f2f7f337d76538fa41bed8371",
+      "training_rows": 236,
+      "query_rows": 55,
+      "namespace_proof": {
+        "input_files": [
+          "inference.npz",
+          "manifest.json",
+          "training.npz"
+        ],
+        "inaccessible_paths": [
+          "/scoring",
+          "/reference",
+          "/h_reference",
+          "/home/ubuntu/nba/handoff"
+        ],
+        "passed": true
+      }
+    },
+    {
+      "task_id": "panel174_prefix_s2007_gap1_all_d085_y2012",
+      "sha256": "2c628d9fef3a9460aa1a00119e96efbe05a67f5e5eee777ed64d02f6b1062f49",
+      "training_rows": 236,
+      "query_rows": 55,
+      "namespace_proof": {
+        "input_files": [
+          "inference.npz",
+          "manifest.json",
+          "training.npz"
+        ],
+        "inaccessible_paths": [
+          "/scoring",
+          "/reference",
+          "/h_reference",
+          "/home/ubuntu/nba/handoff"
+        ],
+        "passed": true
+      }
+    },
+    {
+      "task_id": "panel44_h_s2000_gap1_drafted_h2_y2013",
+      "sha256": "3dd45e09292ba4b93b8c6eac096903b15d50c3d4506e91b97a610c2d5d339e24",
+      "training_rows": 470,
+      "query_rows": 50,
+      "namespace_proof": {
+        "input_files": [
+          "inference.npz",
+          "manifest.json",
+          "training.npz"
+        ],
+        "inaccessible_paths": [
+          "/scoring",
+          "/reference",
+          "/h_reference",
+          "/home/ubuntu/nba/handoff"
+        ],
+        "passed": true
+      }
+    },
+    {
+      "task_id": "panel174_h_s2000_gap1_drafted_h2_y2013",
+      "sha256": "9a9574ee8f9a20358e91b7d4f43f9b21f8b79d19fa992c0694c386451f9125e9",
+      "training_rows": 470,
+      "query_rows": 50,
+      "namespace_proof": {
+        "input_files": [
+          "inference.npz",
+          "manifest.json",
+          "training.npz"
+        ],
+        "inaccessible_paths": [
+          "/scoring",
+          "/reference",
+          "/h_reference",
+          "/home/ubuntu/nba/handoff"
+        ],
+        "passed": true
+      }
+    },
+    {
+      "task_id": "panel44_prefix_s2007_gap1_all_d085_y2013",
+      "sha256": "d12bc0b9ed5ae762c8e53bc61bc913cd5fcdfc91db55174993892e9f8f29181f",
+      "training_rows": 315,
+      "query_rows": 50,
+      "namespace_proof": {
+        "input_files": [
+          "inference.npz",
+          "manifest.json",
+          "training.npz"
+        ],
+        "inaccessible_paths": [
+          "/scoring",
+          "/reference",
+          "/h_reference",
+          "/home/ubuntu/nba/handoff"
+        ],
+        "passed": true
+      }
+    },
+    {
+      "task_id": "panel174_prefix_s2007_gap1_all_d085_y2013",
+      "sha256": "2b71fbf03086b90021d5f283497ebe444fbc36b78cac257cf108060708e69c40",
+      "training_rows": 315,
+      "query_rows": 50,
+      "namespace_proof": {
+        "input_files": [
+          "inference.npz",
+          "manifest.json",
+          "training.npz"
+        ],
+        "inaccessible_paths": [
+          "/scoring",
+          "/reference",
+          "/h_reference",
+          "/home/ubuntu/nba/handoff"
+        ],
+        "passed": true
+      }
+    },
+    {
+      "task_id": "panel44_h_s2000_gap1_drafted_h2_y2014",
+      "sha256": "a39453376681f29109de1281813764ca883740cfc0f682e4e3c5f6f4cfdd704d",
+      "training_rows": 514,
+      "query_rows": 53,
+      "namespace_proof": {
+        "input_files": [
+          "inference.npz",
+          "manifest.json",
+          "training.npz"
+        ],
+        "inaccessible_paths": [
+          "/scoring",
+          "/reference",
+          "/h_reference",
+          "/home/ubuntu/nba/handoff"
+        ],
+        "passed": true
+      }
+    },
+    {
+      "task_id": "panel174_h_s2000_gap1_drafted_h2_y2014",
+      "sha256": "9909dd3febcacb9b8a9c4dadb535bae9596a8e41b08c2b02d36f508170ccbbfe",
+      "training_rows": 514,
+      "query_rows": 53,
+      "namespace_proof": {
+        "input_files": [
+          "inference.npz",
+          "manifest.json",
+          "training.npz"
+        ],
+        "inaccessible_paths": [
+          "/scoring",
+          "/reference",
+          "/h_reference",
+          "/home/ubuntu/nba/handoff"
+        ],
+        "passed": true
+      }
+    },
+    {
+      "task_id": "panel44_prefix_s2007_gap1_all_d085_y2014",
+      "sha256": "e72e540d6876ad68671a34769dbdc9cc18be0984d062b3d2dd4f6bc9d136358b",
+      "training_rows": 389,
+      "query_rows": 53,
+      "namespace_proof": {
+        "input_files": [
+          "inference.npz",
+          "manifest.json",
+          "training.npz"
+        ],
+        "inaccessible_paths": [
+          "/scoring",
+          "/reference",
+          "/h_reference",
+          "/home/ubuntu/nba/handoff"
+        ],
+        "passed": true
+      }
+    },
+    {
+      "task_id": "panel174_prefix_s2007_gap1_all_d085_y2014",
+      "sha256": "9e76d5b2635749aca4cd72ddae7b034616232f1d450e8bf6441459595cb3e974",
+      "training_rows": 389,
+      "query_rows": 53,
+      "namespace_proof": {
+        "input_files": [
+          "inference.npz",
+          "manifest.json",
+          "training.npz"
+        ],
+        "inaccessible_paths": [
+          "/scoring",
+          "/reference",
+          "/h_reference",
+          "/home/ubuntu/nba/handoff"
+        ],
+        "passed": true
+      }
+    }
+  ],
+  "tests": [
+    {
+      "file": "code/test_stack_core.py",
+      "sha256": "c20e55d8a5f251bcb72a57ea1a0af5f08efe7c58f3307cf843d0d11bfdfb343c",
+      "output": ".......\n----------------------------------------------------------------------\nRan 7 tests in 0.305s\n\nOK\n"
+    },
+    {
+      "file": "test_postprocess.py",
+      "sha256": "fa3edb99c2c61989de060e185247baa6bbb318d86af222108bcbb56d1473a03b",
+      "output": "..\n----------------------------------------------------------------------\nRan 2 tests in 0.093s\n\nOK\n"
+    }
+  ],
+  "runtime_sources_checked": 111,
+  "runtime_support_sha256": "e3c7662c056e1a1688c234f49d1aa53e5394f3c9bcaaf4c7687dacdfc8c7d119",
+  "plan_sha256": "92db2563c5eddc29e5e98692285e609c6f4113bc6b004fe35f4f340c17e699f8",
+  "protocol_sha256": "d5b857f697961e37cc8e859768c5b2b36cf7d5a6758032b1a584f76f074b139a",
+  "finished": 1788775234.5136075,
+  "scoring_files_mounted_in_model": false,
+  "every_task_has_one_outer_cutoff_only": true
+}
