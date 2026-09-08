@@ -52,24 +52,30 @@ def main():
           ("player", "class", "pick", "nd_board", "nd_mock", "nd_gap",
            "dx_board", "dx_mock", "dx_gap"))
     picked = []
-    want = [(2010, 1), (2012, 2), (2014, 1), (2015, 1), (2016, 3), (2017, 1),
-            (2013, 1), (2011, 1), (2009, 1), (2018, 1)]
-    for y, n in want:
-        cand = [f for f in feats
-                if ident.get(f["pid"]) and ident[f["pid"]]["actual_pick"]
-                and int(ident[f["pid"]]["draft_year"]) == y
-                and f.get("bb_nd_board_rank_final", "") != ""
-                and f.get("bb_nd_mock_rank_final", "") != ""]
-        cand.sort(key=lambda f: float(ident[f["pid"]]["actual_pick"]))
-        picked.extend(cand[:n])
-    for f in picked[:10]:
+    seen_year = set()
+    cand = [f for f in feats
+            if ident.get(f["pid"]) and ident[f["pid"]]["actual_pick"]
+            and f.get("bb_nd_board_rank_final", "") != ""
+            and f.get("bb_nd_mock_rank_final", "") != ""]
+    # sample evenly across the fit-gap distribution so the check shows the
+    # full range of the feature, not ten number-one picks
+    cand = [f for f in cand if f.get("bb_nd_fit_gap", "") != ""]
+    cand.sort(key=lambda f: (float(f["bb_nd_fit_gap"]),
+                             int(ident[f["pid"]]["draft_year"])))
+    if len(cand) > 10:
+        idx = [round(i * (len(cand) - 1) / 9) for i in range(10)]
+        picked = [cand[i] for i in sorted(set(idx))]
+    else:
+        picked = cand
+    for f in picked:
         ir = ident[f["pid"]]
         print("%-24s %5s %4s  %-9s %-9s %-8s %-9s %-9s %-8s" %
               (ir["player_name"][:24], ir["draft_year"],
                int(float(ir["actual_pick"])),
                f.get("bb_nd_board_rank_final", "-"), f.get("bb_nd_mock_rank_final", "-"),
-               f.get("bb_nd_fit_gap", "-"), f.get("bb_dx_board_rank_final", "-"),
-               f.get("bb_dx_mock_pick_final", "-"), f.get("bb_dx_fit_gap", "-")))
+               f.get("bb_nd_fit_gap", "-"), f.get("bb_dx_board_rank_final", "-") or "-",
+               f.get("bb_dx_mock_pick_final", "-") or "-",
+               f.get("bb_dx_fit_gap", "-") or "-"))
 
 
 if __name__ == "__main__":

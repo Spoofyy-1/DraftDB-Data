@@ -73,9 +73,17 @@ Four distinct layouts, all parsed by `parse_profile()`:
    nicknames the site used (`Enes Kanter/Freedom`, `Patty/Patrick Mills`, `Bones/Nahshon Hyland`, …). Pairs
    are applied symmetrically.
 3. Candidate slugs are every indexed slug whose normalised form equals one of the player's keys.
-4. **Ambiguity**: when one slug is claimed by two players with the same normalised name, the slug is kept
-   only for a player whose draft cycle the capture timestamps fall in (`year-3 Sept 1` → cutoff). If it is
-   still claimed by two of them, it is dropped for **both** and logged to `unmatched.csv` — never guessed.
+4. **Ambiguity**: when one slug is claimed by two pids with the same normalised name, the slug is kept only
+   for a pid whose draft cycle the capture timestamps fall in (`year-3 Sept 1` → cutoff). If claimants from
+   **two different draft years** survive that filter they are two different people (the two Marcus
+   Williamses, the two Chris Wrights, …): the slug is dropped for **both** and logged to `unmatched.csv` —
+   never guessed. Claimants from the **same** draft year are one player entered twice under two spellings —
+   the identity file carries `Cam Thomas` (2021, pick 27) and `Cameron Thomas` (2021, no pick), `Bub` /
+   `Carlton Carrington` (2024) and `Mo` / `Maurice Williams` (2003) — so they share the profile and the same
+   cutoff. Those three pairs are the only same-year collisions in the file, and all three were checked by
+   hand; a genuine pair of same-named players in one class would have to be added to `unmatched.csv`
+   manually. (`Tony L. Mitchell` and `Tony Mitchell`, both 2013 and genuinely different people, do not
+   collide because the middle initial is kept.)
 5. **Verification**: the downloaded page's own player name must match the roster name (exact after
    normalisation / alias, or `SequenceMatcher` ratio ≥ 0.85). A page naming somebody else marks that slug
    dead for the player (`name_mismatch`); a page with no readable name is skipped and an older capture tried.
@@ -142,26 +150,49 @@ Built 2026-09-08 from 173893 captures indexed over 8166 profile slugs.
 
 | draft-year band | players | with pre-draft profile | with 1-10 grid | with Strengths/Weaknesses | median days before draft |
 |---|---|---|---|---|---|
-| 2000-07 | 582 | 67 (12%) | 0 (0%) | 67 (12%) | 18 |
-| 2008-18 | 1017 | 0 (0%) | 0 (0%) | 0 (0%) | - |
-| 2019-25 | 900 | 0 (0%) | 0 (0%) | 0 (0%) | - |
-| 2026 | 61 | 0 (0%) | 0 (0%) | 0 (0%) | - |
-| **all 2000-2026** | 2560 | 67 (3%) | 0 (0%) | 67 (3%) | 18 |
+| 2000-07 | 582 | 303 (52%) | 44 (8%) | 293 (50%) | 14 |
+| 2008-18 | 1017 | 913 (90%) | 616 (61%) | 619 (61%) | 8 |
+| 2019-25 | 900 | 549 (61%) | 332 (37%) | 336 (37%) | 62 |
+| 2026 | 61 | 19 (31%) | 19 (31%) | 19 (31%) | 212 |
+| **all 2000-2026** | 2560 | 1784 (70%) | 1011 (39%) | 1267 (49%) | 17 |
+
+Restricted to players with an actual draft pick (the identity file also carries undrafted players):
+
+| draft-year band | drafted | with pre-draft profile | with 1-10 grid | with Strengths/Weaknesses |
+|---|---|---|---|---|
+| 2000-07 | 397 | 264 (66%) | 42 (11%) | 256 (64%) |
+| 2008-18 | 584 | 575 (98%) | 501 (86%) | 501 (86%) |
+| 2019-25 | 392 | 302 (77%) | 265 (68%) | 267 (68%) |
+| 2026 | 60 | 18 (30%) | 18 (30%) | 18 (30%) |
+| all | 1433 | 1159 (81%) | 826 (58%) | 1042 (73%) |
 
 Per-year detail is in `status.csv`. Why the misses (all pids):
 
 ```
 status
-not_attempted              2364
-ok                           67
-no_capture_before_draft      57
-no_profile                   38
-no_content                   33
+ok                         1784
+no_profile                  380
+no_content                  273
+no_capture_before_draft     122
 name_mismatch                 1
 ```
 
-Post-draft captures seen and rejected for these players: 7261.
-NBA comparisons captured in `comps.csv`: 61.
+* `no_content` = the profile page existed pre-draft but the site had not written it yet: every grade
+  shows `NA`/0 and there is no Strengths/Weaknesses text. Common on the WordPress site, where a page is
+  created for every prospect.
+* Of the 1784 profiles that were used, 1011 carry real grades; the other 773 have a grid of zeros
+  (page graded after the capture, or never) or are the grid-less `old` layout, and contribute only the
+  text features.
+* Post-draft captures seen for these players and rejected: 66102.
+* NBA comparisons captured in `comps.csv`: 1136.
+* Layout of the captures actually used: drupal 1105, wordpress 312, old 255, asp 112.
+
+Capture staleness (`sc_capture_days_before_draft`), share within N days of draft night:
+
+| | <= 90d | <= 180d | <= 365d | <= 730d | median | max |
+|---|---|---|---|---|---|---|
+| all profiles | 78% | 83% | 89% | 94% | 17 | 3202 |
+| graded profiles | 89% | 96% | 99% | 100% | 10 | 1150 |
 
 ## 7. Wayback etiquette (rule 3)
 
@@ -183,6 +214,13 @@ NBA comparisons captured in `comps.csv`: 61.
 
 * **No grid before ~2007.** The 2000-2007 classes are covered by the `old` layout, which has no 1-10 grid;
   those pids have text/keyword features only. Grades effectively start with the 2007-2008 classes.
+* **Many profile pages were never graded pre-draft.** ~500 pre-draft captures show the whole grid as `NA`/0
+  (the site created the page but had not scored the player yet). Those become missing grades — never 0 — and
+  contribute only text features; another ~270 pids (`no_content`) have a page with neither grades nor text.
+  This is what caps the 2019-2025 grid coverage, not the crawler.
+* **The 2026 class is thin.** The Archive holds very few 2026 captures of the site (96 profile captures in
+  all of 2026), so most of that class is `no_profile` / `no_content`. Its cutoff is also the assumed
+  `20260623` (see section 1).
 * **Grid labels are positional** on the `asp` / `drupal` layouts. The mapping is driven by the position
   banner image; a page whose banner is missing *and* whose NBA-position text is empty gets no grid.
 * **Recency varies.** `sc_capture_days_before_draft` ranges from ~0 to several hundred days: the Archive did
@@ -193,7 +231,13 @@ NBA comparisons captured in `comps.csv`: 61.
   blocks); those pages are stored but yield no grid.
 * Players whose profile the Archive only holds after their draft night are `no_capture_before_draft` and
   intentionally have **no** features — using the post-draft page would be leakage.
-* Same-name pairs (e.g. the two Marcus Williamses) are dropped rather than guessed; see `unmatched.csv`.
+* Same-name pairs from different draft years (e.g. the two Marcus Williamses) are dropped rather than
+  guessed; see `unmatched.csv`.
+* A handful of late second-round picks simply have no profile page in the Archive under any spelling
+  (Jalen Slawson 2023, Brooks Barnhizer / Max Shulga / Jahmai Mashack 2025, …): no slug with that surname
+  exists in `cdx_index.csv` at all.
+* One page is the site's own error: the 2000 capture of `/profiles/mamadoundiaye.htm` contains Chris
+  Porter's profile. It is rejected by name verification (`name_mismatch`) rather than used.
 
 ## 9. Re-running / resuming
 
@@ -203,8 +247,12 @@ cd /Users/kennakao/nba/datarebuild/novel/nbadraftnet
 # resume an interrupted crawl (status.jsonl is the checkpoint; finished pids are skipped)
 nohup python3 -u collect_nbadraftnet.py download --workers 2 >> run.log 2>&1 &
 
-# re-try players recorded as failures (download_failed / parse_failed / unverified_name / …)
+# re-try players recorded as failures; --statuses narrows the re-try to the ones worth repeating
 nohup python3 -u collect_nbadraftnet.py download --retry --workers 2 >> run.log 2>&1 &
+python3 collect_nbadraftnet.py download --retry --statuses no_profile,download_failed --workers 2
+
+# one draft class only
+python3 collect_nbadraftnet.py download --years 2024,2025 --workers 2
 
 # rebuild the csvs from the cache (offline, seconds)
 python3 collect_nbadraftnet.py build

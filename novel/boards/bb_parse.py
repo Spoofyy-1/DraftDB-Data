@@ -52,6 +52,9 @@ def plausible_name(n):
         return False
     if not re.match(r"^[A-Za-z][A-Za-z'\.\-À-ɏ]*(?: [A-Za-z'\.\-À-ɏ]+){1,3}$", n):
         return False
+    if not re.search(r"[a-z]", n):
+        # ALL-CAPS is a column header ("DRAFT RANGE", "COMMENTS"), not a name
+        return False
     return True
 
 
@@ -140,9 +143,21 @@ sacramento kings san antonio spurs seattle sonics supersonics toronto raptors
 utah jazz vancouver washington wizards nets clippers okc phi ny nj gs sa
 """.split())
 
+# 2004-2008 cell shape: "Dwight Howard 6-10 240 PF GA HSSr."
 NDM_PLAYER = re.compile(
     r"^([A-Z][A-Za-z'\.\-\u00C0-\u024F]+(?:\s+[A-Za-z'\.\-\u00C0-\u024F]+){1,3})"
     r"\s+(\d)\s*-\s*(\d{1,2})\s+(\d{2,3})\b")
+
+
+# 2000-2003 cell shape: "Kenyon Martin Cincinnati Sr. PF 6-9 230"
+# (name, then school, then class, position, height, weight).  The name group is
+# lazy so it takes the shortest run of capitalised tokens that still leaves a
+# school/class/pos/ht/wt tail.
+NDM_PLAYER2 = re.compile(
+    r"^([A-Z][A-Za-z'\.\-\u00C0-\u024F]+(?:\s+[A-Za-z'\.\-\u00C0-\u024F]+){1,2}?)"
+    r"\s+.{0,40}?\b(?:Fr|So|Jr|Sr|HSSr|HSJr|Intl|Int)\.?\s+"
+    r"(?:PG|SG|SF|PF|C|G|F)(?:/(?:PG|SG|SF|PF|C|G|F))?\s+"
+    r"(\d)\s*-\s*(\d{1,2})\s+(\d{2,3})\b")
 
 
 def _is_team(text):
@@ -192,6 +207,11 @@ def parse_nd_mock(html):
             if name is None:
                 pm = NDM_PLAYER.match(t)
                 if pm and plausible_name(pm.group(1)):
+                    name = _clean(pm.group(1))
+                    height = int(pm.group(2)) * 12 + int(pm.group(3))
+            if name is None:
+                pm = NDM_PLAYER2.match(t)
+                if pm and plausible_name(pm.group(1)) and not _is_team(pm.group(1)):
                     name = _clean(pm.group(1))
                     height = int(pm.group(2)) * 12 + int(pm.group(3))
             if name is None and plausible_name(t) and not _is_team(t) \
@@ -361,14 +381,19 @@ def parse_stepien(html):
             if tm:
                 tier = _clean(strip_tags(tm.group(1)))[:20]
             continue
-        hm = re.search(r"<h[1-6][^>]*>\s*(\d{1,3})\.\s*(.*?)</h[1-6]>", blk, re.S | re.I)
+        hm = re.search(r"<h[1-6][^>]*>\s*(?:(\d{1,3})\.)?\s*(.*?)</h[1-6]>",
+                       blk, re.S | re.I)
         if not hm:
             continue
         name = _clean(strip_tags(hm.group(2)))
         if not plausible_name(name):
             continue
+        # the 2020 board dropped explicit numbering ("order within tiers is
+        # fluid"); rank is then the card's ordinal position on the page, which
+        # is exactly the order the site presents the board in
+        rank = int(hm.group(1)) if hm.group(1) else (len(out) + 1)
         sm = re.search(r"class=\"rank-team\"[^>]*>(.*?)</span>", blk, re.S | re.I)
-        out.append({"rank": int(hm.group(1)), "name": name, "change": None,
+        out.append({"rank": rank, "name": name, "change": None,
                     "height_in": None, "weight": None, "pos": "",
                     "school": _clean(strip_tags(sm.group(1)))[:60] if sm else "",
                     "klass": "", "age": None, "tier": tier})

@@ -219,6 +219,13 @@ of which **{len(feat)} have at least one pre-draft game** and appear in
 
 {unm_tbl}
 
+The dominant reason is `draft_year_before_first_season`, and it is **expected,
+not a failure**: it is an American or veteran player who was drafted first and
+only later moved to Europe (his first European season postdates his draft), so
+he has no pre-draft international production by construction.  The reasons that
+genuinely indicate a rejected identity are `birthdate_conflict`,
+`age_implausible_pick` and `ambiguous_multiple_pids`.
+
 Persons whose names never appear in the identity file at all are *not* logged:
 that is the overwhelming majority of the {n_persons:,} European players in the
 API and would drown the report.  Only name hits that were *rejected* (and
@@ -262,7 +269,7 @@ written as 0; a *rate* with no denominator (his `eu2_ts`) is left empty.
 | `*_start_games` | games where the `startFive` flag was reliable (exactly five flagged on that side) - the denominator for `*_starts` |
 | `*_start_rate` | `*_starts / *_start_games` |
 | `*_min` | total minutes |
-| `*_min_share` | his minutes / his team's minutes available, summed over every game he was in the box score (DNPs included in the denominator).  Team minutes available = sum of that team's player minutes in that game, i.e. 200 for a 40-minute game, scaling correctly for overtime |
+| `*_min_share` | his minutes / his team's minutes available, summed over every game he was in the box score (DNPs included in the denominator).  Team minutes available = sum of that team's player minutes in that game, i.e. 200 for a 40-minute game, scaling correctly for overtime.  Three-way semantics: **empty** = never in a box score for that competition, **0.0** = dressed for at least one game but never played (`*_dnp > 0`, a real and meaningful zero - a teenager carried on a Euroleague roster), **>0** = played |
 | `*_pts40 *_oreb40 *_dreb40 *_ast40 *_stl40 *_blk40 *_tov40 *_pf40 *_pir40` | per-40-minute rates |
 | `*_ts` | true shooting: `PTS / (2 * (FGA + 0.44*FTA))` |
 | `*_efg` | effective FG%: `(FGM + 0.5*3PM) / FGA` |

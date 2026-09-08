@@ -1,0 +1,48 @@
+/Users/kennakao/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+rows in features.csv: 1572
+feature columns: 23
+
+coverage by draft-year band (drafted players only)
+band       drafted  anyfeat nd_board  nd_mock dx_board  dx_mock
+2001-07        347      240        0      240        0        0
+2008-18        584      567      533      419      452      379
+2019-25        392      392      392      310        0        0
+
+per-column non-empty counts
+  bb_nd_board_rank_final                  1222
+  bb_nd_board_rank_30d                    1147
+  bb_nd_board_rank_60d                    1104
+  bb_nd_board_change_60d                  1048
+  bb_nd_board_first_seen_days             1201
+  bb_nd_mock_rank_final                   1075
+  bb_nd_crowd_mock_rank_final              812
+  bb_nd_fit_gap                            790
+  bb_nd_unranked_board                    1222
+  bb_dx_board_rank_final                   566
+  bb_dx_board_rank_30d                     548
+  bb_dx_mock_pick_final                    408
+  bb_dx_fit_gap                            337
+  bb_dx_mock_volatility                    482
+  bb_dx_board_momentum_30d                 547
+  bb_dx_first_mock_lead_days               513
+  bb_dx_age_listed                         491
+  bb_stepien_consensus_rank                 87
+  bb_stepien_dispersion                    125
+  bb_stepien_tier                           87
+  bb_stepien_preseason_to_final_delta       56
+  bb_fit_gap_mean                          860
+  bb_n_board_sources                      1572
+
+spot check -- 10 players with both a board rank and a mock rank
+player                   class pick  nd_board  nd_mock   nd_gap   dx_board  dx_mock   dx_gap  
+Tristan da Silva          2024   18  101       15        -86      -         -         -       
+Jordan Crawford           2010   27  40        28        -12      44        27        -17     
+Jamaal Franklin           2013   41  36        30        -6       23        -         -       
+Larry Nance Jr.           2015   27  61        58        -3       64        56        -8      
+RJ Hunter                 2015   28  35        34        -1       26        21        -5      
+RJ Barrett                2019    3  3         3         0        -         -         -       
+MarJon Beauchamp          2022   24  31        32        1        -         -         -       
+Johnny Furphy             2024   35  27        30        3        -         -         -       
+Willie Warren             2010   54  32        39        7        27        -         -       
+Armon Johnson             2010   34  16        37        21       45        -         -       

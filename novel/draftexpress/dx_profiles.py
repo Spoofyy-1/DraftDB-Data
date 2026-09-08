@@ -75,6 +75,15 @@ def build_queue():
     with open(f"{RAW}/candidate_index.csv", "w", newline="") as f:
         w = csv.DictWriter(f, fieldnames=["pid", "draft_year", "dx_id", "dx_slug", "n_cand"])
         w.writeheader(); w.writerows(index_rows)
+    # second pass: archived players outside the identity file who have >=2 height years.
+    # Their profiles supply the age (RCSI class year / age-at-capture) that puts them on the
+    # age axis, which is what makes the late-grower regression a fit on ALL archived players
+    # with a multi-event height history rather than only on our draftees.
+    extra = f"{RAW}/extra_profile_ids.csv"
+    if os.path.exists(extra):
+        for r in csv.DictReader(open(extra)):
+            if r["dx_id"] not in seen:
+                seen.add(r["dx_id"]); queue.append((r["dx_id"], r["dx_slug"]))
     return queue
 
 

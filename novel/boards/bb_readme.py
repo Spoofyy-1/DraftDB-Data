@@ -99,7 +99,8 @@ def main():
     A("| `raw/fetch_plan.csv` | the captures actually selected for download |")
     A("| `raw/<source>/<ts>_<hash>.html.gz` | raw mementos (`id_` flag, unrewritten) |")
     A("| `raw/parsed.jsonl.gz` | one JSON record per parsed capture (rank, name, pos, school, class, age, ht, wt, change) |")
-    A("| `raw/year_reassignments.csv` | boards whose class year the content check moved off the calendar rule |")
+    A("| `raw/year_reassignments.csv` | captures the content check moved to another class (`<year>`), dropped as belonging to no adjacent class (`DROPPED`, mostly stale pages), or refused as a results table (`RESULTS_LEAK`) |")
+    A("| `raw/capture_usage.csv` | every capture that survived all checks, with its final class year, entry count and days-before-draft |")
     A("| `run.log` | crawl log |")
     A("")
     A("## URL patterns collected")
@@ -168,6 +169,11 @@ def main():
       "15 Aug of Y belongs to class Y+1. This handles the shifted 2020 "
       "(18 Nov) and 2021 (29 Jul) drafts automatically.")
     A("")
+    A("5. **Stepien dated posts are dated by publication, not capture.** A post "
+      "at `/2018/06/19/...` was knowable on 19 June 2018 even if the archive "
+      "only captured it in July, so the publication date in the path drives "
+      "both the class year and the days-before-draft.")
+    A("")
     A("**Content check.** For every board capture, the fraction of its top 30 "
       "names that are drafted players of class Y-1 / Y / Y+1 is computed "
       "against the identity file. The calendar year is kept unless another year "
@@ -176,12 +182,36 @@ def main():
       "verifies the frozen-board case and catches sites that reset early or "
       "late.")
     A("")
+    A("This check is what keeps *stale* pages out. nbadraft.net leaves old "
+      "\"extended mock draft\" URLs (`/extended-nba-mock-draft-81`, "
+      "`/nba-mock-draft-73`) live and heavily crawled for years, still frozen "
+      "on the 2013 class; DraftExpress likewise served a 2017 board long after "
+      "it stopped updating. Such a capture agrees with no adjacent class and is "
+      "dropped rather than mistaken for a later board. The planner also prefers "
+      "capture URLs that name the class (`/2016mock_draft`, "
+      "`/2019-nba-mock-draft-3/`) over undated ones so the request budget is "
+      "not spent on those pages in the first place.")
+    A("")
+    A("**Results-leakage guard.** A post-draft mock capture is additionally "
+      "refused when too many of its picks land exactly on the real draft slot. "
+      "Across 464 strictly pre-draft mock captures the exact-agreement rate "
+      "never exceeded 0.27 (median 0.09); nbadraft.net's "
+      "`/mocks/2008_nba_draft.html`, a results table sitting on a mock-shaped "
+      "path, scores 1.00. The cutoff is 0.35, which clears every genuine mock "
+      "observed and refuses the results pages; refusals are logged as "
+      "`RESULTS_LEAK` in `raw/year_reassignments.csv`.")
+    A("")
     A("**State de-duplication.** The archive often captures the same published "
       "board many times. Captures are collapsed to distinct *board states* "
-      "(signature = the (rank, normalised name) pairs of the top 25), keeping "
+      "(signature = the full list of (rank, normalised name) pairs), keeping "
       "the earliest capture of each state. Momentum sums and mock-volatility "
       "standard deviations therefore count each published update once, not "
-      "once per crawl.")
+      "once per crawl. The signature must be the whole board: hashing only the "
+      "top 25 collapses a complete 100-man board into an earlier state that "
+      "happens to share its top 25, which once left a single 25-entry page "
+      "standing as the \"final\" 2016 DraftExpress board. For the same reason "
+      "the final board is chosen from states with at least 50 entries whenever "
+      "any exist.")
     A("")
     A("**Horizon readings.** `*_30d` / `*_60d` take the latest state at or "
       "before that horizon, but never one more than 120 days older than the "
@@ -206,6 +236,7 @@ def main():
     A("| dx 2010-2014 | `<table class=\"bluecells\">`, 4 sub-tables of 25 | same, plus `<font size=1>age, class<br>ht wt<br><a /clubhouse/>school</a>` |")
     A("| dx 2015-2017 | `<div class=\"ranking-item\">` + `<div class=\"numero\">` | rank in `<font size=\"5\">N.</font>`; `18.7 years old  |  6'9\"  |  196 lbs` |")
     A("| dx mock all years | `<font size=\"5\">N.</font>` + team logo + profile link | pick number, player, school, class, decimal age |")
+    A("| stepien composite 2020 | `<div class=\"rank-card\"><h3>Name</h3>` (no number) | the 2020 board dropped explicit numbering (\"order within tiers is fluid\"); rank is the card's ordinal position, which is the order the site presents |")
     A("| stepien composite | `<div class=\"rank-card\"><h3>N. Name</h3>` with `<div class=\"rank-tier\"><span>Tier N</span>` | rank, name, school, tier |")
     A("| stepien analyst grid | `<table class=\"tablepress rankings-table\">` | header row = analyst names; each cell is `Tier.OverallRank` (e.g. `3.06`) or `NR` |")
     A("| stepien dated posts | WordPress `entry-content` | `N. Player Name` at the start of a heading/paragraph/list item, with `Tier N` headers |")
@@ -238,10 +269,15 @@ def main():
     A("## Captures used, by source and draft class")
     A("")
     srcs = ["nd_board", "nd_mock", "nd_crowd", "dx_board", "dx_mock", "dx_mockx", "stepien"]
-    A("`used / planned`: planned = captures selected for download; used = "
-      "captures that parsed into at least one ranked entry AND survived the "
-      "dating + content checks, counted under their final content-verified "
-      "class year (so a few move between adjacent rows).")
+    A("`used / planned` per class. **planned** counts captures the planner "
+      "assigned to that class from the URL or the calendar rule and selected "
+      "for download; **used** counts captures that parsed into at least one "
+      "ranked entry AND survived the dating, content and leakage checks, "
+      "counted under their *final content-verified* class. The two are indexed "
+      "differently, so `used` can exceed `planned` in a row that absorbed "
+      "captures the content check moved in from the neighbouring class (and "
+      "the neighbour's row is correspondingly short). Compare the totals, not "
+      "the individual ratios.")
     A("")
     A("| class | " + " | ".join(srcs) + " |")
     A("|---" * (len(srcs) + 1) + "|")
@@ -317,6 +353,12 @@ def main():
     A("")
     A("### Sign conventions")
     A("")
+    A("* When the board rank is the 101 sentinel the fit gap inherits it and "
+      "can reach roughly -90 (a player the mock has in the lottery but the "
+      "board never listed). That is a real signal, not a parse error, but it "
+      "is a censored measurement: gate or clip it with "
+      "`bb_nd_unranked_board` rather than treating -86 as 86 places of "
+      "disagreement.")
     A("* **fit gap** = mock pick - board rank. A player the publisher ranks 5th "
       "on talent but mocks at pick 14 has a fit gap of +9: the market is "
       "discounting him relative to the same publisher's own talent board. "
@@ -339,6 +381,20 @@ def main():
     A("* **The Stepien** only published these boards for the 2018-2020 and 2022 "
       "classes; no 2021 rankings page exists in the archive, so "
       "`bb_stepien_*` is empty for 2021 and for everything before 2018.")
+    A("* **Mock freshness is limited by the archive, not by choice, in a few "
+      "classes.** A post-draft mock capture is allowed only when its URL names "
+      "the class and it clears the results-leakage guard, so where the archive "
+      "simply has no late crawl the final mock is older: the closest "
+      "DraftExpress mock capture is 170 days out for 2009, and the closest "
+      "NBADraft.net editorial mock is 137 days out for 2003 and 30 for 2019. "
+      "Every other class lands within ~30 days of draft night and most within "
+      "two days. The 2008 NBADraft.net mock is thin because its two draft-week "
+      "captures are the results table, refused by the guard.")
+    A("* **Time-series features never use a post-draft capture.** The frozen "
+      "window feeds only the *final* value; `bb_dx_mock_volatility`, "
+      "`bb_dx_first_mock_lead_days`, `bb_nd_board_first_seen_days` and "
+      "`bb_nd_board_change_60d` are computed from strictly pre-draft captures, "
+      "so every lead/first-seen value is positive by construction.")
     A("* **Change-column sums under-count** when the archive missed an "
       "intermediate board update: the site reports movement since the previous "
       "update, and only captured updates can be summed.")

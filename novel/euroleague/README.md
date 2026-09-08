@@ -3,7 +3,7 @@
 Pre-draft international production for drafted players, built from the open
 Euroleague API.  One row per `pid`, numeric columns only.
 
-Generated 2026-09-08 14:34.  Pull status: **PARTIAL** - 1,653/12,882 box scores cached (12.8%). See _Resuming_ below; rerun `build.py` after the pull finishes.
+Generated 2026-09-08 15:30.  Pull status: **PARTIAL** - 4,676/12,882 box scores cached (36.3%). See _Resuming_ below; rerun `build.py` after the pull finishes.
 
 ## What this is
 
@@ -66,7 +66,7 @@ ever under-count.  They are flagged with `cutoff_inferred = 1`.
 
 | code | competition | seasons | first | last | games played | box scores cached | % cached | seasons complete |
 |---|---|---|---|---|---|---|---|---|
-| E | Euroleague | 27 | 2000-10-15 | 2026-05-24 | 6603 | 189 | 2.9% | 2/27 |
+| E | Euroleague | 27 | 2000-10-15 | 2026-05-24 | 6603 | 3212 | 48.6% | 15/27 |
 | J | U18 ANGT | 66 | 2003-05-09 | 2026-05-24 | 1464 | 1464 | 100.0% | 66/66 |
 | U | EuroCup | 25 | 2002-10-14 | 2026-04-28 | 4815 | 0 | 0.0% | 1/25 |
 
@@ -74,21 +74,21 @@ ever under-count.  They are flagged with `cutoff_inferred = 1`.
 
 | draft years | drafted players in identity file | with pre-draft intl rows | % of class | with Euroleague mins | with EuroCup mins | with ANGT |
 |---|---|---|---|---|---|---|
-| 2000-07 | 582 | 21 | 3.6% | 18 | 0 | 3 |
-| 2008-18 | 1017 | 37 | 3.6% | 1 | 0 | 36 |
-| 2019-25 | 900 | 55 | 6.1% | 0 | 0 | 55 |
+| 2000-07 | 582 | 49 | 8.4% | 49 | 0 | 3 |
+| 2008-18 | 1017 | 88 | 8.7% | 68 | 0 | 36 |
+| 2019-25 | 900 | 57 | 6.3% | 3 | 0 | 55 |
 | 2026 | 61 | 7 | 11.5% | 0 | 0 | 7 |
 
 ### Block fill rates
 
 | block | meaning | columns | median fill rate |
 |---|---|---|---|
-| el2_* | Euroleague | 55 | 16% |
+| el2_* | Euroleague | 55 | 60% |
 | eu2_* | EuroCup | 26 | 0% |
 | yng_* | young senior minutes | 9 | 100% |
-| angt_* | U18 ANGT | 26 | 84% |
+| angt_* | U18 ANGT | 26 | 50% |
 | club_* | clubs / registrations | 4 | 100% |
-| tier_* | league tier | 3 | 16% |
+| tier_* | league tier | 3 | 61% |
 | bio_* | bio | 1 | 99% |
 
 ## Matching to the identity file
@@ -122,19 +122,29 @@ birthdates for 947 of them (`age_verified_wiki.csv`).  Rule-based only:
    uses a different code space from the senior ones).  If a pid's codes disagree
    on birthdate, all of them are dropped and logged.
 
-Result: **125 person-code matches covering 125 pids**
+Result: **227 person-code matches covering 227 pids**
 (1 of them
 matched on birth year with a flagged day-level mismatch),
-of which **120 have at least one pre-draft game** and appear in
-`features.csv`.  `unmatched.csv` holds 3 rows:
+of which **201 have at least one pre-draft game** and appear in
+`features.csv`.  `unmatched.csv` holds 184 rows:
 
 | reason | persons |
 |---|---|
-| birthdate_conflict | 2 |
-| draft_year_before_first_season | 1 |
+| draft_year_before_first_season | 177 |
+| birthdate_conflict | 3 |
+| age_implausible_pick | 2 |
+| age_implausible_entry;draft_year_before_first_season | 1 |
+| age_implausible_entry | 1 |
+
+The dominant reason is `draft_year_before_first_season`, and it is **expected,
+not a failure**: it is an American or veteran player who was drafted first and
+only later moved to Europe (his first European season postdates his draft), so
+he has no pre-draft international production by construction.  The reasons that
+genuinely indicate a rejected identity are `birthdate_conflict`,
+`age_implausible_pick` and `ambiguous_multiple_pids`.
 
 Persons whose names never appear in the identity file at all are *not* logged:
-that is the overwhelming majority of the 6,006 European players in the
+that is the overwhelming majority of the 7,757 European players in the
 API and would drown the report.  Only name hits that were *rejected* (and
 ambiguous cases) are reported.
 
@@ -176,7 +186,7 @@ written as 0; a *rate* with no denominator (his `eu2_ts`) is left empty.
 | `*_start_games` | games where the `startFive` flag was reliable (exactly five flagged on that side) - the denominator for `*_starts` |
 | `*_start_rate` | `*_starts / *_start_games` |
 | `*_min` | total minutes |
-| `*_min_share` | his minutes / his team's minutes available, summed over every game he was in the box score (DNPs included in the denominator).  Team minutes available = sum of that team's player minutes in that game, i.e. 200 for a 40-minute game, scaling correctly for overtime |
+| `*_min_share` | his minutes / his team's minutes available, summed over every game he was in the box score (DNPs included in the denominator).  Team minutes available = sum of that team's player minutes in that game, i.e. 200 for a 40-minute game, scaling correctly for overtime.  Three-way semantics: **empty** = never in a box score for that competition, **0.0** = dressed for at least one game but never played (`*_dnp > 0`, a real and meaningful zero - a teenager carried on a Euroleague roster), **>0** = played |
 | `*_pts40 *_oreb40 *_dreb40 *_ast40 *_stl40 *_blk40 *_tov40 *_pf40 *_pir40` | per-40-minute rates |
 | `*_ts` | true shooting: `PTS / (2 * (FGA + 0.44*FTA))` |
 | `*_efg` | effective FG%: `(FGM + 0.5*3PM) / FGA` |

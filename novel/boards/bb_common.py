@@ -207,6 +207,33 @@ def capture_missing(source, ts, original):
     return os.path.exists(cache_path(source, ts, original) + ".miss")
 
 
+# The Wayback CDX index contains artefacts of relative-link crawling such as
+# /rankings/NCAA-Sophomores/nba-mock-draft/2008/ and /profile/Josh-Smith-4421/
+# nba-mock-draft/2008/.  Only the canonical page shapes are parsed.
+URL_SHAPE = {
+    "nd_board": re.compile(r"^/ranking/bigboard/?$", re.I),
+    "nd_crowd": re.compile(r"^/nba[-_]mock[-_]drafts/(?:recent_)?consensus/?$", re.I),
+    "dx_board": re.compile(r"^/rankings/top-100-prospects(?:/[1-5])?(?:/printable)?/?$", re.I),
+    "dx_mock": re.compile(r"^/nba-mock-draft(?:/\d{4})?(?:/list)?/?$", re.I),
+    "dx_mockx": re.compile(r"^/nba-mock-draft-extended(?:/\d{4}|\.php)?/?$", re.I),
+}
+ND_MOCK_BAD = re.compile(
+    r"/(article|profile|players|rankings|forum|comment|node|tag)/"
+    r"|/nba[-_]mock[-_]drafts/\d+"        # a single USER-submitted mock
+    r"|/nba[-_]mock[-_]drafts/(?:recent_)?consensus", re.I)
+
+
+def url_ok(source, url):
+    path = re.sub(r"^https?://[^/]*", "", url)
+    path = path.split("#")[0].split("?")[0]
+    path = re.sub(r"/{2,}", "/", path)
+    if source in URL_SHAPE:
+        return bool(URL_SHAPE[source].match(path))
+    if source == "nd_mock":
+        return bool(re.search(r"mock", path, re.I)) and not ND_MOCK_BAD.search(path)
+    return True
+
+
 # --- draft calendar ---------------------------------------------------------
 DRAFT_DATE = {
     2000: "2000-06-28", 2001: "2001-06-27", 2002: "2002-06-26", 2003: "2003-06-26",

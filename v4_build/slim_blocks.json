@@ -1,0 +1,52 @@
+{
+ "dp": [
+  "dp_early_entrant"
+ ],
+ "dv": [
+  "dv_impact_resid_cons",
+  "dv_length_pc1",
+  "dv_impact_pct",
+  "dv_cohort_offset_d",
+  "dv_tall",
+  "dv_athl_pc1",
+  "dv_cons_hype_resid"
+ ],
+ "gl2": [
+  "gl2_stl40",
+  "gl2_t100_spg",
+  "gl2_ast40",
+  "gl2_close_d_gmsc40",
+  "gl2_close_d_ts",
+  "gl2_late_d_ast40",
+  "gl2_ncaa_d_stl40",
+  "gl2_d100_efg",
+  "gl2_pase_neg",
+  "gl2_ncaa_d_tov40"
+ ],
+ "sc": [
+  "sc_intangibles",
+  "sc_athleticism",
+  "sc_leadership",
+  "sc_defense",
+  "sc_nbaready"
+ ],
+ "tc": [
+  "tc_first_bpm",
+  "tc_seasons_span",
+  "tc_age_at_season",
+  "tc_pct_age_bpm",
+  "tc_pct_age_stl",
+  "tc_conf_tourn_wins",
+  "tc_bpm_first_to_last",
+  "tc_pct_age_obpm",
+  "tc_bpm_share",
+  "tc_champion"
+ ],
+ "wt": [
+  "wt_years_hs_to_draft",
+  "wt_hs_track",
+  "wt_hs_football",
+  "wt_transferred",
+  "wt_hs_multisport"
+ ]
+}

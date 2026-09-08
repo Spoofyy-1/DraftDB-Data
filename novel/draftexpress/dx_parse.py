@@ -57,7 +57,8 @@ def to_inches(v):
     s = _defrac(s)
     m = FT_RE.match(s)
     if m:
-        return int(m.group(1)) * 12 + float(m.group(2) or 0) + float(m.group(3) or 0)
+        x = int(m.group(1)) * 12 + float(m.group(2) or 0) + float(m.group(3) or 0)
+        return x if x > 0 else None          # DX writes 0'0" for "not measured"
     m = NUM_RE.match(s)
     if m:
         x = float(m.group(1)) + float(m.group(2) or 0)
@@ -100,6 +101,18 @@ NEW_HDR = ["player", "year", "draft pick", "height", "wingspan", "standing reach
            "weight", "body fat", "hand", "bench", "agility", "sprint"]
 PROF_HDR = ["year", "source", "height w/o shoes", "height w/ shoes", "weight", "wingspan",
             "standing reach", "no step vert", "max vert"]
+# the profile "Measurements" table has two layouts (the pre-2016 one adds Body Fat), so it is
+# read header-driven rather than positionally.
+PROF_MAP = {
+    "year": "_year", "source": "_source", "height w/o shoes": "height_noshoes_in",
+    "height w/ shoes": "height_shoes_in", "height w/shoes": "height_shoes_in",
+    "weight": "weight_lb", "wingspan": "wingspan_in", "standing reach": "standing_reach_in",
+    "reach": "standing_reach_in", "body fat": "body_fat_pct", "no step vert": "nostep_vert_in",
+    "no step vert reach": "nostep_vert_reach_in", "max vert": "max_vert_in",
+    "max vert reach": "max_vert_reach_in", "hand length": "hand_length_in",
+    "hand width": "hand_width_in", "bench": "bench_reps", "agility": "agility_s",
+    "sprint": "sprint_s",
+}
 
 
 def cells(tr):
@@ -284,25 +297,28 @@ def parse_profiles():
             if len(trs) < 2:
                 continue
             hdr = [c.lower() for c in cells(trs[0])]
-            if hdr != PROF_HDR:
+            if hdr[:2] != ["year", "source"] or "wingspan" not in hdr:
                 continue
+            cols = [PROF_MAP.get(x, "_") for x in hdr]
             for tr in trs[1:]:
                 c = cells(tr)
-                if len(c) != 9 or not re.match(r"^\d{4}$", c[0] or ""):
+                if len(c) != len(cols) or not re.match(r"^\d{4}$", c[0] or ""):
                     continue
-                out.append({
-                    "src_kind": "profile", "src_path": f"/profile/{r['slug']}-{r['dx_id']}/",
-                    "capture_ts": r.get("capture_ts", ""), "player_name": name,
-                    "dx_id": r["dx_id"], "dx_slug": r["slug"], "event_year": int(c[0]),
-                    "source": c[1].strip(), "source_from": "profile", "draft_pick": None,
-                    "height_noshoes_in": to_inches(c[2]), "height_shoes_in": to_inches(c[3]),
-                    "wingspan_in": to_inches(c[5]), "standing_reach_in": to_inches(c[6]),
-                    "max_vert_in": to_inches(c[8]), "max_vert_reach_in": None,
-                    "nostep_vert_in": to_inches(c[7]), "nostep_vert_reach_in": None,
-                    "weight_lb": to_float(c[4]), "body_fat_pct": None,
-                    "hand_length_in": None, "hand_width_in": None, "bench_reps": None,
-                    "agility_s": None, "sprint_s": None,
-                })
+                rec = {"src_kind": "profile",
+                       "src_path": f"/profile/{r['slug']}-{r['dx_id']}/",
+                       "capture_ts": r.get("capture_ts", ""), "player_name": name,
+                       "dx_id": r["dx_id"], "dx_slug": r["slug"], "event_year": int(c[0]),
+                       "source": c[1].strip(), "source_from": "profile", "draft_pick": None}
+                for k in MEAS:
+                    rec[k] = None
+                for nm, val in zip(cols, c):
+                    if nm in INCH_FIELDS:
+                        rec[nm] = to_inches(val)
+                    elif nm in ZERO_NULL:
+                        rec[nm] = to_float(val, zero_is_null=True)
+                    elif nm in MEAS:
+                        rec[nm] = to_float(val)
+                out.append(rec)
     return out, meta, n
 
 

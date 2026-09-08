@@ -216,8 +216,8 @@ _TRANSLIT = str.maketrans({"ı": "i", "İ": "I", "ł": "l", "Ł": "L", "đ": "d"
 def norm_name(s):
     """lowercase ascii letters only; accents stripped, punctuation dropped, trailing Jr/Sr/II/III/IV/V removed."""
     s = unicodedata.normalize("NFKD", str(s)).encode("ascii", "ignore").decode()
-    toks = re.split(r"[\s]+", s.lower().replace(".", " ").replace(",", " ").replace("'", "").replace("-", " "))
-    while toks and re.sub(r"[^a-z]", "", toks[-1]) in _SUFFIXES and len(toks) > 1:
+    toks = [t for t in re.split(r"\s+", s.lower().replace(".", " ").replace(",", " ").replace("'", "").replace("-", " ")) if t]
+    while len(toks) > 1 and re.sub(r"[^a-z]", "", toks[-1]) in _SUFFIXES:
         toks.pop()
     return re.sub(r"[^a-z]", "", "".join(toks))
 
@@ -243,6 +243,10 @@ ALIAS_PAIRS = [
     ("nicolasclaxton", "nicclaxton"), ("marcoslouzadasilva", "didilouzada"), ("nahshonhyland", "boneshyland"),
     ("cameronthomas", "camthomas"), ("alexandresarr", "alexsarr"), ("ronaldholland", "ronholland"),
     ("carltoncarrington", "bubcarrington"), ("lrmbahamoute", "lucmbahamoute"),
+    # found by this collector: the profile page spells the name out in full / uses the short form
+    ("michaelsweetney", "mikesweetney"), ("borisdiawriffiod", "borisdiaw"), ("mowilliams", "mauricewilliams"),
+    ("marcelotieppohuertas", "marcelohuertas"), ("iboudiankobadji", "iboubadji"),
+    ("herbjones", "herbertjones"), ("vinceedwards", "vincentedwards"), ("rokkozikarsky", "roccozikarsky"),
 ]
 ALIASES = {}
 for _a, _b in ALIAS_PAIRS:
@@ -335,12 +339,17 @@ def _grid_group(text, position):
     return None
 
 
-_TEXT_END = (r"(?:Strengths?:|Weakness(?:es)?:|NBA Comparison:|Notes?:|Outlook:|Overall:|High School:|College:|Related|"
-             r"YouTube|Youtube|[A-Z][a-z]+(?: [A-Z]\.)? [A-Z][A-Za-z']+(?: III| Jr\.?)?\s*[-–—]?\s*"
+# the site's own headings are inconsistently spelled: Strengths / Strength / Strenghts / Strenths / Stregnths,
+# Weaknesses / Weakness / Weasknesses, sometimes with a space before the colon. Missing one of these silently
+# swallows the following section, so every observed spelling is accepted.
+_S_LABEL = r"Str(?:e(?:ng(?:th|ht)|gnth|nth)s?)\s*:"
+_W_LABEL = r"Wea(?:k|sk)ness(?:es)?\s*:"
+_TEXT_END = (r"(?:" + _S_LABEL + r"|" + _W_LABEL + r"|NBA Comparison\s*:|Notes?:|Outlook:|Overall:|High School:|College:|"
+             r"Related|YouTube|Youtube|[A-Z][a-z]+(?: [A-Z]\.)? [A-Z][A-Za-z']+(?: III| Jr\.?)?\s*[-–—]?\s*"
              r"\d{1,2}/\d{1,2}/\d{2,4}|$)")  # next section / author signature
-_STRENGTHS = re.compile(r"Strengths?:\s*(.*?)\s*(?=" + _TEXT_END + ")", re.S)
-_WEAKNESSES = re.compile(r"Weakness(?:es)?:\s*(.*?)\s*(?=" + _TEXT_END + ")", re.S)
-_COMPARISON = re.compile(r"NBA Comparison:\s*(.{1,80}?)\s*(?=" + _TEXT_END + ")", re.S)
+_STRENGTHS = re.compile(_S_LABEL + r"\s*(.*?)\s*(?=" + _TEXT_END + ")", re.S)
+_WEAKNESSES = re.compile(_W_LABEL + r"\s*(.*?)\s*(?=" + _TEXT_END + ")", re.S)
+_COMPARISON = re.compile(r"NBA Comparison\s*:\s*(.{1,80}?)\s*(?=" + _TEXT_END + ")", re.S)
 
 
 def _flat(el):
@@ -528,7 +537,7 @@ def fetch_profile(pid, name, year, slugs, caps_by_slug):
     for slug in sorted(pre, key=lambda s: pre[s][0][0], reverse=True):
         for ts, url in pre[slug][:MAX_TRIES]:
             text = _download(ts, url)
-            if text is None or len(text) < 2000:
+            if text is None or len(text) < 800:  # the 2000-2008 bio-only stubs are ~1.5-2 KB
                 continue
             try:
                 p = parse_profile(text)
@@ -583,7 +592,7 @@ def _checkpoint(rec):
             os.fsync(fh.fileno())
 
 
-def download_all(retry=False, workers=2, years=None):
+def download_all(retry=False, workers=2, years=None, statuses=None):
     index = build_index()
     caps_by_slug = {}
     for slug, ts, url in zip(index.slug, index.ts, index.url):
@@ -612,16 +621,23 @@ def download_all(retry=False, workers=2, years=None):
             lo, hi = "%d0901" % (y - 3), DRAFT_NIGHT[y] + CUTOFF_HHMM
             if any(lo <= ts < hi for ts in caps):
                 keep.append(pid)
-        # a slug still claimed by two players (same normalised name, overlapping draft cycles) is not guessed at
-        drop = pids if len(keep) > 1 else [p for p in pids if p not in keep]
+        # Two identity rows with the SAME draft year and an alias-equal name are one player entered twice
+        # ("Cam Thomas" / "Cameron Thomas", 2021), so they legitimately share the profile and the cutoff.
+        # Claimants from different draft cycles are two different people and are never guessed at.
+        ambiguous = len({years_by_pid[p] for p in keep}) > 1
+        drop = pids if ambiguous else [p for p in pids if p not in keep]
         for pid in drop:
             cands[pid] = [x for x in cands[pid] if x != s]
             unmatched.append({"pid": pid, "draft_year": years_by_pid[pid], "slug": s, "n_pids_sharing": len(pids),
-                              "reason": "ambiguous_shared_slug" if len(keep) > 1 else "shared_slug_no_capture_in_window"})
+                              "reason": "ambiguous_shared_slug" if ambiguous else "shared_slug_no_capture_in_window"})
     if unmatched:
         pd.DataFrame(unmatched).to_csv(HERE / "unmatched.csv", index=False)
 
-    todo = [pid for pid in pool.pid if pid not in done or (retry and done[pid].get("status") != "ok")]
+    def _redo(pid):
+        st = done[pid].get("status")
+        return retry and st != "ok" and (statuses is None or st in statuses)
+
+    todo = [pid for pid in pool.pid if pid not in done or _redo(pid)]
     names = dict(zip(pool.pid, pool.player_name))
     print(f"{len(pool)} players, {len(done)} already recorded, {len(todo)} to fetch", flush=True)
     t0 = time.time()
@@ -712,12 +728,45 @@ def write_coverage(out):
         len(g), g.sc_has_profile.sum(), 100 * g.sc_has_profile.mean(), g.sc_athleticism.notna().sum(),
         100 * g.sc_athleticism.notna().mean(), g.sc_words_strengths.notna().sum(),
         100 * g.sc_words_strengths.notna().mean(), ("%.0f" % days.median()) if len(days) else "-"), ""]
+    dr = m[m.actual_pick.notna()]
+    lines += ["Restricted to players with an actual draft pick (the identity file also carries undrafted players):", "",
+              "| draft-year band | drafted | with pre-draft profile | with 1-10 grid | with Strengths/Weaknesses |",
+              "|---|---|---|---|---|"]
+    for lab, a, b in BANDS + [("all", 2000, 2026)]:
+        g = dr[(dr.draft_year >= a) & (dr.draft_year <= b)]
+        if not len(g):
+            continue
+        lines.append("| %s | %d | %d (%.0f%%) | %d (%.0f%%) | %d (%.0f%%) |" % (
+            lab, len(g), g.sc_has_profile.sum(), 100 * g.sc_has_profile.mean(),
+            g.sc_athleticism.notna().sum(), 100 * g.sc_athleticism.notna().mean(),
+            g.sc_words_strengths.notna().sum(), 100 * g.sc_words_strengths.notna().mean()))
+    lines.append("")
     lines += ["Per-year detail is in `status.csv`. Why the misses (all pids):", "", "```"]
     lines += st.status.value_counts().to_string().splitlines()
     lines += ["```", "",
-              "Post-draft captures seen and rejected for these players: %d." % int(
+              "* `no_content` = the profile page existed pre-draft but the site had not written it yet: every grade",
+              "  shows `NA`/0 and there is no Strengths/Weaknesses text. Common on the WordPress site, where a page is",
+              "  created for every prospect.",
+              "* Of the %d profiles that were used, %d carry real grades; the other %d have a grid of zeros" % (
+                  int(m.sc_has_profile.sum()), int(m.sc_athleticism.notna().sum()),
+                  int(m.sc_has_profile.sum() - m.sc_athleticism.notna().sum())),
+              "  (page graded after the capture, or never) or are the grid-less `old` layout, and contribute only the",
+              "  text features.",
+              "* Post-draft captures seen for these players and rejected: %d." % int(
                   pd.to_numeric(st.n_rejected_postdraft, errors="coerce").fillna(0).sum()),
-              "NBA comparisons captured in `comps.csv`: %d." % len(pd.read_csv(HERE / "comps.csv")), ""]
+              "* NBA comparisons captured in `comps.csv`: %d." % len(pd.read_csv(HERE / "comps.csv")),
+              "* Layout of the captures actually used: %s." % ", ".join(
+                  "%s %d" % (k, v) for k, v in pd.read_csv(HERE / "provenance.csv").layout.value_counts().items()),
+              ""]
+    dd = m.sc_capture_days_before_draft.dropna()
+    gg = m.loc[m.sc_athleticism.notna(), "sc_capture_days_before_draft"]
+    lines += ["Capture staleness (`sc_capture_days_before_draft`), share within N days of draft night:", "",
+              "| | <= 90d | <= 180d | <= 365d | <= 730d | median | max |", "|---|---|---|---|---|---|---|"]
+    for lab, x in [("all profiles", dd), ("graded profiles", gg)]:
+        lines.append("| %s | %.0f%% | %.0f%% | %.0f%% | %.0f%% | %.0f | %.0f |" % (
+            lab, 100 * (x <= 90).mean(), 100 * (x <= 180).mean(), 100 * (x <= 365).mean(),
+            100 * (x <= 730).mean(), x.median(), x.max()))
+    lines.append("")
     txt = (HERE / "README.md").read_text()
     head, _, rest = txt.partition("<!-- COVERAGE -->")
     tail = rest[rest.index("\n## "):] if "\n## " in rest else ""
@@ -753,13 +802,15 @@ if __name__ == "__main__":
     ap.add_argument("--retry", action="store_true")
     ap.add_argument("--workers", type=int, default=2)
     ap.add_argument("--years", type=str, default="")
+    ap.add_argument("--statuses", type=str, default="", help="with --retry: only re-try these statuses")
     a = ap.parse_args()
     yrs = [int(y) for y in a.years.split(",")] if a.years else None
     if a.stage in ("index", "all"):
         idx = build_index()
         print(f"index: {len(idx)} captures, {idx.slug.nunique()} slugs", flush=True)
     if a.stage in ("download", "all"):
-        download_all(retry=a.retry, workers=a.workers, years=yrs)
+        download_all(retry=a.retry, workers=a.workers, years=yrs,
+                     statuses=set(a.statuses.split(",")) if a.statuses else None)
     if a.stage in ("build", "all"):
         res = build()
         report(res)

@@ -14,7 +14,8 @@ from collections import defaultdict
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import bb_parse as P  # noqa: E402
 from bb_common import (BASE, DRAFT_CUTOFF, RAW, board_year_for_ts, cache_path,  # noqa: E402
-                       days_before_draft, log, norm_name, strip_tags, ts_dt)
+                       days_before_draft, log, norm_name, strip_tags, ts_dt,
+                       url_ok)
 
 IDENT = "/Users/kennakao/Downloads/nba_redraft_handoff/identity_KEEP_SEPARATE/tabular_names.csv"
 PLAN = os.path.join(RAW, "fetch_plan.csv")
@@ -62,7 +63,7 @@ class Matcher(object):
         self.unmatched = []
         self.cache = {}
 
-    def match(self, name, year, source):
+    def match(self, name, year, source, log=True):
         key = (year, norm_name(name))
         if key in self.cache:
             return self.cache[key]
@@ -92,39 +93,12 @@ class Matcher(object):
                     elif cand3:
                         rule = "ambiguous_last"
         self.cache[key] = pid
-        if pid is None:
+        if pid is None and log:
             self.unmatched.append((source, year, name, rule or "no_candidate"))
         return pid
 
 
 # ------------------------------------------------------------------- parsing
-# The Wayback CDX index contains artefacts of relative-link crawling such as
-# /rankings/NCAA-Sophomores/nba-mock-draft/2008/ and /profile/Josh-Smith-4421/
-# nba-mock-draft/2008/.  Only the canonical page shapes are parsed.
-URL_SHAPE = {
-    "nd_board": re.compile(r"^/ranking/bigboard/?$", re.I),
-    "nd_crowd": re.compile(r"^/nba[-_]mock[-_]drafts/(?:recent_)?consensus/?$", re.I),
-    "dx_board": re.compile(r"^/rankings/top-100-prospects(?:/[1-5])?(?:/printable)?/?$", re.I),
-    "dx_mock": re.compile(r"^/nba-mock-draft(?:/\d{4})?(?:/list)?/?$", re.I),
-    "dx_mockx": re.compile(r"^/nba-mock-draft-extended(?:/\d{4}|\.php)?/?$", re.I),
-}
-ND_MOCK_BAD = re.compile(
-    r"/(article|profile|players|rankings|forum|comment|node|tag)/"
-    r"|/nba[-_]mock[-_]drafts/\d+"        # a single USER-submitted mock
-    r"|/nba[-_]mock[-_]drafts/(?:recent_)?consensus", re.I)
-
-
-def url_ok(source, url):
-    path = re.sub(r"^https?://[^/]*", "", url)
-    path = path.split("#")[0].split("?")[0]
-    path = re.sub(r"/{2,}", "/", path)
-    if source in URL_SHAPE:
-        return bool(URL_SHAPE[source].match(path))
-    if source == "nd_mock":
-        return bool(re.search(r"mock", path, re.I)) and not ND_MOCK_BAD.search(path)
-    return True
-
-
 def parse_all():
     """Parse every cached capture in the plan -> raw/parsed.jsonl.gz"""
     plan = list(csv.DictReader(open(PLAN)))
@@ -173,6 +147,11 @@ def parse_all():
             rec["page"] = dx_page_of(orig)
         if src == "stepien":
             rec["layout"] = layout
+            # a dated Stepien post carries its publication date in the path;
+            # that, not the capture time, is when the board was knowable
+            pm = re.search(r"thestepien\.com/(20\d\d)/(\d\d)/(\d\d)/", orig)
+            if pm:
+                rec["pub_ts"] = "%s%s%s120000" % pm.groups()
         out.write(json.dumps(rec) + "\n")
         n_ok += 1
         if (i + 1) % 500 == 0:
@@ -198,6 +177,29 @@ def load_parsed():
 
 # ------------------------------------------------ class-year sanity for boards
 MIN_AGREE = 0.20   # a board must share >=20% of its top 30 with a draft class
+# A post-draft mock capture is refused when too many of its picks land exactly
+# on the real draft slot: that is a results page, not a mock.  Measured over
+# 464 strictly pre-draft mock captures the exact-agreement rate never exceeded
+# 0.27 (median 0.09), while nbadraft.net's /mocks/2008_nba_draft.html scores
+# 1.00.  0.35 sits clear of every genuine mock observed.
+MAX_RESULT_AGREE = 0.35
+
+
+def results_agreement(rows, year, matcher, pick_by_pid):
+    """Fraction of a mock's picks that exactly equal the real draft slot.
+    Returns None when too few entries could be matched to judge."""
+    hits = tot = 0
+    for row in rows:
+        pid = matcher.match(row["name"], year, "leak_check", log=False)
+        if not pid:
+            continue
+        ap = pick_by_pid.get(pid)
+        if ap is None:
+            continue
+        tot += 1
+        if int(ap) == row["rank"]:
+            hits += 1
+    return (hits / tot) if tot >= 10 else None
 
 
 def class_year_check(rows, cal_year, ident_by_year):
@@ -222,9 +224,14 @@ def class_year_check(rows, cal_year, ident_by_year):
     return chosen, fracs
 
 
-def sig(rows, k=25):
+def sig(rows):
+    """Signature of a published board/mock state: the FULL (rank, name) list.
+
+    (An earlier version hashed only the top 25, which collapsed a complete
+    100-man board into an earlier state that shared its top 25 and left a
+    single 25-entry page standing as the "final" board.)"""
     return tuple((r["rank"], norm_name(r["name"]))
-                 for r in sorted(rows, key=lambda x: x["rank"])[:k])
+                 for r in sorted(rows, key=lambda x: x["rank"]))
 
 
 def dedupe_states(recs):
@@ -298,13 +305,17 @@ def main():
     for r in ident:
         ident_by_year[r["year"]].add(r["norm"])
     M = Matcher(ident)
+    pick_by_pid = {r["pid"]: (float(r["pick"]) if r["pick"] else None) for r in ident}
 
     # ---- group captures by (source, class year), fixing the class year -----
     groups = defaultdict(list)
     yearlog = []
     for r in recs:
         y = r["year_cal"]
-        if r["source"] == "nd_board" and r["n"] >= MIN_BOARD:
+        checkable = (r["source"] == "nd_board" and r["n"] >= MIN_BOARD) or \
+                    (r["source"] in ("nd_mock", "nd_crowd", "dx_mock", "dx_mockx")
+                     and r["n"] >= MIN_MOCK)
+        if checkable:
             y2, fracs = class_year_check(r["rows"], y, ident_by_year)
             if y2 is None:
                 yearlog.append((r["source"], r["ts"], y, "DROPPED",
@@ -318,13 +329,23 @@ def main():
         r["year"] = y
         if y not in DRAFT_CUTOFF or not (2001 <= y <= 2025):
             continue
-        # Only the big boards may use a post-draft ("frozen") capture, and only
-        # after the content check has confirmed the class.  Mocks, the crowd
-        # consensus and Stepien pages must be captured strictly before draft
-        # night, so a page silently updated with the real results can never
-        # leak into a feature.
-        if r["source"] != "nd_board" and r["dbd"] < 0:
-            continue
+        if r.get("pub_ts"):          # Stepien dated post: date it by publication
+            r["dbd"] = days_before_draft(r["pub_ts"], y)
+        # Post-draft ("frozen") captures are allowed for the big boards, which
+        # freeze until late August, and for mocks whose URL names the class --
+        # but a mock page may have been silently replaced by the real results,
+        # so each frozen mock must pass the exact-agreement guard first.
+        if r["dbd"] < 0:
+            if r["source"] == "nd_board":
+                pass
+            elif r["source"] in ("nd_mock", "dx_mock", "dx_mockx", "nd_crowd"):
+                agree = results_agreement(r["rows"], y, M, pick_by_pid)
+                if agree is None or agree >= MAX_RESULT_AGREE:
+                    yearlog.append((r["source"], r["ts"], y, "RESULTS_LEAK",
+                                    "" if agree is None else round(agree, 2), ""))
+                    continue
+            else:
+                continue
         groups[(r["source"], y)].append(r)
 
     # ---- dx board -----------------------------------------------------
@@ -386,7 +407,9 @@ def main():
         # post-draft capture is only the fallback for classes where the archive
         # missed the pre-draft window entirely
         pre_rs = [r for r in rs if r["dbd"] >= 0]
-        final = (pre_rs or rs)[-1]
+        cand = pre_rs or rs
+        full = [r for r in cand if r["n"] >= 50]
+        final = (full or cand)[-1]
         # rank lookup per capture
         ranked = []
         for r in rs:
@@ -451,7 +474,7 @@ def main():
         rs = [r for r in groups.get(("nd_mock", y), []) if r["n"] >= MIN_MOCK]
         if not rs:
             continue
-        rs.sort(key=lambda x: (nd_version(x["url"]), x["ts"]))
+        rs.sort(key=lambda x: x["ts"])
         final = rs[-1]
         for row in final["rows"]:
             pid = M.match(row["name"], y, "nd_mock")
@@ -479,7 +502,9 @@ def main():
             continue
         ded = dedupe_states(caps)
         ded.sort(key=lambda x: x["ts"])
-        final = ded[-1]
+        # the final board must be a full board, not a stray single page
+        full = [c for c in ded if c["n"] >= 50]
+        final = (full or ded)[-1]
         c30 = at_or_before(ded, 30.0)
         fm = {}
         for row in final["rows"]:
@@ -513,6 +538,10 @@ def main():
         picks = defaultdict(list)
         firsts = {}
         for r in allr:
+            if r["dbd"] < 0:
+                # a frozen post-draft capture may stand in for the FINAL mock
+                # (below) but never contributes to a time-series feature
+                continue
             for row in r["rows"]:
                 pid = M.match(row["name"], y, "dx_mock")
                 if not pid:
@@ -539,9 +568,12 @@ def main():
         rs = groups.get(("stepien", y), [])
         if not rs:
             continue
-        grid = sorted([r for r in rs if r.get("layout") == "grid" and r["n"] >= 15],
+        # The Stepien's boards are short by design (the 2020 composite is a
+        # 12-man tiered board), so the minimum here is lower than for a
+        # 60-pick mock or a 100-man board.
+        grid = sorted([r for r in rs if r.get("layout") == "grid" and r["n"] >= 10],
                       key=lambda x: x["ts"])
-        comp = sorted([r for r in rs if r.get("layout") == "composite" and r["n"] >= 15],
+        comp = sorted([r for r in rs if r.get("layout") == "composite" and r["n"] >= 10],
                       key=lambda x: x["ts"])
         posts = [r for r in rs if r.get("layout") == "post" and r["n"] >= 15]
 
@@ -588,7 +620,10 @@ def main():
         if not done_disp and posts:
             by_analyst = defaultdict(list)
             for r in posts:
-                by_analyst[stepien_analyst(r["url"]) or r["url"]].append(r)
+                a = stepien_analyst(r["url"])
+                if a is None:
+                    continue      # unattributed lists (e.g. "sleepers") are not
+                by_analyst[a].append(r)   # one analyst's board
             boards = []
             for a, items in by_analyst.items():
                 items.sort(key=lambda x: x["ts"])
@@ -650,7 +685,9 @@ def main():
             if not d:
                 continue
             vals = [d.get(c, "") for c in cols]
-            if all(v == "" or v == 0 for v in vals):
+            # keep the row only if at least one real observation landed on it
+            # (bb_n_board_sources is always written, so it does not count)
+            if all(d.get(c) is None for c in cols if c != "bb_n_board_sources"):
                 continue
             w.writerow([pid] + ["" if v is None else v for v in vals])
             n_rows += 1

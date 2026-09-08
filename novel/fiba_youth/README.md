@@ -19,10 +19,10 @@ directory writes to `data_v4` or to any existing input file.
 | file | rows | contents |
 |---|---|---|
 | `features.csv` | 2560 | one row per pid in the identity file, 18 numeric `fy_*` columns, missing = empty |
-| `player_tournaments.csv` | 364 | one row per matched pid x tournament: level, dates, games, minutes, per-40 rates, shooting rates, age, team finish, and the tournament field's mean/SD for age and every per-40 stat |
-| `field_tournaments.csv` | 41 | one row per tournament actually parsed: id, level, dates, team count, roster size, qualified-field size, field mean/SD age, URL |
-| `unmatched.csv` | 5 | FIBA youth players whose name hit the identity file but were rejected or ambiguous, with the reason |
-| `provenance.csv` | 321 | pid -> FIBA person id, tournaments used, source URLs |
+| `player_tournaments.csv` | 871 | one row per matched pid x tournament: level, dates, games, minutes, per-40 rates, shooting rates, age, team finish, and the tournament field's mean/SD for age and every per-40 stat |
+| `field_tournaments.csv` | 317 | one row per tournament actually parsed: id, level, dates, team count, roster size, qualified-field size, field mean/SD age, URL |
+| `unmatched.csv` | 14 | FIBA youth players whose name hit the identity file but were rejected or ambiguous, with the reason |
+| `provenance.csv` | 484 | pid -> FIBA person id, tournaments used, source URLs |
 
 Raw pages are cached gzipped under `raw/pages/`, sitemaps under
 `raw/sitemaps/`, and the per-tournament extraction (which doubles as
@@ -66,51 +66,74 @@ roster rows.
 | `249-fiba-u17-basketball-world-cup` | 3 | world | A | U17 | 11 | 8 | 2010-2024 | 1245 | https://www.fiba.basketball/en/history/249-fiba-u17-basketball-world-cup |
 | `254-fiba-u18-afrobasket` | 3 | continental | A | U18 | 17 | 11 | 2000-2022 | 1017 | https://www.fiba.basketball/en/history/254-fiba-u18-afrobasket |
 | `256-fiba-u18-americup` | 3 | continental | A | U18 | 15 | 11 | 2002-2024 | 848 | https://www.fiba.basketball/en/history/256-fiba-u18-americup |
-| `258-fiba-u18-asia-cup` | 3 | continental | A | U18 | 19 | 1 | 2000-2000 | 0 | https://www.fiba.basketball/en/history/258-fiba-u18-asia-cup |
-| `263-fiba-u18-eurobasket` | 3 | continental | A | U18 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/263-fiba-u18-eurobasket |
-| `266-fiba-u18-oceania-championship` | 3 | continental | A | U18 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/266-fiba-u18-oceania-championship |
-| `224-fiba-u16-afrobasket` | 2 | continental | A | U16 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/224-fiba-u16-afrobasket |
-| `225-fiba-u16-americup` | 2 | continental | A | U16 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/225-fiba-u16-americup |
-| `228-fiba-u16-asia-cup` | 2 | continental | A | U16 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/228-fiba-u16-asia-cup |
-| `235-fiba-u16-eurobasket` | 2 | continental | A | U16 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/235-fiba-u16-eurobasket |
-| `237-fiba-u16-oceania-championship` | 2 | continental | A | U16 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/237-fiba-u16-oceania-championship |
-| `250-fiba-u17-oceania-championship` | 2 | continental | A | U17 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/250-fiba-u17-oceania-championship |
-| `114-cbc-u18-championship` | 1 | zone | B | U18 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/114-cbc-u18-championship |
-| `123-centrobasket-u15-championship` | 1 | zone | B | U15 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/123-centrobasket-u15-championship |
-| `125-centrobasket-u16-championship` | 1 | zone | B | U16 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/125-centrobasket-u16-championship |
-| `127-centrobasket-u17-championship-qualifiers` | 1 | zone | B | U17 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/127-centrobasket-u17-championship-qualifiers |
-| `128-centrobasket-u17-championship` | 1 | zone | B | U17 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/128-centrobasket-u17-championship |
-| `131-centrobasket-u18-championship` | 1 | zone | B | U18 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/131-centrobasket-u18-championship |
-| `133-centrobasket-u19-championship` | 1 | zone | B | U19 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/133-centrobasket-u19-championship |
-| `141-cocaba-u15-championship` | 1 | zone | B | U15 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/141-cocaba-u15-championship |
-| `143-cocaba-u16-championship` | 1 | zone | B | U16 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/143-cocaba-u16-championship |
-| `145-cocaba-u17-championship` | 1 | zone | B | U17 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/145-cocaba-u17-championship |
-| `148-cocaba-u19-championship` | 1 | zone | B | U19 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/148-cocaba-u19-championship |
-| `172-european-youth-olympic-days-basketball-tournament-for-junior-men` | 1 | zone | B | U16 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/172-european-youth-olympic-days-basketball-tournament-for-junior-men |
-| `174-fiba-africa-u16-zonal-championship-for-men` | 1 | zone | B | U16 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/174-fiba-africa-u16-zonal-championship-for-men |
-| `221-fiba-u15-oceania-championship` | 1 | zone | B | U15 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/221-fiba-u15-oceania-championship |
-| `223-fiba-u16-afrobasket-qualifiers` | 1 | zone | B | U16 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/223-fiba-u16-afrobasket-qualifiers |
-| `226-fiba-u16-asia-cup-caba-qualifier` | 1 | zone | B | U16 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/226-fiba-u16-asia-cup-caba-qualifier |
-| `227-fiba-u16-asia-cup-gba-qualifier` | 1 | zone | B | U16 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/227-fiba-u16-asia-cup-gba-qualifier |
-| `229-fiba-u16-asia-cup-saba-qualifier` | 1 | zone | B | U16 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/229-fiba-u16-asia-cup-saba-qualifier |
-| `230-fiba-u16-asia-cup-sea-qualifiers` | 1 | zone | B | U16 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/230-fiba-u16-asia-cup-sea-qualifiers |
-| `231-fiba-u16-asia-cup-waba-qualifier` | 1 | zone | B | U16 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/231-fiba-u16-asia-cup-waba-qualifier |
-| `232-fiba-u16-eurobasket-qualifiers` | 1 | continental | B | U16 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/232-fiba-u16-eurobasket-qualifiers |
-| `233-fiba-u16-eurobasket-division-b` | 1 | continental | B | U16 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/233-fiba-u16-eurobasket-division-b |
-| `234-fiba-u16-eurobasket-division-c` | 1 | continental | B | U16 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/234-fiba-u16-eurobasket-division-c |
-| `236-fiba-u16-european-challengers` | 1 | continental | B | U16 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/236-fiba-u16-european-challengers |
-| `253-fiba-u18-afrobasket-qualifiers` | 1 | zone | B | U18 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/253-fiba-u18-afrobasket-qualifiers |
-| `257-fiba-u18-asia-cup-gba-qualifier` | 1 | zone | B | U18 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/257-fiba-u18-asia-cup-gba-qualifier |
-| `259-fiba-u18-asia-cup-saba-qualifier` | 1 | zone | B | U18 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/259-fiba-u18-asia-cup-saba-qualifier |
-| `260-fiba-u18-asia-cup-waba-qualifier` | 1 | zone | B | U18 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/260-fiba-u18-asia-cup-waba-qualifier |
-| `261-fiba-u18-eurobasket-division-b` | 1 | continental | B | U18 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/261-fiba-u18-eurobasket-division-b |
-| `262-fiba-u18-eurobasket-division-c` | 1 | continental | B | U18 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/262-fiba-u18-eurobasket-division-c |
-| `264-fiba-u18-european-challengers` | 1 | continental | B | U18 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/264-fiba-u18-european-challengers |
-| `329-south-american-u15-championship` | 1 | zone | B | U15 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/329-south-american-u15-championship |
-| `331-south-american-u16-championship` | 1 | zone | B | U16 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/331-south-american-u16-championship |
-| `333-south-american-u17-championship` | 1 | zone | B | U17 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/333-south-american-u17-championship |
-| `335-south-american-u18-championship` | 1 | zone | B | U18 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/335-south-american-u18-championship |
-| `346-waba-u17-championships` | 1 | zone | B | U17 |  | 0 | - | 0 | https://www.fiba.basketball/en/history/346-waba-u17-championships |
+| `258-fiba-u18-asia-cup` | 3 | continental | A | U18 | 19 | 11 | 2000-2022 | 966 | https://www.fiba.basketball/en/history/258-fiba-u18-asia-cup |
+| `263-fiba-u18-eurobasket` | 3 | continental | A | U18 | 53 | 26 | 2000-2023 | 5066 | https://www.fiba.basketball/en/history/263-fiba-u18-eurobasket |
+| `266-fiba-u18-oceania-championship` | 3 | continental | A | U18 | 7 | 7 | 2002-2016 | 224 | https://www.fiba.basketball/en/history/266-fiba-u18-oceania-championship |
+| `224-fiba-u16-afrobasket` | 2 | continental | A | U16 | 10 | 9 | 2007-2023 | 815 | https://www.fiba.basketball/en/history/224-fiba-u16-afrobasket |
+| `225-fiba-u16-americup` | 2 | continental | A | U16 | 10 | 8 | 2009-2023 | 767 | https://www.fiba.basketball/en/history/225-fiba-u16-americup |
+| `228-fiba-u16-asia-cup` | 2 | continental | A | U16 | 8 | 7 | 2009-2023 | 1202 | https://www.fiba.basketball/en/history/228-fiba-u16-asia-cup |
+| `235-fiba-u16-eurobasket` | 2 | continental | A | U16 | 51 | 26 | 2000-2023 | 4767 | https://www.fiba.basketball/en/history/235-fiba-u16-eurobasket |
+| `237-fiba-u16-oceania-championship` | 2 | continental | A | U16 | 4 | 4 | 2009-2015 | 120 | https://www.fiba.basketball/en/history/237-fiba-u16-oceania-championship |
+| `250-fiba-u17-oceania-championship` | 2 | continental | A | U17 | 5 | 4 | 2017-2023 | 237 | https://www.fiba.basketball/en/history/250-fiba-u17-oceania-championship |
+| `114-cbc-u18-championship` | 1 | zone | B | U18 | 2 | 2 | 2005-2008 | 0 | https://www.fiba.basketball/en/history/114-cbc-u18-championship |
+| `123-centrobasket-u15-championship` | 1 | zone | B | U15 | 10 | 7 | 2011-2022 | 558 | https://www.fiba.basketball/en/history/123-centrobasket-u15-championship |
+| `125-centrobasket-u16-championship` | 1 | zone | B | U16 | 1 | 1 | 2009-2009 | 0 | https://www.fiba.basketball/en/history/125-centrobasket-u16-championship |
+| `127-centrobasket-u17-championship-qualifiers` | 1 | zone | B | U17 | 2 | 1 | 2022-2022 | 0 | https://www.fiba.basketball/en/history/127-centrobasket-u17-championship-qualifiers |
+| `128-centrobasket-u17-championship` | 1 | zone | B | U17 | 11 | 9 | 2007-2023 | 819 | https://www.fiba.basketball/en/history/128-centrobasket-u17-championship |
+| `131-centrobasket-u18-championship` | 1 | zone | B | U18 | 4 | 2 | 2002-2003 | 0 | https://www.fiba.basketball/en/history/131-centrobasket-u18-championship |
+| `133-centrobasket-u19-championship` | 1 | zone | B | U19 | 1 | 1 | 2005-2005 | 0 | https://www.fiba.basketball/en/history/133-centrobasket-u19-championship |
+| `141-cocaba-u15-championship` | 1 | zone | B | U15 | 2 | 2 | 2010-2014 | 70 | https://www.fiba.basketball/en/history/141-cocaba-u15-championship |
+| `143-cocaba-u16-championship` | 1 | zone | B | U16 | 7 | 5 | 2008-2019 | 349 | https://www.fiba.basketball/en/history/143-cocaba-u16-championship |
+| `145-cocaba-u17-championship` | 1 | zone | B | U17 | 3 | 3 | 2007-2011 | 0 | https://www.fiba.basketball/en/history/145-cocaba-u17-championship |
+| `148-cocaba-u19-championship` | 1 | zone | B | U19 | 1 | 1 | 2005-2005 | 36 | https://www.fiba.basketball/en/history/148-cocaba-u19-championship |
+| `172-european-youth-olympic-days-basketball-tournament-for-junior-men` | 1 | zone | B | U16 | 8 | 2 | 2000-2002 | 0 | https://www.fiba.basketball/en/history/172-european-youth-olympic-days-basketball-tournament-for-junior-men |
+| `174-fiba-africa-u16-zonal-championship-for-men` | 1 | zone | B | U16 | 3 | 3 | 2008-2012 | 46 | https://www.fiba.basketball/en/history/174-fiba-africa-u16-zonal-championship-for-men |
+| `221-fiba-u15-oceania-championship` | 1 | zone | B | U15 | 5 | 3 | 2018-2022 | 151 | https://www.fiba.basketball/en/history/221-fiba-u15-oceania-championship |
+| `223-fiba-u16-afrobasket-qualifiers` | 1 | zone | B | U16 | 9 | 8 | 2015-2023 | 41 | https://www.fiba.basketball/en/history/223-fiba-u16-afrobasket-qualifiers |
+| `226-fiba-u16-asia-cup-caba-qualifier` | 1 | zone | B | U16 | 3 | 2 | 2019-2023 | 79 | https://www.fiba.basketball/en/history/226-fiba-u16-asia-cup-caba-qualifier |
+| `227-fiba-u16-asia-cup-gba-qualifier` | 1 | zone | B | U16 | 4 | 3 | 2018-2023 | 155 | https://www.fiba.basketball/en/history/227-fiba-u16-asia-cup-gba-qualifier |
+| `229-fiba-u16-asia-cup-saba-qualifier` | 1 | zone | B | U16 | 3 | 2 | 2019-2023 | 95 | https://www.fiba.basketball/en/history/229-fiba-u16-asia-cup-saba-qualifier |
+| `230-fiba-u16-asia-cup-sea-qualifiers` | 1 | zone | B | U16 | 3 | 2 | 2017-2023 | 108 | https://www.fiba.basketball/en/history/230-fiba-u16-asia-cup-sea-qualifiers |
+| `231-fiba-u16-asia-cup-waba-qualifier` | 1 | zone | B | U16 | 3 | 3 | 2017-2022 | 176 | https://www.fiba.basketball/en/history/231-fiba-u16-asia-cup-waba-qualifier |
+| `232-fiba-u16-eurobasket-qualifiers` | 1 | continental | B | U16 | 28 | 0 | - | 0 | https://www.fiba.basketball/en/history/232-fiba-u16-eurobasket-qualifiers |
+| `233-fiba-u16-eurobasket-division-b` | 1 | continental | B | U16 | 22 | 19 | 2005-2023 | 4408 | https://www.fiba.basketball/en/history/233-fiba-u16-eurobasket-division-b |
+| `234-fiba-u16-eurobasket-division-c` | 1 | continental | B | U16 | 21 | 18 | 2002-2023 | 1433 | https://www.fiba.basketball/en/history/234-fiba-u16-eurobasket-division-c |
+| `236-fiba-u16-european-challengers` | 1 | continental | B | U16 | 1 | 1 | 2021-2021 | 334 | https://www.fiba.basketball/en/history/236-fiba-u16-european-challengers |
+| `253-fiba-u18-afrobasket-qualifiers` | 1 | zone | B | U18 | 6 | 4 | 2014-2022 | 156 | https://www.fiba.basketball/en/history/253-fiba-u18-afrobasket-qualifiers |
+| `257-fiba-u18-asia-cup-gba-qualifier` | 1 | zone | B | U18 | 3 | 3 | 2018-2022 | 204 | https://www.fiba.basketball/en/history/257-fiba-u18-asia-cup-gba-qualifier |
+| `259-fiba-u18-asia-cup-saba-qualifier` | 1 | zone | B | U18 | 1 | 1 | 2018-2018 | 60 | https://www.fiba.basketball/en/history/259-fiba-u18-asia-cup-saba-qualifier |
+| `260-fiba-u18-asia-cup-waba-qualifier` | 1 | zone | B | U18 | 2 | 2 | 2018-2022 | 106 | https://www.fiba.basketball/en/history/260-fiba-u18-asia-cup-waba-qualifier |
+| `261-fiba-u18-eurobasket-division-b` | 1 | continental | B | U18 | 22 | 19 | 2005-2023 | 4363 | https://www.fiba.basketball/en/history/261-fiba-u18-eurobasket-division-b |
+| `262-fiba-u18-eurobasket-division-c` | 1 | continental | B | U18 | 22 | 17 | 2001-2023 | 1322 | https://www.fiba.basketball/en/history/262-fiba-u18-eurobasket-division-c |
+| `264-fiba-u18-european-challengers` | 1 | continental | B | U18 | 1 | 1 | 2021-2021 | 382 | https://www.fiba.basketball/en/history/264-fiba-u18-european-challengers |
+| `329-south-american-u15-championship` | 1 | zone | B | U15 | 11 | 9 | 2008-2022 | 810 | https://www.fiba.basketball/en/history/329-south-american-u15-championship |
+| `331-south-american-u16-championship` | 1 | zone | B | U16 | 9 | 6 | 2001-2007 | 179 | https://www.fiba.basketball/en/history/331-south-american-u16-championship |
+| `333-south-american-u17-championship` | 1 | zone | B | U17 | 11 | 9 | 2005-2023 | 803 | https://www.fiba.basketball/en/history/333-south-american-u17-championship |
+| `335-south-american-u18-championship` | 1 | zone | B | U18 | 6 | 3 | 2000-2022 | 96 | https://www.fiba.basketball/en/history/335-south-american-u18-championship |
+| `346-waba-u17-championships` | 1 | zone | B | U17 | 1 | 1 | 2019-2019 | 0 | https://www.fiba.basketball/en/history/346-waba-u17-championships |
+
+### Editions present, top-tier competitions
+
+The archive is not gap-free.  Years actually captured, 2000-2025:
+
+* `276-fiba-u19-basketball-world-cup`: 2003, 2007, 2009, 2011, 2013, 2015, 2017, 2019, 2021, 2023
+* `249-fiba-u17-basketball-world-cup`: 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024
+* `254-fiba-u18-afrobasket`: 2000, 2002, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022
+* `256-fiba-u18-americup`: 2002, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2021, 2022, 2024
+* `258-fiba-u18-asia-cup`: 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2022
+* `263-fiba-u18-eurobasket`: 2000, 2000, 2000, 2002, 2002, 2002, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+* `266-fiba-u18-oceania-championship`: 2002, 2006, 2008, 2010, 2012, 2014, 2016
+* `224-fiba-u16-afrobasket`: 2007, 2009, 2011, 2013, 2015, 2017, 2019, 2021, 2023
+* `225-fiba-u16-americup`: 2009, 2011, 2013, 2015, 2017, 2019, 2021, 2023
+* `228-fiba-u16-asia-cup`: 2009, 2011, 2013, 2015, 2018, 2022, 2023
+* `235-fiba-u16-eurobasket`: 2000, 2001, 2001, 2001, 2003, 2004, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+* `237-fiba-u16-oceania-championship`: 2009, 2011, 2013, 2015
+* `250-fiba-u17-oceania-championship`: 2017, 2019, 2021, 2023
+
+The FIBA U19 World Cup editions of **2001 (Japan) and 2005
+(Argentina) are absent from FIBA's own competition sitemap**, so no
+player from those tournaments is in this block.  That is a source gap,
+not a filter, and it falls on the 2001-2008 draft classes.
 
 ### Level ladder (`fy_best_level`)
 
@@ -119,7 +142,19 @@ roster rows.
 * **2** - U16-U17 continental division A
 * **1** - division B/C, qualifier, challenger or sub-continental zone event
 
-One rule-based adjustment on top of that ladder: a division-A
+Two further rule-based adjustments on top of that ladder.
+
+**Same-season multi-phase records.** Before about 2005 FIBA files a
+European championship as several events under one season - e.g. U18
+EuroBasket 2000 appears as a 29-team qualifying round played in August
+1999, an 18-team second round in April 2000, and the 12-team final
+round in July 2000.  Within one competition-season the event with the
+smallest field is treated as the final round and keeps its level; the
+others drop one rung.  Each remains a separate row with its own dates
+and its own field distribution, because each really was a separate
+tournament, so `fy_n_tournaments` counts them separately.
+
+**Small continental fields.** A division-A
 continental championship whose field has fewer than 6 teams drops one
 rung.  The Oceania U16/U17/U18 championships are usually just Australia
 versus New Zealand, and beating New Zealand twice is not the same test
@@ -162,6 +197,13 @@ eFG%         = (FGM + 0.5*3PM) / FGA
 ```
 
 ### Tournament field distribution
+
+Age is measured at the tournament's **last day**.  For a normal 10-day
+event that is within a week of the start; for the few pre-2005 records
+where FIBA merged qualifying and final phases into one entry spanning
+months, it is the date of the final phase.  Age-relative features are
+unaffected by the choice because the whole field uses the same
+reference date.
 
 * **Age field** = every rostered player with a listed date of birth
   whose age at the tournament start is in [13, 21] years; values
@@ -217,8 +259,10 @@ editions), not per row, so a player's tournaments cannot disagree.
    year <= 8`.
 6. Exactly one surviving candidate -> match.  Zero or more than one ->
    written to `unmatched.csv` with the reason; never guessed.
-7. Post-check: if two FIBA persons claim the same pid, both are dropped
-   and logged.
+7. Post-check: if two FIBA persons claim the same pid (there are
+   several Marko Simonovics), keep the one whose birth year implies a
+   normal draft age (`17 <= draft_year - birth_year <= 28`) when that
+   singles one out; otherwise drop them all.  Every drop is logged.
 
 **Second pass (legal name vs common name).** FIBA uses passport names,
 so pass 1 misses `Benjamin Simmons` -> `Ben Simmons`,
@@ -292,9 +336,9 @@ tournament field's `field_<stat>_mean` and `field_<stat>_sd`, plus
 
 | band | with FIBA youth data | drafted players | share |
 |---|---|---|---|
-| 2000-2007 | 9 | 582 | 1.5% |
-| 2008-2018 | 152 | 1017 | 14.9% |
-| 2019-2025 | 121 | 900 | 13.4% |
+| 2000-2007 | 38 | 582 | 6.5% |
+| 2008-2018 | 212 | 1017 | 20.8% |
+| 2019-2025 | 195 | 900 | 21.7% |
 
 ### US vs international
 
@@ -308,12 +352,12 @@ exists to replace.)
 
 | group | with FIBA youth data | players | share |
 |---|---|---|---|
-| US / NCAA-track (col_gp present) | 208 | 1867 | 11.1% |
-| non-NCAA, i.e. international track | 67 | 552 | 12.1% |
-| not present in the v4 inputs | 7 | 141 | 5.0% |
+| US / NCAA-track (col_gp present) | 266 | 1867 | 14.2% |
+| non-NCAA, i.e. international track | 170 | 552 | 30.8% |
+| not present in the v4 inputs | 9 | 141 | 6.4% |
 
-Among the players actually covered, FIBA nationality splits **USA 156 /
-other 126** - USA Basketball sends full-strength teams to the U17 and
+Among the players actually covered, FIBA nationality splits **USA 173 /
+other 271** - USA Basketball sends full-strength teams to the U17 and
 U19 World Cups, so this block is not an internationals-only feature.
 
 Nike Hoop Summit: 39 pids flagged as World Select.

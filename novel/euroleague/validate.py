@@ -52,9 +52,19 @@ def main():
     print("\n== never fabricate a zero ==")
     for pre in ("el2", "eu2"):
         z = f[(f[f"{pre}_min"].fillna(0) == 0)]
-        for col in (f"{pre}_ts", f"{pre}_pts40", f"{pre}_usage", f"{pre}_min_share"):
+        for col in (f"{pre}_ts", f"{pre}_pts40", f"{pre}_usage"):
             check(z[col].notna().sum() == 0,
                   f"{col} is empty for players with no {pre} minutes")
+        # min_share is deliberately 0.0 for a player who was on the game-day
+        # roster but never played (a real zero); it must be EMPTY only for a
+        # player who never appeared in a box score for that competition at all.
+        never = f[(f[f"{pre}_min"].fillna(0) == 0) & (f[f"{pre}_dnp"].fillna(0) == 0)]
+        check(never[f"{pre}_min_share"].notna().sum() == 0,
+              f"{pre}_min_share is empty for players never in a {pre} box score")
+        rostered = f[(f[f"{pre}_min"].fillna(0) == 0) & (f[f"{pre}_dnp"].fillna(0) > 0)]
+        check((rostered[f"{pre}_min_share"].fillna(-1) == 0).all(),
+              f"{pre}_min_share is 0 for players rostered but never played "
+              f"({len(rostered)} such)")
     # a rate must never be exactly 0 just because data was missing
     check(f.el2_pm40.notna().sum() <= (f.el2_min > 0).sum(),
           "el2_pm40 is only populated for players with minutes")

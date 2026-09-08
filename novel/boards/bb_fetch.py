@@ -12,7 +12,7 @@ from collections import defaultdict
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from bb_common import (DRAFT_CUTOFF, RAW, board_year_for_ts, capture_missing,  # noqa: E402
-                       days_before_draft, get_capture, log, ts_dt)
+                       days_before_draft, get_capture, log, ts_dt, url_ok)
 
 INDEX = os.path.join(RAW, "index.csv")
 PLAN = os.path.join(RAW, "fetch_plan.csv")
@@ -43,7 +43,7 @@ def urlkey(u):
 def url_year(u):
     """Draft class year encoded in the URL path, if any."""
     m = re.search(r"(?<!\d)(20[0-2]\d)(?!\d)", u)
-    if m and 2001 <= int(m.group(1)) <= 2026:
+    if m and 2000 <= int(m.group(1)) <= 2026:
         return int(m.group(1))
     m = re.search(r"/mock(20\d\d)\.htm", u)
     if m:
@@ -97,13 +97,11 @@ def build_plan():
         # nbadraft.net crowd-aggregate pages live under both /nba-mock-drafts/
         # and the older /nba_mock_drafts/ (underscore) paths
         if src in ("nd_mock", "nd_crowd"):
-            if "consensus" in uk:
-                src = "nd_crowd"
-            else:
-                src = "nd_mock"
-        if src == "nd_mock" and re.search(r"/(forum|comment|node|tag|user|search)/", uk):
-            continue
-        if src == "nd_crowd" and ("forum" in uk or "?" in uk):
+            src = "nd_crowd" if "consensus" in uk else "nd_mock"
+        # Never spend a request (or a plan slot) on a URL the parsers reject:
+        # single USER-submitted mocks (/nba_mock_drafts/<id>), article pages,
+        # and stray relative-link artefacts from the archive's crawler.
+        if not url_ok(src, orig):
             continue
         uy = url_year(uk)
         if src in ("nd_board", "dx_board", "nd_crowd"):
@@ -143,21 +141,16 @@ def build_plan():
         items.sort()
         cap = CAPS.get(src, 30)
         if src == "nd_mock":
-            # the editorial mock only needs its LAST pre-draft edition, so take
-            # (a) the 12 captures closest to draft night and (b) up to 3 from
-            # each of the highest-numbered revision URLs, which is where the
-            # final edition lives in the 2017+ /YYYY-nba-mock-draft-N/ era.
+            # Only the LAST pre-draft edition is needed.  nbadraft.net keeps
+            # stale "/extended-nba-mock-draft-81"-style pages (frozen on the
+            # 2013 class) alive and heavily crawled for years, so captures
+            # whose URL names THIS class are taken first; undated URLs only
+            # fill the remainder.
             pre = [it for it in items if it[3] != "frozen"]
             post = [it for it in items if it[3] == "frozen"]
-            keep = pre[-12:] + post[-2:]
-            per_url = defaultdict(list)
-            for it in pre:
-                per_url[it[2]].append(it)
-            ranked = sorted(per_url.items(),
-                            key=lambda kv: (nd_mock_version(kv[0]),
-                                            max(x[0] for x in kv[1])), reverse=True)
-            for uk, its in ranked[:4]:
-                keep.extend(its[-3:])
+            tagged = [it for it in pre if str(y) in it[2]]
+            untagged = [it for it in pre if str(y) not in it[2]]
+            keep = tagged[-14:] + untagged[-4:] + post[-2:]
             items = sorted(set(keep))[:cap]
         elif src in ("dx_mock", "dx_mockx"):
             items = spread(items, cap)

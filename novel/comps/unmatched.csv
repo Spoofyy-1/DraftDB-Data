@@ -1,0 +1,36 @@
+pid,draft_year,raw_comp,parsed_name,match_rule,reason
+P87e51fede0,2006,Tommy Smith,Tommy Smith,none,no_name_match
+P41fad117db,2007,Ademola Okulaja,Ademola Okulaja,none,no_name_match
+P7703cc27be,2007,Rick Rickert,Rick Rickert,none,no_name_match
+P7ef2b1cf05,2009,Brian Cook/Marcus Williams,Marcus Williams,exact,ambiguous_multiple_active_at_capture
+P6d59a1d0fb,2009,Harold Arceneaux,Harold Arceneaux,none,no_name_match
+P4793f789c0,2010,"Dimitris Diamantidis (offensively), Zoran Planinic",Dimitris Diamantidis,none,no_name_match
+P3d55371834,2010,Saer Sene/Boniface N'Dong,Boniface N'Dong,exact,career_endpoint_empty
+P29b17f6d68,2010,Zabian Dowdell,Zabian Dowdell,none,only_candidate_debuts_after_capture
+P355f728583,2011,Steve Logan,Steve Logan,none,no_name_match
+Pe0ab16a2ed,2011,Rod Grizzard,Rod Grizzard,none,no_name_match
+P13a0e44cab,2011,DeVon Harden,DeVon Harden,none,no_name_match
+P0267b55e6b,2012,Florent Pietrus,Florent Pietrus,none,no_name_match
+P9926013d5a,2012,Billy McCaffery,Billy McCaffery,none,no_name_match
+P14fdb083b4,2012,You,You,none,no_name_match
+P8aa2e06ade,2013,Jarod Haase,Jarod Haase,none,no_name_match
+P591a253b3e,2013,Terrell McIntyre,Terrell McIntyre,none,no_name_match
+P38145d33eb,2013,Ademola Okulaja,Ademola Okulaja,none,no_name_match
+P8d3cc27d9f,2013,Chris Lofton,Chris Lofton,none,no_name_match
+Pebbd613418,2013,Blake Stepp,Blake Stepp,none,no_name_match
+P3997afa4f2,2014,Boris Diaw/Dejan Bodiroga,Dejan Bodiroga,none,no_name_match
+P944e30c99c,2014,Adam Haluska,Adam Haluska,none,no_name_match
+Pbac4f67696,2014,Peter John Ramos,Peter John Ramos,exact,career_endpoint_empty
+P83de6de3ec,2014,Dominic James,Dominic James,none,no_name_match
+Pee1a8f2e9d,2014,Kenny Frease,Kenny Frease,none,no_name_match
+Pa779a7b0cf,2015,Felipe Reyes,Felipe Reyes,none,no_name_match
+P9cedd79bd8,2015,CJ Leslie,CJ Leslie,none,no_name_match
+Pf5fb4e36b6,2016,Keith Bogans/Jayson Granger,Jayson Granger,none,no_name_match
+Pcf60b82b9d,2016,Sergei Monia,Sergei Monia,exact,career_endpoint_empty
+Pd5a40a7ee0,2016,Sam Clancy,Sam Clancy,none,no_name_match
+P1e22570fac,2017,Tony Mitchell/Noah Vonleh,Tony Mitchell,exact,ambiguous_retired_tie
+Pe5fb05fea3,2017,Ante Tomic,Ante Tomic,none,no_name_match
+P5351e63d76,2017,Pierre Jackson/Yogi Ferrell,Pierre Jackson,exact,career_endpoint_empty
+P75585aef52,2019,Patric Young,Patric Young,none,no_name_match
+Pa29e5f68db,2025,Ante Tomic,Ante Tomic,none,no_name_match
+P1945d13d34,2025,Kris Jenkins,Kris Jenkins,none,no_name_match

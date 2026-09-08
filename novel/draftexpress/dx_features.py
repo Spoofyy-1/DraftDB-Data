@@ -93,7 +93,16 @@ gaps = [r["height_shoes_in"] - r["height_noshoes_in"] for r in rows
         and 0 < r["height_shoes_in"] - r["height_noshoes_in"] < 3]
 SHOE_GAP = round(float(np.median(gaps)), 2) if gaps else 1.0
 
+# plausibility gates -- a value outside these ranges is a data artefact (DraftExpress writes
+# 0 / 0'0" for "not measured" and a few rows carry obvious typos); treated as missing, never 0.
+RANGE = {"height_noshoes_in": (48, 96), "height_shoes_in": (48, 96), "wingspan_in": (48, 105),
+         "standing_reach_in": (70, 130), "max_vert_in": (10, 60), "nostep_vert_in": (5, 55),
+         "weight_lb": (100, 400)}
+n_gated = 0
 for r in rows:
+    for k, (lo, hi) in RANGE.items():
+        if r[k] is not None and not (lo <= r[k] <= hi):
+            r[k] = None; n_gated += 1
     r["height_in"] = (r["height_shoes_in"] if r["height_shoes_in"] is not None
                       else (r["height_noshoes_in"] + SHOE_GAP
                             if r["height_noshoes_in"] is not None else None))
@@ -125,7 +134,11 @@ for p in ident:
                 keep.append(c)
             else:
                 reasons.append(f"{c}:dx_draft_year={int(dxy)}!={dy}")
-        elif yrs and max(yrs) <= dy and max(yrs) >= dy - 6:
+        elif any(dy - 9 <= y <= dy for y in yrs):
+            # no archived profile to check the draft year against: the DX id must at least hold
+            # one event in the player's own pre-draft window (<= draft year, within 9 years of
+            # it).  Same-name collisions with a younger player have none and are rejected here;
+            # any stray post-draft event on a genuine match is dropped later by series().
             keep.append(c)
         else:
             reasons.append(f"{c}:event_years={min(yrs) if yrs else '-'}..{max(yrs) if yrs else '-'}")
@@ -180,9 +193,29 @@ def is_youth(ev, age):
     return None
 
 
+MIN_AGE = 13.0          # nobody is measured at a DraftExpress event under 13
+MAX_LOOKBACK = 9        # ... and no drafted player's first DX event is >9 years pre-draft
+
+
 def series(pid, dxid, draft_year):
+    """Events for one player, oldest first, pre-draft only.
+
+    Besides event_year <= draft_year, an event is dropped when its estimated age is under 13
+    (or, with no age, when it is more than 9 years before the draft): DraftExpress occasionally
+    hangs a same-name player's old camp row on the wrong profile, and those show up as a
+    12-year-old at a pre-draft camp."""
     evs = [dict(e) for e in by_dx.get(dxid, []) if e["event_year"] <= draft_year]
     evs.sort(key=lambda e: e["event_year"])
+    keep = []
+    for e in evs:
+        a, _ = age_at(pid, dxid, e["event_year"], draft_year)
+        if a is not None:
+            if a < MIN_AGE:
+                continue
+        elif draft_year < 9000 and e["event_year"] < draft_year - MAX_LOOKBACK:
+            continue
+        keep.append(e)
+    evs = keep
     src = None
     for e in evs:
         a, s = age_at(pid, dxid, e["event_year"], draft_year)
@@ -336,6 +369,7 @@ with open(f"{D}/provenance.csv", "w", newline="") as fh:
 stats = {"shoe_gap_in": SHOE_GAP, "late_grower_intercept": LG_A, "late_grower_slope": LG_B,
          "late_grower_n": LG_N, "late_grower_r2": LG_R2,
          "measurement_rows": len(rows), "dx_players": len(by_dx),
+         "values_gated_implausible": n_gated,
          "matched_pids": len(matched), "unmatched_rows": len(unmatched),
          "feature_rows": len(out)}
 json.dump(stats, open(f"{D}/build_stats.json", "w"), indent=1)

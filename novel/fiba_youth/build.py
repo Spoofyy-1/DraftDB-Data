@@ -144,7 +144,8 @@ def load_tournaments():
             for s in plist:
                 stat_by_pid[s["player_id"]] = s
                 team_by_pid[s["player_id"]] = tslug
-        finish = rec.get("team_finish", {})
+        # finalRanking 0 means "not ranked" on FIBA's side, not "first"
+        finish = {k: v for k, v in (rec.get("team_finish") or {}).items() if v}
 
         for p in rec.get("players", []):
             pid_f = p["player_id"]
@@ -368,15 +369,45 @@ def match(rows, tours, by_norm, birth, ident=None):
     rev = defaultdict(list)
     for fid, pid in out.items():
         rev[pid].append(fid)
+    dyof = {}
+    for lst in by_norm.values():
+        for c in lst:
+            dyof[c["pid"]] = c["draft_year"]
     for pid, fids in rev.items():
-        if len(fids) > 1:
+        if len(fids) < 2:
+            continue
+        # Two FIBA people with the same name both matched one pid (there are
+        # several Marko Simonovics).  Keep the one whose birth year implies a
+        # normal draft age; if that does not single one out, drop them all.
+        dy = dyof.get(pid)
+        keep = []
+        for fid in fids:
+            dobs = persons[fid]["dobs"]
+            if not dobs or dy is None:
+                continue
+            gap = dy - sorted(dobs)[0].year
+            if 17 <= gap <= 28:
+                keep.append(fid)
+        if len(keep) == 1:
             for fid in fids:
-                out.pop(fid, None)
-                log_rows.append({"fiba_id": fid,
-                                 "reason": "pid claimed by multiple fiba ids",
-                                 "n_candidates": len(fids), "name_key": "",
-                                 "dob_year": "", "tournament_years": "",
-                                 "candidate_pids": pid})
+                if fid != keep[0]:
+                    out.pop(fid, None)
+                    log_rows.append({
+                        "fiba_id": fid,
+                        "reason": "duplicate name, implausible draft age",
+                        "n_candidates": len(fids), "name_key": "",
+                        "dob_year": (sorted(persons[fid]["dobs"])[0].year
+                                     if persons[fid]["dobs"] else ""),
+                        "tournament_years": "", "candidate_pids": pid})
+            continue
+        for fid in fids:
+            out.pop(fid, None)
+            log_rows.append({"fiba_id": fid,
+                             "reason": "pid claimed by multiple fiba ids",
+                             "n_candidates": len(fids), "name_key": "",
+                             "dob_year": (sorted(persons[fid]["dobs"])[0].year
+                                          if persons[fid]["dobs"] else ""),
+                             "tournament_years": "", "candidate_pids": pid})
     return out, log_rows
 
 
@@ -395,7 +426,13 @@ def main():
     field = {}
     for tid, rs in by_tid.items():
         t = tours[tid]
-        ref = t["start"] or t["end"]
+        # Age is taken at the last day of the tournament.  For the handful of
+        # pre-2005 European records where FIBA merged the qualifying and final
+        # phases into one entry spanning many months, that is the date of the
+        # final phase; for a normal 10-day event it is within a week of the
+        # start.  Age-relative features are unaffected either way because the
+        # same reference date is used for the whole field.
+        ref = t["end"] or t["start"]
         ages = []
         for r in rs:
             a = years_between(r["dob"], ref) if (r["dob"] and ref) else None
@@ -416,6 +453,27 @@ def main():
         f["n_qual"] = len(qual)
         f["n_roster"] = len(rs)
         field[tid] = f
+
+    # FIBA files the pre-2005 European championships as several events under
+    # one season (a 29-team qualifying round, an 18-team second round and a
+    # 12-team final round).  Within one competition-season the smallest field
+    # is the final round; the rest are qualifiers and drop one rung.
+    by_cs = defaultdict(list)
+    for tid_, t_ in tours.items():
+        if t_["season"]:
+            by_cs[(t_["comp_slug"], t_["season"])].append(tid_)
+    for _key, tids_ in by_cs.items():
+        if len(tids_) < 2:
+            continue
+        sizes = {x: (tours[x].get("n_teams") or 0) for x in tids_}
+        pos = [v for v in sizes.values() if v]
+        if not pos:
+            continue
+        smallest = min(pos)
+        for x in tids_:
+            if sizes[x] > smallest:
+                tours[x]["level"] = max(1, tours[x]["level"] - 1)
+                tours[x]["multi_phase"] = 1
 
     ident0, by_norm, birth = load_identity()
     fid2pid, unmatched = match(rows, tours, by_norm, birth, ident0)

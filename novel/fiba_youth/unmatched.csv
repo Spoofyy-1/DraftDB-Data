@@ -1,6 +1,15 @@
 fiba_id,reason,n_candidates,name_key,dob_year,tournament_years,candidate_pids
-343122,"name hit, filters rejected",0,brandon mccoy,2007,2024,P212def8838
-189072,"name hit, filters rejected",0,justin jackson,1997,2012;2015,P24e5e8b7dc
+266054,"name hit, filters rejected",0,alex garcia,2002,2019,P769efab0d3
+170050,"name hit, filters rejected",0,mouhamed gueye,1993,2008,P0fe65d2eb8
+345236,"name hit, filters rejected",0,sean williams,2008,2023,P61624e71c6
+343122,"name hit, filters rejected",0,brandon mccoy,2007,2023;2024,P212def8838
+189072,"name hit, filters rejected",0,justin jackson,1997,2012;2013;2015,P24e5e8b7dc
 247511,"name hit, filters rejected",0,luke jackson,2001,2018,P977a8945dd
+190512,"name hit, filters rejected",0,nikoloz tskitishvili,1995,2011,Pc692096d48
+231996,"name hit, filters rejected",0,alex garcia,2001,2015;2016;2017;2018;2019,P769efab0d3
+155478,"name hit, filters rejected",0,thomas bryant,1990,2006,P74d19df6a2
 225911,ambiguous,2,ethan thompson,1999,2016,Pa99e47f62c;P9436ca936e
+296910,"name hit, filters rejected",0,stefan jankovic,2004,2021,Pfd99951c4d
 203130,ambiguous,2,michael frazier,1994,2013,P9e418f4c91;P8eb153b63d
+214664,"name hit, filters rejected",0,luis flores,1999,2014,Pf2b6b60b16
+143948,"duplicate name, implausible draft age",2,,1986,,P04b95b58e0
