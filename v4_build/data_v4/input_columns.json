@@ -545,6 +545,6 @@
   "tctx_turnovers_per_fga",
   "cons_src2_n"
  ],
- "version": "v4.5 verified 2026-09-08 (all wide-window publishers)",
+ "version": "v4.6 verified 2026-09-08 (near-draft snapshots preferred; wide window only where none within 21 days)",
  "note": "quarantined bio_/med_/cons_/scout_/24 college-derived columns removed; dated/official replacements; see make_v4_inputs.py"
 }
