@@ -3,7 +3,7 @@
 Pre-draft international production for drafted players, built from the open
 Euroleague API.  One row per `pid`, numeric columns only.
 
-Generated 2026-09-08 15:30.  Pull status: **PARTIAL** - 4,676/12,882 box scores cached (36.3%). See _Resuming_ below; rerun `build.py` after the pull finishes.
+Generated 2026-09-08 18:04.  Pull status: **COMPLETE** - every competition-season has been pulled.
 
 ## What this is
 
@@ -66,29 +66,29 @@ ever under-count.  They are flagged with `cutoff_inferred = 1`.
 
 | code | competition | seasons | first | last | games played | box scores cached | % cached | seasons complete |
 |---|---|---|---|---|---|---|---|---|
-| E | Euroleague | 27 | 2000-10-15 | 2026-05-24 | 6603 | 3212 | 48.6% | 15/27 |
+| E | Euroleague | 27 | 2000-10-15 | 2026-05-24 | 6603 | 6603 | 100.0% | 27/27 |
 | J | U18 ANGT | 66 | 2003-05-09 | 2026-05-24 | 1464 | 1464 | 100.0% | 66/66 |
-| U | EuroCup | 25 | 2002-10-14 | 2026-04-28 | 4815 | 0 | 0.0% | 1/25 |
+| U | EuroCup | 25 | 2002-10-14 | 2026-04-28 | 4815 | 4815 | 100.0% | 25/25 |
 
 ### Feature coverage by draft-year band
 
 | draft years | drafted players in identity file | with pre-draft intl rows | % of class | with Euroleague mins | with EuroCup mins | with ANGT |
 |---|---|---|---|---|---|---|
-| 2000-07 | 582 | 49 | 8.4% | 49 | 0 | 3 |
-| 2008-18 | 1017 | 88 | 8.7% | 68 | 0 | 36 |
-| 2019-25 | 900 | 57 | 6.3% | 3 | 0 | 55 |
-| 2026 | 61 | 7 | 11.5% | 0 | 0 | 7 |
+| 2000-07 | 582 | 59 | 10.1% | 49 | 18 | 3 |
+| 2008-18 | 1017 | 112 | 11.0% | 83 | 65 | 35 |
+| 2019-25 | 900 | 76 | 8.4% | 33 | 26 | 55 |
+| 2026 | 61 | 7 | 11.5% | 2 | 1 | 7 |
 
 ### Block fill rates
 
 | block | meaning | columns | median fill rate |
 |---|---|---|---|
-| el2_* | Euroleague | 55 | 60% |
-| eu2_* | EuroCup | 26 | 0% |
+| el2_* | Euroleague | 55 | 66% |
+| eu2_* | EuroCup | 55 | 43% |
 | yng_* | young senior minutes | 9 | 100% |
-| angt_* | U18 ANGT | 26 | 50% |
+| angt_* | U18 ANGT | 26 | 39% |
 | club_* | clubs / registrations | 4 | 100% |
-| tier_* | league tier | 3 | 61% |
+| tier_* | league tier | 3 | 67% |
 | bio_* | bio | 1 | 99% |
 
 ## Matching to the identity file
@@ -122,19 +122,22 @@ birthdates for 947 of them (`age_verified_wiki.csv`).  Rule-based only:
    uses a different code space from the senior ones).  If a pid's codes disagree
    on birthdate, all of them are dropped and logged.
 
-Result: **227 person-code matches covering 227 pids**
-(1 of them
+Result: **305 person-code matches covering 305 pids**
+(2 of them
 matched on birth year with a flagged day-level mismatch),
-of which **201 have at least one pre-draft game** and appear in
-`features.csv`.  `unmatched.csv` holds 184 rows:
+of which **254 have at least one pre-draft game** and appear in
+`features.csv`.  `unmatched.csv` holds 601 rows:
 
 | reason | persons |
 |---|---|
-| draft_year_before_first_season | 177 |
-| birthdate_conflict | 3 |
+| draft_year_before_first_season | 585 |
+| birthdate_conflict | 7 |
+| age_implausible_entry | 2 |
 | age_implausible_pick | 2 |
+| same_pid_conflicting_birthdates | 2 |
 | age_implausible_entry;draft_year_before_first_season | 1 |
-| age_implausible_entry | 1 |
+| ambiguous_multiple_pids | 1 |
+| birthdate_conflict;draft_year_before_first_season | 1 |
 
 The dominant reason is `draft_year_before_first_season`, and it is **expected,
 not a failure**: it is an American or veteran player who was drafted first and
@@ -144,7 +147,7 @@ genuinely indicate a rejected identity are `birthdate_conflict`,
 `age_implausible_pick` and `ambiguous_multiple_pids`.
 
 Persons whose names never appear in the identity file at all are *not* logged:
-that is the overwhelming majority of the 7,757 European players in the
+that is the overwhelming majority of the 11,437 European players in the
 API and would drown the report.  Only name hits that were *rejected* (and
 ambiguous cases) are reported.
 
@@ -152,7 +155,7 @@ ambiguous cases) are reported.
 
 | file | contents |
 |---|---|
-| `features.csv` | **the deliverable** - `pid` + 127 numeric columns, one row per pid |
+| `features.csv` | **the deliverable** - `pid` + 156 numeric columns, one row per pid |
 | `provenance.csv` | per pid: person codes, competitions, seasons, games used, first/last game date, the exact cutoff applied |
 | `coverage.csv` | per competition-season: games played vs box scores cached, complete flag |
 | `unmatched.csv` | rejected and ambiguous name matches with the reason |

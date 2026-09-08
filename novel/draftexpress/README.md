@@ -6,9 +6,9 @@ draftexpress.com has been dead since late 2017 (its staff moved to ESPN). Its *M
 
 ## 1. What was collected
 
-* **5,563 player-events** over **3,764 distinct DraftExpress player ids**, event years **1987-2017** (`measurements_all.csv`, names allowed - local only).
-* **1,194 of the 2,560 drafted players** in `tabular_names.csv` matched (`features.csv`, pid + numeric only); 66 rows logged to `unmatched.csv`.
-* **457 listing captures** and **0 profile captures** cached under `raw/` (gzipped), so every re-run is offline.
+* **6,329 player-events** over **3,801 distinct DraftExpress player ids**, event years **1987-2017** (`measurements_all.csv`, names allowed - local only).
+* **1,242 of the 2,560 drafted players** in `tabular_names.csv` matched (`features.csv`, pid + numeric only); 21 rows logged to `unmatched.csv`.
+* **876 listing captures** and **3053 profile captures** cached under `raw/` (gzipped), so every re-run is offline.
 
 ## 2. URL patterns used
 
@@ -40,8 +40,10 @@ recorded per profile in raw/profiles_manifest.jsonl (capture_ts).
 
 ### Capture timestamps used
 
-* Listing captures: **392** distinct timestamps, **20080701 - 20250823**. For each distinct URL shape the crawler keeps the **largest** capture recorded while the site was still live (timestamp < 2017-12-15); after that date every capture is a ~5.5 kB dead-site shell.
+* Listing captures: **782** distinct timestamps, **20071223 - 20251227**. For each distinct URL shape the crawler keeps the **largest** capture recorded while the site was still live (timestamp < 2017-12-15); after that date every capture is a ~5.5 kB dead-site shell.
+* Profile captures: **3018** distinct timestamps, **20090418 - 20240920** (median 20170703).
 * The single most productive capture is `web/20170128164518id_/http://www.draftexpress.com/nba-pre-draft-measurements.php` - the legacy grid with no filter, which returns the whole database (11.1 MB, 5,688 data rows) in one request.
+* 387 profiles came back from a **post-shutdown** capture (2018-2024 dead-site shells). `dx_profiles_retry.py` re-asked for each of them at an earlier target (2016-12-01) and **0 of 387** returned a live-era capture: those players simply have no pre-2018 profile snapshot, and nothing more can be recovered for them.
 * Full per-page provenance: `raw/manifest.jsonl` and `raw/profiles_manifest.jsonl` (one JSON line per fetch: url path, capture timestamp, HTTP code, bytes, cache file). Per-pid provenance: `provenance.csv`.
 
 ### A note on database size
@@ -71,6 +73,7 @@ C profile  <table class="alt">, 9 cells
 
 * **Values.** `7' 5.5"`, `6'11 1/4"` (unicode vulgar fractions), `6'8"`, `34"`, `19.5`, `247` are all reduced to inches / lb / seconds by two regexes; `NA`, `-`, `--`, `N/A`, empty are null. Fraction glyphs handled: 1/8 1/4 3/8 1/2 5/8 3/4 7/8 1/3 2/3.
 * **DX player id** comes from the row's `/profile/{Slug}-{id}/` link, so rows are keyed on the site's own id rather than on the printed name.
+* **Plausibility gates.** DraftExpress writes `0` / `0'0"` for "not measured", and a few rows carry obvious typos, so a parsed value outside height 48-96 in, wingspan 48-105 in, standing reach 70-130 in, max vert 10-60 in, no-step vert 5-55 in, weight 100-400 lb is treated as **missing** (never as 0). 1 values were gated on this build.
 * **Source** is taken from (i) the profile table's Source column, (ii) the `source=` filter of the captured listing URL when the capture was source-filtered, or (iii) a join of an unlabelled listing row onto the same player-year profile event when their shared measurements agree. `source_from` in `measurements_all.csv` records which.
 * **De-duplication** is by (player, source, year). Because the listing tables carry no Source, two same-year events are separated by their measurements: a candidate row merges into an existing event only when no shared measure disagrees by more than 0.3 in (heights/wingspan), 0.5 in (standing reach) or 3 lb; otherwise it opens a new event. Profile rows are processed first so they seed the events with their Source.
 * **Column-mapping validation.** The two listing generations were parsed independently and compared on the 3,922 player-years both cover: median absolute difference **0.000** on all twelve measurement columns (height no-shoes, height with shoes, wingspan, standing reach, max vert, no-step vert, weight, body fat, hand length, bench, agility, sprint). Residual >0.5 mismatches (~1-3%) are players with two different events in the same year.
@@ -79,27 +82,32 @@ C profile  <table class="alt">, 9 cells
 
 * DraftExpress records only a **year** per event, plus a **source**. The **(source, year)** pair is the event identity and the dating unit.
 * The database is pre-draft **by construction** - every source is a youth camp, an all-star game, a college team listing or a pre-draft camp/combine, all of which run before draft night. On top of that the builder **drops any event with `event_year > draft_year`**, so nothing after a player's draft can leak in.
+* Two further event filters guard against DraftExpress hanging a same-name player's row on the wrong profile: an event whose **estimated age is under 13** is dropped, and (when no age is available) so is any event more than 9 years before the draft. Any event after the draft year is dropped outright.
 * **Leakage discipline.** The listing tables carry a `Drafted` / `Draft pick` column and the legacy grid carries a `Rank` column. Both are post-hoc with respect to the player's own draft night, so they are kept in `measurements_all.csv` for provenance and identity checking only and are **never** read by `dx_features.py` - no feature in `features.csv` derives from either (verified: the strings `draft_pick` and `rank` do not appear in the feature builder).
 * For age arithmetic each event is dated **1 June of its event year**. Essentially every source runs April-July (Portsmouth April, Hoop Summit April, the combine and the old pre-draft camp May-June, Eurocamp June, the summer camps June-July), so ages carry roughly +-3 months of slack; the age >= / <= thresholds in `dx_height_at_16_in` and the youth flag inherit that.
 * Birthdates, in priority order: (1) `age_verified_wiki.csv`; (2) the DX profile's own `Age: A.B` read together with the capture timestamp of that profile (birthdate ~ capture_date - A.B x 365.25); (3) class-year proxy, `age = (event_year - hs_class_year) + 18`, where hs_class_year is the profile's `RCSI: r (YYYY)` year or `draft_year - rsci_years_to_draft` from `rsci_features.csv`. `dx_age_src` records which, `dx_age_is_proxy` flags 2 and 3.
+
+### Birthdate check
+
+The DX-profile birthdate (age source 2) was compared with the verified `age_verified_wiki.csv` date on the **470** players who have both: median absolute error **9 days**, p90 **17 days**, **98.5%** within 60 days. Source 2 is therefore treated as a real birthdate rather than a proxy in practice, though `dx_age_is_proxy` still flags it as non-verified.
 
 ## 5. Identity matching
 
 Names are normalised on both sides (NFKD accent strip, punctuation and apostrophes removed, Jr/Sr/II/III/IV/V dropped, lower-cased, hyphens -> spaces) and compared against the DX **profile slug**. Every DX id sharing the normalised name is a candidate, then:
 
 1. if the DX profile states `Drafted #N in the YYYY NBA Draft`, **YYYY must equal our `draft_year`**; otherwise the candidate is rejected;
-2. if the profile is not archived, every archived event year must satisfy `event_year <= draft_year` and the last event must fall within 6 years of the draft;
+2. if the profile is not archived, the DX id must hold at least one event inside the player's own pre-draft window (`draft_year - 9 <= event_year <= draft_year`); a same-name collision with a younger player has none;
 3. the pid is used **only** when exactly one candidate survives.
 
-66 pids ended ambiguous or contradicted and are in `unmatched.csv` with the candidate ids and the rejection reason for each. No fuzzy or per-player judgement is applied anywhere.
+21 pids ended ambiguous or contradicted and are in `unmatched.csv` with the candidate ids and the rejection reason for each. No fuzzy or per-player judgement is applied anywhere.
 
 ## 6. Late-grower regression (documented, as required)
 
 OLS fitted on **all archived players** (not just our draftees) who have both a height at estimated age <= 16 and a later height:
 
 ```
-final_height_in = 4.0378 + 0.9573 x height_at_age<=16_in
-n = 121   R^2 = 0.900
+final_height_in = 1.7483 + 0.9878 x height_at_age<=16_in
+n = 141   R^2 = 0.912
 ```
 `dx_late_grower_resid` = observed final height minus that prediction. The fit population is limited to archived players for whom an age could be established at all (source 1/2/3 above); archived players with no birthdate and no class year cannot be placed on the age axis and are excluded.
 
@@ -137,9 +145,9 @@ The rest:
 
 | draft-year band | drafted players | with DX features | coverage | >=2 events | with a youth event |
 |---|---:|---:|---:|---:|---:|
-| 2000-07 | 582 | 326 | 56.0% | 23 | 0 |
-| 2008-18 | 1017 | 708 | 69.6% | 402 | 191 |
-| 2019-25 | 961 | 160 | 16.6% | 78 | 114 |
+| 2000-07 | 582 | 330 | 56.7% | 24 | 4 |
+| 2008-18 | 1017 | 731 | 71.9% | 447 | 395 |
+| 2019-25 | 961 | 181 | 18.8% | 86 | 160 |
 
 Per draft year:
 
@@ -149,31 +157,31 @@ Per draft year:
 | 2001 | 64 | 41 | 64.1% |
 | 2002 | 68 | 39 | 57.4% |
 | 2003 | 74 | 38 | 51.4% |
-| 2004 | 66 | 37 | 56.1% |
+| 2004 | 66 | 39 | 59.1% |
 | 2005 | 95 | 57 | 60.0% |
 | 2006 | 80 | 44 | 55.0% |
-| 2007 | 65 | 43 | 66.2% |
-| 2008 | 70 | 45 | 64.3% |
-| 2009 | 71 | 49 | 69.0% |
+| 2007 | 65 | 45 | 69.2% |
+| 2008 | 70 | 46 | 65.7% |
+| 2009 | 71 | 51 | 71.8% |
 | 2010 | 79 | 58 | 73.4% |
-| 2011 | 88 | 57 | 64.8% |
-| 2012 | 86 | 66 | 76.7% |
-| 2013 | 91 | 67 | 73.6% |
-| 2014 | 90 | 71 | 78.9% |
-| 2015 | 81 | 58 | 71.6% |
+| 2011 | 88 | 62 | 70.5% |
+| 2012 | 86 | 68 | 79.1% |
+| 2013 | 91 | 70 | 76.9% |
+| 2014 | 90 | 75 | 83.3% |
+| 2015 | 81 | 59 | 72.8% |
 | 2016 | 104 | 82 | 78.8% |
-| 2017 | 132 | 92 | 69.7% |
-| 2018 | 125 | 63 | 50.4% |
-| 2019 | 137 | 57 | 41.6% |
-| 2020 | 112 | 41 | 36.6% |
-| 2021 | 233 | 54 | 23.2% |
+| 2017 | 132 | 94 | 71.2% |
+| 2018 | 125 | 66 | 52.8% |
+| 2019 | 137 | 59 | 43.1% |
+| 2020 | 112 | 42 | 37.5% |
+| 2021 | 233 | 61 | 26.2% |
 | 2022 | 97 | 6 | 6.2% |
-| 2023 | 101 | 2 | 2.0% |
-| 2024 | 114 | 0 | 0.0% |
-| 2025 | 106 | 0 | 0.0% |
+| 2023 | 101 | 7 | 6.9% |
+| 2024 | 114 | 3 | 2.6% |
+| 2025 | 106 | 3 | 2.8% |
 | 2026 | 61 | 0 | 0.0% |
 
-Top sources present in `measurements_all.csv`: NBA Draft Combine (127), NBA Pre-Draft Camp (100), Portsmouth (67), USA Basketball (59).
+Top sources present in `measurements_all.csv`: NBA Draft Combine (527), NBA Pre-Draft Camp (427), USA Basketball (412), LeBron James Camp (375), Portsmouth (247), Eurocamp (212), Nike Elite 100 (190), Nike Skills Academy (189), Kevin Durant Camp (133), Hoop Summit (129), Deron Williams Camp (98), Amare Stoudemire Camp (95), Nike Basketball Academy (78), Nets Workout (75), D-League Elite Camp (58).
 
 ### The 2018-2025 gap
 
@@ -204,7 +212,10 @@ Off-limits under COLLECTOR_RULES.md rule 3 and therefore **not** candidates: spo
 
 ```
 dx_crawl.py             listing crawler   (CDX -> one best capture per URL shape)
-dx_profiles.py          profile crawler   (one capture per candidate DX id)
+dx_profiles.py          profile crawler   (one capture per candidate DX id, +375
+                        archived non-draftees with >=2 height years, for the regression)
+dx_profiles_retry.py    re-asks Wayback at an earlier target for profiles whose nearest
+                        capture was post-shutdown (dead-site shells)
 dx_parse.py             all cached HTML  -> measurements_all.csv
 dx_features.py          measurements_all -> features.csv / unmatched.csv / provenance.csv
 dx_readme.py            regenerates this file from the artefacts
@@ -230,6 +241,7 @@ raw/candidate_index.csv pid <-> candidate DX id map before the draft-year gate
 cd /Users/kennakao/nba/datarebuild/novel/draftexpress
 nohup python3 dx_crawl.py    >> run.log 2>&1 &   # skips anything already in raw/manifest.jsonl
 nohup python3 dx_profiles.py >> run.log 2>&1 &   # waits for dx_crawl.py, then resumes
+python3 dx_profiles_retry.py                     # optional 2nd pass, also resumable
 python3 dx_parse.py && python3 dx_features.py && python3 dx_readme.py
 ```
 Both crawlers are checkpointed per page and idempotent: killing and restarting them loses at most the in-flight request. To stop them, kill only their own script names (`pkill -f dx_crawl.py` / `pkill -f dx_profiles.py`), never a broad pattern.

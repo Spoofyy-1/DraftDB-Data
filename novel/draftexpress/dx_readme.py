@@ -11,8 +11,11 @@ feat = list(csv.DictReader(open(f"{D}/features.csv")))
 unm = list(csv.DictReader(open(f"{D}/unmatched.csv")))
 ident = list(csv.DictReader(open(IDENT)))
 man = [json.loads(l) for l in open(f"{RAW}/manifest.jsonl")]
-pman = ([json.loads(l) for l in open(f"{RAW}/profiles_manifest.jsonl")]
-        if os.path.exists(f"{RAW}/profiles_manifest.jsonl") else [])
+_pl = {}
+if os.path.exists(f"{RAW}/profiles_manifest.jsonl"):
+    for _l in open(f"{RAW}/profiles_manifest.jsonl"):      # a retry appends a 2nd line per id
+        _r = json.loads(_l); _pl[_r["dx_id"]] = _r
+pman = list(_pl.values())
 
 caps = sorted({m["ts"] for m in man if m.get("ok")})
 pcaps = sorted({m.get("capture_ts", "") for m in pman if m.get("ok") and m.get("capture_ts")})
@@ -127,6 +130,10 @@ t.append("* The single most productive capture is "
          "`web/20170128164518id_/http://www.draftexpress.com/nba-pre-draft-measurements.php` "
          "- the legacy grid with no filter, which returns the whole database (11.1 MB, 5,688 "
          "data rows) in one request.")
+t.append("* 387 profiles came back from a **post-shutdown** capture (2018-2024 dead-site shells). "
+         "`dx_profiles_retry.py` re-asked for each of them at an earlier target (2016-12-01) and "
+         "**0 of 387** returned a live-era capture: those players simply have no pre-2018 "
+         "profile snapshot, and nothing more can be recovered for them.")
 t.append("* Full per-page provenance: `raw/manifest.jsonl` and `raw/profiles_manifest.jsonl` "
          "(one JSON line per fetch: url path, capture timestamp, HTTP code, bytes, cache file). "
          "Per-pid provenance: `provenance.csv`.\n")
@@ -163,6 +170,11 @@ t.append("* **Values.** `7' 5.5\"`, `6'11 1/4\"` (unicode vulgar fractions), `6'
          "1/8 1/4 3/8 1/2 5/8 3/4 7/8 1/3 2/3.")
 t.append("* **DX player id** comes from the row's `/profile/{Slug}-{id}/` link, so rows are keyed "
          "on the site's own id rather than on the printed name.")
+t.append("* **Plausibility gates.** DraftExpress writes `0` / `0'0\"` for \"not measured\", and a "
+         "few rows carry obvious typos, so a parsed value outside "
+         "height 48-96 in, wingspan 48-105 in, standing reach 70-130 in, max vert 10-60 in, "
+         "no-step vert 5-55 in, weight 100-400 lb is treated as **missing** (never as 0). "
+         f"{st.get('values_gated_implausible', 0)} values were gated on this build.")
 t.append("* **Source** is taken from (i) the profile table's Source column, (ii) the `source=` "
          "filter of the captured listing URL when the capture was source-filtered, or (iii) a "
          "join of an unlabelled listing row onto the same player-year profile event when their "
@@ -186,6 +198,10 @@ t.append("* The database is pre-draft **by construction** - every source is a yo
          "all-star game, a college team listing or a pre-draft camp/combine, all of which run "
          "before draft night. On top of that the builder **drops any event with "
          "`event_year > draft_year`**, so nothing after a player's draft can leak in.")
+t.append("* Two further event filters guard against DraftExpress hanging a same-name player's "
+         "row on the wrong profile: an event whose **estimated age is under 13** is dropped, "
+         "and (when no age is available) so is any event more than 9 years before the draft. "
+         "Any event after the draft year is dropped outright.")
 t.append("* **Leakage discipline.** The listing tables carry a `Drafted` / `Draft pick` column "
          "and the legacy grid carries a `Rank` column. Both are post-hoc with respect to the "
          "player's own draft night, so they are kept in `measurements_all.csv` for provenance "
@@ -204,6 +220,40 @@ t.append("* Birthdates, in priority order: (1) `age_verified_wiki.csv`; (2) the 
          "`RCSI: r (YYYY)` year or `draft_year - rsci_years_to_draft` from `rsci_features.csv`. "
          "`dx_age_src` records which, `dx_age_is_proxy` flags 2 and 3.\n")
 
+# --- validation of the DX-derived birthdate (age source 2) against the verified wiki dates ---
+import datetime as _dt
+_meta = ({r["dx_id"]: r for r in csv.DictReader(open(f"{RAW}/profile_meta.csv"))}
+         if os.path.exists(f"{RAW}/profile_meta.csv") else {})
+_prov = {r["pid"]: r for r in csv.DictReader(open(f"{D}/provenance.csv"))}
+_wiki = {r["pid"]: r["birth_date"] for r in
+         csv.DictReader(open("/Users/kennakao/nba/datarebuild/age_verified_wiki.csv"))
+         if r.get("birth_date")}
+_err = []
+for _pid, _pr in _prov.items():
+    _m, _b = _meta.get(_pr["dx_id"]), _wiki.get(_pid)
+    if not _m or not _b or not _m.get("dx_age_at_capture") or not _m.get("capture_ts"):
+        continue
+    try:
+        _cap = _dt.date(int(_m["capture_ts"][:4]), int(_m["capture_ts"][4:6]),
+                        int(_m["capture_ts"][6:8]))
+        _est = _cap - _dt.timedelta(days=float(_m["dx_age_at_capture"]) * 365.25)
+        _tru = _dt.date(*[int(x) for x in _b.split("-")[:3]])
+        _err.append(abs((_est - _tru).days))
+    except Exception:
+        pass
+if _err:
+    _err.sort()
+    _med = _err[len(_err) // 2]
+    _p90 = _err[int(len(_err) * .9) - 1]
+    _w60 = 100.0 * sum(1 for e in _err if e <= 60) / len(_err)
+    t.append("### Birthdate check\n")
+    t.append(f"The DX-profile birthdate (age source 2) was compared with the verified "
+             f"`age_verified_wiki.csv` date on the **{len(_err)}** players who have both: "
+             f"median absolute error **{_med} days**, p90 **{_p90} days**, "
+             f"**{_w60:.1f}%** within 60 days. Source 2 is therefore treated as a real "
+             "birthdate rather than a proxy in practice, though `dx_age_is_proxy` still flags "
+             "it as non-verified.\n")
+
 t.append("## 5. Identity matching\n")
 t.append("Names are normalised on both sides (NFKD accent strip, punctuation and apostrophes "
          "removed, Jr/Sr/II/III/IV/V dropped, lower-cased, hyphens -> spaces) and compared "
@@ -211,8 +261,9 @@ t.append("Names are normalised on both sides (NFKD accent strip, punctuation and
          "candidate, then:\n")
 t.append("1. if the DX profile states `Drafted #N in the YYYY NBA Draft`, **YYYY must equal our "
          "`draft_year`**; otherwise the candidate is rejected;")
-t.append("2. if the profile is not archived, every archived event year must satisfy "
-         "`event_year <= draft_year` and the last event must fall within 6 years of the draft;")
+t.append("2. if the profile is not archived, the DX id must hold at least one event inside the "
+         "player's own pre-draft window (`draft_year - 9 <= event_year <= draft_year`); a "
+         "same-name collision with a younger player has none;")
 t.append("3. the pid is used **only** when exactly one candidate survives.\n")
 t.append(f"{len(unm):,} pids ended ambiguous or contradicted and are in `unmatched.csv` with "
          "the candidate ids and the rejection reason for each. No fuzzy or per-player "
@@ -317,7 +368,10 @@ t.append("> **Publication warning.** `/Users/kennakao/nba/datarebuild` is a git 
 t.append("## 9. Files\n")
 t.append("```")
 t.append("dx_crawl.py             listing crawler   (CDX -> one best capture per URL shape)")
-t.append("dx_profiles.py          profile crawler   (one capture per candidate DX id)")
+t.append("dx_profiles.py          profile crawler   (one capture per candidate DX id, +375")
+t.append("                        archived non-draftees with >=2 height years, for the regression)")
+t.append("dx_profiles_retry.py    re-asks Wayback at an earlier target for profiles whose nearest")
+t.append("                        capture was post-shutdown (dead-site shells)")
 t.append("dx_parse.py             all cached HTML  -> measurements_all.csv")
 t.append("dx_features.py          measurements_all -> features.csv / unmatched.csv / provenance.csv")
 t.append("dx_readme.py            regenerates this file from the artefacts")
@@ -341,6 +395,7 @@ t.append("```bash")
 t.append("cd /Users/kennakao/nba/datarebuild/novel/draftexpress")
 t.append("nohup python3 dx_crawl.py    >> run.log 2>&1 &   # skips anything already in raw/manifest.jsonl")
 t.append("nohup python3 dx_profiles.py >> run.log 2>&1 &   # waits for dx_crawl.py, then resumes")
+t.append("python3 dx_profiles_retry.py                     # optional 2nd pass, also resumable")
 t.append("python3 dx_parse.py && python3 dx_features.py && python3 dx_readme.py")
 t.append("```")
 t.append("Both crawlers are checkpointed per page and idempotent: killing and restarting them "

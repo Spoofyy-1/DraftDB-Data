@@ -1,12 +1,13 @@
 {
  "shoe_gap_in": 1.25,
- "late_grower_intercept": 1.7742595645500483,
- "late_grower_slope": 0.9892621858399808,
- "late_grower_n": 86,
- "late_grower_r2": 0.8676396005389577,
- "measurement_rows": 6271,
+ "late_grower_intercept": 1.7483355381107293,
+ "late_grower_slope": 0.9878244068858681,
+ "late_grower_n": 141,
+ "late_grower_r2": 0.9116674063252007,
+ "measurement_rows": 6329,
  "dx_players": 3801,
- "matched_pids": 1204,
- "unmatched_rows": 60,
- "feature_rows": 1203
+ "values_gated_implausible": 1,
+ "matched_pids": 1243,
+ "unmatched_rows": 21,
+ "feature_rows": 1242
 }

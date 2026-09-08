@@ -263,8 +263,11 @@ def parse_profiles():
     mfp = f"{RAW}/profiles_manifest.jsonl"
     if not os.path.exists(mfp):
         return out, meta, 0
-    for line in open(mfp):
+    last = {}
+    for line in open(mfp):          # a retry appends a second line for the same id: keep the last
         r = json.loads(line)
+        last[r["dx_id"]] = r
+    for r in last.values():
         if not r.get("ok"):
             continue
         fp = f"{RAW}/profiles/{r['dx_id']}.html.gz"

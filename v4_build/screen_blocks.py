@@ -4,7 +4,7 @@ For each column: n, rho_raw = mean within-class Spearman with y_early_war_log, r
 import pandas as pd, numpy as np, json, sys
 from scipy.stats import spearmanr
 PREFIXES=sys.argv[1].split(",") if len(sys.argv)>1 else ["tc_","gl2_","dp_","wt_","sc_","bb_","fy_","dv_","dis_","misc_birth"]
-tr=pd.read_csv("staging_v414/train_2000_2018.csv"); ids=pd.read_csv("/Users/kennakao/Downloads/nba_redraft_handoff/identity_KEEP_SEPARATE/tabular_names.csv")[["pid","actual_pick"]]
+import os; BASE=os.environ.get("SCREEN_BASE","staging_v414"); tr=pd.read_csv(f"{BASE}/train_2000_2018.csv"); ids=pd.read_csv("/Users/kennakao/Downloads/nba_redraft_handoff/identity_KEEP_SEPARATE/tabular_names.csv")[["pid","actual_pick"]]
 d=tr.merge(ids,on="pid",how="left"); d=d[(d.draft_year<=2011)&(d.was_drafted==1)&d.actual_pick.notna()&d.y_early_war_log.notna()].copy()
 lp=np.log(d.actual_pick.clip(lower=1)); A=np.c_[np.ones(len(d)),lp]; b=np.linalg.lstsq(A,d.y_early_war_log.values,rcond=None)[0]; d["y_res"]=d.y_early_war_log-A@b
 print("screen rows",len(d),"classes",d.draft_year.min(),"-",d.draft_year.max(),"| y ~ log(pick) slope",round(b[1],3))
