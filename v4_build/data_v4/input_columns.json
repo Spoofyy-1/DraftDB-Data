@@ -542,9 +542,8 @@
   "tctx_shot_attempts_pg",
   "tctx_steals_per_opponent_turnover",
   "tctx_three_attempt_share",
-  "tctx_turnovers_per_fga",
-  "cons_src2_n"
+  "tctx_turnovers_per_fga"
  ],
- "version": "v4.6 verified 2026-09-08 (near-draft snapshots preferred; wide window only where none within 21 days)",
+ "version": "v4.7 verified 2026-09-08 (publisher-count column removed: class-level shift)",
  "note": "quarantined bio_/med_/cons_/scout_/24 college-derived columns removed; dated/official replacements; see make_v4_inputs.py"
 }

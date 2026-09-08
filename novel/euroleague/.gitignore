@@ -1,0 +1,10 @@
+# This collector's outputs live inside the DraftDB-Data git repo, which has a
+# PUBLIC GitHub remote.  raw/ is a large API cache and the files below carry
+# player names (identity data is "this Mac only").  features.csv and
+# provenance.csv are the shareable artefacts.
+raw/
+player_games.csv.gz
+registrations.csv.gz
+matches.csv
+unmatched.csv
+run.log

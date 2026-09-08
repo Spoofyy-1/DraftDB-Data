@@ -1,0 +1,111 @@
+feature,definition,window_and_leakage,empty_means
+tc_season_final,Torvik season F used as the final pre-draft college season,"final pre-draft season F (F <= Y); complete in April, the draft is in June or later",never empty for a matched row
+tc_match_rule,"which matching step resolved the row: 2 unique candidate, 3 verified birthdate, 4 col_gp/col_mpg agreement, 5 final season == draft year",matching only,never empty for a matched row
+tc_match_tv_agrees,"1 when the accepted Torvik player is the one data_v4's own tv_ columns point at, 0 when it differs",matching only,data_v4 carries no tv_ line for this pid
+tc_age_bucket,"floor of age at the season-F midpoint (Jan 15), clipped to [17, 24]","final pre-draft season F (F <= Y); complete in April, the draft is in June or later",never empty for a matched row
+tc_age_at_season,"age in years on 15 January of season F, from the Torvik birthdate","final pre-draft season F (F <= Y); complete in April, the draft is in June or later",never empty for a matched row
+tc_age_imputed,"1 when the Torvik birthdate is the October-15 filler (year known, day not), 0 when it is a real date","final pre-draft season F (F <= Y); complete in April, the draft is in June or later",never empty for a matched row
+tc_age_cohort_n,"number of D1 players in his (season F, age bucket) cohort cell",same-season D1 population with Min_per >= 40; season F is complete on draft night,cell smaller than 20
+tc_pct_age_bpm,"percentile of bpm within his (season F, age bucket) cohort",same-season D1 population with Min_per >= 40; season F is complete on draft night,cohort cell < 20 players or stat missing
+tc_pct_age_obpm,"percentile of obpm within his (season F, age bucket) cohort",same-season D1 population with Min_per >= 40; season F is complete on draft night,cohort cell < 20 players or stat missing
+tc_pct_age_dbpm,"percentile of dbpm within his (season F, age bucket) cohort",same-season D1 population with Min_per >= 40; season F is complete on draft night,cohort cell < 20 players or stat missing
+tc_pct_age_usg,"percentile of usg within his (season F, age bucket) cohort",same-season D1 population with Min_per >= 40; season F is complete on draft night,cohort cell < 20 players or stat missing
+tc_pct_age_ts,"percentile of TS_per within his (season F, age bucket) cohort",same-season D1 population with Min_per >= 40; season F is complete on draft night,cohort cell < 20 players or stat missing
+tc_pct_age_ast,"percentile of AST_per within his (season F, age bucket) cohort",same-season D1 population with Min_per >= 40; season F is complete on draft night,cohort cell < 20 players or stat missing
+tc_pct_age_stl,"percentile of stl_per within his (season F, age bucket) cohort",same-season D1 population with Min_per >= 40; season F is complete on draft night,cohort cell < 20 players or stat missing
+tc_pct_age_blk,"percentile of blk_per within his (season F, age bucket) cohort",same-season D1 population with Min_per >= 40; season F is complete on draft night,cohort cell < 20 players or stat missing
+tc_pct_age_orb,"percentile of ORB_per within his (season F, age bucket) cohort",same-season D1 population with Min_per >= 40; season F is complete on draft night,cohort cell < 20 players or stat missing
+tc_pct_age_drb,"percentile of DRB_per within his (season F, age bucket) cohort",same-season D1 population with Min_per >= 40; season F is complete on draft night,cohort cell < 20 players or stat missing
+tc_pct_age_porpag,"percentile of porpag within his (season F, age bucket) cohort",same-season D1 population with Min_per >= 40; season F is complete on draft night,cohort cell < 20 players or stat missing
+tc_resid_age_bpm,bpm minus the cubic age-curve expectation at his season-F age,"cubic age curve fit on D1 player-seasons with year < Y and Min_per >= 40 (expanding, refit per draft year)",no fit population (2008 class)
+tc_z_age_bpm,tc_resid_age_bpm divided by the residual sd of the fit population,"cubic age curve fit on D1 player-seasons with year < Y and Min_per >= 40 (expanding, refit per draft year)",no fit population (2008 class)
+tc_resid_age_obpm,obpm minus the cubic age-curve expectation at his season-F age,"cubic age curve fit on D1 player-seasons with year < Y and Min_per >= 40 (expanding, refit per draft year)",no fit population (2008 class)
+tc_z_age_obpm,tc_resid_age_obpm divided by the residual sd of the fit population,"cubic age curve fit on D1 player-seasons with year < Y and Min_per >= 40 (expanding, refit per draft year)",no fit population (2008 class)
+tc_resid_age_dbpm,dbpm minus the cubic age-curve expectation at his season-F age,"cubic age curve fit on D1 player-seasons with year < Y and Min_per >= 40 (expanding, refit per draft year)",no fit population (2008 class)
+tc_z_age_dbpm,tc_resid_age_dbpm divided by the residual sd of the fit population,"cubic age curve fit on D1 player-seasons with year < Y and Min_per >= 40 (expanding, refit per draft year)",no fit population (2008 class)
+tc_resid_age_usg,usg minus the cubic age-curve expectation at his season-F age,"cubic age curve fit on D1 player-seasons with year < Y and Min_per >= 40 (expanding, refit per draft year)",no fit population (2008 class)
+tc_z_age_usg,tc_resid_age_usg divided by the residual sd of the fit population,"cubic age curve fit on D1 player-seasons with year < Y and Min_per >= 40 (expanding, refit per draft year)",no fit population (2008 class)
+tc_resid_age_ts,TS_per minus the cubic age-curve expectation at his season-F age,"cubic age curve fit on D1 player-seasons with year < Y and Min_per >= 40 (expanding, refit per draft year)",no fit population (2008 class)
+tc_z_age_ts,tc_resid_age_ts divided by the residual sd of the fit population,"cubic age curve fit on D1 player-seasons with year < Y and Min_per >= 40 (expanding, refit per draft year)",no fit population (2008 class)
+tc_resid_age_ast,AST_per minus the cubic age-curve expectation at his season-F age,"cubic age curve fit on D1 player-seasons with year < Y and Min_per >= 40 (expanding, refit per draft year)",no fit population (2008 class)
+tc_z_age_ast,tc_resid_age_ast divided by the residual sd of the fit population,"cubic age curve fit on D1 player-seasons with year < Y and Min_per >= 40 (expanding, refit per draft year)",no fit population (2008 class)
+tc_resid_age_stl,stl_per minus the cubic age-curve expectation at his season-F age,"cubic age curve fit on D1 player-seasons with year < Y and Min_per >= 40 (expanding, refit per draft year)",no fit population (2008 class)
+tc_z_age_stl,tc_resid_age_stl divided by the residual sd of the fit population,"cubic age curve fit on D1 player-seasons with year < Y and Min_per >= 40 (expanding, refit per draft year)",no fit population (2008 class)
+tc_resid_age_blk,blk_per minus the cubic age-curve expectation at his season-F age,"cubic age curve fit on D1 player-seasons with year < Y and Min_per >= 40 (expanding, refit per draft year)",no fit population (2008 class)
+tc_z_age_blk,tc_resid_age_blk divided by the residual sd of the fit population,"cubic age curve fit on D1 player-seasons with year < Y and Min_per >= 40 (expanding, refit per draft year)",no fit population (2008 class)
+tc_resid_age_orb,ORB_per minus the cubic age-curve expectation at his season-F age,"cubic age curve fit on D1 player-seasons with year < Y and Min_per >= 40 (expanding, refit per draft year)",no fit population (2008 class)
+tc_z_age_orb,tc_resid_age_orb divided by the residual sd of the fit population,"cubic age curve fit on D1 player-seasons with year < Y and Min_per >= 40 (expanding, refit per draft year)",no fit population (2008 class)
+tc_resid_age_drb,DRB_per minus the cubic age-curve expectation at his season-F age,"cubic age curve fit on D1 player-seasons with year < Y and Min_per >= 40 (expanding, refit per draft year)",no fit population (2008 class)
+tc_z_age_drb,tc_resid_age_drb divided by the residual sd of the fit population,"cubic age curve fit on D1 player-seasons with year < Y and Min_per >= 40 (expanding, refit per draft year)",no fit population (2008 class)
+tc_resid_age_porpag,porpag minus the cubic age-curve expectation at his season-F age,"cubic age curve fit on D1 player-seasons with year < Y and Min_per >= 40 (expanding, refit per draft year)",no fit population (2008 class)
+tc_z_age_porpag,tc_resid_age_porpag divided by the residual sd of the fit population,"cubic age curve fit on D1 player-seasons with year < Y and Min_per >= 40 (expanding, refit per draft year)",no fit population (2008 class)
+tc_tm_bpm_mw,"minutes-weighted mean BPM of his season-F teammates, leave-one-out","final pre-draft season F (F <= Y); complete in April, the draft is in June or later",never empty for a matched row
+tc_tm_usg_mw,"minutes-weighted mean usage of his season-F teammates, leave-one-out","final pre-draft season F (F <= Y); complete in April, the draft is in June or later",never empty for a matched row
+tc_tm_bpm_max,best teammate BPM among teammates with Min_per >= 20,"final pre-draft season F (F <= Y); complete in April, the draft is in June or later",no other rotation teammate
+tc_tm_top2_bpm_mean,mean BPM of his two best rotation teammates (Min_per >= 20),"final pre-draft season F (F <= Y); complete in April, the draft is in June or later",fewer than two other rotation teammates
+tc_tm_recrank_best,best (lowest) decoded high-school recruiting rank among teammates,"final pre-draft season F (F <= Y); complete in April, the draft is in June or later",no ranked recruit among teammates
+tc_tm_n_top100_recruits,number of teammates with a decoded recruiting rank <= 100 (0 is observed),"final pre-draft season F (F <= Y); complete in April, the draft is in June or later",never empty for a matched row
+tc_bpm_share,"own minutes * max(bpm,0) divided by the team total of the same quantity","final pre-draft season F (F <= Y); complete in April, the draft is in June or later",team has no positive-BPM minutes
+tc_usg_share,own minutes * usg divided by the team total (share of possessions used),"final pre-draft season F (F <= Y); complete in April, the draft is in June or later",never empty for a matched row
+tc_pts_share,own pts*GP divided by the team total pts*GP,"final pre-draft season F (F <= Y); complete in April, the draft is in June or later",never empty for a matched row
+tc_ast_share,own ast*GP divided by the team total ast*GP,"final pre-draft season F (F <= Y); complete in April, the draft is in June or later",team recorded no assists
+tc_porpag_share,"own max(porpag,0) divided by the team total","final pre-draft season F (F <= Y); complete in April, the draft is in June or later",team has no positive porpag
+tc_team_talent_hhi,Herfindahl index of the roster's positive-BPM minutes shares (talent concentration),"final pre-draft season F (F <= Y); complete in April, the draft is in June or later",team has no positive-BPM minutes
+tc_team_bpm_sum,"5 * minutes-weighted mean of max(bpm,0): positive BPM of the five men on the floor","final pre-draft season F (F <= Y); complete in April, the draft is in June or later",never empty for a matched row
+tc_team_adjoe_mean,"roster adjusted offensive rating, minutes-weighted mean","final pre-draft season F (F <= Y); complete in April, the draft is in June or later",never empty for a matched row
+tc_team_adrtg_mean,"roster adjusted defensive rating, minutes-weighted mean","final pre-draft season F (F <= Y); complete in April, the draft is in June or later",never empty for a matched row
+tc_team_n_players,roster size (player-seasons on the team in season F),"final pre-draft season F (F <= Y); complete in April, the draft is in June or later",never empty for a matched row
+tc_conf_strength_prior,minutes-weighted mean tc_team_bpm_sum in season F-1 of the teams that form his conference in F,season F-1,no member team has a season F-1 (2008)
+tc_conf_strength_same,minutes-weighted mean tc_team_bpm_sum of his conference in season F,"final pre-draft season F (F <= Y); complete in April, the draft is in June or later",never empty for a matched row
+tc_team_games,"team games played in season F (D1 opponents only, Torvik's universe)",team-game rows of season F (getgamestats),never empty for a matched row
+tc_team_wins,team wins in season F,team-game rows of season F (getgamestats),never empty for a matched row
+tc_team_losses,team losses in season F,team-game rows of season F (getgamestats),never empty for a matched row
+tc_team_win_pct,team win percentage in season F,team-game rows of season F (getgamestats),never empty for a matched row
+tc_team_barthag,"team end-of-season Barthag power rating, read off the opponent-rating field of other teams' rows",team-game rows of season F (getgamestats),never empty for a matched row
+tc_team_barthag_rank,rank of tc_team_barthag among all D1 teams in season F (1 = best),team-game rows of season F (getgamestats),never empty for a matched row
+tc_team_opp_barthag_mean,mean Barthag of the opponents his team played in season F (schedule strength),team-game rows of season F (getgamestats),never empty for a matched row
+tc_team_neutral_share,share of his team's season-F games played at a neutral site,team-game rows of season F (getgamestats),never empty for a matched row
+tc_ncaa_games,NCAA tournament games his team played in season F (0 is observed for a team that missed it),team-game rows of season F (getgamestats),no bracket that season (2020)
+tc_ncaa_wins,NCAA tournament wins in season F,team-game rows of season F (getgamestats),no bracket that season (2020)
+tc_final_four,1 if his team played in the national semifinals of season F,team-game rows of season F (getgamestats),no bracket that season (2020)
+tc_champion,1 if his team won the season-F national championship,team-game rows of season F (getgamestats),no bracket that season (2020)
+tc_conf_tourn_games,conference-tournament games his team played in season F,team-game rows of season F (getgamestats),never empty for a matched row
+tc_conf_tourn_wins,conference-tournament wins in season F,team-game rows of season F (getgamestats),never empty for a matched row
+tc_ncaa_made,1 if his team reached the NCAA tournament in season F,team-game rows of season F (getgamestats),no bracket that season (2020)
+tc_ncaa_wins_expected,"expected NCAA wins for a team of his team's Barthag rank, cubic in log(rank) fit on tournament teams of seasons < Y",fit on seasons < Y only; evaluated on season F,"team did not reach the tournament, or no fit population"
+tc_ncaa_wins_resid,tc_ncaa_wins minus tc_ncaa_wins_expected: over/under-performance of seeding expectation (seeds themselves are not in the export),fit on seasons < Y only; evaluated on season F,"team did not reach the tournament, or no fit population"
+tc_gp_share_final,his season-F games played divided by his team's season-F games,"final pre-draft season F (F <= Y); complete in April, the draft is in June or later + team-game rows of season F (getgamestats)",never empty for a matched row
+tc_gp_share_career,sum of his games played over seasons <= F divided by the sum of his teams' games,own Torvik seasons with year <= F + team games,never empty for a matched row
+tc_gp_share_min,smallest single-season value of games played / team games over seasons <= F,own Torvik seasons with year <= F + team games,never empty for a matched row
+tc_n_seasons,number of his Torvik D1 seasons with year <= F,own Torvik seasons with year <= F,never empty for a matched row
+tc_seasons_span,"F minus his first Torvik season, plus one",own Torvik seasons with year <= F,never empty for a matched row
+tc_missing_season,tc_seasons_span minus tc_n_seasons: whole D1 seasons missing inside his career window (redshirt / injury / transfer sit-out proxy),own Torvik seasons with year <= F,never empty for a matched row
+tc_missing_season_same_school,1 when a missing season sits between two seasons at the same school (redshirt / season-ending injury proxy),own Torvik seasons with year <= F,never empty for a matched row
+tc_team_games_final,his team's season-F game count (denominator of tc_gp_share_final),team-game rows of season F (getgamestats),never empty for a matched row
+tc_slope_bpm,"minutes-weighted least-squares slope of bpm per season across his seasons <= F, shrunk n/(n+2) toward the mean raw slope of earlier draft classes",own Torvik seasons with year <= F; shrinkage population is draft classes < Y,fewer than two seasons with the stat
+tc_slope_usg,"minutes-weighted least-squares slope of usg per season across his seasons <= F, shrunk n/(n+2) toward the mean raw slope of earlier draft classes",own Torvik seasons with year <= F; shrinkage population is draft classes < Y,fewer than two seasons with the stat
+tc_slope_ts,"minutes-weighted least-squares slope of TS_per per season across his seasons <= F, shrunk n/(n+2) toward the mean raw slope of earlier draft classes",own Torvik seasons with year <= F; shrinkage population is draft classes < Y,fewer than two seasons with the stat
+tc_slope_ast,"minutes-weighted least-squares slope of AST_per per season across his seasons <= F, shrunk n/(n+2) toward the mean raw slope of earlier draft classes",own Torvik seasons with year <= F; shrinkage population is draft classes < Y,fewer than two seasons with the stat
+tc_slope_stl,"minutes-weighted least-squares slope of stl_per per season across his seasons <= F, shrunk n/(n+2) toward the mean raw slope of earlier draft classes",own Torvik seasons with year <= F; shrinkage population is draft classes < Y,fewer than two seasons with the stat
+tc_slope_blk,"minutes-weighted least-squares slope of blk_per per season across his seasons <= F, shrunk n/(n+2) toward the mean raw slope of earlier draft classes",own Torvik seasons with year <= F; shrinkage population is draft classes < Y,fewer than two seasons with the stat
+tc_slope_minper,"minutes-weighted least-squares slope of Min_per per season across his seasons <= F, shrunk n/(n+2) toward the mean raw slope of earlier draft classes",own Torvik seasons with year <= F; shrinkage population is draft classes < Y,fewer than two seasons with the stat
+tc_bpm_accel,(bpm_F - bpm_F-1) - (bpm_F-1 - bpm_F-2): second difference of BPM,own Torvik seasons with year <= F,fewer than three seasons
+tc_first_bpm,BPM in his first Torvik D1 season,own Torvik seasons with year <= F,never empty for a matched row
+tc_first_age,age (Jan 15) in his first Torvik D1 season,own Torvik seasons with year <= F,never empty for a matched row
+tc_first_min_per,minutes share in his first Torvik D1 season (precocity of the role he was given),own Torvik seasons with year <= F,never empty for a matched row
+tc_first_usg,usage in his first Torvik D1 season,own Torvik seasons with year <= F,never empty for a matched row
+tc_bpm_first_to_last,BPM in season F minus BPM in his first season,own Torvik seasons with year <= F,never empty for a matched row
+tc_freshman_bpm_age_z,age-adjusted z-score of his first-season BPM on the class-Y age curve,"cubic age curve fit on D1 player-seasons with year < Y and Min_per >= 40 (expanding, refit per draft year)",no fit population (2008 class)
+tc_ft_shrunk,career FT% over seasons <= F shrunk to a beta prior fitted on his role's player-seasons with year < Y and >= 20 attempts,prior fitted on year < Y; own attempts from seasons <= F,"no FT attempts, or no prior seasons (2008 class)"
+tc_ft_shrunk_n,career free-throw attempts over seasons <= F (sample size behind tc_ft_shrunk),own Torvik seasons with year <= F,never empty for a matched row
+tc_3p_shrunk,career 3P% over seasons <= F shrunk to the same kind of role beta prior,prior fitted on year < Y; own attempts from seasons <= F,"no 3P attempts, or no prior seasons (2008 class)"
+tc_3p_shrunk_n,career three-point attempts over seasons <= F,own Torvik seasons with year <= F,never empty for a matched row
+tc_ft_minus_3p,tc_ft_shrunk minus tc_3p_shrunk (latent-shooting hint),as above,either shrunk percentage missing
+tc_dunks_per40,dunks made per 40 minutes in season F,"final pre-draft season F (F <= Y); complete in April, the draft is in June or later",no shot-location data (Torvik seasons 2008-09)
+tc_dunk_att_per40,dunks attempted per 40 minutes in season F,"final pre-draft season F (F <= Y); complete in April, the draft is in June or later",no shot-location data (Torvik seasons 2008-09)
+tc_dunk_pct,dunks made / dunks attempted in season F,"final pre-draft season F (F <= Y); complete in April, the draft is in June or later",no dunk attempts or no shot-location data
+tc_tpa_per100,three-point attempts per 100 team possessions in season F (not present in the tv_ block),"final pre-draft season F (F <= Y); complete in April, the draft is in June or later",never empty for a matched row
+tc_rim_att_per40,shots attempted at the rim per 40 minutes in season F,"final pre-draft season F (F <= Y); complete in April, the draft is in June or later",no shot-location data (Torvik seasons 2008-09)
+tc_pts_per40,points per 40 minutes in season F,"final pre-draft season F (F <= Y); complete in April, the draft is in June or later",never empty for a matched row
+tc_pts40_resid_usg_ts,points per 40 minus its same-season OLS prediction from usage and true shooting (scoring beyond what his volume and efficiency imply),same-season D1 population with Min_per >= 40; season F is complete on draft night,stat missing or season population too small
+tc_ts_resid_usg,true shooting minus its same-season OLS prediction from usage (efficiency held at his volume),same-season D1 population with Min_per >= 40; season F is complete on draft night,stat missing or season population too small

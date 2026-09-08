@@ -1,0 +1,44 @@
+rows in features.csv: 2560   feature columns: 36
+
+COVERAGE (non-missing count / rows, and mean of non-missing) BY DRAFT-YEAR BAND
+feature                                      2000-07           2008-18           2019-25              2026               all
+wk_has_article                      0.960   100%   0.874   100%   0.959   100%   1.000   100%   0.927   100% 
+wk_article_identity_ok              0.979    96%   0.989    87%   0.987    96%   1.000   100%   0.986    93% 
+wk_has_predraft_rev                 0.179    94%   0.832    86%   0.885    95%   0.967   100%   0.702    91% 
+wk_nba_relative                     0.046    94%   0.084    86%   0.079    95%   0.016   100%   0.071    91% 
+wk_nba_relative_seasons_pre_draft       547    94%       879    86%       852    95%        61   100%      2339    91% 
+wk_n_relatives_pro_any_sport            547    94%       879    86%       852    95%        61   100%      2339    91% 
+wk_relative_is_parent               0.020    94%   0.043    86%   0.033    95%   0.016   100%   0.033    91% 
+wk_relative_is_sibling              0.009    94%   0.022    86%   0.020    95%   0.000   100%   0.018    91% 
+wk_hs_multisport                    0.065    55%   0.078    73%   0.162    88%   0.105    93%   0.112    75% 
+wk_hs_football                      0.028    55%   0.030    73%   0.089    88%   0.035    93%   0.054    75% 
+wk_hs_track                         0.012    55%   0.015    73%   0.014    88%   0.000    93%   0.014    75% 
+wk_n_hs_sports                          323    55%       739    73%       794    88%        57    93%      1913    75% 
+wk_prep_year                        0.046    94%   0.135    86%   0.160    95%   0.098   100%   0.122    91% 
+wk_reclassified                     0.000    94%   0.020    86%   0.050    95%   0.033   100%   0.027    91% 
+wk_reclass_direction                  nan     0%  -0.333     0%   1.000     0%     nan     0%   0.333     0% 
+wk_juco                             0.077    94%   0.053    86%   0.039    95%   0.033   100%   0.053    91% 
+wk_n_colleges                           427    73%       766    75%       759    84%        56    92%      2008    78% 
+wk_transferred                      0.154    94%   0.162    86%   0.306    95%   0.492   100%   0.221    91% 
+wk_hs_transferred                   0.111    55%   0.162    73%   0.277    88%   0.298    93%   0.205    75% 
+wk_hs_class_year                        411    71%       746    73%       743    83%        55    90%      1955    76% 
+wk_hs_class_year_src                    411    71%       746    73%       743    83%        55    90%      1955    76% 
+wk_cohort_offset_days                    31     5%       129    13%        63     7%         6    10%       229     9% 
+wk_reclass_up_flag                  0.161     5%   0.271    13%   0.381     7%   0.167    10%   0.284     9% 
+wk_reclass_down_flag                0.065     5%   0.054    13%   0.143     7%   0.000    10%   0.079     9% 
+wk_years_hs_to_draft                    411    71%       746    73%       743    83%        55    90%      1955    76% 
+wk_birthdate_src                         31     5%       129    13%        63     7%         6    10%       229     9% 
+wk_birth_country_id                     545    94%       878    86%       837    93%        61   100%      2321    91% 
+wk_born_outside_usa                 0.246    94%   0.212    86%   0.234    93%   0.246   100%   0.229    91% 
+wk_birth_state_id                       411    71%       691    68%       640    71%        46    75%      1788    70% 
+wk_left_handed                      1.000     0%   0.909     1%   1.000     1%     nan     0%   0.947     1% 
+wk_inj_sev3                         0.010    17%   0.037    72%   0.012    84%   0.051    97%   0.024    64% 
+wk_inj_sev2                         0.082    17%   0.086    72%   0.101    84%   0.102    97%   0.093    64% 
+wk_inj_sev1                         0.041    17%   0.057    72%   0.094    84%   0.119    97%   0.076    64% 
+wk_n_surgeries                           98    17%       731    72%       754    84%        59    97%      1642    64% 
+wk_inj_recency_seasons                   11     2%        94     9%       127    14%        12    20%       244    10% 
+wk_inj_any                          0.112    17%   0.129    72%   0.168    84%   0.203    97%   0.149    64% 
+
+(count shown for count-type features, mean shown for 0/1 flags; % = non-missing share)
+
+players per band: 2000-07=582, 2008-18=1017, 2019-25=900, 2026=61

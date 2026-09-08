@@ -3,3 +3,10 @@ __pycache__/
 *.pyc
 .DS_Store
 nohup.out
+novel/*/raw/
+novel/*/raw*/
+novel/draftexpress_onepage/
+novel/**/*.html
+novel/**/*.parquet
+novel/**/*.gz
+novel/**/*.zip
